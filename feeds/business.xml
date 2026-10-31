@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Binance says 90% of stolen assets replenished, targets Sunday withdrawals</title>
+<link>https://cointelegraph.com/news/binance-hack-90-percent-replenished</link>
+<guid isPermaLink="false">f996888223ac2aea57fd738d568f9e75e876bcf827ec63d0985dd57075ae90ce</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sat, 31 Oct 2026 15:36:01 +0000</pubDate>
+<description>Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png" medium="image"/>
+</item>
+<item>
 <title>Bitcoin held up better than expected after Binance hack, Strive CEO says</title>
 <link>https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo</link>
 <guid isPermaLink="false">01410511dc464bb6a629c67dc85a1e52fccb3b4db9debe429b7834b4a0f6eb9e</guid>
@@ -761,17 +772,6 @@
 <description>Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Public companies double share of blockchain revenue since 2022: Report</title>
-<link>https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report</link>
-<guid isPermaLink="false">0a319f162756cd3871eb53df1e2085283cafba6fe1937cce37812ba94c210193</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 19:53:14 +0000</pubDate>
-<description>A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg" medium="image"/>
 </item>
 <item>
 <title>Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms</title>

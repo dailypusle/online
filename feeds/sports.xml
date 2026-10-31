@@ -4,48 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>NBA season live updates: Latest news as Saturday's games tip off</title>
-<link>https://www.nytimes.com/athletic/live-blogs/nba-cup-scores-season-games-schedule/8uid2umpFT0Q</link>
-<guid isPermaLink="false">b2e185c5c3261105d1e3b6687d7add8e53a052b0eb95be554b968f9a44876b85</guid>
-<source>The Athletic Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:45:26 +0000</pubDate>
-<description>Follow along for all the latest as the 2026-27 NBA season stretches into its second week.</description>
-<enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/8uid2umpFT0Q_KJqgiVOrkjJV_1440x995.jpg" type="image/jpeg"/>
-<media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/8uid2umpFT0Q_KJqgiVOrkjJV_1440x995.jpg" medium="image"/>
-</item>
-<item>
-<title>F1 Mexico GP live updates: Follow latest from Qualifying and FP3 today</title>
-<link>https://www.nytimes.com/athletic/live-blogs/f1-mexico-gp-live-updates-qualifying-fp3-times-results-antonelli/QnSWfP2DPAq4</link>
-<guid isPermaLink="false">86ebbe5c0aacf14a1bef3616c30c86fafcbf340b713eb6b3793fca36d545b523</guid>
-<source>The Athletic Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:45:07 +0000</pubDate>
-<description>Follow live with FP3 and qualy on the way from Mexico City today.</description>
-<enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/QnSWfP2DPAq4_AICZFzzdNrQN_1440x960.jpg" type="image/jpeg"/>
-<media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/QnSWfP2DPAq4_AICZFzzdNrQN_1440x960.jpg" medium="image"/>
-</item>
-<item>
-<title>Premier League live scores: Aston Villa lead Fulham after Tottenham ease past Crystal Palace</title>
-<link>https://www.nytimes.com/athletic/live-blogs/premier-league-live-updates-scores-results-news/waBPQKuZUQce</link>
-<guid isPermaLink="false">225afa6ce8d5ca291d285bb75cfd3fcd5a0cb4242a2745afdddc050f2682ad8a</guid>
-<source>The Athletic Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:44:39 +0000</pubDate>
-<description>Follow live as a busy Premier League Saturday concludes at Villa Park.</description>
-<enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/waBPQKuZUQce_WoPwKogjyFpW_1440x960.jpg" type="image/jpeg"/>
-<media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/waBPQKuZUQce_WoPwKogjyFpW_1440x960.jpg" medium="image"/>
-</item>
-<item>
-<title>Florida vs. Georgia score, live updates: Gunner Stockton, Bulldogs on top of Gators in second quarter</title>
+<title>Florida vs. Georgia score, live updates: Bulldogs crushing rival Gators at halftime</title>
 <link>https://www.nytimes.com/athletic/live-blogs/florida-vs-georgia-live-updates-college-football-score-result/EaReDJFmX50U</link>
 <guid isPermaLink="false">b5d9f9ec4dcff043350d98bedb696b6cc0da523ffad5ba00bf5588e984923602</guid>
 <source>The Athletic Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:43:30 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 21:41:54 +0000</pubDate>
 <description>Follow our live coverage of today's matchup between the Florida Gators and Georgia Bulldogs in Atlanta.</description>
-<enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/EaReDJFmX50U_vlCu6cilohvN_1440x960.jpg" type="image/jpeg"/>
-<media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/EaReDJFmX50U_vlCu6cilohvN_1440x960.jpg" medium="image"/>
+<enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/EaReDJFmX50U_2XPr1oWCJS6A_1440x962.jpg" type="image/jpeg"/>
+<media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/EaReDJFmX50U_2XPr1oWCJS6A_1440x962.jpg" medium="image"/>
+</item>
+<item>
+<title>Premier League live scores: Aston Villa level with Fulham after Tottenham ease past Crystal Palace</title>
+<link>https://www.nytimes.com/athletic/live-blogs/premier-league-live-updates-scores-results-news/waBPQKuZUQce</link>
+<guid isPermaLink="false">225afa6ce8d5ca291d285bb75cfd3fcd5a0cb4242a2745afdddc050f2682ad8a</guid>
+<source>The Athletic Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:41:53 +0000</pubDate>
+<description>Follow live as a busy Premier League Saturday concludes at Villa Park.</description>
+<enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/waBPQKuZUQce_Rf4Z0uFPSjCR_1440x960.jpg" type="image/jpeg"/>
+<media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/waBPQKuZUQce_Rf4Z0uFPSjCR_1440x960.jpg" medium="image"/>
 </item>
 <item>
 <title>Canelo vs. Mbilli live updates: Results, main event start time and our fight predictions</title>
@@ -53,98 +31,131 @@
 <guid isPermaLink="false">962074f0c2b3abdcb39b16e31e26d580ab57fe25b681b2612b5a06a646d11edb</guid>
 <source>The Athletic Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:42:38 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 21:41:53 +0000</pubDate>
 <description>Follow live as Canelo looks to reclaim the WBC super middleweight title he lost to Terence Crawford last year.</description>
 <enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/7IwORGWa2bAA_dMsj4Dq8quSd_1440x960.jpg" type="image/jpeg"/>
 <media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/7IwORGWa2bAA_dMsj4Dq8quSd_1440x960.jpg" medium="image"/>
 </item>
 <item>
-<title>UConn women’s basketball expects all injured players back for Cornell opener</title>
-<link>https://sports.yahoo.com/articles/uconn-women-basketball-expects-injured-203837079.html</link>
-<guid isPermaLink="false">9f72308c6c6bd17b17c9d5e6099c13b1a0b2534ae8a431e9f47cfdd1dbe6b8c6</guid>
-<source>Yahoo Sports</source>
+<title>F1 Mexico GP live updates: Follow latest from Qualifying and FP3 today</title>
+<link>https://www.nytimes.com/athletic/live-blogs/f1-mexico-gp-live-updates-qualifying-fp3-times-results-antonelli/QnSWfP2DPAq4</link>
+<guid isPermaLink="false">86ebbe5c0aacf14a1bef3616c30c86fafcbf340b713eb6b3793fca36d545b523</guid>
+<source>The Athletic Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:38:37 +0000</pubDate>
-<description>STORRS — The UConn women’s basketball team appears to be getting healthy just in time for the season opener, with all three of its injured players expected to be available for Monday’s game against Cornell . Blanca Quiñonez (shoulder) and Marine Dursus (foot) sat out all three exhibition games , and Morgan Cheli (undisclosed) played in only one of them. UConn's exhibition takeaways: What we learned about UConn women’s basketball in three exhibition games UConn vs Army: UConn women's basketball vs Army | Huskies rout Knights in final exhibition game Coach Geno Auriemma said all three were back at practice, and he expects each of them to see the floor. “Fortunately, today was actually the first day that every single kid on the roster practiced,” Auriemma said after Saturday’s practice in Storrs. “So, that’s a good thing.” Quiñonez is expected to be a big piece for the Huskies this season. The sophomore forward from Ecuador is the reigning Big East Freshman and Sixth Woman of the Year after averaging 10.7 points, 3.1 rebounds, 2.1 assists and 2.0 steals per game. #UConn coach Geno Auriemma said finding out his team’s identity will be a big part of Monday’s opener: pic.twitter.com/Da6tUSoxk2 — Nathan Canilao (@nathancanilao) October 31, 2026 Cheli, a redshirt sophomore, missed all of last season with an ankle injury. She played 24 games off the bench as a true freshman. Dursus is healing from a foot injury she has dealt with since coming over from France. She is a highly touted international player, who played for La Boulangère Wonderligue — the top women’s basketball league in France — for four seasons. “Just super excited to have Blanca, Marine and maybe Morgan,” UConn forward Sarah Strong said. “Just happy to play with them.” Auriemma noted that not all players were full participants, but he is expecting that each will be available in some capacity. “Not 100% full (participants), but they were all there, and they all did something, and some did more than others,” Auriemma said. “But again, I'm expecting everyone to be available for at least something.” Auriemma said he is not sure what to expect from the three on Monday, especially after the time Quiñonez has missed. “Let’s take Blanca, for example. No matter how many minutes she plays, it’s gonna look whatever, and you’ve got to be prepared for whatever,” Auriemma said. “You haven’t touched a basketball on the court for six months. That’s a long time to be away from the game. Same with Marine. You don’t know what you’re gonna get. Same with Morgan Cheli. You don’t know what you’re going to get. So, hopefully, whatever they can give us will be a start to what’s coming after Monday.” This article originally appeared on The Bulletin: UConn women’s basketball expects all injured players back for Cornell opener</description>
-<enclosure url="https://media.zenfs.com/en/the-bulletin/99153285c8573cacef970c215fe9fc69.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/the-bulletin/99153285c8573cacef970c215fe9fc69.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:41:48 +0000</pubDate>
+<description>Follow live with FP3 and qualifying on the way from Mexico City today.</description>
+<enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/QnSWfP2DPAq4_573VkmedGPsz_1440x959.jpg" type="image/jpeg"/>
+<media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/QnSWfP2DPAq4_573VkmedGPsz_1440x959.jpg" medium="image"/>
 </item>
 <item>
-<title>Rashee Rice Returns For Chiefs As Broncos Clash Looms On Sunday</title>
-<link>https://sports.yahoo.com/articles/rashee-rice-returns-chiefs-broncos-203707763.html</link>
-<guid isPermaLink="false">dfa30420e2231cfd18567f80adb497035723f472e4d15347e365c626daef6f46</guid>
-<source>Yahoo Sports</source>
+<title>Chelsea were heading towards a mini-crisis. Then Man United came to town</title>
+<link>https://www.nytimes.com/athletic/7741164/2026/10/31/chelsea-man-united-alonso-analysis</link>
+<guid isPermaLink="false">d2ccc0d2a1f5133dee4f9c5e24840560d6c243c0017db44410ece9d03f207bb3</guid>
+<source>The Athletic Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:37:07 +0000</pubDate>
-<description>Nathan Ray Seebeck-Imagn Images Sunday’s matchup versus the Denver Broncos should see Rashee Rice, Kansas City Chiefs’ leading receiver, back in the starting lineup. He missed the last two weeks with a strained right hamstring but practiced fully this week. Head coach Andy Reid confirmed the team expects him to play. The return gives the Chiefs an additional offensive weapon immediately. Without Rice, the Chiefs offense struggled to find its rhythm. Quarterback Patrick Mahomes did not throw a touchdown pass in the last two games. The other receivers combined for just six catches and 39 yards in the loss to the Seahawks. Rice brings 190 yards and a touchdown from his first four games back to the mix. His presence forces defenses to respect the middle of the field. The Numbers Behind the Return Rice has 13 receptions on 16 targets through four games this season. That is a high efficiency rate that shows he is a trusted target for Mahomes. The team has missed his ability to win physical battles in coverage. Patrick Mahomes noted the specific value Rice adds to the scheme. Mahomes remarked on Wednesday that Rice is “such a physical receiver.” “He does a great job within the zone concepts at getting himself open, as well as being physical versus man [coverage].” Last week’s defeat to the Seahawks saw the Chiefs’ receiver group, featuring Xavier Worthy and rookie Cyrus Allen, tally only six catches for 39 yards. Rice’s return adds a proven target who can make plays after the catch. This gives Mahomes a safety valve in tight coverage situations. Defensive Uncertainty Remains While the offense gains a key player, the defense faces questions. Right shoulder issues caused rookie cornerback Mansoor Delane to skip practice on both Thursday and Friday. Just three plays into the season-opening victory over the Broncos, he worsened that very same injury. That game saw him leave early, and he subsequently sat out the next week’s contest against the Indianapolis Colts. Delane’s injury history is concerning given his role. He sustained a hairline fracture in his scapula during the offseason, causing him to miss the Chiefs’ mandatory minicamp in June. His status for Sunday is unclear. “We’ll just see how he does here going forward,” Reid said of Delane, according to ESPN . Despite the injury, Delane showed promise when healthy. During the opener, his coverage performance against receiver Courtland Sutton was outstanding while he was on the field. This led to him intercepting quarterback Bo Nix’s intermediate pass. His absence leaves a gap in the secondary that the Broncos will try to exploit. Defensive end R Mason Thomas, another rookie, also sat out Friday’s practice due to a personal matter. However, Reid expects him to play against the Broncos. “He’ll meet us there in Denver,” Reid said of Thomas. Why Usage Trumps Hype The Chiefs need Rice to be a reliable option, not just a highlight reel play. Rice has been targeted 16 times in four games. That volume is the k</description>
-<enclosure url="https://media.zenfs.com/en/gameday_times_324/85b03d7f70ac35aa797c5fd106872c5a.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/gameday_times_324/85b03d7f70ac35aa797c5fd106872c5a.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:41:05 +0000</pubDate>
+<description>After a turbulent week for Xabi Alonso's side, facing a stumbling United side came at exactly the right time</description>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31173123/GettyImages-2302324928.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31173123/GettyImages-2302324928.jpg" medium="image"/>
 </item>
 <item>
-<title>Ranking top 3 Chiefs most likely to be dealt at 2026 NFL trade deadline</title>
-<link>https://sports.yahoo.com/articles/ranking-top-3-chiefs-most-203442265.html</link>
-<guid isPermaLink="false">772273477292a0a37090980a3d06f0ed3abb8f85299cd7ab688035a6e70bfc10</guid>
+<title>WNBA Finals proves fans tough it out even as leagues don't deserve them</title>
+<link>https://sports.yahoo.com/articles/wnba-finals-proves-fans-tough-214055008.html</link>
+<guid isPermaLink="false">b417a59167e75bec2a547d6cea57b5f93b0aa5242a2b1b2065733264ac0b970d</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:34:42 +0000</pubDate>
-<description>Denny Medley-Imagn Images Ranking top 3 Chiefs most likely to be dealt at 2026 NFL trade deadline appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here . The Kansas City Chiefs have reportedly spent weeks exploring the wide receiver market as they approach the November 10 trade deadline. With Rashee Rice recovering from a hamstring injury and Tyquan Thornton sidelined, general manager Brett Veach is actively seeking additional support for quarterback Patrick Mahomes . The need for improved receiving options became evident during Kansas City’s 20-3 loss to Seattle, where the passing attack struggled to produce meaningful yardage. Acquiring another receiver would help address a clear weakness in the team’s offense. However, the Chiefs must also consider what they can offer in exchange. As a contender in the AFC, Veach is unlikely to give up valuable draft capital without assessing which players on the current roster could serve as useful trade assets. There are three particularly interesting possibilities for trade. Watch sports LIVE with fuboTV (free trial) 3. Justin Fields Denny Medley-Imagn Images Justin Fields arrived in Kansas City under unusual circumstances. The Chiefs acquired him from the New York Jets in March, giving up a sixth-round selection in the 2027 draft to secure an experienced backup while Patrick Mahomes continued recovering from a serious knee injury he sustained late in 2025. Initially, the arrangement made sense for both parties. Fields had struggled to establish himself as a reliable NFL starter, but his mobility and past starting experience offered Kansas City an alternative to relying solely on an inexperienced backup. Financially, the deal also favored the Chiefs. New York agreed to cover most of Fields’ guaranteed compensation, leaving Kansas City responsible for approximately $3 million in 2026. Fields has remained behind Mahomes on the depth chart, limiting his opportunities to showcase whether working with head coach Andy Reid could revive his career as a starting quarterback. This situation could become relevant as the trade deadline approaches, as several teams are grappling with inconsistent quarterback play or uncertainty about their long-term options. A team in search of a temporary starter might prefer Fields over an inexperienced player who has never managed an NFL offense. He has started games for multiple organizations, understands the physical demands of the position, and offers rushing ability that can help offset some limitations in his passing game. For Kansas City, trading Fields could provide the chance to recover the draft pick spent on acquiring him, potentially supplying another asset for negotiations involving a receiver. Additionally, the Chiefs selected Garrett Nussmeier in the seventh round of the 2026 draft, giving the organization a developmental quarterback who could eventually take on greater responsibility. However, the challenge of moving Fields lies in t</description>
-<enclosure url="https://media.zenfs.com/en/clutchpoints_articles_939/c4161090faedf158fda2ec285fb21dd5.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/clutchpoints_articles_939/c4161090faedf158fda2ec285fb21dd5.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:40:55 +0000</pubDate>
+<description>Atlanta Dream's Angel Reese, right, looks to pass past Golden State Valkyries' Kaitlyn Chen during the first half of Game 6 of the WNBA basketball finals on Thursday, Oct. 29, 2026, in Atlanta. (AP Photo/Brynn Anderson) (Brynn Anderson/Associated Press) The fans found a way. In the middle of a workday, with less than a week's notice, they packed an arena in Atlanta on Thursday, and over breakfast on the other side of the continent they packed a bunch of sports bars, too. No matter how hard those in charge might make it sometimes, lots of folks choose to love the game anyway. Whether the game deserves them or not. This is in part about the WNBA Finals, which soared in popularity despite the baffling ineptitude of the people running them, but it's about much more than that. In the days and weeks leading up to the Atlanta Dream being forced to play a matinee to push the Golden State Valkyries to Saturday night's Game 7, we saw the following developments in other sports: The Milwaukee Brewers, an all-time great team providing a long-suffering fan base with an all-time great moment, prevailed in a feel-good World Series about to give way to what figures to be yet another of Major League Baseball's messy work stoppages . The NBA, continuing to sell both its soul and the financial security of its fan base to the sports gambling industry, added a pair of prediction markets to its list of betting partnerships, all under the guise of "protecting the integrity of the game." The College Football Playoff, looking out for the job security of administrators and coaches more than the interest of either players or viewers, made a move toward expanding toward a 24-team format that almost nobody seems to want . And the NFL kept finding ways to employ players accused of disturbing off-the-field transgressions , even while horrific new alleged details kept emerging about a running back who'd just been cleared to return . It shouldn't be this difficult. It shouldn't be this exhausting. Following your favorite team shouldn't be an exercise in being told, again and again, that your opinion and your scruples and your convenience and your wallet don't matter. Fans watch as players are introduced before Game 6 of the WNBA Finals between the Golden State Valkyries and the Atlanta Dream at State Farm Arena, Thursday, Oct. 29, 2026, in Atlanta, Ga. (Stephen Lam/San Francisco Chronicle via AP) (Stephen Lam/Associated Press) A lack of planning by the people in charge means a potentially title-clinching Game 6 of the WNBA Finals will tip off at 9:30 a.m. on a weekday in the home city of the potential champions? Deal with it. A never-ending string of betting promotions means you can't even watch a game anymore without being repeatedly reminding that your team wants you to lose your paycheck? Deal with it. The auction of broadcast rights to every streaming service known to man means you need to keep a half-dozen subscriptions to watch the team you've been following for a half-cent</description>
+<enclosure url="https://media.zenfs.com/en/san_antonio_express_news_hearst_574/956f9b06a70784ff0863c70ac1c915b2.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/san_antonio_express_news_hearst_574/956f9b06a70784ff0863c70ac1c915b2.jpg" medium="image"/>
 </item>
 <item>
-<title>Undefeated Bethlehem earns Section 2 Class AA boys' soccer championship</title>
-<link>https://sports.yahoo.com/articles/undefeated-bethlehem-earns-section-2-203324279.html</link>
-<guid isPermaLink="false">2f562d0f41343de7a08b6957ec6ce3bac45e508df9ebabeabe361751fbc67544</guid>
-<source>Yahoo Sports</source>
+<title>Dream vs. Valkyries live updates: WNBA Finals Game 7 start time, how to watch and latest</title>
+<link>https://www.nytimes.com/athletic/live-blogs/dream-vs-valkyries-live-score-updates-wnba-finals-game-7-result/9MzDkCrG5Jdo</link>
+<guid isPermaLink="false">14512717a136dc5b67546507686b93f25e48d5c25b6caaf505b994b693ce6fd7</guid>
+<source>The Athletic Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:33:24 +0000</pubDate>
-<description>Bethlehem celebrates after beating Burnt Hills-Ballston Lake for the Section 2, Class AA title on Saturday, Oct. 31, 2026, at LaSalle Institute in Troy, NY. (Jim Franco/Times Union) (Jim Franco/Times Union) TROY - Not a single opponent has been able to find the blueprint to defeating the Bethlehem boys' soccer team this season. That continued through Saturday's Section 2 Class AA championship between Bethlehem and Burnt Hills-Ballston Lake, as the top-seeded Eagles remained unbeaten on the season and captured their second sectional title in three seasons by gutting out a 1-0 win over the No. 2 Spartans at La Salle Institute. "We've got a huge senior group, so, obviously, it's the last time for them. Doing this with them is a big deal," Bethlehem coach Brian Spina said. "It's my fourth year now as the head coach. I watch our younger teams constantly and, as they're coming up, you always hope for a team like this." "This is just an insane feeling," Bethlehem senior forward Ayaz Sajid said. "I've been playing with these guys forever and we all love each other. We all had the same goal in the beginning of the season and we were able to accomplish that." The game remained scoreless until Bethlehem senior midfielder Orson Wagg found the back of the net with 28:25 remaining. Senior defender Ian NeJame provided the assist. "I made sure to get a head on that one," Wagg said. "When I saw it in the air, I made sure to attack it and not just let it come to me. I think that taking that stance and just gambling … paid off - and, then, we scored." Key moment The Spartans appeared to draw even at 1-1 with 4:48 left to play, but their would-be goal was wiped out by an offside call. Bethlehem did not allow a goal in any of its Section 2 playoff games. Star of the game Wagg provided all the offense his team needed as he scored Bethlehem's first goal since October 22 in the Eagles' quarterfinal win over Amsterdam. Bethlehem had advanced to Saturday's final on penalty kicks against Niskayuna on Monday following a scoreless draw. "I'm happy for him, happy for the group," Spina said. "We worked hard. We talk a lot about patience and building into the next opportunity, so we had a couple in the first half we liked, but didn't quite execute. For him to go and finish like that in the second half was huge for us." Numbers to know 13: Shutouts the Bethlehem defense, paced by junior goalie Parker Mooney, has posted this season. 8: Consecutive wins Burnt Hills had earned entering Saturday. 5: Yellow cards that the teams combined to draw. What's next Bethlehem: The Eagles (16-0-2), ranked second in the state Class AA poll, will take on Section 3 champion Watertown (18-0), ranked No. 1 in the state, at 2 p.m. next Saturday at Waterford-Halfmoon High School. Burnt Hills: The Spartans, who were denied in their quest for their first sectional title since 2019 (Class A), wrapped up their season with an 11-5-2 showing. Subscribe There’s more to Albany with the Times Union. Subscribe</description>
-<enclosure url="https://media.zenfs.com/en/albany_times_union_471/9a78f8951639e711c4a3a3f348637c5f.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/albany_times_union_471/9a78f8951639e711c4a3a3f348637c5f.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:40:12 +0000</pubDate>
+<description>Follow our live coverage of the deciding game in the WNBA Finals between Atlanta and Golden State.</description>
+<enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/9MzDkCrG5Jdo_LLgfOSwZMrsy_1440x960.jpg" type="image/jpeg"/>
+<media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/9MzDkCrG5Jdo_LLgfOSwZMrsy_1440x960.jpg" medium="image"/>
 </item>
 <item>
-<title>What channel are Sixers on tonight? Will LeBron James play tonight?</title>
-<link>https://sports.yahoo.com/articles/channel-sixers-tonight-lebron-james-203313431.html</link>
-<guid isPermaLink="false">64d7db611c0d0f8ef2af86a23a91fadce2b675057628915ad8fa27b0ca381f00</guid>
-<source>Yahoo Sports</source>
+<title>Charlotte's Allan Saint-Maximin sent off for lewd gesture vs. Orlando</title>
+<link>https://www.nytimes.com/athletic/7742230/2026/10/31/allan-saint-maximin-lewd-gesture-red-card-mls</link>
+<guid isPermaLink="false">f230377c592fa3cb6c285e1219383c091718b26cf0c2581315c2258a81cc4a27</guid>
+<source>The Athletic Soccer</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:33:13 +0000</pubDate>
-<description>This is the reason the Philadelphia 76ers got LeBron James. After leading most of the game, Philadelphia were down late in the fourth quarter to the New York Knicks in an NBA Cup game on Oct. 30. But thanks to James and leading scorer Tyrese Maxey, the 76ers were able to prevailing with its second win over New York this season to improve to 5-1. Along with 27 points from Maxey and James' 20, Philly also got a boost off the bench from Anfernee Simons who had 21 points on 5-8 shooting from three. However, since it was the first of a back-to-back series, the Sixers will be without James and center Joel Embiid for a matchup with a Charlotte Hornets team that likely will be without its starting backcourt. Forward Jaylen Brown is also questionable with a knee injury. See the game time and potential lineups below. Sixers-Knicks highlights https://t.co/Di1xsTxNil pic.twitter.com/VZA3c0fY1A — Philadelphia 76ers (@sixers) October 31, 2026 https://t.co/7x10A2u8Zj pic.twitter.com/RToGYDs6LJ — Philadelphia 76ers (@sixers) October 31, 2026 3-4 from three for @AnferneeSimons 🫡 pic.twitter.com/e7v8GPVPRv — Philadelphia 76ers (@sixers) October 31, 2026 hot start in the 2nd half for Rese 🔥 some back2back buckets 🪣 pic.twitter.com/9cWWPrUqNp — Philadelphia 76ers (@sixers) October 31, 2026 Is LeBron James playing tonight? Since both played in the frontend of back-to-back games, James and Embiid will rest for the game against the Hornets. What time is Sixers game tonight? The Sixers-Hornets game will tipoff at 6 p.m. ET. What channel is the Sixers game tonight? The Sixers-Hornets game will be broadcast on nationally. Here's how to watch: TV: Prime NBA TV Streaming: Fubo Watch Philadelphia 76ers vs. Hornets on Fubo Projected Sixers starting lineup With James signing with Philadelphia, the Sixers have one of the most talented starting lineups in the NBA. Here's what it might look like tonight with Jaylen Brown out. Sixers potential starting lineup Tyrese Maxey, PG V.J. Edgecombe, SG Dean Wade, F Dean Wade, F Adem Bona, C Hornets projected starting lineup Hornets potential starting lineup Dennis Schroder, PG Sion James, SG Brandon Miller, SF Naz Reid, PF Moussa Diabate, C 76ers injury report Jaylen Brown: Questionable (knee) Tacko Fall: Questionable (quadriceps) Jabari Walker: Questionable (left knee soreness) LeBron James: Out (back management) Joel Embiid: Out (foot management) Dominick Barlow: Out (Likely to miss two weeks with lumbar spine bone stress response) Ariel Hukporti: Out for season (right Achilles tendon rupture/tear) Hornets injury report Coby White: Out (calf) Kon Knueppel: Questionable (hamstring) LeBron James Sixers jersey LeBron James jerseys are now available via the NBA's official retailer, Fanatics . They are for preorder only and will ship on or before Aug. 21. The "Swingman" jerseys cost $124.99, plus taxes and shipping. The "Fast Break" jerseys cost 74.99, plus taxes and shipping. Shop LeBron James Sixers jersey on Fanatics When are Sixers on na</description>
-<enclosure url="https://media.zenfs.com/en/delaware-online-the-news-journal/e73d4129c1b403ea5a912000768e22c6.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/delaware-online-the-news-journal/e73d4129c1b403ea5a912000768e22c6.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:39:05 +0000</pubDate>
+<description>Saint-Maximin, 29, was dismissed in the 89th minute of the fixture at Bank of America Stadium after a VAR intervention.</description>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31172001/GettyImages-2297000954-scaled-e1793481624213.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31172001/GettyImages-2297000954-scaled-e1793481624213.jpg" medium="image"/>
 </item>
 <item>
-<title>Pope Leo XIV stays neutral for Villanova-Notre Dame: ‘The pope doesn’t take sides’</title>
-<link>https://sports.yahoo.com/articles/pope-leo-xiv-stays-neutral-203103452.html</link>
-<guid isPermaLink="false">3d0dd5ed35322de24f0b9d962b5e2e58d32e9e16bfea9fdc8c81551296976ab4</guid>
+<title>UFC Vegas 123 live results, highlights, play-by-play</title>
+<link>https://sports.yahoo.com/articles/ufc-vegas-123-live-results-201500234.html</link>
+<guid isPermaLink="false">709258d694924be05b8d72d6b15644850069de97468483bfdba218fe1a1e874a</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:31:03 +0000</pubDate>
-<description>For Pope Leo XIV, choosing sides between two Catholic universities might ordinarily be considered a breach of papal diplomacy. But when Villanova and Notre Dame tip off the college basketball season in Rome on Sunday, the man beneath the white robes faces a temptation of an entirely different sort: rooting for his alma mater. Fortunately, the first American-born pope devised a loophole: Pope Leo XIV will remain above the fray, his allegiance safely concealed beneath the papal robes. Robert Prevost, the Villanova graduate who happens to wear those robes, is free to harbor considerably less impartial sentiments. “Growing up on the South Side of Chicago, we oftentimes heard, ‘Go Irish!'” Leo XIV told a crowd of roughly 7,000 players, coaches and supporters from Villanova and Notre Dame at the Vatican on Saturday, drawing applause. “But, as you all know, Prevost graduated from Villanova,” he continued, prompting even louder cheers. “So the pope doesn’t take sides. Prevost has another opinion, but we won’t do that now.” Pope Leo XIV says the pope doesn’t take sides in tomorrow’s Villanova–Notre Dame game in Rome. Robert Prevost, he admits, has another opinion. pic.twitter.com/CoBSukql7L — Christopher Hale (@ChristopherHale) October 31, 2026 The playful exchange came during a Vatican audience ahead of Sunday’s Eternal City Tip-Off — a basketball doubleheader between the two Catholic universities’ men’s and women’s teams at Rome’s Palazzo dello Sport. The event, organized to celebrate the election of the first American pope, will open the 2026-27 college basketball season. Leo XIV, born Robert Francis Prevost in Chicago, graduated from Villanova in 1977 with a mathematics degree, decades before his papal election in May 2025. His allegiance to the Wildcats, it seems, has survived his ascent to the Vatican. Saturday’s gathering offered a few more hints about where his loyalties lie. The 71-year-old pontiff dribbled a gold basketball presented by Villanova players and joined the Wildcats in flashing their signature “V” hand gesture for a photograph. Notre Dame’s players, meanwhile, presented him with gifts of their own, including a personalized jersey. Pope Leo XIV was presented with a Notre Dame basketball jersey bearing his name today pic.twitter.com/Ttf4WtCTFL — Catholic Arena (@CatholicArena) October 31, 2026 For all the good-natured partisanship, Leo XIV delivered a more serious message about the value of competition, reminding the teams that sporting rivals are not enemies and that victory should never come at the expense of respect for opponents. “No one is born a champion, just as no one is born a saint,” he said. Pope Leo XIV to the student athletes of Villanova University and the University of Notre Dame: “No one is born a champion, just as no one is born a saint. Rather, holiness requires a daily training in love. In this regard, Christians are called to run in the race of life, but… pic.twitter.com/Pu7Kb2bgO5 — Catholic Sat (@CatholicSat) Octo</description>
-<enclosure url="https://media.zenfs.com/en/the_athletic_articles_169/990c6bb22d02a7269e2ee4feabf2d6ee.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/the_athletic_articles_169/990c6bb22d02a7269e2ee4feabf2d6ee.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:37:24 +0000</pubDate>
+<description>Ultimate Fighting Championship (UFC) is live TONIGHT (Sat., Oct. 31, 2026) with UFC Halloween (a.k.a. UFC Vegas 123 ) , streaming live online via Paramount+ . The event goes down inside the familiar META APEX in Las Vegas, Nevada. Our main event on this Halloween event is Renato Moicano vs. Tom Nolan ( see betting odds here ). UFC Halloween Preview It feels a little odd to see a UFC fight night land on Halloween. It would be nice if UFC did something to dress up for the occasion, but knowing them it will probably be business as usual. Renato Moicano vs. Tom Nolan draw the short straw of being unable to go trick or treating with their kids this night ( are you? ). They are meeting in the main event, despite Moicano saying he was desperate to escape the APEX. UFC Halloween’s co-main event is DC’s boy Jacobe Smith taking on the veteran Randy Brown ( on super short notice ). Smith has decimated all who have stood in his way so far. If he runs through Brown, then he’s a real player at 170 pounds . Rounding out UFC Halloween’s main card is Ode’ Osbourne vs. Cody Durden , Yana Santos vs. Luana Santos and Jean-Paul Lebosnoyani vs. Farman Hasanov . The “Prelims” are headlined by Francis Marshall vs. Dakota Hope . The biggest match-up on that portion of the card is Zachary Reese vs. Mickey Gall , with Gall looking to avoid his fifth straight loss. Former OKTAGON two-division champ Lucia Szabova also debuts at this event. She fights Tainara Lisboa . The rest of undercard includes Rodrigo Sezinando vs. Theodor Berggren , Julian Erosa vs. Jeong Yeong Lee ( in a retirement fight for Juicy J ), Nick Klein vs. Joseph Kropschott and Talita Alencar vs. Piera Rodriguez . UFC Halloween Start Date and Time We are back in the APEX tonight and that means a return to our usual broadcast times. UFC Halloween “Prelims” will begin at 5 p.m. ET . UFC Halloween main card is scheduled to start at 8 p.m. ET . All of Halloween airs on Paramount+ , which you can stream here . The live blog here starts rolling below at 5 p.m. ET . Come in and say hi! UFC HALLOWEEN QUICK RESULTS Main card 155 lbs.: Renato Moicano vs. Tom Nolan 170 lbs.: Randy Brown vs. Jacobe Smith 125 lbs.: Ode’ Osbourne vs. Cody Durden 135 lbs.: Yana Santos vs. Luana Santos 170 lbs.: Jean-Paul Lebosnoyani vs. Farman Hasanov Prelims 145 lbs.: Francis Marshall vs. Dakota Hope 170 lbs.: Rodrigo Sezinando vs. Theodor Berggren 145 lbs.: Julian Erosa vs. Jeong Yeong Lee 185 lbs.: Zachary Reese vs. Mickey Gall 185 lbs.: Nick Klein vs. Joseph Kropschot 115 lbs.: Talita Alencar vs. Piera Rodriguez 125 lbs.: Lucia Szabova def. Tainara Lisboa via TKO (punches) — Round 3, 3:20 UFC HALLOWEEN PLAY-BY-PLAY UPDATES 1 25 lbs.: Lucia Szabova vs. Tainara Lisboa : Szabova was the biggest favorite on the card, and while at points she didn’t look like it, she ended up overpowering and breaking Lisboa to stop her with heavy ground-and-pound. Szabova is a great addition to the Flyweight division and one to keep an eye on. Official deci</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/3d8539b45f711b6a444377d36b56168b.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/3d8539b45f711b6a444377d36b56168b.jpg" medium="image"/>
 </item>
 <item>
-<title>Video: Milan surge into 2-0 lead over Inter within first 10 minutes</title>
-<link>https://sports.yahoo.com/articles/video-milan-surge-2-0-203100562.html</link>
-<guid isPermaLink="false">28d7d4ebaf0501a34108cc988db247d83f9e26b8481a40943640cff511758934</guid>
+<title>Clemson Tigers vs. Florida State Seminoles: Live Gamethread, How To Watch, TV Schedule</title>
+<link>https://sports.yahoo.com/articles/clemson-tigers-vs-florida-state-213500580.html</link>
+<guid isPermaLink="false">d2d67e4a6bd087afe705d166fc5d8eaa159ef345f3f81a48f2fe186dc7802f7c</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:31:00 +0000</pubDate>
-<description>Video: Milan surge into 2-0 lead over Inter within first 10 minutes Milan got off to an historically good start in the Derby della Madonnina, leading 2-0 within 10 minutes with Christian Pulisic and Adrien Rabiot goals against Inter. You can follow all the build-up and action as it happens from today’s Serie A games on the Liveblog. This match is also being aired live on BBC2 in the UK and on the iPlayer. Perfect Milan start to derby ITALY – OCTOBER 31: Christian Pulisic of AC Milan celebrates scoring his team’s first goal during the Serie A match between AC Milan and FC Internazionale at Stadio Giuseppe Meazza on October 31, 2026 in Italy. (Photo by Marco Luzzani/Getty Images) The Rossoneri could not have asked for a brighter start in this showdown, as Pulisic met the Diego Moreira cross from the right to nod in after three minutes and 45 seconds. This was the fastest Rossoneri goal against Inter in Serie A since Alexandre Pato took all of 43 seconds in April 2011. There was another Diego Moreira assist, this time a corner kick routine finding Rabiot to sweep in first-time from 12 yards into the far bottom corner. No team had been 2-0 up in a Derby della Madonnina within 10 minutes since Inter’s 5-2 victory in 1974, when they scored twice in the first seven minutes. ITALY – OCTOBER 31: Diego Moreira of AC Milan interacts with fans during the Serie A match between AC Milan and FC Internazionale at Stadio Giuseppe Meazza on October 31, 2026 in Italy. (Photo by Marco Luzzani/Getty Images) The Rossoneri side of the city had not celebrated this immediate advantage since 1932, when they still ended up losing 5-4, despite leading 2-0 after six minutes. The derby is delivering 🤩 Christian Pulisic and Adrien Rabiot put AC Milan two ahead in the first 10 minutes ⚡ https://t.co/97nC4aqJyt</description>
-<enclosure url="https://media.zenfs.com/en/football_italia_articles_132/57261d4da4891856f731808b5f82e13a.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/football_italia_articles_132/57261d4da4891856f731808b5f82e13a.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:35:00 +0000</pubDate>
+<description>CLEMSON, SC - OCTOBER 24: Clemson Tigers wide receiver Bryant Wesco Jr. (12) makes a leaping catch with Virginia Tech Hookies corner back Jaquez White (2) defending during a college football game between the Virginia Tech Hookies and the Clemson Tigers on October 24, 2026 at Memorial Stadium in Clemson, S.C. (Photo by John Byrum/Icon Sportswire via Getty Images) | Icon Sportswire via Getty Images Remember when Clemson used to win the close games? When there was a realistic opportunity to score touchdowns and we had hope? Yea, those were fun days. Now Clemson heads down to Florida State and gets a primetime matchup on…. the ACC Network. Yea, if you’ve wondered just how far both programs have fallen that tells you everything you need to know. At least it isn’t the CW though. Things have gotten pretty simple this year. If Clemson’s OL resembles traffic cones, the Tigers lose. If the OL can at least be a speed bump, odds are Clemson can pull out the win in most games. Hopefully that form continues, but I’m not going to be too optimistic considering the evidence we’ve seen this year. Good news is we always have Hauser to look forward too, supposedly kicking field goals is fun! As always, join us in the comments below. Game: Clemson Tigers vs. Florida State Seminoles Location: Doak Campbell Stadium, Tallahassee, FL Kickoff : 7:00pm EST TV Channel: ACC Network (Yes, I am serious) Streaming: ESPN+</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/446e5d951cd07842c99e47b5f0adee2c.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/446e5d951cd07842c99e47b5f0adee2c.jpg" medium="image"/>
 </item>
 <item>
-<title>Duke’s Nate Sheppard needed just 3 quarters vs. Boston College to break 2 records</title>
-<link>https://sports.yahoo.com/articles/duke-nate-sheppard-needed-just-203023715.html</link>
-<guid isPermaLink="false">40ac85940b424f8758bf6291fd19ad64286c58f3e7c9023fda290b8bc8cff3c4</guid>
+<title>LIVE! UFC Vegas 123 Results: Moicano vs. Nolan</title>
+<link>https://sports.yahoo.com/articles/ufc-vegas-123-results-moicano-090000150.html</link>
+<guid isPermaLink="false">2ef5778b037af941c397deabffb20964250fd8147efd3c6d11a4a7e99067cdd8</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:30:23 +0000</pubDate>
-<description>Zachary Taft-Imagn Images Duke’s Nate Sheppard needed just 3 quarters vs. Boston College to break 2 records appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here . The Duke Blue Devils are absolutely shellacking the Boston College Eagles 47-2 with just two minutes remaining in the fourth quarter. Manny Diaz has his team playing at an extremely high level, and the offense has leaned heavily on running back Nate Sheppard. Through the first three quarters, the sophomore ball carrier totaled 129 yards and five touchdowns , according to Hayes Fawcett of Rivals and On3 Sports. Those five scores led Sheppard to break Duke’s all-time single-season touchdown record and single-game rushing touchdown record. Diaz pulled Sheppard out of the game going into the fourth quarter after leading Duke to a big enough lead to essentially guarantee the victory. The Louisiana native ended the day with 97 rushing yards and 32 receiving yards to go along with his five scores from the ground. Watch sports LIVE with fuboTV (free trial) After his big day, Nate Sheppard has now accumulated 972 rushing yards (currently leading the ACC), 302 receiving yards, and an ACC-high 18 total touchdowns (14 rushing, 4 receiving). He also leads the conference with 173 rushing attempts, as he’s playing like one of the most dominant running backs in the nation right now. Duke will advance to a 6-2 record for the season and is officially bowl-eligible. The Blue Devils only have four more games remaining in the campaign. The program will have an opportunity to prove itself as a true contender in the ACC in Week 11 when Duke faces off against No. 1 Miami Hurricanes. But Manny Diaz will get his team ready and focused on the Week 10 matchup against the North Carolina State Wolfpack in Week 10 first. Related: Wild stat emerges after Syracuse Orange’s upset over SMU Related: Want to feel old? Jerome Bettis Jr. hauls in 1st career TD for Notre Dame</description>
-<enclosure url="https://media.zenfs.com/en/clutchpoints_articles_939/b5546fafe42dd7b7ffff4e87099dbc99.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/clutchpoints_articles_939/b5546fafe42dd7b7ffff4e87099dbc99.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:33:38 +0000</pubDate>
+<description>Renato Moicano and Tom Nolan clash in UFC Vegas 123 main event. | ﻿Jeff Bottari/Zuffa LLC MMA Fighting has UFC Vegas 123 results for the Moicano vs. Nolan fight card, a live blog of the main event, and more from Meta APEX in Las Vegas on Saturday night. In the main event, Renato Moicano squares off against Tom Nolan in a lightweight contest. Moicano recently got back in the win column with a second-round face-crank submission win over Chris Duncan, while Nolan has rebounded from a loss in his UFC debut with five straight victories. Randy Brown faces short-notice replacement Jacobe Smith in a welterweight contest in the co-main event. Check out UFC Vegas 123 results below. Main Card (Paramount+, 8 p.m.) Renato Moicano vs. Tom Nolan Randy Brown vs. Jacobe Smith Ode Osbourne vs. Cody Durden Yana Santos vs. Luana Santos Jean-Paul Lebosnoyani vs. Farman Hasanov Preliminary Card (Paramount+, 5 p.m.) Francis Marshall vs. Dakota Hope Rodrigo Sezinando vs. Theodor Berggren Julian Erosa vs. Jeong Yeong Lee Zachary Reese vs. Mickey Gall Nick Klein vs. Joe Kropschot Talita Alencar vs. Piera Rodriguez Lucia Szabova def. Tainara Lisboa via TKO (ground strikes) at 3:20, R3</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/175878c2397b681d7fecdf1ec237cf70.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/175878c2397b681d7fecdf1ec237cf70.jpg" medium="image"/>
+</item>
+<item>
+<title>Kimmich speaks of difficult comeback after death of his father</title>
+<link>https://sports.yahoo.com/articles/kimmich-speaks-difficult-comeback-death-213327033.html</link>
+<guid isPermaLink="false">b2faccca278af28bb1aed4b183cc58f1b3485ce3ca122772ad96dcf0e3c280f2</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:33:27 +0000</pubDate>
+<description>Dortmund's Nico Schlotterbeck embraces Bayern Munich's Joshua Kimmich after the German Bundesliga soccer match between FC Bayern Munich and Borussia Dortmund at Allianz Arena. (is associated with: «Kimmich speaks of difficult comeback after death of his father») Tom Weller/dpa Bayern Munich midfielder Joshua Kimmich spoke for the first time about the sudden death of his father following the 2-2 Bundesliga draw with Borussia Dortmund on Saturday. "The past week has been very hard for my family, and for me as well. My father was always there for me. He was always by my side. He always supported me and believed in me even when I didn't believe in myself," Kimmich said. "That's why it's really difficult to come back. Because when I'm out on the pitch, that's actually when I think about him the most," said the midfielder, who led Bayern as captain on his return after missing three games. Berthold Kimmich passed away last week at the age of 57. "It was important to come back, to try to get back into a normal daily routine. Even if sometimes you wish the world would just stand still for a bit. But unfortunately - and fortunately - it keeps moving." He added that he was happy to be back with the team and expressed his gratitude for the sympathy and condolences that he and his family have received. "The support from the club, the DFB (German Football Federation), and everyone around us was very special. It meant a great deal to me," he said.</description>
+<enclosure url="https://media.zenfs.com/en/dpa_international_526/fff6524c37201f2177bc8c7739beeb48.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/dpa_international_526/fff6524c37201f2177bc8c7739beeb48.jpg" medium="image"/>
+</item>
+<item>
+<title>P.J. Locke III finally off IR in Cowboys’ latest batch of roster moves</title>
+<link>https://sports.yahoo.com/articles/p-j-locke-iii-finally-213259019.html</link>
+<guid isPermaLink="false">c5244e4b3bff098129de9bbfc3f581cbae2c1f9d5255be0d7f1f7879881ef7b5</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:32:59 +0000</pubDate>
+<description>Mandatory Credit: Chris Jones-Imagn Images P.J. Locke III finally off IR in Cowboys’ latest batch of roster moves appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here . The Dallas Cowboys defense is going to get a little boost for the Week 8 matchup against the Arizona Cardinals. In the club’s latest batch of roster moves, the team announced that safety P.J. Locke III is finally returning from the IR. Reports indicate that the 29-year-old is activated from the IR after dealing with a torn plantar fascia in his foot that he sustained in the Cowboys’ 37-20 Week 2 win over the Washington Commanders, according to Mike Garafolo of the NFL Network. The franchise also announced that a player is being brought up to the active roster from the practice squad. “The Cowboys activated S P.J. Locke III from IR to the active roster and elevated TE James Mitchell from the practice squad ahead of tomorrow vs. the Cardinals,” Garafolo reported. Watch sports LIVE with fuboTV (free trial) Locke was a key rotational option for the Denver Broncos in the first six years of his career before signing with the Cowboys in free agency. The seven-year veteran’s role with Dallas is currently unknown, as the defense has been relying on Markquese Bell and Malik Hooker in the safety positions. Meanwhile, Juanyeh Thomas and Alijah Clark have been stepping in as the immediate backups. P.J. Locke III appeared in two games (one start) for the Cowboys before going on the IR. Throughout his career, the former undrafted free agent has accumulated 177 combined tackles (112 solo), four sacks, one interception, and five forced fumbles. Only three of his combined tackles (two solo) have come this season in Dallas. But he’ll have a chance to build on that on Sunday against the Cardinals. Related: Cowboys’ CeeDee Lamb reacts to viral touchdown image featuring booing Eagles fans Related: Why Cowboys’ Jerry Jones tempers down trade rumors after Bears’ Jeffery Simmons deal</description>
+<enclosure url="https://media.zenfs.com/en/clutchpoints_articles_939/cec05605e9192c84997a7dcdad3ccf1f.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/clutchpoints_articles_939/cec05605e9192c84997a7dcdad3ccf1f.jpg" medium="image"/>
+</item>
+<item>
+<title>Florida makes quarterback change after nightmare start against Georgia</title>
+<link>https://sports.yahoo.com/articles/florida-makes-quarterback-change-nightmare-213144735.html</link>
+<guid isPermaLink="false">e3a37d6831a5b5e7fcabf653d8b76893b870cf48958a1d23a201a36ea6e344ca</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:31:44 +0000</pubDate>
+<description>Florida’s start against Georgia on Saturday has been horrible. Florida quarterback Aaron Philo threw one of the worst interceptions you’ll ever see in the first half. He was well outside the pocket when he slipped and decided to chuck the ball up for an easy interception. He should’ve just gone down. MORE : ESPN ‘College GameDay’ location announced for Week 10 Take a look: Aaron Philo I have no words pic.twitter.com/pi3RwRaoiZ — Josh Pate (@JoshPateCFB) October 31, 2026 Philo threw another interception in the first half before Florida head coach Jon Sumrall saw enough and benched him for Tramell Jones Jr. Philo completed five passes for 26 yards and threw two interceptions before getting benched. Things went from bad to worse for Florida after Philo’s benching as Georgia continued to put points on the board and is now up 24-0 at halftime. Jones got hit hard with under a minute left in the half, knocking the ball loose and setting up a scoop-and-score for Georgia. The Florida-Georgia rivalry Sep 19, 2026; Auburn, Alabama, USA; Florida Gators head coach Jon Sumrall watches his team warm up before the game against the Auburn Tigers at Jordan-Hare Stadium. Mandatory Credit: John Reed-Imagn Images Credit: IMAGN IMAGES via Reuters Connect (Reuters) Georgia leads the all-time series with a 58-44-2 record and has won the last five. Florida hasn’t won since 2020, and that’s likely to continue after today unless it can orchestrate a miraculous second-half comeback. A win for the Bulldogs would improve their record to 7-1, while a loss for the Gators would drop them to 5-3. You can watch the rest of this game on ABC. — Enjoy free coverage of the top news &amp; trending stories with The Big Lead Newsletter —</description>
+<enclosure url="https://media.zenfs.com/en/the_big_lead_articles_114/de2067959934b8b49d6e9b12f725343d.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/the_big_lead_articles_114/de2067959934b8b49d6e9b12f725343d.jpg" medium="image"/>
 </item>
 <item>
 <title>Canelo Alvarez vs. Christian Mbilli live results, updates, highlights from 2026 boxing fight</title>
@@ -152,90 +163,299 @@
 <guid isPermaLink="false">0cf740834d87553ab518027912f56f3f366da805af0741d36ad1be0ea4ee6af5</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:30:00 +0000</pubDate>
-<description>Canelo Alvarez vs. Christian Mbilli live results, updates, highlights from 2026 boxing fight originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here . Saul 'Canelo' Alvarez attempts to reclaim a portion of the world super middleweight title when he returns to action on Halloween to challenge Christian Mbilli for the WBC's 168-pound belt. The fight is Canelo’s (63-3-2) second in Saudi Arabia, part of a deal with Riyadh Season. He last fought a year ago, where he lost his undisputed 12-stone title to fellow modern great Terence Crawford. Despite the time off, Canelo didn’t want to take an easy fight back. The multi-division champion aims to have gold around his waist again by beating the dangerous Mbilli. "I don’t believe in shortcuts. That’s why I go straight to the champion," Canelo said via Boxing Scene . "I already have that experience. I’ve been a champion many years, and I hope to be a champion again. I want to face the best, and he’s a champion, that’s it." Mbilli (29-0-1) has 23 knockout wins and took out Maciej Sulecki to become the interim champion. Promoted after Crawford relinquished the belt, his last fight was a draw. Mbilli is ready to prove he’s worthy of being champion against Canelo. "I’m ready to shock the world," said Mbilli. "I have a big respect for Canelo and all his career. I want to congratulate him for this, but Saturday will be a different story. I’m coming for the win." The Sporting News will provide analysis and highlights from the Canelo Alvarez vs. Christian Mbilli fight card and round-by-round coverage of the main event. Canelo Alvarez vs. Christian Mbilli results Christian Mbilli (c) vs. Canelo Alvarez for the WBC super middleweight title Jaime Munguia vs. Nikita Zon ; Super Middleweights Rafael Espinoza (c) def. Ricardo Blandom (TKO 3/10) to retain the WBO featherweight title Carl Jammes Martin def. David Picasso (SD 10) ; Featherweights Reito Tsutsumi def. Raymundo Rojas Garcia (TKO 2/10) ; Super Featherweights Sultan Almohammed def. Erick Jahir Urvina Villegas (UD 6); Super Featherweights Bek Nurmaganbet def. Marcos Vazquez Rodriguez (KO 1/10); Super Middleweights Emiliano Rojo def. Flavius Biea (TKO 4/8); Middleweights Brayan Leon def. Hector Aguirre (UD 8); Super Middleweights Canelo Alvarez vs. Christian Mbilli updates, highlights Christian Mbilli (c) vs. Canelo Alvarez for the WBC super middleweight title Jaime Munguia vs. Nikita Zon; Super Middleweights 4:25 p.m. ET - Mercifully, we're on with the ring walks in our chief support contest. There have been five completed rounds of boxing in the past two hours. If Canelo puts on a show in an hour so, maybe no one will care. But, as a spectacle for fans, that's just not good enough whatsoever. Rafael Espinoza (c) vs. Ricardo Blandon for the WBO featherweight title Espinoza stops Blandon on cuts 3:20 p.m. ET - Blandon has a nasty gash on his eyelid and the ringside doctor decides he's in no condition to continue. We'</description>
+<pubDate>Sat, 31 Oct 2026 21:31:00 +0000</pubDate>
+<description>Canelo Alvarez vs. Christian Mbilli live results, updates, highlights from 2026 boxing fight originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here . Saul 'Canelo' Alvarez attempts to reclaim a portion of the world super middleweight title when he returns to action on Halloween to challenge Christian Mbilli for the WBC's 168-pound belt. The fight is Canelo’s (63-3-2) second in Saudi Arabia, part of a deal with Riyadh Season. He last fought a year ago, where he lost his undisputed 12-stone title to fellow modern great Terence Crawford. Despite the time off, Canelo didn’t want to take an easy fight back. The multi-division champion aims to have gold around his waist again by beating the dangerous Mbilli. "I don’t believe in shortcuts. That’s why I go straight to the champion," Canelo said via Boxing Scene . "I already have that experience. I’ve been a champion many years, and I hope to be a champion again. I want to face the best, and he’s a champion, that’s it." Mbilli (29-0-1) has 23 knockout wins and took out Maciej Sulecki to become the interim champion. Promoted after Crawford relinquished the belt, his last fight was a draw. Mbilli is ready to prove he’s worthy of being champion against Canelo. "I’m ready to shock the world," said Mbilli. "I have a big respect for Canelo and all his career. I want to congratulate him for this, but Saturday will be a different story. I’m coming for the win." The Sporting News will provide analysis and highlights from the Canelo Alvarez vs. Christian Mbilli fight card and round-by-round coverage of the main event. Canelo Alvarez vs. Christian Mbilli results Christian Mbilli (c) vs. Canelo Alvarez for the WBC super middleweight title Jaime Munguia (c) def. Nikita Zon (UD12) to retain the WBA super middleweight title Rafael Espinoza (c) def. Ricardo Blandom (TKO 3/10) to retain the WBO featherweight title Carl Jammes Martin def. David Picasso (SD 10) ; Featherweights Reito Tsutsumi def. Raymundo Rojas Garcia (TKO 2/10) ; Super Featherweights Sultan Almohammed def. Erick Jahir Urvina Villegas (UD 6); Super Featherweights Bek Nurmaganbet def. Marcos Vazquez Rodriguez (KO 1/10); Super Middleweights Emiliano Rojo def. Flavius Biea (TKO 4/8); Middleweights Brayan Leon def. Hector Aguirre (UD 8); Super Middleweights Canelo Alvarez vs. Christian Mbilli updates, highlights Christian Mbilli (c) vs. Canelo Alvarez for the WBC super middleweight title Jaime Munguia (c) vs. Nikita Zon for the WBA super middleweight title Jaime Munguia retains WBA super middleweight title via unanimous decision Munguia gets it by margins of 116-112 and 117-111 (twice) on the cards. 5:25 p.m. ET - They get to the final bell and Munguia has probably closed out the win. Zon saw his chance in the sixth, couldn't take it and emptied the tank. He definitely has other big nights ahead of him. As for Munguia, even if he retains his title, he should think about dropping back down to middleweight. He doe</description>
 <enclosure url="https://media.zenfs.com/en/the_sporting_news_articles_584/d76b00e71e823e5365ca3f7ff1d85bf9" type="image/jpeg"/>
 <media:content url="https://media.zenfs.com/en/the_sporting_news_articles_584/d76b00e71e823e5365ca3f7ff1d85bf9" medium="image"/>
 </item>
 <item>
-<title>Brazilian star one step closer to joining Liverpool</title>
-<link>https://sports.yahoo.com/articles/brazilian-star-one-step-closer-203000341.html</link>
-<guid isPermaLink="false">109e0ea5c2285e7016aa7617e33495269cc4e74fe31557ec7d94323fae0abe36</guid>
+<title>Aaron Danks provides injury updates on Bayern Munich’s walking wounded</title>
+<link>https://sports.yahoo.com/articles/aaron-danks-provides-injury-updates-213056519.html</link>
+<guid isPermaLink="false">a97ab429361d7e625af8cecec74f6b11ff6d861e9004d9136247126df10fc63a</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:30:00 +0000</pubDate>
-<description>Brazilian star one step closer to joining Liverpool An exciting Brazilian is one step closer to joining Liverpool following a recent report. If anything, Liverpool's frontline looks like the most complete part of Andoni Iraola's jigsaw right now. It's quite funny, really, considering the Reds spent the final days of last summer's window trying to bring in another attacker. Ismaila Sarr and Yankuba Minteh were both on the radar, but Liverpool were ultimately priced out of moves for either player. Looking at the options available now, though, the attack looks pretty healthy. Bradley Barcola has been a strong addition, Alexander Isak is firing on all cylinders, and Florian Wirtz is finally starting to deliver those goal contributions. Victor Muñoz could prove to be a real bargain, while Rio Ngumoha has the potential to become one of the best wingers around. Then there's Lewis Koumas, whose incredible work rate has already made him a fan favourite. Why Liverpool's attack will get even better Liverpool's attacking options could look even stronger in the coming months, especially with Hugo Ekitike working his way back towards a return. There are big hopes that he can rediscover the form he showed before his setback. But the excitement doesn't stop with the senior squad. The Reds have some seriously talented youngsters coming through, and a few could be knocking on the first-team door sooner than expected. Will Wright is already banging in goals for both the U21s and U19s, making a senior opportunity feel increasingly likely. Djylian N'Guessan is another name to watch, with the highly rated youngster potentially arriving in January. Out wide, Joshua Abe is considered one of the club's brightest prospects, while AJ Yeguo is also making a strong impression. Further forward, Erik Farkas and Samuel Martinez are two players Liverpool believe could eventually challenge for the No.10 role currently occupied by Florian Wirtz. Liverpool one step closer to signing Rayan You would say the only missing piece in the jigsaw is probably a right-winger who is left-footed. The chances are that Liverpool's next move will likely be that. Cody Gakpo is unlikely to stay at the club long-term. Given what we know about how Liverpool operate, the Reds will be open to selling a player who is in his late twenties - just as they did with Luis Diaz. We also know Liverpool have a strong admiration for Rayan. The Brazilian has also worked with Andoni Iraola in the past. On paper, he seems like the perfect fit for the Reds. And it looks like the Reds might be one step closer to signing him with Bournemouth reportedly looking at a potential replacement for him already. TEAMtalk reports that the Cherries are ready to bid for Andres Gomez, who plays for Vasco da Gama and who is a winger who can play on either flank. Bringing in a winger would subsequently surely open the door for Bournemouth to listen to offers for Rayan, and that is a significant change in the club's stance of the Braz</description>
-<enclosure url="https://media.zenfs.com/en/anfield_watch_articles_625/f69026e0c368e8e14310a386e257e9f8.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/anfield_watch_articles_625/f69026e0c368e8e14310a386e257e9f8.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:30:56 +0000</pubDate>
+<description>(Photo by S. Stingl/FC Bayern via Getty Images) | FC Bayern via Getty Images Bayern Munich’s 2-2 draw against Borussia Dortmund came at a potentially significant cost, with three attacking players picking up injuries during Saturday’s encounter. Assistant coach Aaron Danks provided some additional details after the match, althou gh there is still plenty of uncertainty surrounding the extent of the problems. Danks confirmed that Ismael Saibari suffered an ankle injury, while Serge Gnabry appears to have sustained a muscular problem. Michael Olise also experienced discomfort toward the end of the match, but the coaching staff had not yet received a definitive assessment of his condition. “Saibari was the ankle. Gnabry was a muscle injury and I’m unsure with Michael towards the end as well. The physio staff will play a really important role now in helping all the players recover,” Danks said (as captured by @iMiaSanMia ). Danks subsequently offered a slightly more concerning assessment of Saibari’s situation, suggesting that the ankle injury could be particularly serious. “Saibari’s ankle looks quite a serious injury. Serge Gnabry looks muscular, but I’m waiting to find out more. The same with Olise, I haven’t had feedback on that yet,” said Danks. The timing is far from ideal for Bayern, who face Atlétic o Madrid in the Champions League on Tuesday. With Luis Díaz already sidelined and Jamal Musiala still working toward his return, losing additional attacking options would represent another significant headache. For now, Bayern will have to wait for further examinations before determining the availability of al l three players. The medical staff certainly have their work cut ou t. Join the conversation! Sign up for a user account and get: New, improved notifications system! Fewer ads Create community posts Comment on articles, community posts Rec comments, community posts</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/df306b786c6be68db14cf6389a2a9eac.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/df306b786c6be68db14cf6389a2a9eac.jpg" medium="image"/>
 </item>
 <item>
-<title>Rangers To Bring Bring In This Midfielder At The End Of This Season: Can McInnes Find Him A Role?</title>
-<link>https://sports.yahoo.com/articles/rangers-bring-bring-midfielder-end-203000350.html</link>
-<guid isPermaLink="false">79d35b26eeca8a15e2ca59bd4be8a429b08a2f2caf1b4a1f20ec39be445dcb50</guid>
+<title>Saturday Night Open Thread: Happy Halloween, Steelers fans!</title>
+<link>https://sports.yahoo.com/articles/saturday-night-open-thread-happy-213000589.html</link>
+<guid isPermaLink="false">1386bbbdde9c0e8fd9af2a8b97e08a6aea72aee9741fd86eb9912a159fbda116</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:30:00 +0000</pubDate>
-<description>Rangers To Bring Bring In This Midfielder At The End Of This Season: Can McInnes Find Him A Role? Rangers have strengthened their midfield under Derek McInnes, who took charge in June and has guided the club into second place in the Scottish Premiership so far. Their summer recruitment brought fresh competition into central areas, while Nicolas Raskin and Tochi Chukwuani remain important options as McInnes works to establish a settled system. That competition has made regular minutes harder to secure for players outside the manager’s preferred group. McInnes expects his central midfielders to handle physical battles, protect the defence and move possession forward at pace. For a creative player, the challenge lies in meeting those defensive demands without losing the qualities that make him useful in attack. Lyall Cameron has struggled to secure opportunities at Ibrox, despite earning recognition as one of Scotland’s promising young midfielders. The 24-year-old spent time at Aberdeen before moving to Dundee United on loan, where he has started to rebuild his momentum. His ability to create chances and beat opponents with the ball offers Rangers a different option from their more defensively minded midfielders. According to an exclusive report by Pete O’Rourke in Football Insider , Rangers intend to bring Cameron into their first-team plans next season rather than sell him. The club discussed the loan with McInnes, viewing regular football at Tannadice as a chance for the midfielder to regain confidence and show what he can offer. Cameron has made an encouraging start at Dundee United, registering two goals and two assists in six appearances. His creativity could prove useful at Rangers, particularly when opponents defend deep, and the usual midfield options struggle to open up space. Can Cameron earn a place in McInnes’ Rangers midfield? PLZEN, CZECH REPUBLIC – AUGUST 12: Lyall Cameron of Rangers FC celebrates scoring his team’s first goal with teammates Mohamed Diomande and Danilo Pereira during the UEFA Champions League Third Qualifying Round Second Leg match between Viktoria Plzen and Rangers at Doosan Arena on August 12, 2025 in Plzen, Czech Republic. (Photo by Gabriel Kuchta/Getty Images) Rangers should give Cameron a genuine opportunity when he returns, but attacking output alone won’t secure his place. Raskin and the other central options must meet demanding defensive responsibilities, so Cameron needs to improve his tracking and work without the ball if he wants to compete consistently. The reported decision against selling him makes sense. His contract runs until 2029, giving Rangers time to assess his progress without rushing a permanent decision. Rather than recruit another creative midfielder immediately, McInnes could first test whether Cameron can add invention to the existing squad. Regular minutes in competitive matches would give Cameron the chance to prove he can balance attacking freedom with defensive discipline. If he manages</description>
-<enclosure url="https://media.zenfs.com/en/the_4th_official_articles_868/2b4d4fc4fbf8554ecc24118701c092e7.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/the_4th_official_articles_868/2b4d4fc4fbf8554ecc24118701c092e7.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:30:00 +0000</pubDate>
+<description>Photo by Justin K. Aller/Getty Images | Getty Images Live from Delaware, it’s Saturday Night! I, NAS204PSU, am here at BTSC to bring you this Saturday Night Open Thread (aka SNOT). It’s Halloween! A night of costumes, free candy, and occasionally some mischief. Wishing everyone who celebrates a safe and happy trick-or-treating! This 5-pack of questions is here to get the conversation going, and also let us know what you’re eating and drinking. 1) Tomorrow is our rematch with the Browns. Any predictions (scary or otherwise)? Some of my coworkers talked about Halloween Eve Eve aka “Mischief night” traditions in their hometown where kids were allowed to toilet paper homes, play tricks etc. According to them, toilet paper was provided on the curbs from participating homes. 2) Did you ever play some tricks on Mischief night or Halloween? 3) What’s your favorite game day treat when watching Steelers games? 4) Tell us the scariest horror book/movie/tv show etc you’ve ever seen. 5) What’s the best Halloween decoration you’ve seen (could be a masterful jack-o-latern or a whole house transformed into a haunted house)? SOTN : Ray Parker Jr. – Ghostbusters’ theme</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/59802551dd904374df3b2eab536fa6d5.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/59802551dd904374df3b2eab536fa6d5.jpg" medium="image"/>
 </item>
 <item>
-<title>Colston Loveland good to go, Kyle Monangai ruled out in Bears’ latest Week 8 injury report</title>
-<link>https://sports.yahoo.com/articles/colston-loveland-good-kyle-monangai-202852119.html</link>
-<guid isPermaLink="false">894fea5c2563391a33210cf441e4e6d23d5453af8dca4b5f0d92df41bcb1570a</guid>
+<title>How to live stream USC vs Ohio State for free: Watch College Football, TV channel</title>
+<link>https://sports.yahoo.com/articles/live-stream-usc-vs-ohio-213000587.html</link>
+<guid isPermaLink="false">f36c3573a7356f6ac29cb1de449a81ce43edd6df26b4a0c4b4c829575df95c08</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:28:52 +0000</pubDate>
-<description>Patrick Gorski-Imagn Images Colston Loveland good to go, Kyle Monangai ruled out in Bears’ latest Week 8 injury report appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here . Tight end Colston Loveland and running back Kyle Monangai got mixed injury updates ahead of the Chicago Bears ’ Week 8 contest this weekend. Loveland is going through the sophomore season of his NFL career with the Bears. He made his way up the ranks to become a full-time starter, elevating Chicago’s offense en route to making the playoffs last season as a rookie. Monangai is also halfway through Year 2 of his professional career with Chicago. He has made noise as a secondary rusher behind D’Andre Swift, showing an impressive skillset to be productive in an explosive offense. Watch sports LIVE with fuboTV (free trial) Chicago provided a new injury report on Saturday, a day before the team’s contest. Six players are on the list, including Loveland and Monangai. One update was positive for Loveland and the other was negative for Monangai. The standout tight end fully participated in practice on Saturday, being a full go for the game . Unfortunately, Monangai continues to be absent from practice due to thumb and toe injuries, missing out on the contest. “Bears TE Colston Loveland has no injury designation for Monday night’s game; RB Kyle Monangai officially is out,” NFL insider Adam Schefter wrote. #Bears Injury Report pic.twitter.com/4lSjCCYDym — Bears Communications (@BearsPR) October 31, 2026 What lies ahead for Colston Loveland, Bears It may not be ideal news, but Colston Loveland being available does provide comfort to the Bears offense. They await Kyle Monangai’s return from injury as they reach the midpoint of the 2026 campaign. Chicago has a 5-2 record this season, sitting at second place in the NFC North Division standings. They are above the Detroit Lions and the Green Bay Packers while trailing the Minnesota Vikings. In terms of the conference standings, they are fifth place. They lead over the Lions and the Packers while being under the Carolina Panthers and the New York Giants. The Bears will look forward to their upcoming primetime matchup, being on the road. They take on the reigning Super Bowl champion Seattle Seahawks in Week 8 as kickoff commences on Nov. 2 at 8:15 p.m. ET. Related: Ranking top 3 Bears most likely to be dealt at 2026 NFL trade deadline Related: Stephen A. Smith reveals what Bears must do to win Super Bowl after Jeffery Simmons trade</description>
-<enclosure url="https://media.zenfs.com/en/clutchpoints_articles_939/3fb95ec89f6d40bde6828fdfb5e692a9.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/clutchpoints_articles_939/3fb95ec89f6d40bde6828fdfb5e692a9.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:30:00 +0000</pubDate>
+<description>No. 2 Ohio State travels to Los Angeles for a highly anticipated Big Ten showdown against USC on Saturday night, bringing together two of college football’s most recognizable programs at the Los Angeles Memorial Coliseum. Ohio State Buckeyes quarterback Julian Sayin (10) celebrates with wide receiver Devin McCuin (3) during the NCAA football game at Memorial Stadium Stadium in Bloomington, Ind. on Oct. 17, 2026. How to watch Ohio State vs USC Date: Saturday, October 31, 2026 Time: 7:30 PM EDT Channel: NBC Sports 4K Stream: Fubo ( try for free ) The Buckeyes enter the matchup with national championship aspirations and an opportunity to strengthen their College Football Playoff résumé. Ohio State has established itself as one of the nation’s premier programs under head coach Ryan Day, combining elite talent on both sides of the football with the ability to dominate opponents in the trenches. Playing on the road against a talented USC squad presents another important challenge for the Buckeyes as they look to remain among the top teams in the country. USC will look to capitalize on its home-field advantage and deliver one of the biggest victories of its season. Head coach Lincoln Riley’s offense will need to find ways to move the football against a physical Ohio State defense, while the Trojans must limit explosive plays and avoid costly turnovers. With conference positioning and postseason implications on the line, Saturday’s matchup offers USC a chance to make a statement against one of college football’s national championship favorites. This is a great college football matchup that you will not want to miss; make sure to tune in and catch all the action. Live stream Ohio State vs USC on NBC Sports 4K with Fubo: Start watching now! With Fubo, you can watch live television without cable on your phone, TV, or tablet. Fubo carries a wide array of sports and entertainment channels, including local sports packages and top national channels like ABC, FOX, CBS, ESPN, FS1, MTV, Comedy Central, and much more. The best part is you can try it out today for free. Regional restrictions may apply. If you purchase a product or register for an account through one of the links on our site, we may receive compensation.</description>
+<enclosure url="https://media.zenfs.com/en/the_big_lead_articles_114/3021ddb869b5a0598136f69f57c1c739.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/the_big_lead_articles_114/3021ddb869b5a0598136f69f57c1c739.jpg" medium="image"/>
 </item>
 <item>
-<title>Bayern Munich player ratings vs Dortmund: Ballon d'Or winner Harry Kane endures nightmare night as missed spot-kick proves costly in 2-2 thriller</title>
-<link>https://sports.yahoo.com/articles/bayern-munich-player-ratings-vs-202803488.html</link>
-<guid isPermaLink="false">65b559a8d31ef0ed92aa41a1d8e71ab4114dd65173992a8d96f830c4dae132b2</guid>
+<title>No. 11 Texas vs. Mississippi State gamethread</title>
+<link>https://sports.yahoo.com/articles/no-11-texas-vs-mississippi-213000380.html</link>
+<guid isPermaLink="false">982cf13d4a1618d8dba4322d6e8bbf21110dc22185b1606bb1ed35b2091a451e</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:28:03 +0000</pubDate>
-<description>FC Bayern München v Borussia Dortmund - Bundesliga 2026/27 - Getty Images Sport Bayern Munich were held to a 2-2 draw by Borussia Dortmund at the Allianz Arena in a match defined by missed opportunities. Despite goals from Konrad Laimer and Dayot Upamecano, a rare penalty failure from Harry Kane proved pivotal. Bayern Munich will view this 2-2 draw against Borussia Dortmund as a significant missed opportunity to assert dominance at the top of the Bundesliga. Dominating the expected goals (xG) battle with a staggering 4.18 to Dortmund's 0.63, the hosts failed to translate their tactical superiority into a victory. The narrative of the evening was undoubtedly Kane's uncharacteristic penalty miss in the 56th minute, a moment that allowed the visitors to remain within touching distance despite Bayern's territorial control. Tactically, the match was a clash of styles, with Bayern enjoying 56% possession and creating two big chances. Konrad Laimer opened the scoring in the 38th minute, but Bayern's defensive transition was punished by Serhou Guirassy on the hour mark. Dayot Upamecano restored the lead shortly after, but a late strike from substitute Fabio Silva in the 89th minute ensured the spoils were shared. Goalkeeper &amp; Defence Jonas Urbig - 6/10 Urbig had a relatively busy evening despite Bayern's dominance, making four saves. However, facing six shots on target and conceding twice from an xG against of just 0.63 suggests he could have done more to preserve the lead, particularly during the late pressure that led to Silva's equaliser. Konrad Laimer - 8/10 Laimer was a standout performer in the hybrid right-back role. He opened the scoring in the 38th minute with a well-taken effort and was constantly involved in the attacking phase, registering multiple shots throughout the game. His energy provided a vital outlet for Bayern's wide rotations. Dayot Upamecano - 7/10 Upamecano showed his aerial threat by scoring Bayern's second goal in the 66th minute following a corner. While he was statistically dominant in his individual duels, the collective failure to hold the line in the final minute of regulation time detracts from an otherwise strong performance. Kim Min-Jae - 7/10 The South African international was a defensive wall for much of the game, leading the team with 16 defensive interventions. He won 7 duels and executed 2 tackles, providing the structural integrity required to allow Bayern's full-backs to push high up the pitch. Alphonso Davies - 6/10 Davies provided his usual pace and recovery runs, but was less influential in the final third than Laimer on the opposite flank. He maintained the team's width but failed to provide the decisive cross that could have put the game out of reach before the late drama. Midfield Joshua Kimmich - 7/10 Kimmich acted as the metronome in the heart of the midfield, recording two shots and providing the structural link between defence and attack. His ability to recycle possession helped Bayern maintain their h</description>
-<enclosure url="https://media.zenfs.com/en/goal_com_505/cb96b95d7b55a93e170e7210fd2225a7.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/goal_com_505/cb96b95d7b55a93e170e7210fd2225a7.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:30:00 +0000</pubDate>
+<description>AUSTIN, TEXAS - OCTOBER 24: Arch Manning #16 of the Texas Longhorns rolls out to pass in the second half against the Ole Miss Rebels at Darrell K Royal-Texas Memorial Stadium on October 24, 2026 in Austin, Texas. (Photo by Tim Warner/Getty Images) | Getty Images For a third straight game, the No. 11 Texas Longhorns are back at Darrell K Royal-Texas Memorial Stadium, hosting the Mississippi State Bulldogs for a Halloween matchup. Kick is at 6:30 p.m. Central on ESPN and this is your gamethread. Join the conversation! Sign up for a user account and get: Improved notifications system! Fewer ads Create community posts Comment on articles, community posts Rec comments, community posts Download the SB Nation app on iOS or Android .</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/138eb491f6d02d2ab2196016c2046326.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/138eb491f6d02d2ab2196016c2046326.jpg" medium="image"/>
 </item>
 <item>
-<title>Why Kon Knueppel’s Return Won’t Save the Hornets’ Broken Offense</title>
-<link>https://sports.yahoo.com/articles/why-kon-knueppel-return-won-202734262.html</link>
-<guid isPermaLink="false">d288c0f25485c36446a2858a2de9cac45ff2e0b3a4d1584bebf4b61e0e017206</guid>
+<title>Kane laments Dortmund draw after 'incredible high' of Ballon d'Or</title>
+<link>https://sports.yahoo.com/articles/kane-laments-dortmund-draw-incredible-212921412.html</link>
+<guid isPermaLink="false">cb81485008200391ee88575f66dc7560779657e25d37bfe93e6d6cc5c2894137</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:27:34 +0000</pubDate>
-<description>Charlotte Hornets guard Kon Knueppel (7) shoots the ball as New York Knicks forward Mohamed Diawara (51) defends during the first half at Madison Square Garden. | Source: Lastwordonsports.com - Daniel Benjamin, Editor The narrative circulating Queen City basketball right now is neat, comforting, and dangerously wrong. Sitting at a shaky 3-3 to start the season, plagued by multiple sub-90-point offensive disasters, the Charlotte Hornets fanbase has found a lifeline. The solution is simple: Wait. Kon Knueppel ’s return is right around the corner. Once Coby White and Knueppel get back, the spacing unlocks, and this offense takes off. It’s a nice story. It’s also pure wishful thinking. While Knueppel’s return will inject perimeter firepower into the rotation, treating his comeback like a silver bullet is self-deception. The Hornets aren’t just in a temporary slump. They rank 30th in offensive rating, 30th in assists per game, and near the bottom in turnovers. That isn’t an injury glitch. It is a structural failure. Injecting shot-makers back into the lineup won’t fix a team without an engine. The Ghost of LaMelo Ball and the On-Off Reality Charlotte Hornets guard Kon Knueppel (7) shoots the ball against the Boston Celtics in the second half at TD Garden. Photo Credit: David Butler II, Imagn Images via Reuters Connect When Knueppel exploded for 273 three-pointers , he was playing alongside one of the most dynamic facilitators in basketball: LaMelo Ball . Love or hate his defense, Ball was a walking blitz magnet. He forced double-teams, bent defenses out of shape, and served up open looks on a platter. The tracking data doesn’t lie: when sharing the floor with LaMelo, Knueppel shot a blistering 46.9% from three-point range. Without LaMelo on the floor? That efficiency plummeted to 37.6% . That 9.3-percentage-point drop is the exact line between an all-time elite, unguardable rookie sniper and a contested wing shooting over late rotations. When Charlotte traded Ball to Minnesota , they pulled the plug on their entire offensive architecture. Expecting Knueppel to return from a hamstring injury and match those historic numbers without a master table-setter is putting him in an impossible position. The Illusion of Spacing Without a Playmaker On paper, Charles Lee can roll out pure shot-makers: Grayson Allen , Brandon Miller , Royce O’Neale , Naz Reid , and eventually White and Knueppel. It looks like a spacing dream. Yet Charlotte is stuck near the bottom of the league in 3-point percentage, ranking 29th at a dismal 28.7%, and dead last in assists (20.6 per game). Because elite spacing is useless if nobody can collapse the paint. Without a high-level point guard drawing two defenders to the ball, opposing teams stay glued to Miller and Allen on the wings, daring Dennis Schröder or secondary handlers to create late in the clock. White is a talented scorer, but he’s a combo guard, not a floor general. Placing the sole burden of organizing this offense on Whi</description>
-<enclosure url="https://media.zenfs.com/en/last_word_on_sports_293/7b9231d97b906ced02ea26249c24fd49.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/last_word_on_sports_293/7b9231d97b906ced02ea26249c24fd49.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:29:21 +0000</pubDate>
+<description>Bayern Munich forward Harry Kane shows off the Ballon d'Or before Saturday's home match with Borussia Dortmund. (Alexandra BEIER) Bayern Munich striker Harry Kane criticised his own performance in Saturday's 2-2 home draw with Borussia Dortmund, just days after the "incredible high" of winning the Ballon d'Or. The draw leaves Bayern and Dortmund deadlocked on 18 points atop the Bundesliga table, with Kane's side ahead on goal difference. Kane won the award in his hometown of London on Monday, the first Englishman since Michael Owen in 2001 and the first Bayern player in 45 years. The 33-year-old said winning the award was "one of the best feelings I've had in my career without a doubt", but said he was frustrated by his own performance on Saturday. The England captain, who took to the pitch wearing boots with gold studs, missed a second-half penalty and it was his wayward pass which Dortmund captain Nico Schlotterbeck intercepted on the way to Dortmund's equaliser. "Today probably wasn't my best performance or the team's best performance, but that's just life," Kane told reporters. "That's just part of being a striker, a footballer. "I probably could have been out there for another hour today and the ball wouldn't have gone in the back of the net. "You have to take it on the chin sometimes. It was an incredible week, but the focus for sure now is on the games ahead," said Kane, who revealed there would be a special presentation of the Ballon d'Or award with the England team during November's international break. After 73 goals for club and country last campaign, Kane has had a slow start by his standards. With eight Bundesliga games played, he has four goals but has turned provider, laying on six assists. Kane set up a late goal for Dayot Upamecano which made it 2-1, but former Wolverhampton forward Fabio Silva scored in the 89th-minute to make it 2-2. Bayern travel to Atletico Madrid on Tuesday but look set to be short staffed, particularly up front. "When you concede late, it always feels a lot worse," Kane said. "But, it's nothing to cry about, we have many games coming up and we've got to put this one behind us and look forward to Tuesday night." The Bavarian giants lost Michael Olise, Ismael Saibari and Serge Gnabry during Saturday's match, adding to an injury list which already includes Jamal Musiala and Luis Diaz. Bayern coach Vincent Kompany is recovering from meningeal irritation. After collapsing on the training pitch last Friday, Kompany was released from hospital on Wednesday but will need more time to recover before returning to the dugout. dwi/lp</description>
+<enclosure url="https://media.zenfs.com/en/afp.com/c5e5cd998e06a44b9d4ee1b894a84346.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/afp.com/c5e5cd998e06a44b9d4ee1b894a84346.jpg" medium="image"/>
 </item>
 <item>
-<title>Vogelbach’s ‘Stacy’s Mom’ Serenade Caps A Wild Brewers Championship</title>
-<link>https://sports.yahoo.com/articles/vogelbach-stacy-mom-serenade-caps-202730175.html</link>
-<guid isPermaLink="false">601270b27a007f277ece1e050372a3c92c055c8d1fe1d057b8a09b3f4824b77f</guid>
+<title>Canelo Alvarez vs. Christian Mbilli LIVE round-by-round updates</title>
+<link>https://sports.yahoo.com/articles/canelo-alvarez-vs-christian-mbilli-043000117.html</link>
+<guid isPermaLink="false">2223cfbecb7cf30f7b9ac8e83bd226383ac7dfbbb6a1c3c014a40f83fe22f5d7</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:27:30 +0000</pubDate>
-<description>Milwaukee Brewers hitting coach Daniel Vogelbach, left, sings with the encouragement of pitcher Aaron Ashby during the championship rally Friday, Oct. 30, 2026 at the American Family Insurance Amphitheater in Milwaukee, Wisconsin. The Brewers beat the Tampa Bay Rays to become the 2026 World Series champions. USA TODAY Network via Reuters Connect The Milwaukee Brewers just won their first World Series title in franchise history, and the celebration got weird fast. Hitting coach Daniel Vogelbach took the mic on Friday night and sang “Stacy’s Mom” with a hoarse, cracking voice. This moment happened after the team defeated the Tampa Bay Rays 4-1 in Game 5 on Wednesday. Vogelbach did not just stumble into the spotlight. He promised to sing this song if the team made it to the celebration. According to the New York Post , he rolled his eyes when the music started but then agreed to perform. He told the crowd, “All right, if you guys really want this, we’re going to do it.” The coach held a Miller Lite in one hand while pacing in front of thousands of cheering fans. A Pledge Kept in Front of Thousands This was not a random karaoke choice. The New York Post reported that Vogelbach was following through on a specific pledge he made during the Game 5 celebration. He said he would sing the Fountains of Wayne hit once the Brewers left the stadium in St. Petersburg. The team finally reached that moment on Friday night in Milwaukee. The coach sounded tired, but the fans loved every off-key note. It showed the loose clubhouse culture that helped them score the second-most runs in baseball. The Brewers offense found a way to win even without massive power numbers. The team finished 28th in home runs but still managed to score the second-most runs in the league. Their third-best OPS in the majors came from a hitting mantra that Vogelbach understood well. He built his own career on getting on base rather than hitting long balls. His career .340 OBP helped him survive for eight seasons in the big leagues. Now he helped a team do the same to win the biggest prize. Babies and Championships in One Week The joy on the field spilled over into the lives of the players too. Two couples announced they are expecting babies right after the final out. Mallory and third baseman David Hamilton announced the news via social media. Mallory wrote, “Daddy’s good luck charm 🍀 &amp; cherry on top of this amazing season,” in an Instagram post. She also posted, “What a year!!!! WORLD SERIES CHAMPS BABYYYYYY. Baby Hamilton 2027 #dadstrength.” Pitcher Dustin May and his wife Amelia made a similar announcement. This title marks May’s fourth career World Series win, but it is his first as an expecting father. With the Los Angeles Dodgers, he secured titles in 2020, 2024, and 2025. Amelia May shared that they will recount the 2026 World Series to Baby May for eternity. In December, the couple will mark their fourth wedding anniversary. Chaos and Legends on the Parade Route The parade itself was</description>
-<enclosure url="https://media.zenfs.com/en/gameday_times_324/36ae48eba85cd088669b53899c989df2.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/gameday_times_324/36ae48eba85cd088669b53899c989df2.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:29:01 +0000</pubDate>
+<description>Canelo Alvarez and Christian Mbilli clash for WBC title Saturday. | AFP via Getty Images MMA Fighting has Canelo Alvarez vs. Christian Mbilli live round-by-round updates for one of the most anticipated boxing fights of the year at the Kingdom Arena in Riyadh, Saudi Arabia, on Saturday. The main event is expected to begin around 5:30 p.m. ET on DAZN pay-per-view . Check out our Canelo vs. Mbilli results page to find out what happened on the undercard. Canelo Alvarez (63-3-2, 39 knockouts) is trying to bounce back after a unanimous decision loss to Bud Crawford, costing him his WBC, IBF, WBO, and The Ring super middleweight titles. Christian Mbilli (29-0-1, 24 knockouts) was elevated to the WBC super middleweight champion after Bud Crawford retired. Mbilli recorded a split draw against Lester Martinez last September. Get the Canelo vs. Mbilli round-by-round live blog below: That’s it for the undercard, the legendary Canelo takes on the undefeated Mbilli next. Round 1: Round 2: Round 3: Round 4: Round 5: Round 6: Round 7: Round 8: Round 9: Round 10: Round 11: Round 12:</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/c5beaf5a743de80724078c2c3c153797.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/c5beaf5a743de80724078c2c3c153797.jpg" medium="image"/>
 </item>
 <item>
-<title>Ian Poulter’s Ryder Cup Captaincy Dream Blocked By Tour Rule</title>
-<link>https://sports.yahoo.com/articles/ian-poulter-ryder-cup-captaincy-202717483.html</link>
-<guid isPermaLink="false">740edadf35d34cede0a8de71b3f0481b3c2ce28344cd6cee53462035bc644b72</guid>
+<title>Fabio Silva praises Dortmund's mentality but left annoyed by substitute role</title>
+<link>https://sports.yahoo.com/articles/fabio-silva-praises-dortmunds-mentality-212900802.html</link>
+<guid isPermaLink="false">d84975b5ed8ef23f7809353d4e535b6314999337824fcfa7b31ecac47fc376c5</guid>
 <source>Yahoo Sports</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:27:17 +0000</pubDate>
-<description>Jerod Ringwald-Imagn Images Ian Poulter has officially departed LIV Golf, yet his long-held ambition to lead Team Europe as a Ryder Cup captain remains in serious doubt. The situation stems from a specific regulatory hurdle that blocks players who previously rejected European Tour membership from holding leadership roles. Despite the golfer’s recent exit from the breakaway league, the path to the 2027 Ryder Cup captaincy is effectively closed by rules established nearly a decade ago. The core of the issue lies in a regulation the DP World Tour put in place back in January 2017. This rule was designed to protect the integrity of the European team before LIV Golf even existed. According to reports, the regulation explicitly states that any player who declines membership or misses the minimum event count cannot serve as a captain or vice-captain. The rulebook states, “Players cannot be a European Ryder Cup captain or a vice-captain if they decline membership of the European Tour or fail to fulfill their minimum event obligation in any season,”. This restriction applies to a specific group of veterans, including Poulter, Sergio Garcia, Lee Westwood, and Graeme McDowell. There are no plans to change this policy to accommodate those returning from LIV. Poulter has been vocal about his desire to return to the fold. Speaking at LIV Golf Riyadh in February 2026, he told TNT Sports that he still wants a role. “I’d obviously still love to have some involvement in the Ryder Cup in some way, shape, or form,” Poulter said. He noted that other players who joined LIV, such as Jon Rahm and Tyrrell Hatton, have maintained their relationship with the team. “It’s worked that way for Jon [Rahm] and Tyrrell [Hatton], and they’ve still accepted those guys in with the Ryder Cup and, hopefully, that relationship can continue,” he added. However, the DP World Tour has drawn a hard line. Starting in 2027, the tour declared that LIV golfers cannot compete in their events. Following the league’s Chapter 11 bankruptcy filing on Sept. 8, 2026, which cast doubt on its future, this decision was made. The Rule That Stands in the Way The barrier Poulter faces is not a new decision made in response to his exit, but a standing policy that predates the current golf landscape. The rule targets the act of declining membership and failing to meet event obligations. Since Poulter joined LIV and did not fulfill the European Tour requirements during those years, he triggered the ineligibility clause. The reporting from AOL.com confirms that there are no anticipated plans to modify this regulation. This means that even though Poulter has quit LIV, the damage to his eligibility was done years ago when he signed with the rival circuit. Other high-profile names face the same wall. Sergio Garcia and Lee Westwood are in the same boat regarding captaincy duties. The DP World Tour’s stance is clear: the minimum event obligation is a non-negotiable requirement for leadership roles. This creates a c</description>
-<enclosure url="https://media.zenfs.com/en/golfer_insight_356/d9f5b4d85d131fcd5c7224274ce49908.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/golfer_insight_356/d9f5b4d85d131fcd5c7224274ce49908.jpg" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:29:00 +0000</pubDate>
+<description>Fabio Silva praises Dortmund's mentality but left annoyed by substitute role MÜNCHEN ( Bulinews ) Speaking to Bulinews.com after their 2-2 stalemate with FC Bayern , Fabio Silva was proud of Borussia Dortmund's sharp turnaround in mentality. "I'm happy. I think the most important thing was our mentality. After the last game [3-2 DFB-Pokal win] against Bremen, we were not so happy about our performance then. "The coach said it was not our best game and we agreed. We tried to change the mentality and show we are here to fight for titles and we are not afraid of any team," he said. Netting in the 89th-minute to salvage a point for the Westphalians, the Portuguese striker said being a substitute frustrates him but working for the team matters most. "It feels important to help the team. Football is not only about goals. I was there to help the team and try create chances for teammates. I also combine with Serhou [Guirassy] well. "Of course I want to be on the pitch from the start. If I say I'm happy to start on the bench, then I would not be 100 percent honest with you. At first I am of course angry. "But I try to always be positive because I know I am important for the team. If I start on the pitch or bench, I focus on that because we have an amazing squad to fight for titles," he concluded.</description>
+<enclosure url="https://media.zenfs.com/en/bulinews_articles_290/3c3466a872362aec92b75af783d8133f.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/bulinews_articles_290/3c3466a872362aec92b75af783d8133f.jpg" medium="image"/>
 </item>
 <item>
-<title>Pope Leo stays neutral for Villanova-Notre Dame: ‘The pope doesn’t take sides’</title>
+<title>Watch: Barcelona debutant produces moment of brilliance vs Alavés</title>
+<link>https://sports.yahoo.com/articles/watch-barcelona-debutant-produces-moment-212900445.html</link>
+<guid isPermaLink="false">83dd5711b9f37fa990982d62fa2b98db121465e6f7e086f9aa460bd94d01ee9e</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:29:00 +0000</pubDate>
+<description>Watch: Barcelona debutant produces moment of brilliance vs Alavés Barcelona starlet Brian Fariñas conjured up a moment of individual magic during his debut appearance in the colours of the Blaugrana on Saturday evening. Barca are of course currently locked in action on the domestic front, in a La Liga meeting with Deportivo Alavés. Amid an ongoing personnel crisis in Catalunya’s capital, the aforementioned Fariñas was chosen to slot in at right-back, for his first-ever start at senior level. And the 20-year-old has since taken to first-team football like a duck to water. Amid a Blaugrana rout at the Spotify Camp Nou, Fariñas – naturally a midfielder – has impressed from his role at right-back, linking up with teammate and close friend Lamine Yamal in stellar fashion. One such exchange between the duo has since turned heads across social media, too, after Fariñas showcased all of his vision, creativity and technical excellence. Check out footage of the moment in question courtesy of La Liga below: Conor Laird – GSFN</description>
+<enclosure url="https://media.zenfs.com/en/get_spanish_football_news_articles_403/8ef90621f71af70bbaa1e56c0a40f82b.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/get_spanish_football_news_articles_403/8ef90621f71af70bbaa1e56c0a40f82b.jpg" medium="image"/>
+</item>
+<item>
+<title>Are De Zerbi's Spurs finding elusive consistency?</title>
+<link>https://sports.yahoo.com/articles/zerbis-spurs-finding-elusive-consistency-211617431.html</link>
+<guid isPermaLink="false">805de66c6d682d15c03d82b118423fdb52faa05d15210f1d7dcf4744243b2df6</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:28:25 +0000</pubDate>
+<description>Tottenham Hotspur are finally showing signs of consistency under head coach Roberto de Zerbi [Reuters] The long wait is over. After almost 21 months, Tottenham Hotspur have won three Premier League games in succession again. Spurs cruised to victory on Saturday against Crystal Palace, who were reduced to 10 men after 13 minutes when striker Jean-Philippe Mateta was sent off for an ill-judged lunge at Micky van de Ven. It means Tottenham have moved into the dizzy heights of the top half of the table. Archie Gray and Jan Paul van Hecke scored as Spurs built on a platform established by their first league win of the season at home to Coventry City, then fortified by the outstanding victory at Chelsea - only Spurs' second league triumph at Stamford Bridge in 36 years. But the prevailing mood inside the Tottenham Hotspur Stadium before kick-off against Palace, undoubtedly shaped by the past, was that the visit of a struggling side represented a banana skin rather than an opportunity. Tottenham's players weren't having that, though. Not a bit of it. Instead, Spurs grasped gratefully at the helping hand offered by Mateta's recklessness to end up convincing winners. Three straight wins represent riches indeed. The last time this happened for Tottenham was in February 2025, more than 600 days ago. Three wins is as many as Spurs had in their previous 26 league games combined, in which they drew 10 and lost 13, going back to midway through last season. And, if a further indicator was needed as to just how poor Spurs have been in recent times, this is the first occasion when they have recorded back-to-back home wins in the league for two years. This latest sequence represents consistency of the sort that has eluded Spurs in recent years, the previous incarnation being the consistency of regular defeats and two successive 17th-place finishes in the Premier League. We are witnessing a significant mood shift at Spurs, reflected inside this magnificent arena since the psychological barrier of the vital first league win was crossed against Coventry. Head coach Roberto de Zerbi told BBC Sport's Match Of The Day: "The passion we showed - we didn't lose the focus, the concentration. We made an incredible reaction when we lost the ball. "We could have scored more goals, but we created many chances. We have to be more nasty, especially in the last third of the match, especially in the finishing. I'm happy because I knew before this would be a tough game." De Zerbi pleaded for patience for his big summer acquisitions, with midfield duo Sandro Tonali, a £100m arrival from Newcastle United, and £85m signing Mateus Fernandes, who came from West Ham United, both starting slowly. While any optimistic verdict on Spurs in recent times always comes with natural caution attached, the expensive pair are now showing signs of why De Zerbi was prepared to pay such prices to make them part of his transformation. Tonali started to come to life against Coventry City and here he was pi</description>
+<enclosure url="https://media.zenfs.com/en/bbc_us_articles_995/5336336c1503335850fa40db4e7d61b9.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/bbc_us_articles_995/5336336c1503335850fa40db4e7d61b9.jpg" medium="image"/>
+</item>
+<item>
+<title>‘It’s a disaster’: Former Colts quarterback calls out owner for being on sidelines during games</title>
+<link>https://sports.yahoo.com/articles/disaster-former-colts-quarterback-calls-212758099.html</link>
+<guid isPermaLink="false">2c1ff97462c1211717b0c435c51919fa1401f14fe1eb3672a409b6772eea84c9</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:27:58 +0000</pubDate>
+<description>Credit: Robert Scheer-USA TODAY Sports Carlie Irsay-Gordon took over as principal owner and CEO of the Indianapolis Colts after her father, longtime owner Jim Irsay, passed away in 2025, and she has been a fixture on the sideline. Irsay-Gordon was heavily involved in the franchise even before becoming principal owner, having spent over a decade as vice chair and co-owner, but since ascending to the role of principal owner, she has taken on a very hands-on approach during games and stands on the Colts’ sideline wearing a headset and talking to coaches. One former Colts quarterback, Sean Salisbury, who played for the franchise in 1987, thinks Irsay-Gordon needs to stop. “I told you when the season started when an owner stands on the sideline taking notes, you’re f*cked,” Salisbury said. “I know people are going to focus on men or women, I don’t care what the gender is…. Sean Salisbury Went off of Carlie Irsay-Gordon “I told you when the season started when an owner stands on the sideline taking notes, you’re f*cked. I know people are going to focus on men or women, I don’t care what the gender is …. I don’t care if you’re SpongeBob Squarepants …. Players do not like to feel like they’re being micro-managed.” https://t.co/efyWK1hWTC — uSTADIUM (@uSTADIUM) October 31, 2026 “I don’t care if you’re SpongeBob SquarePants. That is no place for the owner to be [on the sideline]. I have a lot of respect for the Irsays, I do. But the second you come downstairs during a game – not during the end – I’m telling you it’s a disaster. … Players do not like to feel like they’re being micro-managed.” Irsay-Gordon has explained being on the sidelines as her gaining the best possible understanding of how the team functions. “I think one of the things that I learned in going through, even as back as when we hired Chuck Pagano (in 2012), is that sort of accelerated my, ‘I need to learn more about this,’” she said in June of 2025 . “‘I need to be able to say, is this person full of BS? Do they even know what they’re talking about? And I think one of the things that being on the headset has really helped me learn is to the question earlier, it’s such a complex organism of football team and how it operates.” However, Salisbury isn’t alone in thinking her behavior is out of line. The Ringer’s Bill Simmons said that he’d seen enough of it earlier this month. The Colts are 2-5 and in the middle of a fire sale, so the reality is that their owner trying to learn the way her team operates is far from their most pressing concern. The post ‘It’s a disaster’: Former Colts quarterback calls out owner for being on sidelines during games appeared first on The Comeback: Today’s Top Sports Stories &amp; Reactions .</description>
+<enclosure url="https://media.zenfs.com/en/the_comeback_288/7a777173608ccc9d9f964c5a38160e96.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/the_comeback_288/7a777173608ccc9d9f964c5a38160e96.jpg" medium="image"/>
+</item>
+<item>
+<title>Mexico City Grand Prix qualifying results</title>
+<link>https://sports.yahoo.com/articles/mexico-city-grand-prix-qualifying-200000053.html</link>
+<guid isPermaLink="false">0896aa9285e126bd61ae251f9acbb0f52e926e0e65376d1dd16fda4cd041a695</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:27:34 +0000</pubDate>
+<description>(Photo by David Buono/Icon Sportswire via Getty Images) | Icon Sportswire via Getty Images Kimi Antonelli does not need a win to clinch his maiden Formula 1 Drivers’ Championship at the Mexico City Grand Prix. But securing pole position in Saturday’s qualifying session would put him one step closer to securing the result he needs to clinch that first championship. Antonelli can clinch the title with a P9 result in Sunday’s Mexico City Grand Prix, if George Russell wins the race itself, but he could certainly be in the fight for pole position given how Friday’s pair of practice sessions unfolded. Antonelli was second fastest in FP1, and fourth fastest in FP2, with Charles Leclerc leading both hours. But as we saw last week at the United States Grand Prix, Antonelli does have a habit of turning it on during qualifying. Antonelli was in the middle of the pack during FP1 in Austin, but a thunderous lap at the start of Q3 was enough to secure pole position, and put him on a path to victory. A similar performance today could put him on a path not just to victory, but to a title. Mexico City provisional starting grid Here is the provisional starting grid for the Mexico City Grand Prix, which will be filled in throughout the session: Row Position Driver Team Position Driver Team Row 1 1 2 Row 2 3 4 Row 3 5 6 Row 4 7 8 Row 5 9 10 Row 6 11 12 Row 7 13 14 Row 8 15 16 Row 9 17 Alexander Albon Williams 18 Carlos Sainz Williams Row 10 19 RRyō Hirakawa Haas 20 Lance Stroll Aston Martin Row 11 21 Sergio Pérez Cadilllac 22 Valtteri Bottas Cadillac Mexico City Grand Prix qualifying Here is how the qualifying hour unfolded. All times listed are in Eastern: Q1 5:26: Checkered flag for Q1. Alonso, Stroll, Perez, and Bottas already out. 5:23: Hamilton and Leclerc lead a Ferrari one-two at the moment, ahead of Piastri and Norris. 5:21: Q1 has just four minutes left, Albon, Alonso, Hirakawa, Stroll, Pérez, and Bottas are in the drop zone. 5:05: Alonso has the early benchmark of 1:18.908, but the best teams have yet to post times. 5:01: Green light in Mexico City, and Pérez is one of the first to take to the track.</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/1c69e91114b30fc7e386005682cdf38c.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/1c69e91114b30fc7e386005682cdf38c.jpg" medium="image"/>
+</item>
+<item>
+<title>Canelo Alvarez vs Christian Mbilli: Live blog, round-by-round and results</title>
+<link>https://sports.yahoo.com/articles/canelo-alvarez-vs-christian-mbilli-061150046.html</link>
+<guid isPermaLink="false">5ef8c12d91e38bc90cc158151b6a3c08d39dac75b8d5ba39d8eece1797de99c5</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:27:26 +0000</pubDate>
+<description>Canelo Alvarez returns today in Riyadh, Saudi Arabia, facing Christian Mbilli for Mbilli’s WBC super middleweight title. Canelo hasn’t fought since losing to Terence “Bud” Crawford 13 months ago, but Mbilli hasn’t fought since that same card, where he went to a draw with Lester Martinez. We’ll be here from 1:00 pm ET with live updates and round-by-round results for the full main card. Wil Esco is on the round-by-round call, and we’ll have the live chat going down in the comments section, too. If you’re on the go, you can join the conversation with the SB Nation app for iOS or Android ! Canelo vs Mbilli live blog and results Jaime Munguia def. Nikita Zon by Unanimous Decision Immediate Reaction: Nearly a disastrous ending for Munguia, who nearly got stopped in the sixth round but showcased his resilience and ultimately did enough to win wide on the cards. Munguia is seemingly always vulnerable even when ahead in fights, and that’s exactly what makes him an exciting fighter, providing the kind of momentum swings that deliver the drama. Official Scores: 116-112, 117-111, 117-111 for Jaime Munguia. Round 12: Munguia comes forward and tries to press the action but can’t quite find the target. Right hand from Munguia lands to the head of Zon. Zon on the defensive as he’s completely gassed out and can’t really sustain any offense of his own. Counter right lands clean for Munguia as Zon jumps in recklessly. I’ve got the round for Munguia 10-9, for a 117-111 win on my card. Round 11: Munguia takes center ring and lands a right hand upstairs. Munguia lands a hard left hand to the body at the end of a three punch combination. Left to the body makes Zon take and awkward step as his right leg gives out for a moment. Now Zon lands a couple of body shots as he presses Munguia to the ropes. Zon hurt on another body shot. Munguia 10-9, 107-102. Round 10: Munguia tries to lunge on a few punches and can’t find the range. Munguia tags Zon during a brief exchange. The action in the fight has slowed and now Munguia goes down on a push and ruled as such. Zon lands a body shot and looks to hook off it. Left hook lands hard to the body of Zon. Munguia 10-9, 97-93. Round 9: Left lands to the body for Munguia, then another. Zon tries to counter off the back foot with a few punches before smothering Munguia. Jab lands for Munguia. Three right hands come from Munguia in a row. Now Zon lands three body punches. Seeping right hand from Munguia lands hard up top. Now Munguia lands a right to the body. Munguia 10-9, 87-84. Round 8: Hard left to the body lands for Munguia. Munguia lands a couple up top now. Zon looks to the body himself, targeting both sides. Clean counter right from Munguia picks off Zon. Zon lands one punch and dives in to clinch. Uppercut from Zon makes partial contact. Zon lands a counter left and Munguia wants to get it back but can’t find a home for the punches. Another clash of heads at the bell. I edge Zon, 75-77. Round 7: Munguia getting support from the</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/1021b4be6dcf020611aac8384c377a95.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/1021b4be6dcf020611aac8384c377a95.jpg" medium="image"/>
+</item>
+<item>
+<title>Canelo vs. Mbilli Highlights, Streaming Updates TODAY!</title>
+<link>https://sports.yahoo.com/articles/canelo-vs-mbilli-highlights-streaming-133000634.html</link>
+<guid isPermaLink="false">e0cccc122883d85087adb5e71dd274c4103648559d3ff0cb22f00ac9be26da10</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:25:42 +0000</pubDate>
+<description>Photo by Ed Mulholland/TKO Worldwide LLC via Getty Images Canelo Alvarez will make his long-waited return to the ring later TODAY (Sat., Oct. 31, 2026) in an attempt to win another world title, taking on current WBC interim Super Middleweight champion, Christian Mbilli , from inside Kingdom Arena in Riyadh, Saudi Arabia, on DAZN PPV . Canelo has not competed since losing to Terence Crawford last year, and now the mega-boxing star is out to remind everyone that he is still the face of the sport and one of the greatest boxers to ever step inside the ring. As for Mbilli, this is his chance to steal the spotlight by taking Canelo’s shine with a huge upset win. Many readers check in before, during and after the fights to share their thoughts on all of the action ( see full fight card here ), as the main card kicks off at 12 p.m. ET on DAZN PPV . Feel free to leave a comment (or several) about the bouts and chat with all the other Maniacs during the show — it’s always a lot of fun! To stream / watch it live online via DAZN PPV click here . CANELO VS. MBILLI DAZN PPV QUICK RESULTS: 168 lbs.: Canelo Alvarez vs. Christian Mbilli 168 lbs.: Jaime Munguia vs. Nikita Zon – Munguia wins via unanimous decision 126 lbs.: Rafael Espinoza vs. Ricardo Blandon – Espinoza wins via third-round TKO (doctor’s stoppage) 130 lbs.: Reito Tsutsumi vs. Raymundo Rojas Garcia – Tsutsumi wins via second-round TKO 122 lbs.: David Picasso vs. Carl Jammes Martin – Martin wins via unanimous decision 130 lbs.: Sultan Almohammed vs. Erick Jahir Urvina Villegas – Almohammed wins via unanimous decision 168 lbs.: Bek Nurmaganbet vs. Marcos Vazquez Rodriguez – Nurmaganbet wins via first-round KO – HIGHLIGHTS ! 160 lbs.: Carlos Emiliano Rojo vs. Flavius Biea – Rojo wins via fourth-round TKO 168 lbs.: Brayan Leon vs. Hector Octavio Aguirre Martinez – Leon wins via unanimous decision CANELO VS. MBILLI DAZN PPV PLAY-BY-PLAY: COMING SOON … CANELO VS. MBILLI DAZN PPV HIGHLIGHTS: A closer look of the cut that forced the doctor to stop the Espinoza vs Blandon fight 👀 Do you agree with the stoppage? 🤔 #CaneloMbilli | @RiyadhSeason | Live on DAZN 🥊 pic.twitter.com/QZ0SMzZXJC — Ring Magazine (@ringmagazine) October 31, 2026 Rafael Espinoza vs Ricardo Blandón is stopped due to a cut in the third round 🤕 🎟️ Buy #CaneloMbilli NOW at https://t.co/yxybEeo0Px | Live Now on DAZN | Mexico vs The World | @RiyadhSeason pic.twitter.com/qvRXFvr4GC — DAZN Boxing (@DAZNBoxing) October 31, 2026 CANELO 🤝 USYK Oleksandr Usyk is here to support Canelo Alvarez against Christian Mbilli tonight 🐐 #CaneloMbilli | @RiyadhSeason | Live on DAZN 🥊 pic.twitter.com/fyrutkkKEL — Ring Magazine (@ringmagazine) October 31, 2026 Reito Tsutsumi gets his fifth knockout in a row 🤯 🎟️ Buy #CaneloMbilli NOW at https://t.co/yxybEeo0Px | Live Now on DAZN | Mexico vs The World | @RiyadhSeason pic.twitter.com/CxS0hGg0BU — DAZN Boxing (@DAZNBoxing) October 31, 2026 WONDER BOY WINS! 🇵🇭 Carl Jammes Martin BEATS David Picasso on points. 🎟️ Buy</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/28df67bf1a12feef8fbf69ee2c952f1e.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/28df67bf1a12feef8fbf69ee2c952f1e.jpg" medium="image"/>
+</item>
+<item>
+<title>Canelo vs. Mbilli Results: LIVE updates of the undercard and main event</title>
+<link>https://sports.yahoo.com/articles/canelo-vs-mbilli-results-live-040000867.html</link>
+<guid isPermaLink="false">a4992c32d38db64792c56312b175f16f528bf9b5280d0971b7867ebe957145c8</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:25:29 +0000</pubDate>
+<description>Canelo Alvarez and Christian Mbilli clash in the main event Saturday. | AFP via Getty Images MMA Fighting has Canelo vs. Mbilli results for the Canelo Alvarez vs. Christian Mbilli fight card and more for one of the most highly anticipated events of the year at the Kingdom Arena in Riyadh, Saudi Arabia, on Saturday. When the main event begins around 4:30 p.m. ET, check out our Canelo vs. Mbilli live round-by-round updates for our live blog of the main event. Canelo Alvarez tries to win the WBC super middleweight title and hand Christian Mbilli his first professional loss. Check out Canelo vs. Mbilli results below. Canelo vs. Mbilli Main Event ( DAZN PPV LIVE now) Canelo Alvarez vs. Christian Mbilli Live blog Canelo vs. Mbilli undercard Jaime Munguia def. Nikita Zon via unanimous decision (116-112, 117-111 x2) Rafael Espinoza def. Ricardo Blandon via third-round TKO (cut stoppage) (1:22) Reito Tsutsumi def. Raymundo Rojas via second-round TKO (2:27) Canelo vs. Mbilli prelims Carl Jammes Martin def. David Picasso via split decision (94-95, 95-94, 96-93) Sultan Almohammed def. Erick Villegas via unanimous decision (60-54, 59-55 x2) Bek Nurmaganbet def. Marcos Vazquez via first-round KO (2:57) | Watch finish Emiliano Rojo def. Flavius Biea via fourth-round TKO (1:38) Brayan Leon def. Hector Aguirre via unanimous decision (77-75, 78-74 x2) For more on Jaime Munguia vs Nikita Zon, check out the live blog below. Jaime Munguia vs. Nikita Zon After an hour delay as they waited for Turki Alalshikh to arrive, the co-main event fighters walk out now. Tony Weeks on hand to referee this contest. Round 1: Zon advances cautiously as Munguia welcomes him to fight in the corner. Munguia strikes the body, Zon with a quick flurry in response. Munguia with a couple of good body shots. They get tangled up and Zon hits the body after the referee steps in, so Munguia clips him with a left hook. Weeks has to settle the fighters down. Zon targeting the head, but Munguia making it difficult by frequently ducking in. Munguia with a two-punch combo that catches Zon’s attention. Zon keeping up the offense as the opening round comes to a close. MMA Fighting scores the round 10-9, Zon. Round 2: Zon staying busy with the jab. Munguia lands a combo, Zon coming right back at him, but Munguia is landing. Munguia hammering the body. Zon has him cornered and scores with straight punches. Left hook from Zon. He’s unpredictable in there and Munguia looks a tad annoyed. Munguia slips in a left hand. Both fighters missing on big swings. Big flurry from Munguia to close out the round, some hard punches getting through. MMA Fighting scores the round 10-9, Munguia. Overall, 19-19. Round 3: Zon tries to tie Munguia up, but Munguia scoring with body punches before they separate. Zon keeps up the corner pressure. Another good body shot by Munguia. Zon just eats a counter right. The challenger playing a dangerous game here. Munguia with a jab. His head movement is giving Zon problems. Munguia pu</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/e62bfa1c2853f126419c1e0bcdcf744a.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/e62bfa1c2853f126419c1e0bcdcf744a.jpg" medium="image"/>
+</item>
+<item>
+<title>Max Verstappen will have no say in 2027 Racing Bulls driver line-up, says Red Bull boss</title>
+<link>https://sports.yahoo.com/articles/max-verstappen-no-2027-racing-212415660.html</link>
+<guid isPermaLink="false">8a7a1debd84eb53ca8a147cf01a8b11410c87190480ec72643281424869da128</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:24:15 +0000</pubDate>
+<description>Motorsport photo Red Bull Racing CEO and team principal Laurent Mekies has explained that Racing Bulls alone will decide its Formula 1 driver line-up for 2027 and that Max Verstappen will not have a say despite his clash with Liam Lawson in Mexico. Both Verstappen and Lawson were handed a one-place grid penalty for the Mexican Grand Prix after making contact during the second practice session on Friday. The four-time champion argued it was "not very smart behaviour" from Lawson while speaking to the media after the session. "Well, I don't think it's called unlucky. Maybe not very smart behaviour, what he was trying to do there," the Dutchman explained. "I mean, at the end of the day it's not going to change my weekend, but if I were him I would act a little bit smarter. Also, when you're fighting for your seat, it's not very smart behaviour." Lawson's contract with the Red Bull sister team expires at the end of 2026, but Mekies insisted that Verstappen and Red Bull would have no sway over the Racing Bulls driver line-up. Max Verstappen, Red Bull Racing Max Verstappen, Red Bull Racing "No, I think you know you have to separate both aspects. You have some things that were very unnecessary on the track and therefore are frustrating for the drivers involved and frustrating for the teams involved, and this is probably what you hear with Max's answer, and then there are driver decisions," Mekies told Sky Sports F1. "Racing Bulls [driver line-up is] down to them and only down to them." When asked to clarify if Verstappen could influence Racing Bulls' driver decisions, Mekies added: "Max knows motorsport far too much to be influenced by a single episode anyway. I think so far we've been on the back foot. "The other three top teams have been somehow extracting a bit more than us, but the weekend is not finished. The guys have been putting the best shot at the last modification we can do to the car. "Let's see if we can get a bit closer to the top. When things were very bad this morning, we were about three and a half tenths away. If we can close a bit of that gap, it should put us back in the mix." To read more Motorsport.com articles visit our website .</description>
+<enclosure url="https://media.zenfs.com/en/motorsport_articles_445/8513f0a8c13d8e0e244439bb0a96db9e.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/motorsport_articles_445/8513f0a8c13d8e0e244439bb0a96db9e.jpg" medium="image"/>
+</item>
+<item>
+<title>Raphinha scores two more goals and nears Barcelona's all-time top 20</title>
+<link>https://sports.yahoo.com/articles/raphinha-scores-two-more-goals-212400221.html</link>
+<guid isPermaLink="false">fdf5afaf4065fcc7351b312b839e4c25e0c4890768487694dd540386dcb692cb</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:24:00 +0000</pubDate>
+<description>Raphinha scores two more goals and nears Barcelona's all-time top 20 Barcelona are steamrolling Alavés at Camp Nou with TWO goals from Raphinha. The Brazilian has now scored 92 goals for the Catalan club. And he is closing in on the top 20 scorers in Barça's history. Raphinha sits 23rd in the rankings. Pedro, in 20th, has 99 goals. Messi, of course, is way out in front with 672 goals. The top 20 features three Brazilians: Rivaldo (130), Evaristo (105) and Neymar (105). Barcelona vs Alavés is underway. Click the card below for key live updates: With his two goals this Saturday (31), Raphinha has now scored 17 goals in 12 games for Barcelona this season. If he keeps scoring at this rate, Raphinha will need five games to reach the top 20 and 10 games to climb to 15th place. This article was translated into English by Artificial Intelligence. You can read the original version in 🇧🇷 here.</description>
+<enclosure url="https://media.zenfs.com/en/onefootball_articles_802/71cb3664da9bd73d1ca21ebaa4e79a70.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/onefootball_articles_802/71cb3664da9bd73d1ca21ebaa4e79a70.jpg" medium="image"/>
+</item>
+<item>
+<title>&amp;quot;We have to get out of this together&amp;quot; – Karius sums up Schalke's struggles after another defeat</title>
+<link>https://sports.yahoo.com/articles/together-karius-sums-schalkes-struggles-212300546.html</link>
+<guid isPermaLink="false">1b429c9c22ddbd6257f9287fb8bebb37962869750bac3b4c1a507cfe25b20833</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:23:00 +0000</pubDate>
+<description>"We have to get out of this together" – Karius sums up Schalke's struggles after another defeat FC Schalke 04 are winless in their last six games, having followed a 2-0 DFB-Pokal exit against Dynamo Dresden with a 0-2 Bundesliga defeat to RB Leipzig at the Veltins-Arena on Saturday. After the game, Schalke goalkeeper Loris Karius didn't mince his words when assessing the club's struggles. “We have to get out of this together. It's a shit situation,” Karius admitted in an interview with Sky. “It's not getting any easier. We have to work, work, work. Score goals, score goals, score goals.” Schalke coach Miron Muslic, meanwhile, came to his team's defence. “We really tried everything within our capabilities. I have no criticism of the team. We threw ourselves into every challenge,” the coach insisted. Despite suffering another defeat, Muslic even felt that his side had shown signs of improvement. “We took a step forward today, even if it was a very, very small one,” he noted. “We have to keep going and learn quickly.” The result leaves Schalke in 16th place, but they could be overtaken by 1. FC Union Berlin on Sunday if the capital club manage to pick up at least a point against 1. FC Köln. The Royal Blues are also in danger of setting an unwanted record: only FC St. Pauli have previously gone without scoring in their first five home matches of a Bundesliga season.</description>
+<enclosure url="https://media.zenfs.com/en/bulinews_articles_290/f0e1ea579f16337d4a2d229e8b6136d9.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/bulinews_articles_290/f0e1ea579f16337d4a2d229e8b6136d9.jpg" medium="image"/>
+</item>
+<item>
+<title>Bergen Catholic pulls away late to defeat DePaul in 'Campanile Bowl'</title>
+<link>https://sports.yahoo.com/articles/bergen-catholic-pulls-away-defeat-212247291.html</link>
+<guid isPermaLink="false">d4f530f9868efd435fde7e278ad81fa075e307af3dff40b32b630f1c4d38468d</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:22:47 +0000</pubDate>
+<description>ORADELL – Bergen Catholic versus DePaul, aka the Campanile Bowl, was again won by the football team coached by the older brother. Coach Vito Campanile and Bergen Catholic pulled away in the second half and secured the 28-14 victory in the final minute over brother Nick and DePaul in their regular-season finales on Oct. 31. “This is the game that’s never easy for me,” said Vito Campanile, who is 3-0 in a family series that began in 2022. “It’s the only time you ever win and you feel somewhat of a little bit of a dent in you, if that makes sense.” “It’s always really tough, but it’s not about that,” Nick Campanile said. “Obviously, Vito’s taught me more than anybody on the planet, I love him to death and obviously respect him more than anybody. I wouldn’t be where I am right now without him, but it’s about the kids, and you try to block that part out as best as you can.” Junior quarterback Trey Tagliaferri threw for 171 yards and a TD and ran for a score to lead Bergen Catholic (5-4). Junior running back Anthony Cristiano and versatile senior Bryan Porter also ran for TDs for the Crusaders. DePaul tied the score, 7-7, with 12 seconds left in the second quarter on senior running back Sean Nevers’ 1-yard run. The Spartans tied it in the third, 14-14, on junior quarterback Frank Morano’s 21-yard score to junior Gavin Sblendorio. Bergen Catholic secured the win in the final minutes. Tagliaferri threw a 1-yard TD pass to sophomore Cruz Araujo for a 28-14 lead with 1:22 remaining. Crusaders senior defensive back Amar’e Newell sealed the win with an interception with just under a minute remaining “It’s a family affair,” said Bergen Catholic junior TE/DE Rocky Rosenberg, on the field for more than 100 plays,” but we treat it like every other game. The preparation is the same, and you just stay ready.” Players of the game Bryan Porter, Bergen Catholic: Porter carried 17 times for 93 yards and a TD, with most of his runs to the outside. He also caught six passes for 48 yards. Trey Tagliaferri, Bergen Catholic: Tagliaferri was 21 for 25 for 171 yards, one TD and no interceptions. He scored the first TD midway through the second quarter on a 5-yard run. They said it “A grind-it-out, playoff-type win, a tough, tough football game,” Vito Campanile said. “They have some great stuff schematically and gave us some fits. It was just a back-and-forth battle and we got that service break late and made the most of it.” “Obviously disappointed,” Nick Campanile said. “We had our chances in that game. I felt we left a lot of points on the field in the first half, and then it came back to bite us.” My take It’s playoff time now, with Bergen Catholic heading into Non-Public A and DePaul seeking a third consecutive title in Non-Public B. Seedings will be released Nov. 1. Bergen Catholic, ranked No. 8 in the USA TODAY NETWORK New Jersey Super 25 , needs to run the ball better and produce more big plays. The Crusaders’ longest gain came on a fake punt that became a 35-yard run</description>
+<enclosure url="https://media.zenfs.com/en/the-bergen-record/3a647e780c7c62510ddd54184ccef5ab.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/the-bergen-record/3a647e780c7c62510ddd54184ccef5ab.jpg" medium="image"/>
+</item>
+<item>
+<title>The Packers can’t run block</title>
+<link>https://sports.yahoo.com/articles/packers-t-run-block-212241286.html</link>
+<guid isPermaLink="false">616ecb01ea5c5736c9714f45b250b628ff218328c35fa0d465869de59a9985db</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:22:41 +0000</pubDate>
+<description>(Photo by Amy Lemus/NurPhoto via Getty Images) | NurPhoto via Getty Images Stating the complete obvious, but the Green Bay Packers’ running game has reached a level of hopelessness that seems almost statistically impossible. Coming into Thursday night, the Carolina Panthers ranked a paltry 30th in EPA allowed per rush. If there was ever going to be any sort of “get right” game for the offensive line, it was going to happen against Carolina. They had just been pummeled by Tampa Bay four days earlier, facing 48 carries and allowing a 94th percentile rushing success rate to the Buccaneers. They were tired, they were on the road, and they are a bad run defense. And it didn’t matter. Despite starting left guard Aaron Banks returning to the lineup last night, he struggled more than anyone else. In watching all of the Packers’ 25 running back carries, I credited Banks with seven errors or lost blocks that lead to the play not working as intended (either leading to the tackle or disrupting the intended play design). That’s a rate of 28%. His fellow guard Laken Tomlinson, playing on the right side now after Banks’ return, was credited with four errors. Emergency third-string center John Williams was credited with three, including a really bad whiff near the goal line. Josh Jacobs somehow scored on this but good grief John Williams whiffed hard pic.twitter.com/K57xfSxaqF — rcon14 (@rcon14) October 30, 2026 The tackles were better, with Belton credited for two, and Morgan’s only error involving missing the linebacker on the Jacobs toss to the left. Bo Melton managed to make two errors in a matter of three plays on the final drive, both missing his crack block (bad) and getting thrown four yards into the backfield against a defensive end (understandable for the small receiver). Of the 25 carries the Packers’ running backs had, I counted a whopping six carries where someone didn’t mess something up. The running game generally requires everyone to do their job to generate positive plays, and if you always have someone messing up, you just can’t get those four, five, or six-yard gains that you need to reliably sustain drives on the ground. The problem wasn’t entirely isolated to the offensive line, though, even if they were the primary culprit. We also had this vision masterpiece from Marshawn Lloyd. i'm going to become the joker pic.twitter.com/XxZ3mEKG0w — rcon14 (@rcon14) October 30, 2026 I think stopping your feet because there's a safety fifteen yards away from you while your OL and TE blocked this thing up perfectly is a new low in the Marshawn Lloyd is a blind bat commentary pic.twitter.com/F9g2l0S2tA — rcon14 (@rcon14) October 30, 2026 This may actually be the best blocked play of the entire game and Lloyd somehow manages to screw it up despite this being exactly where he is supposed to run. ffs bro this is where you are supposed to go you are looking directly at it!!! pic.twitter.com/lrL8P9adId — rcon14 (@rcon14) October 30, 2026 Between Lloyd’s vision</description>
+<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/32176edad666a6d1b5d3b83902ca6289.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/32176edad666a6d1b5d3b83902ca6289.jpg" medium="image"/>
+</item>
+<item>
+<title>No Elandon Roberts for Steelers Battle vs. Browns</title>
+<link>https://sports.yahoo.com/articles/no-elandon-roberts-steelers-battle-212238132.html</link>
+<guid isPermaLink="false">e7aa01acf4f408ff19b92d538139cf3832baea3737d1613dfe60f5e17e549fae</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:22:38 +0000</pubDate>
+<description>Pittsburgh Steelers linebacker Elandon Roberts in a game against the Los Angeles Chargers on Sept. 22, 2024. -- Ed Thompson / Steelers Now The Pittsburgh Steelers faithful will have to wait at least one more week for the return of popular inside linebacker Elandon Roberts. Roberts was not elevated from the Steelers’ practice squad by the Steelers before Saturday’s deadline, meaning he will not be eligible to play in Week 8, when the Steelers host the Cleveland Browns. The Steelers called up two others from the practice squad, signing wide receiver Brandon Smith and elevating wide receiver Brandon Johnson with a slew of injuries at wide receiver. Wide receivers Michael Pittman Jr., Roman Wilson remain on injured reserve, while Ben Skowronek is questionable to play as he attempts to return from a calf injury. Roberts r e-joined the Steelers via the practice squad on Oct. 12. The 32-year-old had been one of the team’s final cuts coming out of training camp. Pittsburgh Steelers inside linebacker Elandon Roberts during a game against the New York Jets on Oct. 21, 2024. — Ed Thompson / Steelers Now Roberts was with the Steelers from 2023-24, and then spent last season with the Las Vegas Raiders, where he played for current Steelers defensive coordinator Patrick Graham . He rejoined the team this summer, late in training camp, “I enjoyed him in training camp,” head coach Mike McCarthy said on Monday. “I thought he did a nice job. I think timing was a little bit to do with his opportunity. Once again, we’re trying to get better. All these opportunities that we are creating for players. The changes that you make, we’re trying to improve the team. He’s a veteran. He’s done great things throughout his career, but this man just wants to win. Can’t have enough people like that.” The Steelers do not have any injuries or obvious need for an additional linebacker to dress. Starters Patrick Queen and Payton Wilson and backups Carson Bruener and Cole Holcomb have been active in all seven games so far this season. But the Steelers missed 14 tackles in their Week 4 loss to the Browns, per Pro Football Focus. Related Headlines Steelers Once Again Spurn Veteran Wide Receiver Pittsburgh Steelers 2026 53-Man Roster, Practice Squad Steelers WR Fined Nearly 10% of Game Check for Post-Play Incident Read more at Steelers Now</description>
+<enclosure url="https://media.zenfs.com/en/steelers_now_articles_971/be41d91385f53aafb2f7b0ddb5335a95.jpg" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/steelers_now_articles_971/be41d91385f53aafb2f7b0ddb5335a95.jpg" medium="image"/>
+</item>
+<item>
+<title>Iowa shuts out No. 25 Wisconsin 30-0, keeps Heartland Trophy on 'Big Noon Kickoff'</title>
+<link>https://sports.yahoo.com/articles/iowa-shuts-no-25-wisconsin-212202106.html</link>
+<guid isPermaLink="false">eebb3462a07691bc43bf0ab80ee277247d5997c7d5c91fea1125dd927bc5f4f2</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:22:02 +0000</pubDate>
+<description>Iowa shuts out No. 25 Wisconsin 30-0, keeps Heartland Trophy on 'Big Noon Kickoff' originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here . Hank Brown threw two first-half touchdown passes, and Iowa’s defense smothered No. 25 Wisconsin in a 30-0 shutout to retain the Heartland Trophy on Saturday afternoon. The Hawkeyes (6-2, 3-2 Big Ten) earned their fifth straight win over Wisconsin, outscoring the Badgers 109-10 in their last three meetings. The shutout also leveled the historic 100-game rivalry —dating back to 1894—at 49-49-2 . Brown, who had split snaps with Jeremy Hecklinski, was surgical early, completing 16 of 18 passes for 190 yards in the first half alone before finishing 20-of-24 for 222 yards. Xavier Williams stepped into the primary ball-carrier role after Kamari Moulton's season-ending injury, grinding out 78 yards on 20 carries as Iowa out-gained Wisconsin 362-235. MORE: Which unbeaten FBS team will lose first? Sizing up Miami, Utah and UCLA chances to finish 12-0 Iowa's defense held Wisconsin (5-3, 3-2) to just 52 rushing yards on 2.2 yards per carry and forced Badgers starting quarterback Colton Joseph out of rhythm. Joseph completed 5 of 14 passes for 90 yards before being replaced by freshman Ryan Hopkins, who finished 8-of-13 for 93 yards and an interception. The Hawkeyes set the tone on their opening possession, taking a 3-0 lead when Brown connected with DJ Vonnahme on a 45-yard strike up the left sideline, setting up Caden Buhr’s 24-yard field goal. MORE: 5 things to watch in Week 9: Judgment Day comes for Lincoln Riley, Buckeyes QBs After forcing a three-and-out, Iowa marched 75 yards in 12 plays. Brown extended the drive with a 15-yard scramble on third down, hit Tony Diaz on a 17-yard crossing pattern, and capped the possession with a 4-yard touchdown pass to Vonnahme. Wisconsin mounted its lone sustained threat late in the second quarter, marching 86 yards to the Iowa 1-yard line. The Hawkeyes’ defense held firm on fourth-and-goal, stopping Abu Sama III for a 1-yard loss with 4:22 left in the half to maintain a 20-0 cushion at the break. Vonnahme added a 2-yard touchdown run midway through the third quarter to push the margin to 27-0. Buhr drilled his third field goal of the afternoon—a 54-yard strike—late in the third quarter to cap the scoring at 30-0. More Big Ten news Illinois 2026 football schedule Michigan 2026 football schedule Ohio State 2026 football schedule Indiana 2026 football schedule</description>
+<enclosure url="https://media.zenfs.com/en/the_sporting_news_articles_584/db86bbf2616b1c55427061d66d16770e" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/the_sporting_news_articles_584/db86bbf2616b1c55427061d66d16770e" medium="image"/>
+</item>
+<item>
+<title>Josh Jacobs allegations, explained: Packers RB accused of abuse by 3 additional women in wake of May arrest</title>
+<link>https://sports.yahoo.com/articles/josh-jacobs-allegations-explained-packers-212143101.html</link>
+<guid isPermaLink="false">c7d44d7a2bf8cf03028c225fb763914cf6cb4cf4cb3f9db3790f0858046927a4</guid>
+<source>Yahoo Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:21:43 +0000</pubDate>
+<description>Josh Jacobs allegations, explained: Packers RB accused of abuse by 3 additional women in wake of May arrest originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here . The battery case involving Josh Jacobs has come back into focus following his return to the Packers on Oct. 19. The Green Bay tailback has slotted back into the Packers' starting lineup with aplomb, producing three touchdowns in two games after returning from a six-game suspension related to his domestic violence arrest in May. He has drawn attention for other reasons during that spell. Jacobs appeared to make reference to his arrest after finding the end zone against the Panthers in Week 8, though he denied his celebration was a nod to his arrest. One day later, Jacobs was the subject of multiple new domestic abuse allegations. Here's what you need to know about the accusations against Jacobs, claims that presumably could put his status in jeopardy. MORE: Packers' Josh Jacobs insists he wasn't making light of his arrest during TD celebration Josh Jacobs allegations, explained Three women came forward to accuse Jacobs of abuse following his May arrest, NBC 26 reported . The accounts were included as evidence relating to Jacobs' battery case released by the Hobart/Lawrence Police Department Friday night after a public records request. On May 26, Jacobs was arrested following an altercation with his then-girlfriend that allegedly involved Jacobs throwing her to the ground. In September, Jacobs pleaded no contest to misdemeanor charges of battery and criminal damage. According to the records that were released on Friday night, one woman contacted police after Jacobs' arrest to inform them that she shared a similar experience with Jacobs around 2023. She later told police that the incident took place in January 2022. The woman alleged that Jacobs slapped her across the face and threw her phone into a swimming pool after she told Jacobs she didn't want to have sex with him. She also alleged that Jacobs grabbed her by the hair, threw her onto the bed and floor, pinned her down and threatened to kill her. She also said Jacobs spit on her. Another woman accused Jacobs of grabbing her, pushing her against a wall and throwing her belongings out after she and Jacobs had sex in April 2021. According to the records, the woman told Jacobs to get tested for STDs after his condom broke, sparking the confrontation. Hobart/Lawrence police said their records indicated that responding officers observed "no visible signs of injury, bruising or damage consistent with a physical altercation." Another woman described a May 2022 altercation that saw her sustain bruises on her arm and scratches to her chest and neck after Jacobs allegedly grabbed her by the hair, placed his hands on her head and neck, dragged her and took her phone. The women cited multiple reasons for not initially reporting Jacobs' alleged misdeeds to law enforcement. One said she remained fri</description>
+<enclosure url="https://media.zenfs.com/en/the_sporting_news_articles_584/58456b4c72b1860437b76df617babc87" type="image/jpeg"/>
+<media:content url="https://media.zenfs.com/en/the_sporting_news_articles_584/58456b4c72b1860437b76df617babc87" medium="image"/>
+</item>
+<item>
+<title>NBA season live updates: Latest news as Saturday's games tip off</title>
+<link>https://www.nytimes.com/athletic/live-blogs/nba-cup-scores-season-games-schedule/8uid2umpFT0Q</link>
+<guid isPermaLink="false">b2e185c5c3261105d1e3b6687d7add8e53a052b0eb95be554b968f9a44876b85</guid>
+<source>The Athletic Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:10:59 +0000</pubDate>
+<description>Follow along for all the latest as the 2026-27 NBA season stretches into its second week.</description>
+<enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/8uid2umpFT0Q_KJqgiVOrkjJV_1440x995.jpg" type="image/jpeg"/>
+<media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/8uid2umpFT0Q_KJqgiVOrkjJV_1440x995.jpg" medium="image"/>
+</item>
+<item>
+<title>Spurs latest: De Zerbi singles out 'unbelievable' player in Palace win</title>
+<link>https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts</link>
+<guid isPermaLink="false">8fc52795153ba4372601ba1f5767b61adf0b1a08cea45bf13f4abc67cf63f23a</guid>
+<source>Sky Sports Premier League</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 21:06:00 +0000</pubDate>
+<description></description>
+<enclosure url="https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557" type="image/jpeg"/>
+<media:content url="https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557" medium="image"/>
+</item>
+<item>
+<title>Palace latest: Under-fire Sage vows to fight on and has 'rage to train more'</title>
+<link>https://www.skysports.com/football/live-blog/11661/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights</link>
+<guid isPermaLink="false">be08bf001535d5d925c5885c98d1318e6633affa13114d8c13d2e5db0ddb423d</guid>
+<source>Sky Sports Premier League</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 20:48:00 +0000</pubDate>
+<description></description>
+<enclosure url="https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235" type="image/jpeg"/>
+<media:content url="https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235" medium="image"/>
+</item>
+<item>
+<title>Tommy Carr's TD run helps Michigan survive Rutgers as Wolverines keep season afloat</title>
+<link>https://www.nytimes.com/athletic/7742029/2026/10/31/michigan-rutgers-result-score-takeaways</link>
+<guid isPermaLink="false">e4c40ce048f868eda4b4250f1bcb7a234e22f79aff192eeaa5dc51e64af12aa9</guid>
+<source>The Athletic Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 20:47:59 +0000</pubDate>
+<description>Rutgers tied the score early in the fourth quarter before Carr's second touchdown run of the day put Michigan on top for good.</description>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31153359/GettyImages-2302381199-scaled-e1793475259237.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31153359/GettyImages-2302381199-scaled-e1793475259237.jpg" medium="image"/>
+</item>
+<item>
+<title>Pope Leo, Villanova grad, invokes papal neutrality rather than take sides in Nova-Notre Dame</title>
 <link>https://www.nytimes.com/athletic/7742033/2026/10/31/pope-leo-villanova-notre-dame-rome-basketball</link>
 <guid isPermaLink="false">43e3036c15fa5051939ca8fa9baa82a8b824ac32527652e4455de946b56d37c3</guid>
 <source>The Athletic Sports</source>
@@ -244,28 +464,6 @@
 <description>Villanova and Notre Dame open the college basketball season Sunday with a doubleheader at Rome’s Palazzo dello Sport.</description>
 <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31154352/GettyImages-2302310259-scaled.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31154352/GettyImages-2302310259-scaled.jpg" medium="image"/>
-</item>
-<item>
-<title>ESPN ‘College GameDay’ location announced for Week 10</title>
-<link>https://sports.yahoo.com/articles/espn-college-gameday-location-announced-202625113.html</link>
-<guid isPermaLink="false">b8c1aa1f7c981e3414e3440aea1a3a045b227c72e4ae80871096fcb0ea42c4cc</guid>
-<source>Yahoo Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:26:25 +0000</pubDate>
-<description>College GameDay was in Bloomington, Indiana, on Saturday for the Minnesota-Indiana game, and next week’s destination won’t be far. The weekly college football pregame show announced on Saturday afternoon that it was headed for South Bend, Indiana, for next Saturday’s showdown between Notre Dame and Miami. MORE : Best ‘College GameDay’ signs from Week 9: Minnesota vs. Indiana Notre Dame improved to 7-1 overall with a dominant 35-13 win over Navy on Saturday and could host an undefeated Miami team, assuming Miami takes care of business against North Carolina on Saturday night. WE'RE HEADING TO SOUTH BEND FOR ONE OF THE GAMES OF THE YEAR‼️ See you next Saturday at 9 AM ET for Miami-Notre Dame 🍿 pic.twitter.com/teaNLzggg5 — College GameDay (@CollegeGameDay) October 31, 2026 A rematch of last year’s game Oct 3, 2026; Chapel Hill, North Carolina, USA; Notre Dame Fighting Irish head coach Marcus Freeman reacts in the first quarter at Kenan Stadium. Mandatory Credit: Bob Donnan-Imagn Images Credit: IMAGN IMAGES via Reuters Connect (Reuters) Miami hosted Notre Dame to open the 2025 college football season and won, 27-24. It was a huge win since it got Miami into the College Football Playoff at the end of the season and left Notre Dame out. There was a lot of debate about it when the final College Football Playoff rankings came out, but the committee made the right decision since Miami got to the CFP national title game. Notre Dame will look for revenge next Saturday and try to earn its biggest win of the season so far. Kickoff is set for 7:30 p.m. ET on NBC. — Enjoy free coverage of the top news &amp; trending stories with The Big Lead Newsletter —</description>
-<enclosure url="https://media.zenfs.com/en/the_big_lead_articles_114/6e0fdc91bec3873dc24627837af995db.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/the_big_lead_articles_114/6e0fdc91bec3873dc24627837af995db.jpg" medium="image"/>
-</item>
-<item>
-<title>Glasner fears he will be next Forest sacking if wins don't follow</title>
-<link>https://sports.yahoo.com/articles/glasner-fears-next-forest-sacking-202622422.html</link>
-<guid isPermaLink="false">cc37ece82e117009db75169823fdefe0607eaa735f7ad834a576b89631af9c5e</guid>
-<source>Yahoo Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:26:22 +0000</pubDate>
-<description>Since the start of last season, Nottingham Forest have had five different managers. A year ago, Sean Dyche was less than a fortnight into his spell as Forest's head coach. Before Dyche, there was Nuno Espirito Santo and Ange Postecoglou. After Dyche came Vitor Pereira and, currently, Oliver Glasner. But following just one win from the Reds' opening nine league matches, the former Crystal Palace boss has warned that unless players heed his instructions, and results change imminently, five will become six. Speaking after Forest's 2-0 loss at Brentford on Saturday , Glasner said he felt he had made too many compromises during his tenure so far. "It's now time not to make compromises, it's now time to show a clear way and everybody has to follow," he told the BBC's Match of the Day. "And if they don't want to follow, then I guess then the sixth manager will come in." Nottingham Forest enter November 19th in the Premier League with six points from their opening nine games [Getty Images] 'We have to change' Saturday's defeat by a Bees side who had not won any of their previous four matches means Forest are 19th in the league and head into next weekend's meeting with leaders Manchester City just a point off the bottom. In Forest's last five league games, only a 1-1 draw at Ipswich has not ended in defeat. "Today is completely clear, we have to change something, a few things," Glasner said. "I have to change a few things, and I will change a few things, 100%. We can't continue in the same way, we have to change a few things, and that's the key." Nottingham Forest have failed to score in five of their nine Premier League matches [Getty Images] He added: "We are making too many mistakes, the defence, then we are down. We controlled the game... "It's so obvious... We are slow, making the same mistakes, always different players." Neither side registered a shot on target until Igor Thiago notched Brentford's second goal in the 76th minute, after their first goal came from a Nikola Milenkovic own goal. Forest's sole shot on target came two minutes after the hosts went two up. "We are making too many mistakes in our defence and we are not ruthless enough, good enough, in finishing. That's the truth," Glasner added. Deja vu all over again Ange Postecoglou was among Nottingham Forest's four different head coaches last season [Getty Images] Forest were onto their third manager of the campaign this time last year, but their start this season compared with last has been similar. Glasner has only recorded one win in Forest's first nine league games this term - the same as 12 months ago, when the joint-efforts of Santo, Postecoglou and Dyche also registered a sole win. Glasner does at least have six points compared with last season's five at the same stage. But despite the City Ground manager merry-go-round, they were 18th last term at this stage. The summer appointment of Glasner following his exit from Selhurst Park was perhaps a surprising one. The Austrian left Pa</description>
-<enclosure url="https://media.zenfs.com/en/bbc_us_articles_995/8810c4e8f66043f7fc1b5880a793e95e.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/bbc_us_articles_995/8810c4e8f66043f7fc1b5880a793e95e.jpg" medium="image"/>
 </item>
 <item>
 <title>Christian Pulisic celebrates Milan contract extension with opening goal in Derby della Madonnina</title>
@@ -279,28 +477,6 @@
 <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31161905/GettyImages-2302885776-scaled-e1793477965902.jpg" medium="image"/>
 </item>
 <item>
-<title>Bruins vs. Blackhawks Score, Highlights From NHL Game: Boston Rallies for Overtime Win After Late Comeback</title>
-<link>https://sports.yahoo.com/articles/bruins-vs-blackhawks-score-live-160001148.html</link>
-<guid isPermaLink="false">4c3932949ff4ee018ea2116f0ed97de60b926ca901896ef2d8cdbf5a53b1f8fb</guid>
-<source>Yahoo Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:25:00 +0000</pubDate>
-<description>Bruins vs. Blackhawks Score, Highlights From NHL Game: Boston Rallies for Overtime Win After Late Comeback originally appeared on NESN . Add NESN as a Preferred Source by clicking here . The Boston Bruins overcame a two-goal deficit in the third period to defeat the Chicago Blackhawks, 5-4, in overtime at TD Garden. Boston improved to 10-4-1 with the victory, extending its winning streak at home with a dramatic comeback. David Pastrnak, Mason Lohrei, Morgan Geekie and Casey Mittelstadt each scored in regulation. Charlie McAvoy recorded two assists, while JJ Peterka contributed two assists of his own. Anton Frondell scored twice for Chicago, and Connor Bedard and Ryan Greene also found the back of the net. Michael DiPietro stopped 37 of 41 shots for Boston. The Bruins rallied after Chicago erased their two-goal advantage with a pair of third-period goals. Elias Lindholm ultimately delivered the game-winner 2:32 into overtime to complete the comeback. Boston will stay at home and host the Golden Knights on Monday, Nov. 2. NESN provided live coverage of Saturday's game between the Bruins and Blackhawks. Bruins vs. Blackhawks score 1 2 3 OT F Bruins 1 1 2 1 5 Blackhawks 1 1 2 0 4 Bruins vs. Blackhawks live updates, highlights (All times Eastern) End of OT: Bruins 5, Blackhawks 4 3:51 p.m.: Elias Lindholm wins the face-off against Oliver Moore. McAvoy sends a shot to Lindholm, who takes the puck into the crease and scores the game-winner. McAvoy on the assist. What a day for the Bruins. What a comeback by the Boston Bruins! Elias Lindholm scores the game winner in overtime after Boston overcomes two-goal deficit in the third period. Charlie McAvoy assists on the game-tying and game-winning goals for the Bruins. Awesome W! #NHLBruins https://t.co/OZ3byp00ep — Dan Kelley (@DanKelley66) October 31, 2026 3:50 p.m.: DiPietro makes a huge save to keep Frondell from scoring. 3:49 p.m.: Lohrei and Khusnutdinov come away with the puck, but Lohrei misses above the crossbar. 3:48 p.m.: TD Garden is alive as DiPietro gloves a shot from Bedard. He tried to set it down, but was not able to. 3:46 p.m.: It'll be 3-on-3 as we begin overtime. Frondell wins the face-off against Pastrnak. End of third period/ regulation: Bruins 4, Blackhawks 4 3:44 p.m.: DiPietro is back in net as the clock runs out. Time for some overtime. Bruins 4, Blackhawks 4 3:42 p.m.: Boston has an empty net with 54 seconds remaining. MORGAN GEEKIE TIES IT UP! Geekie, from the far circle, sends one past Soderblom to tie the game up with about 15 seconds left. Charlie McAvoy and JJ Peterka were credited with the assist. Geeks Squad pulled up 🎯 https://t.co/EzgW7aZnI3 — Boston Bruins (@NHLBruins) October 31, 2026 3:40 p.m.: DiPietro was just about to head off the ice to allow for another attacker, but the puck was turned over. He quickly got back into the goal in time to deflect a shot. TD Garden is loud. 3:38 p.m.: Bruins are trying to fight back, but Soderblom is not letting anything past him. 3:35</description>
-<enclosure url="https://media.zenfs.com/en/nesn_articles_905/2abf6d8ad9a72e6b2810fe4181f6170c" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/nesn_articles_905/2abf6d8ad9a72e6b2810fe4181f6170c" medium="image"/>
-</item>
-<item>
-<title>Oilers Lose Isaac Howard On Saturday After Ugly Knee On Knee Leads To Ejection.</title>
-<link>https://sports.yahoo.com/articles/oilers-lose-isaac-howard-saturday-202218115.html</link>
-<guid isPermaLink="false">f75ea2c654f50f14449f85b0aee73768fca5d59f3980eb2b24e5587efc93afab</guid>
-<source>Yahoo Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:22:18 +0000</pubDate>
-<description>Oilers Lose Isaac Howard On Saturday After Ugly Knee On Knee Leads To Ejection. The Edmonton Oilers have lost forward Isaac Howard and it did not look good. On Saturday, during an early game between the Oilers and the New York Islanders, Howard was struck by an ugly knee on knee hit from Islanders forward Emil Heineman. The game had barely gotten underway when Heineman closed the distance for what should have been a routine hit, but instead turned into a terrible collision for Howard. Heineman misjudged the timing and instead of driving through the body there was nothing but knee on knee, with Howard's knee buckling as it absorbed all of the impact from the charging Heineman. Howard struggled to get back to his feet but remained down on the ice for several moments, and eventually needed the help of his teammates to get off the ice. Even with that help, Howard was unable to put any weight on his injured leg, not a good sign for the Oilers. https://x.com/Sportsnet/status/2116596294471057742 Here's another look in slow motion: https://x.com/RTaub_/status/2116594544913301734</description>
-<enclosure url="https://media.zenfs.com/en/hockeyfeed_789/df78a7e447e46034f5ae869ac0a36568.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/hockeyfeed_789/df78a7e447e46034f5ae869ac0a36568.jpg" medium="image"/>
-</item>
-<item>
 <title>Former Astros GM Dana Brown to join Atlanta Braves as senior adviser: Source</title>
 <link>https://www.nytimes.com/athletic/7742093/2026/10/31/braves-dana-brown-senior-adviser</link>
 <guid isPermaLink="false">3dbf1cc34751a83dfbbe052a5de8a1349c94dc55dd56de37de3238f247f78216</guid>
@@ -312,50 +488,6 @@
 <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31160922/AP26202656496749-scaled-e1793477446539.jpg" medium="image"/>
 </item>
 <item>
-<title>49ers potential receiver trade pursuit draws intriguing take</title>
-<link>https://sports.yahoo.com/articles/49ers-potential-receiver-trade-pursuit-202147316.html</link>
-<guid isPermaLink="false">1913dd668cb242cc3c3b7e92e9000f9245d2457d0c18ac2d109d2b2ed9a2f904</guid>
-<source>Yahoo Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:21:47 +0000</pubDate>
-<description>Darren Yamashita-Imagn Images 49ers potential receiver trade pursuit draws intriguing take appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here . With the San Francisco 49ers on a bye week after the disappointing 29-20 loss to the Atlanta Falcons, the talk around the team has been about who the team will target ahead of Nov. 10’s trade deadline. As rumors will surround the 49ers until then, the one position that has been attached to the team is wide receiver, as this member of the media gives an interesting take on the pursuit. Grant Cohn of Sports Illustrated would cite NFL insider Jeremy Fowler’s report of San Francisco being in the market for a wide receiver and how they’re exploring trade options and calling teams. Cohn would “commend” the team for hunting for a receiver, especially with the injury concern surrounding star Mike Evans , who is dealing with Achilles tendinitis. “Seems like a trade for a big-time wide receiver might come right at the deadline,” Cohn said. “So first off, I want to commend the 49ers. You need to be aggressive. You need to get a wide receiver because your season depends on Mike Evans’ Achilles tendon right now, and that’s not a good place to be.” Watch sports LIVE with fuboTV (free trial) The 49ers reportedly are in the trade market for a wide receiver. pic.twitter.com/kJ97Y0GYhO — Grant Cohn (@grantcohn) October 31, 2026 Who the 49ers could go after before deadline Cohn would continue talking about the top wide receivers that could be available for the 49ers to trade for, as he first mentions New York Jets star Garrett Wilson . While there have been reports of the Jets not being interested in trading Wilson, Cohn wonders if that could be another way of wanting a team to add another first-round pick, though that could change after a few more losses. However, a few other names that he throws out are New Orleans Saints’ Chris Olave and Houston Texans’ Nico Collins. “Maybe the Niners find someone that no one’s thinking about, like Chris Olave. That team in New Orleans is two and five,” Cohn said. “Maybe they could also get Nico Collins, who hasn’t gotten many passes the last couple of weeks with the Texans. I don’t know, but there’s options.” At any rate, it remains to be seen what the 49ers do ahead of the trade deadline of Nov. 10. Related: 49ers’ biggest problem to fix during 2026 bye week Related: 49ers’ 7-round 2027 NFL Draft according to PFF mock draft simulator during bye week</description>
-<enclosure url="https://media.zenfs.com/en/clutchpoints_articles_939/9c0638643933f8eb412970cd4dc33cd3.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/clutchpoints_articles_939/9c0638643933f8eb412970cd4dc33cd3.jpg" medium="image"/>
-</item>
-<item>
-<title>Spurs latest: Tottenham have their most shots in PL game for a decade</title>
-<link>https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts</link>
-<guid isPermaLink="false">8fc52795153ba4372601ba1f5767b61adf0b1a08cea45bf13f4abc67cf63f23a</guid>
-<source>Sky Sports Premier League</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:21:00 +0000</pubDate>
-<description></description>
-<enclosure url="https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557" type="image/jpeg"/>
-<media:content url="https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557" medium="image"/>
-</item>
-<item>
-<title>Three Bayern Munich players hit by injury storm in Der Klassiker</title>
-<link>https://sports.yahoo.com/articles/three-bayern-munich-players-hit-202029687.html</link>
-<guid isPermaLink="false">97ac4030abd3df58340fca50318774e21af27d0156c7ec3eea7e128dcdb552b2</guid>
-<source>Yahoo Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:20:29 +0000</pubDate>
-<description>(Photo by Adam Pretty/Getty Images) | Getty Images Bayern Munich have been hit by a horrific streak of injuries. The latest stroke of poor luck for the club added three new names to the injury bench for the German giants. Before taking Borussia Dortmund head-on in Der Klassiker , Bayern’s injury list already had significant additions in Manuel Neuer, Jamal Musiala, Luis Díaz, and the coach himself, Vincent Kompany. However, few saw the game turn out to strike the home side with absolute disaster. Ismael Saibari The Moroccan’s brave duel to challenge for the ball after Gregor Kobel’s first save off his shot ended poorly. The burly goalkeeper reached the ball earlier than Sa ibari and caught his f oot at a wrong angle. Saibari went down immediately and had to be replaced as his ankle could no longer bear load. Serge Gnabry Another attacker who will be missing games. The German looked to have pulled something as he had to be subbed off barely five minutes after Saibari left the pitch. The winger had a troublesome groin injury in April ; however, Gnabry could walk off the pitch without requiring support, unlike Saibari, which gives hope that his absence will not be a prolonged one. Michael Olise Olise seemed to manage his injury as he was seen limping in between attacks in the second half. Ultimately, Olise requested stand-in coach Aaron Danks to sub him out. Whether Danks should have subbed him earlier to prevent any potential aggravation will be a critical thing for Kompany t o inspect and correct his junior for future games. At this point, one can conclude that Bayern’s attack is un der severe stress from the injury gods. With Olise’s injury, the attack has only Harry Kane and Lennart Karl remaining. The Bavarians have to make do with Alphonso Davies and Nathaniel Brown, in addition to calling up the youngsters who impressed in pre-season and have carried that momentum into training. This also explains why Kompany was attending the second-team training session despite a jam-packed schedule that led to his overexertion. Bayern needs every attacker they can find to deal with this difficult period. Join the conversation! Sign up for a user account and get: New, improved notifications system! Fewer ads Create community posts Comment on articles, community posts Rec comments, community posts</description>
-<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/d5b4a69f6af018d9b488f9590f6b261b.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/d5b4a69f6af018d9b488f9590f6b261b.jpg" medium="image"/>
-</item>
-<item>
-<title>Cleveland Browns roster moves: Things going Cleveland’s way, finally</title>
-<link>https://sports.yahoo.com/articles/cleveland-browns-roster-moves-things-201933368.html</link>
-<guid isPermaLink="false">ce431281ea274b930c5c0c03e7018f95441d6253d03a8d3df3b917ccebd5bebe</guid>
-<source>Yahoo Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:19:33 +0000</pubDate>
-<description>(Photo by Al Pereira/Getty Images) | Getty Images The Cleveland Browns received a bit of good news on Saturday regarding the game-day roster for Sunday’s key divisional game against the Pittsburgh Steelers. Starting right tackle Tytus Howard, who was originally listed as questionable while dealing with a concussion, cleared the league-mandated concussion protocol on Saturday and can play on Sunday. That means the Browns will be at full strength on the offensive line as they look to break a 23-year, regular-season losing streak to the Steelers in Pittsburgh. Starting cornerback Myles Harden is still questionable, however, as he is dealing with a hamstring injury, which could test Cleveland’s depth in the secondary if Harden is not able to go. The Browns appear to be confident, however, as they only made one practice squad elevation for the game, and that was to elevate rookie tight end Carsen Ryan from the practice squad. Ryan was released prior to the game against the Tennessee Titans to open a roster spot for running back Dylan Sampson to return from injured reserve, and subsequently signed back with the Browns to their practice squad. The seventh-round selection from BYU has played in six games for the Browns, but has only played two snaps on offense, registering no stats, and 73 snaps on special teams, making one tackle. Pittsburgh made a pair of roster moves on Saturday, signing wide receiver Brandon Smith to the 53-man roster from the practice squad, and elevating wide receiver Brandon Johnson from the practice squad. Bring the Dawg Pound with you on the SB Nation app! Stay connected with Browns fans through every score, stop and game-changing play. Join the live game-day chat Enjoy fewer ads Seamlessly explore communities and conversations Comment and post faster Download the SB Nation app on iOS or Android .</description>
-<enclosure url="https://media.zenfs.com/en/sb_nation_articles_115/ccd66443b774900907acca3baa9a4a13.jpg" type="image/jpeg"/>
-<media:content url="https://media.zenfs.com/en/sb_nation_articles_115/ccd66443b774900907acca3baa9a4a13.jpg" medium="image"/>
-</item>
-<item>
 <title>It's Hank Brown's show as Iowa crushes Wisconsin in programs' 100th meeting</title>
 <link>https://www.nytimes.com/athletic/7742067/2026/10/31/wisconsin-iowa-result-score-takeaways</link>
 <guid isPermaLink="false">cfc71d1d5e215a1821526aa93c5e44954feae04d7caab596d83a399da546ca4e</guid>
@@ -365,6 +497,17 @@
 <description>Brown, a junior, and sophomore Jeremy Hecklinski had a protracted quarterback controversy that lasted through this week.</description>
 <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31155512/GettyImages-2302370890-scaled-e1793476535447.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31155512/GettyImages-2302370890-scaled-e1793476535447.jpg" medium="image"/>
+</item>
+<item>
+<title>2026 College Football Playoff projection bracket</title>
+<link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026</link>
+<guid isPermaLink="false">9ec918abf928083ec13dd584abdff1f7545ce420ea922854c8bdd209b81f1cde</guid>
+<source>The Athletic Sports</source>
+<category>sports</category>
+<pubDate>Sat, 31 Oct 2026 20:00:10 +0000</pubDate>
+<description></description>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/08/25174814/CFB_PlayoffProj_BracketPromo.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/08/25174814/CFB_PlayoffProj_BracketPromo.jpg" medium="image"/>
 </item>
 <item>
 <title>Philip Rivers to NC State is 'heating up' as Wolfpack eye the star alum to jolt program</title>
@@ -385,8 +528,8 @@
 <category>sports</category>
 <pubDate>Sat, 31 Oct 2026 19:46:44 +0000</pubDate>
 <description>Find out how to watch the women's Toray Pan Pacific Open Tennis, with time, TV channel and streaming information.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31154643/p7079Ye.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31154643/p7079Ye.jpg" medium="image"/>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31164610/sMBO8WJ.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31164610/sMBO8WJ.jpg" medium="image"/>
 </item>
 <item>
 <title>How to watch Flames vs. Avalanche: TV channel and streaming options for October 31</title>
@@ -499,7 +642,7 @@
 <media:content url="https://e1.365dm.com/26/10/1920x1080/skysports-glasner-forest_7393259.jpg?20261031191441" medium="image"/>
 </item>
 <item>
-<title>Canelo vs Mbilli LIVE! Espinoza &amp; Munguia in title fights on undercard</title>
+<title>Canelo vs Mbilli LIVE! Munguia overcomes scare to defend world title</title>
 <link>https://www.skysports.com/boxing/live-blog/12183/13606411/canelo-alvarez-vs-christian-mbilli-live-updates-undercard-news-results-as-canelo-challenges-mbilli-for-world-title</link>
 <guid isPermaLink="false">b5fa3481bfd4a03387669670f4968ca72e53aa4f39f4b266c5835656cc8e17d4</guid>
 <source>Sky Sports Boxing</source>
@@ -532,15 +675,15 @@
 <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31140211/2026-10-30T022458Z_1204754790_MT1USATODAY30221418_RTRMADP_3_NFL-CAROLINA-PANTHERS-AT-GREEN-BAY-PACKERS-scaled-e1793469749372.jpg" medium="image"/>
 </item>
 <item>
-<title>Jackson opens scoring after McGinn misses pen for Aston Villa vs Fulham LIVE!</title>
+<title>Suzuki own goal pulls Fulham level at Aston Villa LIVE!</title>
 <link>https://www.skysports.com/football/aston-villa-vs-fulham/live/559524</link>
 <guid isPermaLink="false">9da4f7bf4493cce689b33e3e70064f4a34c5c30543605af004d4d57e34c4f779</guid>
 <source>Sky Sports Premier League</source>
 <category>sports</category>
 <pubDate>Sat, 31 Oct 2026 18:41:00 +0000</pubDate>
 <description></description>
-<enclosure url="https://e0.365dm.com/26/10/1920x1080/skysports-john-mcginn-aston-villa_7393365.jpg?20261031202833" type="image/jpeg"/>
-<media:content url="https://e0.365dm.com/26/10/1920x1080/skysports-john-mcginn-aston-villa_7393365.jpg?20261031202833" medium="image"/>
+<enclosure url="https://e1.365dm.com/26/10/1920x1080/skysports-aston-villa-fulham_7393438.jpg?20261031213707" type="image/jpeg"/>
+<media:content url="https://e1.365dm.com/26/10/1920x1080/skysports-aston-villa-fulham_7393438.jpg?20261031213707" medium="image"/>
 </item>
 <item>
 <title>Norris pips Antonelli in final practice to set up thrilling Mexico qualifying</title>
@@ -627,8 +770,8 @@
 <category>sports</category>
 <pubDate>Sat, 31 Oct 2026 17:32:46 +0000</pubDate>
 <description>Find out how to watch the Atlanta Dream play the Golden State Valkyries, with time, TV channel and streaming information.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31154148/62lc30x.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31154148/62lc30x.jpg" medium="image"/>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31173351/lpC2Fuk.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31173351/lpC2Fuk.jpg" medium="image"/>
 </item>
 <item>
 <title>Hull City latest: Jakirovic praises mentality after second-half fightback</title>
@@ -671,8 +814,8 @@
 <category>sports</category>
 <pubDate>Sat, 31 Oct 2026 17:12:18 +0000</pubDate>
 <description>Find out how to watch the Cleveland Cavaliers play the Milwaukee Bucks, with time, TV channel and streaming information.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150713/Jr56SFr.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150713/Jr56SFr.jpg" medium="image"/>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170528/PyArab6.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170528/PyArab6.jpg" medium="image"/>
 </item>
 <item>
 <title>How to watch Thunder vs. Rockets: TV channel and streaming options for October 31</title>
@@ -682,8 +825,8 @@
 <category>sports</category>
 <pubDate>Sat, 31 Oct 2026 17:10:20 +0000</pubDate>
 <description>Find out how to watch the Oklahoma City Thunder play the Houston Rockets, with time, TV channel and streaming information.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150438/HGU93hL.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150438/HGU93hL.jpg" medium="image"/>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170523/llDJLpT.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170523/llDJLpT.jpg" medium="image"/>
 </item>
 <item>
 <title>Bournemouth 2 Leeds 0: A self-inflicted defeat, but is form cause for concern?</title>
@@ -704,8 +847,8 @@
 <category>sports</category>
 <pubDate>Sat, 31 Oct 2026 17:06:36 +0000</pubDate>
 <description>Find out how to watch the Sacramento Kings play the Memphis Grizzlies, with time, TV channel and streaming information.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150620/JaHSyAa.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150620/JaHSyAa.jpg" medium="image"/>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170511/Iuunk8O.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170511/Iuunk8O.jpg" medium="image"/>
 </item>
 <item>
 <title>How to watch Timberwolves vs. Spurs: TV channel and streaming options for October 31</title>
@@ -715,8 +858,8 @@
 <category>sports</category>
 <pubDate>Sat, 31 Oct 2026 17:06:28 +0000</pubDate>
 <description>Find out how to watch the Minnesota Timberwolves play the San Antonio Spurs, with time, TV channel and streaming information.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150837/nDVjk4V.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150837/nDVjk4V.jpg" medium="image"/>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170631/s0UDJ7O.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170631/s0UDJ7O.jpg" medium="image"/>
 </item>
 <item>
 <title>Ballon d'Or voting: The two nations that snubbed Kane, Fernandes' bad year and Greece's bizarre top 10</title>
@@ -891,8 +1034,8 @@
 <category>sports</category>
 <pubDate>Sat, 31 Oct 2026 15:10:39 +0000</pubDate>
 <description>Find out how to watch the Philadelphia 76ers play the Charlotte Hornets, with time, TV channel and streaming information.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150449/0rE07x0.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150449/0rE07x0.jpg" medium="image"/>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170707/Fqd8Aes.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170707/Fqd8Aes.jpg" medium="image"/>
 </item>
 <item>
 <title>How to watch Hawks vs. Pelicans: TV channel and streaming options for October 31</title>
@@ -902,8 +1045,8 @@
 <category>sports</category>
 <pubDate>Sat, 31 Oct 2026 15:04:14 +0000</pubDate>
 <description>Find out how to watch the Atlanta Hawks play the New Orleans Pelicans, with time, TV channel and streaming information.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150731/YTa5U1a.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31150731/YTa5U1a.jpg" medium="image"/>
+<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170434/KFOfT88.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31170434/KFOfT88.jpg" medium="image"/>
 </item>
 <item>
 <title>Ryo Hirakawa to make F1 debut with Haas, replacing Esteban Ocon for Mexico City Grand Prix</title>
@@ -1201,28 +1344,6 @@
 <description>The messy situation between Kucherov and Tampa Bay changes the landscape of league, and where it goes from here will be beyond fascinating.</description>
 <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31000450/2026-10-21T055207Z_1516245263_MT1USATODAY30142446_RTRMADP_3_NHL-TAMPA-BAY-LIGHTNING-AT-VEGAS-GOLDEN-KNIGHTS-scaled.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31000450/2026-10-21T055207Z_1516245263_MT1USATODAY30142446_RTRMADP_3_NHL-TAMPA-BAY-LIGHTNING-AT-VEGAS-GOLDEN-KNIGHTS-scaled.jpg" medium="image"/>
-</item>
-<item>
-<title>'A terrible loss': Lakers' dream start turns into a nightmare at Golden State</title>
-<link>https://www.nytimes.com/athletic/7740921/2026/10/31/lakers-warriors-luka-doncic-analysis</link>
-<guid isPermaLink="false">d9302372963821e25ac01f0d765f68ef2dbdfb609bc529b2badb1060d3506574</guid>
-<source>The Athletic Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 10:39:47 +0000</pubDate>
-<description>Austin Reaves and JJ Redick were searching for answers after letting the Warriors rally to victory.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31030756/GettyImages-2302778960-1-scaled.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/31030756/GettyImages-2302778960-1-scaled.jpg" medium="image"/>
-</item>
-<item>
-<title>College basketball’s treats, plus the NHL MVP demands a trade</title>
-<link>https://www.nytimes.com/athletic/7740290/2026/10/31/college-basketballs-treats-plus-the-nhl-mvp-demands-a-trade</link>
-<guid isPermaLink="false">cff92814727c6a02ab9318e3be3585282473281e05261801cad39f017d4b0cf8</guid>
-<source>The Athletic Sports</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 10:32:50 +0000</pubDate>
-<description>Welcome to The Pulse, The Athletic's daily newsletter.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/30213025/Untitled-design-4-1.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/30213025/Untitled-design-4-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Wrexham's latest setback leaves Phil Parkinson questioning his players' effort and desire</title>
@@ -1654,15 +1775,15 @@
 <media:content url="https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421" medium="image"/>
 </item>
 <item>
-<title>Mexico City GP: Open fight for pole expected in qualifying at 9pm LIVE!</title>
+<title>Mexico City GP: Verstappen fastest, Hamilton under pressure in Q2 after error LIVE!</title>
 <link>https://www.skysports.com/f1/live-blog/12433/13605837/f1-mexico-city-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-autodromo-hermanos-rodriguez</link>
 <guid isPermaLink="false">649932c3ec96f41d1343dff72c6f7c3b2e8d7dcd251bd9f92d86aa740272dbcf</guid>
 <source>Sky Sports Formula 1</source>
 <category>sports</category>
 <pubDate>Fri, 30 Oct 2026 17:00:00 +0000</pubDate>
 <description></description>
-<enclosure url="https://e1.365dm.com/26/10/1920x1080/skysports-f1-lando-norris_7393342.jpg?20261031202115" type="image/jpeg"/>
-<media:content url="https://e1.365dm.com/26/10/1920x1080/skysports-f1-lando-norris_7393342.jpg?20261031202115" medium="image"/>
+<enclosure url="https://e1.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7393428.jpg?20261031212907" type="image/jpeg"/>
+<media:content url="https://e1.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7393428.jpg?20261031212907" medium="image"/>
 </item>
 <item>
 <title>La Liga referees set for televised post-match interviews in league first</title>
@@ -1718,17 +1839,6 @@
 <description>The 19-year-old was included in the Brazil squad despite has lack of recent minutes at Chelsea under Alonso.</description>
 <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/30100623/estevao-oct-26-scaled-e1793369231565.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/30100623/estevao-oct-26-scaled-e1793369231565.jpg" medium="image"/>
-</item>
-<item>
-<title>Aston Villa latest: Emery's cryptic answer on availability of Jackson and Manzambi</title>
-<link>https://www.skysports.com/football/live-blog/11661/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts</link>
-<guid isPermaLink="false">4980c5114d940b47b9b74ed083d731f122034f2bdf7542eeb0659aced1bf7c4c</guid>
-<source>Sky Sports Premier League</source>
-<category>sports</category>
-<pubDate>Fri, 30 Oct 2026 14:33:00 +0000</pubDate>
-<description></description>
-<enclosure url="https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826" type="image/jpeg"/>
-<media:content url="https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826" medium="image"/>
 </item>
 <item>
 <title>Panthers fire defensive coordinator Ejiro Evero after 3 1/2 seasons</title>
@@ -1795,17 +1905,6 @@
 <description>La Liga reported 10 disciplinary incidents relating to Barca fans from Sunday’s home loss to Madrid.</description>
 <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/30084319/GettyImages-2269544494-scaled.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/30084319/GettyImages-2269544494-scaled.jpg" medium="image"/>
-</item>
-<item>
-<title>Russia allowed to return to international hockey after CAS ruling</title>
-<link>https://www.nytimes.com/athletic/7738497/2026/10/30/russia-hockey-cas-ban</link>
-<guid isPermaLink="false">6d304e3e64cd093b3e38e8ecaf3b18f2fcf9c39246914539448a8dc24ad0c683</guid>
-<source>The Athletic Sports</source>
-<category>sports</category>
-<pubDate>Fri, 30 Oct 2026 12:05:36 +0000</pubDate>
-<description>The International Ice Hockey Federation had banned Russia from its competitions following its invasion of Ukraine in February 2022.</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/30075150/russia-hockey-scaled-e1793361168138.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/30075150/russia-hockey-scaled-e1793361168138.jpg" medium="image"/>
 </item>
 <item>
 <title>November sports watch guide: College basketball returns, NWSL Championship, 'Madden' movie</title>
@@ -2048,17 +2147,6 @@
 <description>Aston Martin's Fernando Alonso has doubled down on his criticism of "low level" Formula 1 drivers who have a "lack of talent" following his collision with Williams' Alex Albon in Austin.</description>
 <enclosure url="https://e2.365dm.com/26/10/1920x1080/skysports-f1-fernando-alonso_7391319.jpg?20261029194434" type="image/jpeg"/>
 <media:content url="https://e2.365dm.com/26/10/1920x1080/skysports-f1-fernando-alonso_7391319.jpg?20261029194434" medium="image"/>
-</item>
-<item>
-<title>Dream dominate Valkyries to force Game 7 in 2026 WNBA Finals: Live updates, reaction</title>
-<link>https://www.nytimes.com/athletic/live-blogs/valkyries-vs-dream-live-score-updates-wnba-finals-game-6-result/YdgtwUx9MRCo</link>
-<guid isPermaLink="false">85385b5be4dba5e53078632ea50992fd910f6a92b3631eb86e75b8c55949aaff</guid>
-<source>The Athletic Sports</source>
-<category>sports</category>
-<pubDate>Thu, 29 Oct 2026 20:20:11 +0000</pubDate>
-<description>Allisha Gray and Rhyne Howard combined for 45 points in Atlanta's Game 6 win.</description>
-<enclosure url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/YdgtwUx9MRCo_Osmug4WehXYs_1440x960.jpg" type="image/jpeg"/>
-<media:content url="https://theathletic-media-production.s3-us-west-2.amazonaws.com/YdgtwUx9MRCo_Osmug4WehXYs_1440x960.jpg" medium="image"/>
 </item>
 <item>
 <title>MLS sprint season could be 'super fun' as details emerge of calendar transition</title>
@@ -3379,17 +3467,6 @@
 <description>We look at the options Mikel Arteta has out wide if he needs to cover for Saka, who went off injured against Bayern Munich</description>
 <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/22141203/GettyImages-2295464084-scaled.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/22141203/GettyImages-2295464084-scaled.jpg" medium="image"/>
-</item>
-<item>
-<title>Premier League predictions: Chelsea vs Tottenham, Arsenal vs Everton and the rest of GW8</title>
-<link>https://www.nytimes.com/athletic/7713553/2026/10/23/premier-league-predictions-gw8</link>
-<guid isPermaLink="false">4bdafb72f95b400e0995c6b5d132de6b652402af5180dadf139bb01574d9b29e</guid>
-<source>The Athletic Soccer</source>
-<category>sports</category>
-<pubDate>Fri, 23 Oct 2026 04:12:00 +0000</pubDate>
-<description>Who do our writers back this week? Are they, the algorithm, a child or the subscribers top of the leaderboard? Here is The Athletic's guide</description>
-<enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/10/22075119/gameweek-8-promo.png" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/10/22075119/gameweek-8-promo.png" medium="image"/>
 </item>
 <item>
 <title>Heroic Shadab century leads Pakistan to incredible comeback win over England</title>

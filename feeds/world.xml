@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>1 dead, 6 injured in 'targeted' shooting at California Halloween store</title>
+<link>https://abcnews.com/US/1-dead-6-injured-shooting-california-halloween-store/story?id=137730138</link>
+<guid isPermaLink="false">ca3abb8dbfcf105bf1cbf75c04a5a5dd94abcc0f64eb9ac4f360dd6cd9aa0d4a</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 31 Oct 2026 20:20:46 +0000</pubDate>
+<description>One person was killed and six others were injured in a shooting at a Spirit Halloween store inside the Solano Town Center in Fairfield, California, police said.</description>
+<enclosure url="https://s.abcnews.com/images/US/spirit-halloween-shooting-ht-jt-261031_1793452647873_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/spirit-halloween-shooting-ht-jt-261031_1793452647873_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>France seethes again as youth-led protests sweep Europe</title>
 <link>https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe</link>
 <guid isPermaLink="false">c5193ece55308be3b05a3e709424c251e112a6af747f4f1f4e78a431cb90a2e3</guid>
@@ -26,7 +37,7 @@
 <media:content url="https://s.abcnews.com/images/International/wirestory_362a7cb69871ab21bd894290dad639f5_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing</title>
+<title>Key takeaways from this week's political meeting in Beijing</title>
 <link>https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways</link>
 <guid isPermaLink="false">8e880bb425de13e41e9af0fabc1705ace777efd9c7791f16e551b73e8f120fab</guid>
 <source>NPR News</source>
@@ -57,17 +68,6 @@
 <description>The judge wants to know if lawyers tried to mislead her over Trump's plans.</description>
 <enclosure url="https://s.abcnews.com/images/Politics/east-potomac-watch-20261030-ap-jh_1793405130651_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Politics/east-potomac-watch-20261030-ap-jh_1793405130651_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>1 dead, 6 injured in 'targeted' shooting at California Halloween store, police say</title>
-<link>https://abcnews.com/US/1-dead-6-injured-shooting-california-halloween-store/story?id=137730138</link>
-<guid isPermaLink="false">ca3abb8dbfcf105bf1cbf75c04a5a5dd94abcc0f64eb9ac4f360dd6cd9aa0d4a</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 31 Oct 2026 17:40:20 +0000</pubDate>
-<description>One person was killed and six others were injured in a shooting at a Spirit Halloween store inside the Solano Town Center in Fairfield, California, police said.</description>
-<enclosure url="https://s.abcnews.com/images/US/spirit-halloween-shooting-ht-jt-261031_1793452647873_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/spirit-halloween-shooting-ht-jt-261031_1793452647873_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Iran's Khamenei warns US and Israel against new attacks</title>
@@ -114,7 +114,7 @@
 <media:content url="https://s.france24.com/media/display/0c8c6ba0-d533-11f1-8f20-d18c5759e759/w:1024/p:16x9/AP26304313866709.jpg" medium="image"/>
 </item>
 <item>
-<title>Man charged in Belfast under Explosives Act and Firearms Order</title>
+<title>Man charged with explosives offences in Belfast</title>
 <link>https://news.sky.com/story/man-charged-in-belfast-under-explosives-act-and-firearms-order-13606110</link>
 <guid isPermaLink="false">6877cea6d590004b4a4f91c09c0fe08abbe84114a9ff17aed2bf244392e76b9f</guid>
 <source>Sky News Home</source>
@@ -224,13 +224,13 @@
 <media:content url="https://s.france24.com/media/display/8d26b616-d51b-11f1-b158-d18c5759e759/w:1024/p:16x9/EN-20261031-110610-110903-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Dozens arrested for expressing support for Palestine Action at protest</title>
-<link>https://news.sky.com/story/dozens-arrested-for-expressing-support-for-palestine-action-at-protest-13606066</link>
-<guid isPermaLink="false">17668329caea9588178ad229bd4a5b8d72282821b1153803087601f50b6b25b6</guid>
+<title>Police arrest 139 during Palestine Action protest</title>
+<link>https://news.sky.com/story/139-people-arrested-during-protest-in-support-of-palestine-action-13606066</link>
+<guid isPermaLink="false">dfe98f970bc8454af1be39357f81288cca6bdc28f63b30c31d9473e717e5a182</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Sat, 31 Oct 2026 10:15:00 +0000</pubDate>
-<description>Protesters take part in a protest organised by Defend Our Juries outside the US embassy in London. Pic: Marcin Calak/PA</description>
+<description>A total of 139 people have been arrested during a protest in central London in support of Palestine Action, with the majority detained for expressing support for a proscribed organisation, police said.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-protest-london_7392799.jpg?20261031160338" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-protest-london_7392799.jpg?20261031160338" medium="image"/>
 </item>
@@ -290,7 +290,7 @@
 <media:content url="https://s.france24.com/media/display/e60e1826-cefb-11f1-8e8e-bba4eee3dc72/w:1024/p:16x9/AP26296071599538.jpg" medium="image"/>
 </item>
 <item>
-<title>Youth Olympics open in Senegal as the first Olympic event in Africa</title>
+<title>Senegal kicks off Africa's first ever Olympics with Youth Games</title>
 <link>https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games</link>
 <guid isPermaLink="false">48359a071e4ceeca74f9b45ea8564674dcf6ca7a4d74888c63a1b22d107489de</guid>
 <source>France 24</source>

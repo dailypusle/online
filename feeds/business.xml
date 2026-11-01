@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>DeepSeek developing AI agent requiring less human input: Report</title>
+<link>https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report</link>
+<guid isPermaLink="false">d9283bec69c258cfeefaac66eca2e5eb05a4d96f234e9aaa6431c65d2ac6df1a</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 01 Nov 2026 13:40:33 +0000</pubDate>
+<description>The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6BNBCY09X57GCM10X7FBK0P/make-ai-great1-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6BNBCY09X57GCM10X7FBK0P/make-ai-great1-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Binance says phase one of withdrawals opens after $6.3B hack</title>
 <link>https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack</link>
 <guid isPermaLink="false">eb922db4ee85d6ea8d75f6fcc20c0c81089b6f1cb844b3a0b00c58c59a2378e2</guid>
@@ -728,17 +739,6 @@
 <description>Binance said attackers may have used a compromised DevOps laptop to access internal infrastructure.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K</title>
-<link>https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide</link>
-<guid isPermaLink="false">a628d46fb47f259940818c2c9c6b152bc718f22ea70dfb3eb3b19a666555ce5a</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 23:24:21 +0000</pubDate>
-<description>Bitcoin, Ether and the broader crypto market took a dive as Binance suffered a multibillion-dollar hack.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg" medium="image"/>
 </item>
 <item>
 <title>Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets</title>

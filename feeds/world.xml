@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Democratic Rep. Stevens endorses GOP candidate Mike Rogers in Michigan US Senate race</title>
+<link>https://abcnews.com/Politics/democratic-rep-haley-stevens-endorses-gop-candidate-mike/story?id=137752255</link>
+<guid isPermaLink="false">0ecdadd00bf7c963cb52ed878a2854db543039ae4d1824796823ad55b570e8ec</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 21:38:48 +0000</pubDate>
+<description>Stevens and Democratic candidate Abdul El-Sayed have feuded publicly recently over a campaign ad Stevens said was anti-Semitic.</description>
+<enclosure url="https://s.abcnews.com/images/US/mike-rogers-1-ap-gmh-261101_1793556442085_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/mike-rogers-1-ap-gmh-261101_1793556442085_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Learjet with 9 aboard crashes in Palm Beach County, Florida: FAA</title>
+<link>https://abcnews.com/US/learjet-9-aboard-crashes-palm-beach-florida-faa/story?id=137753599</link>
+<guid isPermaLink="false">77477556681aaf872b303938e1fbc0cfa72a9ebea3804a894a257cc614024311</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 21:32:50 +0000</pubDate>
+<description>The jet had taken off from Austin, Texas, and was headed to the Bahamas, according to the FAA.</description>
+<enclosure url="https://s.abcnews.com/images/US/palm-beach-county-learjet-crash-hd-bh-110126_1793567876030_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/palm-beach-county-learjet-crash-hd-bh-110126_1793567876030_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>UN’s peacekeeping mission in disputed Western Sahara ends after 35 years</title>
 <link>https://www.france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years</link>
 <guid isPermaLink="false">307cf640fd2cf145cb6678d42ffba5038c7fb657e7b8b3d2b4827aab7ee41e89</guid>
@@ -24,6 +46,17 @@
 <description>U.S. Sen. Chris Murphy has been hospitalized after suffering a stroke, his chief of staff said in a statement on Sunday.</description>
 <enclosure url="https://s.abcnews.com/images/Politics/chris-murphy-abc-jm-250209_1739113572108_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Politics/chris-murphy-abc-jm-250209_1739113572108_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Business jet crashes in Florida killing all nine on board</title>
+<link>https://news.sky.com/story/business-jet-carrying-nine-crashes-in-florida-13606818</link>
+<guid isPermaLink="false">d00086bfb9136256436ccf2a1d81664ae0c21ed4106edbda9e8bec8636295a6e</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Sun, 01 Nov 2026 20:34:00 +0000</pubDate>
+<description>A business jet has crashed in a Florida neighbourhood killing all nine people on board.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-flordia-plane_7394231.jpg?20261101210930" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-flordia-plane_7394231.jpg?20261101210930" medium="image"/>
 </item>
 <item>
 <title>Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed</title>
@@ -178,17 +211,6 @@
 <description>Residents evacuated from Russian-occupied Oleshky have reached Ukrainian-held territory following a rare local truce. They described years of isolation, food shortages and regular shelling, with some saying they were forced to eat grass and dogs to survive. Seized by Russian forces in the early days of the 2022 invasion, the city remains cut off by the Dnipro River on one side and Russian troops on the other.</description>
 <enclosure url="https://s.france24.com/media/display/e35562ea-d5fb-11f1-b3a1-bf1914cabd52/w:1024/p:16x9/EN-20261101-140341-140954-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/e35562ea-d5fb-11f1-b3a1-bf1914cabd52/w:1024/p:16x9/EN-20261101-140341-140954-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>1 dead, 8 injured in Alabama shooting after football game, police say</title>
-<link>https://abcnews.com/US/1-dead-8-injured-alabama-shooting-after-football/story?id=137744731</link>
-<guid isPermaLink="false">c0fd8ea19268f8dd834fa9c56fd02846ed5fbece8426a8f0c274ea44869ee59c</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 14:37:36 +0000</pubDate>
-<description>One of the injured was in critical condition, Birmingham police said.</description>
-<enclosure url="https://s.abcnews.com/images/US/police-crime-scene-st-lv-240818_1723999717435_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/police-crime-scene-st-lv-240818_1723999717435_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>French high school blockades to restart on Monday, student unions say</title>
@@ -400,15 +422,15 @@
 <media:content url="https://s.france24.com/media/display/e1a211aa-d5d3-11f1-b999-d18c5759e759/w:1024/p:16x9/EN-20261101-090207-090347-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Here's how to watch election night as the polls close, hour-by-hour</title>
-<link>https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night</link>
-<guid isPermaLink="false">30a663d7ce422f8b6b833b624c4a403b1cf85fcc9bbb210f72f4ab5d82c49f29</guid>
+<title>What's it like to run for Congress when the odds are stacked heavily against you?</title>
+<link>https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts</link>
+<guid isPermaLink="false">3b210b506367bd5e2a3ffdbeea68b31840d8354e074455d27938f0b9873d955f</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Sun, 01 Nov 2026 09:00:00 +0000</pubDate>
-<description>As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress. (Image credit: Heather Khalifa/AP)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5704x3803+0+0/resize/5704x3803!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2F9a%2Fb1ce58ca42bfa9fd05a0b57bfa27%2Fap26297551315518.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5704x3803+0+0/resize/5704x3803!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2F9a%2Fb1ce58ca42bfa9fd05a0b57bfa27%2Fap26297551315518.jpg" medium="image"/>
+<description>The majority of congressional races this cycle are rated either solid Democrat or solid Republican. They're the opposite of tossups, where candidates from the minority party face near impossible odds. (Image credit: Natalie Behring for NPR)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2Fdb%2F6001bf054f61a20d042f67df24fd%2F20261119-npr-lisa-kinney-050a2175.JPG" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2Fdb%2F6001bf054f61a20d042f67df24fd%2F20261119-npr-lisa-kinney-050a2175.JPG" medium="image"/>
 </item>
 <item>
 <title>Trump claims 'voter fraud' in election race where two candidates share same name</title>
@@ -431,17 +453,6 @@
 <description>Former European 1,500m champion Ciara Mageean has died at the age of 34.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ciara-mageean-european_7393707.jpg?20261101104505" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ciara-mageean-european_7393707.jpg?20261101104505" medium="image"/>
-</item>
-<item>
-<title>National Grid sparks deal to pave way for giant UK data centre</title>
-<link>https://news.sky.com/story/national-grid-sparks-deal-to-pave-way-for-giant-uk-data-centre-13606573</link>
-<guid isPermaLink="false">a4742b8ffcd9363d850139f23748fa5af25a3cbce7f8d4ae3e5000fab71717b1</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 07:43:00 +0000</pubDate>
-<description>National Grid has struck a deal paving the way for Britain’s biggest electricity substation to be built on Teesside as the government races to avoid missing out on global demand for AI infrastructure development.</description>
-<enclosure url="https://e3.365dm.com/22/08/1920x1080/skynews-national-grid-energy_5873373.jpg?20220823075455" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/22/08/1920x1080/skynews-national-grid-energy_5873373.jpg?20220823075455" medium="image"/>
 </item>
 <item>
 <title>Binance resumes crypto withdrawals after major hack blamed on North Korea</title>
@@ -739,17 +750,6 @@
 <description>President Donald Trump is signaling to states that his administration may be far less likely to help if their voters put Democrats in power on Election Day</description>
 <enclosure url="https://s.abcnews.com/images/US/wirestory_52e3320e875dfd01aad7a666bfdd257e_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/wirestory_52e3320e875dfd01aad7a666bfdd257e_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Ahead of midterms, backlash grows over soaring electricity bills</title>
-<link>https://abcnews.com/US/ahead-midterms-backlash-grows-soaring-electricity-bills/story?id=137675396</link>
-<guid isPermaLink="false">704b6ed0dfee210b942b7deab30778d8daa3281e6d7374699cdbcd024a91f885</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 29 Oct 2026 19:11:42 +0000</pubDate>
-<description>Nationwide, electricity costs have spiked approximately 5% in the past year, government data shows.</description>
-<enclosure url="https://s.abcnews.com/images/GMA/election-sign-gty-jef-261029_1793289146089_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/election-sign-gty-jef-261029_1793289146089_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: See National Geographic's best destinations for 2026</title>

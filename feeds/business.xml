@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bitcoin ETF Investors Head for the Exits After Record Binance Hack</title>
+<link>https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack</link>
+<guid isPermaLink="false">55e05f0896bb6f3d8774a2559024f020215ba12461ebba179f6db28965b2abaa</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Sun, 01 Nov 2026 16:01:02 +0000</pubDate>
+<description>Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Here’s what happened in crypto today</title>
 <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
 <guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
@@ -1014,16 +1025,5 @@
 <description>A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-16-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-16-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report</title>
-<link>https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia</link>
-<guid isPermaLink="false">c15ed998a34d4a42b434ecf78cc00484f29eb7cef2bfd56dc2722ccfa4671f28</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 28 Oct 2026 19:16:02 +0000</pubDate>
-<description>OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" medium="image"/>
 </item>
 </channel></rss>

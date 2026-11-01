@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7</title>
-<link>https://abcnews.com/Sports/wireStory/valkyries-dream-set-wnba-finals-game-7-after-137740321</link>
-<guid isPermaLink="false">395fb2e9063c8a25c71f0aecea393a5cdc8f16f49738b16e9dbbf4788e4702ff</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 04:34:14 +0000</pubDate>
-<description>Gabby Williams scored her team’s final 11 points of the third quarter and dazzled through the fourth on the way to 30 points, and the Golden State Valkyries captured a championship in just their second season by beating the Atlanta Dream 68-63 in a sen...</description>
-<enclosure url="https://s.abcnews.com/images/US/wirestory_189aa4b8ecb1d1fd8ddfacde3a9d6ac4_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wirestory_189aa4b8ecb1d1fd8ddfacde3a9d6ac4_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>ICE officer accused of intentionally striking man expected to surrender on Monday</title>
 <link>https://abcnews.com/US/indicted-ice-officer-accused-intentionally-striking-man-expected-surrender/story?id=137742480</link>
 <guid isPermaLink="false">c3d2790c3717200fe973b1c95b7f633c700ef3c8124f7b0bd31aadf7dbcf794a</guid>
@@ -433,15 +422,15 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/600x337+0+0/resize/600x337!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2F2e%2Fda0f09dd443fa1ec74dcd6a73682%2Fnpr-sad-capossela-wide-1e73317da9c61b7256c7a2cf1fef71f7e4e5da02.jpg" medium="image"/>
 </item>
 <item>
-<title>Can I trust the polls? And other questions from listeners about the 2026 midterms</title>
-<link>https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election</link>
-<guid isPermaLink="false">c37a12b8d7b282318668d9782ebded8b889e93bfb922cf4f8512e71d3537fcf9</guid>
+<title>Your writing was flagged as AI. What does that actually mean?</title>
+<link>https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram</link>
+<guid isPermaLink="false">30a8f1003da3fbd73bc695c7767f297de05ea33473e638be98765ed11ea962db</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Sat, 31 Oct 2026 09:00:00 +0000</pubDate>
-<description>Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress. (Image credit: Stephen Maturen/Getty Images)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3688+0+0/resize/5500x3688!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2Ff4%2F74db819942a285f0286cd2ab727c%2Fgettyimages-2301917855.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3688+0+0/resize/5500x3688!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2Ff4%2F74db819942a285f0286cd2ab727c%2Fgettyimages-2301917855.jpg" medium="image"/>
+<description>As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result. (Image credit: karetoria)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3924+0+0/resize/5898x3924!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5898x3924+0+0/resize/5898x3924!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F9a%2F2f31b6a24aeb969541bdd8961363%2Fgettyimages-2264559974.jpg" medium="image"/>
 </item>
 <item>
 <title>France braces for Halloween protests, shops board up storefronts</title>
@@ -629,6 +618,17 @@
 <description>Dave Merkel, co-founder and CEO of cybersecurity company Expel, talks about the major breach.</description>
 <enclosure url="https://s.abcnews.com/images/US/261030_abcnl_11a_merkel_cybersecurity_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261030_abcnl_11a_merkel_cybersecurity_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Daylight saving time 2026 ending: When to 'fall back'</title>
+<link>https://abcnews.com/GMA/Living/daylight-saving-time-2026-ending-fall-back/story?id=137001508</link>
+<guid isPermaLink="false">087e7c44840c4814c1c9cae29f139976ee8e1c528d00fd0cebcb76864f2c3ab5</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 30 Oct 2026 16:00:48 +0000</pubDate>
+<description>Despite a push in Congress to end daylight saving time permanently, the proposal has stalled and most Americans are on track to "fall back" within a month.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/daylight-savings-gty-jef-261005_1791223313867_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/daylight-savings-gty-jef-261005_1791223313867_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: State of the race with 4 days until midterm vote</title>

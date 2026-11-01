@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 01 Nov 2026 14:17:00 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>How to Run an AI Model Locally—And Why You Might Want To</title>
+<link>https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want</link>
+<guid isPermaLink="false">c595cf787be01a2bcbe9ba572a4f07de0c4914cde6f8e14aeecf779f4e8577cc</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Sun, 01 Nov 2026 14:01:02 +0000</pubDate>
+<description>Free tools like Ollama and LM Studio can run open-weight AI models on your laptop, offline, and without a subscription. Here's how to get started.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>DeepSeek developing AI agent requiring less human input: Report</title>
 <link>https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report</link>
 <guid isPermaLink="false">d9283bec69c258cfeefaac66eca2e5eb05a4d96f234e9aaa6431c65d2ac6df1a</guid>
@@ -68,17 +90,6 @@
 <description>Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-bitcoin-and-crypto-are-totally-wrong.png" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-bitcoin-and-crypto-are-totally-wrong.png" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sat, 31 Oct 2026 15:09:55 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History</title>
@@ -1014,16 +1025,5 @@
 <description>OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play</title>
-<link>https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike</link>
-<guid isPermaLink="false">fecf12aebd8babea15dd14503334573486b034ac8a0b5b3966396af2d113a66b</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 28 Oct 2026 18:25:18 +0000</pubDate>
-<description>The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg" medium="image"/>
 </item>
 </channel></rss>

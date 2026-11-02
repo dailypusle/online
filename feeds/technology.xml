@@ -4,6 +4,127 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Nagoshi Studio, from the creator of the Yakuza series, officially shuts down</title>
+<link>https://www.engadget.com/2303975/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down</link>
+<guid isPermaLink="false">1ab48e8b4cd71129df53abd0e3e39bd8e8b8655304edf851211ddf41139813f0</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 16:03:12 +0000</pubDate>
+<description>It's unclear what will happen to the studio's work on Gang of Dragon.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down/l-intro-1793635351.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down/l-intro-1793635351.jpg" medium="image"/>
+</item>
+<item>
+<title>Why Peacock is making a huge bet on YouTube</title>
+<link>https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv</link>
+<guid isPermaLink="false">ba4ff958bbe3b48b52b5345a54a4103190901ffa72f6ea0f911f44c6bb0a7326</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
+<description>Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just two years ago — pure Decoder bait. First, about a month after Matt was on the show, Comcast spun off most of the NBCU cable channels into something called Versant. That’s when Matt’s title changed from heading up just the direct-to-consumer offering — meaning Peacock, plus some other streaming services — to heading up the whole thing, across all distribution. And now, Comcast is spinning off the NBCU business entirely into a whole new standalone company. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . That’s a lot to have going on all at once! And meanwhile, it’s only just this year that Peacock became an actual profitable business at all — and it’s still pretty far away from being anything like the juggernaut that Netflix is. But what NBCU has, and what Peacock has, that the rest of the streaming industry is still trying to wrap its head around, is live sports. Sports are huge. They held up the cable industry for years, they held up broadcast, and now they’re the big thing that could make streaming a winner for NBC. One thing before we start: You’ll hear me ask Matt about the red company and the blue company. That’s just my way of getting Matt to talk about Netflix and Skydance, the company that now owns both Paramount and Warner Bros. Discovery. I think he did a good job playing along. Before we get going, do me a favor and subscribe to Decoder on YouTube, where we put out new episodes every Monday and Thursday. Okay: Matt Strauss, chairman of the NBCU Media Group. Here we go. This interview has been lightly edited for length and clarity. Matt Strauss, you are the chairman of the NBCUniversal Media Group. Welcome back to Decoder . Thank you so much, Nilay. It’s great to be back. I am very excited to talk to you. There’s a lot going on in the media. It is a tumultuous time in Hollywood. I have to tell the audience that you and I are speaking minutes after Anthropic filed its S-1 , and all of humanity is going to be turned into AI. Who knows what entertainment we’ll be watching in the future? There’s a lot going on. Let’s start at the very beginning of this. You have a new job since last time you were on the show. Last time, you were the head of Direct-to-Consumer — you were basically the head of Peacock and the other apps inside the family. Now you’re the chairman of NBCUniversal Media Group. What’s the new job? What does that mean? NBCUniversal Media Group is comprised of certain services within NBC. It’s the broadcast network, it’s Bravo, it’s Peacock, it’s NBC Sports. We also have NBC News and Telemundo. One of the things that we recognized, especially when we spun off some of</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_Matt_Strauss.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_Matt_Strauss.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Token thieves costing companies $100K+ per day in illicit LLM charges</title>
+<link>https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967</link>
+<guid isPermaLink="false">6c299e7ed47e6af238de198107346812e164e14f559d9fbd4546a317590dd4a1</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
+<description>Victim organizations are losing millions of dollars in token charges as criminals hijack their corporate LLM access to steal expensive computing resources and AI services. These fraudulent charges from resource consumption can exceed $100,000 a day, according to a Monday report by Google's Mandiant incident responders, who saw cumulative charges at some organizations hit $1 million before the victim companies revoked intruders' access. "Whenever possible, threat actors want to use this technology to gain a scale advantage over defenders. They achieve that with agentic tools and by stealing tokens from unwitting third parties,” John Hultquist, chief analyst at Google Threat Intelligence Group, told The Register . “Locking down these resources will not only protect organizations from runaway costs, but also protect the broader community from a deluge of cheap, autonomous attacks.” This tactic of hijacking access to LLMs is called LLMJacking , and it’s been increasing steadily over the past two years. In one extreme case, documented in an August report from CrowdStrike, a token thief sent about 200,000 API requests in just two minutes. In one case detailed in the report, a group Google tracks as UNC6993 illicitly gained access to LLM API keys, then generated additional keys and enabled services within the victim’s cloud projects, racking up $100,000 in charges. The threat intel biz also documented a different token thief subscribing victim accounts to Pay-As-You-Go agreements to access advanced models on the victim company’s dime. The crook selected premium foundation models, launched high-volume inference streams, and used a “burn and rotate strategy” to bypass rate limits by creating and deleting short-lived service accounts while auditing the billing interface to monitor financial impact. In yet another incident, an intruder executed more than 500,000 LLM API calls in less than eight hours using stolen third-party API keys to power a token routing service called Jet Night, according to a Monday report from Google. “Given Jet Night’s per-token costs to users are so far below typical market rates GTIG believes the service relies on stolen keys to operate profitably,” the report says. “For example, Jet Night offers an unlimited token plan for approximately $60 USD per month with alleged access to frontier models, a consumer service level that would typically run between $100 and $250 per month.” Jet Night has also admitted to multiple outages on its public Telegram channel, which the Google threat hunters note is “likely due to stolen keys being revoked as victims discover their respective compromises.” Specialized LLMjacking roles As more criminals join the LLMJacking ecosystem, Google says it has documented a division of labor between the criminals that establish initial access to compromised cloud and AI services, and those that manage downstream monetization infrastructure, called “LLM Mixers.” In one case that Mandiant responded to in mid-2026,</description>
+<enclosure url="https://image.theregister.com/?imageId=5306978&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5306978&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Google's Ocarina of Time Easter egg is a link to a past when Search wasn't horrible</title>
+<link>https://www.engadget.com/2303943/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible</link>
+<guid isPermaLink="false">c1adb697a3e27cb046a3ad62a1b1bc9074c7c7d841939ce93ef7bd00b13e5940</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 15:51:36 +0000</pubDate>
+<description>Turn the clock back to 1998, when the internet was a little more functional.</description>
+<enclosure url="https://www.engadget.com/img/gallery/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/l-intro-1793634639.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/l-intro-1793634639.jpg" medium="image"/>
+</item>
+<item>
+<title>Supermarket freezers across Europe hit by second suspected cyber-attack</title>
+<link>https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack</link>
+<guid isPermaLink="false">4ef4d216a0d18803e9fd5933efb744f9dde7ea3ac97d8042f69ccea38e78bfb4</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 15:45:05 +0000</pubDate>
+<description>Chains in at least seven countries say fridge temperatures rose overnight in incident similar to hack of French stores Europe live – latest updates Supermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in dozens of their stores soared overnight, prompting fears of a cyber-attack similar to one that caused millions of euros of losses in France. Retailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands and Sweden reported problems with their refrigeration systems on Monday, and several companies confirmed they had been victims of a cyberattack. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/4b71e9b955055d1a0eb5f597da100556359fa09b/1184_0_6400_5120/master/6400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d7ed62b937e9f34665da0f99226fd9e" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/4b71e9b955055d1a0eb5f597da100556359fa09b/1184_0_6400_5120/master/6400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d7ed62b937e9f34665da0f99226fd9e" medium="image"/>
+</item>
+<item>
+<title>The Fitbit Edge lacks a useful contactless feature</title>
+<link>https://www.engadget.com/2300348/why-fitbit-edge-lacks-nfc-contactless-payment-feature</link>
+<guid isPermaLink="false">69d56e85ef24da5a57fb8804afe6c26cc5a68b1aceef0837dee6974e283aa15b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 15:45:00 +0000</pubDate>
+<description>It's handy, but most people likely won't miss it.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-fitbit-edge-lacks-a-useful-contactless-feature/l-intro-1792612257.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-fitbit-edge-lacks-a-useful-contactless-feature/l-intro-1792612257.jpg" medium="image"/>
+</item>
+<item>
+<title>SUSE to cut one in ten employees because of... AI</title>
+<link>https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950</link>
+<guid isPermaLink="false">ab9f51c8b2c31abdc33008b7ce33e3060606e2b7736e675cc2c3a572d36755ef</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 15:30:00 +0000</pubDate>
+<description>One in ten employees at SUSE are facing the chop due to "automation and AI," according to a memo dispatched by management at the privately owned open source software biz. In an email to the 1,900 strong workforce on Monday - seen by The Register - CEO Dirk-Peter van Leeuwen, the former Red Hat exec who joined SUSE in March 2023, confirmed the "difficult news." "We are announcing a reduction of SUSE’s global workforce of approximately 10 percent," he said. "These decisions are painful for our people, our culture, and our open source community, but they are necessary for us to adapt and build a sustainable, resilient SUSE for the long term." Van Leeuwen says the business, bought by Swedish private equity provider EQT, decided to cut jobs after scrutinizing its "future strategy, required capabilities, and team structures." The rest of the organization will get a look at the fiscal year 2027 strategy on November 16. He said in the message to staff: "What is clear is that automation and AI are fundamentally shifting how software companies operate. AI capabilities are advancing exponentially, forcing us to radically reimagine our work. We have seen this trend already both inside our sector and in the wider economy. This means that the organizational design and cost base that SUSE is built on today will not carry us forward successfully. "We are adapting. Across SUSE, modern tooling is already changing our daily workflows, enabling teams to move faster with less operational overhead and flatter reporting lines. The requirement for some existing roles has greatly diminished. Other roles will evolve over the next few years. This means we are accelerating investments in high priority areas, and deprioritizing others. These are hard, painful decisions to make, but necessary for our future." As The Reg reported in 2025, SUSE doubled down on AI . The specific roles at risk of redundancy were not outlined but SUSE claims it has considered where the people in those positions are "able to evolve, what they can stop doing, what they need to do more of - and decisions have been made on that basis." Staff caught up in the redundancies will be informed by November 4, employee representatives nominated the following day, and one to one meetings will begin at the start of next week. Van Leeuwen says in the internal memo that the job cuts are a "reflection of shifting organizational needs, not your talent or commitment. You have tackled hard infrastructure and open source challenges that power critical enterprise systems around the world. "Any organization will be fortunate to have your expertise." Back in September, we reported that the company was asking old hands if they would take "voluntary separation ." It seems not enough people chose to walk through the door, so instead, they're getting thrown through it instead. SUSE "geckos" in the Czech Republic may be glad they joined a trade union . Back in 2018, EQT bought SUSE from Microfocus for $2.5 billion. EQT floate</description>
+<enclosure url="https://image.theregister.com/?imageId=5243339&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5243339&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Vivo’s first Pro Max phone proves its Ultra is still in a league of its own</title>
+<link>https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price</link>
+<guid isPermaLink="false">aa4b344ef0bb9646be754203d1c17a29ba7dc51705263b2b546178baadf51c36</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 15:15:00 +0000</pubDate>
+<description>The X500 Pro Max is the first Vivo flagship to sit between its Pro and Ultra tiers. | Photo: Dominic Preston / The Verge When I declared this spring that Vivo's X300 Ultra had the best cameras in any phone, two things made it stand out in my mind: its excellent main camera with a narrow 35mm focal length and what remains the most capable ultrawide in any phone worldwide. You won't find either in the new X500 Pro Max. It has an impressive camera system with world-leading dynamic range and the same great telephoto lens found in the Ultra. But it's lost a little something of what made its predecessor quite so special. Vivo X500 Pro Max Pros Cons Fantastic telephoto camera 17 stops of dynamic range on the main camera Big 7,800mAh battery 1440p, 144Hz display Ultrawide … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vivo-x500-pro-max-03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vivo-x500-pro-max-03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Could data center backlash flip Florida?</title>
+<link>https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers</link>
+<guid isPermaLink="false">3c7c5685222a3b8698519beb14989342539ecc5f0cade3f03921a72849eb4224</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 15:05:00 +0000</pubDate>
+<description>Patti Zirhut, a lifelong Republican, has been studying her ballot for weeks. Zirhut eagerly voted for President Donald Trump in 2016, 2020, and 2024, but she isn't toeing the party line this year. "My ballot is all mixed up," she says. She's voting for some Republicans, some independents, and even a few Democrats. Zirhut remains undecided on a few races, but of one thing she is absolutely certain: "I will not vote for Byron Donalds," she tells me. "No way will I ever vote for him." Donalds, the Republican nominee in Florida's gubernatorial election, has Trump's endorsement, the party's backing, and $148 million in campaign funds, much of it … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_FLORIDA_DATA_CENTERS_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_FLORIDA_DATA_CENTERS_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>YouTuber Druski is going to make exclusive content for Netflix</title>
+<link>https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal</link>
+<guid isPermaLink="false">dcc109f2d2cfd6e615174dde29b6005ad96a5e1f6df2205756514b6c80a2b0c1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+<description>Comedian/actor Druski is seen during MLB All-Star Week on July 13th, 2026, in Philadelphia, Pennsylvania. | Photo by Gilbert Carrasquillo / GC Images Netflix today announced a multiyear deal with the YouTuber, comedian, and influencer Druski, and he'll create original content "exclusively" for the streaming service. The announcement is the latest in Netflix's efforts to bring creators onto the platform, having previously landed deals with YouTubers including Mark Rober , Ms. Rachel , and Good Mythical Morning . Druski's first show coming to Netflix is Collect &amp; Praise , a semi-scripted comedy series where Druski plays a megachurch pastor, and it will debut on December 1st. It will be the first of "several original projects" planned by Druski and his production company, 4LIFERS Entertainment, … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2285961938.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2285961938.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The world has a new plan to save nature, but it still needs the money</title>
+<link>https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money</link>
+<guid isPermaLink="false">2e34eb012881874dbd692f96e2357d6549c156486ae65d7f0e7f467953816a17</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 14:56:52 +0000</pubDate>
+<description>The world is set to miss its 2030 conservation goals as finance and action have fallen short, leaders recognized at a UN biodiversity summit in Armenia’s capital, where they agreed to step up efforts after a final overnight session. Representatives from almost 200 countries gathered in Yerevan over the past two weeks to review progress on a landmark agreement set four years ago to protect about a third of the world’s land and seas by 2030. The COP17 talks on biodiversity concluded on Saturday with a recognition that conservation efforts were so far too slow to realistically achieve the goals of the 2022 Kunming-Montreal Global Biodiversity Framework. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Why it's important to use a microSD Express card with your Nintendo Switch 2</title>
 <link>https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use</link>
 <guid isPermaLink="false">cdcd5700e8ba702702b21a92b4d9218c1b0d4d9c26f732238748d002fd5b1dbc</guid>
@@ -191,17 +312,6 @@
 <media:content url="https://image.theregister.com/?imageId=254844&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Supermarket freezers across Europe hit by second suspected cyber-attack</title>
-<link>https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack</link>
-<guid isPermaLink="false">4ef4d216a0d18803e9fd5933efb744f9dde7ea3ac97d8042f69ccea38e78bfb4</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 11:12:36 +0000</pubDate>
-<description>Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French stores Supermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens of stores rose overnight, prompting fears of a cyber-attack similar to one that caused millions of euros of food losses in France. Sweden’s Coop chain told the daily Aftonbladet on Monday that six of ​its stores ‌had been ​affected, while ICA said it was “aware that a limited ​number of stores were affected by an incident overnight which impacted their refrigeration and freezer systems”. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/4b71e9b955055d1a0eb5f597da100556359fa09b/1184_0_6400_5120/master/6400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d7ed62b937e9f34665da0f99226fd9e" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/4b71e9b955055d1a0eb5f597da100556359fa09b/1184_0_6400_5120/master/6400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d7ed62b937e9f34665da0f99226fd9e" medium="image"/>
-</item>
-<item>
 <title>Apple is reportedly launching three new iPads early next year</title>
 <link>https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year</link>
 <guid isPermaLink="false">9d2a199db0e654f570f1409f63b4eef12767368b4b23b84424d19dafa5080f29</guid>
@@ -279,7 +389,7 @@
 <media:content url="https://image.theregister.com/?imageId=5306731&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>From Expertise to Intelligence: NISCO Deploys World's First Swarm-Intelligence Steel Model at Scale</title>
+<title>From expertise to intelligence: NISCO deploys world's first swarm-intelligence steel model at scale</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/02/partner-content-from-expertise-to-intelligence-nisco-deploys-worlds-first-swarm-intelligence-steel-model-at-scale/5306614</link>
 <guid isPermaLink="false">5edf827d9310fa4ed305c475622be2f455021b6b86234356fc221328054cba73</guid>
 <source>The Register</source>
@@ -483,7 +593,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Sun, 01 Nov 2026 21:09:21 +0000</pubDate>
-<description>Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from the private sector to see if anyone can save it. In a post on NASA's site , Administrator Jared Isaacman said: "Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible … If there are innovative and cost-effective ways to extend the life of an asset … Read the full story at The Verge.</description>
+<description>Gravity is a cruel mistress, slowly dragging the famed Hubble Space Telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from the private sector to see if anyone can save it. In a post on NASA's site , Administrator Jared Isaacman said: Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible … If there are innovative and cost-effective ways to extend the life … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -497,50 +607,6 @@
 <description>Users can still lean on Claude to help with designing original or genre games.</description>
 <enclosure url="https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg" medium="image"/>
-</item>
-<item>
-<title>Ceramic vs Titanium Apple Watch: Which material is better for overall durability?</title>
-<link>https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability</link>
-<guid isPermaLink="false">04be5b4547e069a10f721df63f9e89fe5ae8c13ea9ab08c193de52309e7584bf</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 21:00:00 +0000</pubDate>
-<description>An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability/l-intro-1793034841.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability/l-intro-1793034841.jpg" medium="image"/>
-</item>
-<item>
-<title>How to know if a USB-C cable is waterproof</title>
-<link>https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof</link>
-<guid isPermaLink="false">4a99cf1d3abdfdbfea92c7b68206b7531cbbf2887a3ea4f1b1d4b0609effcfea</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 20:00:00 +0000</pubDate>
-<description>If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg" medium="image"/>
-</item>
-<item>
-<title>Flock keeps ignoring requests to cancel its contracts</title>
-<link>https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts</link>
-<guid isPermaLink="false">4c7805da92c2787a7faa415ad27d3395071ff6e754fd24921002fc95d95dc11b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 19:58:02 +0000</pubDate>
-<description>BOULDER, CO - MARCH 5:A Flock Safety license plate recognition camera is seen near the intersection of Marine Street and Arapahoe Avenue in Boulder on Thursday, March 5, 2026. (Photo by Matthew Jonas/MediaNews Group/Boulder Daily Camera via Getty Images) | MediaNews Group via Getty Images While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city had received no acknowledgment from the company. So, Police Chief Eric Fadden took matters into his own hands and physically disconnected the cameras. "After hearing nothing for more than a week, I directed our staff to disconnect the power cords from the cameras in order to be sure that they are not functioning … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>5 ways to get Amazon Prime for free (or way cheaper)</title>
-<link>https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper</link>
-<guid isPermaLink="false">5fb8f62824ba0fd5d1da560fa2b1b14d17a86301a21237e32d22dc36463eeb75</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 19:45:00 +0000</pubDate>
-<description>Don't pay full price; you might already qualify for cheaper Prime or have another benefit that covers the membership fee</description>
-<enclosure url="https://www.engadget.com/img/gallery/5-ways-to-get-amazon-prime-for-free-or-way-cheaper/l-intro-1793243550.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/5-ways-to-get-amazon-prime-for-free-or-way-cheaper/l-intro-1793243550.jpg" medium="image"/>
 </item>
 <item>
 <title>Investors pull billions in funds from Binance after record $6.3bn hack</title>
@@ -563,39 +629,6 @@
 <description>New electricity generating capacity would enable north-east to attract investment for large-scale AI infrastructure National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, which could supply power to a vast neighbouring datacentre as the UK races to expand its AI infrastructure. Last week, the company agreed to purchase 29.5 hectares (73 acres) of land at Dorman Point on a site owned by Teesworks, a local private-public partnership. The deal was first reported by Sky News. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/6454f44555fa48a5f38d1d066c370cb6e7376a80/0_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0fc58be9d52324544395bfd3e91d4776" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/6454f44555fa48a5f38d1d066c370cb6e7376a80/0_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0fc58be9d52324544395bfd3e91d4776" medium="image"/>
-</item>
-<item>
-<title>Apple’s HomeView could add security camera features</title>
-<link>https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features</link>
-<guid isPermaLink="false">0cdb92ce3209f04088582645b2728b19f5fd7ce5b0b5436f1c09bf68d6710e39</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 17:16:07 +0000</pubDate>
-<description>Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly reads: "Your HomeView can be used as a security camera with HomeKit Secure Video." Supposedly, the video feeds will only be visible to members of the home, and will both show an indicator light and play a sound when either someone is watching the camera feed or when it starts to record. Home members will also ge … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>A fully playable version of Portal prequel F-Stop leaked</title>
-<link>https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak</link>
-<guid isPermaLink="false">03a18e7f812000a710866a3a7598a5b84dd4bfae4ed0d521f3b221ae64aa25dd</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 16:19:21 +0000</pubDate>
-<description>Leakers have pieced together a playable version of the canceled Portal prequel F-Stop . Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version to be pieced together. Some dialog and elements of F-Stop eventually found their way into Portal 2 . But it differs dramatically from the mainline Portal games in that it's built around a camera mechanic that lets you capture an item by taking its picture and place it elsewhere using the resulting Polaroid … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>North Korea linked to massive Binance crypto heist</title>
-<link>https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist</link>
-<guid isPermaLink="false">e521e8be4198719165ca63d03965b5c7164d8042333ea9f99d0d22aa80490b1d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 14:33:11 +0000</pubDate>
-<description>The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity "TraderTraitor" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says: North Korea Responsible for $6 Billion+ Binance Attack The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from crypto … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says</title>
@@ -692,7 +725,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Sat, 31 Oct 2026 11:15:26 +0000</pubDate>
-<description>Flying across several time zones often causes jet lag, a feeling when the body insists it's the middle of the night while the clock says it's lunchtime. Now it turns out this nuisance is not exclusive to humans. A new Science study on Manx shearwaters, seabirds that can fly hundreds of kilometers a day over the North Atlantic, shows they jet-lag themselves during their excursions. And because these birds navigate by the Sun, that jet lag leaves a measurable mark—it skews their compass. Clockwork compass Patrick Lewin is a behavioral and sensory ecologist at the University of Oxford and lead author of the study. “Manx shearwaters are medium-sized birds, about the same size as a pigeon,” Lewin said. “They are white underneath and black on top, but they have very long wings, and they are closely related to albatross.” Manx shearwaters nest in burrows on coastal islands around the North Atlantic. Most breed around the UK and Ireland, with about half of their population living in Wales. Read full article Comments</description>
+<description>Flying across several time zones often causes jet lag, a feeling where the body insists it's the middle of the night while the clock says it's lunchtime. Now it turns out this nuisance is not exclusive to humans. A new Science study on Manx shearwaters, seabirds that can fly hundreds of kilometers a day over the North Atlantic, shows they jet-lag themselves during their excursions. And because these birds navigate by the Sun, that jet lag leaves a measurable mark—it skews their compass. Clockwork compass Patrick Lewin is a behavioral and sensory ecologist at the University of Oxford and lead author of the study. “Manx shearwaters are medium-sized birds, about the same size as a pigeon,” Lewin said. “They are white underneath and black on top, but they have very long wings, and they are closely related to albatross.” Manx shearwaters nest in burrows on coastal islands around the North Atlantic. Most breed around the UK and Ireland, with about half of their population living in Wales. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4-500x500.jpeg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4-500x500.jpeg" medium="image"/>
 </item>
@@ -758,7 +791,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Sat, 31 Oct 2026 00:07:22 +0000</pubDate>
-<description>The Hubble Space Telescope still shines in the eyes of astronomers after 36 years in orbit, but it is not as nimble as it once was. Left alone, the observatory will plunge back into the atmosphere in the early-to-mid-2030s, closing the book on one of the most famous scientific instruments of the century. NASA last raised the orbit of Hubble in 2002, when the Space Shuttle Columbia visited the observatory for a servicing mission. The final shuttle servicing flight in 2009 did not reboost the telescope's orbit, and with the retirement of the shuttle fleet two years later, Hubble has steadily lost altitude with no way to stave off eventual destruction. The space agency released a Request For Information (RFI) on Thursday asking commercial companies for ideas on how to reboost, service, or a controlled disposal of Hubble. Responses are due November 30. Specifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance, or guiding Hubble to a controlled reentry. Read full article Comments</description>
+<description>The Hubble Space Telescope still shines in the eyes of astronomers after 36 years in orbit, but it is not as nimble as it once was. Left alone, the observatory will plunge back into the atmosphere in the early-to-mid-2030s, closing the book on one of the most famous scientific instruments of the century. NASA last raised the orbit of Hubble in 2002, when the Space Shuttle Columbia visited the observatory for a servicing mission. The final shuttle servicing flight in 2009 did not reboost the telescope's orbit, and with the retirement of the shuttle fleet two years later, Hubble has steadily lost altitude with no way to stave off eventual destruction. The space agency released a Request For Information (RFI) on Thursday asking commercial companies for ideas on how to reboost, service, or conduct a controlled disposal of Hubble. Responses are due November 30. Specifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance, or guiding Hubble to a controlled reentry. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg" medium="image"/>
 </item>
@@ -769,7 +802,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 22:36:41 +0000</pubDate>
-<description>For a genuine fright this Halloween, you can turn your gaze to the southern border, where ravenous, flesh-eating maggots are festering and have taken to eating people's pets. This week, the country's New World Screwworm (NWS) infestation spread to a third state, Arizona, which joins New Mexico and Texas in being plagued by the horrifying parasites. To date, 74 animal cases have been identified in the US since the flies re-invaded the country in June. The flies lay hundreds of eggs in wounds and moist orifices of animals, and the resulting voracious maggots feast on their victims. The maggots resemble screws and tortuously bore and twist into living flesh, causing severe, sometimes fatal wounds, before dropping to the ground to develop into adults. Read full article Comments</description>
+<description>For a genuine fright this Halloween, you can turn your gaze to the southern border, where ravenous, flesh-eating maggots are festering and have taken to eating people's pets. This week, the country's New World Screwworm (NWS) infestation spread to a third state, Arizona, which joins New Mexico and Texas in being plagued by the horrifying parasites. To date, 74 animal cases have been identified in the US since the flies re-invaded the country in June. The flies lay hundreds of eggs in wounds and moist orifices of animals, and the resulting voracious maggots feast on their victims. The maggots resemble screws and tortuously bore and twist into living flesh, causing severe, sometimes fatal wounds before dropping to the ground to develop into adults. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg" medium="image"/>
 </item>
@@ -802,7 +835,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
-<description>An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1.314 several hours after the previous version became available on Cursor, according to independent researcher Kevin Beaumont. Both Beaumont and the CTO and co-founder of security firm Phorio n said that version 2.1.313 was distributed through Anthropic’s official account on Cursor. So far, neither Cursor nor Anthropic has explained how the attackers gained control of the account. Read full article Comments</description>
+<description>An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1.314 several hours after the previous version became available on Cursor, according to independent researcher Kevin Beaumont. Both Beaumont and the CTO and co-founder of security firm Phorion said that version 2.1.313 was distributed through Anthropic’s official account on Cursor. So far, neither Cursor nor Anthropic has explained how the attackers gained control of the account. In search of cloud credentials “It was a supply-chain compromise where the attacker gained access to the official distribution channel,” Phorion CTO and co-founder Luke Roberts told Ars. “The malicious version 2.1.313 was posted to the official Anthropic account, effectively superseding 2.1.312. Extensions auto-update in Cursor by default, but users can configure this in settings.” Phorion has more details here . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg" medium="image"/>
 </item>
@@ -813,7 +846,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 20:40:13 +0000</pubDate>
-<description>On August 9, 2026, Dartmouth College provost Santiago Schnell wrote a Washington Post op-ed called "Universities are fighting AI cheating. But there’s a deeper problem." This week, Schnell discovered the depths of the problem himself as he resigned from the university after an advisory committee found that he failed to disclose significant AI use in an academic paper and in the Washington Post op-ed, even though publishers required such disclosure. Schnell didn't make it especially easy for the committee to investigate his AI use; the report uses the term "insufficient cooperation." He did turn over his Dartmouth laptop, but he did not turn over logs from his personal LLM accounts related to the writings in question. Nor did he agree to meet with the committee. The committee did get access to the Claude enterprise account Schnell had used through Dartmouth, though. This shows him using the LLM as a tool for revising his papers, finding and fixing bugs in code, and editing or generating figures. For instance, Schnell would run his papers through Claude and ask things like: Read full article Comments</description>
+<description>On August 9, 2026, Dartmouth College Provost Santiago Schnell wrote a Washington Post op-ed called "Universities are fighting AI cheating. But there’s a deeper problem." This week, Schnell discovered the depths of the problem himself as he resigned from the university after an advisory committee found that he failed to disclose significant AI use in an academic paper and in the Washington Post op-ed, even though publishers required such disclosure. Schnell didn't make it especially easy for the committee to investigate his AI use; the report uses the term "insufficient cooperation." He did turn over his Dartmouth laptop, but he did not turn over logs from his personal LLM accounts related to the writings in question. Nor did he agree to meet with the committee. The committee did get access to the Claude enterprise account Schnell had used through Dartmouth, though. This shows him using the LLM as a tool for revising his papers, finding and fixing bugs in code, and editing or generating figures. For instance, Schnell would run his papers through Claude and ask things like: Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg" medium="image"/>
 </item>
@@ -835,7 +868,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 20:17:50 +0000</pubDate>
-<description>A significant number of patients in the US lie to their doctors to get antibiotics they likely don't need, according to two new studies. While that may not be a startling revelation, the studies drills down on the phenomenon, finding that the lies patients tell are generally bad ones—and yet, they work almost all the time. In the two linked studies published Friday in JAMA Network Open, a team of researchers led by Alistair Thorpe at the University of Utah analyzed online survey data from over 1,000 adults. They found that over a quarter of people reported having lied to a clinician at least once to get an antibiotic prescription for themselves or a child in their care. Patients lied by either exaggerating symptoms, making up symptoms, or—most often—both. But interestingly, the lies people told to get antibiotics involved making up or exaggerating symptoms of infections that wouldn't be treated with antibiotics. For example, the most common falsehoods were symptoms associated with colds, such as fever, cough, and sore throat. That's despite the fact that colds are caused by viruses, not bacteria—which antibiotics treat. Read full article Comments</description>
+<description>A significant number of patients in the US lie to their doctors to get antibiotics they likely don't need, according to two new studies. While that may not be a startling revelation, the studies drill down on the phenomenon, finding that the lies patients tell are generally bad ones—and yet, they work almost all the time. In the two linked studies published Friday in JAMA Network Open, a team of researchers led by Alistair Thorpe at the University of Utah analyzed online survey data from over 1,000 adults. They found that over a quarter of people reported having lied to a clinician at least once to get an antibiotic prescription for themselves or a child in their care. Patients lied by either exaggerating symptoms, making up symptoms, or—most often—both. But interestingly, the lies people told to get antibiotics involved making up or exaggerating symptoms of infections that wouldn't be treated with antibiotics. For example, the most common falsehoods were symptoms associated with colds, such as fever, cough, and sore throat. That's despite the fact that colds are caused by viruses, not bacteria—which antibiotics treat. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg" medium="image"/>
 </item>
@@ -1104,17 +1137,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire</title>
-<link>https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire</link>
-<guid isPermaLink="false">a195c114d9a76b5ff4027e6458ee1a54cbfb2da6ea550d09270a29ec1687c8b1</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 11:00:35 +0000</pubDate>
-<description>Welcome to Edition 9.17 of the Rocket Report! It's been a while since an American company announced plans for a medium-lift new launch vehicle, but that's what happened this week when a startup named Cowboy Space revealed specs for its Big Iron rocket, named for the classic country-western song by Marty Robbins. I'm a huge fan of the name. Maybe Cowboy Space is striking while the iron is hot as the space industry frets over demand for launch outpacing supply. However, Cowboy Space lags far behind so many other launch providers nearing the launch pad with their medium-class rockets, and the company didn't have much hardware to show at this week's big reveal. In other words, don't mistake style for substance. But we're rocket fans at Ars, and we wish them luck. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Virgin's new rocket plane reaches home port . The first of Virgin Galactic's new Delta-class rocket planes left its Arizona factory Wednesday for a trip to Spaceport America in neighboring New Mexico, where it will undergo preparations for a test campaign culminating in suborbital flights to the edge of space, Ars reports . Virgin Galactic expects the craft's first commercial spaceflight to take place "early" in the second quarter of 2027, but like every other projected date in aerospace, this should be taken with a grain of salt. Virgin Galactic halted commercial flights of its previous vehicle, VSS Unity , in 2024. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg" medium="image"/>
-</item>
-<item>
 <title>Accenture AI agents are sifting through applicants</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/30/accenture-ai-agents-are-sifting-through-applicants/5306460</link>
 <guid isPermaLink="false">1972d3249f8baa05e1a5fcd600117bf4bf68fada1b23e1c2e4c1d9adb6d35d27</guid>
@@ -1333,28 +1355,6 @@
 <description>The bank’s message follows a trend among financial institutions that are restricting third-party AI agent access.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/boapowerGettyImages-1554399408_667584.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/boapowerGettyImages-1554399408_667584.jpg" medium="image"/>
-</item>
-<item>
-<title>Oracle wants to bill you for every AI task, not just every seat</title>
-<link>https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403</link>
-<guid isPermaLink="false">158d2f43d291449731f68bb28b15779276b564a1c63d7edd020dcb6cfd70a9a0</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 15:30:00 +0000</pubDate>
-<description>Oracle expects to earn more from existing application customers as it embeds AI in its enterprise software suite. Speaking at Big Red's investor day on Wednesday, Chris Leone, executive veep of application development, said Oracle will layer usage-based revenue on top of its subscription model. “The more work that gets done by AI in our system, the more revenue we will see because they're consuming AI units as that work is getting done. We don't have to add more seats in order for us to now generate more revenue,” he said. Earlier this month, Oracle revealed its Fusion Claw runtime , designed to help customers control AI agents that automate business processes. It targets ERP, finance, and supply chain management in cloud-based Fusion applications running on Oracle Cloud Infrastructure (OCI). Customers will pay for more work done inside Oracle applications, and Leone said Fusion Claw will also automate work done outside of Fusion. The promise of more revenue for Oracle, and higher bills for customers, came as the company sought to reassure investors about its spending, borrowing and revenue as it chases a share of the AI market. Oracle is funding a datacenter spending spree with negative cashflow and borrowing. OCI is set to host large language model builders, notably OpenAI, alongside its own customers' workloads. Oracle spent $55.7 billion on datacenters and cloud infrastructure in fiscal year 2026, which ended in May, and plans to spend between $90 billion and $95 billion in fiscal 2027. That will require more debt. In 2027, Oracle hopes to raise around $40 billion in debt and equity, on top of the $18 billion in debt it raised in September 2025. In a notice to investors this week, Oracle said it expects fiscal 2030 revenue of $225 billion, a compound annual growth rate of 35 percent from 2026. It expects positive cash flow by the second half of fiscal 2028, with capital spending falling the following financial year. Investors reacted positively. Oracle co-CEO Mike Sicilia also told shareholders the company will use AI to help implement its software, a plan he called as important as putting AI in the software itself. He argued AI will cut implementation time, bringing existing and new customers to OCI faster and boosting revenue. "On-premises customers can now move far more easily to the cloud by leveraging the AI tool sets to automate migrations and decrease the cost and time to implement. They don't have to be Oracle customers; they can be competitive customers." Sicilia said enterprise application software users' reluctance to change had been a major "headwind" for Oracle, one he hopes AI will ease. "Our large remaining base of on-premises customers are going to start to adopt this technology quite quickly. When we move customers from on-premises to cloud, we see a multiple increase in revenue," he said. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5248818&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5248818&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Built to bend: Postgres’s inventor and a steward on what AI really needs</title>
-<link>https://www.theregister.com/databases/2026/10/29/partner-content-built-to-bend-postgress-inventor-and-a-steward-on-what-ai-really-needs/5305957</link>
-<guid isPermaLink="false">cfcb009f85699e74f2d768c241faec131e0047f2174b854e84fb5cd5c00fabf0</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-<description>Michael Stonebraker introduced Postgres ® at Berkeley in 1986. Forty years later, the database he invented is a leading choice for a generation of AI projects, and he is among the sharpest skeptics of how those projects are being built. Bruce Momjian is cofounder and core team member of the PostgreSQL Global Development Group, and he works at EnterpriseDB (EDB). In upcoming episodes of AI &amp; Data Horizons by EnterpriseDB (EDB), the Turing Award winner and MIT professor and the Postgres community advocate both make the case that the future belongs to systems that bend without breaking, and to communities that no single company controls. Zero, not 80 Stonebraker’s first exhibit is text-to-SQL, the promise that a business user can ask a question in plain English and get an answer from the warehouse. Public benchmarks such as Spider and BIRD report accuracy above 80 percent. His team tried the same thing on MIT’s own data warehouse—1,400 tables of student, faculty, building, and salary information—using real queries from its SQL log. “We got zero-percent accuracy. Not 80, not 70, not 40—zero,” he said. Adding agentic AI, retrieval, and prompt engineering lifted that level into the teens. Telling the model every table and join term reached the 30s. “Still not ready for prime time.” The reasons are the stuff of every enterprise estate. There is no training data, because the warehouse is not on the public internet. The data is idiosyncratic: among other things, MIT buildings have numbers, not names. The schema has rotted into cryptic table and column names and overlapping views. And real queries are harder than benchmark ones. His team has published its own benchmark, Beaver, and says nobody has broken out of accuracy levels in the 30-percent range. Use the model for what it’s good at The deeper problem, Stonebraker argues, is architectural. Large language models are good with text, but “what they are no good at is doing joins of structured data,” which is most of what an enterprise holds. Working with the city of Munich’s transport department, Stonebraker’s team found that answering a single citizen complaint about crosswalk timing meant combining regulations, CAD drawings, trolley schedules, and school-zone maps. Orchestrating that with a language model at the center was, he said, “ridiculously expensive.” The team’s answer, a system called Rubicon, uses models only on text, then casts the results into tables and hands the rest to a tabular engine. The orchestrator “looks like a query optimizer.” Stonebraker says it is cheaper by a factor of 10 and considerably more accurate than agent frameworks built around a model. He expects agentic AI to slide from the top of the hype cycle into the valley of despair before a more balanced view emerges. Enterprises hate non-determinism: Approve a loan and reverse it on review, and “that’s called a lawsuit.” Organizations also need protection from rogue agents. The guardrails inside the database, he notes, largely</description>
-<enclosure url="https://image.theregister.com/?imageId=5305959&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305959&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra</title>

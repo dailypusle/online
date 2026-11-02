@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Midterm elections live updates: Trump attacks El-Sayed during stump speech in Iowa</title>
+<link>https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections?id=137578278</link>
+<guid isPermaLink="false">f634d3a2c078d40fc5dd52208b9bc0ba0e7da02b675d1f0980cf8e9981479d8c</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 02 Nov 2026 02:35:43 +0000</pubDate>
+<description>President Donald Trump visited Iowa and Kansas on Sunday.</description>
+<enclosure url="https://s.abcnews.com/images/US/trump-main_1793528992925_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/trump-main_1793528992925_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Learjet with 9 aboard crashes in Palm Beach County, Florida: FAA</title>
 <link>https://abcnews.com/US/learjet-9-aboard-crashes-palm-beach-florida-faa/story?id=137753599</link>
 <guid isPermaLink="false">77477556681aaf872b303938e1fbc0cfa72a9ebea3804a894a257cc614024311</guid>
@@ -15,13 +26,13 @@
 <media:content url="https://s.abcnews.com/images/US/fla-crash-1-rt-gmh-261101_1793573518597_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Ukraine suspects nationwide air raid alert app has been hacked</title>
+<title>Russia and Ukraine accuse each other of hacking emergency alert apps</title>
 <link>https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked</link>
 <guid isPermaLink="false">083a045e3724b0bf16c90c1cdc8d80978a849d9d30ab4934fca6d93239413457</guid>
 <source>France 24</source>
 <category>world</category>
 <pubDate>Mon, 02 Nov 2026 01:20:44 +0000</pubDate>
-<description>Ukraine's air force said on Sunday that its nationwide air raid alert application had probably been hacked, warning that threat notifications no longer reflected the situation on the ground. The suspected interference came just minutes after the end of a local ceasefire with Russia in the eastern Kherson region.</description>
+<description>Russia and Ukraine accused each other of hacking their emergency alert applications as a local ceasefire in the war's eastern Kherson region expired on Sunday. The cyberattacks came as both sides warned of renewed fighting and Kyiv signalled it could halt strikes on Russian oil refineries in exchange for US Patriot missiles.</description>
 <enclosure url="https://s.france24.com/media/display/01e27286-d5fa-11f1-9fb6-695cb59fade5/w:1024/p:16x9/6a3c233d865056dcf34ec2006538c9fc902893e3.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/01e27286-d5fa-11f1-9fb6-695cb59fade5/w:1024/p:16x9/6a3c233d865056dcf34ec2006538c9fc902893e3.jpg" medium="image"/>
 </item>
@@ -92,17 +103,6 @@
 <media:content url="https://s.france24.com/media/display/d9e60d24-aa3e-11f1-8a9c-005056bfb2b6/w:1024/p:16x9/2026-09-06T210859Z-932383450-RC2WDNASZYYQ-RTRMADP-3-USA-CRASH-PLANE-MIAMI.jpg" medium="image"/>
 </item>
 <item>
-<title>Midterm elections live updates: Judge dismisses DOJ Alaska election results suit</title>
-<link>https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections?id=137578278</link>
-<guid isPermaLink="false">f634d3a2c078d40fc5dd52208b9bc0ba0e7da02b675d1f0980cf8e9981479d8c</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 23:44:48 +0000</pubDate>
-<description>President Donald Trump is scheduled to visit Iowa and Kansas on Sunday.</description>
-<enclosure url="https://s.abcnews.com/images/US/trump-main_1793528992925_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/trump-main_1793528992925_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>French presidential candidate Édouard Philippe rejects centre-right primary</title>
 <link>https://www.france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary</link>
 <guid isPermaLink="false">b60ed8a7a65a9000eb5566b76e7d64e1502cf500a4ff4fb1c65a9c4ffdd96316</guid>
@@ -136,7 +136,7 @@
 <media:content url="https://s.france24.com/media/display/0bfbe8ea-a712-11ec-a859-005056a97e36/w:1024/p:16x9/8013915005001.jpg.png" medium="image"/>
 </item>
 <item>
-<title>Pilot's last words moments before Florida jet crashes, killing all nine on board</title>
+<title>Pilot's last words before jet crashes in Florida, killing all nine on board</title>
 <link>https://news.sky.com/story/business-jet-carrying-nine-crashes-in-florida-13606818</link>
 <guid isPermaLink="false">d00086bfb9136256436ccf2a1d81664ae0c21ed4106edbda9e8bec8636295a6e</guid>
 <source>Sky News Home</source>

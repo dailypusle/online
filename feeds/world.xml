@@ -4,26 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Midterm elections updates: Trump says he'll be 'Mr. Veto' if Dems control Congress</title>
+<title>Midterm elections updates: DOJ goes to SCOTUS over Calif. voting case</title>
 <link>https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections?id=137578278</link>
 <guid isPermaLink="false">f634d3a2c078d40fc5dd52208b9bc0ba0e7da02b675d1f0980cf8e9981479d8c</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Mon, 02 Nov 2026 18:01:08 +0000</pubDate>
-<description>President Donald Trump is scheduled to appear at the Reflecting Pool on Monday.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/trump--main_1793609890478_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/trump--main_1793609890478_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Mon, 02 Nov 2026 18:54:34 +0000</pubDate>
+<description>The DOJ filed the appeal one day before ballot counting begins in California.</description>
+<enclosure url="https://s.abcnews.com/images/US/scotus-2-gty-gmh-261005_1791219761326_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/scotus-2-gty-gmh-261005_1791219761326_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>European grocery chains' freezers, refrigerators targeted in apparent cyberattacks</title>
-<link>https://abcnews.com/International/european-grocery-chains-freezers-refrigerators-targeted-apparent-cyberattacks/story?id=137769974</link>
-<guid isPermaLink="false">97150ec449a448844dfedbed2eb182b66f07ee5be68fedbf77e5b7e092b59b65</guid>
+<title>Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials</title>
+<link>https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden</link>
+<guid isPermaLink="false">47a3663619495d74c032747357051d892bf8d17f2124d1cdf16507e9443853a4</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Mon, 02 Nov 2026 18:54:01 +0000</pubDate>
+<description>The judge said he was "deeply troubled" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms. (Image credit: Craig Hudson)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fcb%2F16f82eca423aa567a3f7b440f7ae%2Fgettyimages-2185699833.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fcb%2F16f82eca423aa567a3f7b440f7ae%2Fgettyimages-2185699833.jpg" medium="image"/>
+</item>
+<item>
+<title>Multiple people killed and injured in shooting near state beach: Authorities</title>
+<link>https://abcnews.com/US/multiple-people-killed-injured-shooting-california-state-beach/story?id=137777882</link>
+<guid isPermaLink="false">3eb458c1e5bc0b79011267af37cae3342459ef12e0a8d3ea4910fefb7a0642bd</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Mon, 02 Nov 2026 17:45:59 +0000</pubDate>
-<description>Temperature settings were increased, resulting in food spoilage, companies said.</description>
-<enclosure url="https://s.abcnews.com/images/International/grocery-1-gty-er-261102_1793638677114_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/grocery-1-gty-er-261102_1793638677114_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Mon, 02 Nov 2026 18:49:39 +0000</pubDate>
+<description>Moss Landing State Beach is closed in the wake of the shooting.</description>
+<enclosure url="https://s.abcnews.com/images/US/california-2-abc-er-261102_1793644651379_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/california-2-abc-er-261102_1793644651379_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Judge blasts DOJ in dismissing case against ex-FBI agents who probed Hunter Biden</title>
+<link>https://abcnews.com/US/judge-dismisses-doj-case-fbi-agents-investigated-hunter/story?id=137771456</link>
+<guid isPermaLink="false">5ec5894d3e7077914c73946fe4af01c8618c2e46f76c1f37f64b20d6f7ccfcf4</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 02 Nov 2026 18:47:27 +0000</pubDate>
+<description>A judge has dismissed the DOJ's federal false statements case against two former FBI agents accused of lying to Congress about past investigations of Hunter Biden.</description>
+<enclosure url="https://s.abcnews.com/images/US/hunter-biden-ap-gmh-261102_1793635945964_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/hunter-biden-ap-gmh-261102_1793635945964_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says</title>
+<link>https://abcnews.com/Politics/sen-chris-murphy-hospitalized-after-suffering-stroke-chief/story?id=137751743</link>
+<guid isPermaLink="false">097b631085f51c98cd31cfc19abeae73c08f7ef1236c0bb4a3e4f72af3ad62fb</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 02 Nov 2026 18:31:54 +0000</pubDate>
+<description>U.S. Sen. Chris Murphy has been hospitalized after suffering a stroke, his chief of staff said in a statement on Sunday.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/chris-murphy-abc-jm-250209_1739113572108_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/chris-murphy-abc-jm-250209_1739113572108_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Iran engages US in 'intensive' negotiations to avert fresh war outbreak</title>
@@ -103,17 +136,6 @@
 <media:content url="https://s.abcnews.com/images/GMA/261102_gma_whitworth1_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Judge dismisses DOJ case against two ex-FBI agents who investigated Hunter Biden</title>
-<link>https://abcnews.com/US/judge-dismisses-doj-case-fbi-agents-investigated-hunter/story?id=137771456</link>
-<guid isPermaLink="false">5ec5894d3e7077914c73946fe4af01c8618c2e46f76c1f37f64b20d6f7ccfcf4</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 02 Nov 2026 16:20:39 +0000</pubDate>
-<description>A judge has dismissed the DOJ's federal false statements case against two former FBI agents accused of lying to Congress about past investigations of Hunter Biden.</description>
-<enclosure url="https://s.abcnews.com/images/US/hunter-biden-ap-gmh-261102_1793635945964_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/hunter-biden-ap-gmh-261102_1793635945964_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>A musical overview of trans-European punk</title>
 <link>https://www.france24.com/en/tv-shows/arts24/20261102-a-musical-overview-of-trans-european-punk</link>
 <guid isPermaLink="false">2fa98663511ea20fe23e3b15cc76352dac6c0f33eb278701142a697f533a8e20</guid>
@@ -189,6 +211,17 @@
 <description>ICE is facing new scrutiny over a video that allegedly shows an ICE agent pointing a gun in the face of a bystander in California.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261102_gma_thomas_ice2_0712_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261102_gma_thomas_ice2_0712_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>FIFA to partially release documents relating to World Cup sell-off plan</title>
+<link>https://news.sky.com/story/fifa-to-partially-release-documents-relating-to-world-cup-sell-off-plan-13605768</link>
+<guid isPermaLink="false">c8af2aa4119967e245620eebbb9c4d7b47ab1b2bc3244d7a93d6b6ca7c6367af</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Mon, 02 Nov 2026 15:11:00 +0000</pubDate>
+<description>FIFA will give members of its ruling council access to some documents for the first time related to the World Cup sell-off, Sky News understands.</description>
+<enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-infantino-fifa_7340206.jpg?20260903184707" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-infantino-fifa_7340206.jpg?20260903184707" medium="image"/>
 </item>
 <item>
 <title>Ukraine and Russia report fake emergency alerts after cyberattacks target apps</title>
@@ -411,15 +444,15 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ica-sweden-freezers_7394730.jpg?20261102111823" medium="image"/>
 </item>
 <item>
-<title>Man jailed for life after dragging head teacher to his death under his car</title>
-<link>https://news.sky.com/story/simon-richardson-jailed-for-life-after-fatally-dragging-head-teacher-michael-mullins-to-his-death-under-his-car-13607015</link>
-<guid isPermaLink="false">d7ae5fed86c570fde79f9b2b78e33a424d69553ffcefacb44e0ff65b3fb943c0</guid>
-<source>Sky News Home</source>
+<title>With students scarce, college admissions offices get friendlier, less intimidating</title>
+<link>https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students</link>
+<guid isPermaLink="false">daa6340103c9cb2e16bdc3cd0fbfb4d60e8f17e7bcaac74d5b83ee4b10c19f7d</guid>
+<source>NPR News</source>
 <category>world</category>
-<pubDate>Mon, 02 Nov 2026 10:35:00 +0000</pubDate>
-<description>A man who hit a cyclist and knowingly dragged him for more than a mile under his car has been sentenced to at least 25 years in prison for the murder.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-simon-richardson-michael-mullins_7392068.jpg?20261030173040" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-simon-richardson-michael-mullins_7392068.jpg?20261030173040" medium="image"/>
+<pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
+<description>Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly. (Image credit: Oliver Parini)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2335+0+0/resize/3500x2335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fa9%2F95bd950e460a90001fb1918c4891%2Fhe-admissions-all-in-1.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2335+0+0/resize/3500x2335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fa9%2F95bd950e460a90001fb1918c4891%2Fhe-admissions-all-in-1.jpg" medium="image"/>
 </item>
 <item>
 <title>How does this fluoride-free toothpaste compare when it comes to oral health?</title>
@@ -433,17 +466,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F2e%2F428040b546e4a122a586b07d146e%2Fgettyimages-2292510964.jpg" medium="image"/>
 </item>
 <item>
-<title>With students scarce, college admissions offices get friendlier, less intimidating</title>
-<link>https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students</link>
-<guid isPermaLink="false">daa6340103c9cb2e16bdc3cd0fbfb4d60e8f17e7bcaac74d5b83ee4b10c19f7d</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
-<description>Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly. (Image credit: Oliver Parini)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2335+0+0/resize/3500x2335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fa9%2F95bd950e460a90001fb1918c4891%2Fhe-admissions-all-in-1.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2335+0+0/resize/3500x2335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fa9%2F95bd950e460a90001fb1918c4891%2Fhe-admissions-all-in-1.jpg" medium="image"/>
-</item>
-<item>
 <title>What Vance's midterm push reveals about his potential 2028 bid</title>
 <link>https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid</link>
 <guid isPermaLink="false">863c53c58505e93ac7e8bad69d5bc6c0279fe9df55936db8c9524c4868572625</guid>
@@ -453,17 +475,6 @@
 <description>Vance's delivery is different from the president's but his speeches contain plenty of MAGA DNA. (Image credit: ALEX WROBLEWSKI)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5392x3592+0+0/resize/5392x3592!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2Ffe%2Fc5e8c5f942f9b33b890b7ed97281%2Fgettyimages-2302226858.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5392x3592+0+0/resize/5392x3592!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2Ffe%2Fc5e8c5f942f9b33b890b7ed97281%2Fgettyimages-2302226858.jpg" medium="image"/>
-</item>
-<item>
-<title>UN's peacekeeping mission in disputed Western Sahara ends after 35 years</title>
-<link>https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends</link>
-<guid isPermaLink="false">f4c5be0a71e76073b83082bcfe79a56a3a0b3f3f1f7cd68afe4f29809edf4761</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Mon, 02 Nov 2026 07:19:35 +0000</pubDate>
-<description>The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front. (Image credit: Bernat Armangue)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8351x5567+0+0/resize/8351x5567!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F4e%2Fde1f3e074a53adb6510217f3e291%2Fap26305659609431.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8351x5567+0+0/resize/8351x5567!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2F4e%2Fde1f3e074a53adb6510217f3e291%2Fap26305659609431.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Thrilling finishes at NYC marathon</title>
@@ -486,17 +497,6 @@
 <description>British backpackers in Australia could be forced to spend more time in regional areas under proposed changes to the country's working holiday visa.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-australia-tourism_7395016.jpg?20261102152318" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-australia-tourism_7395016.jpg?20261102152318" medium="image"/>
-</item>
-<item>
-<title>Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says</title>
-<link>https://abcnews.com/Politics/sen-chris-murphy-hospitalized-after-suffering-stroke-chief/story?id=137751743</link>
-<guid isPermaLink="false">097b631085f51c98cd31cfc19abeae73c08f7ef1236c0bb4a3e4f72af3ad62fb</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 02 Nov 2026 00:37:58 +0000</pubDate>
-<description>U.S. Sen. Chris Murphy has been hospitalized after suffering a stroke, his chief of staff said in a statement on Sunday.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/chris-murphy-abc-jm-250209_1739113572108_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/chris-murphy-abc-jm-250209_1739113572108_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>DOJ urges sanctions for database analysis critical of its noncitizen voting claims</title>

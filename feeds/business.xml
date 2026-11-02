@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?</title>
+<link>https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern</link>
+<guid isPermaLink="false">b6cb586b116643852d273e03e5fc34e1a32c873c5c8238c8006bab2e1e369daf</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 11:19:18 +0000</pubDate>
+<description>Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DNNRNEZ70BJDEPEQ3YPXSJ/hi-report-on-bitcoin-market-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DNNRNEZ70BJDEPEQ3YPXSJ/hi-report-on-bitcoin-market-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Trezor lifts password ceiling after Coldcard’s $100M wallet thefts</title>
+<link>https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks</link>
+<guid isPermaLink="false">d4490dde7375232f5e81a4026f8963e9317af804eaac1b97dfff42ce6afee9f5</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 10:46:59 +0000</pubDate>
+<description>Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DW85CE7ASBEM7RMJHGJZ1M/passphrase-longer.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DW85CE7ASBEM7RMJHGJZ1M/passphrase-longer.png" medium="image"/>
+</item>
+<item>
+<title>FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals</title>
+<link>https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals</link>
+<guid isPermaLink="false">73c351bfba765d04761b4760735b238e83244455865dce00eb5e7483c59c5bb9</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 10:36:19 +0000</pubDate>
+<description>Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials</title>
 <link>https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials</link>
 <guid isPermaLink="false">b158a48e07273b0ae0ec435329360bbc8695bc0877b7063e87514fd5c3c738bf</guid>
@@ -697,17 +730,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Binance says it holds $5B in matching tokens to cover hack losses</title>
-<link>https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody</link>
-<guid isPermaLink="false">db4ecf0721aa03798e90420ac0df5e220b0f674cca6075c911ab696cc2a24bdd</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 12:41:43 +0000</pubDate>
-<description>The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66BRB3N5FEXF6ZJA32PXWYM/hi-binance-is-now-accumulating-btc-at-an-even-faster-rate.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66BRB3N5FEXF6ZJA32PXWYM/hi-binance-is-now-accumulating-btc-at-an-even-faster-rate.jpg" medium="image"/>
-</item>
-<item>
 <title>Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day</title>
 <link>https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day</link>
 <guid isPermaLink="false">7ce85fa662bf3df2d34c10d63130c4359ca0c8268b757f1837d7cbb99520c725</guid>
@@ -728,17 +750,6 @@
 <description>Both firms blame the group behind the Bybit hack, as Binance says it has set aside $6.34 billion of its own funds to cover user losses.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Zcash grants group offers $124M compromise as governance backlash grows</title>
-<link>https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash</link>
-<guid isPermaLink="false">36b456ce8d82b7dbc781a09bf3eddace6da6eb102a554e01898a46f816cedc0d</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 11:36:23 +0000</pubDate>
-<description>Zcash Community Grants proposed redirecting about $124 million in existing and future funding toward mining rewards, but critics say the plan fails to address governance and accountability concerns.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M668WKWWM9YJGJA1PV483QEA/zcash-proposal-grant-allocation.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M668WKWWM9YJGJA1PV483QEA/zcash-proposal-grant-allocation.jpg" medium="image"/>
 </item>
 <item>
 <title>Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5</title>
@@ -1014,16 +1025,5 @@
 <description>The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-woman-money-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/decrypt-style-woman-money-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>More Americans Have Tried Crypto, But Few Are Sticking With It: Survey</title>
-<link>https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey</link>
-<guid isPermaLink="false">18d8d35b7d2e471af7876e35aed005fdcbd47796ef8abc74245bc111c97ab01b</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 28 Oct 2026 19:46:03 +0000</pubDate>
-<description>A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-16-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-16-gID_7.png" medium="image"/>
 </item>
 </channel></rss>

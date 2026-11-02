@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple is reportedly launching three new iPads early next year</title>
+<link>https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year</link>
+<guid isPermaLink="false">9d2a199db0e654f570f1409f63b4eef12767368b4b23b84424d19dafa5080f29</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 11:12:11 +0000</pubDate>
+<description>Follow its iPad mini launch last week, Apple may unveil three new iPad models early next year.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apple-is-reportedly-launching-three-new-ipads-early-next-year/l-intro-1793617622.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-is-reportedly-launching-three-new-ipads-early-next-year/l-intro-1793617622.jpg" medium="image"/>
+</item>
+<item>
+<title>Vintage fun: Prodding AI agents using retro hardware just because you can</title>
+<link>https://www.theregister.com/offbeat/2026/11/02/vintage-fun-prodding-ai-agents-using-retro-hardware-just-because-you-can/5306705</link>
+<guid isPermaLink="false">1ecbe4e6739f4075f55e1c266453c6060a019e41cfdfa747134b4705693e925d</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 11:00:00 +0000</pubDate>
+<description>From the department of "pointless but still cool" comes word of some kit being repurposed as a terminal for AI agents. AWS developer advocate Darko Mesaroš has connected a teletype to a modern command-line interface to revel in the delight of interacting with today's AI technology via a combination of a DECwriter and fanfold paper, or the display and keyboard of a computer whose heyday ended 40 years ago. Mesaroš' project involved AWS Kiro , a Command Line Interface (CLI) and agentic coding service. We would, however, contend that this is more about seeing what retro hardware can be made to do. Two problems needed solving: getting data to and from the teletype, and formatting the output to work on a piece of kit from another era of computing. He used Hayes modem emulation to deal with the serial connection, and Agent Client Protocol (ACP) for working with Kiro. Mesaroš used a WiModem232 for the former. The device emulates a standard Hayes-compatible modem and, according to Mesaroš, "Folks initially used this to connect Commodore 64s to BBSes in the modern era" (he started his computing journey with a Commodore 64). The latter, getting the Kiro CLI to work on a Teletype, was a little more complicated. Kiro's CLI isn't really suitable for a teleprinter capable of 30 characters per second, after all. A simple Rust application took Kiro's output (obtained via ACP) and turned it into something that a teletype, or dumb terminal, could handle. As we said, seemingly pointless, but making it work required knowledge of Rust, competence with containers, an understanding of ACP, and more than a little creative thinking. So, while one might argue it is pointless from a technical perspective, it is wonderfully educational otherwise. The repository is available and focuses on Kiro for obvious reasons (Mesaroš is an AWS developer advocate after all), but in a chat with The Register , Mesaroš said the concept was portable. He said, "Any coding assistant or any harness that supports ACP, this should work, right? I built it for Kiro, but it uses the standard ACP protocol, so I could easily plug in Claude Code or Codex. Anything that basically can serve as an ACP server should be perfectly fine. "Blessed be the standards, right?" There might be some issues. "The biggest problem with this thing is that it doesn't really handle packet drops at all," he explained. "Like, if you drop packets, they're just gone. There're no retries. It's just spitting information out." And then there is buffering. Or the lack of it. Mesaroš said, "There's actually no buffering happening here. Literally, it just comes down through the fire hose through this serial device, and the bottleneck itself is the serial device." Mesaroš had toyed with using the GPIO pins on a Raspberry Pi, but settled on the serial device instead, since everything worked "out of the box." "It's kind of cheating," he admitted, "but it's also kind of good." Mesaroš collects vintage hardware, with a stash that ranges</description>
+<enclosure url="https://image.theregister.com/?imageId=5303422&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5303422&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>From a life-changing garlic press to a super-glowy serum: 12 buys you’re loving right now</title>
+<link>https://www.theguardian.com/thefilter/2026/oct/30/things-you-loved-most-october-2026</link>
+<guid isPermaLink="false">e3e438ed6692305af132e68369945de50acbdf78315f92be2d2d715640adda21</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 10:45:02 +0000</pubDate>
+<description>Casserole dishes, electric heaters and silk shirts: your autumnal favourites show you’re hunkering down – with one eye on party season • Don’t get the Filter delivered to your inbox? Sign up here Autumn, we’ve been expecting you. After a September that seemed to miss the memo about changing seasons, October made up for it with serial storms and nights that drew in faster than you could say “fall back”. Time to hunker down and, whisper it, even put the heating on – or at least fire up an electric heater if you’re still holding out on the radiators. But while you were drawn to the indoor pleasures of heaters, hot casseroles and hotter coffee , you’ve also had your eye on party season, or at least been thinking about venturing into those corners of your wardrobe that haven’t seen daylight since March. From a clothes steamer to breathe new life into your threads, a pencil skirt and sheer silk shirt to update your wardrobe, to a vitamin C serum to keep your skin glowing all winter, these were your favourite things in October. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/c9a8dc07a79a19f5f48258e2624547ca730d1ad9/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba4d98945ed5cdee39a65c4845fc1a93" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/c9a8dc07a79a19f5f48258e2624547ca730d1ad9/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba4d98945ed5cdee39a65c4845fc1a93" medium="image"/>
+</item>
+<item>
+<title>Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it</title>
+<link>https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts</link>
+<guid isPermaLink="false">f956819c709825a6e15b4103ed75eaf8ec4e7afd0ea38eac424570d18c792294</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 10:19:46 +0000</pubDate>
+<description>Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health official More than two dozen hospital trusts the NHS claims have benefited from Palantir’s medical data platform are not using all or most of the AI-powered technology, the Guardian can reveal. The 29 hospital trusts that NHS England publicly lists as “realising benefits” from the controversial £330m federated data platform (FDP) have said the system is not live or they are not using any of its applications. The apparent gap between the NHS claim and the trusts’ understanding was described as “very misleading” by one senior health official. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ba117415b0ce5a84437694933b4777aa0c31cd19/493_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8d725118a0d569f7715c0724f37ab4d" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ba117415b0ce5a84437694933b4777aa0c31cd19/493_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8d725118a0d569f7715c0724f37ab4d" medium="image"/>
+</item>
+<item>
 <title>Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it</title>
 <link>https://www.theregister.com/software/2026/11/02/microsofts-moolah-mountain-is-more-massive-than-ever-it-just-doesnt-want-the-people-who-built-it/5306576</link>
 <guid isPermaLink="false">c8d65f3e0443b21d2ea8ff701705ca201baee52946e4dcde9790725223267607</guid>
@@ -13,6 +57,17 @@
 <description>Capitalism can seem so perverse. Take Microsoft, which is celebrating record financial performance by inviting 60,000 employees to consider continuing their careers outside the company . Voluntary redundancy may seem to make sense when a company's running out of cash, but Microsoft is dripping with the stuff . It was a very good fiscal '26 at Redmond. Its Azure business is up over 40 percent, it's has 30 million paid seats on CoPilot, revenues are through the roof, and it has so much moolah it returned $10.2 billion to shareholders in the form of dividends and share repurchases. This latter move probably soothed CEO Satya Nadella, who suffered, due to the vagaries of C-suite reimbursement and incentive packages, a 6 percent cut in his pocket money . But as he’s also a stockholder with about 0.01 percent of the company, his share of the cash return presumably eased the pain. He won't have been offered redundo. Jenkins, the large wheelbarrow if you please. Microsoft, then, can afford all its employees, each who contributes about $1.5 million to SatNad's bottom line. The "massive efficiencies and ROI of AI" make a great line for a company flogging magic LLM juice, but the evidence remains elusive. AI is, of course, still the reason. Nothing else matters these days. It’s just that it's not today's AI. Among all the fulsome figures, analysts noted that Microsoft's capital expenditure wasn't as spendy as expected. Quite a lot has been pushed into next calendar year, not because it's not there to be spent – Microsoft could build a 1:1 scale model of the Vatican filled with robot priests if it wanted – but because so much it wanted to mash the Buy Now button for was "Out of stock. More expected soon." This is bad. MS added 88 datacenters in its most recent full financial year. That’s not enough datacenters for a cloud business expected to grow by half again in 2027, and hugely not enough to do the other thing. Lags in the cadence of deforestation, dewatering and detonation of the planet can't be tolerated. Thus there are contracts signed to get things back on track PDQ, with mucho, mucho, mucho sponduiks. Microsoft is hinting, those selfsame analysts say, that it will have to go to the debt market and go into " negative free cash flow " territory in 2028. In other words, as well as spending its own bank, the company will be taking out massive loans. This is why Billy and Bhavya Dev have to go. The cost of borrowing depends on the financial health of the borrower, and that boils down to how much profit you're making from the money you earn. A big round of redundancies, which are very costly in themselves, sits on the books of the year they happen. The hole in expenditure left by the vanished salaries lives on. The capital must flow. Will this work? Last week, we listed the reasons why it might not — price competition between rivals and increasingly powerful local and open weight models, supply side shortages, you know the litany by now. This week is Groun</description>
 <enclosure url="https://image.theregister.com/?imageId=227772&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=227772&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>It’s time to block reckless AI IPOs and tax billionaires | Naomi Klein and Ilana Glazer</title>
+<link>https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires</link>
+<guid isPermaLink="false">a12ca1b1e6e269e462a6d76e93ca58d0ca6e7fb1908a90f33e6df77ef71549d5</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 10:00:38 +0000</pubDate>
+<description>We cannot let the billionaire class take unprecedented risks with our future America is a divided country in crisis. Despite the sunny economic forecast coming from the Trump administration, millions of Americans are struggling to find and keep jobs, getting crushed under the rising cost of living, and losing health insurance when they need it the most. Meanwhile, via corporate consolidation and political corruption, the billionaire class is getting richer faster than ever before: a 40% increase in wealth in just the last two years. Today, the combined wealth of nearly 3,000 global billionaires equals one-fifth of the entire world’s yearly output . Nearly 1,000 billionaires live and do business in the United States. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/90b26cc0029b66531dae2762ccecf33f64baf017/582_0_4583_3667/master/4583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19d16d47c4fd66418e845cc4b889810e" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/90b26cc0029b66531dae2762ccecf33f64baf017/582_0_4583_3667/master/4583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19d16d47c4fd66418e845cc4b889810e" medium="image"/>
 </item>
 <item>
 <title>Britain's driverless dream hits a roundabout of awkward questions</title>
@@ -32,7 +87,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Mon, 02 Nov 2026 09:06:51 +0000</pubDate>
-<description>Airline weighs up increasing use of AI as part of cost-cutting measures amid warnings of €2bn rise in annual fuel bill Ryanair is considering cost-cutting measures including pay freezes, reducing crew numbers on flights and increasing the use of AI to offset soaring fuel costs driven by the Middle East conflict . Europe’s largest low-cost carrier said it expected European airlines to raise ticket prices by up to 20% , with its own jet fuel costs forecast to rise by about €2bn (£1.6bn) in its next financial year, which ends in March 2028. Continue reading...</description>
+<description>Airline weighs up increasing use of AI as part of cost-cutting measures amid warnings of €2bn rise in annual fuel bill Business live – latest updates Ryanair is considering cost-cutting measures including pay freezes, reducing crew numbers on flights and increasing the use of AI to offset soaring fuel costs driven by the Middle East conflict . Europe’s largest low-cost carrier said it expected European airlines to raise ticket prices by up to 20% , with its own jet fuel costs forecast to rise by about €2bn (£1.6bn) in its next financial year, which ends in March 2028. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/b52864d4c0b9d2ab7fa534706c339430bddbd71f/504_201_1818_1455/master/1818.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edf42a77d2789fa7910f54c1145dde3e" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/b52864d4c0b9d2ab7fa534706c339430bddbd71f/504_201_1818_1455/master/1818.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edf42a77d2789fa7910f54c1145dde3e" medium="image"/>
 </item>
@@ -57,6 +112,17 @@
 <description>Welcome to Monday morning, an occasion The Register marks with a new instalment of " Who, Me? " It's our reader-contributed column in which you confess to workplace mistakes and share your escapes from subsequent scrapes. This week, meet a reader we'll Regomize as "Gordon" who told us he once worked as an engineer at a major semiconductor corporation. Gordon rose to become manager of an engineering team which worked on a very popular PC chipset. One of the chaps on this team wasn't pulling his weight, so Gordon got the job of telling him to improve, or leave. "In all fairness, he was a nice guy but not a great engineer and needed to be better," Gordon told The Register. Not long after that moment of managerial unpleasantness, Gordon's team got the job of doing a full backup of the chipset's "production stepping" – the silicon equivalent of a minor point release. The idea was to create a detailed record that could be used as a restore point. "This was not a nightly backup, but a purposeful backup to retain a snapshot of the entire cleaned-up design database for future cases where we might need to spin another stepping quickly," Gordon explained. Gordon told his underperforming colleague to do the backup. "Because I was overworked, I did not think this through," he told The Register . The at-risk worker quickly proved why he was under the pump by deciding the backup wasn't necessary until the team completed the next stepping – but didn't tell anyone about that plan. Before that next stepping was done, the employee's past indiscretions caught up with him and he was let go. The story now fast-forwards six years, to a moment when Gordon learned that a customer wanted to buy the old chipset design so they could make a radiation-hardened version to use on satellites. The major semiconductor company liked the sound of that, and asked Gordon to find the backup. "My colleague and I then pieced together what had happened," he wrote. "Being good engineers, we said nothing. We searched through old nightly backup tapes until we found bits and pieces of different steppings of the design database and copied them all to one place, then handed this off to the customer." To this day, Gordon doesn't know if the customer was able to produce a useful chip from the bits of backup he cobbled together. "Did they realize they received bits and pieces of two slightly different databases? Did they care? Was the project canceled before anyone realized it?" "From then on, I was more careful about who I assigned the task of creating restore backups for each design project," he told The Register . "And I kept a record of the emails requesting backups and confirmation that backups had been done." Have you given a job to the wrong person? Or given clients slightly dodgy data? In either case, click here to send email to Who, Me? We would love to tell your tale on a future Monday. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5243418&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5243418&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Police use facial recognition to scan one million faces in WA trial leading to 122 arrests</title>
+<link>https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial</link>
+<guid isPermaLink="false">e3fa89265477feb96fda163c35421b8c942aaa62be639a347300812ea4cd14de</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 06:12:52 +0000</pubDate>
+<description>Deployments of surveillance vans over five months resulted in nine false alerts and led officers to engage with 146 registered sex offenders Get our breaking news email , free app or daily news podcast More than a million people have had their faces scanned in a trial of real-time facial recognition technology in Western Australia, resulting in 122 arrests and nine incorrect alerts. WA police said under the five-month trial, which concluded on Saturday, the technology scanned 1,380,882 faces after 100 deployments across 43 regional and metropolitan locations. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/52be4530d7e3640e661d83a08791923838efe95f/514_0_5031_4024/master/5031.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aec70f2de56f1843add61b5727278be7" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/52be4530d7e3640e661d83a08791923838efe95f/514_0_5031_4024/master/5031.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aec70f2de56f1843add61b5727278be7" medium="image"/>
 </item>
 <item>
 <title>Chap who coded Google’s Pac-Man clone reveals how the game freaked out Firefox</title>
@@ -367,17 +433,6 @@
 <media:content url="https://www.engadget.com/img/gallery/xbox-series-s-pc-similar-how-much-to-build/l-intro-1793244150.jpg" medium="image"/>
 </item>
 <item>
-<title>5 safety practices to know before vibe coding</title>
-<link>https://www.engadget.com/2302658/vibe-coding-safety-practices</link>
-<guid isPermaLink="false">4f542121304cb3c69531da41bc4a6552c0a25aab8e1042d425b3d6743ad31b3d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 18:00:00 +0000</pubDate>
-<description>Here's what beginners need to know to vibe code securely.</description>
-<enclosure url="https://www.engadget.com/img/gallery/vibe-coding-safety-practices/l-intro-1793383938.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/vibe-coding-safety-practices/l-intro-1793383938.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple’s HomeView could add security camera features</title>
 <link>https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features</link>
 <guid isPermaLink="false">0cdb92ce3209f04088582645b2728b19f5fd7ce5b0b5436f1c09bf68d6710e39</guid>
@@ -508,17 +563,6 @@
 <description>Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or classic viral clips, you're bound to find something below that will get you in the Halloween spirit. Possibly in Michigan This 1983 short film from Cecelia Condit found its audience over 30 years later when it was uploaded to YouTube and eventually found its way to Reddit. If you've ever wondered what a feminist mu … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal</title>
-<link>https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west</link>
-<guid isPermaLink="false">d1af05f7d6cbfc32867426039d506f01da6148edffdc3b99b0dd8b289f1006ae</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 19:00:52 +0000</pubDate>
-<description>Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative community Get our daily political email , free app or daily news podcast The prime minister is facing growing discontent within his own electorate as creatives push back against the federal government’s proposal to allow AI companies to scrape everything Australians create online. Anthony Albanese’s seat of Grayndler in Sydney’s inner west is home to more than 3,000 cultural and creative businesses, and 10% of its workers are employed in cultural and creative fields – compared with 4.2% nationally. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/807757f27fc7edd5bb144e03b8fbb5e5681bfa56/196_36_2835_2268/master/2835.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01d17a7ae77c4c8cac16d7f548561004" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/807757f27fc7edd5bb144e03b8fbb5e5681bfa56/196_36_2835_2268/master/2835.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01d17a7ae77c4c8cac16d7f548561004" medium="image"/>
 </item>
 <item>
 <title>Google's AI satellite sends a very expensive haiku to Earth</title>
@@ -873,17 +917,6 @@
 <media:content url="https://image.theregister.com/?imageId=5306667&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms</title>
-<link>https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax</link>
-<guid isPermaLink="false">a37ddbc5d2224ef67390cee2bc6d7de3425586362e3d6bfe7c6d933c9b96af90</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 15:00:19 +0000</pubDate>
-<description>It was an ambitious notion – now Californians will vote on a one-time 5% billionaire tax, and state’s super rich have pulled out all the stops in opposition One year ago, the idea of a billionaire tax in California was still in its infancy. It wasn’t yet one of the most contentious ballot measure fights in state history – pitting Democrats against Democrats, drawing national attention from political heavyweights, and netting hundreds of millions of Silicon Valley dollars to fight it. Back then, it was a bold and desperate answer to Donald Trump’s healthcare cuts. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86a39525c1a39711c43b85cf5c83e58d" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86a39525c1a39711c43b85cf5c83e58d" medium="image"/>
-</item>
-<item>
 <title>Ghost in the machine: how AI is haunting the search for the supernatural</title>
 <link>https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting</link>
 <guid isPermaLink="false">c50a5b1fcf8db321ac96450d517fe8eabe1f36e5106b6b1a081e68c8e297618b</guid>
@@ -1137,17 +1170,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg" medium="image"/>
 </item>
 <item>
-<title>Amazon gives Wall Street mixed financial picture in earnings report</title>
-<link>https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture</link>
-<guid isPermaLink="false">cacae6cbf6a007bb30999c249cbe1a44b5c7844b388fd05467529344395c8836</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 21:23:02 +0000</pubDate>
-<description>E-commerce company posts high cloud computing sales but gives a cautious sales forecast for the fourth quarter Amazon offered a mixed picture of its financial health on Thursday in its quarterly earnings report. The e-commerce company gave a cautious sales forecast for the current fourth quarter, which encompasses the critical holiday shopping period, after delivering fiscal third-quarter results that came in below Wall Street analysts’ expectations. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/e8c0fbf690fb7de0c9bc31006a069c434114b13f/464_0_4640_3712/master/4640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3ddc5e59ec3288121346a584a217fbb" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/e8c0fbf690fb7de0c9bc31006a069c434114b13f/464_0_4640_3712/master/4640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3ddc5e59ec3288121346a584a217fbb" medium="image"/>
-</item>
-<item>
 <title>Howler will have AI answer your questions, then burn the chat</title>
 <link>https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484</link>
 <guid isPermaLink="false">33a73ad43b5e74ca9dfbd31c242b6c78b413ac51ccd22ec78bf52e37acf507e0</guid>
@@ -1201,17 +1223,6 @@
 <description>Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover — not just Auracast.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg" medium="image"/>
-</item>
-<item>
-<title>Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show</title>
-<link>https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents</link>
-<guid isPermaLink="false">90a0da2b8fdbce767653020dbd712972044eaff18169e60379992865d854e5c9</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 17:20:57 +0000</pubDate>
-<description>Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author Meta staff discussed deploying a “whisper strategy” to undermine the influential US academic whose work has inspired a global social media crackdown , according to court documents. Employees at the parent group of Facebook and Instagram sought to discredit Jonathan Haidt, the social psychologist and author of The Anxious Generation , a book that helped tip the debate about online safety towards more stringent measures such as the under-16 ban in Australia. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/e2af35e6ac64d9cf53dcc43974739042b10ea62c/893_380_3514_2811/master/3514.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a87cd0d187c6f2ec4350f949124ddf1" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/e2af35e6ac64d9cf53dcc43974739042b10ea62c/893_380_3514_2811/master/3514.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a87cd0d187c6f2ec4350f949124ddf1" medium="image"/>
 </item>
 <item>
 <title>Ubuntu 27.04 may bring a preview of the long-awaited Core Desktop</title>
@@ -1355,17 +1366,6 @@
 <description>EXCLUSIVE Researchers identified at least 83 attacks against 61 public GitHub repositories, including popular open source projects such as Google LangExtract, Trivy, Brave browser, and MLflow, in what they suspect is a coordinated campaign to execute commands in CI/CD environments and steal credentials and access tokens. It all happened very quickly, the Radware threat hunters said in an exclusive interview with The Register . Most (77) of the malicious items were published during a 43-minute time span on September 1, with the remaining six occurring within the next two minutes. “Our guess is that the final aim was a supply-chain attack in which the attacker gains credentials for the repo, and then he has the power to change the contents – the code – as he wishes” and then push the malicious changes to others, Radware VP and researcher Gabi Nakibly told The Register . Nakibly and fellow Radware researcher Zvika Babo say they suspect a single individual is behind this supply chain campaign. This attacker used 74 different GitHub accounts, many of which had legitimate development histories, meaning they were likely compromised. "Considering that dozens of accounts posted the same type of payload, on the same day, within a narrow time window, and to the same infrastructure, it is reasonable to assess that the activity was coordinated,” the team wrote in research shared ahead of publication with The Register . A novel attack chain They discovered the campaign while investigating prompt injection in GitHub – and they told us the attack chain is part of what makes this supply-chain campaign novel, and extremely stealthy. First, the attacker publishes an issue, pull request, or comment containing malicious commands hidden in HTML comments. This ensures the content is not visible in the rendered page. Plus, a GitHub event – like a pull request or issue – can automatically trigger a workflow if the repository is configured to respond to that event, meaning the attacker can be pretty hands-off at this point. “The workflow automatically is triggered within a second, and if the workflow is indeed vulnerable, then the attack is executed successfully,” Nakibly said. The workflow incorporates attacker-controlled content directly into shell source code, and the shell executes the hidden, malicious command, which hoovers up environment variables and attempts to exfiltrate those to an attacker-controlled server. While the researchers examined logs from actual runs, and told us they found two cases containing evidence that the malicious command ran inside the automation environment, they can’t definitively say whether the attacker successfully obtained repository write permissions, modified source code, or compromised downstream software. But they're trying. “The big picture is that the attackers are trying to find every possible way to get inside the repos to get credentials,” Nakibly said. Plus, “the attacker doesn't need to compromise the repository or to have a</description>
 <enclosure url="https://image.theregister.com/?imageId=5241038&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5241038&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>LibreOffice's 'no AI' stance meets LLM-assisted code</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084</link>
-<guid isPermaLink="false">0293163764e5a74a48cf47fb4edb7e9b68fdf21172eb5b2520e4b219edafad44</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 11:29:00 +0000</pubDate>
-<description>The Document Foundation (TDF) says LibreOffice has no built-in AI features and that its core developers do not use LLMs - but community contributors face different rules. In a Fediverse post , someone who goes by the handle of argv[-1] highlights three LibreOffice commits this year that acknowledge the use of LLM coding assistants. Two of them – Inheritance when setting paragraph style font size to 100% or +0pt and Enable relative font sizes in Calc cell styles – date from April and credit Claude with helping identify the fixes. More recently, September's Add Copy Image button to screenshot dialog acknowledges using GitHub Copilot in VS Code to generate the BitmapTransferable class, while the copyButtonHandler method was written manually with LLM/code-completion assistance. This is hardly a fatal flaw – after all, it's getting hard to find any major FOSS project with absolutely no LLM-generated code in it these days. However, The Document Foundation says that the leading FOSS office suite is AI-free. As we noted when it released version 26.8 in August , we interpret this statement as a jab at its former development partner Collabora. Back in June, we noted that increased AI integration was a headline feature in Collabora CODE 26.04 . CODE is Collabora's web-based office suite, based on LibreOffice code. TDF – the primary maintainer and custodian of LibreOffice since its 2010 fork from Oracle-controlled OpenOffice.org – has made the absence of built-in AI a selling point. In September, it published a blog post declaring that no AI is now a feature . Meanwhile, on October 21, TDF announced 9.4 million downloads over eight weeks – excluding Windows updates and downloads of older releases, which are counted separately. The foundation acknowledged that the reasons for the growth are difficult to determine. TDF's direct response on Mastodon is dismissive: "Ah, another high-quality Mastodon discussion. Again: No core developers use LLMs. We rely on contributions from the wider community and don't explicitly list tools people can't use – but we do require people disclose when they use LLMs and generally discourage the practice. We carefully review submissions by contributors to make sure the code quality is good and that the patch author understands their own code. LLMs are prohibited for students. That is not 'slop'." In other words, TDF's approach resembles what some commenters have compared to the Debian approach : LLM coding assistants are permitted for some contributors, subject to disclosure and human review. For AI advocates, this is the only pragmatic response – which could be summarized as the "AI is just a tool" school of thought. However, since this admission does seem to contradict the very visible public no-AI message, some LibreOffice users are really rather unhappy. Our favorite comment so far is from Argentinian developer Federico Schonborn , who slyly noted : "When a bakery announces they won't put asbestos in their cake frosting you mus</description>
-<enclosure url="https://image.theregister.com/?imageId=5300113&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5300113&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Night Plane review – join the jumbo jet to hell in this indie horror head trip</title>

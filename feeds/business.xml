@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>BTCPay Server warns of hot wallet thefts running on outdated software</title>
+<link>https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions</link>
+<guid isPermaLink="false">400f9d8c50c44cfaecbe738e8f8df20703d14c2e60be21591d3dff5264d6b453</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 05:34:02 +0000</pubDate>
+<description>BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DBKB8GE4KJVX5T10YRWE2X/btcpay-warning.jpg" medium="image"/>
+</item>
+<item>
 <title>Bank of Korea probes financial firms’ exposure to crypto risks</title>
 <link>https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks</link>
 <guid isPermaLink="false">0acdfcd89fa358d72cc2ec4dd6025fae1f5613350981ffd9aff7b0a0ae029df8</guid>
@@ -750,17 +761,6 @@
 <description>CEO Richard Teng said the attack was "not a single 'one-click' action," as Binance confirmed about $3 billion has been frozen.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Trezor warns CryptoBilis buyers to move funds over suspected implant</title>
-<link>https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning</link>
-<guid isPermaLink="false">4cd4299e75d3ecdbe1e63ece42700ddb98a3eba91f9d3007b3e66627f0b05dcc</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 09:26:45 +0000</pubDate>
-<description>Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65XV5M4X2K1YMKC92QM6YWV/trezor-cryptobilis.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65XV5M4X2K1YMKC92QM6YWV/trezor-cryptobilis.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets</title>

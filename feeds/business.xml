@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bank of Korea probes financial firms’ exposure to crypto risks</title>
+<link>https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks</link>
+<guid isPermaLink="false">0acdfcd89fa358d72cc2ec4dd6025fae1f5613350981ffd9aff7b0a0ae029df8</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 03:55:50 +0000</pubDate>
+<description>The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg" medium="image"/>
+</item>
+<item>
 <title>THORChain halts swaps after block reorg bug, slowing Binance hackers</title>
 <link>https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers</link>
 <guid isPermaLink="false">856dfb36e8ce272e16c08832048d0da4141f6e6abcd8c64b9821524eab9b311b</guid>
@@ -750,17 +761,6 @@
 <description>Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65XV5M4X2K1YMKC92QM6YWV/trezor-cryptobilis.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65XV5M4X2K1YMKC92QM6YWV/trezor-cryptobilis.jpg" medium="image"/>
-</item>
-<item>
-<title>Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity</title>
-<link>https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys</link>
-<guid isPermaLink="false">3c8d10ee63214dbd7401f7010e3c83dd4909618014d4d0ea9df16c438018457e</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 05:53:07 +0000</pubDate>
-<description>Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N18RTP4EB58E1CCHH5C3R/earnings-calls-strategy-saylor-phong-le.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N18RTP4EB58E1CCHH5C3R/earnings-calls-strategy-saylor-phong-le.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets</title>

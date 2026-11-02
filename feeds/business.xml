@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials</title>
+<link>https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials</link>
+<guid isPermaLink="false">b158a48e07273b0ae0ec435329360bbc8695bc0877b7063e87514fd5c3c738bf</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 10:14:55 +0000</pubDate>
+<description>The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DQFSHD8AXWKTB5J9SVZW4V/hong-kong-fund.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DQFSHD8AXWKTB5J9SVZW4V/hong-kong-fund.jpg" medium="image"/>
+</item>
+<item>
+<title>BTC heads into US midterm showdown: Three things to know in Bitcoin this week</title>
+<link>https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week</link>
+<guid isPermaLink="false">7f7773e917d9a287f40e9e3dce90982bf18e860c5017a6721b5b8ae5959408fb</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 09:41:36 +0000</pubDate>
+<description>Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DPN36PMEF09E83YXHSEHAH/article-covers-252604-crypto-laws-states-party-primaries-1280x853.webp" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DPN36PMEF09E83YXHSEHAH/article-covers-252604-crypto-laws-states-party-primaries-1280x853.webp" medium="image"/>
+</item>
+<item>
 <title>OKX draws $445M in net inflows as Binance outflows exceed $7B</title>
 <link>https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows</link>
 <guid isPermaLink="false">fc2181670b26b0606abfb2b8033b647810ac2a4d306e5032c7e7388f2eb55999</guid>
@@ -717,28 +739,6 @@
 <description>Zcash Community Grants proposed redirecting about $124 million in existing and future funding toward mining rewards, but critics say the plan fails to address governance and accountability concerns.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M668WKWWM9YJGJA1PV483QEA/zcash-proposal-grant-allocation.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M668WKWWM9YJGJA1PV483QEA/zcash-proposal-grant-allocation.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack</title>
-<link>https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack</link>
-<guid isPermaLink="false">ef05a733eb5fd946a0427d39c41bd0b3f9219f9fc06d4401dcf71cc9f550fd13</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 11:29:23 +0000</pubDate>
-<description>Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg" medium="image"/>
-</item>
-<item>
-<title>EIP-7702 didn’t cause Binance hack, but may have amplified losses</title>
-<link>https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role</link>
-<guid isPermaLink="false">4ad9c4a17f03dc4796632700a1fcf2f0bbebe625dbf08d62f6c73ec7cdd0930b</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 11:00:10 +0000</pubDate>
-<description>Security experts said attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6602N70GW2FG23Y7A1E55CV/hi-binance-hack.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6602N70GW2FG23Y7A1E55CV/hi-binance-hack.jpg" medium="image"/>
 </item>
 <item>
 <title>Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5</title>

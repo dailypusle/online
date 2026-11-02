@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>One of Google&amp;#8217;s Android partners turned 1.3 million set-top boxes into a botnet</title>
+<link>https://www.theverge.com/tech/1024807/google-botnet-android-tv-shut-down</link>
+<guid isPermaLink="false">ff97cc0a5f6ba6ab7bf59741577a187f15288b5f160639f1cd1470a84777c426</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 20:37:49 +0000</pubDate>
+<description>Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and "cut ties" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for "malicious activity," like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the "backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>BMW is taking on Tesla’s FSD with urban driver assist starting in 2027</title>
+<link>https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027</link>
+<guid isPermaLink="false">ab8f18d47c71f1f855c50ff311efca4d5588bed96024f90c9ea1044853c86596</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 20:03:52 +0000</pubDate>
+<description>BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using its built-in GPS navigation. While driving in town, it can assist with changing lanes, making turns, yielding to other cars, and driving through roundabouts. But as a Level 2 driver assist system, it still requires drivers to keep their eyes on the road and stay ready to take over at any moment. On the highway, BMW will allow drivers to remove the … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DI26_000461430.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DI26_000461430.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Googling "Zelda" today offers a glimpse of how search worked in 1998</title>
+<link>https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998</link>
+<guid isPermaLink="false">d4400695084ff0fd03f43e01efec8121f47eb7abff851e6a36335bf4185723ce</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 19:52:23 +0000</pubDate>
+<description>The year was 1998. Britney Spears topped the charts, Bill Clinton was impeached, and a couple of little websites called Google and Ars Technica came online. It was also the year Nintendo released The Legend of Zelda: Ocarina of Time on the Nintendo 64. Google, which has come to dominate the Internet (Ars is still working on that), is celebrating the imminent release of the Ocarina of Time remaster by temporarily transporting us back to that storied year with a search Easter egg. To access the Google time machine, you just have to search for either "Zelda" or "Ocarina of Time." Google will load the standard 2026 results page, but you'll see an animated Master Sword in the lower right corner. It appears on both mobile and desktop—just click the sword and enjoy the show. After a little time-skipping animation and a Link shout (you know the one), you'll swear it's 1998 again. The search page is transformed into a simple list of blue links with retro Google branding. This is particularly apt given the time-shifting mechanics in Ocarina of Time . Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Casio's new keyboard lets anyone play along to songs without ever hitting a wrong note</title>
 <link>https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note</link>
 <guid isPermaLink="false">7ab492eb7915c2f0220400f4a123d0e6acd13de1ae67803b6ea81150f1d5ffd2</guid>
@@ -37,6 +70,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applewatchultra4.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>Most of our measures of a key cognitive process don't agree</title>
+<link>https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree</link>
+<guid isPermaLink="false">231f9925239e58ee07ee0cc04408266226b116c1e8b54b3ccc48c7692651c8af</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 19:13:26 +0000</pubDate>
+<description>It's widely acknowledged that it's nearly impossible to publish negative results in scientific journals. "We didn't see anything" is a much harder sell than finding that a hypothesis is clearly right. Findings of no effect tend to either be shuffled off to low-profile journals or left behind as unpublished lab lore. The high-profile journal Nature, however, made a notable exception this week, publishing a study that tells us that a bunch of methods we have been using to try to measure a key emotional ability don't seem to be measuring the same thing. The results mean that we don't have a good way to measure the impact of a concept that is the basis of a key method in therapy. Inconsistencies One of the most successful forms of therapy is cognitive behavioral therapy, or CBT. In part, CBT is based on getting people to step back and engage in "cognitive reappraisal." This requires people to think over a situation that has caused a negative emotional response and find ways to reinterpret it so that it has less impact on them. The ability to engage in this process has been linked to emotional resilience. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Snap settles social media addiction lawsuit to avoid trial</title>
 <link>https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial</link>
 <guid isPermaLink="false">883cdb308824e210d0dcce36c8450fadec326705b1352b34aa50ba64b5d916e4</guid>
@@ -46,6 +90,17 @@
 <description>Snap CEO Evan Spiegel was due to testify in the upcoming trial.</description>
 <enclosure url="https://www.engadget.com/img/gallery/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/l-intro-1793646506.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/l-intro-1793646506.jpg" medium="image"/>
+</item>
+<item>
+<title>Cops bust botnet of 1.3M infected Android TV boxes</title>
+<link>https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045</link>
+<guid isPermaLink="false">8c147c5c8e2a7274fd1310615797ce96160a234caeac90977429483d078e0fc8</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 19:03:31 +0000</pubDate>
+<description>A coalition of private-sector security firms working with Japan’s National Police Agency has disrupted XCPE, a backdoor used to build a massive botnet comprising more than 1.3 million Android devices across more than 200 countries. Google, Lumen, Human Security, Plume, Synthient, and TrendAI participated in the disruption. “We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology,” the Google Threat Intelligence Group (GTIG) said in a Monday blog. Videostrong Technology is a hardware manufacturer based in Shenzhen, China. It builds Android devices, including home TV boxes and projectors. According to Google, Videostrong deliberately embedded the XCPE backdoor in device firmware and sold access to criminal affiliates , allowing them to install additional malware modules on devices shipped to unsuspecting customers. When buyers connected these devices to their home networks, the preinstalled backdoor allowed operators to create proxy networks and hide malicious traffic using the customers' internet connections without their knowledge. The firmware’s pre-installed management agent purported to be a standard remote-management client, according to TrendAI. It pulled updates from a GitHub page, and connected to a Message Queuing Telemetry Transport (MQTT) server that gave the operator full remote control of each box, allowing them to install and remove apps, change settings, and push updates to the infected devices. Between June 3 and October 1, TrendAI documented more than 3.8 million distinct home and mobile IP addresses connected to the operation. The coalition also disrupted the command-and-control domains used to manage the affiliate modules. “Because these affiliates each have diversified distribution channels for their modules beyond XCPE, we assess that taking down their C2 domains will sever access to at least 10 million additional compromised devices,” according to GTIG. Google said it had since cut ties with Videostrong, and banned the OEM from making devices with preloaded Google apps. Videostrong did not immediately respond to The Register’ s inquiries. This backdoor and botnet operation is part of the same ecosystem as BadBox 2.0 , another notorious botnet that infected more than 10 million TV boxes and other devices before Human, Google, and TrendAI disrupted it in March 2025.®</description>
+<enclosure url="https://image.theregister.com/?imageId=5307057&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5307057&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Why some websites are blocking AI agents from accessing the web</title>
@@ -125,6 +180,17 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg" medium="image"/>
 </item>
 <item>
+<title>Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking</title>
+<link>https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028</link>
+<guid isPermaLink="false">1d941635bc2e293582ae2560f8ee78f68f35c48320295563340e611a0fa5d752</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 18:02:55 +0000</pubDate>
+<description>Hoping to dominate the next phase of AI networking, Marvell Technology plans to acquire photonics giant Lumentum in an all-stock deal valued at $115 billion. The move will fill several key gaps in Marvell's photonics portfolio, particularly with regard to high-performance laser sources, optical transceivers, optical circuit switches, and specialized compound semiconductor manufacturing capabilities involving indium phosphide. Higher speed interconnects combined with larger compute domains are the driving forces behind the move to photonics. As interconnects push beyond 400 Gbps per lane, copper interconnects are being pushed to their limit, necessitating denser, hotter rack systems. Optics offer a reprieve from these scaling laws. Traditional copper wire can only maintain a 400 Gbps signal over about 1.25 meters. Every time the per lane speed doubles, the reach is halved. Photonics are largely immune to this and can push that signal over kilometers, enabling infrastructure providers to scale their systems across entire aisles, while also reducing the power and cooling requirements of each individual rack. Due to close in the first half of 2028, the all-stock transaction comes as AI infrastructure builders, including Nvidia and AMD, eye larger rack-scale systems, which will rely heavily on optical interconnects to stitch hundreds and even thousands of GPUs together into a single compute domain for training or inference. At Computex 2026 in Taipei earlier this year, Jensen Huang predicted that Marvell's long-term investments in photonics would catapult the IP house to a $1 trillion valuation. That hasn't happened just yet – the company’s market cap currently sits at just $180 billion – but it seems Marvell isn't above buying its way to the finish line by snapping up optics vendors before the AI boom sends their valuations skyrocketing. As we've previously reported , the move to optical scale up networks has fueled a flurry of investment in optics, silicon photonics development, and manufacturing. Nvidia itself invested $2 billion into Lumentum just eight months ago to bolster its optics manufacturing capacity. The limiting factor up to this point has been power. When Nvidia unveiled its first Blackwell-based rack systems in 2024, Huang noted the company specifically avoided optics as they would have added 20 kW of additional power draw to a system that already consumed 120 kW under load. In the years since then, Marvell has invested heavily in next-gen optics tech. One of the most notable acquisitions came in February 2026, when the company paid about $3.5 billion for photonic interconnect developer Celestial AI. Celestial's tech opened the door to more efficient optics integrations including near- and co-packaged optical interconnects that used a fraction of the power of conventional pluggable optics used in scale out networks. Marvell's Lumentum buy will position the IP house as a one-stop shop for AI infrastructure providers' photonics needs. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=253714&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=253714&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect</title>
 <link>https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs</link>
 <guid isPermaLink="false">9f96bddc109dda2f9056c035fbf219e48a549d637655d1cd820fec9d3583935b</guid>
@@ -169,6 +235,17 @@
 <media:content url="https://www.engadget.com/img/gallery/this-samsung-galaxy-problem-sadly-still-exists-in-2026-but-you-can-easily-fix-it/l-intro-1792419029.jpg" medium="image"/>
 </item>
 <item>
+<title>Oracle gobbles $20 billion borrowing limit a week after setting it</title>
+<link>https://www.theregister.com/paas-and-iaas/2026/11/02/oracle-gobbles-20-billion-borrowing-limit-a-week-after-setting-it/5307014</link>
+<guid isPermaLink="false">20e63825dd927f7df8f7caa46126ed7a411f0af7a9d6824c34850ec009a483bb</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 17:35:00 +0000</pubDate>
+<description>The week after promising to cap new borrowing at $20 billion until the end of its 2030 financial year, Oracle launched plans to borrow all that in one go. In notices to investors on Monday, Big Red said it is offering bonds worth $10 billion together with $10 billion in shares of its common stock . It said it could use the money for working capital, capital expenditures, contractual obligations, acquisitions, dividends, stock repurchases, debt repayments and other matters. The most likely candidate is financing datacenters, as the tech giant is in the middle of capex binge which saw $55.7 billion spent in fiscal year 2026, which ended in May. The company plans to spend between $90 billion and $95 billion in fiscal 2027. Last week, the company told investors it would limit new borrowing to $20 billion until the end of its financial year 2030, which ends in May that year. It promised to get more revenue from customers by charging for AI usage on top of seat-based subscriptions. CFO Hilary Maxson also told an analysts' event that Big Red would look to borrow the $20 billion during the remainder of fiscal 2027, which ends in May, implying there would be no new borrowing for the following two years. Maxson confirmed this was correct. “That's a real commitment. We don't expect other forms of structured financing or other things using our Oracle credit out in the market,” she said. In July, Oracle said it could face more than $100 million a year in financing costs to guarantee the power commitments behind a nearly 1 GW datacenter campus it is developing in Wisconsin with Vantage and OpenAI. In October, Oracle reportedly sent a force majeure notice to a Blue Owl Capital subsidiary developing Project Jupiter in New Mexico. Bloomberg reported that Oracle was seeking to defer payments if the campus failed to come online as planned, rather than withdraw from the project. Oracle says the development remains on schedule. In September last year, Oracle's valuation rocketed after it boasted $455 billion in RPOs, $300 billion of which turned out to be for OpenAI, all largely based around leasing datacenters for AI compute. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=4094260&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=4094260&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Athenahealth patients can ask Claude about their medical records now</title>
 <link>https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership</link>
 <guid isPermaLink="false">b606219f4cfd94aa67750aae155bc63aa2c8b2fc84211426263e92d486248195</guid>
@@ -178,6 +255,17 @@
 <description>The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-484453787.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-484453787.jpg" medium="image"/>
+</item>
+<item>
+<title>Ericsson says it can detect, track drones using only mobile networks</title>
+<link>https://www.theregister.com/networks/2026/11/02/ericsson-says-it-can-detect-track-drones-using-only-mobile-networks/5306958</link>
+<guid isPermaLink="false">ef9cfdc485baf38c4a311de516642ff319e4ce5458cd038b5a0d91921bb0cdf6</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 17:29:00 +0000</pubDate>
+<description>Ericsson is bringing drone detection to mobile networks, analyzing radio signal reflections to identify and track low-altitude objects. The telecoms infrastructure maker says its Integrated Sensing and Communication (ISAC) tech adds detection to existing mobile networks, closing a security gap in tracking low-flying, fast-moving objects such as drones. Following tests over the past few months, Ericsson says it will introduce the tech commercially in phases. Small-scale, sensing-only pilots with selected customers will start in 2027, followed by broader deployments from 2028. CCS Insight research director Ian Fogg, said told The Register : "While sensing can be used for other things — like tracking boats in a port, traffic patterns or weather conditions — drone detection [in civilian areas] is the most pressing need which cannot easily be solved using other technologies. "Mobile networks are useful as drone detection solutions because their antennas are already covering low elevations, close to ground level where drones often fly, unlike traditional radar." Although it is possible to use 5G networks for sensing, a standards-based 6G method could improve precision by letting different suppliers' base stations "interoperate", alongside a mix of client devices, tracking the "smallest and fastest moving drones in difficult environments," Fogg added. "The new spectrum that should arrive with 6G will also make it easier to deploy sensing on wide channels which further improves detection accuracy," he said. Small, low-cost drones have emerged as a persistent threat, or at the very least a nuisance, closing down airports due to safety concerns - the latest incident was at Jersey Airport over the Halloween weekend. Drone activity has also been on the increase near to military bases and other sensitive sites. Dedicated sensor systems were deployed to cover sensitive sites, and in the UK, military personnel have now been granted the authority to neutralize any unwanted flying intruders . Scaling detection across larger areas, however, is more challenging, Ericsson said. ISAC transforms mobile network infrastructure into a distributed sensor array. Using sensing-enabled 5G radios, edge computing and signal processing, a cell deployment can detect objects and track them across the coverage area, complementing radar and other sensors rather than replacing them. Ericsson says the tech works by having multiple perspectives from a number of cell tower radio sites. When one transmits a signal, it reflects off the drone and is picked up by multiple receiving sites. The network then analyses the reflected signals to locate the drone and track it. ISAC requires sensing-capable radio hardware, dedicated compute resources, and software, says Ericsson. The radios have to meet specific Massive MIMO (multiple-in, multiple-out) antenna and spectrum requirements. AT&amp;T tested ISAC at trials in Arlington, Texas, and with Erillisverkot, a state-owned special purpose company res</description>
+<enclosure url="https://image.theregister.com/?imageId=5297253&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5297253&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Don’t want a touchscreen? All premium MacBook Pros could have one soon, reports say</title>
@@ -334,17 +422,6 @@
 <media:content url="https://www.engadget.com/img/gallery/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down/l-intro-1793635351.jpg" medium="image"/>
 </item>
 <item>
-<title>Why Peacock is making a huge bet on YouTube</title>
-<link>https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv</link>
-<guid isPermaLink="false">ba4ff958bbe3b48b52b5345a54a4103190901ffa72f6ea0f911f44c6bb0a7326</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
-<description>Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just two years ago — pure Decoder bait. First, about a month after Matt was on the show, Comcast spun off most of the NBCU cable channels into something called Versant. That’s when Matt’s title changed from heading up just the direct-to-consumer offering — meaning Peacock, plus some other streaming services — to heading up the whole thing, across all distribution. And now, Comcast is spinning off the NBCU business entirely into a whole new standalone company. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . That’s a lot to have going on all at once! And meanwhile, it’s only just this year that Peacock became an actual profitable business at all — and it’s still pretty far away from being anything like the juggernaut that Netflix is. But what NBCU has, and what Peacock has, that the rest of the streaming industry is still trying to wrap its head around, is live sports. Sports are huge. They held up the cable industry for years, they held up broadcast, and now they’re the big thing that could make streaming a winner for NBC. One thing before we start: You’ll hear me ask Matt about the red company and the blue company. That’s just my way of getting Matt to talk about Netflix and Skydance, the company that now owns both Paramount and Warner Bros. Discovery. I think he did a good job playing along. Before we get going, do me a favor and subscribe to Decoder on YouTube, where we put out new episodes every Monday and Thursday. Okay: Matt Strauss, chairman of the NBCU Media Group. Here we go. This interview has been lightly edited for length and clarity. Matt Strauss, you are the chairman of the NBCUniversal Media Group. Welcome back to Decoder . Thank you so much, Nilay. It’s great to be back. I am very excited to talk to you. There’s a lot going on in the media. It is a tumultuous time in Hollywood. I have to tell the audience that you and I are speaking minutes after Anthropic filed its S-1 , and all of humanity is going to be turned into AI. Who knows what entertainment we’ll be watching in the future? There’s a lot going on. Let’s start at the very beginning of this. You have a new job since last time you were on the show. Last time, you were the head of Direct-to-Consumer — you were basically the head of Peacock and the other apps inside the family. Now you’re the chairman of NBCUniversal Media Group. What’s the new job? What does that mean? NBCUniversal Media Group is comprised of certain services within NBC. It’s the broadcast network, it’s Bravo, it’s Peacock, it’s NBC Sports. We also have NBC News and Telemundo. One of the things that we recognized, especially when we spun off some of</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_Matt_Strauss.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_Matt_Strauss.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Token thieves costing companies $100K+ per day in illicit LLM charges</title>
 <link>https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967</link>
 <guid isPermaLink="false">6c299e7ed47e6af238de198107346812e164e14f559d9fbd4546a317590dd4a1</guid>
@@ -398,17 +475,6 @@
 <description>One in ten employees at SUSE are facing the chop due to "automation and AI," according to a memo dispatched by management at the privately owned open source software biz. In an email to the 1,900 strong workforce on Monday - seen by The Register - CEO Dirk-Peter van Leeuwen, the former Red Hat exec who joined SUSE in March 2023, confirmed the "difficult news." "We are announcing a reduction of SUSE’s global workforce of approximately 10 percent," he said. "These decisions are painful for our people, our culture, and our open source community, but they are necessary for us to adapt and build a sustainable, resilient SUSE for the long term." Van Leeuwen says the business, bought by Swedish private equity provider EQT, decided to cut jobs after scrutinizing its "future strategy, required capabilities, and team structures." The rest of the organization will get a look at the fiscal year 2027 strategy on November 16. He said in the message to staff: "What is clear is that automation and AI are fundamentally shifting how software companies operate. AI capabilities are advancing exponentially, forcing us to radically reimagine our work. We have seen this trend already both inside our sector and in the wider economy. This means that the organizational design and cost base that SUSE is built on today will not carry us forward successfully. "We are adapting. Across SUSE, modern tooling is already changing our daily workflows, enabling teams to move faster with less operational overhead and flatter reporting lines. The requirement for some existing roles has greatly diminished. Other roles will evolve over the next few years. This means we are accelerating investments in high priority areas, and deprioritizing others. These are hard, painful decisions to make, but necessary for our future." As The Reg reported in 2025, SUSE doubled down on AI . The specific roles at risk of redundancy were not outlined but SUSE claims it has considered where the people in those positions are "able to evolve, what they can stop doing, what they need to do more of - and decisions have been made on that basis." Staff caught up in the redundancies will be informed by November 4, employee representatives nominated the following day, and one to one meetings will begin at the start of next week. Van Leeuwen says in the internal memo that the job cuts are a "reflection of shifting organizational needs, not your talent or commitment. You have tackled hard infrastructure and open source challenges that power critical enterprise systems around the world. "Any organization will be fortunate to have your expertise." Back in September, we reported that the company was asking old hands if they would take "voluntary separation ." It seems not enough people chose to walk through the door, so instead, they're getting thrown through it instead. SUSE "geckos" in the Czech Republic may be glad they joined a trade union . Back in 2018, EQT bought SUSE from Microfocus for $2.5 billion. EQT floate</description>
 <enclosure url="https://image.theregister.com/?imageId=5243339&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5243339&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Vivo’s first Pro Max phone proves its Ultra is still in a league of its own</title>
-<link>https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price</link>
-<guid isPermaLink="false">aa4b344ef0bb9646be754203d1c17a29ba7dc51705263b2b546178baadf51c36</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 15:15:00 +0000</pubDate>
-<description>The X500 Pro Max is the first Vivo flagship to sit between its Pro and Ultra tiers. | Photo: Dominic Preston / The Verge When I declared this spring that Vivo's X300 Ultra had the best cameras in any phone, two things made it stand out in my mind: its excellent main camera with a narrow 35mm focal length and what remains the most capable ultrawide in any phone worldwide. You won't find either in the new X500 Pro Max. It has an impressive camera system with world-leading dynamic range and the same great telephoto lens found in the Ultra. But it's lost a little something of what made its predecessor quite so special. Vivo X500 Pro Max Pros Cons Fantastic telephoto camera 17 stops of dynamic range on the main camera Big 7,800mAh battery 1440p, 144Hz display Ultrawide … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vivo-x500-pro-max-03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vivo-x500-pro-max-03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The world has a new plan to save nature, but it still needs the money</title>
@@ -1093,17 +1159,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" medium="image"/>
 </item>
 <item>
-<title>Thousands of “ghost students” use AI to steal millions in student loans, DOJ says</title>
-<link>https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans</link>
-<guid isPermaLink="false">4da51a8d3c864c8d2325e29e0068e50fece9b1576f53e2dd11763547888feb24</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 16:53:49 +0000</pubDate>
-<description>The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans. In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun. “If you steal American identities, if you steal taxpayer dollars, if you exploit programs meant to help students build a future—we will find you,” McDonald said. “Whether you are in Nebraska, New Jersey, Virginia, or Nairobi, we will pursue you.” Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>GM cracks the petty cash box for multistate driver tracking settlement</title>
 <link>https://www.theregister.com/security/2026/10/30/gm-cracks-the-petty-cash-box-for-multistate-driver-tracking-settlement/5306721</link>
 <guid isPermaLink="false">6e0c4e9b76226b4cab5dbb8fcba0d3efeb5b95314a6499c948c4755e7e89c02f</guid>
@@ -1135,17 +1190,6 @@
 <description>Google details 42 fixes to its Home app and the devices compatible with it.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg" medium="image"/>
-</item>
-<item>
-<title>Analysts find looming launch crisis is "more severe" than anticipated</title>
-<link>https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated</link>
-<guid isPermaLink="false">cbdd060ae07933fa04eabcde66dc26a7d13a7dda5f0d1b087752700e72a9a1c9</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 16:12:59 +0000</pubDate>
-<description>A new report from the analytics firm Quilty Space confirms that, outside of China, the world faces a significant shortage of rockets over the next five years. The firm estimates that between now and 2030, there will be a shortfall of about 150 launches compared to demand from satellite operators and civil space agencies. If demand from the US military is added in—and SpaceX does not extend the Falcon 9 and Falcon Heavy program to accommodate increased national security needs—the shortage could be doubled. "What we wanted to get at is to understand how severe this launch crisis is and when will it be resolved," said Caleb Henry, director of research at Quilty Space. "What we learned is that the launch crisis is more severe than we thought and that it will not go away this decade for sure, and it might not abate until sometime late in the 2030s." Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg" medium="image"/>
 </item>
 <item>
 <title>Voyager 1 gives controllers the silent treatment</title>
@@ -1346,28 +1390,6 @@
 <media:content url="https://image.theregister.com/?imageId=5306496&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Topcoat enables Rust to render server-side web apps</title>
-<link>https://www.theregister.com/devops/2026/10/29/topcoat-enables-rust-to-render-server-side-web-apps/5306470</link>
-<guid isPermaLink="false">9d7118cdf3f370d9dee8a8250bd3814c35e9a77bc107c2b2f70bd9ace805b03d</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 19:27:21 +0000</pubDate>
-<description>Popular for other uses, Rust isn't typically deployed for web development. That could change, however. With AI here to do the heavy lifting, coders may want to consider the programming language, given its runtime performance and safety guarantees, suggested Carl Lerche , an Amazon Web Services principal engineer, speaking at ScyllaDB’s 2026 P99 virtual conference last week. Lerche was there to demonstrate his latest project, Topcoat , a framework for running web applications written in Rust. Lerche is perhaps best known for creating Tokio , which is the most popular asynchronous Rust runtime in that ecosystem. “Three years ago, had [I] gone out and said that Rust could be the best language for building web apps, you probably would have called me crazy,” he told the virtual audience. Web developers gravitate towards the languages they find most familiar. These days, that means JavaScript, or possibly Ruby. A number of web frameworks already use Rust. Both Leptos and Dioxus compile Rust into WebAssembly, which most browsers run. This approach is great for heavy computational jobs, though the upfront loading time can be a real drag. Topcoat compiles your Rust code into more web-friendly JavaScript. For Lerche, JavaScript remains the best way to interact with the browser's Document Object Model (DOM). “Generally, the approach taken by any Rust framework can be traced back to another ecosystem, usually a very popular one. You can't really point to a single existing framework as [Topcoat’s] main source of inspiration,” noted frontend developer Ken Kohlman, in a summary video on his “Code to the Moon” YouTube channel. Walk on the server side Lerche admitted that Topcoat isn’t for building complex applications, on the scale of, say, Figma, but it can easily be used for the run-of-the-mill, browser-based, database-driven applications, which is to say 90 percent of the web today. Unlike most present-day JavaScript frameworks , Topcoat eschews the current definition of being reactive, where the program logic is dumped onto the browser when the session begins. Instead, most of the logic executes on the server, with only the results delivered to the browser (Developers can still write client-side logic using a subset of Rust, which Topcoat automatically compiles into JavaScript for the browser). It’s an old idea recast with better tech. Server-side rendering predates reactive programming (see Apache’s server-side includes ). With server-side rendering, Lerche admitted, “It might sound like we're going back to the old days of full page refreshes for every click [but] you can actually get almost all of what you think of as reactive with server-side rendering.” But server-side programming has been making a comeback lately, especially for those devs disgruntled with React and other frameworks. HTMX , Datastar , and Phoenix LiveView all render web pages on the server, sending them back to the browser nearly completed. Topcoat is just tweaking their ideas to fit we</description>
-<enclosure url="https://image.theregister.com/?imageId=5306474&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5306474&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers</title>
-<link>https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456</link>
-<guid isPermaLink="false">1e6b965dfb83adb301dff2724da7413a10bb6b4c231c55b19d3c0414d04efe55</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 19:05:17 +0000</pubDate>
-<description>Suspected Chinese attackers chained PHP2Shell with a Linux kernel privilege-escalation exploit to root 25 servers, including Palo Alto Networks firewalls linked to US government-affiliated organizations, according to Dream researchers. The snoops began exploiting these servers on October 23, targeting organizations across the US, Japan, Taiwan, and South Korea. The attackers also honed in on US government-affiliated firewalls. “Within hours of compromising a US government-affiliated firewall, they had tunneled into the internal network, compromised a third server using the same PHP2Shell exploit, and launched a full Active Directory attack campaign - all through a chain that started with a single unauthenticated HTTPS request to a management interface that should never have been exposed to the internet,” the Israeli AI cybersecurity startup said in a report. Plus, the attackers “likely still” have persistent, remote access to compromised organizations’ networks, Dream noted. The attackers rooted the first US government-affiliated firewall on October 23, but the device crashed shortly afterward, possibly due to around 900 MB of exploit traffic. According to Dream, it remained unresponsive despite 240 automated checks over two hours. They successfully exploited the second firewall a day later, on October 24. The compromised firewalls ran vulnerable versions of Palo Alto Networks' PAN-OS. Dream said it had been working with the vendor to investigate the compromises, and Palo Alto Networks' Unit 42 researchers independently verified the attacker's tooling and confirmed Dream's reported results. To break into the firewalls, the attackers built a custom exploit chain that includes PHP2Shell and a Fragnesia kernel flaw, and ran about 40 custom post-exploitation scripts once they were inside the targeted organizations. Total attack chain in under 15 minutes PHP2Shell , comprised of CVE-2026-109618 and CVE-2026-109619, came to light early last week, along with fears that attackers would abuse the bugs to take down most of the internet . Despite “hundreds” of PHP2Shell proof-of-concept repositories on GitHub, the first reports of successful attacks didn’t start until Saturday. Both bugs have CVSS scores of 9.2 and can be exploited without authentication to run code on vulnerable PHP servers. The PHP2Shell exploit recovered by Dream was not a copy of any known public exploit. It “appears to have been independently developed and tailored specifically for the targeted firewall platform,” the researchers wrote. The attackers combined PHP2Shell with Fragnesia ( CVE-2026-46300 ), a high-severity local privilege-escalation vulnerability affecting the Linux kernel's XFRM ESP-in-TCP subsystem. The US Cybersecurity and Infrastructure Security Agency (CISA) added this Linux kernel bug to its catalog of Known Exploited Vulnerabilities on Wednesday. Both CISA and the FBI declined to comment. The miscreants developed a four-stage PHP2Shell exploit that allowed them to e</description>
-<enclosure url="https://image.theregister.com/?imageId=5304691&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5304691&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Your headphones have hidden LE Audio features you’ll want to know about</title>
 <link>https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose</link>
 <guid isPermaLink="false">210628a17147ca24aa5bc86bb0fe73d280e00c9cc01751f64ceb5681863bfab6</guid>
@@ -1379,17 +1401,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg" medium="image"/>
 </item>
 <item>
-<title>Ubuntu 27.04 may bring a preview of the long-awaited Core Desktop</title>
-<link>https://www.theregister.com/os-platforms/2026/10/29/ubuntu-2704-may-bring-a-preview-of-the-long-awaited-core-desktop/5306426</link>
-<guid isPermaLink="false">1c384a9cf58bb68059580df6a6af5b198c493a16637fddda99197fb84c41d67b</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 17:11:00 +0000</pubDate>
-<description>It's a few years behind schedule, but development has resumed on the desktop edition of Canonical's existing immutable IoT distro, Ubuntu Core. Engineering veep Jon Seager announced that Canonical is Accelerating Ubuntu Core Desktop on the company's Discourse forum. Even before his announcement, there was some fresh activity on the project's GitHub . The post gives some explanation of why the effort is running so late, envisions three potential use cases, and talks a little about the work that is already going on to enable it to finally happen. There's no solid timeline given, but Seager says that "over the coming release cycle" the team will be working out what needs to happen, which means that "over the coming weeks, we'll have the infrastructure ready for… daily image builds for Ubuntu Core Desktop." "Accelerating" sounds good, but with the best will in the world, it could hardly slow it down. In mid-2023 it looked like Desktop Ubuntu Core would arrive in 2024 , and at that year's Ubuntu Summit in Rīga, Latvia, it revealed more details . At the 2024 Summit, there was a talk about a KDE version – but no release. At the 2025 Summit, the Reg FOSS desk interviewed Seager and "Where's Core Desktop?" was our first question. The three roles his post discusses are the "browser-centric machine", a "developer workstation," and a "gaming machine." For this vulture, these goals imply two separate things. In general, this seems to indicate that it's wary of making something too specialized early on, then finding that it's not versatile enough for more challenging roles. Secondly, we think that the company is thinking of three specific niches that rival immutable distros have occupied successfully for years. Right now, the "browser-centric" one is filled by ChromeOS and ChromeOS Flex . We use Flex – it's pretty good, even if its days are now numbered due to the new Android-based GooglebookOS . Secondly, Fedora's Atomic editions have been around for years now – The Register first mentioned Fedora Kinoite well over five years ago. As well as Fedoras's own versions , there are also community-led distros based on the same tech, called Universal Blue . We've tried several, and while for now they offer nothing much this vulture wants, they undeniably work and they have happy users. Fedora's marketing aims at developers, and an immutable distro with containerized environments on top is harder to accidentally break with crashy work-in-progress code. Thirdly, the games-machine niche is owned by Valve's SteamOS . Although it is native to the Steam Deck – and if you're among the lucky few, the Steam Machine and Steam Frame – you are also free to run this on your own AMD-based kit . All three of these product families have been well-established for between five to ten years now. Canonical is lagging behind, and this is a subtle acknowledgement that it knows who the leaders are. We didn't doubt that he knows his stuff – a year ago, Seager’s blog post about The Immutable</description>
-<enclosure url="https://image.theregister.com/?imageId=1682642&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1682642&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Firefox and Chrome patch 200+ security flaws combined – update both ASAP</title>
 <link>https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap</link>
 <guid isPermaLink="false">e7e4555aaae3a57aa4155b443e208d41c45b5919e9723d61041d198c2fc616bb</guid>
@@ -1399,17 +1410,6 @@
 <description>The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Firefox-159-with-passwords-sidebar-and-website-change-monitoring.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Firefox-159-with-passwords-sidebar-and-website-change-monitoring.jpg" medium="image"/>
-</item>
-<item>
-<title>BattMan aims to turbocharge US batteries without robbin' critical minerals</title>
-<link>https://www.theregister.com/science/2026/10/29/battman-aims-to-turbocharge-us-batteries-without-robbin-critical-minerals/5306273</link>
-<guid isPermaLink="false">c34e6c3f61c049e43dfb77b8f19d9402e358416e4c63ac9e3ecaa08e2426e52c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 16:27:00 +0000</pubDate>
-<description>America's national laboratories are leading a consortium to move advanced battery storage technologies from the lab into domestic manufacturing. Dubbed the Battery Manufacturing Accelerator, or BattMan (no, really), the initiative aims to bring together a bunch of national laboratories, universities, and companies to overcome barriers in scaling up new battery technologies. Novel battery storage solutions are needed for applications in the electric grid, datacenters, and electric vehicles, as electrification gradually extends across industry. Batteries have a far lower energy density than fuels such as petroleum , so the hunt for better materials never stops. Researchers also want to improve on the safety of flammable lithium-ion cells , cut production costs, speed up charging, and reduce reliance on scarce raw materials. "The advances we make today in battery manufacturing technology will determine America's energy security and economic competitiveness for decades to come,” said Audrey Robertson, assistant secretary of Energy at the Department of Energy (DoE), which is overseeing the program. Researchers continue to develop new battery materials and chemistries, yet many promising technologies face obstacles on the way from the laboratory to commercial production. According to the DoE, BattMan will tackle that problem by combining super intelligence - known outside of the Trump administration as AI - with advanced manufacturing into a coordinated, data-driven innovation ecosystem. Pacific Northwest National Laboratory leads the consortium, along with Oak Ridge National Laboratory, Argonne National Laboratory and National Laboratory of the Rockies. Academic partners include the University of Washington, Binghamton University, University of Alabama, Arizona State University, and University of Michigan-Dearborn. The accelerator is also building ties with battery and materials manufacturers, and hopes to sidestep critical minerals supply problems by finding battery materials among more abundant, domestically sourced elements. ORNL is contributing its Battery Manufacturing Facility (BMF) R&amp;D center and plans a smart test bed with advanced sensing, real-time monitoring, and data analysis to trial both wet and dry electrode manufacturing. BattMan will also introduce autonomous pilot lines that combine sensing, process monitoring and intelligent control systems to improve product quality and reduce variability in the manufacturing process. The goal is an AI-based manufacturing platform that spots production irregularities as they occur and adjusts parameters on its own to prevent defects. “The BattMan Accelerator is exactly the kind of coordinated national effort that turns scientific breakthroughs into economic and energy security advantages,” claimed distinguished R&amp;D staff member Chins Chinnasamy, the consortium lead for ORNL. Organizations interested in becoming part of BattMan can visit the program website to learn more. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=256727&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=256727&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Stop sharing your passwords with AI agents, Bank of America warns customers</title>

@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple&amp;#8217;s &amp;#8216;Ultra&amp;#8217; smart home robot might have to wait until 2028</title>
+<link>https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay</link>
+<guid isPermaLink="false">27b7a6cc676586330e2aaa3110de6dc7f1a5f9e36b75b24282c289f8ac5ba108</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 17:06:10 +0000</pubDate>
+<description>Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information . It says the robot's hardware "has been finished for around two years," but that the software isn't ready. The device's software team has reportedly pushed to delay the launch and "attempted to strip back some proposed features and focus the product on a few capabilities related to FaceTime and automating home tasks, like switching on a light." According to The Information , the device is codenamed J595, but former Apple employees predict it will be called the "HomeView Ultra," taking aft … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Squarespace is laying off 19 percent of employees</title>
+<link>https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent</link>
+<guid isPermaLink="false">86ee887985125256e1aa12870c3790cb419c3624749f18ea439d744f109e210f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 16:50:47 +0000</pubDate>
+<description>The website-building platform Squarespace is laying off 19 percent of its employees as it works to "simplify" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge . The job cuts will affect around 300 of Squarespace's 1,800 employees . "The changes are intended to simplify how we operate, sharpen our priorities and enable the company to move faster as we position Squarespace for its next phase of growth," Seedman says. "We are grateful for the contributions of our departing colleagues and are providing comprehensive support to help them through the transition." Seedman adds that impacted employees will receiv … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-1247870734.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-1247870734.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>One annoying problem with the iPhone Messages app has an easy fix</title>
+<link>https://www.engadget.com/2300351/one-problem-iphone-messages-additional-options-easy-fix</link>
+<guid isPermaLink="false">762c3bd7f4bbb5e24a25f11a1d13128404f58d3f82b471d80ee7bf1a91bf86e9</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 16:45:00 +0000</pubDate>
+<description>Apple's iMessage app offers a lot of useful features and several default apps included in its latest update. However, they may be in an order you dislike.</description>
+<enclosure url="https://www.engadget.com/img/gallery/one-annoying-problem-with-the-iphone-messages-app-has-an-easy-fix/l-intro-1793114293.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/one-annoying-problem-with-the-iphone-messages-app-has-an-easy-fix/l-intro-1793114293.jpg" medium="image"/>
+</item>
+<item>
+<title>Thieves pilfer environment variables from Trigger AI workflow tool</title>
+<link>https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998</link>
+<guid isPermaLink="false">22adc5b0d3b281f1d0fa7ea2c3ee89d8ab2bc5ff146c4a18af9d6f15a55a3ba8</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 16:44:30 +0000</pubDate>
+<description>If you're a customer of cloud-hosted AI workflow platform Trigger.dev, take heed, because your environment variables may have been exposed in a security incident disclosed on Sunday. Trigger offered little explanation in its Sunday security incident report , noting that its investigation had identified “exposure across a subset of organizations” and that an attacker had gained unauthorized access to environment variables belonging to those organizations. Whatever exploit was used to gain access has been blocked, the company added, and affected customers have been notified of steps they need to take to prevent further security problems. We likely don't have to tell The Reg readers how important environment variables are in SaaS and cloud services like Trigger. If compromised environment variables contain sensitive credentials, an attacker could basically end up with the keys to the kingdom, potentially gaining access to connected services and digital infrastructure. For those unfamiliar with Trigger.dev, it’s a platform for building AI agents and workflows in TypeScript, but here’s the kicker: Trigger advertises itself as a durable execution platform that handles pesky things like retries, scaling, and keeping long-running tasks going through crashes and redeployments, while providing tools to monitor what those tasks are doing. Trigger, the company’s site notes, can be used to “build durable AI agents that survive refreshes, redeploys, and crashes,” and is ideal for “long-running tasks with retries, queues, AI observability and elastic scaling.” In short, companies running their AI on Trigger probably want it to keep running, which makes stolen environment variables all the more dangerous. Elastic scaling, automated retries, and, as Trigger notes, the ability to run lots of concurrent operations without timeouts could compound the consequences of compromised API keys, depending on what those credentials allow an attacker to access. An attacker with stolen credentials could potentially interfere with a customer's connected services or workflows. Additionally, Trigger recently added webhooks to its offering, supporting services like Stripe, Supabase, and Slack, potentially expanding the range of integrations that could be affected if their credentials were exposed. This could be pretty bad for anyone affected. Trigger has some fairly high-profile customers, with companies like fashion brand Emporio Armani, Pentagon-supporting AI acquisitions platform GovSignals, SaaS calendar platform Cal.com, and others all listed on the company’s site. Trigger has not publicly identified which organizations were affected by the intrusion. We reached out to Trigger, which declined to provide any additional information on the incident. A company spokesperson instead told us to wait for a full incident report to learn more. Luckily for Trigger customers and those concerned about SaaS security now that AI is regularly coming up with new vulnerabilities in commonly us</description>
+<enclosure url="https://image.theregister.com/?imageId=260694&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=260694&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Shop fridges and freezers across Europe hit by fresh suspected cyber-attack</title>
+<link>https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack</link>
+<guid isPermaLink="false">4ef4d216a0d18803e9fd5933efb744f9dde7ea3ac97d8042f69ccea38e78bfb4</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 16:39:20 +0000</pubDate>
+<description>Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops Supermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in some of their shops soared overnight to as high as 50C (122F), echoing a cyber-attack last month that caused millions of euros of damage in France. Retailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands and Sweden reported problems with their refrigeration systems on Monday, and several companies confirmed they had been hacked. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/47506f81531a77d5b27d52c5ed4d7ac3485d3802/528_0_5356_4284/master/5356.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c0f673abac92ecf3e5c4285cafd9c93" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/47506f81531a77d5b27d52c5ed4d7ac3485d3802/528_0_5356_4284/master/5356.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c0f673abac92ecf3e5c4285cafd9c93" medium="image"/>
+</item>
+<item>
+<title>Apple’s HomeView may double as security camera – watch out Ring, Nest, and Wyze</title>
+<link>https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera</link>
+<guid isPermaLink="false">e732c4080066279c63bff64e88199340f92d3a9a611a00a86985390aa259f34d</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 16:35:32 +0000</pubDate>
+<description>HomeView settings reveal potential video recording and streaming options alongside privacy features.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/FF53FBAF-41CE-4124-AAC5-A2D3B7740A9E_1_105_c.jpeg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/FF53FBAF-41CE-4124-AAC5-A2D3B7740A9E_1_105_c.jpeg" medium="image"/>
+</item>
+<item>
+<title>What to do if your smart home devices keep disconnecting from Wi-Fi</title>
+<link>https://www.engadget.com/2300349/smart-home-devices-disconnecting-wifi</link>
+<guid isPermaLink="false">e2fd05f71d93cf3f74a188ad28efe3845e5a139afe4343c91672f828672b64c3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 16:15:00 +0000</pubDate>
+<description>Smart home devices usually won't work properly when they lose Wi-Fi signal, so it's frustrating when they keep disconnecting. Here's why it might be happening.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-to-do-if-your-smart-home-devices-keep-disconnecting-from-wi-fi/l-intro-1793217315.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-to-do-if-your-smart-home-devices-keep-disconnecting-from-wi-fi/l-intro-1793217315.jpg" medium="image"/>
+</item>
+<item>
 <title>Nagoshi Studio, from the creator of the Yakuza series, officially shuts down</title>
 <link>https://www.engadget.com/2303975/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down</link>
 <guid isPermaLink="false">1ab48e8b4cd71129df53abd0e3e39bd8e8b8655304edf851211ddf41139813f0</guid>
@@ -46,17 +123,6 @@
 <description>Turn the clock back to 1998, when the internet was a little more functional.</description>
 <enclosure url="https://www.engadget.com/img/gallery/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/l-intro-1793634639.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/l-intro-1793634639.jpg" medium="image"/>
-</item>
-<item>
-<title>Supermarket freezers across Europe hit by second suspected cyber-attack</title>
-<link>https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack</link>
-<guid isPermaLink="false">4ef4d216a0d18803e9fd5933efb744f9dde7ea3ac97d8042f69ccea38e78bfb4</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 15:45:05 +0000</pubDate>
-<description>Chains in at least seven countries say fridge temperatures rose overnight in incident similar to hack of French stores Europe live – latest updates Supermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in dozens of their stores soared overnight, prompting fears of a cyber-attack similar to one that caused millions of euros of losses in France. Retailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands and Sweden reported problems with their refrigeration systems on Monday, and several companies confirmed they had been victims of a cyberattack. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/4b71e9b955055d1a0eb5f597da100556359fa09b/1184_0_6400_5120/master/6400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d7ed62b937e9f34665da0f99226fd9e" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/4b71e9b955055d1a0eb5f597da100556359fa09b/1184_0_6400_5120/master/6400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d7ed62b937e9f34665da0f99226fd9e" medium="image"/>
 </item>
 <item>
 <title>The Fitbit Edge lacks a useful contactless feature</title>
@@ -433,17 +499,6 @@
 <media:content url="https://image.theregister.com/?imageId=5306886&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Jackery made its portable power stations even smaller</title>
-<link>https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate</link>
-<guid isPermaLink="false">97ee6362932be90d64aa328c4934f8a2dc271962332972347c1bae6971bb080d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate>
-<description>Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 inches and weighing just 1.87 pounds. Its size and 96Wh (30,000mAh) of battery capacity means you can squeeze it into your carry-on and power multiple devices during a long flight. The Jackery Explorer 100D will be available starting November 15th through Walmart for $99. The power station is already available from Costco if you don't want to wait, … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’</title>
 <link>https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872</link>
 <guid isPermaLink="false">c28b8dd6e69d6deaf035085ae7df86b49407a84bc37514226522ce75d58e4f4c</guid>
@@ -574,39 +629,6 @@
 <description>Your PS5 requires occasional maintenance to run at its best, but it only needs a light touch.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-to-clean-your-playstation-5-without-damaging-it/l-intro-1793029905.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-to-clean-your-playstation-5-without-damaging-it/l-intro-1793029905.jpg" medium="image"/>
-</item>
-<item>
-<title>Which Samsung S Pens can be located using SmartThings Find?</title>
-<link>https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find</link>
-<guid isPermaLink="false">8d5814781d013ce8f862420a75c8694c4471f45af0fb61a3d01297e84194c216</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 22:00:00 +0000</pubDate>
-<description>Not all of Samsung's S Pens are made the same. Only one of them can be found through the SmartThings Find network.</description>
-<enclosure url="https://www.engadget.com/img/gallery/which-samsung-s-pens-can-be-located-using-smartthings-find/l-intro-1793021774.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/which-samsung-s-pens-can-be-located-using-smartthings-find/l-intro-1793021774.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA hopes the commercial space industry can help save Hubble</title>
-<link>https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble</link>
-<guid isPermaLink="false">dd8ec44c2a87c5d04685d37e797f216831b0c5b64779b305e3da3dceaccfb5b4</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 21:09:21 +0000</pubDate>
-<description>Gravity is a cruel mistress, slowly dragging the famed Hubble Space Telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from the private sector to see if anyone can save it. In a post on NASA's site , Administrator Jared Isaacman said: Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible … If there are innovative and cost-effective ways to extend the life … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Anthropic updates Claude to stop it from recreating existing video games</title>
-<link>https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games</link>
-<guid isPermaLink="false">b305dc8ef62c91cd948e814070ee201236580acbfca1a657eaf370280c3ec4b0</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 21:08:32 +0000</pubDate>
-<description>Users can still lean on Claude to help with designing original or genre games.</description>
-<enclosure url="https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg" medium="image"/>
 </item>
 <item>
 <title>Investors pull billions in funds from Binance after record $6.3bn hack</title>
@@ -1335,17 +1357,6 @@
 <media:content url="https://image.theregister.com/?imageId=256727&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>GSA left sensitive Google Drive files open to staff, contractors</title>
-<link>https://www.theregister.com/public-sector/2026/10/29/gsa-left-sensitive-google-drive-files-open-to-staff-contractors/5306430</link>
-<guid isPermaLink="false">d74ca673a08b1fc1ecb36c57ef41c34fe063d164d29f50f7bf14a0d1cba44b6d</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 15:56:44 +0000</pubDate>
-<description>A major US federal agency has repeatedly left sensitive information in its Google Drive accessible to employees and contractors who had no legitimate business need to see it, and auditors aren’t happy. The General Services Administration (GSA), which handles contracting, procurement, property management, and other elements of basic operations for federal agencies, has faced repeated findings of inadequate protection for controlled unclassified information (CUI) since at least 2014, according to a report from the agency’s Office of Inspector General. Again. Controlled unclassified information, in the US federal government's parlance, is information that isn't classified but requires protection or restrictions on its distribution under applicable laws, regulations, or government-wide policies. Access is generally limited to individuals with a legitimate government need to know. According to the OIG report, that can include things like physical security info for government buildings, personally identifiable information (PII) of government employees, and proprietary business information, all of which the GSA has left exposed. According to the report published this week, employees and contractors have approximately 2.5 million documents stored in GSA's Google Drive. “During a limited search of GSA’s Google Drive, we found 116 files containing CUI that were improperly shared with all GSA users,” the report notes. That’s a limited search, mind you, and the OIG has plenty of reason to believe there’s more than just that sitting open for anyone with access to the GSA’s Google Drive instance to sneak a look at. The OIG said that GSA is failing to properly manage the third-party tool it has in place to prevent data loss and detect CUI exposures, with annual reviews of search terms incomplete or undocumented, many relevant search terms not implemented, and a failure to enable an available optical character recognition feature that could help detect CUI in scanned documents. Additionally, the GSA was apparently “unaware of the tool’s file size limitation of 15 megabytes,” meaning that even if the GSA was properly using that tool, some large files would still be skipped. “We also found that GSA lacks: (1) an approval process for properly sharing sensitive information and (2) a standard naming convention that could more effectively prevent exposures of CUI in GSA’s Google Drive,” the OIG added. As for what was exposed … it’s not great. According to the audit, site plans for buildings in Washington, DC were part of the improperly access-controlled files, with data that includes entrances and screening techniques, as well as the location of sensitive areas, like gun lockers. A progressive collapse analysis that "describes the building’s collapse vulnerabilities, defense vulnerabilities, and critical failure locations” was also exposed. PII of government individuals was also exposed, including social security numbers, addresses, dates of birth, and contact informa</description>
-<enclosure url="https://image.theregister.com/?imageId=232876&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=232876&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Stop sharing your passwords with AI agents, Bank of America warns customers</title>
 <link>https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents</link>
 <guid isPermaLink="false">31dc756a23f00cd7b0af07e634d230d9699f48de8df7313845e48dbda11fa2c2</guid>
@@ -1531,17 +1542,6 @@
 <description>Available to Windows Insiders, the built-in tool measures your upload and download speeds over Ethernet or Wi-Fi.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-speed-test.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-speed-test.jpg" medium="image"/>
-</item>
-<item>
-<title>The new iPad Mini’s best upgrade has nothing to do with its flashy OLED screen</title>
-<link>https://www.zdnet.com/tech/ipad-mini-upgrade-ip67-rating-kids</link>
-<guid isPermaLink="false">1eb54f81e56cfb3085cb45f6fa82b1f21297e2b3300a2c83271d61ee342eec5b</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 16:09:01 +0000</pubDate>
-<description>Apple’s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg" medium="image"/>
 </item>
 <item>
 <title>Eight great new indie horror games for Halloween</title>

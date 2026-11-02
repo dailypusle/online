@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Crypto investigators flag suspected $106M theft, $786K Solana bot drain</title>
+<link>https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain</link>
+<guid isPermaLink="false">52153c571ae85fc3a7b26ac04e0fde833745c730f0203d70f9ff0452cc54212d</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 21:16:24 +0000</pubDate>
+<description>A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack</title>
+<link>https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack</link>
+<guid isPermaLink="false">a4c76820d06b988a54fdf1565b07e8ea0add35620ee906ed1abc1736b1bd99fe</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 21:16:03 +0000</pubDate>
+<description>Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched</title>
 <link>https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu</link>
 <guid isPermaLink="false">5af7c9426c1a45c9247a9c244d943091ec77498a2daac58498005c0b0822256c</guid>
@@ -708,17 +730,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg" medium="image"/>
 </item>
 <item>
-<title>Binance $6.3B record hack sparks pre-election political clashes</title>
-<link>https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter</link>
-<guid isPermaLink="false">0f51768fe66a6a583e254927811c9e0802ec8a9df10f3eeab058276881162bd8</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sat, 31 Oct 2026 09:58:50 +0000</pubDate>
-<description>Some political and administration figures tried to make hay of the biggest-ever crypto heist.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg" medium="image"/>
-</item>
-<item>
 <title>MSTR Q3 2026 Earnings Call: Analyst Q&amp;A</title>
 <link>https://bitcoinmagazine.com/videos/mstr-q3-2026-earnings-call-analyst-qa</link>
 <guid isPermaLink="false">62cc8b756840493aea2726021ff3d6a356a07218de283795bf2f33c63f5ef923</guid>
@@ -1025,17 +1036,6 @@
 <description>A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/04/dhs-gID_4.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/04/dhs-gID_4.jpg" medium="image"/>
-</item>
-<item>
-<title>Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority</title>
-<link>https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority</link>
-<guid isPermaLink="false">d561ec5cf5f7d557827bd5586ee95b036de4a8c86b7024e613d2f417adacf443</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 17:46:02 +0000</pubDate>
-<description>Only 13% of Americans say a candidate’s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education Fund, even as the industry spends heavily on next week’s elections.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Galaxy Digital applies for OCC charter</title>

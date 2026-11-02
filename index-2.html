@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff"><meta name="description" content="DailyPulse — latest news, stories and updates.">
+<title>DailyPulse — Latest News</title>
+<style>
+:root{--blue:#087cf0;--blue-dark:#075ed1;--ink:#10284e;--muted:#667c99;--line:#dceafa;--pale:#eaf4ff;--card:#fff;--bg:#f8fbff;--shadow:0 8px 28px rgba(24,83,143,.07)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+a{color:inherit}header{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.96);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}.header-inner{max-width:1240px;margin:auto;padding:14px 26px;display:flex;align-items:center;justify-content:space-between;gap:24px}.brand{display:inline-flex;align-items:center;gap:10px;text-decoration:none;font-size:1.7rem;font-weight:850;letter-spacing:-.06em;white-space:nowrap}.brand-icon{width:42px;height:42px;display:grid;place-items:center;border-radius:50%;background:linear-gradient(135deg,#0796ff,#1455ed);box-shadow:0 4px 10px #087cf033}.brand-icon svg{width:31px;height:31px}.brand-name{color:var(--ink)}.brand-name span{color:var(--blue)}.nav{display:flex;align-items:center;gap:30px}.nav a{font-size:.94rem;font-weight:650;text-decoration:none;color:#203858;padding:8px 0;border-bottom:2px solid transparent}.nav a.active,.nav a:hover{color:var(--blue);border-color:var(--blue)}.header-actions{display:flex;align-items:center;gap:10px}button{font:inherit;cursor:pointer}.refresh{border:1px solid #cfe3fb;background:white;color:var(--blue-dark);font-weight:700;padding:9px 15px;border-radius:10px}.refresh:hover{background:var(--pale)}.menu-toggle{display:none;border:0;background:transparent;color:var(--ink);font-size:1.7rem;padding:3px 8px}
+/* Live cryptocurrency ticker in the site header */
+.crypto-ticker{width:100%;overflow:hidden;background:#eff6ff;color:#10284e;border-top:1px solid #dceafa;border-bottom:1px solid #c7defa;white-space:nowrap}
+.crypto-ticker-track{display:flex;width:max-content;align-items:center;min-height:44px;animation:crypto-ticker-scroll 42s linear infinite}
+.crypto-ticker:hover .crypto-ticker-track{animation-play-state:paused}
+.crypto-ticker-item{display:inline-flex;align-items:center;gap:8px;padding:7px 20px;border-right:1px solid #d7e8fc;font-size:12px;font-weight:750}
+.crypto-ticker-icon{display:inline-grid;place-items:center;width:25px;height:25px;border-radius:50%;background:#fff;border:1px solid #bfdbfe;color:#087cf0;font-size:14px}
+.crypto-ticker-symbol{color:#087cf0;letter-spacing:.35px}.crypto-ticker-price{color:#10284e}.crypto-ticker-change{font-size:11px}.crypto-ticker-change.up{color:#15803d}.crypto-ticker-change.down{color:#dc2626}.crypto-ticker-status{padding:8px 18px;color:#087cf0;font-size:12px;font-weight:700}
+@keyframes crypto-ticker-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media(prefers-reduced-motion:reduce){.crypto-ticker-track{animation:none}}
+main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.hero{position:relative;overflow:hidden;isolation:isolate;min-height:225px;padding:34px 40px;border-radius:18px;border:1px solid #d6e9ff;background:linear-gradient(105deg,#edf6ff 0%,#d9ebff 57%,#9bcaff 100%);display:flex;align-items:center;margin-bottom:28px}.hero:before,.hero:after{content:"";position:absolute;z-index:-1;bottom:-2px;right:-2%;width:60%;height:72%;background:linear-gradient(135deg,#ffffff00,#4b98e64d);clip-path:polygon(0 100%,18% 60%,27% 75%,48% 20%,57% 42%,72% 0,100% 100%)}.hero:after{right:0;width:45%;height:54%;opacity:.65;clip-path:polygon(0 100%,24% 45%,36% 65%,60% 12%,73% 39%,100% 0,100% 100%)}.hero-copy{max-width:720px}.eyebrow{display:inline-flex;padding:5px 14px;border-radius:999px;background:#c6e2ff;color:#076bd8;font-weight:750;font-size:.82rem;margin-bottom:12px}.hero h1{font-size:clamp(2rem,4vw,3.1rem);line-height:1.12;letter-spacing:-.045em;margin:0 0 12px;font-weight:850}.hero p{max-width:650px;margin:0;color:#456b99;font-size:1.08rem}.section-heading{display:flex;align-items:end;justify-content:space-between;gap:16px;margin:0 0 14px}.section-heading h2{font-size:clamp(1.55rem,3vw,2rem);line-height:1.2;letter-spacing:-.035em;margin:0}.section-heading p{color:var(--muted);font-size:.88rem;margin:0}.categories{display:flex;gap:9px;overflow-x:auto;padding:4px 1px 16px;scrollbar-width:thin}.category{flex:0 0 auto;border:1px solid #d5e7fb;background:#fff;color:#486482;border-radius:999px;padding:8px 15px;font-weight:650;font-size:.88rem;white-space:nowrap}.category[aria-pressed="true"]{background:var(--blue);color:white;border-color:var(--blue);box-shadow:0 4px 10px #087cf02b}.category:hover{border-color:var(--blue);color:var(--blue)}.category[aria-pressed="true"]:hover{color:white}#status{min-height:24px;color:var(--muted);font-size:.86rem;margin:0 0 12px}#news{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.story{min-width:0;display:grid;grid-template-columns:minmax(150px,38%) minmax(0,1fr);align-items:stretch;background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 2px 7px #173b6205;transition:transform .18s ease,box-shadow .18s ease}.story:hover{transform:translateY(-2px);box-shadow:var(--shadow)}.story .photo{display:block;width:100%;height:100%;min-height:205px;object-fit:cover;background:#e6f0fb}.story .text{padding:20px;display:flex;flex-direction:column;align-items:flex-start;min-width:0}.story h2{font-size:1.08rem;line-height:1.35;letter-spacing:-.02em;margin:0 0 10px}.story h2 a{text-decoration:none}.story h2 a:hover{color:var(--blue)}.meta{color:var(--muted);font-size:.78rem;line-height:1.5}.description{margin:12px 0 0;color:#58708f;font-size:.9rem;line-height:1.55;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.read-more{display:inline-flex;align-items:center;gap:8px;margin-top:auto;padding-top:14px;text-decoration:none;color:var(--blue-dark);font-weight:750;font-size:.9rem}.read-more:hover{gap:12px}.story:not(:has(.photo)){grid-template-columns:1fr}.error{grid-column:1/-1;background:white;border:1px solid var(--line);border-radius:14px;padding:18px;color:var(--muted);overflow-wrap:anywhere}footer{border-top:1px solid var(--line);background:#fff;color:var(--muted);font-size:.84rem;padding:24px;text-align:center}footer strong{color:var(--ink)}
+@media(min-width:1000px){#news{grid-template-columns:1fr 1fr}.story{min-height:220px}}
+@media(max-width:760px){.header-inner{padding:11px 16px;gap:10px}.brand{font-size:1.35rem;gap:8px}.brand-icon{width:36px;height:36px}.brand-icon svg{width:27px;height:27px}.menu-toggle{display:block}.nav{display:none;position:absolute;top:100%;left:0;right:0;background:#fff;padding:12px 18px 18px;border-bottom:1px solid var(--line);box-shadow:var(--shadow);flex-direction:column;align-items:stretch;gap:2px}.nav.open{display:flex}.nav a{padding:10px 8px;border-bottom:0;border-radius:8px}.nav a.active,.nav a:hover{background:var(--pale)}.refresh{padding:8px 11px;font-size:.84rem}main{padding:16px 14px 32px}.hero{min-height:190px;padding:23px 20px;border-radius:15px;margin-bottom:23px}.hero h1{font-size:2rem}.hero p{font-size:.94rem;max-width:92%}.hero:before{width:75%;height:55%;opacity:.8}.section-heading{margin-bottom:12px}#news{grid-template-columns:1fr;gap:12px}.story{display:flex;flex-direction:column;border-radius:14px}.story .photo{width:100%;height:auto;aspect-ratio:16/9;min-height:0}.story .text{padding:15px 16px 17px}.story h2{font-size:1.04rem;margin-bottom:8px}.description{font-size:.9rem;-webkit-line-clamp:3;margin-top:9px}.read-more{padding-top:11px}.categories{gap:7px;padding-bottom:12px}.category{padding:7px 12px;font-size:.83rem}#status{font-size:.82rem}.story:not(:has(.photo)){display:block}}
+@media(max-width:380px){.brand{font-size:1.2rem}.brand-icon{width:32px;height:32px}.refresh{font-size:.78rem;padding:7px 8px}.hero h1{font-size:1.75rem}.hero{padding:20px 16px}}
+
+/* DailyPulse Assistant — clean, readable chat */
+#dp-chat-launcher{position:fixed;right:22px;bottom:22px;z-index:1001;width:62px;height:62px;border:0;border-radius:50%;background:#087cf0;color:#fff;box-shadow:0 6px 20px #087cf044;display:grid;place-items:center;cursor:pointer}
+#dp-chat-launcher svg{width:36px;height:36px}
+#dp-chat-panel{position:fixed;right:22px;bottom:96px;z-index:1000;width:min(430px,calc(100vw - 28px));height:min(680px,calc(100dvh - 118px));background:#fff;border:1px solid #d8e8fa;border-radius:20px;box-shadow:0 12px 42px #173b6222;display:none;overflow:hidden;flex-direction:column;color:#10284e}
+#dp-chat-panel.open{display:flex}
+.dp-chat-head{background:#087cf0;color:#fff;padding:15px 17px;display:flex;align-items:center;gap:12px;flex:none}
+.dp-chat-logo{width:44px;height:44px;border-radius:50%;background:#fff;display:grid;place-items:center;flex:none}
+.dp-chat-logo svg{width:29px;height:29px}
+.dp-chat-head-copy{min-width:0;flex:1}.dp-chat-head-copy strong{display:block;font-size:1.02rem;font-weight:750}.dp-chat-head-copy span{display:block;font-size:.82rem;opacity:.94}
+.dp-chat-close{border:0;background:transparent;color:#fff;font-size:27px;line-height:1;padding:3px 7px;cursor:pointer}
+.dp-chat-body{padding:16px 14px;overflow-y:auto;flex:1;background:#f8fbff;scroll-behavior:smooth}
+.dp-chat-welcome,.dp-chat-message{display:flex;gap:9px;align-items:flex-start;margin:0 0 14px}
+.dp-chat-avatar{width:34px;height:34px;border-radius:50%;background:#087cf0;color:#fff;display:grid;place-items:center;flex:none;font-size:19px}
+.dp-chat-bubble{max-width:calc(100% - 43px);background:#fff;border:1px solid #e1ebf7;border-radius:15px;padding:12px 14px;font-size:.92rem;line-height:1.58;overflow-wrap:anywhere;box-shadow:0 2px 7px #173b6208}
+.dp-chat-message.user{justify-content:flex-end}.dp-chat-message.user .dp-chat-bubble{background:#e6f2ff;border-color:#d4e8ff;color:#12345b;border-bottom-right-radius:5px;max-width:86%}
+.dp-chat-message.assistant .dp-chat-bubble{border-bottom-left-radius:5px}
+.dp-chat-bubble p{margin:0 0 10px}.dp-chat-bubble p:last-child{margin-bottom:0}
+.dp-chat-bubble h2,.dp-chat-bubble h3{font-size:1rem;line-height:1.35;margin:12px 0 7px;color:#10284e}
+.dp-chat-bubble ul,.dp-chat-bubble ol{margin:6px 0 11px;padding-left:22px}.dp-chat-bubble li{margin:4px 0}
+.dp-chat-bubble strong{font-weight:750;color:#17365f}
+.dp-chat-bubble a,.dp-chat-source a{color:#0874e8;font-weight:750;text-decoration:none;overflow-wrap:anywhere}.dp-chat-bubble a:hover,.dp-chat-source a:hover{text-decoration:none;color:#0758bd}
+.dp-chat-sources{margin:10px 0 2px;padding-top:10px;border-top:1px solid #e6eef8}.dp-chat-sources-title{font-size:.8rem;font-weight:750;color:#71839b;margin-bottom:7px}.dp-chat-source{padding:9px 10px;margin:7px 0;background:#f1f7ff;border:1px solid #e0edfb;border-radius:11px}.dp-chat-source a{display:block;font-size:.88rem;line-height:1.4}.dp-chat-source small{display:block;color:#8091a8;font-size:.75rem;margin-top:4px}
+.dp-chat-suggestions{display:grid;gap:7px;margin:0 0 12px 43px}.dp-chat-suggestion{border:1px solid #d5e7fb;background:#fff;color:#0872e5;border-radius:11px;padding:9px 11px;text-align:left;font-size:.83rem;font-weight:650;cursor:pointer}.dp-chat-suggestion:hover{background:#edf6ff}
+.dp-chat-compose{border-top:1px solid #e3edf8;background:#fff;padding:10px 12px;display:flex;gap:8px;align-items:center;flex:none}.dp-chat-input{min-width:0;flex:1;border:1px solid #d8e6f5;border-radius:999px;padding:13px 15px;font:inherit;font-size:.92rem;color:#10284e;outline:none}.dp-chat-input:focus{border-color:#78b8ff;box-shadow:0 0 0 3px #087cf014}.dp-chat-send{width:47px;height:47px;border:0;border-radius:50%;background:#087cf0;color:#fff;font-size:21px;flex:none;cursor:pointer}.dp-chat-send:disabled{opacity:.55;cursor:wait}.dp-chat-foot{text-align:center;background:#fff;color:#8293a9;font-size:.74rem;padding:0 10px 10px;flex:none}.dp-chat-foot b{color:#087cf0}.dp-chat-typing{color:#7890ad;font-size:.82rem;padding:4px 0 12px 43px}
+@media(max-width:520px){#dp-chat-launcher{right:15px;bottom:16px;width:57px;height:57px}#dp-chat-panel{right:10px;bottom:82px;width:calc(100vw - 20px);height:min(690px,calc(100dvh - 96px));border-radius:18px}.dp-chat-head{padding:13px}.dp-chat-body{padding:13px 11px}.dp-chat-bubble{font-size:.9rem}}
+
+</style></head>
+<body>
+<header><div class="header-inner">
+<a class="brand" href="#top" aria-label="DailyPulse home"><span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 48 48" fill="none"><path d="M3 25h9l5-11 8 22 7-18 4 7h9" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="brand-name">Daily<span>Pulse</span></span></a>
+<nav class="nav" id="main-nav" aria-label="Main navigation"><a class="active" href="#top">Home</a><a href="#latest">Latest News</a><a href="#categories">Categories</a><a href="#about">About</a></nav>
+<div class="header-actions"><button id="refresh" class="refresh" type="button">↻ Refresh</button><button class="menu-toggle" id="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false">☰</button></div>
+</div>
+<div class="crypto-ticker" id="crypto-ticker" aria-label="Live cryptocurrency prices">
+  <div class="crypto-ticker-track" id="crypto-ticker-track"><span class="crypto-ticker-status">Loading live crypto prices…</span></div>
+</div>
+</header>
+<main id="top">
+<section class="hero" aria-labelledby="hero-title"><div class="hero-copy"><span class="eyebrow">Your daily briefing</span><h1 id="hero-title">Stay informed.<br class="mobile-break"> Stay ahead.</h1><p>The stories shaping Nigeria and the world — including business, cryptocurrency, banks, technology, sports and culture.</p></div></section>
+<section id="latest" aria-labelledby="latest-title"><div class="section-heading"><h2 id="latest-title">Latest News</h2><p>Fresh stories, updated throughout the day</p></div>
+<nav class="categories" id="categories" aria-label="News categories">
+<button class="category" data-category="top" aria-pressed="true">Top stories</button><button class="category" data-category="nigeria" aria-pressed="false">Nigeria</button><button class="category" data-category="world" aria-pressed="false">World</button><button class="category" data-category="business" aria-pressed="false">Business · Crypto &amp; Banks</button><button class="category" data-category="entertainment" aria-pressed="false">Entertainment</button><button class="category" data-category="sports" aria-pressed="false">Sports</button><button class="category" data-category="technology" aria-pressed="false">Technology</button><button class="category" data-category="science" aria-pressed="false">Science</button>
+</nav><div id="status" role="status" aria-live="polite">Loading news…</div><section id="news" aria-label="News headlines"></section></section>
+</main><footer id="about"><strong>DailyPulse</strong> · News that keeps you in the know. <br>Headlines and photos link to their original publishers.</footer>
+  <script>
+    /*
+      Feeds are downloaded every ~15 minutes by a GitHub Action
+      (.github/workflows/news.yml) and saved in the /feeds folder,
+      so the page reads them from the same site (no CORS problem).
+    */
+    const newsEl = document.getElementById("news");
+    const statusEl = document.getElementById("status");
+    const refreshBtn = document.getElementById("refresh");
+    const categoryButtons = [...document.querySelectorAll("[data-category]")];
+    let selectedCategory = "top";
+    let loading = false;
+
+    function textOf(node, selector) {
+      return node.querySelector(selector)?.textContent?.trim() || "";
+    }
+
+    function safeHttpUrl(value) {
+      try {
+        const url = new URL(value);
+        return ["http:", "https:"].includes(url.protocol) ? url.href : "";
+      } catch {
+        return "";
+      }
+    }
+
+    function findImage(item) {
+      for (const name of ["content", "thumbnail"]) {
+        for (const el of Array.from(item.getElementsByTagNameNS("*", name))) {
+          const url = safeHttpUrl(el.getAttribute("url") || "");
+          if (url) return url;
+        }
+      }
+      for (const el of Array.from(item.getElementsByTagName("enclosure"))) {
+        const url = safeHttpUrl(el.getAttribute("url") || "");
+        if (url && (el.getAttribute("type") || "image").startsWith("image")) return url;
+      }
+      for (const el of Array.from(item.getElementsByTagName("*"))) {
+        if (["encoded", "description"].includes(el.localName)) {
+          const m = (el.textContent || "").match(/<img[^>]+src=["']([^"']+)["']/i);
+          if (m) {
+            const url = safeHttpUrl(m[1].replace(/&amp;/g, "&"));
+            if (url) return url;
+          }
+        }
+      }
+      return "";
+    }
+
+    function makeStory(item) {
+      const title = textOf(item, "title") || "Untitled story";
+      const link = safeHttpUrl(textOf(item, "link"));
+      if (!link) return null;
+
+      const sourceNode = Array.from(item.children || []).find(el => el.localName === "source");
+      const source = sourceNode?.textContent?.trim() || new URL(link).hostname.replace(/^www\./, "");
+      const dateText = textOf(item, "pubDate");
+      const date = dateText ? new Date(dateText) : null;
+      const formattedDate = date && !Number.isNaN(date.getTime())
+        ? date.toLocaleString()
+        : "";
+
+      const article = document.createElement("article");
+      article.className = "story";
+
+      const imageUrl = findImage(item);
+      // Also filter older/already-generated XML feeds in the browser.
+      if (!imageUrl) return null;
+      {
+        const img = document.createElement("img");
+        img.className = "photo";
+        img.src = imageUrl;
+        img.alt = "";
+        img.loading = "lazy";
+        img.referrerPolicy = "no-referrer";
+        img.onerror = () => article.remove();
+        article.appendChild(img);
+      }
+
+      const text = document.createElement("div");
+      text.className = "text";
+
+      const heading = document.createElement("h2");
+      const anchor = document.createElement("a");
+      anchor.href = link;
+      anchor.target = "_blank";
+      anchor.rel = "noopener noreferrer";
+      anchor.textContent = title;
+      heading.appendChild(anchor);
+
+      const meta = document.createElement("div");
+      meta.className = "meta";
+      meta.textContent = source + (formattedDate ? " · " + formattedDate : "");
+
+      const descriptionText = textOf(item, "description");
+      if (descriptionText) {
+        const description = document.createElement("p");
+        description.className = "description";
+        description.textContent = descriptionText.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+        text.appendChild(heading);
+        text.appendChild(meta);
+        text.appendChild(description);
+      } else {
+        text.append(heading, meta);
+      }
+      const readMore = document.createElement("a");
+      readMore.className = "read-more";
+      readMore.href = link;
+      readMore.target = "_blank";
+      readMore.rel = "noopener noreferrer";
+      readMore.textContent = "Read full story →";
+      text.appendChild(readMore);
+      article.appendChild(text);
+      return article;
+    }
+
+    async function loadNews() {
+      if (loading) return;
+      loading = true;
+      refreshBtn.disabled = true;
+      statusEl.textContent = "Loading news…";
+
+      try {
+        const response = await fetch("feeds/" + selectedCategory + ".xml?t=" + Date.now(), { cache: "no-store" });
+
+        if (!response.ok) throw new Error("Feed file returned HTTP " + response.status);
+
+        const xmlText = await response.text();
+        if (!xmlText.trim()) throw new Error("The feed file is empty. Run the GitHub Actions news workflow again.");
+        const xml = new DOMParser().parseFromString(xmlText, "application/xml");
+
+        if (xml.querySelector("parsererror")) {
+          throw new Error("The response was not valid RSS XML.");
+        }
+
+        const items = Array.from(xml.querySelectorAll("item"));
+        if (!items.length) throw new Error("No stories were found in the feed.");
+
+        const fragment = document.createDocumentFragment();
+        let count = 0;
+        items.slice(0, 25).forEach(item => {
+          const story = makeStory(item);
+          if (story) {
+            fragment.appendChild(story);
+            count++;
+          }
+        });
+
+        if (!count) throw new Error("No valid story links were found.");
+
+        newsEl.replaceChildren(fragment);
+        statusEl.textContent = `${count} headlines · Updated ${new Date().toLocaleTimeString()}`;
+      } catch (error) {
+        console.error("RSS loading failed:", error);
+        statusEl.textContent = "News could not be loaded. Please refresh or check your Internet connection.";
+        const message = document.createElement("div");
+        message.className = "error";
+        message.textContent = "Please refresh or check your Internet connection.";
+        newsEl.replaceChildren(message);
+      } finally {
+        loading = false;
+        refreshBtn.disabled = false;
+      }
+    }
+
+    categoryButtons.forEach(button => {
+      button.addEventListener("click", () => {
+        selectedCategory = button.dataset.category;
+        categoryButtons.forEach(item =>
+          item.setAttribute("aria-pressed", String(item === button))
+        );
+        loadNews();
+      });
+    });
+
+    refreshBtn.addEventListener("click", loadNews);
+    loadNews();
+    setInterval(loadNews, 5 * 60 * 1000);
+  </script>
+<script>
+const menuToggle=document.getElementById('menu-toggle');const mainNav=document.getElementById('main-nav');
+menuToggle.addEventListener('click',()=>{const open=mainNav.classList.toggle('open');menuToggle.setAttribute('aria-expanded',String(open));menuToggle.setAttribute('aria-label',open?'Close navigation':'Open navigation');menuToggle.textContent=open?'×':'☰'});
+mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav.classList.remove('open');menuToggle.setAttribute('aria-expanded','false');menuToggle.textContent='☰'}));
+</script>
+<script>
+/* CoinGecko market data ticker; prices are refreshed every 60 seconds. */
+(function(){
+  const track=document.getElementById('crypto-ticker-track');
+  if(!track)return;
+  const coins=[
+    {id:'bitcoin',symbol:'BTC',icon:'₿'},
+    {id:'ethereum',symbol:'ETH',icon:'Ξ'},
+    {id:'solana',symbol:'SOL',icon:'◎'},
+    {id:'ripple',symbol:'XRP',icon:'✕'},
+    {id:'dogecoin',symbol:'DOGE',icon:'Ð'},
+    {id:'binancecoin',symbol:'BNB',icon:'◆'},
+    {id:'cardano',symbol:'ADA',icon:'₳'},
+    {id:'tron',symbol:'TRX',icon:'T'}
+  ];
+  function price(value){return new Intl.NumberFormat('en-US',{style:'currency',currency:'USD',maximumFractionDigits:value<1?6:2}).format(value)}
+  function makeItem(coin,data){
+    const info=data[coin.id];if(!info||typeof info.usd!=='number')return '';
+    const change=info.usd_24h_change;
+    const valid=typeof change==='number'&&Number.isFinite(change);
+    const up=valid&&change>=0;
+    const changeText=valid?(up?'▲ ':'▼ ')+Math.abs(change).toFixed(2)+'%':'Change N/A';
+    return '<span class="crypto-ticker-item"><span class="crypto-ticker-icon">'+coin.icon+'</span><span class="crypto-ticker-symbol">'+coin.symbol+'</span><span class="crypto-ticker-price">'+price(info.usd)+'</span><span class="crypto-ticker-change '+(valid?(up?'up':'down'):'')+'">'+changeText+'</span></span>';
+  }
+  async function update(){
+    try{
+      const ids=coins.map(c=>c.id).join(',');
+      const endpoint='https://api.coingecko.com/api/v3/simple/price?ids='+encodeURIComponent(ids)+'&vs_currencies=usd&include_24hr_change=true';
+      const response=await fetch(endpoint,{cache:'no-store'});
+      if(!response.ok)throw new Error('Market data request failed ('+response.status+')');
+      const data=await response.json();
+      const html=coins.map(c=>makeItem(c,data)).join('');
+      if(!html)throw new Error('No market data returned');
+      track.innerHTML=html+html;
+      track.style.animationDuration=Math.max(28,coins.length*5)+'s';
+    }catch(err){
+      console.warn('Crypto ticker:',err);
+      if(track.querySelector('.crypto-ticker-status'))track.innerHTML='<span class="crypto-ticker-status">Live crypto prices are temporarily unavailable. Please try again shortly.</span>';
+    }
+  }
+  update();setInterval(update,60000);
+})();
+</script>
+<!-- DailyPulse Assistant -->
+<button id="dp-chat-launcher" type="button" aria-label="Open DailyPulse Assistant" aria-expanded="false">
+  <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><path d="M24 5v6" stroke="white" stroke-width="3.5" stroke-linecap="round"/><circle cx="24" cy="4" r="3" fill="white"/><rect x="8" y="12" width="32" height="27" rx="10" fill="white"/><rect x="13" y="18" width="22" height="14" rx="6" fill="#087cf0"/><circle cx="19" cy="25" r="2" fill="white"/><circle cx="29" cy="25" r="2" fill="white"/></svg>
+</button>
+<section id="dp-chat-panel" aria-label="DailyPulse Assistant" aria-live="polite">
+  <div class="dp-chat-head">
+    <div class="dp-chat-logo"><svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><path d="M24 5v6" stroke="#087cf0" stroke-width="3.5" stroke-linecap="round"/><circle cx="24" cy="4" r="3" fill="#087cf0"/><rect x="8" y="12" width="32" height="27" rx="10" fill="#087cf0"/><rect x="13" y="18" width="22" height="14" rx="6" fill="white"/><circle cx="19" cy="25" r="2" fill="#087cf0"/><circle cx="29" cy="25" r="2" fill="#087cf0"/></svg></div>
+    <div class="dp-chat-head-copy"><strong>DailyPulse Assistant</strong><span>Ask me anything</span></div>
+    <button class="dp-chat-close" id="dp-chat-close" type="button" aria-label="Close assistant">×</button>
+  </div>
+  <div class="dp-chat-body" id="dp-chat-body">
+    <div class="dp-chat-welcome"><div class="dp-chat-avatar">✦</div><div class="dp-chat-bubble"><p>Hello! I'm your DailyPulse Assistant.</p><p>Ask me about the latest news or anything else you'd like to understand.</p></div></div>
+    <div class="dp-chat-suggestions">
+      <button class="dp-chat-suggestion" type="button">What's today's top news?</button>
+      <button class="dp-chat-suggestion" type="button">What's happening in cryptocurrency?</button>
+      <button class="dp-chat-suggestion" type="button">Explain artificial intelligence simply</button>
+    </div>
+  </div>
+  <form class="dp-chat-compose" id="dp-chat-form"><input class="dp-chat-input" id="dp-chat-input" type="text" maxlength="1500" placeholder="Ask anything..." autocomplete="off" aria-label="Ask anything"><button class="dp-chat-send" id="dp-chat-send" type="submit" aria-label="Send question">➤</button></form>
+  <div class="dp-chat-foot">Powered by <b>DailyPulse</b></div>
+</section>
+<script>
+(() => {
+  // Your deployed Cloudflare Worker URL. POST requests go to the root endpoint.
+  const CHAT_API_URL = 'https://dailypulse-assistant.odunzephilemon0.workers.dev/';
+  const launcher = document.getElementById('dp-chat-launcher');
+  const panel = document.getElementById('dp-chat-panel');
+  const closeBtn = document.getElementById('dp-chat-close');
+  const chatBody = document.getElementById('dp-chat-body');
+  const form = document.getElementById('dp-chat-form');
+  const input = document.getElementById('dp-chat-input');
+  const send = document.getElementById('dp-chat-send');
+  const history = [];
+
+  function toggle(open) {
+    panel.classList.toggle('open', open);
+    launcher.setAttribute('aria-expanded', String(open));
+    if (open) input.focus();
+  }
+  launcher.addEventListener('click', () => toggle(!panel.classList.contains('open')));
+  closeBtn.addEventListener('click', () => toggle(false));
+
+  function safeLink(url) {
+    try { const u = new URL(url); return ['http:', 'https:'].includes(u.protocol) ? u.href : ''; }
+    catch { return ''; }
+  }
+
+  // Safe inline Markdown formatter: bold, italics and blue, non-underlined links.
+  // It builds DOM nodes rather than injecting HTML, so model output cannot run scripts.
+  function formatInline(text, parent) {
+    const tokenPattern = /(\*\*[^*\n]+\*\*|(?<!\*)\*(?!\*)[^*\n]+\*(?!\*)|https?:\/\/[^\s<>]+)/g;
+    let last = 0, match;
+    while ((match = tokenPattern.exec(text)) !== null) {
+      if (match.index > last) parent.append(document.createTextNode(text.slice(last, match.index)));
+      const token = match[0];
+      if (token.startsWith('**')) {
+        const strong = document.createElement('strong');
+        strong.textContent = token.slice(2, -2);
+        parent.appendChild(strong);
+      } else if (token.startsWith('*')) {
+        const em = document.createElement('em');
+        em.textContent = token.slice(1, -1);
+        parent.appendChild(em);
+      } else {
+        const clean = token.replace(/[),.;!?]+$/, '');
+        const href = safeLink(clean);
+        if (href) {
+          const a = document.createElement('a'); a.href = href; a.textContent = clean;
+          a.target = '_blank'; a.rel = 'noopener noreferrer'; parent.appendChild(a);
+        } else parent.append(document.createTextNode(clean));
+        if (token.length > clean.length) parent.append(document.createTextNode(token.slice(clean.length)));
+      }
+      last = tokenPattern.lastIndex;
+    }
+    if (last < text.length) parent.append(document.createTextNode(text.slice(last)));
+  }
+
+  function renderAnswer(text, sources) {
+    const bubble = document.createElement('div'); bubble.className = 'dp-chat-bubble';
+    const lines = String(text || '').replace(/\r/g, '').split('\n');
+    let list = null, listType = '';
+    const flushList = () => { list = null; listType = ''; };
+    for (const rawLine of lines) {
+      const line = rawLine.trim();
+      if (!line) { flushList(); continue; }
+      const heading = line.match(/^#{1,3}\s+(.+)$/);
+      const bullet = line.match(/^[-*•]\s+(.+)$/);
+      const numbered = line.match(/^\d+[.)]\s+(.+)$/);
+      if (heading) {
+        flushList(); const h = document.createElement('h3'); formatInline(heading[1], h); bubble.appendChild(h);
+      } else if (bullet || numbered) {
+        const type = bullet ? 'ul' : 'ol';
+        if (!list || listType !== type) { flushList(); list = document.createElement(type); listType = type; bubble.appendChild(list); }
+        const li = document.createElement('li'); formatInline((bullet || numbered)[1], li); list.appendChild(li);
+      } else {
+        flushList(); const p = document.createElement('p'); if (line === '*') continue; formatInline(line, p); bubble.appendChild(p);
+      }
+    }
+    if (Array.isArray(sources) && sources.length) {
+      const wrap = document.createElement('div'); wrap.className = 'dp-chat-sources';
+      const title = document.createElement('div'); title.className = 'dp-chat-sources-title'; title.textContent = 'Related DailyPulse articles'; wrap.appendChild(title);
+      sources.slice(0, 5).forEach(source => {
+        const href = safeLink(source.url); if (!href) return;
+        const card = document.createElement('div'); card.className = 'dp-chat-source';
+        const a = document.createElement('a'); a.href = href; a.target = '_blank'; a.rel = 'noopener noreferrer'; a.textContent = source.title || 'Read article';
+        card.appendChild(a);
+        const meta = document.createElement('small'); meta.textContent = [source.category, source.date].filter(Boolean).join(' · '); if (meta.textContent) card.appendChild(meta);
+        wrap.appendChild(card);
+      });
+      if (wrap.children.length > 1) bubble.appendChild(wrap);
+    }
+    const row = document.createElement('div'); row.className = 'dp-chat-message assistant';
+    const avatar = document.createElement('div'); avatar.className = 'dp-chat-avatar'; avatar.textContent = '✦';
+    row.append(avatar, bubble);
+    chatBody.appendChild(row);
+
+    // Start the reading position at the beginning of the new assistant answer.
+    requestAnimationFrame(() => {
+      const bodyRect = chatBody.getBoundingClientRect();
+      const rowRect = row.getBoundingClientRect();
+      const targetTop = chatBody.scrollTop + rowRect.top - bodyRect.top;
+      chatBody.scrollTo({ top: Math.max(0, targetTop), behavior: 'auto' });
+    });
+  }
+
+  function addUserMessage(text) {
+    const row = document.createElement('div'); row.className = 'dp-chat-message user';
+    const bubble = document.createElement('div'); bubble.className = 'dp-chat-bubble'; bubble.textContent = text;
+    row.appendChild(bubble); chatBody.appendChild(row); chatBody.scrollTop = chatBody.scrollHeight;
+  }
+
+  async function ask(question) {
+    question = question.trim(); if (!question || send.disabled) return;
+    addUserMessage(question);
+    const priorHistory = history.slice(-8);
+    history.push({ role: 'user', content: question });
+    input.value = ''; send.disabled = true;
+    const typing = document.createElement('div'); typing.className = 'dp-chat-typing'; typing.textContent = 'DailyPulse Assistant is thinking…'; chatBody.appendChild(typing); chatBody.scrollTop = chatBody.scrollHeight;
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 60000);
+    try {
+      const response = await fetch(CHAT_API_URL, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: question, history: priorHistory }), signal: controller.signal
+      });
+      const data = await response.json().catch(() => ({}));
+      if (!response.ok) throw new Error(data.error || data.details || `Request failed (${response.status})`);
+      const answer = data.answer || 'I could not prepare an answer. Please try again.';
+      renderAnswer(answer, data.sources);
+      history.push({ role: 'assistant', content: answer });
+    } catch (error) {
+      const message = error.name === 'AbortError' ? 'The request took too long. Please try again.' : (error.message || 'Connection problem. Please try again.');
+      renderAnswer('Sorry, I could not complete that request. ' + message);
+    } finally {
+      clearTimeout(timeout); typing.remove(); send.disabled = false; input.focus();
+    }
+  }
+  form.addEventListener('submit', event => { event.preventDefault(); ask(input.value); });
+  document.querySelectorAll('.dp-chat-suggestion').forEach(button => button.addEventListener('click', () => ask(button.textContent.trim())));
+})();
+</script>
+
+</body></html>

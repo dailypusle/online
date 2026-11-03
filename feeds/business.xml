@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Binance’s net inflows turn positive at $2.3B as withdrawals expand</title>
+<link>https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals</link>
+<guid isPermaLink="false">05347205c9ae0ec9a310b7083850d917482c0b63040792ffe0b39a5250870fdb</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 11:32:02 +0000</pubDate>
+<description>Binance led exchanges in 24-hour net inflows, reversing Monday’s heavy outflows as it restored access to funds after its $6.3 billion hack.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GEN8GP66RSSXHPQAF0HADV/binance-searchlight.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GEN8GP66RSSXHPQAF0HADV/binance-searchlight.jpg" medium="image"/>
+</item>
+<item>
+<title>Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit</title>
+<link>https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit</link>
+<guid isPermaLink="false">c3b93de13efc116b31b14bfd2821b21b2ff09c98fe93041067f333a7bccdd01e</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 11:22:10 +0000</pubDate>
+<description>Blockstream CEO Adam Back said the sidechain's defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Blockstream-CEO-Adam-Back-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Blockstream-CEO-Adam-Back-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>France postpones 2027 budget vote, crypto exit-tax proposals scrapped</title>
 <link>https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax</link>
 <guid isPermaLink="false">7776fb33d80b16e345cd6946d51cd646a0360d3d071bd9a74671c06b50d23002</guid>
@@ -708,17 +730,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48NWDDYWBD7SNFGR28DNZC8/hi-how-to-migrate-crypto-from-an-exchange-to-okx.jpg" medium="image"/>
 </item>
 <item>
-<title>Bitcoin ETFs sink into October outflows with $643M exit after Binance hack</title>
-<link>https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows</link>
-<guid isPermaLink="false">801afcff19d4944da569ba3dd10d4846fdfffb35ffe21a763015d886f098a3c0</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 07:50:36 +0000</pubDate>
-<description>US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DFVVTB1BSHSCFQ2R7VR4PQ/hi-top-news-of-the-week-5-bitcoin.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DFVVTB1BSHSCFQ2R7VR4PQ/hi-top-news-of-the-week-5-bitcoin.jpg" medium="image"/>
-</item>
-<item>
 <title>Bitcoin ETF Investors Head for the Exits After Record Binance Hack</title>
 <link>https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack</link>
 <guid isPermaLink="false">55e05f0896bb6f3d8774a2559024f020215ba12461ebba179f6db28965b2abaa</guid>
@@ -1025,17 +1036,6 @@
 <description>An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Coinbase Swings to $719 Million Q3 Profit on Crypto Gains</title>
-<link>https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains</link>
-<guid isPermaLink="false">b3a8327630efbe9975b7e4cadbdfdf9fc7ad271ae50bcb556468cd34adcf3cc5</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 20:46:43 +0000</pubDate>
-<description>Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Galaxy Digital applies for OCC charter</title>

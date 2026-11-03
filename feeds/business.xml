@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Epidemic of Hacked Freezers Spreads Across Europe</title>
+<link>https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe</link>
+<guid isPermaLink="false">119c3e8d14a2cc640006ce4e502b600b013b69a737d09da0b26e91931546a0cd</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 17:04:46 +0000</pubDate>
+<description>A suspected hacking wave has pushed supermarket freezers into defrost mode across ten European countries, with temperatures reportedly hitting 50°C. Nobody knows who's behind it or why it spread.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/grocery-store-freezers-gID_4.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/grocery-store-freezers-gID_4.jpg" medium="image"/>
+</item>
+<item>
+<title>Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen</title>
+<link>https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen</link>
+<guid isPermaLink="false">a7c012ecf94aec72c23a438ca131730e32f06b81655acb5ef3003663ab66c489</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 16:47:01 +0000</pubDate>
+<description>Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E9GCA5SEXXY937BRRK6D7T/interview-markus-thielen-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E9GCA5SEXXY937BRRK6D7T/interview-markus-thielen-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Binance Says $6.34 Billion Hack Began With Fake Job Interview</title>
+<link>https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job</link>
+<guid isPermaLink="false">71e847d2cb914b1167dd57dbe16ac75cd551c051ef705bfdd08ae41f04b45758</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 16:44:20 +0000</pubDate>
+<description>Bitcoin Magazine Binance Says $6.34 Billion Hack Began With Fake Job Interview The $6.34 billion theft from Binance began with a fake job interview and ran for five months before a single coin moved, the exchange said Tuesday in its first public account of the Oct. 29 attack. Another initial incident report from Binance, released alongside a media briefing by co-CEO Richard Teng and chief security officer Jimmy Su, describes a campaign that combined a poisoned software download, a staged recruitment process, malware that evaded endpoint detection and an internal AI tool the attackers turned against the company’s own wallet engineers. Binance said it has frozen or intercepted about $2.85 billion of the stolen assets and replenished 98% of affected tokens from its own funds, with the balance being bought on the open market. “This wasn’t one mistake or one breach — it was a months-long campaign,” Teng wrote on X. “We’re publishing the full report because the lessons go far beyond Binance.” The FBI has attributed the attack to North Korea. Binance’s report cites that finding but stops short of its own attribution. Pyongyang rejected the claim Monday, with Kim Yo Jong, sister of leader Kim Jong Un, calling it a “grave political provocation” through state media. The Binance hack had five months of preparation According to Binance, the first foothold for this hack came in June. A wallet DevOps engineer searched for a popular AI coding tool and downloaded a tampered Homebrew installer. Binance’s security team caught the anomaly, replaced the device and rotated credentials, but the episode exposed the engineer’s role and the names of colleagues on the wallet infrastructure team. In September, a second engineer was approached on a legitimate job platform by someone posing as a project director. A video interview with a purported HR representative followed, with the interviewer sharing a personal social media account to build trust. A second interview with a supposed CEO ended with an “assignment”: a code repository the engineer was told to install on his work machine. The repository replaced a legitimate pyenv component with a malicious version and opened a channel to an attacker-controlled server. Binance said the zero-day malware was not flagged by its endpoint tools at the time. On Oct. 20, the attackers used that machine and an internal AI tool to reach two more wallet engineers, one of whom held a container deployment token. On Oct. 29, between 17:15 and 19:56 UTC, they logged into a third engineer’s computer, deployed a container with the stolen credentials and launched the drain. Binance said it blocked 57 other suspected North Korea-linked attempts this year using similar lures. Four hours to contain The money left fast. Between 20:05 and 20:09 UTC, five hot wallets sent 233.46 million XRP to an attacker address. Wallets on Solana and Optimism followed with about 970,500 SOL and 44.2 million OP. A Binance hot wallet then sent 18,270 BTC. The attack</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg" medium="image"/>
+</item>
+<item>
+<title>Binance traces $6.3B hack to fake job interviews, compromised AI tool</title>
+<link>https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack</link>
+<guid isPermaLink="false">68ac390a20d605bb5a872841f4ca4ff95bf3eec9c214400319b0b7a622bdf5a1</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 16:44:06 +0000</pubDate>
+<description>Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png" medium="image"/>
+</item>
+<item>
+<title>UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028</title>
+<link>https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028</link>
+<guid isPermaLink="false">95a045d2728747e879ed6ea0a542b10380daf240da2410df2953c89897ddbfbc</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 16:09:19 +0000</pubDate>
+<description>The National Cyber Security Centre said AI will expose security flaws "tolerated for far too long," and called time on "tech on the cheap."</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’</title>
 <link>https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock</link>
 <guid isPermaLink="false">e99cba00bdd1782b5896f079a6803f7360b1e52fa9991276caee32f6f110cfa4</guid>
@@ -697,17 +752,6 @@
 <media:content url="https://img.youtube.com/vi/7-coDE0Hf4c/hqdefault.jpg" medium="image"/>
 </item>
 <item>
-<title>Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking</title>
-<link>https://bitcoinmagazine.com/news/strategy-mstr-adds-811-bitcoin-strive-too</link>
-<guid isPermaLink="false">4faae8176420e04b98fce827f1b5f841494ee517c164b5c0617a93d08d583911</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 13:50:53 +0000</pubDate>
-<description>Bitcoin Magazine Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking Strategy bought another 811 bitcoin last week. The Saylor-led firm spent about $65.5 million at an average of $80,846 per coin between October 26 and November 1, according to its 8-K filing on Monday. That brings total holdings to 849,327 BTC, bought for roughly $64.1 billion at an average of $75,451. The money didn’t come from new preferred stock this time. Strategy sold about 1.18 million shares of MSTR common stock for roughly $164 million, sent $65.5 million into bitcoin, and parked the remaining $98.5 million in USD cash. It also spent around $208 million buying back about 2.1 million shares of its STRC preferred . Strategy spent much of the year leaning on preferred issuance to fund purchases, and the company is now using the buyback to tidy up its preferred stack while still adding coins. Saylor teased the purchase Sunday with his usual tracker chart and a line that made the rounds on X: “We found room for even more orange.” The buy landed a few days after Strategy reported its third-quarter results on Thursday. Net income hit $19.5 billion, up from $2.79 billion a year earlier, driven by a $20.9 billion operating gain tied to the bitcoin price rising during the quarter. That gain is a paper one under fair-value accounting, not cash. Saylor called it the start of the next bitcoin bull market and pointed to bitcoin trading about 21% above its 200-week moving average. The same release said CFO Andrew Kang will step down November 5, with COO Reza Virasteh taking over the role in January. Strategy shareholders also recently approved a proposal allowing four preferred stocks — STRF, STRC, STRK, and STRD — to accrue dividends daily, including weekends and holidays, with 99.3% of votes cast in favor. The change was intended to improve liquidity, reduce reinvestment delays, and increase price stability, while keeping dividend rates and total obligations unchanged. The new payment schedule remained subject to board approval and regulatory filings, with implementation expected to begin in November 2026 for STRC and January 2027 for the other preferred stocks. BREAKING: Public companies Strive and Strategy bought a combined 934 Bitcoin worth $72.6 million. Strategy: 810 BTC Strive: 124 BTC pic.twitter.com/ObXGCz7weH — Bitcoin Magazine (@BitcoinMagazine) November 2, 2026 Strive adds bitcoin as well Strive is still in the race for second place among public holders. The Matt Cole-run firm added 124 BTC between October 24 and 30 at about $80,526 each, lifting its stack to 43,124 BTC. That’s a smaller buy than its previous week, when it added more than 6,000 coins, but Cole has been consistent about his approach. He has said the company is buying “hand over fist” when prices dip, and he has framed the funding model around perpetual preferred equity as a way to avoid forced selling. Strive’s cash position slipped about $14 million to $490 million ov</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-43.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-43.jpg" medium="image"/>
-</item>
-<item>
 <title>Strategy spends triple its weekly Bitcoin outlay on STRC buybacks</title>
 <link>https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin</link>
 <guid isPermaLink="false">d084bbdef50b22aff241e4d41c83c98a2d5958c97cd9de36e72a0f2b0d325eec</guid>
@@ -774,17 +818,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1Z69CTQ1SFH9R33DZWPA6/fatf-rules.jpg" medium="image"/>
 </item>
 <item>
-<title>Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis</title>
-<link>https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis</link>
-<guid isPermaLink="false">dbf811265df4d3e8b2134fc98535ff6acbb33e229bcf51978a36753f70480044</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 12:40:45 +0000</pubDate>
-<description>Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DXS9W8ZYW0K2FAPP5WSEXQ/hi-hackers-fishing-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DXS9W8ZYW0K2FAPP5WSEXQ/hi-hackers-fishing-1.jpg" medium="image"/>
-</item>
-<item>
 <title>BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports</title>
 <link>https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports</link>
 <guid isPermaLink="false">eb9df210a992092721b2cb0b9545e4c55c3dd470eb26722e03f20b825d7cdf64</guid>
@@ -794,17 +827,6 @@
 <description>The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?</title>
-<link>https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern</link>
-<guid isPermaLink="false">b6cb586b116643852d273e03e5fc34e1a32c873c5c8238c8006bab2e1e369daf</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 11:19:18 +0000</pubDate>
-<description>Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DNNRNEZ70BJDEPEQ3YPXSJ/hi-report-on-bitcoin-market-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DNNRNEZ70BJDEPEQ3YPXSJ/hi-report-on-bitcoin-market-1.jpg" medium="image"/>
 </item>
 <item>
 <title>FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals</title>
@@ -1003,28 +1025,6 @@
 <description>André Cazotto took PicPay’s finance reins just months after it became the first Brazilian company to go public in the U.S. in four years.</description>
 <enclosure url="https://imgproxy.divecdn.com/GgDIrl5vhMdEG93IFLGOxcFO6MJDN7gLXJH78BqlEaM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaWNQYXlfYm9vdGguanBn.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/GgDIrl5vhMdEG93IFLGOxcFO6MJDN7gLXJH78BqlEaM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaWNQYXlfYm9vdGguanBn.webp" medium="image"/>
-</item>
-<item>
-<title>Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report</title>
-<link>https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report</link>
-<guid isPermaLink="false">cf03dc54b91123442a5ce2507ff61a2c6e1a35d201ca66c931923998867a498d</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 13:00:09 +0000</pubDate>
-<description>Israel's Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day</title>
-<link>https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day</link>
-<guid isPermaLink="false">7ce85fa662bf3df2d34c10d63130c4359ca0c8268b757f1837d7cbb99520c725</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 12:31:30 +0000</pubDate>
-<description>Just as Hyperliquid opened the door to a fully regulated perps offering inside the U.S., Binance suffered the biggest hack in crypto history.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>Galaxy Digital applies for OCC charter</title>

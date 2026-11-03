@@ -4,12 +4,23 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Convicted murderer who escaped prison captured</title>
+<link>https://abcnews.com/US/tennessee-escaped-murderer-caught-kansas-city/story?id=137815827</link>
+<guid isPermaLink="false">431f2cef78e6ea71c2093fa23870332b4c5848311db741c10e9c4780e32ce9b0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 03 Nov 2026 19:03:17 +0000</pubDate>
+<description>Tennessee escaped murderer Jacob Morley has been caught near Kansas City, Missouri.</description>
+<enclosure url="https://s.abcnews.com/images/US/jacob-morley-ht-jt-261103_1793729479268_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/jacob-morley-ht-jt-261103_1793729479268_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Election 2026 live updates: Americans cast their votes</title>
 <link>https://abcnews.com/Politics/live-updates/midterm-elections-live-updates?id=137782085</link>
 <guid isPermaLink="false">5ef8e278710b838550acd8983c641718423a25411923f3444581fac9fd0f71b7</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Tue, 03 Nov 2026 17:47:38 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 19:00:27 +0000</pubDate>
 <description>There are key House and Senate races that could determine control of Congress.</description>
 <enclosure url="https://s.abcnews.com/images/US/elxn-24-gty-gmh-261103_1793722858355_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/elxn-24-gty-gmh-261103_1793722858355_hpMain_16x9_1600.jpg" medium="image"/>
@@ -147,17 +158,6 @@
 <media:content url="https://s.abcnews.com/images/GMA/261103_gma_reeve_maine2_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump says US will end military aid to Israel by end of year</title>
-<link>https://abcnews.com/Politics/trump-us-end-military-aid-israel-end-year/story?id=137809564</link>
-<guid isPermaLink="false">257d68b1f736d42350121d1245841d96dc83955993816a6dddb58d61a1aa4de4</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 03 Nov 2026 15:55:11 +0000</pubDate>
-<description>Trump said he and Israeli Prime Minister Netanyahu "made a deal months ago."</description>
-<enclosure url="https://s.abcnews.com/images/US/donald-trump-9-rt-gmh-261101_1793572550631_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/donald-trump-9-rt-gmh-261101_1793572550631_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life</title>
 <link>https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson</link>
 <guid isPermaLink="false">0097fa0c9e309d94a4eeaeea4214561ac9a3ad0f208cd080561e0e5df2c63ed8</guid>
@@ -266,17 +266,6 @@
 <description>AI toys with built-in chatbots could expose children to psychological harms and inappropriate material, according to MPs and peers who are urging Amazon and eBay to stop selling them.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ebay-amazon_7395979.jpg?20261103170724" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ebay-amazon_7395979.jpg?20261103170724" medium="image"/>
-</item>
-<item>
-<title>MI5 escapes legal action despite providing false evidence to three courts</title>
-<link>https://news.sky.com/story/mi5-escapes-legal-action-despite-providing-false-evidence-to-three-courts-13607447</link>
-<guid isPermaLink="false">56e006a927937f4b222e67070b6de26d26dd6b7de330d9658389fa75d19c35ca</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Tue, 03 Nov 2026 15:10:00 +0000</pubDate>
-<description>MI5 and its director-general have avoided legal action after the Security Service "fell badly short" by providing false evidence to three courts.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-mi5-ai-sir-ken-mccallum_7375886.jpg?20261013131836" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-mi5-ai-sir-ken-mccallum_7375886.jpg?20261013131836" medium="image"/>
 </item>
 <item>
 <title>High-stakes midterms are test for future of Congress and Trump's presidency</title>
@@ -389,17 +378,6 @@
 <media:content url="https://s.france24.com/media/display/87057ba4-d779-11f1-a078-bf1914cabd52/w:1024/p:16x9/capture-07859cae.jpg" medium="image"/>
 </item>
 <item>
-<title>Californians vote on ballot initiative to impose one-time tax on billionaires</title>
-<link>https://www.france24.com/en/tv-shows/business/20261103-californians-vote-on-ballot-initiative-to-impose-one-time-tax-on-billionaires</link>
-<guid isPermaLink="false">26dcd70a0e650f5f3dce312bd1854a8e98c25e22040267d96e698967f8b944d1</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Tue, 03 Nov 2026 13:51:40 +0000</pubDate>
-<description>This Tuesday, Californians are voting on a landmark plan to impose a one-time tax on billionaires to fund the state's healthcare system. We take a closer look. Also on the show: global oil prices fell sharply on the eve of the US midterm elections. This came after Iran said it was holding intensive talks through mediators towards negotiating peace and signalled that it was ready to reopen the Strait of Hormuz if the US accepted its conditions. Both Brent and WTI fell by around 8 percent.</description>
-<enclosure url="https://s.france24.com/media/display/e86a7986-d78c-11f1-89d7-a575454bc579/w:1024/p:16x9/capture-bd8a0acf.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/e86a7986-d78c-11f1-89d7-a575454bc579/w:1024/p:16x9/capture-bd8a0acf.jpg" medium="image"/>
-</item>
-<item>
 <title>Australia's social media ban challenged by Reddit and rights group in court</title>
 <link>https://news.sky.com/story/reddit-and-rights-group-challenge-australias-under-16s-social-media-ban-in-court-13607383</link>
 <guid isPermaLink="false">26c7d0e1260400ef4107c8fa89cb80b37eae2389c1032a2825913b3b6e1be70f</guid>
@@ -494,9 +472,9 @@
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Tue, 03 Nov 2026 11:00:00 +0000</pubDate>
-<description>As polls close on Election Day and results start rolling in, these are some of the House races that will help explain how the midterms are unfolding. (Image credit: Ryan Murphy)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe2%2F4f%2Fb6eacfb74ef6baae4d33962f3a5c%2Fgettyimages-2301268276.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe2%2F4f%2Fb6eacfb74ef6baae4d33962f3a5c%2Fgettyimages-2301268276.jpg" medium="image"/>
+<description>As polls close on Election Day and results start rolling in, these are some of the House races that will help explain how the midterms are unfolding. (Image credit: Joshua Lott)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F24%2F2c858ccc49eb8663878b2a59d210%2Fgettyimages-2302902707.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F24%2F2c858ccc49eb8663878b2a59d210%2Fgettyimages-2302902707.jpg" medium="image"/>
 </item>
 <item>
 <title>Boy, 14, arrested after reports of Bradley Lowery taunt at football match</title>
@@ -532,17 +510,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1285x858+0+0/resize/1285x858!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F05%2Fe768bb574019b6c9fb2f141c7c45%2Fscreenshot-2026-10-27-132913.jpg" medium="image"/>
 </item>
 <item>
-<title>From 'model minority' to target, anti-Indian hate on the rise</title>
-<link>https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise</link>
-<guid isPermaLink="false">5a4ace441b557558b61fe8b4732c30ba821d0b8c388f5edb9b731fb0064eb8d6</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
-<description>A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S. (Image credit: Laura Bargfeld)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3942x2628+0+0/resize/3942x2628!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F5f%2F246b184240aa9244985d7f05de20%2Fap26288643348734.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3942x2628+0+0/resize/3942x2628!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F5f%2F246b184240aa9244985d7f05de20%2Fap26288643348734.jpg" medium="image"/>
-</item>
-<item>
 <title>How NPR makes race calls in the 2026 election</title>
 <link>https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026</link>
 <guid isPermaLink="false">d0322b6084571e69ed627d6e6749673b135314067b2db02fef11602280df79e3</guid>
@@ -554,15 +521,26 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4609x3076+0+0/resize/4609x3076!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2F60%2F83fa2c8f439dbd676d0e70e196ba%2Fgettyimages-2302885861.jpg" medium="image"/>
 </item>
 <item>
-<title>'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day</title>
-<link>https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump</link>
-<guid isPermaLink="false">4e7221a52d842c66240778a9f78dfc30ab439b7ec4877611098fa5a37479706f</guid>
+<title>From 'model minority' to target, anti-Indian hate on the rise</title>
+<link>https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise</link>
+<guid isPermaLink="false">5a4ace441b557558b61fe8b4732c30ba821d0b8c388f5edb9b731fb0064eb8d6</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
-<description>One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they're rating his presidency and deciding who to support when he's not on the ballot. (Image credit: Tara Anand for NPR)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1080x1080+0+0/resize/1080x1080!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fba%2F6feeba4c433ab796c270333e4aed%2F11-3-2026-swing-shift.png" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1080x1080+0+0/resize/1080x1080!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fba%2F6feeba4c433ab796c270333e4aed%2F11-3-2026-swing-shift.png" medium="image"/>
+<description>A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S. (Image credit: Laura Bargfeld)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3942x2628+0+0/resize/3942x2628!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F5f%2F246b184240aa9244985d7f05de20%2Fap26288643348734.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3942x2628+0+0/resize/3942x2628!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F5f%2F246b184240aa9244985d7f05de20%2Fap26288643348734.jpg" medium="image"/>
+</item>
+<item>
+<title>A new cold war: hackers target fridges across the globe</title>
+<link>https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges</link>
+<guid isPermaLink="false">c0a98d56e0414beea727cdef1eaf447677eb5b0e9a2ccb2d779c9c16f7c9d23a</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
+<description>NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption. (Image credit: Fred Tanneau)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F53%2Fb6db7c9b4e3eb5112551e057ae01%2Fgettyimages-2299339600.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F53%2Fb6db7c9b4e3eb5112551e057ae01%2Fgettyimages-2299339600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: 5 people at Chili's in North Carolina suffer burns after margarita mix-up</title>

@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation</title>
+<link>https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation</link>
+<guid isPermaLink="false">8c9ccd93c70a25450ece59196bc39222f6aeadfbd6debe451a7421eb1380d1c1</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 04:14:32 +0000</pubDate>
+<description>The Reserve Bank of Australia raised its benchmark rate to 4.85% on rising technology costs from AI investment and higher energy prices.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FS9RCYXTTNWDX94AF8DVDE/hi-australian-senators-pushing-for-country-to-become-the-next-crypto-hub.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FS9RCYXTTNWDX94AF8DVDE/hi-australian-senators-pushing-for-country-to-become-the-next-crypto-hub.jpg" medium="image"/>
+</item>
+<item>
+<title>‘Google Slides and PowerPoint Are Dead.’ Did AI Really Kill the Corporate Deck?</title>
+<link>https://www.entrepreneur.com/business-news/google-slides-and-powerpoint-are-dead-did-ai-really-kill-the-corporate-deck</link>
+<guid isPermaLink="false">33d3715186f929b5ab9c88aa8c464a097ec85b373b11aed266690def5dfc5ec5</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 04:00:00 +0000</pubDate>
+<description>Another casualty of AI might be the PowerPoint and Google Slide presentation. Many are now using coding to create decks.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ai-killing-coroporate-deck-1126_g2234633427.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ai-killing-coroporate-deck-1126_g2234633427.jpg" medium="image"/>
+</item>
+<item>
 <title>Binance begins second withdrawal phase, exchange outflows slow</title>
 <link>https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack</link>
 <guid isPermaLink="false">0edcc921aa6ed658fb435e1c7239d8bf80a51a98ff0f76698cf2a47e2d2422a5</guid>
@@ -24,6 +46,17 @@
 <description>South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FGGYW74TAX5AA8ACWCFSAT/cold-wallet.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FGGYW74TAX5AA8ACWCFSAT/cold-wallet.jpg" medium="image"/>
+</item>
+<item>
+<title>I Took Back My Team’s Decisions During a Crisis — and Forgot to Give Them Back. Here’s How to Delegate Responsibly.</title>
+<link>https://www.entrepreneur.com/building-a-business/i-took-back-my-teams-decisions-during-a-crisis-and-forgot-to-give-them-back-heres-how-to-delegate-responsibly</link>
+<guid isPermaLink="false">cbfd0e8309290a7a7f0c2bef1fe53dddee869ad69be2c13c1c0f8b4e11af7827</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 00:30:00 +0000</pubDate>
+<description>Pressure makes owners reclaim every hard call. Without an exit condition, that temporary grip becomes how the company decides.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/delegating-1026-g-2137508894.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/delegating-1026-g-2137508894.jpg" medium="image"/>
 </item>
 <item>
 <title>Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest</title>
@@ -389,17 +422,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Burger King’s Kids’ Meal Sales Are Up 40%. Here’s Why Kids Aren’t the Only Ones Ordering Them.</title>
-<link>https://www.entrepreneur.com/buying-a-franchise/burger-kings-kids-meal-sales-are-up-40-heres-why-kids-arent-the-only-ones-ordering-them</link>
-<guid isPermaLink="false">98167e02bb1339e88a83effc13ab9a6f91d4b9f06fa4c0d7abe0a51552158167</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
-<description>Sure, upgraded nuggets and an anime tie-in helped, but the company’s president sees another trend emerging.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/bk-kids-meal-dragon-ball-1026.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/bk-kids-meal-dragon-ball-1026.jpg" medium="image"/>
-</item>
-<item>
 <title>Binance Reopens Withdrawals as Hack Recovery Enters Second Week</title>
 <link>https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack</link>
 <guid isPermaLink="false">ce78eedfc5a36a983e384a3e35afe129cd0787b05b7ff44afdaf4fb482e11b80</guid>
@@ -431,17 +453,6 @@
 <description>▶ Bitcoin Magazine Adam Back: Pension Funds Are Bitcoin’s “Third Wave” of Adoption The first wave of Bitcoin adoption was individuals. The second was the ETFs. Adam Back, CEO &amp; Co-Founder of Blockstream, explains why the third wave of model portfolios, managed funds and pension funds is still largely to come, and how Swiss banks are getting ready for it. Chapters: 00:00 Why Blockstream Opened an Office in Lugano 01:20 Why Blockstream Started Offering Consulting 02:01 Swiss Banks Want Quantum-Safe Bitcoin Custody 03:04 Tokenized Money Market Funds vs. Stablecoins 04:13 Tokenized Shares on Liquid and Blockstream AMP 05:55 Where Institutions Still Get Stuck 07:00 Build In-House or Use a Custodian? 08:01 How Regulation Shapes Bitcoin Custody 10:01 Basel Rules and the Cost of Holding Bitcoin 10:40 The Three Waves of Bitcoin Adoption DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Adam Back: Pension Funds Are Bitcoin’s “Third Wave” of Adoption first appeared on Bitcoin Magazine and is written by Mark Mason .</description>
 <enclosure url="https://img.youtube.com/vi/7-coDE0Hf4c/hqdefault.jpg" type="image/jpeg"/>
 <media:content url="https://img.youtube.com/vi/7-coDE0Hf4c/hqdefault.jpg" medium="image"/>
-</item>
-<item>
-<title>Hackers Stole $6.3 Billion From Binance in the Biggest Crypto Heist Ever — Will Users Get Their Money Back?</title>
-<link>https://www.entrepreneur.com/business-news/hackers-stole-6-3-billion-from-binance-in-the-biggest-crypto-heist-ever-will-users-get-their-money-back</link>
-<guid isPermaLink="false">b729be102193a3185f070fb23ce2ae1c52b676f59d756884844c808c1efe3877</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 14:22:00 +0000</pubDate>
-<description>The FBI is publicly blaming North Korea's TraderTraitor unit for the security breach.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/crypto-hackers-binance-1126_g1875360842.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/crypto-hackers-binance-1126_g1875360842.jpg" medium="image"/>
 </item>
 <item>
 <title>Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking</title>
@@ -717,17 +728,6 @@
 <description>The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B7GCDKCRNR2Z23KSY172H6/hi-binance-unchained.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B7GCDKCRNR2Z23KSY172H6/hi-binance-unchained.jpg" medium="image"/>
-</item>
-<item>
-<title>FBI blames North Korea for record $6.3B Binance hack</title>
-<link>https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack</link>
-<guid isPermaLink="false">9769b05e601c07269829186fa729b0750f5376e3bdabc55d944ecb9528b95b48</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 01 Nov 2026 07:44:38 +0000</pubDate>
-<description>US agency seeks private-sector help to block further money-laundering of stolen digital assets.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History</title>

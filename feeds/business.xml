@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>ARK buys $17M in Coinbase, Circle shares while trimming Bullish</title>
+<link>https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish</link>
+<guid isPermaLink="false">ec8b3243d3e2d52c1ba640d726b66b0dd865ef3784e701ef9fcc5298ccbb374d</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 08:35:13 +0000</pubDate>
+<description>ARK Invest added Coinbase and Circle shares across two trading sessions while selling about $8 million in Bullish as crypto stocks declined.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G5EBKBSYS8ZPKKVS3JB9QS/cathie-wood2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G5EBKBSYS8ZPKKVS3JB9QS/cathie-wood2.jpg" medium="image"/>
+</item>
+<item>
+<title>Suspected EU crypto theft estimate rises to $133M: ZachXBT</title>
+<link>https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up</link>
+<guid isPermaLink="false">9b88357f9807c6f3c93d26a2be8ea5269e89e67dff6f0f11dc02bc8b3ccf181d</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 08:18:22 +0000</pubDate>
+<description>ZachXBT identified another $27 million in exchange withdrawals, some of which occurred after he first flagged the suspected crypto theft.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G79AN04CQ92B4R0XV30XJ8/hack-2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G79AN04CQ92B4R0XV30XJ8/hack-2.jpg" medium="image"/>
+</item>
+<item>
+<title>BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June</title>
+<link>https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june</link>
+<guid isPermaLink="false">d5d134a1557a15ab67c69159d26f336bde0d8e3b912b4d353fb6a07f8bf39811</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 07:49:51 +0000</pubDate>
+<description>BlackRock’s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Here’s what happened in crypto today</title>
 <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
 <guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
@@ -673,39 +706,6 @@
 <description>The central bank is surveying 31 financial institutions on how a major exchange shutdown, prolonged crypto downturn or losses at another firm could affect their operations.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59TMCWT4YS3BEJ97Y7B01HA/hi-crypto-on-corporate-balance-sheets-south-korea.jpg" medium="image"/>
-</item>
-<item>
-<title>THORChain halts swaps after block reorg bug, slowing Binance hackers</title>
-<link>https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers</link>
-<guid isPermaLink="false">856dfb36e8ce272e16c08832048d0da4141f6e6abcd8c64b9821524eab9b311b</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 01:51:48 +0000</pubDate>
-<description>THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-blockchain-ban.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-blockchain-ban.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance net outflows surge to $5.8B as withdrawals resume after record hack</title>
-<link>https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack</link>
-<guid isPermaLink="false">b764491fc0a2a677c8c2940723c0c28093eee4b8a8e497e6ec86c67ead0ed5e3</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 01 Nov 2026 23:59:27 +0000</pubDate>
-<description>The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg" medium="image"/>
-</item>
-<item>
-<title>THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest</title>
-<link>https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest</link>
-<guid isPermaLink="false">975c0e20ef186b078eaec47d32d74130c77ea56c755a35dd62fe029fe21d5898</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 01 Nov 2026 23:09:13 +0000</pubDate>
-<description>Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg" medium="image"/>
 </item>
 <item>
 <title>Bitcoin ETF Investors Head for the Exits After Record Binance Hack</title>

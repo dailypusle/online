@@ -4,6 +4,149 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>GhostBSD 26.2 takes the fright out of FreeBSD with a friendlier installer</title>
+<link>https://www.theregister.com/os-platforms/2026/11/03/ghostbsd-262-takes-the-fright-out-of-freebsd-with-a-friendlier-installer/5307228</link>
+<guid isPermaLink="false">decf744c57955c195f850c77cd508f3efcf8b7eae01b14fd589150ea09a54bd4</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 16:02:00 +0000</pubDate>
+<description>GhostBSD, the easiest-to-install flavor of FreeBSD for the daemon-curious desktop dabbler, is back with a fresh update. GhostBSD 26.2-R15.1p6 , to give it its slightly unwieldy full version number, is based on FreeBSD 15.1. It brings a new installer, full-disk encryption support, a smaller installation image, and fixes across its desktop tools. FreeBSD 15.1 was released back in June , and at the time of writing, it's the most recent point release of FreeBSD. The original plan was that FreeBSD 15.1 would include the option of installing KDE Plasma directly from the setup program, so that the OS would have a graphical desktop from its very first boot. However, this feature isn't ready just yet. That gap inspired Daemonarchy, which we covered late last month . But its Omarchy-derived, keyboard-driven tiling desktop can feel unfamiliar even to experienced Linux users accustomed to conventional desktops. GhostBSD has different goals. It brings Linux-like desktop convenience to FreeBSD: a live graphical environment to explore before installation, a graphical installer, and tools for managing software and updates. These conveniences are familiar to desktop Linux users, but a standard FreeBSD installation takes more work. Its text-mode installer leaves users to install and configure a graphical desktop themselves, if they want one. This is just how the BSD family does things, and most BSD users we've talked to regard it as standard operating procedure and see nothing wrong with it. For Linux users who are curious about how things are on the other side of the FOSS Unix fence, though, those extra steps can form formidable barriers. GhostBSD is an attempt to lay down a welcome mat. The standard edition of GhostBSD installs the MATE desktop, and the downloads page also offers a community-maintained version with Xfce instead. As the project said it would back in February, this release uses the XLibre fork of the X.org X11 server. That's one fewer desktop than when we last tried GhostBSD in August 2025 . That release also offered the Mac OS X-like Gershwin environment. There are practical hardware fixes too. The release notes list improvements for Intel AX200 Wi-Fi cards, open networks, password alerts, and non-ASCII network names, while USB HID support is enabled by default. Where has Gershwin gone? Gershwin remains in active development , so we asked project lead Joe Maloney why it wasn't included. "It has been difficult to find time to package for GhostBSD. It's the only distro I have ever packaged for," Maloney said. He added that rapid contributions from AppImage creator Simon Peter, known as probono, had made packaging increasingly difficult. He also pointed to the fact that GhostBSD project lead Eric Turgeon is developing his own environment too: the Mocka desktop . Mocka is still in its very early stages – alpha version 0.0.2 appeared early last month – but the plan is that when it's ready, it will become GhostBSD's default desktop. For now, the only a</description>
+<enclosure url="https://image.theregister.com/?imageId=5307264&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5307264&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Midterm elections 2026: all the news</title>
+<link>https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news</link>
+<guid isPermaLink="false">5fb7488de8910ebe9bc333c613d24b80345af58512ef064508b4f09ee6c170ff</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 15:58:39 +0000</pubDate>
+<description>The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there’s several topics impacting the tech industry that appear to be on voters’ minds. Among them are concerns about data centers, and whether voters will have to bear the burden of higher energy costs, AI safety, and the rapid expansion of surveillance technology through Flock. There’s also the question of how to tax billionaires’ wealth in California, a topic that has driven heavy tech spending and creative stock class structures meant to keep tech executives from fleeing the state should a ballot measure pass. The next Congress is likely to continue grappling with how to regulate AI, and stem the data center backlash, among other issues. How that conversation shapes up, and which tech CEOs are hauled to testify on Capitol Hill, will be shaped by the outcome of November 3rd. Prop 45 in California could be hiding a loophole for data centers Another election year, another tech company war room. Voters in Texas agree: They hate data centers Data center backlash is uniting America Republican politicians have embraced anti-Indian racism — and it’s costing them votes Meta made a deal to keep Mark Zuckerberg from leaving California over its billionaire tax. Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program Democrats think cracking down on AI could give them an edge Tech billionaires have reportedly donated over $340 million to fight a wealth tax in California. Elon Musk has donated over $276 million to Republican midterm efforts The midterms are going to be a data security nightmare Democrats preview how they’d go after the Ticketmaster settlement if they regain power AI backlash is coming for elections</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>What does the H+ symbol mean on your Samsung phone?</title>
+<link>https://www.engadget.com/2300406/what-does-h-plus-symbol-mean-samsung-phone</link>
+<guid isPermaLink="false">eb7b54d74d3a87733a43804e806338251ef85f261cd570c70ecdb9b8072005b5</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 15:45:00 +0000</pubDate>
+<description>The status bar of your smartphone is littered with arcane symbols that are mostly undecipherable. We all know what 4G and 5G are, so what is H+?</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-does-the-h-symbol-mean-on-your-samsung-phone/l-intro-1792776714.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-does-the-h-symbol-mean-on-your-samsung-phone/l-intro-1792776714.jpg" medium="image"/>
+</item>
+<item>
+<title>Freezers of UK meat suppliers heat up after cyber-attacks in Europe</title>
+<link>https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks</link>
+<guid isPermaLink="false">e21111a5b1d5b415e35f43e467f25e89bbd5520e321e03e3a8c1770498f888a0</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 15:43:14 +0000</pubDate>
+<description>Cybersecurity experts say incidents had minimal effect but may represent the ‘foothills’ of a wider threat Meat suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK’s National Cyber Security Centre said it was working with the affected companies but the national impact was minimal. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/e064a29c22199860beb7b0ec6295bac52120a126/82_0_4972_3978/master/4972.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e701f604320794a3478c17596495aaee" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/e064a29c22199860beb7b0ec6295bac52120a126/82_0_4972_3978/master/4972.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e701f604320794a3478c17596495aaee" medium="image"/>
+</item>
+<item>
+<title>ShinyHunters hit 850k alumni, donors, students, and fam in last year's Harvard University raid</title>
+<link>https://www.theregister.com/cyber-crime/2026/11/03/shinyhunters-hit-850k-alumni-donors-students-and-fam-in-last-years-harvard-university-raid/5307272</link>
+<guid isPermaLink="false">e43265ba0fff966bf8f4247951ce4ccba1095ce590ab9c1d38409e24f53cd412</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 15:38:55 +0000</pubDate>
+<description>A phishing attack on Harvard University last year netted the details of more than 850,000 individuals, including students, alumni, parents and family members, faculty members, and donors, according to data breach service Have I Been Pwned (HIBP). The Ivy League institution first confirmed the attack, later claimed by ShinyHunters, in November 2025, although HIBP gave the first indication about how many people may have been affected by the breach for the first time today. Run by venerable infoseccer Troy Hunt, HIBP ingested all the files and revealed that the types of data stolen from the university extended beyond the personal and donation information it referenced in its initial disclosure. According to HIBP, the 850,000+ figure pertains to unique email addresses found in the data dump. The following data points may not have been collected about each and every individual, but are included in the stolen files: Names Dates of birth Places of birth Ethnicities Genders Marital statuses Occupations Job titles Email addresses Physical addresses Phone numbers Salutations Social media profiles Citizenship statuses Education levels Family members’ names Employers Charitable donations Harvard did not immediately respond to our requests for more information. Its disclosure at the time described the attack as an instance of "phone-based phishing" that targeted its Alumni Affairs and Development department, leading to unauthorized access to its systems. It did not specify the attacker by name, although ShinyHunters claimed responsibility for the intrusion on the same day it listed the University of Pennsylvania on its leak site. The group claimed to have stolen more than 1 million records from Harvard and 1.2 million from Penn. In Penn's case, HIBP pegged the total number of affected individuals at around 623,800, based on unique email addresses, although additional data types such as donations, personally identifiable information, religions, and more were affected. ShinyHunters' raid on Harvard systems came around a month after the university probed a separate attack by Cl0p , which at the time was on a tear exploiting a zero-day in Oracle’s E-Business Suite. The impact from that attack was limited to a small amount of data at a small administrative unit, however. Earlier this year, Harvard was also affected by ShinyHunters for the second time in the space of a few months after the cybercriminals attacked Instructure, the EdTech vendor behind learning platform Canvas. The university pulled its Canvas site offline while Instructure handled the cleanup, although it never officially commented on whether any data was compromised as a result. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5307289&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5307289&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Apple is all in on AI — its own and everyone else&amp;#8217;s</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</link>
+<guid isPermaLink="false">03ad66ba1fba6125878e6a093a05fc33d751505be625b89cc652a1123e87397c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 15:24:51 +0000</pubDate>
+<description>Apple CEO John Ternus. | Photo: Bloomberg via Getty Images Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a year earlier to a September quarter record of $57.6 billion while Mac revenue climbed 24% to $10.8 billion, its highest level in four years. Shares nevertheless fell in premarket trading Tuesday after Apple warned that rising memory costs would squeeze its profit margins in the holiday quarter. … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301906266.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301906266.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>GTA VI&amp;#8217;s download will need up to 212GB of hard drive space</title>
+<link>https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games</link>
+<guid isPermaLink="false">38c6410e3a9bb047bc2725f3085be17cd1c8caee1db4d959c66b8d9288529a96</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 15:15:00 +0000</pubDate>
+<description>You're going to need a lot of extra storage space on your console if you're planning to play Grand Theft Auto VI later this month. Rockstar Games confirmed on Tuesday that the pre-load file will require up to 212GB "depending on your device." Rockstar says you can start pre-loading the game on the PlayStation 5 on Tuesday, November 10th at midnight in your local time zone, while users on Xbox Series X | S devices can start pre-loading on November 10th at 12AM GMT. The company says to "make sure you've got ample space to begin pre-loading as soon as possible." Rockstar also posted a support page with more information about pre-loading the ga … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The Elder Scrolls VI officially has a name: Sentinel</title>
+<link>https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement</link>
+<guid isPermaLink="false">c8c496e62a7a78d43af5f1868327bef0872a6d58caa85a32497d9a6c829b63fb</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 15:07:39 +0000</pubDate>
+<description>Bethesda is officially confirming today that the next Elder Scrolls game will be called The Elder Scrolls VI Sentinel . The confirmation came in a less than 10-minute video celebrating 40 years of Bethesda game studios. It's been more than eight years since Bethesda officially announced the existence of the sixth game in its Elder Scrolls series, and studio chief Todd Howard made the announcement today and called it the "perfect time" to fully name the game. Bethesda isn't sharing any more details on The Elder Scrolls VI Sentinel today, though. The Xbox Wire press release on the name is literally just a picture of the logo. I reported in … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chrome_eg3cbwE9Id.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chrome_eg3cbwE9Id.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>OpenAI is quietly renaming data centers ‘compute campuses’</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses</link>
+<guid isPermaLink="false">e2d2bf508ced1caa0845b33b2a36ff8cc482ec1f2a1c150537f4c9fb8001fe45</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 15:00:44 +0000</pubDate>
+<description>The Stargate AI data center “compute campus” in Abilene, Texas. | Photo: Bloomberg via Getty Images People hate data centers . They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition . But what about "compute campuses"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing political backlash that threatens to derail the infrastructure fueling the AI boom. OpenAI debuted the new terminology on Monday in an announcement launching its new "Grid Protectors Program." The initiative, starting with an upcoming site in Effingham County, Georgia, ai … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2236733575.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2236733575.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Pokémon bakeoff reveals best JavaScript frameworks for AI</title>
+<link>https://www.theregister.com/devops/2026/11/03/pokemon-bakeoff-reveals-best-javascript-frameworks-for-ai/5307249</link>
+<guid isPermaLink="false">3c903d1064258eeee480b38f62c46b9359fb02b2902616f04ead0ca576a746ae</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:51:35 +0000</pubDate>
+<description>Most JavaScript programmers default to their ride-or-die frameworks, but such loyalties can hinder them when they task AI agents with doing their dirty work. Human-friendly tools aren't necessarily the most effective ones for the model-powered minions. "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based,” wrote Seattle-based Nolan Lawson , currently a developer at AI security firm Socket . That’s an understatement; the JavaScript wars have been well underway for over a decade now, with each new framework promising to cure the woes of last year’s release. Not wanting these vibey biases to seep into the realm of AI, Lawson created a benchmark to compare how different JavaScript frameworks perform under the same agentic model. He subsequently ran the test on 12 JavaScript frameworks, publishing the results in a post that compared each framework in terms of build cost, maintainability, and end-user performance of their agent-built apps. The results are illuminating. In general, agents tend to work more efficiently with server-centric frameworks than with client-heavy “Single-Page App” (SPA) frameworks (which should tickle for React haters ). But the biggest take-away should be less controversial: agents best utilize those frameworks that favor convention, API stability, and concision. How to compare JavaScript frameworks For the experiment, Lawson wrote a set of instructions for a Claude Code agent to build a basic Pokémon web application using the PokéAPI . The model used the identical setup on 12 different frameworks and JavaScript stacks: Angular, Astro, Gracile with Lit, Hono with htmx, vanilla JavaScript with Vite, Next.js, Nuxt, Qwik, React Router, TanStack Start, SolidStart, and SvelteKit. Lawson evaluated each stack across five independent sandbox runs; the repeated iterations smoothed the variance in the model’s performance. To verify the resulting app met the specs, Lawson deployed a custom automated test suite that queried the browser's accessibility tree to ensure interactive elements like buttons and inputs weren’t faked – a shortcut LLMs occasionally take. Lawson also used Google Lighthouse to measure transfer size and runtime performance. If the frameworks specified official MCP servers, Claude plug-ins, and agent-skill files, Lawson provided them as resources to the agents (though they weren’t always consulted). Otherwise, he did not mandate any specific architecture for rendering the app. Comparing 12 JavaScript frameworks The differences between the most cost-effective builds and the most expensive ones are substantial, to say the least, with the best lapping the efforts of the stragglers. If you want to build a Pokéworld cost-effectively, the strongest bet is on Hono paired with htmx . This tag-team of technologies had the most economical run, with a median cost of $2.67 per Pokéapp. Perhaps this is not surprising, given that the duo runs entirely on the server, thereby</description>
+<enclosure url="https://image.theregister.com/?imageId=259044&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=259044&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Binance battles to save its brand after record $6.3bn crypto hack</title>
+<link>https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack</link>
+<guid isPermaLink="false">b939f5f945cb8904d89f702c89a2f000e6db2b6467efb4810c5259d0d5e3b9cf</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:45:30 +0000</pubDate>
+<description>World’s largest crypto exchange faces fallout from angry customers, and Lula wins with WhatsApp This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here This week in tech, we’re discussing the fallout from the multibillion-dollar hack of Binance and the significance of Lula’s political mobilization on WhatsApp . And if you’ll be at Web Summit in Lisbon next week, drop me a line! I’ll be there moderating panels on open-source AI and human agency in the age of AI agents. Tell us: have you been affected by the Binance hack? Polymarket temporarily suspends trading on international platform due to security incident How crypto hacking funds isolated North Korea’s nuclear programme Ghost in the machine: how AI is haunting the search for the supernatural Computerized clairvoyance: psychics push back against AI-generated readings The staggering $446m Elon Musk has spent on the US midterms – visualized Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms How tech became the villain of the US midterms The ultra-rich are spending one million dollars a day fighting California’s proposed billionaire tax Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/5a2878d35143dc13d3a8fd841eed958d041cea3c/204_0_3267_2613/master/3267.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af5870859f13f2f1c98bf372a876d15" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/5a2878d35143dc13d3a8fd841eed958d041cea3c/204_0_3267_2613/master/3267.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0af5870859f13f2f1c98bf372a876d15" medium="image"/>
+</item>
+<item>
+<title>What's the meaning of the "C" on your USB-C ports?</title>
+<link>https://www.engadget.com/2303753/usb-c-port-letter-c-meaning</link>
+<guid isPermaLink="false">33f4920222e6e405561556b41b6d8415425f139434a5a42a342caebea647caac</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:45:00 +0000</pubDate>
+<description>USB Type-C cables are everywhere, especially now that Apple has gotten onboard with the port. But does the "C" in USB-C mean something in particular?</description>
+<enclosure url="https://www.engadget.com/img/gallery/whats-the-meaning-of-the-c-on-your-usb-c-ports/l-intro-1793628506.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/whats-the-meaning-of-the-c-on-your-usb-c-ports/l-intro-1793628506.jpg" medium="image"/>
+</item>
+<item>
+<title>NHS counts Palantir benefits at trusts that say they're not using it</title>
+<link>https://www.theregister.com/public-sector/2026/11/03/nhs-counts-palantir-benefits-at-trusts-that-say-theyre-not-using-it/5307222</link>
+<guid isPermaLink="false">5154129c127d0800323080b224d115c46150f068b4547ce9e34e680340a04167</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:32:46 +0000</pubDate>
+<description>Twenty-nine NHS trusts listed as benefiting from Palantir's Federated Data Platform (FDP) said in Freedom of Information responses that they were not using it, according to health worker campaign group Medact. That represents about 21 percent of the 137 trusts NHS England lists as "realising benefits" as ministers weigh whether to continue the contract. The government must decide in December whether to continue the £330 million agreement with a Palantir-led consortium supplying the platform. Medact, which is campaigning against the deal, collected the responses to scrutinize the government's case for retaining Palantir. The relationship between the US tech biz and the NHS began during the pandemic with contracts worth £60 million awarded without competition. NHS England awarded the FDP contract in November 2023. It says the platform brings together operational data held in separate systems to help staff work more efficiently. NHS England's September figures list 142 trusts as live on the platform - 137 of which it claims are benefiting. Among the disputed entries, NHS England cites University Hospitals of North Midlands NHS Trust as receiving benefits from the platform, but in response to an FoI request in July, the trust said: "FDP is not live. We do not intend to roll it out in the future. A variety of factors prevent roll out, but primarily it does not appear to provide functionality over and above what we have already." Meanwhile, a response from Nottingham University Hospitals said "no implementation timeline has been agreed," according to The Guardian . The Register asked NHS England to explain the discrepancy. An NHS spokesperson said: "The NHS Federated Data Platform is universally available for all NHS trusts and integrated care boards across England, with local NHS organisations able to select individual tools depending on their needs. "137 NHS trusts have now reported benefits from the wide range of tools available on the platform – helping staff join-up and improve care for patients, and work more efficiently." Palantir maintains its software is playing an important role in improving patient care and helping to deliver 100,000 additional operations, a 12 percent reduction in discharge delays and the removal of 675,000 patients from waiting lists. In July, the UK's statistical regulator told NHS England to ensure greater accuracy in quoting figures following a row over data used to promote the purported benefits of the FDP. Dame Chi Onwurah, the chair of the House of Commons Science and Technology Committee, has given the government until today to clarify its response to questions over whether NHS England has any exit plans should it decide to end the Palantir contract in February. James Frith, a junior minister in the Department of Health and Social Care, wrote [PDF] to the Committee in October explaining that the contract has "measures built in to facilitate exit and transition including clear intellectual property rights in NHS buil</description>
+<enclosure url="https://image.theregister.com/?imageId=5238831&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5238831&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Samsung's Galaxy Ring gets FDA approval for advanced sleep apnea detection</title>
 <link>https://www.engadget.com/2305182/samsung-galaxy-ring-gets-fda-approval-for-advanced-sleep-apnea-detection</link>
 <guid isPermaLink="false">d5946b8fe09d343352e2f813e27dcc0094d2dc00bbade1a0e7f132ddd264d279</guid>
@@ -15,6 +158,28 @@
 <media:content url="https://www.engadget.com/img/gallery/samsungs-galaxy-ring-gets-fda-approval-for-advanced-sleep-apnea-detection/l-intro-1793715607.jpg" medium="image"/>
 </item>
 <item>
+<title>A truck-sized NASA space telescope is about to crash to Earth</title>
+<link>https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth</link>
+<guid isPermaLink="false">2451814cc9423add84a175204d984fa6a584ccfa9c03320f14dd895e9af3b656</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:17:55 +0000</pubDate>
+<description>Almost 22 years after it was launched, NASA's Swift Observatory is now about to fall back to Earth on Wednesday after attempts to push it back into a higher orbit failed. NASA announced that the aging space telescope is anticipated to re-enter Earth's atmosphere at approximately 3:30AM ET (give or take 11 hours), and that it expects most of the spacecraft to burn up, but some components will likely survive re-entry. The observatory weighs around 3,200 pounds and measures in at 5.6 meters (18.4 feet) high and 5.4 meters (17.7 feet) wide, though much of the latter includes its deployable solar arrays. The risk of surviving components causing … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NASA-Swift-rescue-mission-failure.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NASA-Swift-rescue-mission-failure.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>This clever banking scam keeps phishing by faking its own demise – how it works</title>
+<link>https://www.zdnet.com/tech/bank-phishing-scam-kela</link>
+<guid isPermaLink="false">1e975cf6badb90cdc0c8902a4500e9fe8f421e46c7bb898103c3897ab0ef70eb</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:15:36 +0000</pubDate>
+<description>You won’t see the ‘suspended’ sign because it’s not meant for you.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2210544722.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2210544722.jpg" medium="image"/>
+</item>
+<item>
 <title>5 iPhone features you should be using after updating to iOS 27</title>
 <link>https://www.engadget.com/2303526/iphones-ios-27-features-you-should-use</link>
 <guid isPermaLink="false">f5b6253c4dce1f2d9a6ad26e8767e45763d527345e97c0798d9baddda02c8455</guid>
@@ -24,6 +189,61 @@
 <description>iOS 27 brings several improvements to the iPhone, from useful quality-of-life changes to a range of new Apple Intelligence-powered features.</description>
 <enclosure url="https://www.engadget.com/img/gallery/5-iphone-features-you-should-be-using-after-updating-to-ios-27/l-intro-1793592703.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/5-iphone-features-you-should-be-using-after-updating-to-ios-27/l-intro-1793592703.jpg" medium="image"/>
+</item>
+<item>
+<title>Beyond screens: Mercedes-Benz's new holographic heads-up display</title>
+<link>https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display</link>
+<guid isPermaLink="false">4bb60c00563ae25042e6873f2f590f931474fb50a259d1d7c17e2d9ea0d057df</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:00:07 +0000</pubDate>
+<description>Do screens in cars represent luxury? Judging by the latest car interiors, the answer would seem to be an emphatic “yes.” Screens aren't just getting larger; they are multiplying across the dashboard and morphing into different forms and concepts. Indeed, an interior’s screens are a pretty good indicator of what brand made the car—or at least how much the owner paid for it. But is this actually what customers want ? Are more screens really better? And even if they are, luxury car features inevitably trickle down to cheaper, more mainstream offerings, and screens can only get so big. That leaves luxury automakers with another question to answer: “What’s next?” Mercedes-Benz is working on a new display alternative that could provide an answer. For now, it's known as the holographic display. Forget the images from Star Trek and Star Wars that just popped into your head, though. It's effectively a more advanced form of heads-up display, or HUD. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Peak Design expands its collection of wireless charging accessories</title>
+<link>https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi</link>
+<guid isPermaLink="false">d8fb28d63e4e8aee1c39e6f19088acfc0a13cf1513f6c147991436e3dc71a5d5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
+<description>Peak Design, best known for its backpacks and travel bags packed full of useful features, announced it's expanding its collection of chargers and charging accessories with new devices that focus on pairing premium materials with innovative functionality. "Somewhere along the way, we accepted that the electronics we use every day should be cheap, disposable and just good enough," says Peter Dering, Peak Design's CEO and founder. "We didn't set out to make another collection of chargers and cables. We set out to show just how much better these everyday products could be." The $99.95 Peak Design Wireless Kickstand Travel Battery , available in … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pd4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pd4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Bambu&amp;#8217;s nine-nozzle H3C foretells the future of 3D printing</title>
+<link>https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend</link>
+<guid isPermaLink="false">df88ed1b1ee1eeaf376e65b2c12f98defbb9380b2601beea6cb6ce4b24acb12c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
+<description>The Bambu H3C. | Image: Bambu Lab Three years ago, I told you how home 3D printers had evolved for speed , producing parts in minutes that used to take hours or days. Now, the next evolution is here: printers that can swap between materials on the fly, mix different colors to produce nearly the full rainbow, mix soft and hard materials, and even mix different sizes of nozzle and different diameters of filament so you can switch between high speed and fine detail in a single print. Today, Bambu Lab is announcing its most advanced 3D printer yet, the $2,499 H3C , which can do all of that mixing goodness - by loading nine different rolls of filament into nine different print hea … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-h3c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-h3c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The 2026 iPad Mini is a terrific tiny tablet — for a big price</title>
+<link>https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review</link>
+<guid isPermaLink="false">20ae367a190a38463ed7d2958a92bff659f903614171ae302e0b218ef141bd20</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
+<description>The iPad Mini sometimes feels like a trap. It is, in some ways and for some people, the perfect iPad: meaningfully larger than my phone's screen but still small and light enough to use for reading in bed or gaming on the subway. As most of the rest of the iPad line has tilted ever closer to laptop territory, the Mini might be the most iPad-y iPad left. I've taken a Mini everywhere with me since the very first one. But Apple only updates the Mini sporadically, and those updates sometimes feel like someone inside Apple Park picked its specs by closing their eyes and clicking randomly in an Excel sheet. The Mini is always a little underpowered, … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’</title>
+<link>https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music</link>
+<guid isPermaLink="false">1ca107908546abd60b70ba69a0b63e5fc19ae1022a6330e5fda875a1166c0904</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
+<description>Adobe is teaming up with Universal Music Group and Warner Music Group to add a library of licensed music clips to the Premiere mobile video editing app. No specific musicians have been announced with this partnership, but Adobe said it will include "popular songs" from "leading artists," and enable Premiere mobile users to quickly jump on "the latest trend." "By bringing licensed music from UMG artists into Adobe Premiere mobile, we're giving creators new ways to build their stories around the songs they love for the first time, while helping our artists and songwriters reach new audiences," Universal Music Group's Bryan Stone said in the a … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Premiere-mobile-UMG-WMG.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Premiere-mobile-UMG-WMG.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>iPad mini (A20 Pro) review: Apple's tiny tablet gets a big update</title>
@@ -68,17 +288,6 @@
 <description>Britain's AI infrastructure boom could soon have an unlikely new home: Drax Power Station, where the operator of the country's largest biomass power plant has unveiled plans for a £20 billion datacenter development capable of consuming more than a gigawatt of power. Drax announced on Tuesday that it has teamed up with investment giant Brookfield and its UK-based AI infrastructure business Radiant to build the facility at its North Yorkshire site. The money would come through a joint venture between Brookfield and Qatar's Qai, although the £20 billion headline figure is more ambition than actual money on the table at this stage. The companies plan to start relatively small, at least by the standards of the AI industry's apparently bottomless appetite for electricity. The first phase would deliver up to 100MW of capacity by early 2028, backed by a proposed £2.5 billion investment. A second phase could add another 500MW between 2028 and 2031, with further expansion taking the site beyond 1GW after that. However, a few hurdles remain between today's announcement and a functioning AI megafactory. According to Drax's regulatory filing , the first phase still requires planning permission, regulatory and network approvals, commercial agreements, and final investment decisions. It also needs a tenant, which is a fairly important detail when you're proposing to spend billions on somewhere to house other people's computers. Drax reckons its existing infrastructure gives it an advantage over developers struggling to secure electricity connections. The 1,000-acre site already has access to 4GW of grid capacity, 2.6GW of active generation and cooling infrastructure, along with proximity to the UK's fiber network. The UK government estimated last week that all of Britain's existing data centers use around 2GW of electricity. Drax's proposed development alone could eventually need more than 1GW, although how much power it actually consumes will depend on how fully it's used. The first phase would draw electricity from the grid, but Drax wants to supply up to 500MW directly from its existing generating capacity under a long-term power purchase agreement, potentially allowing AI servers to run on electricity produced by burning imported wood pellets. That brings another complication. Drax signed a government-backed Contract for Difference agreement last year covering biomass generation between April 2027 and March 2031. The agreement allows the company to request permission to redirect up to 500MW of capacity towards a datacenter, but ministers and the Low Carbon Contracts Company would have to agree, taking into account consumer value, energy security, and sustainability. The announcement also arrives as enthusiasm for enormous AI server farms is proving rather less universal outside government and industry circles. Opposition to data center developments has been growing on both sides of the Atlantic, with communities raising concerns about electricity bills, wat</description>
 <enclosure url="https://image.theregister.com/?imageId=261387&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=261387&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Apple is restricting dating apps and romanceable chatbots to over 18s</title>
-<link>https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion</link>
-<guid isPermaLink="false">b8658a5a7c20c9d2ee8b0097d1cf80a5e4c99e6d79a93cba1564ba94be22b016</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 13:22:38 +0000</pubDate>
-<description>Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow users to share their real-world location with others, or include features that enable dating, relationship, or sexual behaviour between real people or virtual companions. Apps that include dating and relationships features will receive a minimum age rating of 18, while those with location sharing will see an impact to their minimum age rating in some regions, depend … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925968/acastro_STK045_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925968/acastro_STK045_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Virgin Media O2 outlines plans to lay off thousands as revenue falls</title>
@@ -145,28 +354,6 @@
 <description>Apple says it sold more Macs in fiscal 2026 than in any previous year, but soaring memory prices are threatening to spoil the Cupertino-based gadget maker's record-breaking run. The warning came during Apple's fiscal fourth-quarter earnings call on Monday, the first since John Ternus took over as CEO . "What we're seeing with memory pricing right now is unprecedented," Ternus told analysts. Apple has already raised prices across much of its hardware lineup, including Macs and iPads in June and iPhones in September. Those increases, along with existing inventories and cheaper components elsewhere, have softened the blow. Unfortunately for Apple, memory prices haven't finished climbing. "For the December quarter, we expect even higher memory costs," Ternus said, adding that Apple expects to pay more for memory beyond the end of the year. Mac buyers haven't been deterred so far. Apple pulled in $10.8 billion from Macs in the September quarter, up 24 percent year-on-year, following $10.35 billion in the June quarter, up nearly 29 percent year-on-year. The MacBook Neo and MacBook Pro accounted for much of the latest growth. "We have never sold more Macs in a fiscal year than we did this time," Ternus said. Whether Apple can keep enough of them on shelves is another matter. COO Sabih Khan said the company had already experienced supply constraints across iPhone, Mac, and iPad during the September quarter, largely because of limited availability of advanced chipmaking capacity. Now memory is taking over as the chief headache. "For the December quarter, we expect constraints on Mac and iPad, primarily driven by memory, as demand has been higher than what we expected," Khan said. Apple isn't sitting idle. Ternus revealed that its manufacturing purchase obligations jumped by $33 billion between June and September as it bids to secure supplies, although he offered no indication of when the memory crunch might ease. Higher memory costs are also squeezing Apple's margins. CFO Kevan Parekh said gross margin fell by roughly one percentage point between the June and September quarters, excluding tariff effects, entirely because of memory costs. The damage would have been worse without existing inventory, cheaper non-memory components, and those price hikes. Apple expects its gross margin to fall from 47.9 percent in the September quarter to between 45 and 46 percent in December, primarily because of higher memory costs. Costs associated with rolling out Siri AI will also weigh on the figure. Parekh said Apple had "reluctantly" raised hardware prices, but supply constraints made it too early to assess how customers were responding. Meanwhile, Ternus is keen to sell customers on the Mac as an AI machine, particularly for running models locally. "Mac mini and Mac Studio in particular are pushing the boundaries of local private AI," he said, pointing to workloads that previously would have been difficult to run on desktop hardware. Apple has also refreshed its Mac l</description>
 <enclosure url="https://image.theregister.com/?imageId=5253634&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5253634&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Redmagic upgrades its liquid-cooled gaming phone with extra RGBs</title>
-<link>https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera</link>
-<guid isPermaLink="false">904e2adcd69adcf919283b81104e9b7cd2f7262b98bd5a07f19c2611c492a8f0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-<description>The circular liquid-cooling system now features its own RGB lights. | Photo: Dominic Preston / The Verge After introducing true liquid cooling to its gaming phones last year, Redmagic is upping the ante in its 12 Pro by building RGB lights into the transparent cooling loop, too. And they work! Sort of. The lights do turn on, and they can be set to glow in set patterns, activate for specific apps, or trigger for notifications and calls. The problem is that like last year's 11 Pro , the cooling system itself uses fluorescent blue liquid, which the lights have to work against. Blue or white lighting just makes it look more blue, green turns out turquoise, and red or orange lights mostly produce colored bubbles swimming in a blue tide. The liquid- … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/redmagic-12-pro-3.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/redmagic-12-pro-3.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Rivian spinoff Also wants to reinvent the wheel — but first, it has to ship</title>
-<link>https://www.theverge.com/transportation/1024747/rivian-spinoff-also-chris-yu-interview-ebike-production-ramp</link>
-<guid isPermaLink="false">187c050f7f7a6de6c71ca913981f67b99cec19b6cc22b9d26d613badc472ae08</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-<description>Chris Yu, president of Also, stands behind the TM-B electric bike at the company's headquarters in Palo Alto, California, in October 2025. | Photo: Jason Henry / Bloomberg via Getty Images When Rivian quietly spun off its micromobility brand, Also, a lot of observers wondered if the luxury EV maker had bitten off more than it can chew. Chris Yu insists that's not the case. Yu, a Stanford aeronautics PhD and former CTO at Specialized, runs the startup as an independent business that counts Rivian as a minority shareholder. Under his lead, Also rolled out the TM-B - a quirky, modular e-bike with a raft of unique features, including a swappable top frame, USB-C chargeable battery, a built-in screen, a series hybrid pedal-by-wire system, and proprietary "Dream Ride" software. There's also the TM-Q, an electric four-wheeler aimed … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2242247571.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2242247571.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen</title>
@@ -257,13 +444,13 @@
 <media:content url="https://i.guim.co.uk/img/media/68b88374b72a2443633206775ee7314766977db1/643_0_5168_4135/master/5168.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbdfab67a5440a4ddb85e3ba4454e58e" medium="image"/>
 </item>
 <item>
-<title>Everyone has the file. Nobody has the right version</title>
-<link>https://www.theregister.com/storage/2026/11/03/sponsored-everyone-has-the-file-nobody-has-the-right-version/5306650</link>
-<guid isPermaLink="false">0ac464d0d8755e266337aef33c3d3c26ab56d402c4ed853418c1ffab4938f483</guid>
+<title>Final_FINAL_v7.docx is not a version control strategy</title>
+<link>https://www.theregister.com/storage/2026/11/03/sponsored-final_final_v7docx-is-not-a-version-control-strategy/5306650</link>
+<guid isPermaLink="false">c8fd29e1647fd6ceea4aeb267db9e86bd63cbd4285ddefba63e937092dc6d727</guid>
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
-<description>Distributed teams need to collaborate on shared information, but duplicated files, delays, and competing versions keep getting in the way. Picture a video production team with editors in different cities. One person updates a project file, another keeps working from an earlier copy, and a third waits for a large transfer to finish. When teams need to collaborate on large files across locations, traditional storage and file-sharing arrangements introduce friction precisely where people expect technology to help. Collaboration shouldn't require detective work The hard part isn't merely moving a file. It's knowing who has the authoritative copy, when changes are available, and whether somebody else is still working on an outdated version. Consider a game studio preparing a build for review. A designer exports an updated asset, but a colleague pulls an older version from a synced folder. The mistake only becomes obvious when the pieces are assembled. The team must trace the mismatch, resend files, and repeat work. Sync-and-download workflows depend on a chain of uploads, downloads, and decisions about which copy is current. Under deadline pressure, that chain breaks. Delayed access means missed handoffs; duplicated files mean extra checking and sometimes rework. For IT, each workaround creates another question: where does the data live, who can access it, and how do teams maintain consistent controls? Adding another collaboration application doesn't resolve those underlying questions. The useful starting point is the workflow. Find out where teams copy data, where they wait, and what prompts them to work outside the shared system. Compare notes with peers These frustrations cut across industries, but the ways organizations respond aren't identical. Hearing how another team handled version confusion, access, and handoffs is often more useful than another abstract promise of seamless collaboration. That's the focus of The Register and LucidLink’s invitation-only dinner on November 24 at Covent Garden Hotel in London. Joe Fay of The Register will moderate a peer discussion under the Chatham House Rule. Bring the real situations that never fit neatly into a technology diagram, and hear how others are handling them. Request your place at the November 24 dinner Sponsored by LucidLink</description>
+<description>The Register and LucidLink are hosting a dinner for senior technology, infrastructure and data leaders at the Covent Garden Hotel on Tuesday 24 November. Joe Fay of The Register is in the chair. The subject is one most of them will know from their own shop, where the same file lives in several places at once and nobody is quite sure which copy is current. Most organisations have a folder that proves it. There's a file called final, another called final2, and then the one people are actually using, which somebody emailed to a contractor last Thursday. It's mildly funny until two people spend a week editing different copies and one of them loses the argument. Meanwhile the storage bill picks up another copy of everything, and each team that builds its own way round the problem gives IT another place it can't see into. Alan Marshall, Strategic Director, EMEA at LucidLink, joins a small group of peers at the table, and nobody is there to give a presentation. Because the evening is held under the Chatham House Rule, people tend to say what really happened, like the team that quietly built its own sync service because the approved one was too slow, or the leaver who could still open a file share months after going. From there the conversation widens out to unstructured data that won't stop growing, the duplicate storage piling up, the security risk of access scattered across all those copies, and how to modernise without binning the storage and governance the business has already paid for. Drinks start at 6.30pm, then it's dinner around one table until 9pm. Places are limited. Request your place at the November 24 dinner Places go by invitation and each one is confirmed personally. Sponsored by LucidLink</description>
 <enclosure url="https://image.theregister.com/?imageId=5306653&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306653&amp;width=800" medium="image"/>
 </item>
@@ -422,17 +609,6 @@
 <media:content url="https://www.engadget.com/img/gallery/how-to-use-your-phones-camera-to-translate-anything/l-intro-1792778533.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple is ‘not able to predict’ when it&amp;#8217;ll have enough iPhone Duos to go around</title>
-<link>https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints</link>
-<guid isPermaLink="false">aa1e54ebadb6d5c19da3f8a7e9cd136f4ce9f63940d4f747c1ca54ec3632655c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 22:56:11 +0000</pubDate>
-<description>Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters , Ternus said the company is "working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand will be in balance." Apple launched its first foldable last month for $1,999, featuring a 5.4 outer display and 7.6-inch inner screen. Preorders for the iPhone Duo quickly sold out, with some shipments expected to arrive in 2027. Apple also made a limited number of iPhone Duo models available in-store at launch. In his interview with Reuters , Ternu … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1378.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Max-severity bug in widely used OT programming tool exploited to deliver Linux malware</title>
 <link>https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086</link>
 <guid isPermaLink="false">bfaf444039323ef04a0565e3709545f8edeaa501739629ac0981ef6b5753c6a3</guid>
@@ -453,17 +629,6 @@
 <description>It’s a regrettable reality that there is never enough time to cover all the interesting scientific stories we come across. So every month, we highlight a handful of the best stories that nearly slipped through the cracks. October’s list includes an epigenetic mechanism for why large dogs age faster than smaller ones; physicists who trapped a single particle of antimatter for months; and invisible tattoo inks that only show up under UV light. Why large dogs age faster In many mammalian species, larger creatures tend to have longer lifespans. Mice, for instance, live an average of just two years, while some whales can last for as long as 200 years. Dogs, however, buck this pattern; larger dogs tend to age faster and die younger than smaller ones, which makes canines an ideal model for biologists to study to learn more about aging in general. Arizona State University scientists report that these lifespan differences seem to be due to so-called "jumping genes," according to a paper published in the journal Science. The authors used data from 864 dogs collected in the Dog Aging Project to map patterns of DNA methylation (which influences how much certain genes are turned on or off) across the entire genome. It's part of the epigenome, whose markers can change over time in response to stress and other environmental factors. Genetic sequences, by contrast, are largely fixed. So DNA methylation is a good chemical indicator of aging and DNA regulation. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple set an iPhone sales record even without a new standard iPhone</title>
-<link>https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings</link>
-<guid isPermaLink="false">d993c74239a01645f9f70e57ca3a4715ee196a9aa7cd654f74fabbf22660adb0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 22:02:36 +0000</pubDate>
-<description>Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in revenue follows the launch of Apple's iPhone 18 lineup in September, which included a pricier iPhone 18 Pro and Pro Max model. The company raised prices across its older models at the same time. Apple also took the wraps off its first folding phone, the iPhone Duo , but its preorder sales aren't included in this earnings report. Like other device-m … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_1087.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>These smart glasses promise to turn your silent mouth movements into text</title>
@@ -499,17 +664,6 @@
 <media:content url="https://image.theregister.com/?imageId=5307077&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Meta will end Quest 2 OS updates in 2027</title>
-<link>https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates</link>
-<guid isPermaLink="false">f6417c66c0228f42d34a30ccfaf4bd23bbe1f549558cb5f97699038cb23a9b55</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 21:04:20 +0000</pubDate>
-<description>Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today . The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of 2027. Apps that support the Quest 2 or Quest Pro can also be submitted through December 2027, Meta says. Meta is calling the Quest 3 and 3S "now the baseline for Meta VR gamers." The company is announcing this shift ahead of the planned release of its new VR Glasses , which are set to launch sometime in spring 2027. "Quest 2 and Quest Pro laid the fou … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21869421/akrales_200904_4160_0135.0.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21869421/akrales_200904_4160_0135.0.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>How long could HDDs and SSDs remain expensive?</title>
 <link>https://www.engadget.com/2302215/how-long-hdd-ssd-stay-expensive</link>
 <guid isPermaLink="false">abf43222cdd6a207d122e7bbac27582bd0bb9b0eefb075a4cc07ec2688ddf329</guid>
@@ -519,28 +673,6 @@
 <description>Thanks to shortages of microchips and other computer components, we've been experiencing high prices for years.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-long-could-hdds-and-ssds-remain-expensive/l-intro-1793370181.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-long-could-hdds-and-ssds-remain-expensive/l-intro-1793370181.jpg" medium="image"/>
-</item>
-<item>
-<title>One of Google’s Android partners turned 1.3 million set-top boxes into a botnet</title>
-<link>https://www.theverge.com/1024807/google-botnet-android-tv-shut-down</link>
-<guid isPermaLink="false">5f4b9fdfeb2042b971421c7e1340b3be30c95795cbc7024c73e8c9f412e58f7b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 20:37:49 +0000</pubDate>
-<description>A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and "cut ties" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for "malicious activity," like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the "backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>BMW is taking on Tesla’s FSD with urban driver assist starting in 2027</title>
-<link>https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027</link>
-<guid isPermaLink="false">ab8f18d47c71f1f855c50ff311efca4d5588bed96024f90c9ea1044853c86596</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 20:03:52 +0000</pubDate>
-<description>BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using its built-in GPS navigation. While driving in town, it can assist with changing lanes, making turns, yielding to other cars, and driving through roundabouts. But as a Level 2 driver assist system, it still requires drivers to keep their eyes on the road and stay ready to take over at any moment. On the highway, BMW will allow drivers to remove the … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DI26_000461430.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DI26_000461430.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Googling "Zelda" today offers a glimpse of how search worked in 1998</title>
@@ -576,17 +708,6 @@
 <media:content url="https://www.engadget.com/img/gallery/your-apple-airpods-chirping-noise-doesnt-just-mean-low-battery/l-intro-1792762136.jpg" medium="image"/>
 </item>
 <item>
-<title>The Apple Watch Ultra 4 is $100 off, matching its best price to date</title>
-<link>https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale</link>
-<guid isPermaLink="false">3caab4acdf5a028ab202847e850f7a303718d2a6f92051b39cc9c140235d1b1c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 19:24:09 +0000</pubDate>
-<description>The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon , matching its all-time low price. Apple Watch Ultra 4 Where to Buy: $799 $699 at Amazon Powered by Apple’s new S11 chip (also in the Series 12), the Apple Watch Ultra 4 delivers faster performance than the last-gen version, plus a handful of new Apple Intelligence features. Of note, those include Sound Recognition, which alerts you to noises like alarms and doorbells, and the Live Rewind feature that lets you revisit the last 15 seconds of an in-person conversation. An upcoming Siri Recap feature will be able to create summaries of conversations for later reference. This model has broader health and fitness capabilities than previous models, too. Its sensors promise more accurate EKG measurements, while the watch can track your heart rate as often as every five seconds. The new Readiness feature (not available on the Ultra 3 and earlier models) also analyzes your recent activity, sleep quality, and other health metrics to generate a score from zero to 10, helping you determine whether to push yourself or take it easy. On the hardware front, battery life is perhaps the biggest highlight, with Apple promising up to 50 hours on a charge — twice as long as the Series 12 . Like its predecessor, this model features Apple’s brightest watch display and a rugged design that’s water-resistant up to 100 meters and IP6X-rated for dust resistance. It also retains conveniences like the second-generation Ultra Wideband chip for Precision Finding, and helpful gesture controls so you can you can perform actions with a double tap or flick of your wrist. Read our hands-on impressions of the Apple Watch Ultra 4. Three more ways to save Ugreen’s FineTrack2 Bluetooth tracker is on sale for $13.99 at Amazon , just a few cents shy of its best price to date. The soccer ball-shaped tracker stands out with its playful design, but it also offers some useful features including a non-rechargeable battery can last up to seven years. It works with Apple’s expansive Find My network to help you locate misplaced belongings, while its lanyard makes it easy to attach to your keys, bag, or other items. If you’re looking to spruce up your Apple Watch Ultra or Series smartwatch, a variety of Apple’s official bands are on sale for up to 69 percent off at Woot . The silicone Sport Band is down to $14.99 ($35 off) , while the soft, breathable Sport Loop is available for $19.99 ($29 off) . You can also grab the rugged Trail Loop for $34.99 ($64 off) . Hoto’s new Pulse 4-in-1 Cordless Staple Gun is on sale for $69.99 ($10 off) at Amazon . The versatile tool can help with repairing stuff, or putting together decorations. It works with four types of staples and nails, letting you switch between them depending on the task, whi</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applewatchultra4.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applewatchultra4.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Most of our measures of a key cognitive process don't agree</title>
 <link>https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree</link>
 <guid isPermaLink="false">231f9925239e58ee07ee0cc04408266226b116c1e8b54b3ccc48c7692651c8af</guid>
@@ -598,17 +719,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Snap settles social media addiction lawsuit to avoid trial</title>
-<link>https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial</link>
-<guid isPermaLink="false">883cdb308824e210d0dcce36c8450fadec326705b1352b34aa50ba64b5d916e4</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 19:09:53 +0000</pubDate>
-<description>Snap CEO Evan Spiegel was due to testify in the upcoming trial.</description>
-<enclosure url="https://www.engadget.com/img/gallery/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/l-intro-1793646506.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/l-intro-1793646506.jpg" medium="image"/>
-</item>
-<item>
 <title>Cops bust botnet of 1.3M infected Android TV boxes</title>
 <link>https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045</link>
 <guid isPermaLink="false">8c147c5c8e2a7274fd1310615797ce96160a234caeac90977429483d078e0fc8</guid>
@@ -618,17 +728,6 @@
 <description>A coalition of private-sector security firms working with Japan’s National Police Agency has disrupted XCPE, a backdoor used to build a massive botnet comprising more than 1.3 million Android devices across more than 200 countries. Google, Lumen, Human Security, Plume, Synthient, and TrendAI participated in the disruption. “We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology,” the Google Threat Intelligence Group (GTIG) said in a Monday blog. Videostrong Technology is a hardware manufacturer based in Shenzhen, China. It builds Android devices, including home TV boxes and projectors. According to Google, Videostrong deliberately embedded the XCPE backdoor in device firmware and sold access to criminal affiliates , allowing them to install additional malware modules on devices shipped to unsuspecting customers. When buyers connected these devices to their home networks, the preinstalled backdoor allowed operators to create proxy networks and hide malicious traffic using the customers' internet connections without their knowledge. The firmware’s pre-installed management agent purported to be a standard remote-management client, according to TrendAI. It pulled updates from a GitHub page, and connected to a Message Queuing Telemetry Transport (MQTT) server that gave the operator full remote control of each box, allowing them to install and remove apps, change settings, and push updates to the infected devices. Between June 3 and October 1, TrendAI documented more than 3.8 million distinct home and mobile IP addresses connected to the operation. The coalition also disrupted the command-and-control domains used to manage the affiliate modules. “Because these affiliates each have diversified distribution channels for their modules beyond XCPE, we assess that taking down their C2 domains will sever access to at least 10 million additional compromised devices,” according to GTIG. Google said it had since cut ties with Videostrong, and banned the OEM from making devices with preloaded Google apps. Videostrong did not immediately respond to The Register’ s inquiries. This backdoor and botnet operation is part of the same ecosystem as BadBox 2.0 , another notorious botnet that infected more than 10 million TV boxes and other devices before Human, Google, and TrendAI disrupted it in March 2025.®</description>
 <enclosure url="https://image.theregister.com/?imageId=247072&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=247072&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Why some websites are blocking AI agents from accessing the web</title>
-<link>https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web</link>
-<guid isPermaLink="false">3c9806eaf4e8efca14cf4e3e538ce474fcca15b4e8d49ebc2da8c3c72e16e1ad</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
-<description>AI agents can be a great tool to help make purchases for you online - but it can become a frustrating problem if the website you're using blocks their access.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-some-websites-are-blocking-ai-agents-from-accessing-the-web/l-intro-1792775857.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-some-websites-are-blocking-ai-agents-from-accessing-the-web/l-intro-1792775857.jpg" medium="image"/>
 </item>
 <item>
 <title>Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights</title>
@@ -761,17 +860,6 @@
 <description>If you're a customer of cloud-hosted AI workflow platform Trigger.dev, take heed, because your environment variables may have been exposed in a security incident disclosed on Sunday. Trigger offered little explanation in its Sunday security incident report , noting that its investigation had identified “exposure across a subset of organizations” and that an attacker had gained unauthorized access to environment variables belonging to those organizations. Whatever exploit was used to gain access has been blocked, the company added, and affected customers have been notified of steps they need to take to prevent further security problems. We likely don't have to tell The Reg readers how important environment variables are in SaaS and cloud services like Trigger. If compromised environment variables contain sensitive credentials, an attacker could basically end up with the keys to the kingdom, potentially gaining access to connected services and digital infrastructure. For those unfamiliar with Trigger.dev, it’s a platform for building AI agents and workflows in TypeScript, but here’s the kicker: Trigger advertises itself as a durable execution platform that handles pesky things like retries, scaling, and keeping long-running tasks going through crashes and redeployments, while providing tools to monitor what those tasks are doing. Trigger, the company’s site notes, can be used to “build durable AI agents that survive refreshes, redeploys, and crashes,” and is ideal for “long-running tasks with retries, queues, AI observability and elastic scaling.” In short, companies running their AI on Trigger probably want it to keep running, which makes stolen environment variables all the more dangerous. Elastic scaling, automated retries, and, as Trigger notes, the ability to run lots of concurrent operations without timeouts could compound the consequences of compromised API keys, depending on what those credentials allow an attacker to access. An attacker with stolen credentials could potentially interfere with a customer's connected services or workflows. Additionally, Trigger recently added webhooks to its offering, supporting services like Stripe, Supabase, and Slack, potentially expanding the range of integrations that could be affected if their credentials were exposed. This could be pretty bad for anyone affected. Trigger has some fairly high-profile customers, with companies like fashion brand Emporio Armani, Pentagon-supporting AI acquisitions platform GovSignals, SaaS calendar platform Cal.com, and others all listed on the company’s site. Trigger has not publicly identified which organizations were affected by the intrusion. We reached out to Trigger, which declined to provide any additional information on the incident. A company spokesperson instead told us to wait for a full incident report to learn more. Luckily for Trigger customers and those concerned about SaaS security now that AI is regularly coming up with new vulnerabilities in commonly us</description>
 <enclosure url="https://image.theregister.com/?imageId=260694&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=260694&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Shop fridges and freezers across Europe hit by fresh suspected cyber-attack</title>
-<link>https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack</link>
-<guid isPermaLink="false">4ef4d216a0d18803e9fd5933efb744f9dde7ea3ac97d8042f69ccea38e78bfb4</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 16:39:20 +0000</pubDate>
-<description>Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops Who is hacking Europe’s supermarket fridges and freezers, and why? Supermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in some of their shops soared overnight to as high as 50C (122F), echoing a cyber-attack last month that caused millions of euros of damage in France. Retailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands and Sweden reported problems with their refrigeration systems on Monday, and several companies confirmed they had been hacked. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/47506f81531a77d5b27d52c5ed4d7ac3485d3802/528_0_5356_4284/master/5356.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c0f673abac92ecf3e5c4285cafd9c93" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/47506f81531a77d5b27d52c5ed4d7ac3485d3802/528_0_5356_4284/master/5356.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c0f673abac92ecf3e5c4285cafd9c93" medium="image"/>
 </item>
 <item>
 <title>Apple’s HomeView may double as security camera – watch out Ring, Nest, and Wyze</title>
@@ -1060,17 +1148,6 @@
 <media:content url="https://image.theregister.com/?imageId=5306857&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Investors pull billions in funds from Binance after record $6.3bn hack</title>
-<link>https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions</link>
-<guid isPermaLink="false">e1cda2012ca53a3907b758be8aaebded224d6e777a72522034ea6f899b25cfec</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 18:53:25 +0000</pubDate>
-<description>Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North Korea Investors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen from customer accounts. The platform was hit by a $6.3bn theft on Thursday, which has since been described as the biggest heist in history. Experts identified North Korea as the probable culprit . Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/1cc5d516bf0f48d67707a1c8812e46fedebccb84/960_0_4742_3794/master/4742.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d021aa6ae0d942480ba51b9654d84ad2" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/1cc5d516bf0f48d67707a1c8812e46fedebccb84/960_0_4742_3794/master/4742.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d021aa6ae0d942480ba51b9654d84ad2" medium="image"/>
-</item>
-<item>
 <title>National Grid to site biggest substation in UK near planned Teesside datacentre</title>
 <link>https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre</link>
 <guid isPermaLink="false">991e23bd936f581c6d3ac24409546f36e5cac62b1dd58ca2a23d224a84cea5af</guid>
@@ -1291,17 +1368,6 @@
 <media:content url="https://image.theregister.com/?imageId=227887&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Over 25% of people lie to get antibiotics—and their lies aren't even good</title>
-<link>https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good</link>
-<guid isPermaLink="false">a3fc8c2e276a25828247cc4d664de56a583e7d7b8f291927f4844214727de424</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 20:17:50 +0000</pubDate>
-<description>A significant number of patients in the US lie to their doctors to get antibiotics they likely don't need, according to two new studies. While that may not be a startling revelation, the studies drill down on the phenomenon, finding that the lies patients tell are generally bad ones—and yet, they work almost all the time. In the two linked studies published Friday in JAMA Network Open, a team of researchers led by Alistair Thorpe at the University of Utah analyzed online survey data from over 1,000 adults. They found that over a quarter of people reported having lied to a clinician at least once to get an antibiotic prescription for themselves or a child in their care. Patients lied by either exaggerating symptoms, making up symptoms, or—most often—both. But interestingly, the lies people told to get antibiotics involved making up or exaggerating symptoms of infections that wouldn't be treated with antibiotics. For example, the most common falsehoods were symptoms associated with colds, such as fever, cough, and sore throat. That's despite the fact that colds are caused by viruses, not bacteria—which antibiotics treat. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>HTTP/3 is faster with some work and help from Cloudflare</title>
 <link>https://www.theregister.com/devops/2026/10/30/http/3-is-faster-with-some-work-and-help-from-cloudflare/5306767</link>
 <guid isPermaLink="false">62cb3a414e753855d69b244fe655bfd1fbe21b4450f73ec86d964319c3b57d85</guid>
@@ -1311,17 +1377,6 @@
 <description>When you're ordering food from your phone, even time spent navigating the app is time wasted. At the P99 2026 virtual conference , Elvis Chidera , a staff engineer at Germany-based global delivery service Delivery Hero , explained how the company moved most of its user base to HTTP/3, and consequently cut its apps’ total end-to-end response time of the home screen by 17 percent. Chidera, who managed the project, explained that, as promised on the tin, HTTP/3 delivers the web faster than HTTP/2, though it has slow bits that need to be adjusted to work properly. Uber eats Delivery Hero Delivery Hero is all but unknown in the US, which is dominated by Uber Eats and DoorDash. But it is a company with global reach outside the US, with an estimated user base of 60 million across Europe, Latin America, Africa, the Middle East, and Asia. Uber is currently acquiring Delivery Hero for $14.8 billion, with plans to unite the company with Uber Eats. With this purchase, Uber would expand the number of markets where it offers both ride-hailing and delivery services, though not necessarily under the Uber Eats nameplate. Delivery Hero centrally manages separate apps for different regions, all of which it built or acquired. Asians can order poke bowls and sundries through Foodpanda . Turks can order kebabs through Yemeksepeti . Throughout Spain, Italy, Poland, Romania, Ukraine, and much of Africa, the Glovo app is where to ring up the late-night deliveries. And in Latin America, users dial in to PedidosYa to get what they need from nearby farmacias, restaurantes, and mercados. All these regions have widely varying network connectivity, a problem Delivery Hero wanted to minimize. Last mile networking was most often the bottleneck. Apps in Pakistan, for instance, could take nearly a second (at p90) to establish a secure handshake with a server. The engineering team looked at HTTP/3 as a way to lower, even eliminate, that latency. A QUIC-er HTTP The Internet Engineering Task Force (IETF) formally introduced the third version of the internet’s Hypertext Transfer Protocol in 2022. HTTP is the application layer protocol that connects browsers and other resources connected to servers over the Internet. The previous versions of HTTP were built on the Transmission Control Protocol (TCP), which offered guaranteed delivery and flow control. In conjunction with the Internet Protocol (IP), TCP/IP built the modern internet. HTTP/3 replaced TCP with Quick UDP Internet Connection (QUIC), developed by Google , to address some of TCP’s p erceived sluggishness as a transfer protocol. UDP stands for User Datagram Protocol and, unlike TCP, it does not guarantee packet delivery or flow control. UDP is faster because it doesn’t wait around for a signature (QUIC adds in its own flow control on top of UDP). But the UDP-based HTTP/3 reduces, and sometimes eliminates, the round trips needed to secure connections. The app can cache a session ticket and, on a later connection, use QUIC's 0-RT</description>
 <enclosure url="https://image.theregister.com/?imageId=5306774&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306774&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see</title>
-<link>https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754</link>
-<guid isPermaLink="false">d6b4ba0302d71822b59454ecf254f13bfa789bb2b78a0dcb0063cbc929664556</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 19:37:12 +0000</pubDate>
-<description>A n0n ransomware operator tried to break into 23 organizations across 14 countries, but couldn't secure its own front door, leaving its server exposed with all of its methods on view. The criminals used a mix of new (AI) and old (stolen credentials) tooling during their data-theft spree, and in some cases not only stole and encrypted files, but also deleted data and backups, eliminating victims’ ability to recover their information. And despite the fear and hype around the breachpocalypse , with AI finding and developing exploits for critical vulnerabilities affecting most organizations across the globe , these crooks did not exploit a single bug to gain entry into any of their victims’ IT environments. “In every documented compromise in this investigation, access relied on weak or stolen credentials,” said Ensar Seker, chief information security officer of threat intelligence firm SOCRadar. “What stands out is the combination of AI-assisted development and very conventional entry points,” Seker told The Register . “We found no evidence of vulnerability exploitation in the cases examined.” The gang breaks into organizations at scale using widespread Remote Desktop Protocol (RDP) scanning and automated FortiGate SSL-VPN credential stuffing. To access US-based IT managed services provider ChiBiTek, the crew used a 15-thread residential SOCKS5 proxy pool to test credentials (ip:port:user:password) against FortiGate portals (GET /remote/login). The operators also gained entry using exposed cloud credentials and reused hosting portal sessions. In one case linked to e-commerce site Fanatics , SOCRadar found that n0n used an exposed AWS access key with permissions to list, read, and delete objects in S3 buckets. The criminals then used this key to pull data from 40 S3 buckets, with up to 110 GB per bucket, and ultimately deleted data, including bank-transaction archives, and purged keys across 12 sensitive buckets. AI-assisted extortion While the threat hunters didn’t find any evidence of a fully autonomous attack system, the ransomware operator did use AI to assist with these intrusions, incurring more than $7,216 in AI usage costs by October 22. Specifically: the criminal or criminals used OpenCode, an open-source AI coding agent, configured with 154 model entries across seven providers. Models included Gemini, Mistral, Nemotron, Llama, Claude, GPT-5.x, Grok, Kimi, GLM, DeepSeek, MiniMax, Qwen, and many, many others, some with safety training removed and others marketed as “uncensored” models. “The operator used AI to write and debug hundreds of scripts. That shows how AI can help an attacker turn basic access into a broader, tailored operation,” Seker said. “The destructive behavior is equally significant,” he added. “The operator did more than steal and encrypt files: in some cases, it deleted data and backups, and in one case changed firewall policies to block traffic. That creates a recovery problem that a decryption key alone cannot solve.” SOCRa</description>
-<enclosure url="https://image.theregister.com/?imageId=5306779&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5306779&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Android 17 adoption hits a staggering 1% – why you really should update now</title>
@@ -1357,28 +1412,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" medium="image"/>
 </item>
 <item>
-<title>GM cracks the petty cash box for multistate driver tracking settlement</title>
-<link>https://www.theregister.com/security/2026/10/30/gm-cracks-the-petty-cash-box-for-multistate-driver-tracking-settlement/5306721</link>
-<guid isPermaLink="false">6e0c4e9b76226b4cab5dbb8fcba0d3efeb5b95314a6499c948c4755e7e89c02f</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 16:48:37 +0000</pubDate>
-<description>General Motors is taking what looks like a light slap on the wrist from a coalition of 35 states and the District of Columbia after agreeing to settle allegations that it collected drivers' data without proper consent and sold it to data brokers that supplied insurance companies. The Washington state AG's office said on Thursday that GM had reached a $220 million settlement with 36 attorneys general over the automaker's collection and sharing of driving data, including precise location information, speed, seatbelt use, and other metrics. According to investigators, GM sold that data to brokers, which in turn supplied it to insurance companies that could use it to set customers' premiums, without drivers' informed consent. For reference, the $220 million settlement, which will be distributed among the participating jurisdictions, equates to less than 7 percent of GM's $3.3 billion in net income attributable to stockholders for its third quarter , which ended on September 30, 2026. Don't spend it all in one place, y'all. The settlement comes more than two years after a 2024 New York Times investigation found that GM had been selling the data collected from vehicle owners through its Smart Driver program. That program, part of GM subsidiary OnStar’s offering, collected the aforementioned data and handed it back to vehicle owners in reports designed to inform better driving habits. Unbeknownst to Smart Driver subscribers, their data was also being forked over to data brokers despite GM telling customers it wouldn't share that information with insurers without their express consent. The insurers ultimately obtained the data by purchasing it from brokers with which GM had struck deals. To make matters worse, the Washington AG's office said GM incentivized dealerships to enroll customers in Smart Driver, with employees in some cases accepting terms and conditions on customers' behalf without their knowledge or consent. GM also failed to notify many drivers that their information was being collected and shared. Its OnStar app incorrectly told more than 370,000 drivers they were not enrolled in Smart Driver, even as GM continued collecting and selling their data, according to investigators. “The data GM sold was personal, identifiable, and specific,” the AG’s office said. GM canned the Smart Driver program in April 2024, just over a month after the New York Times exposed its data-sharing practices, citing customer feedback. In addition to the monetary pittance it’s handing over to the states, GM also agreed with the 36 AGs to limit the driving data it collects, better protect customer PII, and establish a "comprehensive data privacy program.” The Washington AG’s office described its settlement as “significantly stronger than any other resolution reached with GM for this conduct.” Speaking of those other terms, GM finalized its settlement of the same allegations with the Federal Trade Commission in January 2026. The FTC order required GM to obtain drivers'</description>
-<enclosure url="https://image.theregister.com/?imageId=229334&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=229334&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Anthropic: That Claude Code extension compromise… couldn't be us</title>
-<link>https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682</link>
-<guid isPermaLink="false">84be936fd5b7ceaeedcf783678ddb7cadc429db0d1ec4f44a020b841285b8fd5</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 16:27:00 +0000</pubDate>
-<description>Anthropic has denied allegations that a malicious version of the official Claude Code extension published to Cursor’s marketplace was linked to any kind of compromise of its own systems. The company was forced to issue a statement after prominent figures in the cybersecurity industry alleged that the extension, which infected up to 5,000 developers, was uploaded to Cursor’s marketplace following a breach at Claudemaker Towers. Felix Rieseberg, a member of Anthropic’s technical staff, Xeeted today: "We're working with Cursor on this incident, but it wasn’t a compromise of Anthropic's systems or employee laptops. "A malicious actor used access to Cursor's marketplace to publish a tampered copy of the Claude Code extension, which we didn't build or publish. The versions on our official channels are not affected, and this only impacts Cursor users." First spotted by EDR vendor Phorion , an unknown party pushed an update to Cursor's official Claude Code extension for Visual Studio Code that contained a persistent SSH backdoor written for Windows, macOS, and Linux. According to Cursor, the extension – version 2.1.313 – was available to download for around 11 hours between 0227 and 1335 PT (0927 and 2035 UTC) on Thursday. The vendors' analyses of the implant revealed that it collected information about the host machine and user, including usernames, configured Git emails, and public IP addresses, as well as attempting to open a reverse SSH tunnel. Crucially, Cursor echoed Phorion's assessment that the package contained a critical flaw. The script responsible for opening the SSH tunnel required admin rights on macOS and Windows to do so, and in the vast majority of cases it did not have these, resulting in failure. Regardless, the extension still forwards the collected host and user data to the attacker, as well as dropping the attacker's SSH key and installing the persistence mechanism, so developers must go threat hunting in case their instance allows for the SSH tunnel to be created successfully. Simply installing the latest version of the extension is not enough to clear the persistence mechanism, either. The full details of how to remediate the issue, and links to download scripts to wipe the infection, are laid out in Cursor's account of the situation . Aside from Rieseberg's statement today, neither Cursor nor Anthropic have commented on how the malicious package made its way to the official marketplace. Anthropic's position is that a malicious actor uploaded the tampered copy to Cursor , but the latter has not outlined how it reached the marketpplace. "[We] removed the malicious version from the marketplace immediately upon detection and blocked further distribution," Cursor said in the advisory. "We followed with a full shutdown of the VSCode Marketplace out of an abundance of caution." It also ran checks to confirm no other extensions were compromised in the same way, rotated its own keys before restoring the marketplace, and worked with a clou</description>
-<enclosure url="https://image.theregister.com/?imageId=5254625&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5254625&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras</title>
 <link>https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes</link>
 <guid isPermaLink="false">0b0261f33bdc8b7ac3a8dd84a7a6f46884b4bb39c42c6045f264359e89a7c505</guid>
@@ -1388,17 +1421,6 @@
 <description>Google details 42 fixes to its Home app and the devices compatible with it.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg" medium="image"/>
-</item>
-<item>
-<title>Voyager 1 gives controllers the silent treatment</title>
-<link>https://www.theregister.com/science/2026/10/30/voyager-1-gives-controllers-the-silent-treatment/5306637</link>
-<guid isPermaLink="false">01a259e2affea8325ac96f84651279e5598665e49e62c55d889dd437a9afb9f0</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 15:30:00 +0000</pubDate>
-<description>Voyager 1 gave controllers the silent treatment for a few days this month before resuming communication weeks before the spacecraft reaches the one-light-day milestone. The incident happened on October 18: NASA's Deep Space Network (DSN) couldn't detect a signal from the probe. On October 19, on the next scheduled communication attempt, there was still nothing. Was this it? Had the decades-long galactic venture finally ended? Things are operating on a knife's edge for the two veteran spacecraft, which will reach their half-century next year. Voyager 2 suffered an antenna pointing issue in 2023, and a low power condition caused Voyager 1 to unexpectedly turn off one of its two radio transmitters. The good news is that on October 20, the signal reappeared, leaving engineers wondering why Voyager 1 temporarily went silent. Thus far, it seems a group of thrusters went offline and their backups were turned on. This could indicate onboard computers detected a problem and put the spacecraft into a safe mode. Kareem Badaruddin, Voyager mission manager at NASA's Jet Propulsion Laboratory, said: "This is the first time we've seen the spacecraft do something like this, but we are also at a point in the mission where we have to expect the unexpected. "We're relieved to be back in contact with Voyager 1 and are eager to understand what happened." The Register spoke to Badaruddin in 2024 , where he described the challenges of working with the veteran spacecraft, but he reckoned the work was the "best job at JPL." The twin Voyager spacecraft have recently been through a procedure dubbed the "Big Bang," where controllers turned off onboard devices and switched to lower power alternatives. The result will extend the lifetime of the spacecraft by a few more years and postpone further instrument deactivation. It was completed first on Voyager 2, and then Voyager 1, six weeks later in September. However, the brief lapse in communication highlights that despite the ingenuity of the team that keep the spacecraft running, the project must eventually come to an end. In 2026, Suzanne Dodd, Project Manager for the Voyager project, told The Register what the end would look like . She said, "We're just going to one day not hear the signal from the DSN, and we're going to rush around and make sure that it's not something on the ground." Months of listening will follow, before engineers throw in the towel and declare the mission over. And then? Maybe a farewell message sent to the last known location. Thankfully, in this case, the signal returned, so no need for a goodbye transmission just yet. In a few weeks, Voyager 1 will be so far away that it will take a full 24 hours for commands to reach it and another 24 hours for a response to reach Earth. Communications blip notwithstanding, there is every chance both Voyager spacecraft will still be operational as they pass their half-century milestone next year and, technology and funding permitting, continue sending data to Earth</description>
-<enclosure url="https://image.theregister.com/?imageId=5306667&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5306667&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>After 50 years of playing video games, I’m finally starring in one</title>
@@ -1531,17 +1553,6 @@
 <description>Amazon just dropped new smart home gear in response to Apple. Here’s how the Echo Show 16 stacks up.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" medium="image"/>
-</item>
-<item>
-<title>Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it</title>
-<link>https://www.zdnet.com/innovation/opera-webai-local-ai-browser</link>
-<guid isPermaLink="false">0df14776eac16c77790b35959287d9f59e3235adc1ed206145e53e610db2d595</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 16:10:39 +0000</pubDate>
-<description>Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg" medium="image"/>
 </item>
 <item>
 <title>Social media is full of weird video game mashups. Where are they all coming from?</title>

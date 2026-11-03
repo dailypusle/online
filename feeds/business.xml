@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Crypto.com to withdraw Hong Kong consumer app citing regulatory changes</title>
+<link>https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending</link>
+<guid isPermaLink="false">894b88a0e4b4a71a0b2d8308ac1798bc302593c82adf950c79d3cf7d82f0a9be</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 05:10:19 +0000</pubDate>
+<description>Crypto.com will discontinue its consumer app services in Hong Kong in February next year.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FWJCR3YC78YRVRCAXWNJWS/hong-kong-license.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FWJCR3YC78YRVRCAXWNJWS/hong-kong-license.jpg" medium="image"/>
+</item>
+<item>
 <title>Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation</title>
 <link>https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation</link>
 <guid isPermaLink="false">8c9ccd93c70a25450ece59196bc39222f6aeadfbd6debe451a7421eb1380d1c1</guid>
@@ -24,6 +46,17 @@
 <description>Another casualty of AI might be the PowerPoint and Google Slide presentation. Many are now using coding to create decks.</description>
 <enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ai-killing-coroporate-deck-1126_g2234633427.jpg" type="image/jpeg"/>
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ai-killing-coroporate-deck-1126_g2234633427.jpg" medium="image"/>
+</item>
+<item>
+<title>UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028</title>
+<link>https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028</link>
+<guid isPermaLink="false">c5ae925a9f067f013a9e79557a7ac54007c4c6682e4fec8dba209e6c801ff840</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 03:58:45 +0000</pubDate>
+<description>The warning comes as UK cyber officials also flag growing threats from state-backed hackers targeting government officials and politicians.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FRVQEAWKQAEZ8JB6F3S0VW/hi-uk-regulations.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FRVQEAWKQAEZ8JB6F3S0VW/hi-uk-regulations.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance begins second withdrawal phase, exchange outflows slow</title>
@@ -90,17 +123,6 @@
 <description>Abigail Morris followed her life-long passion into business.</description>
 <enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Copy-of-abigail-morris-interiors-webres-24-1-e1793651819672.jpg" type="image/jpeg"/>
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Copy-of-abigail-morris-interiors-webres-24-1-e1793651819672.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 22:36:09 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>New Jersey drops Coinbase staking order ahead of crypto’s midterm test</title>
@@ -706,28 +728,6 @@
 <description>Free tools like Ollama and LM Studio can run open-weight AI models on your laptop, offline, and without a subscription. Here's how to get started.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>DeepSeek developing AI agent requiring less human input: Report</title>
-<link>https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report</link>
-<guid isPermaLink="false">d9283bec69c258cfeefaac66eca2e5eb05a4d96f234e9aaa6431c65d2ac6df1a</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 01 Nov 2026 13:40:33 +0000</pubDate>
-<description>The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6BNBCY09X57GCM10X7FBK0P/make-ai-great1-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6BNBCY09X57GCM10X7FBK0P/make-ai-great1-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance says phase one of withdrawals opens after $6.3B hack</title>
-<link>https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack</link>
-<guid isPermaLink="false">eb922db4ee85d6ea8d75f6fcc20c0c81089b6f1cb844b3a0b00c58c59a2378e2</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 01 Nov 2026 09:38:18 +0000</pubDate>
-<description>The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B7GCDKCRNR2Z23KSY172H6/hi-binance-unchained.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B7GCDKCRNR2Z23KSY172H6/hi-binance-unchained.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History</title>

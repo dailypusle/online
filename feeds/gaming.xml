@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>New Star Wars Book Reveals the Surprising '90s Inspiration for an Iconic New Character</title>
+<link>https://www.polygon.com/exclusive-look-the-art-of-the-mandalorian-and-grogu</link>
+<guid isPermaLink="false">1fc0a16d50fb1057170f525aa4e3e62187d648b66b2eac745123b0bbe45e7fbb</guid>
+<source>Polygon</source>
+<category>gaming</category>
+<pubDate>Tue, 03 Nov 2026 00:47:17 +0000</pubDate>
+<description>After years on Disney Plus, Din Djarin (Pedro Pascal) and his surrogate Jedi son, Grogu, made their big-screen debut in The Mandalorian and Grogu earlier this year. Now, The Art of Star Wars: The Mandalorian and Grogu by Phillip Szostak is set to hit shelves this week, offering a behind-the-scenes look at the film’s production from start to finish.</description>
+<enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/mandalorian-grogu.jpg" type="image/jpeg"/>
+<media:content url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/mandalorian-grogu.jpg" medium="image"/>
+</item>
+<item>
 <title>World of Warcraft Forever release time in your time zone</title>
 <link>https://www.polygon.com/world-of-warcraft-forever-wow-release-time-est-pst</link>
 <guid isPermaLink="false">5b2421420592ca088f76ecb6da671ec86092a23412533faf777c5517da40ac4b</guid>
@@ -101,16 +112,5 @@
 <description>If you've been waiting for Final Fantasy 7 Remake and Rebirth to go on sale before checking them out, your patience has paid off. At least, as long as you're okay with a bit of DLSS hair-frizz . Square Enix is hosting a huge sale on the Nintendo Switch and Switch 2 eShop, and included in that sale are FF7 Remake and FF7 Rebirth for $7.99 and $7.49, respectively.</description>
 <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25331949/FINAL_FANTASY_VII_REBIRTH_20240304190955_1.jpg" type="image/jpeg"/>
 <media:content url="https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25331949/FINAL_FANTASY_VII_REBIRTH_20240304190955_1.jpg" medium="image"/>
-</item>
-<item>
-<title>Huge Square Enix Sale for Switch 2 Includes 90+ Games At Discounts Up to 85% Off</title>
-<link>https://www.polygon.com/square-enix-nintendo-switch-2-sale-november-2026</link>
-<guid isPermaLink="false">3922b43be6cf387719b9418c1e2edba2f358826ad3a8e0a004a2462f378a6a30</guid>
-<source>Polygon</source>
-<category>gaming</category>
-<pubDate>Mon, 02 Nov 2026 18:52:20 +0000</pubDate>
-<description>Nintendo Switch 2 owners have plenty of great RPGs to choose from, but building up a digital library can get expensive. Fortunately, Square Enix is making that a little easier with a massive Nintendo eShop sale, offering steep discounts on some of its biggest franchises.</description>
-<enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19884501/ff7_remake_classic_normal_guide_header.jpg" type="image/jpeg"/>
-<media:content url="https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19884501/ff7_remake_classic_normal_guide_header.jpg" medium="image"/>
 </item>
 </channel></rss>

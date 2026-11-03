@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum</title>
+<link>https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum</link>
+<guid isPermaLink="false">33f160f09021ccb7d126c02d9dd42109f78afccd865a009d7081ddc97ffb5e22</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 13:11:47 +0000</pubDate>
+<description>Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>NEAR token sinks 7% as proposal to cut annual token issuance passes</title>
+<link>https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes</link>
+<guid isPermaLink="false">1985dbdfe578c1140e1e6acbb6ce384e3a0af13badb840fb79e3181e5c7407ca</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 12:30:13 +0000</pubDate>
+<description>The proposed issuance cut would prevent 11.8 million NEAR from entering circulation over two years, worth about $45 million at today’s price.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GM8J70K9VDYM0YWR60M7DC/hi-can-near-reach-its-all-time-hight-and-what-is-behind-the-recent-price-jump.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GM8J70K9VDYM0YWR60M7DC/hi-can-near-reach-its-all-time-hight-and-what-is-behind-the-recent-price-jump.jpg" medium="image"/>
+</item>
+<item>
+<title>Binance Misses Monthly Luna Classic Burn for First Time Since 2023</title>
+<link>https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023</link>
+<guid isPermaLink="false">cc8e6ee54755f8ac27e3d573074f8f22c9e3bea2658a8edd05d36df7f5005bad</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 12:15:29 +0000</pubDate>
+<description>LUNC holders are waiting for Binance’s November burn, but it hasn’t arrived as the exchange recovers from a record $6.3 billion hack.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Binance’s net inflows turn positive at $2.3B as withdrawals expand</title>
 <link>https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals</link>
 <guid isPermaLink="false">05347205c9ae0ec9a310b7083850d917482c0b63040792ffe0b39a5250870fdb</guid>
@@ -70,13 +103,13 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G5EBKBSYS8ZPKKVS3JB9QS/cathie-wood2.jpg" medium="image"/>
 </item>
 <item>
-<title>Suspected EU crypto theft estimate rises to $133M: ZachXBT</title>
+<title>Kraken restricts accounts amid suspected $133M EU crypto theft</title>
 <link>https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up</link>
 <guid isPermaLink="false">9b88357f9807c6f3c93d26a2be8ea5269e89e67dff6f0f11dc02bc8b3ccf181d</guid>
 <source>Cointelegraph</source>
 <category>business</category>
 <pubDate>Tue, 03 Nov 2026 08:18:22 +0000</pubDate>
-<description>ZachXBT identified another $27 million in exchange withdrawals, some of which occurred after he first flagged the suspected crypto theft.</description>
+<description>Crypto.com also took steps to block funds tied to the suspected theft, while Kraken said its systems and customer accounts were not compromised.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G79AN04CQ92B4R0XV30XJ8/hack-2.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G79AN04CQ92B4R0XV30XJ8/hack-2.jpg" medium="image"/>
 </item>
@@ -719,17 +752,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DPN36PMEF09E83YXHSEHAH/article-covers-252604-crypto-laws-states-party-primaries-1280x853.webp" medium="image"/>
 </item>
 <item>
-<title>OKX draws $445M in net inflows as Binance outflows exceed $7B</title>
-<link>https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows</link>
-<guid isPermaLink="false">fc2181670b26b0606abfb2b8033b647810ac2a4d306e5032c7e7388f2eb55999</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 08:56:03 +0000</pubDate>
-<description>OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48NWDDYWBD7SNFGR28DNZC8/hi-how-to-migrate-crypto-from-an-exchange-to-okx.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48NWDDYWBD7SNFGR28DNZC8/hi-how-to-migrate-crypto-from-an-exchange-to-okx.jpg" medium="image"/>
-</item>
-<item>
 <title>Bitcoin ETF Investors Head for the Exits After Record Binance Hack</title>
 <link>https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack</link>
 <guid isPermaLink="false">55e05f0896bb6f3d8774a2559024f020215ba12461ebba179f6db28965b2abaa</guid>
@@ -1003,39 +1025,6 @@
 <description>The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/trezor-safe-5-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/trezor-safe-5-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance Finds 'Additional Points of Breach' in $6.3B Hack</title>
-<link>https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack</link>
-<guid isPermaLink="false">63215d99dd2813c4c5f007ecbb5ff27ee1ab8bd73052c5ed8c2ff6624648f4d3</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 09:31:59 +0000</pubDate>
-<description>CEO Richard Teng said the attack was "not a single 'one-click' action," as Binance confirmed about $3 billion has been frozen.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets</title>
-<link>https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum</link>
-<guid isPermaLink="false">96c79be066cee0a10fd233ee7bc20aa2ba2228d126f29fa1486e883275636e5e</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 22:57:48 +0000</pubDate>
-<description>Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion</title>
-<link>https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto</link>
-<guid isPermaLink="false">06ce5a806586b1d1407df831759417dca986dc944885f60af43794394c4eb7d8</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 21:36:24 +0000</pubDate>
-<description>An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Galaxy Digital applies for OCC charter</title>

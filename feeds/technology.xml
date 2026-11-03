@@ -4,7 +4,40 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Everyone has the file. Nobody has the right version.</title>
+<title>Raspberry Pi hikes prices again, barely a month after the last round</title>
+<link>https://www.theregister.com/personal-tech/2026/11/03/raspberry-pi-hikes-prices-again-barely-a-month-after-the-last-round/5307004</link>
+<guid isPermaLink="false">66f82d90ac644961a3d29e01b1b423ecec311eeeffa11d9ee4c2e9e2fa776a98</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 09:30:00 +0000</pubDate>
+<description>Raspberry Pi has announced yet another round of price hikes, this time adding $80 to the cost of its 16GB Pi 5, which now sells for more than three times its original launch price. The latest bump, announced by Raspberry Pi boss Eben Upton, takes the 16GB Pi 5 to a whopping $385. The 16GB Compute Module 5 variants are also getting $40 more expensive, although the Raspberry Pi 500+, which packs the same amount of RAM, has escaped this particular round. Upton blamed a familiar culprit: soaring memory costs, worsened by a lack of alternative suppliers for 16GB DRAM and ongoing shortages of other components. "Unfortunately, a lack of alternative supply for 16GB DRAM, compounded by other ongoing component shortages, means we now need to make further price increases on some of our highest-density products," Upton wrote. It's becoming an expensive habit for Raspberry Pi customers. The 16GB Pi 5 cost $120 when it launched in January 2025, which seems almost reasonable now. Raspberry Pi added $25 in December, another $60 in February, and a further $100 in April . With today's $80 increase, buyers are being asked to cough up $265 more than they were less than two years ago, a price hike of 221 percent. And it's barely been a month since Raspberry Pi raised prices on its 2GB Pi 4 and Pi 5 models by $12.50 apiece, taking them to $67.50 and $77.50 respectively. The repeated markups come despite Raspberry Pi reporting record first-half results in September. Revenue jumped 90 percent to $256.9 million, while gross profit rose 79 percent to $59.4 million. Gross profit per board climbed 53 percent to $12.20, helped partly by memory purchased before prices went through the roof. That stockpile advantage has since largely disappeared. For customers unwilling to pay nearly $400 for a single-board computer, Upton advises buying something with less RAM, using an older Pi, or optimizing applications to make do with less memory. He also warned that some sellers are exploiting the shortages by charging inflated prices or offering products that aren't what they appear to be, urging customers to stick to approved resellers. “We’re aware that a few bad actors have been taking advantage of the current memory supply circumstances to sell Raspberry Pi products at inflated prices or shift products that aren’t what they seem,” he said. There is, apparently, some good news, as Raspberry Pi continues to insist the increases are temporary. "As we've said from the beginning, the current memory landscape is difficult but ultimately temporary, and we look forward to rolling back our price increases when memory costs fall once again," Upton wrote. That could be a long wait. Micron has previously warned that memory shortages could drag on into 2028 or beyond, so anyone hoping to see a $120 Pi 5 again probably shouldn't hold their breath. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5251673&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5251673&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features</title>
+<link>https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features</link>
+<guid isPermaLink="false">3e118c696a13d8eaac42d033fa79df078405547247224f26c8ebaf1d4afd8207</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 09:21:36 +0000</pubDate>
+<description>First revealed at the company's event in September, Apple's AI-powered Apple Watch features are finally landing in beta.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/l-intro-1793697908.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/l-intro-1793697908.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple warns of ‘unprecedented’ rise in memory chip prices</title>
+<link>https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings</link>
+<guid isPermaLink="false">ed08a0256a77de2b48d5d389ace6254a32e74573f5265ed77a6da45d43602bb1</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 09:01:19 +0000</pubDate>
+<description>iPhone maker’s says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres to lay its hands on supplies. The iPhone maker’s shares fell in after-hours trading after it told investors that the higher prices will eat into its profit margins. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/68b88374b72a2443633206775ee7314766977db1/643_0_5168_4135/master/5168.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbdfab67a5440a4ddb85e3ba4454e58e" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/68b88374b72a2443633206775ee7314766977db1/643_0_5168_4135/master/5168.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbdfab67a5440a4ddb85e3ba4454e58e" medium="image"/>
+</item>
+<item>
+<title>Everyone has the file. Nobody has the right version</title>
 <link>https://www.theregister.com/storage/2026/11/03/sponsored-everyone-has-the-file-nobody-has-the-right-version/5306650</link>
 <guid isPermaLink="false">0ac464d0d8755e266337aef33c3d3c26ab56d402c4ed853418c1ffab4938f483</guid>
 <source>The Register</source>
@@ -145,17 +178,6 @@
 <description>Anthropic has published a regulatory filing revealing nearly $900 billion in compute and infrastructure commitments, with additional estimated payments potentially pushing the total beyond $1 trillion. The Monday filing reports that Anthropic expects to pay nearly $70 billion in contractual obligations by September 2027, with a total of roughly $447.5 billion in commitments expected to be incurred by the end of 2030. That's assuming of course its revenues continue their upward trajectory, which the prospectus warns is far from guaranteed. "In the nine months ended September 30, 2026, our revenue was $33.2 billion, representing a year-over-year growth rate of 1,206%," the prospectus reads. "We do not expect our revenue will continue to grow at comparable rates, and we cannot assure you that it will continue to grow at all." "Our ability to meet the substantial and growing financial obligations of these requirements to secure compute depends on our ability to generate significant revenue growth," the filing reads. Which is to say, if Anthropic's revenues don't grow faster than its compute commitments, it could end up falling into a nasty spiral. And while Anthropic has several options, including debt and equity financing, relying on these long term could dilute existing shareholders or force the company to borrow on unfavorable terms. Every IPO filing reads a bit like this because no company can guarantee eternal success and growth. A lot of this filing's language, as damning as it might sound, is therefore just Anthropic covering its butt. However, even though the company is still growing steadily year-over-year, the latest filing shows revenue growth is already slowing. Between Q1 and Q2 of this year, revenues grew nearly 2.5x. Yet in Q3, Anthropic's reported revenues of nearly $17 billion represented an increase of just 46 percent from Q2. In the same period, Anthropic's compute and infrastructure costs grew 77 percent and it kept signing deals that commit it to more expenditure. Last week, we reported that Anthropic's purchase commitments exceeded $800 billion over the next decade or so. Anthropic now says its commitments are closer to $895 billion. Roughly $320 billion of those commitments relate to existing contractual obligations. Another $451 billion covers leases Anthropic has signed, but that have yet to commence, with the company expecting them to begin between 2026 and 2028, although some remain subject to termination rights or other conditions. Overall, however, Anthropic's compute spend is on track to increase substantially over the next few years. And that's not even counting the blank checks Anthropic has written to secure adequate compute, which it values at $150-$175 billion, putting Anthropic's total compute tab at somewhere north of $1 trillion. Anthropic can't walk away from some of this spending because its deals with Microsoft, Google, Amazon, and Broadcom, which now total $437 billion, are non-cancellable. Some require payme</description>
 <enclosure url="https://image.theregister.com/?imageId=5307099&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5307099&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Apple posts stronger-than-expected revenue in first earnings report for new CEO John Ternus</title>
-<link>https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings</link>
-<guid isPermaLink="false">ed08a0256a77de2b48d5d389ace6254a32e74573f5265ed77a6da45d43602bb1</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 23:07:49 +0000</pubDate>
-<description>Result for the company, which earned $30.71bn and exceeded analysts’ expectations, bucked downward trend for tech firms Apple Inc posted stronger-than-expected revenue in the fiscal third quarter, giving John Ternus, the new CEO, an upbeat start to his tenure, which began in September. The solid results bucked a downward trend for tech giants this quarter, as companies including Alphabet, Amazon and Intel had disappointing quarterly results. “Apple’s strong earnings come in the wake of a recent tech sell-off, as investors question the enormous cost and uncertain returns of the AI boom driven by Apple’s big tech counterparts,” said Jacob Bourne, an Emarketer analyst, adding that record iPhone revenue and strong growth in China demonstrate the resilience of Apple’s business. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/239025535869a7cdf1697204f229df889ccc49d5/369_0_3690_2952/master/3690.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0e406eeaf736c5117acf2003e87b276" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/239025535869a7cdf1697204f229df889ccc49d5/369_0_3690_2952/master/3690.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0e406eeaf736c5117acf2003e87b276" medium="image"/>
 </item>
 <item>
 <title>How to use your phone's camera to translate anything</title>
@@ -717,17 +739,6 @@
 <description>The world is set to miss its 2030 conservation goals as finance and action have fallen short, leaders recognized at a UN biodiversity summit in Armenia’s capital, where they agreed to step up efforts after a final overnight session. Representatives from almost 200 countries gathered in Yerevan over the past two weeks to review progress on a landmark agreement set four years ago to protect about a third of the world’s land and seas by 2030. The COP17 talks on biodiversity concluded on Saturday with a recognition that conservation efforts were so far too slow to realistically achieve the goals of the 2022 Kunming-Montreal Global Biodiversity Framework. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Why it's important to use a microSD Express card with your Nintendo Switch 2</title>
-<link>https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use</link>
-<guid isPermaLink="false">cdcd5700e8ba702702b21a92b4d9218c1b0d4d9c26f732238748d002fd5b1dbc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 14:45:00 +0000</pubDate>
-<description>The Switch 2 has expandable storage that you should take advantage of. But you can't use the same cards that worked with your original Switch.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-its-important-to-use-a-microsd-card-with-your-nintendo-switch-2/l-intro-1791815329.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-its-important-to-use-a-microsd-card-with-your-nintendo-switch-2/l-intro-1791815329.jpg" medium="image"/>
 </item>
 <item>
 <title>Nuclear threats and street brawls: Russia, Ukraine report attacks on their emergency alert apps</title>
@@ -1377,17 +1388,6 @@
 <description>Voicing the main character in Black Tides Draga’s Wake led to me making the kinds of noises I haven’t made since my honeymoon but also one of my favourite moments as a father “I listen to you on the radio and I keep hearing your voice in my head!” Not a typical opening to a creative partnership, but that is how Greg Strangis introduced himself to me 16 months ago, when he asked me to come to his garage in the middle of nowhere and have a look at a game he was making called Black Tides Draga’s Wake. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/305a0c442ca68d5418eb3fc87e0ac63ff6f18f58/43_0_1819_1456/master/1819.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa4f7df1a37b6a1e5af5b2778af504fd" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/305a0c442ca68d5418eb3fc87e0ac63ff6f18f58/43_0_1819_1456/master/1819.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa4f7df1a37b6a1e5af5b2778af504fd" medium="image"/>
-</item>
-<item>
-<title>Domestic droid gone amok? Don't worry, you're covered</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/30/domestic-droid-gone-amok-dont-worry-youre-covered/5306396</link>
-<guid isPermaLink="false">696a89a27caa39db09a057a3fb28b1187c907ff2f61257e1a7bccf21c3d8fbd9</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:14:00 +0000</pubDate>
-<description>Two insurers are teaming up to launch what every high-tech homeowner may soon need: household insurance for robotic mishaps. Humanoid robots are tipped by some to be the next big technology trend, with industry figures like Nvidia's Jensen Huang predicting they'll be everywhere from factories to the home. But as with anything AI-driven, things can go horribly wrong, especially when automatons are roaming a home carrying out tasks. They have even been labelled as potential " botnets in physical form ." The timing may be apt, then, for the UK's first domestic humanoid robot insurance policy. Specialist insurer Adrian Flux is offering to cover British customers as part of its home insurance range, underwritten by Texas-based Tokio Marine HCC. The two firms say the product is meant to get ahead of an emerging market, with domestic robots expected to appear in UK homes from 2027. Demand has already appeared in the US, where robotics and AI companies have launched humanoid robots for the home , with early models costing around $20,000. These are less like the near-human elderly care robot in the BBC comedy series Ann Droid , and more like vaguely human-shaped machines. The policy covers damage to, and theft of, the robot itself, plus any damage it causes to the home or belongings. It also includes personal liability if the android injures someone or damages their property, and emergency recovery or safe disablement of the humanoid after a sudden or unforeseen malfunction, such as - perhaps - attempting to chop off your fingers or put your cat on the stove . “As robots start to arrive in people's homes, we wanted to provide clarity on who is responsible if something goes wrong," says Gerry Bucke, general manager for the insurance biz Adrian Flux. "Like the driverless car policy we launched in 2016, it will be updated as the technology and the risks evolve." Beyond the home, investment is pouring into humanoids across a range of applications. Chinese carmaker Chery using them as showroom sales staff , while another firm has demonstrated them in automotive manufacturing . Elon Musk famously predicted thousands of Optimus robots in Tesla factories by the end of 2025, but still believes its humanoid robot will be the company’s biggest product . ®</description>
-<enclosure url="https://image.theregister.com/?imageId=260510&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=260510&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Your headphones have hidden LE Audio features you’ll want to know about</title>

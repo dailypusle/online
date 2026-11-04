@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bare metal boom: On-prem server sales for HPC and AI up 20% this year</title>
+<link>https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611</link>
+<guid isPermaLink="false">71d76b48d46ff3d387cc003b1b9f5880b41e5d83b0aa9635a2f6d559a0a1ab87</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 17:30:00 +0000</pubDate>
+<description>On-premises high-performance compute (HPC) is still in demand, according to Hyperion Research, which estimates the market is expanding at almost 20 percent year-on-year, often driven by requirements for AI processing. What Hyperion calls the "on-premises HPC and AI-for-Science" server market showed significant growth in the first half of 2026, with revenues hitting $16.5 billion, up 19.9 percent. However, the analyst says unit shipments over the same period grew only 4.4 percent, meaning that systems are carrying a higher price tag due to greater use of costly components such as GPUs and other accelerators, not to mention the effects of higher memory costs, which have tripled or quadrupled since last year. Its tracking of the HPC market is based on multiple surveys conducted of both buyers and suppliers, the firm says. The latest data shows a major change in the overall HPC market growth, heavily driven by a combination of the use of AI, large language models (LLMs), and purchases of large GPU/accelerator-based systems. This trend was noted a couple of years ago, with Omdia reporting in 2024 that revenue growth from server sales was racing ahead of actual units shipped, as customers prioritized investment in highly configured server clusters for AI . Much of that spending was by hyperscalers and cloud providers, seeking to profit from selling AI services to enterprise customers, but Hyperion’s figures focus on on-prem shipments, showing that many enterprises prefer to do their processing in-house. According to Hyperion, Dell has now surpassed HPE as the biggest HPC vendor, with server revenues of $4.2 billion for the first half of 2026. HPE, which picked up supercomputing specialist Cray for $1.3 billion in 2019, had long been pack leader in the global HPC arena in terms of market share and revenue. The figures put Dell on a 24 percent share, while HPE is not far behind on 21 percent. Lenovo and China-based Sugon trail behind at 4 percent share each, while 45 percent of the market is just labelled as "others" by Hyperion. This includes names such as Bull, which re-emerged from the shadows of Atos this year, plus Supermicro, Penguin Computing, and NEC. The HPC infrastructure market is inherently cyclical. HPE recognized significant revenue in 2025 with sales of multiple exascale-class leadership machines, but procurement of that scale is intermittent and doesn't necessarily come along every year, Hyperion notes. "Organizations and institutions are continuing to invest in their advanced computing infrastructure due to both replacing aging machines and the desire to adopt AI into their workflows to support their businesses and missions," said Hyperion Research CEO Earl Joseph. "The growth reflects both a nominal increase in units being purchased and significant increases in system prices." HPC systems are considered the backbone for many AI and AI-related applications, which has driven the overall HPC market to a new growth level, Joseph added. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=1684886&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=1684886&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Redditor uses AI to get Switch games running natively on Apple TV</title>
+<link>https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv</link>
+<guid isPermaLink="false">ade36ed7f27b5e08a2d9ee125654471cce60c43f3a049ea4a98d12c52d071009</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 17:15:09 +0000</pubDate>
+<description>The TVPort project is another example of people using Claude Code to bring software to other platforms</description>
+<enclosure url="https://www.engadget.com/img/gallery/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/l-intro-1793812470.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/l-intro-1793812470.jpg" medium="image"/>
+</item>
+<item>
+<title>Safari finally gets 3 popular browser features – and I can’t wait to try them</title>
+<link>https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features</link>
+<guid isPermaLink="false">0d2355fa2d8526ae137b9a62bfd192ff20c0b57b859582caec4b177b815d1c21</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 17:14:36 +0000</pubDate>
+<description>New developer beta release notes point to deeper Siri AI integration and more Safari customization.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc09863_f6afcb.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc09863_f6afcb.jpg" medium="image"/>
+</item>
+<item>
+<title>Bluetooth is going to get a lot faster in 2027</title>
+<link>https://www.engadget.com/2306723/bluetooth-is-going-to-get-a-lot-faster-in-2027</link>
+<guid isPermaLink="false">aa4cf86a8ee6216b9e190df7e494adb12c24f77ed7a7233036d70947efed6012</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 17:14:21 +0000</pubDate>
+<description>Bluetooth HDT's rollout will benefit a wide range of wireless devices and how they communicate.</description>
+<enclosure url="https://www.engadget.com/img/gallery/bluetooth-is-going-to-get-a-lot-faster-in-2027/l-intro-1793812232.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/bluetooth-is-going-to-get-a-lot-faster-in-2027/l-intro-1793812232.jpg" medium="image"/>
+</item>
+<item>
+<title>God of War Laufey delayed until May</title>
+<link>https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay</link>
+<guid isPermaLink="false">ae609cb99fd9802854950fb0aa1a4cf38e6d56f35805948e06b83f6b50553157</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 17:10:31 +0000</pubDate>
+<description>God of War Laufey 's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today . It was set to launch on PlayStation 5 on February 16th . Here is Santa Monica Studio's full message about the delay: Since the reveal of God of War Laufey in June, we've been deeply grateful to see so much excitement for Faye's journey through the Everywhen. We don't take for granted the trust placed in the studio to make an extraordinary experience worthy of the passion and dedication of our fans. With this in mind, we've made the decision to delay God of War Laufey's release to May 20th, 2027. We will make the most of ea … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/7fa631fcc57afee84f351918717a3cdab924a583a409f14d.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/7fa631fcc57afee84f351918717a3cdab924a583a409f14d.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Can Netflix’s new AI tool stop your TV-streaming doomscrolling? How to try it</title>
+<link>https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature</link>
+<guid isPermaLink="false">81355f9e9815c84ba185a10c730f6d7e5d3059fb18347d664e5b9cbbfcf5e6ad</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 17:05:06 +0000</pubDate>
+<description>Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here’s how it works.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/1_ef67d6.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1_ef67d6.jpg" medium="image"/>
+</item>
+<item>
+<title>Nintendo is losing a Switch cartridge supplier</title>
+<link>https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center</link>
+<guid isPermaLink="false">cac47cf7f855e10c802f40e5a705f1e93c4a707fe90d669ccef16a0619dccb4f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 17:03:32 +0000</pubDate>
+<description>Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared with last year in Q3 2026, but its revenue from NOR memory rose 158 percent, and its revenue from NAND memory surged 768 percent year over year. According to Taipei Times , Macronix chairman and CEO Miin Wu said during its Q3 2026 earnings call that "demand for NOR used in data centers is very robust. Customers … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Elon Musk spent nearly $500 million on the midterms and lost big-time</title>
 <link>https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime</link>
 <guid isPermaLink="false">7a67d7b76b4d10f24ef7d6283d702317c1446dec844e1a2af88edfd891d07e4b</guid>
@@ -32,7 +109,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 16:36:21 +0000</pubDate>
-<description>Anker announced a new indoor security camera that's designed to watch your yard, driveway, or front porch through a window, instead of monitoring what's inside your home. The new Anker Eufy Window Camera E10 takes a similar approach to the Wyze Window Cam that launched nearly a year ago . It installs right against a window using an including mounting sticker to reduce glare and reflections, but the camera doesn't require any weatherproofing since it's not enduring the elements outdoors. The Eufy Window Camera E10 is available now for $79.99 through Anker's online store and Amazon , making it more than twice expensive as the $34.98 Wyze Window … Read the full story at The Verge.</description>
+<description>Anker announced a new indoor security camera that's designed to watch your yard, driveway, or front porch through a window, instead of monitoring what's inside your home. The new Anker Eufy Window Camera E10 takes a similar approach to the Wyze Window Cam that launched nearly a year ago . It installs right against a window using an including mounting sticker to reduce glare and reflections, but the camera doesn't require any weatherproofing since it's not enduring the elements outdoors. The Eufy Window Camera E10 is available now for $79.99 through Anker's online store and Amazon , making it more than twice as expensive as the $34.98 Wyze Win … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ankercam1_43ac74.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ankercam1_43ac74.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -191,26 +268,15 @@
 <media:content url="https://image.theregister.com/?imageId=5307591&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Sam Altman addresses RAM comments: people should &amp;#8216;put as much as they want in their computers&amp;#8217;</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments</link>
-<guid isPermaLink="false">2322faed842dfa6f3d15f3b25efb631b215ceed7f2402dbcf1c51067253ac397</guid>
-<source>The Verge</source>
+<title>Albanese government warned it’s ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI</title>
+<link>https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai</link>
+<guid isPermaLink="false">6c7136f17ee062bb533c824ac80bc9be655859eff6711c3943c15e9af28df409</guid>
+<source>The Guardian Technology</source>
 <category>technology</category>
-<pubDate>Wed, 04 Nov 2026 14:46:01 +0000</pubDate>
-<description>OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to "Ram Altman" in response to another user's comment, saying , "i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it is fucking annoying that this was taken out of context. i have been arguing for the world to ramp up memory production for a long time." He replied to another comment, saying, "i want you to have so much ram lets build more." but only because…i actually do want the world to have tons of memory and people to put as much as they want in their computers … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>SpaceX is working with Qualcomm to build its Starlink Mobile 5G network</title>
-<link>https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk</link>
-<guid isPermaLink="false">68caf23a2f4afbcfa827788f008a8bc67f95ea466d30a1d4d438b914538099a5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 14:38:20 +0000</pubDate>
-<description>SpaceX is teaming up with Qualcomm to build out its nationwide mobile network. Under the multi-year deal, SpaceX will bring Qualcomm's Dragonwing technology to "tens of thousands" of 5G cell sites across the US, with the first deployments set for 2027. The news of the partnership comes as part of SpaceX's push to make Starlink Mobile a "major" carrier in the US , competing directly with T-Mobile, AT&amp;T, and Verizon. The Elon Musk-owned company has already snapped up a swath of spectrum , while recent reports suggested that SpaceX was exploring an acquisition of Boost Mobile . Now, SpaceX is planning to use Qualcomm's Dragonwing Cellular Infras … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SpaceXAnnouncement.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SpaceXAnnouncement.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+<pubDate>Wed, 04 Nov 2026 14:00:37 +0000</pubDate>
+<description>Centre for Public Integrity report says mandatory audit and public register of all automated decision-making needed Get our breaking news email , free app or daily news podcast The federal government is “sleepwalking its way into another robodebt” scandal amid a lack of transparency and legislation around use of algorithms and artificial intelligence in decisions, the chief executive of independent thinktank the Centre for Public Integrity said. Dr Catherine Williams launched the centre’s “Computer Says No” report on Thursday, which examines the use of automated decision-making (ADM) tools by the government and calls for urgent reform. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/38e22593e1c54e33678c19366ab991e6f23ed601/623_0_6202_4965/master/6202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de7f8e67b828a53d4ed4be5d8d821cb7" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/38e22593e1c54e33678c19366ab991e6f23ed601/623_0_6202_4965/master/6202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de7f8e67b828a53d4ed4be5d8d821cb7" medium="image"/>
 </item>
 <item>
 <title>‘Discontent and distrust’: annual social cohesion checkup shows exactly what’s making Australia angry</title>
@@ -609,17 +675,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Google says there’s no way to use Search without using artificial intelligence</title>
-<link>https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence</link>
-<guid isPermaLink="false">e9f81d7b8157d0594ee1238dd0af381a4045aa24adc97fb6f99e355b4f8e07e2</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 20:30:06 +0000</pubDate>
-<description>In announcement geared to schools, tech giant shows how entwined AI is with the world’s most popular website Google just acknowledged that you can’t use Google Search without using artificial intelligence . The search giant announced a slate of new AI products for classrooms and schools on Tuesday as well as more ways for teachers and schools to limit or restrict use of those AI tools. The company said the schools should have control over whether students use AI in the classroom. There’s one catch, though: if a school or teacher blocks the use of Google’s AI features, students won’t be able to use Google Search. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/bcabbc779233306fc944dc23627a71897d2bbd68/344_0_2931_2345/master/2931.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55f23a5ccb5a2a5b1eafe42618ea3a64" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/bcabbc779233306fc944dc23627a71897d2bbd68/344_0_2931_2345/master/2931.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55f23a5ccb5a2a5b1eafe42618ea3a64" medium="image"/>
-</item>
-<item>
 <title>British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345</link>
 <guid isPermaLink="false">d952ab6d652f8f98f294da085d8d13acf748ea9d0621920ddaa7eccf52b995ae</guid>
@@ -653,17 +708,6 @@
 <media:content url="https://image.theregister.com/?imageId=260126&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Don't throw away your laptop's old SSDs — do this instead</title>
-<link>https://www.engadget.com/2300270/dont-throw-away-your-laptop-old-ssd-do-this-instead</link>
-<guid isPermaLink="false">22ead88322342cc1169b11986eaad178696a39560bff670102671a7d28440d76</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:30:00 +0000</pubDate>
-<description>Get some extra life out of your unused SSDs by converting them into external storage devices.</description>
-<enclosure url="https://www.engadget.com/img/gallery/dont-throw-away-your-laptops-old-ssds-do-this-instead/l-intro-1792960873.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/dont-throw-away-your-laptops-old-ssds-do-this-instead/l-intro-1792960873.jpg" medium="image"/>
-</item>
-<item>
 <title>Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring</title>
 <link>https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage</link>
 <guid isPermaLink="false">2c124d535471caf98c585018186832c20adfcb1d0c4e8874bb5d2643525a5256</guid>
@@ -673,17 +717,6 @@
 <description>The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/DSC01150.jpeg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/DSC01150.jpeg" medium="image"/>
-</item>
-<item>
-<title>Itch.io adds a filter for games with gen AI disclosures</title>
-<link>https://www.engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures</link>
-<guid isPermaLink="false">880689c5469834886680835a72d69708d11cf320ea0a1f1beec5bb951790b8bc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:27:28 +0000</pubDate>
-<description>Your turn, Steam.</description>
-<enclosure url="https://www.engadget.com/img/gallery/itch-io-adds-a-filter-for-games-with-gen-ai-disclosures/l-intro-1793733979.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/itch-io-adds-a-filter-for-games-with-gen-ai-disclosures/l-intro-1793733979.jpg" medium="image"/>
 </item>
 <item>
 <title>Your Apple Watch has 2 new controversial listening features – but you have to opt in</title>
@@ -1423,17 +1456,6 @@
 <media:content url="https://image.theregister.com/?imageId=1682641&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Frozen part II: Hackers remotely defrost produce in Euro supermarkets ... again</title>
-<link>https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924</link>
-<guid isPermaLink="false">21738fe3b441118d8167cb5c4f4ed1f674ce20951a6a034140140882ce74702c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 13:15:00 +0000</pubDate>
-<description>The cyberattacks on commercial refrigerators and freezers in Europe continue, as a slew of grocery stores in Belgium, Ireland, Luxembourg, and Sweden report widespread food wastage as a result of miscreants raising the temperatures to highs of 50ºC (122°F). In Belgium, around 40 Delhaize stores were affected after the attackers reportedly switched fridges and freezers into defrost mode overnight, between Sunday and Monday, resulting in stock issues. Diego Louwers, a Proxy Delhaize store manager in Overijse, near Brussels, told RTL Info that the consequences of the cyberattacks were "catastrophic," forcing the store to throw out the entirety of its fresh and frozen products. "We can't have anything worse in our line of work," he said. "We have to throw away all of our merchandise, and it's both heartbreaking and very complicated operationally." A Delhaize spokesperson said it took steps to ensure stores remain stocked, although fresh and frozen products are "temporarily somewhat limited." "On Monday, 2 November, we identified an IT incident affecting the refrigeration systems in several dozen of our stores," they said. "We immediately took the necessary measures to keep our stores operational and ensure that our customers can continue to do their shopping as usual. "In the affected stores, the range of fresh and frozen products is temporarily somewhat limited. Our distribution centres are operating normally, and there has been no disruption to deliveries to our stores. "We are, of course, continuing to ensure that our products are stored and presented under optimal conditions, so that we can provide our customers with the quality and freshness they have come to expect from us." Around 15 Carrefour stores are also reportedly affected, as are sites operated by Intermarché, Spar, and Shop &amp; Go stores located at Q8 service stations. Belgium’s De Laet &amp; Van Haver chain of butcher shops reported temperature rises in its appliances too, but followed up with a statement on Monday saying there was no impact on its produce, and all stores remain open. Simultaneously, similar issues have affected Swedish grocery chain ICA, which confirmed attacks on a "small number of stores." "We can confirm that we have been informed of an incident overnight affecting a small number of ICA stores operating outside ICA’s central network," a company spokesperson said. "The incident impacted the stores’ refrigeration and freezer systems. ICA is currently supporting the affected stores in managing the situation." ICA did not respond to questions about the scale of food wastage nor when normal operations are expected to continue. One store, ICA Nära in Böda on Öland, said via social media that it is open today but has no fresh or frozen produce to sell. "Unfortunately, we are one of the stores whose refrigerators and freezers have been hacked," it said. "We are open as usual, but unfortunately we have no refrigerators and freezers to sell. "We have no status on when the refrige</description>
-<enclosure url="https://image.theregister.com/?imageId=257960&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=257960&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>From a life-changing garlic press to a super-glowy serum: 12 buys you’re loving right now</title>
 <link>https://www.theguardian.com/thefilter/2026/oct/30/things-you-loved-most-october-2026</link>
 <guid isPermaLink="false">e3e438ed6692305af132e68369945de50acbdf78315f92be2d2d715640adda21</guid>
@@ -1531,28 +1553,6 @@
 <description>Voicing the main character in Black Tides Draga’s Wake led to me making the kinds of noises I haven’t made since my honeymoon but also one of my favourite moments as a father “I listen to you on the radio and I keep hearing your voice in my head!” Not a typical opening to a creative partnership, but that is how Greg Strangis introduced himself to me 16 months ago, when he asked me to come to his garage in the middle of nowhere and have a look at a game he was making called Black Tides Draga’s Wake. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/305a0c442ca68d5418eb3fc87e0ac63ff6f18f58/43_0_1819_1456/master/1819.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa4f7df1a37b6a1e5af5b2778af504fd" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/305a0c442ca68d5418eb3fc87e0ac63ff6f18f58/43_0_1819_1456/master/1819.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa4f7df1a37b6a1e5af5b2778af504fd" medium="image"/>
-</item>
-<item>
-<title>Your headphones have hidden LE Audio features you’ll want to know about</title>
-<link>https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose</link>
-<guid isPermaLink="false">210628a17147ca24aa5bc86bb0fe73d280e00c9cc01751f64ceb5681863bfab6</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 17:45:05 +0000</pubDate>
-<description>Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover — not just Auracast.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg" medium="image"/>
-</item>
-<item>
-<title>Firefox and Chrome patch 200+ security flaws combined – update both ASAP</title>
-<link>https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap</link>
-<guid isPermaLink="false">e7e4555aaae3a57aa4155b443e208d41c45b5919e9723d61041d198c2fc616bb</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 16:30:28 +0000</pubDate>
-<description>The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Firefox-159-with-passwords-sidebar-and-website-change-monitoring.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Firefox-159-with-passwords-sidebar-and-website-change-monitoring.jpg" medium="image"/>
 </item>
 <item>
 <title>Night Plane review – join the jumbo jet to hell in this indie horror head trip</title>

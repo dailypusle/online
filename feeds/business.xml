@@ -4,12 +4,23 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>US midterms election 2026 live: Democrats win US Senate majority</title>
+<title>Ethereum dev targets 2028 for quantum resistance, a year early</title>
+<link>https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target</link>
+<guid isPermaLink="false">3ff8a7925caca9955a9ab887badfefc07bc46ccc05241a84fec4c649ec366aaf</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 05:46:33 +0000</pubDate>
+<description>Ethereum researcher Justin Drake said it is their “hope” that Ethereum will achieve its post-quantum and post-AI transition by December 2028.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JH4H7TR2ZYP94F0GBTNFV0/ethereum-post-quantum.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JH4H7TR2ZYP94F0GBTNFV0/ethereum-post-quantum.png" medium="image"/>
+</item>
+<item>
+<title>US midterms election 2026 live: Trump applauds Democrats on Senate win</title>
 <link>https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto</link>
 <guid isPermaLink="false">8642056a013a2073e329bc771a4805a07742ebe46755dc22aa034f5737bfeeba</guid>
 <source>Cointelegraph</source>
 <category>business</category>
-<pubDate>Wed, 04 Nov 2026 04:43:41 +0000</pubDate>
+<pubDate>Wed, 04 Nov 2026 05:30:31 +0000</pubDate>
 <description>Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" medium="image"/>
@@ -739,17 +750,6 @@
 <description>The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F047PK32DP192ZJ19H5DWA/hi-who-are-bam2.png" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F047PK32DP192ZJ19H5DWA/hi-who-are-bam2.png" medium="image"/>
-</item>
-<item>
-<title>Crypto investigators flag suspected $106M theft, $786K Solana bot drain</title>
-<link>https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain</link>
-<guid isPermaLink="false">52153c571ae85fc3a7b26ac04e0fde833745c730f0203d70f9ff0452cc54212d</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 21:16:24 +0000</pubDate>
-<description>A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack</title>

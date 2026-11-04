@@ -4,15 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>US midterm elections 2026 live: Democrats win House, securing control of Congress</title>
+<title>Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’</title>
+<link>https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off</link>
+<guid isPermaLink="false">837dd5d9ca8087a1b8d3700be7b45701f09bb7ad4c3b66bbb56c075b480c7d9b</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 09:38:07 +0000</pubDate>
+<description>Bitwise’s André Dragosch attributed Bitcoin ETF outflows to weaker market sentiment, saying institutions have largely maintained their exposure.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JRM61WJDE5HAK5N5H8KTCD/man-with-holo-graphics-bitwise-etf.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JRM61WJDE5HAK5N5H8KTCD/man-with-holo-graphics-bitwise-etf.jpg" medium="image"/>
+</item>
+<item>
+<title>US midterm elections 2026 as it happened: Democrats win control of Congress</title>
 <link>https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto</link>
 <guid isPermaLink="false">8642056a013a2073e329bc771a4805a07742ebe46755dc22aa034f5737bfeeba</guid>
 <source>Cointelegraph</source>
 <category>business</category>
-<pubDate>Wed, 04 Nov 2026 08:38:19 +0000</pubDate>
-<description>Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.</description>
+<pubDate>Wed, 04 Nov 2026 09:27:34 +0000</pubDate>
+<description>Democrats won control of Congress in the 2026 US midterms. Catch up on key races, crypto-backed candidates and the outlook for crypto regulation.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" medium="image"/>
+</item>
+<item>
+<title>Binance hackers move 81% of stolen Solana, route funds via THORChain</title>
+<link>https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain</link>
+<guid isPermaLink="false">5cc6ce7399b0f713a53448d67b54259a9ae64ba8da101e92db0fb0994c567dbb</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 09:15:55 +0000</pubDate>
+<description>The Binance attackers moved most of the stolen SOL and continued laundering funds through THORChain after the protocol resumed swaps.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JSYN4CMF8CPRYYC0EAT4GM/hi-what-happened-a-follow-up-on-the-hack.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JSYN4CMF8CPRYYC0EAT4GM/hi-what-happened-a-follow-up-on-the-hack.jpg" medium="image"/>
 </item>
 <item>
 <title>Democrats win US House to secure control of Congress in midterms</title>
@@ -708,17 +730,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FN2679AMA9PVMMSE4QTW9R/binance-1.jpg" medium="image"/>
 </item>
 <item>
-<title>South Korea urges exchanges to boost cold storage after Binance hack</title>
-<link>https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack</link>
-<guid isPermaLink="false">08fd1c1e75205d44b929037a029723bd0407cc63cd07b6478ad5884304f516ae</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 01:32:39 +0000</pubDate>
-<description>South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FGGYW74TAX5AA8ACWCFSAT/cold-wallet.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FGGYW74TAX5AA8ACWCFSAT/cold-wallet.jpg" medium="image"/>
-</item>
-<item>
 <title>Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest</title>
 <link>https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks</link>
 <guid isPermaLink="false">01c93ff11ad0f5fa13ddd41ad22d3b0c0e089a77f150dad965607e7c6d8b768d</guid>
@@ -728,17 +739,6 @@
 <description>Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic’s site code, and OpenAI appears to be testing GPT-6.2 Astra.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>North Korea denies role in $6.3B Binance hack, points finger at US</title>
-<link>https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us</link>
-<guid isPermaLink="false">90621eaeea7958ac6bf4595155da7b2b3b5c5eaf9b993ee835bae260ec1acd64</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 23:07:07 +0000</pubDate>
-<description>Pyongyang has pushed back against the FBI’s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F7B7K3T1C90EANET9800H1/north-korea.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F7B7K3T1C90EANET9800H1/north-korea.jpg" medium="image"/>
 </item>
 <item>
 <title>Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy</title>

@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
 <head>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="dailypulse-build" content="notification-fix-20261104">
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#087cf0">
 <meta name="description" content="DailyPulse brings you the latest breaking news, top stories, business, technology, sports and world updates.">
@@ -624,23 +627,24 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     question = question.trim(); if (!question || send.disabled) return;
     addUserMessage(question);
     const priorHistory = history.slice(-8);
-    history.push({ role: 'user', content: question });
     input.value = ''; resizeChatInput(); send.disabled = true;
     const typing = document.createElement('div'); typing.className = 'dp-chat-typing'; typing.textContent = 'DailyPulse Assistant is thinking…'; chatBody.appendChild(typing); chatBody.scrollTop = chatBody.scrollHeight;
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 180000);
     try {
       const response = await fetch(CHAT_API_URL, {
-        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        method: 'POST', mode: 'cors', cache: 'no-store', credentials: 'omit',
+        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
         body: JSON.stringify({ message: question, history: priorHistory }), signal: controller.signal
       });
       const data = await response.json().catch(() => ({}));
       if (!response.ok) throw new Error(data.error || data.details || `Request failed (${response.status})`);
       const answer = data.answer || 'I could not prepare an answer. Please try again.';
       renderAnswer(answer, data.sources);
-      history.push({ role: 'assistant', content: answer });
+      history.push({ role: 'user', text: question });
+      history.push({ role: 'model', text: answer });
     } catch (error) {
-      const message = error.name === 'AbortError' ? 'The request took too long. Please try again.' : (error.message || 'Connection problem. Please try again.');
+      const message = error.name === 'AbortError' ? 'The request took too long. Please try again.' : (error instanceof TypeError ? 'The browser could not reach the Assistant Worker. Check the Worker CORS SITE_ORIGIN setting and confirm it matches this website address exactly.' : (error.message || 'Connection problem. Please try again.'));
       renderAnswer('Sorry, I could not complete that request. ' + message);
     } finally {
       clearTimeout(timeout); typing.remove(); send.disabled = false; input.focus();
@@ -677,7 +681,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     window.matchMedia('(display-mode: standalone)').matches ||
     window.navigator.standalone === true;
 
-  if (isStandalone) {
+  if (isStandalone()) {
     installButton.hidden = true;
     return;
   }
@@ -714,7 +718,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
 
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
-      navigator.serviceWorker.register('./sw.js').catch(error =>
+      navigator.serviceWorker.register('./sw.js', { scope: './', updateViaCache: 'none' }).catch(error =>
         console.warn('DailyPulse service worker registration failed:', error)
       );
     });
@@ -750,7 +754,8 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
 </div>
 <script>
 (() => {
-  // Replace this with the URL of the notification Worker after deploying it in Cloudflare.
+  "use strict";
+
   const WORKER_URL = "https://dailypulse-notifications.odunzephilemon0.workers.dev";
   const overlay = document.getElementById("dp-notify-overlay");
   const allowButton = document.getElementById("dp-notify-allow");
@@ -759,86 +764,188 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
   const DISMISSED = "dailypulse-notification-prompt-dismissed";
   const SUBSCRIBED = "dailypulse-notifications-enabled";
 
-  const supported = "Notification" in window && "serviceWorker" in navigator && "PushManager" in window;
+  if (!overlay || !allowButton || !laterButton || !statusBox) {
+    console.error("DailyPulse: notification interface elements are missing.");
+    return;
+  }
+
+  const supported = ("Notification" in window) &&
+    ("serviceWorker" in navigator) &&
+    ("PushManager" in window);
+
+  const storage = {
+    get(key) { try { return localStorage.getItem(key); } catch (_) { return null; } },
+    set(key, value) { try { localStorage.setItem(key, value); } catch (_) {} },
+    remove(key) { try { localStorage.removeItem(key); } catch (_) {} }
+  };
 
   function showPrompt() {
-    if (!supported || Notification.permission !== "default") return;
-    if (localStorage.getItem(DISMISSED) === "yes" || localStorage.getItem(SUBSCRIBED) === "yes") return;
+    if (storage.get(SUBSCRIBED) === "yes") return;
+    if (sessionStorage.getItem(DISMISSED) === "yes") return;
     overlay.style.display = "flex";
-  }
 
-  function base64UrlToBytes(value) {
-    const padded = value + "=".repeat((4 - value.length % 4) % 4);
-    const binary = atob(padded.replace(/-/g, "+").replace(/_/g, "/"));
-    return Uint8Array.from(binary, character => character.charCodeAt(0));
-  }
-
-  async function subscribeForAlerts() {
-    if (WORKER_URL.includes("YOUR-CLOUDFLARE-WORKER")) {
-      throw new Error("DailyPulse notifications are not connected to Cloudflare yet. Please try again later.");
+    if (!supported) {
+      statusBox.textContent = "This browser does not support web push notifications. Please use the latest Google Chrome.";
+      allowButton.disabled = true;
+      return;
     }
-    if (!window.isSecureContext) throw new Error("Notifications require a secure HTTPS connection.");
-    allowButton.disabled = true;
-    allowButton.textContent = "Enabling…";
+    allowButton.disabled = false;
+    if (Notification.permission === "denied") {
+      statusBox.textContent = "Chrome is currently blocking notifications for this site. Change the site's notification permission to Allow in Chrome settings, and also make sure Android allows notifications for Chrome.";
+      allowButton.textContent = "Check Chrome Settings";
+      allowButton.disabled = true;
+    } else {
+      allowButton.textContent = Notification.permission === "granted"
+        ? "Finish Enabling Notifications"
+        : "Allow Notifications";
+    }
+  }
 
-    // The browser permission prompt is shown only after the visitor taps this button.
-    const permission = await Notification.requestPermission();
-    if (permission !== "granted") throw new Error("Notification permission was not granted.");
+  function decodeVapidKey(key) {
+    if (typeof key !== "string" || !key.trim()) {
+      throw new Error("The notification Worker did not return its VAPID public key.");
+    }
+    const base64 = key.trim().replace(/-/g, "+").replace(/_/g, "/");
+    const padded = base64 + "=".repeat((4 - base64.length % 4) % 4);
+    const raw = atob(padded);
+    return Uint8Array.from(raw, c => c.charCodeAt(0));
+  }
 
-    // The existing PWA service worker is at the root of /online/.
-    const registration = await navigator.serviceWorker.register("./sw.js", { scope: "./" });
+  async function finishSubscription() {
+    if (!window.isSecureContext) {
+      throw new Error("DailyPulse must be opened using its HTTPS address.");
+    }
+
+    const registration = await navigator.serviceWorker.register("./sw.js", {
+      scope: "./",
+      updateViaCache: "none"
+    });
     await navigator.serviceWorker.ready;
 
-    const keyResponse = await fetch(WORKER_URL.replace(/\/$/, "") + "/vapid-public-key");
-    if (!keyResponse.ok) throw new Error("Could not contact the DailyPulse notification service.");
+    if (!registration.active && !navigator.serviceWorker.controller) {
+      throw new Error("The DailyPulse service worker has not activated. Check that sw.js is uploaded beside index.html in the online folder, then reload.");
+    }
+
+    const base = WORKER_URL.replace(/\/+$/, "");
+    const keyResponse = await fetch(base + "/vapid-public-key", {
+      method: "GET", mode: "cors", cache: "no-store", credentials: "omit",
+      headers: { "Accept": "application/json" }
+    });
+    if (!keyResponse.ok) {
+      throw new Error("The notification Worker could not provide its public key (HTTP " + keyResponse.status + ").");
+    }
+
     const keyData = await keyResponse.json();
-    if (!keyData.publicKey) throw new Error("Cloudflare did not return a push public key.");
+    const publicKey = keyData.publicKey || keyData.vapidPublicKey || keyData.vapid_public_key;
+    if (!publicKey) {
+      throw new Error("The notification Worker response is missing publicKey.");
+    }
 
     let subscription = await registration.pushManager.getSubscription();
     if (!subscription) {
       subscription = await registration.pushManager.subscribe({
         userVisibleOnly: true,
-        applicationServerKey: base64UrlToBytes(keyData.publicKey)
+        applicationServerKey: decodeVapidKey(publicKey)
       });
     }
 
-    const saveResponse = await fetch(WORKER_URL.replace(/\/$/, "") + "/subscribe", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
+    const saveResponse = await fetch(base + "/subscribe", {
+      method: "POST", mode: "cors", cache: "no-store", credentials: "omit",
+      headers: { "Content-Type": "application/json", "Accept": "application/json" },
       body: JSON.stringify({ subscription })
     });
-    const result = await saveResponse.json().catch(() => ({}));
-    if (!saveResponse.ok) throw new Error(result.error || "Your subscription could not be saved.");
+    const saveResult = await saveResponse.json().catch(() => ({}));
+    if (!saveResponse.ok) {
+      throw new Error(saveResult.error || "The notification Worker could not save the subscription (HTTP " + saveResponse.status + ").");
+    }
 
-    localStorage.setItem(SUBSCRIBED, "yes");
-    localStorage.removeItem(DISMISSED);
+    storage.set(SUBSCRIBED, "yes");
     overlay.style.display = "none";
-    await registration.showNotification("DailyPulse alerts enabled", {
-      body: "You're subscribed to the daily 9:00 AM top story.",
+    await registration.showNotification("DailyPulse notifications enabled", {
+      body: "Your browser is subscribed to DailyPulse alerts.",
       icon: "./icons/dailypulse-192.png",
-      badge: "./icons/dailypulse-192.png"
+      badge: "./icons/dailypulse-192.png",
+      tag: "dailypulse-enabled-test"
     });
   }
 
-  allowButton.addEventListener("click", async () => {
+  // IMPORTANT: requestPermission() is called immediately inside the trusted
+  // button click handler, before any other await, to preserve Chrome's
+  // user-gesture requirement.
+  allowButton.addEventListener("click", function () {
     statusBox.textContent = "";
-    try {
-      await subscribeForAlerts();
-    } catch (error) {
-      statusBox.textContent = error.message || "Unable to enable notifications.";
-    } finally {
-      allowButton.disabled = false;
-      allowButton.textContent = "Allow Notifications";
+
+    if (!supported) {
+      statusBox.textContent = "Web push is not supported by this browser.";
+      return;
     }
+
+    if (Notification.permission === "denied") {
+      statusBox.textContent = "Chrome has already blocked this site's permission request. Open Chrome → Settings → Site settings → Notifications → DailyPulse → Allow. Also check Android Settings → Apps → Chrome → Notifications.";
+      return;
+    }
+
+    allowButton.disabled = true;
+    allowButton.textContent = "Requesting permission…";
+
+    let permissionPromise;
+    try {
+      permissionPromise = Notification.permission === "granted"
+        ? Promise.resolve("granted")
+        : Notification.requestPermission();
+    } catch (error) {
+      allowButton.disabled = false;
+      statusBox.textContent = "Chrome could not open the permission request: " + (error.message || error);
+      return;
+    }
+
+    Promise.resolve(permissionPromise).then(permission => {
+      if (permission !== "granted") {
+        const current = Notification.permission;
+        if (current === "denied") {
+          throw new Error("Chrome denied notifications. Set DailyPulse to Allow in Chrome site settings and enable notifications for Chrome in Android Settings → Apps → Chrome → Notifications.");
+        }
+        throw new Error("Chrome did not record a permission choice. Tap Allow Notifications again and select Allow on the Chrome prompt. If no prompt appears, open Chrome Site settings → Notifications and check that this site is not blocked.");
+      }
+      allowButton.textContent = "Connecting…";
+      return finishSubscription();
+    }).catch(error => {
+      console.error("DailyPulse notification setup:", error);
+      statusBox.textContent = error && error.message ? error.message : "Notification setup failed.";
+    }).finally(() => {
+      allowButton.disabled = Notification.permission === "denied";
+      if (Notification.permission === "denied") {
+        allowButton.textContent = "Check Chrome Settings";
+      } else if (Notification.permission === "granted") {
+        allowButton.textContent = "Finish Enabling Notifications";
+      } else {
+        allowButton.textContent = "Allow Notifications";
+      }
+    });
   });
 
   laterButton.addEventListener("click", () => {
-    localStorage.setItem(DISMISSED, "yes");
+    sessionStorage.setItem(DISMISSED, "yes");
     overlay.style.display = "none";
   });
 
-  // Show the branded explanation promptly on the first visit.
-  window.addEventListener("load", () => window.setTimeout(showPrompt, 700));
+  function init() {
+    showPrompt();
+    if ("serviceWorker" in navigator && window.isSecureContext) {
+      navigator.serviceWorker.register("./sw.js", {
+        scope: "./", updateViaCache: "none"
+      }).catch(error => {
+        console.error("DailyPulse service worker registration:", error);
+        statusBox.textContent = "Could not register /online/sw.js. Confirm the file exists beside index.html.";
+      });
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init, { once: true });
+  } else {
+    init();
+  }
 })();
 </script>
 

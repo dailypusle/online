@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads</title>
+<link>https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb</link>
+<guid isPermaLink="false">30cc767d8a64837350ff443cff0af08dccef557b7882dec9c0b92b02941272bd</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 23:00:46 +0000</pubDate>
+<description>Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and AI-generated politicians’ Get our daily political email , free app or daily news podcast It’s the night of Halloween and Jess Wilson has appeared on social media feeds with a warning about a scary prospect: “Americanised healthcare” under a future Liberal government. “If you had a heart attack, you would have to pay $150,000 for care,” the Victorian Liberal leader says, mid-trick or treat. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/98bda4ace9417a01039105abd323a4d517ff1463/0_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f0e5a24473c4756e910e57690b3b8b8" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/98bda4ace9417a01039105abd323a4d517ff1463/0_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f0e5a24473c4756e910e57690b3b8b8" medium="image"/>
+</item>
+<item>
 <title>Snap has more than 30 million paid subscribers across Snapchat+ and other plans</title>
 <link>https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans</link>
 <guid isPermaLink="false">0f0d3295ebee653920de1e5a86d40bb6f523cadb18779157d2ab80119dccb6d2</guid>
@@ -13,6 +24,50 @@
 <description>Power users seem more than willing to pay for AI-powered effects.</description>
 <enclosure url="https://www.engadget.com/img/gallery/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/l-intro-1793832812.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/l-intro-1793832812.jpg" medium="image"/>
+</item>
+<item>
+<title>Nintendo's biggest ROM chip supplier is bowing out of the business</title>
+<link>https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain</link>
+<guid isPermaLink="false">fc4fbc39d24bbd6b2c16de080c2d0a7a3aeecaac1b45d7e146d896f707b7b6f4</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 22:47:51 +0000</pubDate>
+<description>For years, the AI industry's insatiable demand for memory and storage has had plenty of knock-on effects on the price and availability of PC components like RAM , SSDs , and GPUs . Now those shortages are also squeezing the supply of ROM chips that power physical Nintendo Switch and Switch 2 game cartridges. Chip manufacturer Macronix announced in its third-quarter earnings report that the company's production of ROM chips "has reached its end" and that it will begin "gradually decoupling from the game industry," as reported by Taiwanese news site BigGo Finance . That could be an issue for Nintendo, which analyst David Gibson notes uses Macronix as its "main memory chip maker" for physical game cartridges. That ROM production—which has shrunk 39 percent in the last year and now represents just 5 percent of Macronix's business—is being crowded out by production of more lucrative, in-demand chips like NOR- and NAND-based memory and eMMCs, the company said. With Macronix's production capacity stuck at 25,000 12-inch wafers a month—and $1.2 billion in planned new capacity taking a year or more to spin up—less profitable ROM chips are taking up wafer space that can earn more through other types of chips. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Qualcomm is betting big on data centers as smartphone sales sink</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</link>
+<guid isPermaLink="false">b531b56f4ce7687d64ce92b0db0af256be0f7e845d2f33b333c2c10880d8fe10</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 22:42:15 +0000</pubDate>
+<description>With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029. Considering the company's total revenue for 2026 was $10.4 billion, … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Hackers exploited iOS and Android flaws to infect phones</title>
+<link>https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones</link>
+<guid isPermaLink="false">c93bd43ca9b62628b02e8a99772d926a74616fed2698176ecc289ec338b44c68</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 22:26:49 +0000</pubDate>
+<description>Hackers possibly linked to the Kremlin exploited previously patched iOS and Android flaws in an attempt to hack visitors of multiple websites, including one celebrating the 250th anniversary of the signing of the US Constitution, researchers said Wednesday. The attackers, which the researchers assessed with “moderate to high confidence” were part of Russia’s Foreign Intelligence Service, targeted other sites, many with links to that country’s ongoing war against Ukraine. The attacks began when iPhone or Android users visited one of potentially hundreds of different sites. JavaScript injected into the traffic then profiled the device. The final payloads, tailored to the type of platform visiting, attempted to steal browser cookies and, in some cases, Wi-Fi passwords and full mobile device data. Wielding DarkSword One of the impersonated sites was america250.org, belonging to a non-partisan group of lawmakers, business executives, and at least one former member of the Trump administration. The attackers registered america250[.]holiday and used it as a reverse proxy to america250.org. The imposter website delivered content from the real one that added malicious JavaScript into it. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Uranium cubes reveal why the German nuclear project failed</title>
+<link>https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed</link>
+<guid isPermaLink="false">e9faad409040a5470341b922588bdc219399c37fc32d90560fd3b13801913fd7</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:56:29 +0000</pubDate>
+<description>During World War II, physicists on the Manhattan Project worried that the Nazi German nuclear program might achieve the first nuclear bomb before the US and its allies. That's not what transpired, but historians have debated just how close the Germans came to achieving criticality in their last attempt at building a reactor: the B8 pile. Werner Heisenberg, who led that effort, claimed that they were close and had only needed a little more uranium. But according to a paper published in the Proceedings of the National Academy of Sciences Nexus, that was not the case: the project simply didn't have sufficient uranium and heavy water to build a working bomb, given the design they were using. This particular research started in 2013, when University of Maryland physicist Timothy Koeth—a co-author on the new paper—received the gift of a mysterious heavy metal cube from a friend. He instantly recognized it as one of the uranium cubes used by German scientists in their unsuccessful attempt to build a working nuclear reactor. Only 14 such cubes are known to exist today. In 2019, we reported on Koeth’s quest to track down the cube’s origins, as well as several other similar cubes that had somehow found their way across the Atlantic. At the time, Koeth and his partner in the quest, then-graduate student Miriam “Mimi” Hiebert, had tracked down ten such cubes around the US. For instance, the Smithsonian Institute had a German uranium cube in storage. They tracked a third cube to Harvard University, where it was regularly passed around to students in introductory physics classes as a curiosity. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple turns iCloud into spy cloud, will start looking at public share links</title>
@@ -277,17 +332,6 @@
 <description>Also, can I just say this LED indicator light is way too small and unnoticeable? This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here . "How does that make you feel?" I get asked this a lot in therapy. Plenty of life events, big and small, have triggered this question. Three weeks ago, it was the fact that I had to ask my therapist for her consent because I was wearing the Amazon Bee Frontier during our session. That first week, I didn't really have an answer. A lot had changed since I first tested Bee , an always-recording AI wearable, early last year. The ele … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>ChatGPT will now make you animated GIFs</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6</link>
-<guid isPermaLink="false">7e4f7adddfbaac34bb48f63cf9d4ce2030dfb65ff51f5cd613c248b1672df644</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
-<description>ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, "can you make a gif of a cat dancing?" while also providing you with the option to change the playback speed and view it frame by frame. Along with support for GIF-making, the Images 2.6 update also enables faster imag … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>God of War Laufey is delayed until May 20</title>
@@ -752,17 +796,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>US tech stocks recover after selloff spooks investors over AI spending</title>
-<link>https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending</link>
-<guid isPermaLink="false">8fb47c722971ec48c73514174db3c2dde742af47ef778c490fc056ce46034726</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 22:18:45 +0000</pubDate>
-<description>Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over AI spending. Tuesday’s midterm elections didn’t appear to have a huge impact on Wall Street, though investors are predicting Democrats get at least a majority in the House and potentially gain seats in the Senate, which could lead to more AI regulation. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/4deeff6920cbe68eb5c102d876b4df883151e8e9/584_0_5820_4658/master/5820.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e7c79fd67c100ee18ad005294f5771a" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/4deeff6920cbe68eb5c102d876b4df883151e8e9/584_0_5820_4658/master/5820.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e7c79fd67c100ee18ad005294f5771a" medium="image"/>
-</item>
-<item>
 <title>North Korean fake job interview led to $6.3B Binance heist</title>
 <link>https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398</link>
 <guid isPermaLink="false">12bef4e997afcdd01ad6c08af9bce4452636c28c131c8ebede782a079b7a7f8e</guid>
@@ -1027,17 +1060,6 @@
 <media:content url="https://image.theregister.com/?imageId=5269504&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?</title>
-<link>https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame</link>
-<guid isPermaLink="false">d0522909286669e4fb11322ab8eecb97433d404e77dd06bdd6ec126e6f1b2c18</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:03:13 +0000</pubDate>
-<description>In 2023, malware tracked as BlackLotus became the first publicly documented in-the-wild UEFI bootkit capable of bypassing Secure Boot on fully updated Windows 11 systems. With the industry-wide chain-of-trust mechanism subverted, the malware was able to run malicious code before Windows was fully loaded and many security defenses were operational. Microsoft had already patched the vulnerability that BlackLotus exploited in 2022. In 2023 and 2024, Microsoft issued additional updates. The first added a new certificate that no longer trusted the vulnerable boot managers. The second provided the means to revoke trust in the digital certificate used to sign older vulnerable Windows boot managers. The organizations infected by the new bootkit, which is tracked under the name BlackX, had installed all of these patches. So how did they fall victim? UEFI bootkit refresher Before discussing the incident further, a brief review of BlackLotus and UEFI malware is in order. Short for Unified Extensible Firmware Interface , UEFI is firmware that runs immediately after a computer is turned on. One of its main jobs is to load system configuration settings, identify and initialize hardware components, and prepare the computer to start its OS. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg" medium="image"/>
-</item>
-<item>
 <title>GhostBSD 26.2 takes the fright out of FreeBSD with a friendlier installer</title>
 <link>https://www.theregister.com/os-platforms/2026/11/03/ghostbsd-262-takes-the-fright-out-of-freebsd-with-a-friendlier-installer/5307228</link>
 <guid isPermaLink="false">decf744c57955c195f850c77cd508f3efcf8b7eae01b14fd589150ea09a54bd4</guid>
@@ -1047,17 +1069,6 @@
 <description>GhostBSD, the easiest-to-install flavor of FreeBSD for the daemon-curious desktop dabbler, is back with a fresh update. GhostBSD 26.2-R15.1p6 , to give it its slightly unwieldy full version number, is based on FreeBSD 15.1. It brings a new installer, full-disk encryption support, a smaller installation image, and fixes across its desktop tools. FreeBSD 15.1 was released back in June , and at the time of writing, it's the most recent point release of FreeBSD. The original plan was that FreeBSD 15.1 would include the option of installing KDE Plasma directly from the setup program, so that the OS would have a graphical desktop from its very first boot. However, this feature isn't ready just yet. That gap inspired Daemonarchy, which we covered late last month . But its Omarchy-derived, keyboard-driven tiling desktop can feel unfamiliar even to experienced Linux users accustomed to conventional desktops. GhostBSD has different goals. It brings Linux-like desktop convenience to FreeBSD: a live graphical environment to explore before installation, a graphical installer, and tools for managing software and updates. These conveniences are familiar to desktop Linux users, but a standard FreeBSD installation takes more work. Its text-mode installer leaves users to install and configure a graphical desktop themselves, if they want one. This is just how the BSD family does things, and most BSD users we've talked to regard it as standard operating procedure and see nothing wrong with it. For Linux users who are curious about how things are on the other side of the FOSS Unix fence, though, those extra steps can form formidable barriers. GhostBSD is an attempt to lay down a welcome mat. The standard edition of GhostBSD installs the MATE desktop, and the downloads page also offers a community-maintained version with Xfce instead. As the project said it would back in February, this release uses the XLibre fork of the X.org X11 server. That's one fewer desktop than when we last tried GhostBSD in August 2025 . That release also offered the Mac OS X-like Gershwin environment. There are practical hardware fixes too. The release notes list improvements for Intel AX200 Wi-Fi cards, open networks, password alerts, and non-ASCII network names, while USB HID support is enabled by default. Where has Gershwin gone? Gershwin remains in active development , so we asked project lead Joe Maloney why it wasn't included. "It has been difficult to find time to package for GhostBSD. It's the only distro I have ever packaged for," Maloney said. He added that rapid contributions from AppImage creator Simon Peter, known as probono, had made packaging increasingly difficult. He also pointed to the fact that GhostBSD project lead Eric Turgeon is developing his own environment too: the Mocka desktop . Mocka is still in its very early stages – alpha version 0.0.2 appeared early last month – but the plan is that when it's ready, it will become GhostBSD's default desktop. For now, the only a</description>
 <enclosure url="https://image.theregister.com/?imageId=5307264&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5307264&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.</title>
-<link>https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram</link>
-<guid isPermaLink="false">fb61513d38bb2f0957279cf11ad6b1b4cb4a93080dca704419fa12df4e02e399</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:39:30 +0000</pubDate>
-<description>Over the weekend, the No Kings Coalition said Meta declined to commit to taking steps to prevent automated systems from suspending one of Instagram's most prominent pro-democracy accounts if activity surged around the page during the midterm elections. A demand for action came after Meta apologized for temporarily suspending the No Kings Instagram account and disabling access for four hours at the peak of an early voting push from the group. In a post on X, Meta’s Andy Stone said the account had been using a Claude AI tool in a way that made it appear to be a bot. But even though automated review detected the error within an hour, Stone acknowledged that additional hurdles kept admins locked out. State and federal lawmakers—as well as a coalition of 14 attorneys general —have asked Meta to further explain its actions. In a letter to No Kings, Meta offered to arrange a meeting with a technical expert who could better explain the mistake. But No Kings rejected the response, saying it failed to address any of the group's ongoing concerns and requesting a meeting with Meta senior leadership instead. The group stressed that the issue goes beyond its Instagram account, saying that Americans who rely on Meta's platforms need assurance that voting content won’t be suppressed ahead of or on election day. Among eight questions, the coalition asked Meta to publicly disclose any communications with the Trump administration about the No Kings account or the historic early voting day event. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>ShinyHunters hit 850k alumni, donors, students, and fam in last year's Harvard University raid</title>
@@ -1080,17 +1091,6 @@
 <description>Most JavaScript programmers default to their ride-or-die frameworks, but such loyalties can hinder them when they task AI agents with doing their dirty work. Human-friendly tools aren't necessarily the most effective ones for the model-powered minions. "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based,” wrote Seattle-based Nolan Lawson , currently a developer at AI security firm Socket . That’s an understatement; the JavaScript wars have been well underway for over a decade now, with each new framework promising to cure the woes of last year’s release. Not wanting these vibey biases to seep into the realm of AI, Lawson created a benchmark to compare how different JavaScript frameworks perform under the same agentic model. He subsequently ran the test on 12 JavaScript frameworks, publishing the results in a post that compared each framework in terms of build cost, maintainability, and end-user performance of their agent-built apps. The results are illuminating. In general, agents tend to work more efficiently with server-centric frameworks than with client-heavy “Single-Page App” (SPA) frameworks (which should tickle for React haters ). But the biggest take-away should be less controversial: agents best utilize those frameworks that favor convention, API stability, and concision. How to compare JavaScript frameworks For the experiment, Lawson wrote a set of instructions for a Claude Code agent to build a basic Pokémon web application using the PokéAPI . The model used the identical setup on 12 different frameworks and JavaScript stacks: Angular, Astro, Gracile with Lit, Hono with htmx, vanilla JavaScript with Vite, Next.js, Nuxt, Qwik, React Router, TanStack Start, SolidStart, and SvelteKit. Lawson evaluated each stack across five independent sandbox runs; the repeated iterations smoothed the variance in the model’s performance. To verify the resulting app met the specs, Lawson deployed a custom automated test suite that queried the browser's accessibility tree to ensure interactive elements like buttons and inputs weren’t faked – a shortcut LLMs occasionally take. Lawson also used Google Lighthouse to measure transfer size and runtime performance. If the frameworks specified official MCP servers, Claude plug-ins, and agent-skill files, Lawson provided them as resources to the agents (though they weren’t always consulted). Otherwise, he did not mandate any specific architecture for rendering the app. Comparing 12 JavaScript frameworks The differences between the most cost-effective builds and the most expensive ones are substantial, to say the least, with the best lapping the efforts of the stragglers. If you want to build a Pokéworld cost-effectively, the strongest bet is on Hono paired with htmx . This tag-team of technologies had the most economical run, with a median cost of $2.67 per Pokéapp. Perhaps this is not surprising, given that the duo runs entirely on the server, thereby</description>
 <enclosure url="https://image.theregister.com/?imageId=259044&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=259044&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>EPA throws in the towel on policing air pollution from factory farms</title>
-<link>https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms</link>
-<guid isPermaLink="false">ed920e788e54e412b3fc59d74e2ec7da8eb3cb557c41738eeb0255e4fc11a602</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:49:00 +0000</pubDate>
-<description>The Environmental Protection Agency late last week announced it would end a 20-plus-year effort to develop methods to monitor air pollution from factory farms, effectively shuttering the agency’s stop-and-start attempts to regulate the potentially pollutant-spewing facilities under the Clean Air Act. The announcement came just days before the midterm elections and was characterized by the agency as a long-awaited reprieve for farmers, a historically important constituency for Trump and the Republican Party. When tens of thousands of animals are packed into one place, pollution from their waste is blown from ventilation fans or emanates from giant lagoons of liquid effluent. Livestock facilities emit fine particulate matter, ammonia, nitrogen oxides, sulfur dioxide, and volatile organic compounds, all contributing to a toxic mix. Research has shown that emissions from these operations are a major cause of air pollution, causing nearly 12,700 deaths in the United States a year. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>NHS counts Palantir benefits at trusts that say they're not using it</title>

@@ -624,24 +624,23 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     question = question.trim(); if (!question || send.disabled) return;
     addUserMessage(question);
     const priorHistory = history.slice(-8);
+    history.push({ role: 'user', content: question });
     input.value = ''; resizeChatInput(); send.disabled = true;
     const typing = document.createElement('div'); typing.className = 'dp-chat-typing'; typing.textContent = 'DailyPulse Assistant is thinking…'; chatBody.appendChild(typing); chatBody.scrollTop = chatBody.scrollHeight;
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 180000);
     try {
       const response = await fetch(CHAT_API_URL, {
-        method: 'POST', mode: 'cors', cache: 'no-store', credentials: 'omit',
-        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: question, history: priorHistory }), signal: controller.signal
       });
       const data = await response.json().catch(() => ({}));
       if (!response.ok) throw new Error(data.error || data.details || `Request failed (${response.status})`);
       const answer = data.answer || 'I could not prepare an answer. Please try again.';
       renderAnswer(answer, data.sources);
-      history.push({ role: 'user', text: question });
-      history.push({ role: 'model', text: answer });
+      history.push({ role: 'assistant', content: answer });
     } catch (error) {
-      const message = error.name === 'AbortError' ? 'The request took too long. Please try again.' : (error instanceof TypeError ? 'The browser could not reach the Assistant Worker. Check the Worker CORS SITE_ORIGIN setting and confirm it matches this website address exactly.' : (error.message || 'Connection problem. Please try again.'));
+      const message = error.name === 'AbortError' ? 'The request took too long. Please try again.' : (error.message || 'Connection problem. Please try again.');
       renderAnswer('Sorry, I could not complete that request. ' + message);
     } finally {
       clearTimeout(timeout); typing.remove(); send.disabled = false; input.focus();
@@ -678,7 +677,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     window.matchMedia('(display-mode: standalone)').matches ||
     window.navigator.standalone === true;
 
-  if (isStandalone()) {
+  if (isStandalone) {
     installButton.hidden = true;
     return;
   }
@@ -751,8 +750,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
 </div>
 <script>
 (() => {
-  "use strict";
-
+  // Replace this with the URL of the notification Worker after deploying it in Cloudflare.
   const WORKER_URL = "https://dailypulse-notifications.odunzephilemon0.workers.dev";
   const overlay = document.getElementById("dp-notify-overlay");
   const allowButton = document.getElementById("dp-notify-allow");
@@ -761,177 +759,64 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
   const DISMISSED = "dailypulse-notification-prompt-dismissed";
   const SUBSCRIBED = "dailypulse-notifications-enabled";
 
-  if (!overlay || !allowButton || !laterButton || !statusBox) {
-    console.error("DailyPulse: notification HTML elements are missing.");
-    return;
-  }
-
-  const hasNotificationAPI = "Notification" in window;
-  const hasPushSupport =
-    hasNotificationAPI &&
-    "serviceWorker" in navigator &&
-    "PushManager" in window;
-
-  function safeGet(store, key) {
-    try { return store.getItem(key); } catch (_) { return null; }
-  }
-  function safeSet(store, key, value) {
-    try { store.setItem(key, value); } catch (_) {}
-  }
-  function safeRemove(store, key) {
-    try { store.removeItem(key); } catch (_) {}
-  }
+  const supported = "Notification" in window && "serviceWorker" in navigator && "PushManager" in window;
 
   function showPrompt() {
-    // Always show the explanation card unless the visitor dismissed it this tab
-    // or successfully subscribed. Do not silently hide it on unsupported browsers.
-    if (safeGet(sessionStorage, DISMISSED) === "yes") return;
-    if (safeGet(localStorage, SUBSCRIBED) === "yes") return;
-
+    if (!supported || Notification.permission !== "default") return;
+    if (localStorage.getItem(DISMISSED) === "yes" || localStorage.getItem(SUBSCRIBED) === "yes") return;
     overlay.style.display = "flex";
-
-    if (!hasPushSupport) {
-      statusBox.textContent =
-        "This browser does not support web push notifications. Open DailyPulse in the latest Chrome browser on Android or a supported desktop browser.";
-      allowButton.textContent = "Check Browser Support";
-      return;
-    }
-
-    if (Notification.permission === "denied") {
-      statusBox.textContent =
-        "Notifications are blocked for DailyPulse. Open your browser's site settings, change Notifications to Allow, then reload this page.";
-      allowButton.textContent = "Notifications Blocked";
-      allowButton.disabled = true;
-    } else if (Notification.permission === "granted") {
-      allowButton.textContent = "Finish Enabling Notifications";
-    }
   }
 
   function base64UrlToBytes(value) {
-    if (typeof value !== "string" || !value.trim()) {
-      throw new Error("The notification server did not return a VAPID public key.");
-    }
-    const normalized = value.trim().replace(/-/g, "+").replace(/_/g, "/");
-    const padded = normalized + "=".repeat((4 - normalized.length % 4) % 4);
-    const binary = atob(padded);
+    const padded = value + "=".repeat((4 - value.length % 4) % 4);
+    const binary = atob(padded.replace(/-/g, "+").replace(/_/g, "/"));
     return Uint8Array.from(binary, character => character.charCodeAt(0));
   }
 
-  async function getActiveRegistration() {
-    const registration = await navigator.serviceWorker.register("./sw.js", {
-      scope: "./",
-      updateViaCache: "none"
-    });
-
-    // Wait for this registration to become active; avoid waiting forever on an
-    // unrelated service-worker registration from another path.
-    if (registration.installing) {
-      await new Promise((resolve, reject) => {
-        const worker = registration.installing;
-        const timer = setTimeout(() => reject(new Error(
-          "DailyPulse service worker is taking too long to install. Check that /online/sw.js exists."
-        )), 15000);
-        worker.addEventListener("statechange", () => {
-          if (worker.state === "activated") {
-            clearTimeout(timer);
-            resolve();
-          } else if (worker.state === "redundant") {
-            clearTimeout(timer);
-            reject(new Error("DailyPulse service worker installation failed. Check /online/sw.js."));
-          }
-        });
-      });
-    }
-
-    const activeRegistration = registration.active
-      ? registration
-      : await navigator.serviceWorker.ready;
-
-    if (!activeRegistration.active) {
-      throw new Error("DailyPulse service worker is not active. Confirm that sw.js is uploaded beside index.html in the /online/ folder.");
-    }
-    return activeRegistration;
-  }
-
   async function subscribeForAlerts() {
-    if (!hasPushSupport) {
-      throw new Error("Web push is not supported in this browser. Please open DailyPulse in the latest Chrome browser.");
+    if (WORKER_URL.includes("YOUR-CLOUDFLARE-WORKER")) {
+      throw new Error("DailyPulse notifications are not connected to Cloudflare yet. Please try again later.");
     }
-    if (!window.isSecureContext) {
-      throw new Error("Notifications require HTTPS. Open the secure https:// DailyPulse address.");
-    }
-    if (Notification.permission === "denied") {
-      throw new Error("Notifications are blocked for this website. Change DailyPulse site permissions to Allow in your browser settings.");
-    }
-
+    if (!window.isSecureContext) throw new Error("Notifications require a secure HTTPS connection.");
     allowButton.disabled = true;
     allowButton.textContent = "Enabling…";
 
-    // Permission must be requested directly from the button click.
-    let permission = Notification.permission;
-    if (permission !== "granted") {
-      permission = await Notification.requestPermission();
-    }
-    if (permission !== "granted") {
-      throw new Error("You did not grant notification permission. Tap Allow Notifications and choose Allow in the browser prompt.");
-    }
+    // The browser permission prompt is shown only after the visitor taps this button.
+    const permission = await Notification.requestPermission();
+    if (permission !== "granted") throw new Error("Notification permission was not granted.");
 
-    const registration = await getActiveRegistration();
+    // The existing PWA service worker is at the root of /online/.
+    const registration = await navigator.serviceWorker.register("./sw.js", { scope: "./" });
+    await navigator.serviceWorker.ready;
 
-    const workerBase = WORKER_URL.replace(/\/+$/, "");
-    const keyResponse = await fetch(workerBase + "/vapid-public-key", {
-      method: "GET",
-      mode: "cors",
-      cache: "no-store",
-      credentials: "omit",
-      headers: { "Accept": "application/json" }
-    });
-
-    if (!keyResponse.ok) {
-      throw new Error("Notification Worker returned HTTP " + keyResponse.status + " when retrieving the VAPID key.");
-    }
-
+    const keyResponse = await fetch(WORKER_URL.replace(/\/$/, "") + "/vapid-public-key");
+    if (!keyResponse.ok) throw new Error("Could not contact the DailyPulse notification service.");
     const keyData = await keyResponse.json();
-    const publicKey = keyData.publicKey || keyData.vapidPublicKey || keyData.vapid_public_key;
-    if (!publicKey) {
-      throw new Error("The Notification Worker response has no publicKey field. It must return { publicKey: \"...\" }.");
-    }
+    if (!keyData.publicKey) throw new Error("Cloudflare did not return a push public key.");
 
     let subscription = await registration.pushManager.getSubscription();
     if (!subscription) {
       subscription = await registration.pushManager.subscribe({
         userVisibleOnly: true,
-        applicationServerKey: base64UrlToBytes(publicKey)
+        applicationServerKey: base64UrlToBytes(keyData.publicKey)
       });
     }
 
-    const saveResponse = await fetch(workerBase + "/subscribe", {
+    const saveResponse = await fetch(WORKER_URL.replace(/\/$/, "") + "/subscribe", {
       method: "POST",
-      mode: "cors",
-      cache: "no-store",
-      credentials: "omit",
-      headers: {
-        "Content-Type": "application/json",
-        "Accept": "application/json"
-      },
-      body: JSON.stringify({ subscription: subscription })
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ subscription })
     });
-
     const result = await saveResponse.json().catch(() => ({}));
-    if (!saveResponse.ok) {
-      throw new Error(result.error || "Notification Worker returned HTTP " + saveResponse.status + " while saving your subscription.");
-    }
+    if (!saveResponse.ok) throw new Error(result.error || "Your subscription could not be saved.");
 
-    safeSet(localStorage, SUBSCRIBED, "yes");
-    safeRemove(sessionStorage, DISMISSED);
+    localStorage.setItem(SUBSCRIBED, "yes");
+    localStorage.removeItem(DISMISSED);
     overlay.style.display = "none";
-
-    // This immediate test confirms that the browser can display notifications.
-    await registration.showNotification("DailyPulse notifications enabled", {
-      body: "Your phone is now subscribed to DailyPulse alerts.",
+    await registration.showNotification("DailyPulse alerts enabled", {
+      body: "You're subscribed to the daily 9:00 AM top story.",
       icon: "./icons/dailypulse-192.png",
-      badge: "./icons/dailypulse-192.png",
-      tag: "dailypulse-subscription-test"
+      badge: "./icons/dailypulse-192.png"
     });
   }
 
@@ -940,50 +825,20 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     try {
       await subscribeForAlerts();
     } catch (error) {
-      console.error("DailyPulse notification setup failed:", error);
-      statusBox.textContent = error && error.message
-        ? error.message
-        : "Unable to enable notifications. Please try again.";
+      statusBox.textContent = error.message || "Unable to enable notifications.";
     } finally {
-      allowButton.disabled = hasNotificationAPI && Notification.permission === "denied";
-      if (!hasNotificationAPI || !hasPushSupport) {
-        allowButton.textContent = "Check Browser Support";
-      } else if (Notification.permission === "denied") {
-        allowButton.textContent = "Notifications Blocked";
-      } else if (Notification.permission === "granted") {
-        allowButton.textContent = "Finish Enabling Notifications";
-      } else {
-        allowButton.textContent = "Allow Notifications";
-      }
+      allowButton.disabled = false;
+      allowButton.textContent = "Allow Notifications";
     }
   });
 
   laterButton.addEventListener("click", () => {
-    safeSet(sessionStorage, DISMISSED, "yes");
+    localStorage.setItem(DISMISSED, "yes");
     overlay.style.display = "none";
   });
 
-  function initializeNotifications() {
-    showPrompt();
-    // Register the service worker early, but subscription still happens only
-    // after the visitor taps Allow Notifications.
-    if ("serviceWorker" in navigator && window.isSecureContext) {
-      navigator.serviceWorker.register("./sw.js", {
-        scope: "./",
-        updateViaCache: "none"
-      }).catch(error => {
-        console.error("DailyPulse service worker registration failed:", error);
-        statusBox.textContent =
-          "DailyPulse could not load /online/sw.js. Make sure sw.js is uploaded in the same folder as index.html.";
-      });
-    }
-  }
-
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", () => setTimeout(initializeNotifications, 500), { once: true });
-  } else {
-    setTimeout(initializeNotifications, 500);
-  }
+  // Show the branded explanation promptly on the first visit.
+  window.addEventListener("load", () => window.setTimeout(showPrompt, 700));
 })();
 </script>
 

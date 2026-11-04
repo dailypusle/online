@@ -141,8 +141,12 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   <script>
     /*
       Feeds are downloaded every ~15 minutes by a GitHub Action
-      (.github/workflows/news.yml) and saved in the /feeds folder,
-      so the page reads them from the same site (no CORS problem).
+      (.github/workflows/news.yml) and saved next to this page:
+        - /news-preview.json  -> latest 18 stories per main category (fast, small)
+        - /feeds/<category>.xml -> full combined RSS feed per category (fallback)
+      The page reads the JSON first and falls back to the XML, so it still
+      works if either file is missing. Both are served from the same site
+      (no CORS problem).
     */
     const newsEl = document.getElementById("news");
     const statusEl = document.getElementById("status");
@@ -150,6 +154,8 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
     const categoryButtons = [...document.querySelectorAll("[data-category]")];
     let selectedCategory = "top";
     let loading = false;
+
+    const MAX_STORIES = 25;
 
     function textOf(node, selector) {
       return node.querySelector(selector)?.textContent?.trim() || "";
@@ -163,6 +169,39 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
         return "";
       }
     }
+
+    function stripHtml(value) {
+      return String(value || "").replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+    }
+
+    function formatDate(value) {
+      const date = value ? new Date(value) : null;
+      return date && !Number.isNaN(date.getTime()) ? date.toLocaleString() : "";
+    }
+
+    /* ---------- Source 1: news-preview.json ---------- */
+
+    // Converts one JSON preview record into the common story shape.
+    function storyFromJson(record) {
+      if (!record || typeof record !== "object") return null;
+      const link = safeHttpUrl(record.link);
+      const image = safeHttpUrl(record.image);
+      if (!link || !image) return null;
+      const description = stripHtml(record.description);
+      let source = String(record.source || "").trim();
+      if (!source) source = new URL(link).hostname.replace(/^www\./, "");
+      return {
+        title: String(record.title || "").trim() || "Untitled story",
+        link,
+        source,
+        date: formatDate(record.date),
+        description,
+        articleText: description,
+        image
+      };
+    }
+
+    /* ---------- Source 2: feeds/<category>.xml (fallback) ---------- */
 
     function findImage(item) {
       for (const name of ["content", "thumbnail"]) {
@@ -187,36 +226,50 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       return "";
     }
 
-
-    function makeStory(item) {
-      const title = textOf(item, "title") || "Untitled story";
+    // Converts one RSS <item> into the common story shape.
+    function storyFromXml(item) {
       const link = safeHttpUrl(textOf(item, "link"));
       if (!link) return null;
+      const image = findImage(item);
+      if (!image) return null;
 
       const sourceNode = Array.from(item.children || []).find(el => el.localName === "source");
       const source = sourceNode?.textContent?.trim() || new URL(link).hostname.replace(/^www\./, "");
-      const dateText = textOf(item, "pubDate");
-      const date = dateText ? new Date(dateText) : null;
-      const formattedDate = date && !Number.isNaN(date.getTime())
-        ? date.toLocaleString()
-        : "";
+
+      const description = stripHtml(textOf(item, "description"));
+      const encodedNode = Array.from(item.children || []).find(el => el.localName === "encoded");
+      const contentBox = document.createElement("div");
+      contentBox.innerHTML = encodedNode?.textContent || "";
+      const articleBody = (contentBox.textContent || "").replace(/\s+/g, " ").trim();
+
+      return {
+        title: textOf(item, "title") || "Untitled story",
+        link,
+        source,
+        date: formatDate(textOf(item, "pubDate")),
+        description,
+        articleText: articleBody || description,
+        image
+      };
+    }
+
+    /* ---------- Shared card builder ---------- */
+
+    function makeStory(story) {
+      if (!story) return null;
+      const { title, link, source, date, description, articleText, image } = story;
 
       const article = document.createElement("article");
       article.className = "story";
 
-      const imageUrl = findImage(item);
-      // Also filter older/already-generated XML feeds in the browser.
-      if (!imageUrl) return null;
-      {
-        const img = document.createElement("img");
-        img.className = "photo";
-        img.src = imageUrl;
-        img.alt = "";
-        img.loading = "lazy";
-        img.referrerPolicy = "no-referrer";
-        img.onerror = () => article.remove();
-        article.appendChild(img);
-      }
+      const img = document.createElement("img");
+      img.className = "photo";
+      img.src = image;
+      img.alt = "";
+      img.loading = "lazy";
+      img.referrerPolicy = "no-referrer";
+      img.onerror = () => article.remove();
+      article.appendChild(img);
 
       const text = document.createElement("div");
       text.className = "text";
@@ -237,34 +290,24 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       askButton.setAttribute("aria-label", "Ask DailyPulse AI about: " + title);
       askButton.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2v3M7 5h10a4 4 0 0 1 4 4v7a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a4 4 0 0 1 4-4Z"/><path d="M8.5 11h.01M15.5 11h.01M8 15h8"/><path d="m19 2 .7 1.8L21.5 4.5l-1.8.7L19 7l-.7-1.8-1.8-.7 1.8-.7L19 2Z"/></svg><span>Ask AI</span>';
       askButton.addEventListener("click", () => {
-        const descriptionText = textOf(item, "description").replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
-        const encodedNode = Array.from(item.children || []).find(el => el.localName === "encoded");
-        const encodedText = encodedNode?.textContent || "";
-        const contentBox = document.createElement("div");
-        contentBox.innerHTML = encodedText;
-        const articleBody = (contentBox.textContent || "").replace(/\s+/g, " ").trim();
-        const articleText = (articleBody || descriptionText);
         window.dispatchEvent(new CustomEvent("dailypulse:ask-story", { detail: {
-          title, source, date: formattedDate, url: link, articleText
+          title, source, date, url: link, articleText
         }}));
       });
       headingRow.append(heading, askButton);
 
       const meta = document.createElement("div");
       meta.className = "meta";
-      meta.textContent = source + (formattedDate ? " · " + formattedDate : "");
+      meta.textContent = source + (date ? " · " + date : "");
 
-      const descriptionText = textOf(item, "description");
-      if (descriptionText) {
-        const description = document.createElement("p");
-        description.className = "description";
-        description.textContent = descriptionText.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
-        text.appendChild(headingRow);
-        text.appendChild(meta);
-        text.appendChild(description);
-      } else {
-        text.append(headingRow, meta);
+      text.append(headingRow, meta);
+      if (description) {
+        const descriptionEl = document.createElement("p");
+        descriptionEl.className = "description";
+        descriptionEl.textContent = description;
+        text.appendChild(descriptionEl);
       }
+
       const readMore = document.createElement("a");
       readMore.className = "read-more";
       readMore.href = link;
@@ -276,44 +319,73 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       return article;
     }
 
+    /* ---------- Loading ---------- */
+
+    // Returns an array of story objects, or throws if the file is unusable.
+    async function fetchFromJson(category) {
+      const response = await fetch("news-preview.json?t=" + Date.now(), { cache: "no-store" });
+      if (!response.ok) throw new Error("news-preview.json returned HTTP " + response.status);
+      const data = await response.json();
+      const records = data && data[category];
+      if (!Array.isArray(records) || !records.length) {
+        throw new Error("news-preview.json has no stories for " + category);
+      }
+      const stories = records.map(storyFromJson).filter(Boolean);
+      if (!stories.length) throw new Error("No valid stories in news-preview.json for " + category);
+      return stories;
+    }
+
+    async function fetchFromXml(category) {
+      const response = await fetch("feeds/" + category + ".xml?t=" + Date.now(), { cache: "no-store" });
+      if (!response.ok) throw new Error("Feed file returned HTTP " + response.status);
+
+      const xmlText = await response.text();
+      if (!xmlText.trim()) throw new Error("The feed file is empty. Run the GitHub Actions news workflow again.");
+      const xml = new DOMParser().parseFromString(xmlText, "application/xml");
+      if (xml.querySelector("parsererror")) throw new Error("The response was not valid RSS XML.");
+
+      const items = Array.from(xml.querySelectorAll("item"));
+      if (!items.length) throw new Error("No stories were found in the feed.");
+
+      const stories = items.slice(0, MAX_STORIES).map(storyFromXml).filter(Boolean);
+      if (!stories.length) throw new Error("No valid story links were found.");
+      return stories;
+    }
+
     async function loadNews() {
       if (loading) return;
       loading = true;
       refreshBtn.disabled = true;
       statusEl.textContent = "Loading news…";
+      const category = selectedCategory;
 
       try {
-        const response = await fetch("feeds/" + selectedCategory + ".xml?t=" + Date.now(), { cache: "no-store" });
-
-        if (!response.ok) throw new Error("Feed file returned HTTP " + response.status);
-
-        const xmlText = await response.text();
-        if (!xmlText.trim()) throw new Error("The feed file is empty. Run the GitHub Actions news workflow again.");
-        const xml = new DOMParser().parseFromString(xmlText, "application/xml");
-
-        if (xml.querySelector("parsererror")) {
-          throw new Error("The response was not valid RSS XML.");
+        let stories;
+        try {
+          stories = await fetchFromJson(category);
+        } catch (jsonError) {
+          console.info("Preview JSON unavailable, using RSS feed:", jsonError.message);
+          stories = await fetchFromXml(category);
         }
 
-        const items = Array.from(xml.querySelectorAll("item"));
-        if (!items.length) throw new Error("No stories were found in the feed.");
+        // Ignore the result if the reader switched category while this was loading.
+        if (category !== selectedCategory) return;
 
         const fragment = document.createDocumentFragment();
         let count = 0;
-        items.slice(0, 25).forEach(item => {
-          const story = makeStory(item);
-          if (story) {
-            fragment.appendChild(story);
+        stories.slice(0, MAX_STORIES).forEach(story => {
+          const card = makeStory(story);
+          if (card) {
+            fragment.appendChild(card);
             count++;
           }
         });
-
         if (!count) throw new Error("No valid story links were found.");
 
         newsEl.replaceChildren(fragment);
         statusEl.textContent = `${count} headlines · Updated ${new Date().toLocaleTimeString()}`;
       } catch (error) {
-        console.error("RSS loading failed:", error);
+        console.error("News loading failed:", error);
         statusEl.textContent = "News could not be loaded. Please refresh or check your Internet connection.";
         const message = document.createElement("div");
         message.className = "error";
@@ -322,6 +394,8 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       } finally {
         loading = false;
         refreshBtn.disabled = false;
+        // If the reader changed category during the request, load the one they now want.
+        if (category !== selectedCategory) loadNews();
       }
     }
 

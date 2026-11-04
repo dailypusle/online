@@ -1,58 +1,29 @@
-name: Update aggregated news feeds
-
+name: Update news
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 concurrency:
-  group: update-news-feeds
+  group: news-feed-update
   cancel-in-progress: false
-
 jobs:
-  update-news:
+  fetch:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          ref: main
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          fi
-
-      - name: Generate aggregated news feeds
-        run: |
-          python scripts/fetch_news.py
-
-      - name: Commit and push updated feeds
+          python-version: "3.12"
+      - name: Install RSS parser
+        run: python -m pip install --disable-pip-version-check feedparser Pillow
+      - name: Collect configured RSS sources
+        run: python scripts/fetch_news.py
+      - name: Commit updated feeds
         run: |
           git config user.name "news-bot"
-          git config user.email "news-bot@users.noreply.github.com"
-
-          git add feeds/
-
-          if git diff --cached --quiet; then
-            echo "No feed changes to commit."
-            exit 0
-          fi
-
-          git commit -m "Update aggregated news feeds"
-
-          git pull --rebase origin main
-
-          git push origin main
+          git config user.email "bot@users.noreply.github.com"
+          git add feeds
+          git diff --staged --quiet || (git commit -m "Update aggregated news feeds" && git push)

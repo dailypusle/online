@@ -4,6 +4,215 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Elon Musk spent nearly $500 million on the midterms and lost big-time</title>
+<link>https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime</link>
+<guid isPermaLink="false">7a67d7b76b4d10f24ef7d6283d702317c1446dec844e1a2af88edfd891d07e4b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 17:01:10 +0000</pubDate>
+<description>This was the Cybertruck of elections.</description>
+<enclosure url="https://www.engadget.com/img/gallery/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/l-intro-1793811561.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/l-intro-1793811561.jpg" medium="image"/>
+</item>
+<item>
+<title>VMware returns to low-end server virtualization with 'vSphere Express'</title>
+<link>https://www.theregister.com/virtualization/2026/11/04/vmware-returns-to-low-end-server-virtualization-with-vsphere-express/5307466</link>
+<guid isPermaLink="false">415e406f78b1844c1fad632328630f86544caad3952add33e9a8a05923c33f70</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 17:01:00 +0000</pubDate>
+<description>As first reported by The Register , VMware has returned to the low-end server virtualization market with a product called "vSphere Express." The product will run on up to 128 processor cores and includes vMotion to allow live migration of VMs, automated restart of failed VMs, a distributed switch, rapid non-disruptive patching, and support for physical and virtual trusted platform modules. "We have been listening to the market at the low end, and they want a basic core server virtualization platform," said Prashanth Shenoy, vice president of product marketing in Broadcom's VMware Cloud Foundation (VCF). He explained that each instance of vSphere Express will be discrete, meaning it won't be possible to manage them centrally. "This is tested for small implementations," he told The Register . "We do not want a customer to run this on thousands of cores." Shenoy said the vSphere Foundation (VVF) enterprise virtualization product, and Cloud Foundation (VCF) private cloud suite, are appropriate for users with more complex needs. vSphere Express will, however, match the release cadence of VVF and VCF. Under Broadcom’s ownership, VMware has enormously reduced the number of resellers in its channel program , meaning it no longer has partners who are a good fit for this product. The virtualization giant will therefore sell vSphere Express through its distributors, most of which now operate cloud marketplaces at which affiliated resellers can acquire software – an arrangement channel folk call "two tier distribution." We asked VMware to tell us the price it will charge for vSphere Express. A spokesperson told us it will offer a per-core subscription license at a price "significantly lower" than VVF or VCF but declined to quote a dollar amount. "We encourage interested customers to reach out to their local reseller for information related to pricing and subscription terms," the spokesperson wrote. VMware has also bulked out VVF and VCF a little, by adding disaster recovery and policy-based networking for virtual private clouds that it previously sold as add-ons. Shenoy pitched the additions as demonstrating VMware's intention to add value to VVF and VCF, in part by ensuring the bundles include tools that users are likely to consider represent essential functionality. The Broadcom business unit will also add new features, such as native AWS S3-compatible object storage for its VSAN virtual storage. That update, due in calendar Q1 of 2027, means VSAN will become a more convenient platform on which to store the unstructured data that AI workloads rely on, therefore boosting the utility of VMware's AI Factory. VMware also plans to make its AI Factory easier to implement. "The idea is to focus more on AI, less on setup," Shenoy said. Analysis: A welcome low-end return faces an uncertain reception VMware's return to the low-end server virtualization market may not be well-received, because it has largely ignored users of its existing low-end vSphere Standard prod</description>
+<enclosure url="https://image.theregister.com/?imageId=254061&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=254061&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Anker’s new window-mounted camera monitors the outside of your home from within it</title>
+<link>https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision</link>
+<guid isPermaLink="false">87054cb17f3fb6d6f080ef36108f77ed982ccae2026832ef4453bb6942373729</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 16:36:21 +0000</pubDate>
+<description>Anker announced a new indoor security camera that's designed to watch your yard, driveway, or front porch through a window, instead of monitoring what's inside your home. The new Anker Eufy Window Camera E10 takes a similar approach to the Wyze Window Cam that launched nearly a year ago . It installs right against a window using an including mounting sticker to reduce glare and reflections, but the camera doesn't require any weatherproofing since it's not enduring the elements outdoors. The Eufy Window Camera E10 is available now for $79.99 through Anker's online store and Amazon , making it more than twice expensive as the $34.98 Wyze Window … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ankercam1_43ac74.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ankercam1_43ac74.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Rian Johnson explains why he had to build his own iPhone camera app</title>
+<link>https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview</link>
+<guid isPermaLink="false">bd3ec68483bf120c3c205c579cfb3b943e438f559bae2699c7a1d911ba777072</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 16:10:05 +0000</pubDate>
+<description>Rian Johnson. Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier to reach for a phone. So Johnson started wondering if the photos from his iPhone could be made to look more like the grade he applies to his movies. The result is Chromagraph Camera , a $13 iOS app that bypasses elements of Apple's image processing pipeline and applies the same look used on Johnson's movies. The app, made by Johnson and his longtime cinematographer, Steve Yedlin, is shockingly simple, with just a few primary settin … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Rian-Johnson-Portrait.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Rian-Johnson-Portrait.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Binance says hackers who stole billions in crypto spent months planning heist</title>
+<link>https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist</link>
+<guid isPermaLink="false">b1748ab73b80e6aa9d764ffd005342fb7830c8781b1b3a1fd0cf6cae5ed1dffa</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 16:06:03 +0000</pubDate>
+<description>The hackers who stole billions of dollars in cryptocurrency from the Binance exchange spent months working on the theft and used both social engineering and novel malware in the process, the company said Tuesday. The heist, which both the FBI and the TRM Security firm attributed to North Korean actors, initially targeted $6.34 billion in cryptocurrency from Binance wallets. The exchange has since frozen or intercepted $2.85 billion of that sum. Binance said it has set aside funds required to cover the loss and provided this link to a Proof of Reserves page. The $6.34 billion represents the biggest sum ever targeted in a cryptocurrency theft. Advanced persistent threat Binance said the people behind the heist began no later than June and continued until last Thursday, when they successfully compromised an engineer's laptop and withdrew assets from several wallets. Like just about every organization that suffers a public, high-consequence hack, Binance said the threat actor was sophisticated and resourceful. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Data centers lost the midterms</title>
+<link>https://www.theverge.com/policy/1026365/data-centers-midterms-results</link>
+<guid isPermaLink="false">0beed25ab06a25ff60d28e6b4bdc5c289a37a04a222167347cba682d99a39796</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 16:05:39 +0000</pubDate>
+<description>Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 percent said they opposed data centers in their communities. Dozens of local communities voted directly to restrict development through ballot measures . And upset winners like Texas Democratic Governor-elect Gina Hinojosa and Michigan's Democratic Senator-elect Abdul El-Sayed support moratoriums on development. … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Uber only fulfilled 4 rides from AI agents last quarter</title>
+<link>https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation</link>
+<guid isPermaLink="false">eef47e2f46ab6ae8ee70ecf5e62910f30a57b8e89052b22d4df549c02425f629</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 15:58:45 +0000</pubDate>
+<description>AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording "around 500" during the week of Halloween, out of a total 320 million Uber rides and Uber Eats deliveries. This is the first time that Uber has disclosed the number of third-party AI agents that have arranged deliveries or rides on its platform. With the rise of AI agents like Meta's Muse or OpenAI's Dots, some experts are predictin … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>My favorite 25W wireless power bank is down to $35</title>
+<link>https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale</link>
+<guid isPermaLink="false">98aa73721552003c5e33d75cb6b494b7da8b57e7bd95d5f3c627ed0997de8408</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 15:57:55 +0000</pubDate>
+<description>If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wirelessly, and my top pick was Baseus’ AM52 10,000mAh battery , which happens to be steeply discounted right now at Amazon . Originally $80 but commonly available for $59.99, the code M4JLY1W2 (shared via Slickdeals ) knocks it down to a much more reasonable $35.29 at checkout. The only difference between the discounted model and the one pictured below is that it lacks a built-in USB-C cable. Baseus PicoGo AM52 Qi2.2 Magnetic Power Bank The AM52’s MagSafe-ready design means it can snap onto newer iPhones and supply up to 25W of power, and because it has a USB-C port, it can also charge a Nintendo Switch 2 and other electronics. Where to Buy: $59.99 $35.29 at Amazon (w/ code M4JLY1W2) $63.99 $49.99 at Walmart I like this model for more than just its fast wireless charging speed; The side that snaps to your phone has a soft-touch material, so you don’t need to worry about it scratching your device. Also, it can quickly recharge devices via its 45W USB-C port, making it a solid power bank to tote around if you need to give a little juice to your gaming handheld or laptop. Read our hands-on with this and numerous other Qi2.2 batteries Some other great deals for you We last featured a deal on the step-climbing Dreame X50 Ultra mopping robovac in late September when it dropped down to $850 via the manufacturer. If you happened to miss out on that $250 off deal, there’s currently an even better one happening at Wellbots , and it’s exclusive to Verge readers. With the code VERGEVAC25 used at checkout the $1,099.99 cleaner will drop to $824.25, the lowest price we’ve seen from any retailer. The kit includes the vacuum, accessories, and a base station where X50 Ultra autonomously empty its trash bin, refill its water for mopping and have its mopping pads cleaned and dried. This model is one of my colleague Jennifer Pattison Tuohy’s favorite models of 2026 . I totally get it if you’re wishing The Elder Scrolls VI: Sentinels would arrive already. While it may be years away from launch, there’s a fantastic game that I recommend to fill the void. Microsoft-owned Obsidian Entertainment’s Avowed is a first-person action RPG from 2025 that delivers a great story, satisfying gameplay that blends swords, guns, and magic, plus a branching narrative. It’s cheaper than ever to own on Steam via a deal from Fanatical that currently has it at $24.99, which is half off. Read our review . While Amazon’s Alexa Tablet 8 likely isn’t a very speedy tablet, it’s one of just a few eight-inch Android tablets out there right now that has a slick design. Originally $229.99, this model recently got its first price cut, knocking the lockscreen ad-supported tablet down to $199.99 at Amazon . The Alexa Tablet is replacing Amazon’s lineup of Fire HD tablets, and the biggest difference is the new t</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/baseusiphonered.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/baseusiphonered.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>What I learned driving the Slate electric truck prototype</title>
+<link>https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype</link>
+<guid isPermaLink="false">5554163e527b537ea46569886e202a7485554fadc6adeb7700a521ff779a7319</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 15:42:18 +0000</pubDate>
+<description>If my 45-minute drive yesterday morning is anything to go by, I think Slate Auto will have quite the hit on its hands. The startup had one of its prototype trucks in town and asked if I wanted to check it out—no jumping on a plane or having to spend yet another night in an interchangeable hotel room, just a drive from southwest DC to Rockville, Maryland. Easy-peasy. The prototype truck had been well-used, with almost 6,000 miles (9,656 km) showing on the small and minimalist but very legible digital display that also shows your speed and, if you engage reverse, the backup camera. And while the cabin layout was representative of the production version, the surfaces most certainly weren’t—the prototype instead uses a lot of hard and shiny black plastic, with strips of Velcro here and there left over from when the interior had to be camouflaged when the vehicle was out in public. Getting acquainted with the Slate was refreshingly easy. The Morris Marina-like door handles open with a pleasing mechanical action. The seat and steering column adjust manually but with plenty of reach, something many budget models used to leave out to save on cost. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/slate-in-car-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/slate-in-car-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>US gov IT worker pleads guilty to sending Top Secret files to Ethiopia</title>
+<link>https://www.theregister.com/security/2026/11/04/us-gov-it-worker-pleads-guilty-to-sending-top-secret-files-to-ethiopia/5307595</link>
+<guid isPermaLink="false">15dd1b874df5614c8dccccf2454f24824c41372be94e99e2f2550a0a65383834</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 15:39:30 +0000</pubDate>
+<description>He swore an allegiance to the US, but he was working for someone else. An IT specialist who worked across US government departments and held Top Secret clearance has pleaded guilty to transmitting sensitive documents to Ethiopia. Abraham Teklu Lemma, 53, admitted to the espionage offenses and agreed to a prison term between 120 and 262 months, the Justice Department confirmed on Tuesday. A naturalized citizen of the US, Lemma, of Maryland, had worked for the US government in different capacities and across different teams, including for the National Reconnaissance Office, State Department (DoS), and Justice Department (DoJ), between 2019 and 2023. These roles included working evening hours as an IT help desk technician at the DoS as of 2021, and daytime work at the DoJ as a contract management analyst, according to court documents. Lemma had what's known as "downdraft" authority, which is to say that he was permitted to move classified files between classified systems, and unclassified files from classified to unclassified systems. Crucially, he was only allowed to access classified files on non-DoS systems with written approval that it was part of his official duties, and worked in a Sensitive Compartmented Information Facility (SCIF) – a secure workplace built for handling classified files. The criminal complaint [PDF] initially stated that the alleged offending began in July 2022, although the DoJ more recently claimed that it began in 2021. It claims Lemma was caught trawling "several" non-DoS classified portals and accessed intelligence reports without the proper authorization to do so. On various occasions, Lemma, who had held Top Secret security clearance since 2020, copied information from at least 133 intelligence reports without need-to-know authorization, according to court documents. Prosecutors claimed that the man downloaded more than 100 documents, burned them to CD/DVDs, and deleted their classification markings. The material Lemma was copying was at the Secret and Top Secret levels, but burned onto discs with green labels, which are approved for employees and are supposed to signify the contents of the discs relating to unclassified material only. Lemma would allegedly take these discs at the end of his shift and exit the SCIF with them tucked into his jacket pocket. On other occasions, he was observed looking at classified material on his PC, then taking handwritten notes before folding the paper and again storing it in his pocket. This continued until around August 2023. Prosecutors claimed that Lemma began transmitting information to Ethiopian officials via an encrypted messaging app in or around August and September 2022, weeks after the alleged offending began. The files included documents, photographs, notes, maps, and information relating to Ethiopia, and officials would ask Lemma to provide details about command centers, logistics centers, military compounds, and other matters. Communications also covered geopolitical top</description>
+<enclosure url="https://image.theregister.com/?imageId=261844&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=261844&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Not even $200 million could help Elon Musk buy Texas</title>
+<link>https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding</link>
+<guid isPermaLink="false">38b31075fcd8236aed8803f9cc14c29c47b1d98b061807668553e82d5fe14b25</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 15:33:59 +0000</pubDate>
+<description>James Talarico, the Democratic Texas senator-elect, not only managed to flip the state in yesterday's midterms but prevailed in the most expensive Senate election to date. More than $573 million was spent on advertisements between Talarico, his Republican opponent Ken Paxton, and their aligned PACs. And a big chunk of that money came from just one man: Elon Musk. Musk reportedly spent more than $445 million supporting Republicans in the midterms, making him not only by far the biggest donor in the 2026 election cycle but also in American history. And most of his money was spent in Texas, his home state and the headquarters of both Tesla and … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Americans overwhelmingly voted against data centers in the midterms</title>
+<link>https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms</link>
+<guid isPermaLink="false">dea2c66d5b9ebf100ae783bf5fb531e7ba4a03a6b85a31c32499e45e4d601341</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 15:28:52 +0000</pubDate>
+<description>Nowhere was the rebuke stronger than the now-blue Ohio.</description>
+<enclosure url="https://www.engadget.com/img/gallery/americans-voted-overwhelmingly-against-data-centers-in-the-midterms/l-intro-1793805972.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/americans-voted-overwhelmingly-against-data-centers-in-the-midterms/l-intro-1793805972.jpg" medium="image"/>
+</item>
+<item>
+<title>Bluetooth is getting a big boost to data transfer speeds</title>
+<link>https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt</link>
+<guid isPermaLink="false">7f7bcfe870cd831b2694dd81256c6cbfa61f174c900764edf10eb8f982b23558</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 15:19:54 +0000</pubDate>
+<description>The Bluetooth Special Interest Group (SIG) that oversees the wireless standard has formally adopted Bluetooth High Data Throughput (HDT) as an optional feature of the Bluetooth Core 7.0. It's an upgrade the Bluetooth SIG has been previewing over the past year that increases Bluetooth LE's maximum supported bit rate from 2 Mbps to 7.5 Mbps. It will allow for higher resolution audio to be streamed but also improvements to battery life and reliability. The primary application for Bluetooth HDT will once again be for wireless audio, with the first devices supporting the new feature expected to appear sometime in 2027. The increased bit rate wil … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bluetooth1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bluetooth1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The DEA banned a drug some opioid users called a miracle</title>
+<link>https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle</link>
+<guid isPermaLink="false">56b14150c097cea9151f040300284781d43b2be47fd7f61c5e43f60ae91b9c5e</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 15:08:48 +0000</pubDate>
+<description>In 2012, as the driver of deaths in the opioid crisis began moving from prescription pills to heroin, Laura Bohn was tasked with finding safer drugs to manage pain. Funded by the National Institute on Drug Abuse, in 2017 she and other scientists revealed in the science journal Cell that several compounds—including a particularly promising one called SR-17018—could relieve pain in mice without causing respiratory depression. That’s a big deal, because respiratory depression is typically what causes people using opioids to stop breathing and die. Bohn, senior associate vice president of research at University of South Florida Health, says her team filed a patent on SR-17018. They went on to discover that mice using the chemical did not develop a high tolerance for it and that mice already dependent on morphine—a powerful opioid—could consume SR-17018 to reset their tolerance without suffering from painful withdrawal symptoms. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>The fight for tech accountability starts now</title>
+<link>https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability</link>
+<guid isPermaLink="false">564d00efa2b6f7d8354554786ff4a0b24484463825225d1aa031025ad7ef11b1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 15:02:25 +0000</pubDate>
+<description>When Donald Trump began his second term as president, Silicon Valley gratefully embraced moral nihilism. Google, Amazon, Microsoft, and more collectively donated millions to Trump's inauguration fund to ensure his favor in a new era of gangster tech regulation . Meta overhauled its content policy to allow calling gay people mentally ill and women property. Elon Musk started throwing Nazi salutes - yes, allegedly , but he would soon be posting nonstop about protecting the white race from extinction, so that's the most fragile of fig leafs. As of mere months ago, this was working out pretty well for them. The Trump administration took a mostly … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Why the weirdest game of 2026 is also one of my favourites</title>
+<link>https://www.theguardian.com/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites</link>
+<guid isPermaLink="false">89aabbf032dac622db804b47a60fd8bac4b3640ebc0105c1c79b609312dcf729</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 15:00:38 +0000</pubDate>
+<description>Titanium Court is a bizarre world of 8-bit fairies, Shakespeare and surprise songs – its magic lies in never knowing what on earth is going on • Don’t get Pushing Buttons delivered to your inbox? Sign up here Earlier this year, I was stuck in hospital for several days, fuzzy on pain medication and bored out of my mind, with nothing but a Steam Deck for company. In the middle of one of those long nights, unable to sleep, I played a game called Titanium Court . It’s a strange creation that looks like it was made for the ZX Spectrum and reads like a postmodern Shakespeare adaptation – a compelling mix of strategy game and match-3 where you rearrange battlefields by matching tiles, before sending tiny lo-fi fairy armies to their deaths. At the end of this late-night run, I met a boss I’d defeated before – a comically hungry dragon – and the game asked if I would like to skip the boss fight and enjoy a musical performance instead. A game has never asked me this before. Of course, I accepted. And then, instead of the familiar tiled battlefield, I was looking at a pixellated singer-songwriter, who launched into an extremely long preamble about the mating habits of the Pacific salmon before saying, “This is a song for anyone else who ever got so horny they could die,” and launching into a soulful acoustic guitar number accompanied by crude images of leaping fish. I began to wonder if my meds were making me hallucinate. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ba416c83d04ed8b47b3685bbbc82d44fa33e5148/600_2_1320_1057/master/1320.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e27cf29ddadcf153264efe38552a3b6a" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ba416c83d04ed8b47b3685bbbc82d44fa33e5148/600_2_1320_1057/master/1320.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e27cf29ddadcf153264efe38552a3b6a" medium="image"/>
+</item>
+<item>
+<title>HP Inc hires former GSK boss as CEO</title>
+<link>https://www.theregister.com/personal-tech/2026/11/04/hp-inc-hires-former-gsk-boss-as-ceo/5307588</link>
+<guid isPermaLink="false">19c368a9fd9f819a7d0f230a929011d3367e100523ada1fb5128bf2f9d56c1df</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 14:50:00 +0000</pubDate>
+<description>HP Inc has hired former GSK boss Emma Walmsley to plot its course through choppy PC and print waters. Walmsley spent eight years as the boss at pharma biz GSK and further back in time held various marketing and general management positions at L'Oreal. She has no track record running a tech company, though she was on Microsoft’s board. “Throughout the process, Emma stood out for the strength of her leadership experience across multiple industries, the clarity of her strategic thinking and her ability to translate customer insights into new growth,” said Chip Bergh, chair of HP's board. In the first nine months of HP's fiscal 2026 , revenue had jumped 10 percent year-on-year to $44.5 billion. The print business shrank in that time and PCs generated the growth. However, amid a memory crunch with supplies dwindling, analysts are forecasting PC market contraction in terms of unit sales. Global PC shipments slumped 20 percent in Q3 as DRAM shortages forced up prices and customers opted instead to sweat their assets rather than replace their fleet of computers. Things aren't expected to improve in the final three months of 2026. One beacon of hope for all PC makers was AI, yet many customers aren't buying into the story for various reasons. Walmsley previously said that during her time at the top of GSK she created a "totally different company, in platform, in momentum, in talent, in culture," she told the FT . "I think in time… it will be recognized." She also dealt with activist investor Elliot Management, which operates in the tech industry and called for her to reapply for the CEO role at GSK, claiming her lack of science background was an issue. Walmsley said: " HP is an iconic company with a defining role in shaping the future of work on a global scale. I’m excited to join the team and, together, move forward with clarity and conviction. We will focus on harnessing the power of the AI era and putting HP’s creativity and innovation to work to unlock new sources of growth and deliver lasting value for our customers, shareholders, partners and people." Employees will be crossing their fingers that their new boss doesn’t borrow from the playbook of her predecessor - who hotfooted it to PayPal in February - by running multiple redundancy rounds, and shareholders will hope their stock price show sustainable improvement. If not, Walmsley may have to manage more interest from activist investors at the latest corporation she is running. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5307591&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5307591&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Sam Altman addresses RAM comments: people should &amp;#8216;put as much as they want in their computers&amp;#8217;</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments</link>
+<guid isPermaLink="false">2322faed842dfa6f3d15f3b25efb631b215ceed7f2402dbcf1c51067253ac397</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 14:46:01 +0000</pubDate>
+<description>OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to "Ram Altman" in response to another user's comment, saying , "i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it is fucking annoying that this was taken out of context. i have been arguing for the world to ramp up memory production for a long time." He replied to another comment, saying, "i want you to have so much ram lets build more." but only because…i actually do want the world to have tons of memory and people to put as much as they want in their computers … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>SpaceX is working with Qualcomm to build its Starlink Mobile 5G network</title>
+<link>https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk</link>
+<guid isPermaLink="false">68caf23a2f4afbcfa827788f008a8bc67f95ea466d30a1d4d438b914538099a5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 14:38:20 +0000</pubDate>
+<description>SpaceX is teaming up with Qualcomm to build out its nationwide mobile network. Under the multi-year deal, SpaceX will bring Qualcomm's Dragonwing technology to "tens of thousands" of 5G cell sites across the US, with the first deployments set for 2027. The news of the partnership comes as part of SpaceX's push to make Starlink Mobile a "major" carrier in the US , competing directly with T-Mobile, AT&amp;T, and Verizon. The Elon Musk-owned company has already snapped up a swath of spectrum , while recent reports suggested that SpaceX was exploring an acquisition of Boost Mobile . Now, SpaceX is planning to use Qualcomm's Dragonwing Cellular Infras … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SpaceXAnnouncement.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SpaceXAnnouncement.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>‘Discontent and distrust’: annual social cohesion checkup shows exactly what’s making Australia angry</title>
 <link>https://www.theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb</link>
 <guid isPermaLink="false">fa1209d6539e53bba4a82066529f71c00c22ae99164679091074963cc3152867</guid>
@@ -13,17 +222,6 @@
 <description>Cost of living and AI outrank climate change and war as top concerns for future, but support for multiculturalism remains strong Get our daily political email , free app or daily news podcast The vast majority of Australians support immigration and multiculturalism despite more feeling poorer – and increasingly pessimistic and distrustful of government, the annual Scanlon report on social cohesion has revealed. People are more worried about artificial intelligence than climate change or going to war, but a global economic downturn and cost-of-living pressures are Australians’ key concerns. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ba8090dd915d3f60ac81fa4f1f4a307dd27175ef/0_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8bd99dfcf511487cd66f27f9a07d7fdf" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ba8090dd915d3f60ac81fa4f1f4a307dd27175ef/0_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8bd99dfcf511487cd66f27f9a07d7fdf" medium="image"/>
-</item>
-<item>
-<title>Does opting out of TV tracking work?</title>
-<link>https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study</link>
-<guid isPermaLink="false">215e192ddb2076b47d2499b6db44bc563f2fa751c2bd028bb141f460e81d310b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
-<description>TVs use automatic content recognition to gather viewing information about us, and opting out doesn’t always stop it. | Photo: John Higgins / The Verge The fact our TVs are gathering our information isn't new, but what and how they're tracking - and if we can stop it - is hard to figure out. Researchers at Northeastern University monitored 12 TVs from 10 manufacturers to test whether opting out of automatic content recognition (ACR) actually works . While opting out was effective for most TVs - including LG, Amazon Fire TV, a Sony Bravia running Google TV, and those with Vidaa OS (which can be found on TVs from Hisense, Toshiba, and smaller brands like the Supersonic used in the study) - Samsung and Roku kept sending some data. And Walmart's Vizio TV continued on as if the opt-out hadn't eve … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>French blood banks hacked in latest cyber-attack on Europe</title>
@@ -43,7 +241,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 13:15:00 +0000</pubDate>
-<description>Datacenter restrictions found broad support among candidates for governor in this week's US midterm elections, with nearly all those examined by Data Center Watch backing bans, pauses, or tighter development rules. Data Center Watch, which tracks grassroots opposition to compute sheds across America, examined the public positions of 74 selected candidates across the 36 states that elected governors in the midterm elections on November 3. It found that 43 percent of those candidates supported a ban or moratorium on new projects, while another 51 percent backed further regulation or conditional development. Only about 5 percent had no stated public position. Support for bans or moratoriums crossed party lines, although it was more common among the Democratic candidates examined (60 percent) than Republicans (30 percent). Candidates from both major parties backed restrictions in eight states: Maryland, Maine, Michigan, New Hampshire, Ohio, Oregon, Wisconsin, and Texas. Texas has experienced a boom in data campus development recently, thanks to its ample energy resources and light-touch regulations, although outgoing governor Greg Abbott ordered a pause earlier this year while audits of energy and water use were carried out. Democrat Gina Hinojosa defeated Abbott in Tuesday's election and will take office in January. Those positions matter to developers because governors can shape state regulation, energy policy, and permitting, although approval powers vary by jurisdiction. However, temporary pauses and targeted construction restrictions do not necessarily amount to opposition to all datacenter development. AI-related campaign spending has also come under scrutiny. Guardrails Alliance, a labor-backed pressure group, described Leading the Future , a super PAC network opposing AI regulation, as "largely a non-factor" in the elections . It alleged the network avoided the most competitive races because "they know their money is politically toxic." Anti-datacenter sentiment has grown in the US in response to the facilities popping up in people's backyards, often without them having any say in the process. A Gallup survey earlier this year discovered that more than 70 percent of Americans would be against the construction of one in their neighborhood, while a Pew Research Center survey found that Americans increasingly believe datacenters are bad for the environment and blame them for rising household energy bills. Pew also found that advertisers spent almost $12 million on Facebook and Instagram political ads mentioning datacenters between July 27 and October 24. Among those running in October through the study's cutoff, 57 percent opposed datacenters and just three percent supported them. Common themes included corporate interests, energy use, environmental effects, and water consumption. ®</description>
+<description>Datacenter restrictions found broad support among candidates for governor in this week's US midterm elections, with nearly all those examined by Data Center Watch backing bans, pauses, or tighter development rules. Data Center Watch, which tracks grassroots opposition to compute sheds across America, examined the public positions of 74 selected candidates across the 36 states that elected governors in the midterm elections on November 3. It found that 43 percent of those candidates supported a ban or moratorium on new projects, while another 51 percent backed further regulation or conditional development. Only about 5 percent had no stated public position. Support for bans or moratoriums crossed party lines, although it was more common among the Democratic candidates examined (60 percent) than Republicans (30 percent). Candidates from both major parties backed restrictions in eight states: Maryland, Maine, Michigan, New Hampshire, Ohio, Oregon, Wisconsin, and Texas. Texas has experienced a boom in data campus development recently, thanks to its ample energy resources and light-touch regulations, although outgoing governor Greg Abbott ordered a pause earlier this year while audits of energy and water use were carried out. Democrat Gina Hinojosa defeated Abbott in Tuesday's election and will take office in January. Those positions matter to developers because governors can shape state regulation, energy policy, and permitting, although approval powers vary by jurisdiction. However, temporary pauses and targeted construction restrictions do not necessarily amount to opposition to all datacenter development. Things were even starker where folk got to vote directly on the issue, with measures regarding datacenters appearing on the ballot as well as candidates. Data Centers on the Ballot , which tracked many of these, found that 43 out of 46 municipalities where tighter restrictions on server farms were up for a vote had approved those at the time of publication. Only in one case, the City of Harwood in North Dakota, had restrictions been rejected, and 2 had yet to post results. AI-related campaign spending has also come under scrutiny. Guardrails Alliance, a labor-backed pressure group, described Leading the Future , a super PAC network opposing AI regulation, as "largely a non-factor" in the elections . It alleged the network avoided the most competitive races because "they know their money is politically toxic." Anti-datacenter sentiment has grown in the US in response to the facilities popping up in people's backyards, often without them having any say in the process. A Gallup survey earlier this year discovered that more than 70 percent of Americans would be against the construction of one in their neighborhood, while a Pew Research Center survey found that Americans increasingly believe datacenters are bad for the environment and blame them for rising household energy bills. Pew also found that advertisers spent almost $12 million on Facebook and</description>
 <enclosure url="https://image.theregister.com/?imageId=5302603&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5302603&amp;width=800" medium="image"/>
 </item>
@@ -68,17 +266,6 @@
 <description>Documents show Home Office developing programme to use technology for general immigration enforcement The Home Office is preparing to deploy facial recognition technology at transport hubs and public events as part of the biggest immigration enforcement crackdown in British history. Policy documents show the government has been developing a programme to deploy live facial recognition (LFR) cameras for “general immigration enforcement”, including non-criminal immigration offences. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/7dae8a8f1193d4f6ba98a2f706a36b65a4dc2a10/222_0_1781_1425/master/1781.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e1c026acaa0d7823ebac1f331a34d74" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/7dae8a8f1193d4f6ba98a2f706a36b65a4dc2a10/222_0_1781_1425/master/1781.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e1c026acaa0d7823ebac1f331a34d74" medium="image"/>
-</item>
-<item>
-<title>Google hasn&amp;#8217;t figured out how to make AI pay like its search engine</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</link>
-<guid isPermaLink="false">9a66a9476221031c0ee3e3c0c202cbfbc16a478dc2b42b775e035b1eacfdf5cc</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-<description>Google Chief Business Officer Philipp Schindler. | Bloomberg via Getty Images Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads that generate revenue for Google - slowed from 13 percent to 8 percent. That's still substantial growth, but not the direction investors were hoping for from a company planning to spend about $200 billion this year on infrastructure, largely to support AI. Alphabet shares have fallen about 14 percent since it reported e … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Cyberattack on French plasma stores is enough to make your blood boil</title>
@@ -112,17 +299,6 @@
 <description>Apple Music will launch 'Selfie Sing' with iOS 27.3.</description>
 <enclosure url="https://www.engadget.com/img/gallery/apple-musics-upcoming-feature-will-let-you-record-yourself-doing-karaoke/l-intro-1793789894.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/apple-musics-upcoming-feature-will-let-you-record-yourself-doing-karaoke/l-intro-1793789894.jpg" medium="image"/>
-</item>
-<item>
-<title>The Legend of Zelda: Ocarina of Time never gets old</title>
-<link>https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2</link>
-<guid isPermaLink="false">c288a077d8f15ad8b6d60488cbf94ae9a9c26aeb3fbf14fbf15c069afd694b0e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 11:00:00 +0000</pubDate>
-<description>Breath of the Wild changed everything. Two decades after The Legend of Zelda made the transformational shift to 3D, Breath of the Wild reinvigorated the franchise with an open-ended adventure that was built around player freedom and expression. Instead of following a set path, players could go wherever they wanted and tackle challenges in a variety of ways. That philosophy filtered down to subsequent games, letting players author their own creative solutions to puzzles in titles like Tears of the Kingdom and Echoes of Wisdom . As a result, Zelda has never been bigger , and the traditional, more linear Zelda games had become a thing of the past … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_02.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_02.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The Legend of Zelda: Ocarina of Time review: A masterpiece reborn</title>
@@ -213,28 +389,6 @@
 <media:content url="https://image.theregister.com/?imageId=1662910&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>AMD rides data center riches to &amp;#8216;largest and most profitable&amp;#8217; quarter in history</title>
-<link>https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc</link>
-<guid isPermaLink="false">f7f87a71fb4a7970c769d061798fba21dbeaf9aadfc18c68517c01c054cca2fc</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 01:15:34 +0000</pubDate>
-<description>AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was "was the largest and most profitable in our history." AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is driving that growth, with $8.5 billion in data center quarterly revenue for Q3 2026. Su said AMD's expecting its revenue to "grow more than 80 percent in 2027," adding that "data center will be the largest contributor." Eventually, most of AMD's revenue might come from its data center business. In response to a question durin … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>All the news about The Legend of Zelda: Ocarina of Time remake</title>
-<link>https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news</link>
-<guid isPermaLink="false">621a6640b0eccbf02189be60b41e49ee5e142adb1979257d966906215564d570</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 01:02:53 +0000</pubDate>
-<description>Ahead of the release of Rockstar Games’ Grand Theft Auto VI , Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time . The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual style and some modern improvements like a jump button, a way to sprint, full voice acting, and a “Threads of Time” feature that helps you keep track of your progress. But while the game has a new coat of paint, it appears many elements will still remain faithful to the classic N64 release. Nintendo has also launched a special version of the Switch 2 and Switch 2 Pro Controller with Triforce imagery to celebrate the game. The Legend of Zelda: Ocarina of Time remake is scheduled to release on November 5th. You can follow along with all of our coverage of the game right here. The Legend of Zelda: Ocarina of Time never gets old Keep on rolling. A link to the past. New Zelda and GTA represent a games industry that no longer exists There’s one week left to preorder the Ocarina of Time remake for $10 off Here’s Nintendo’s overview trailer for the Ocarina of Time remake. The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying Hori’s electronic Ocarina of Time requires no musical talent. Nintendo’s Ocarina of Time remake launches in November Nintendo is playing things too safe The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>iPad mini OLED vs. iPad mini: What's new?</title>
 <link>https://www.engadget.com/2303546/ipad-mini-oled-vs-ipad-mini-comparison</link>
 <guid isPermaLink="false">54cb5742815bc3cbbf95242392955a41674d82d38aff42a8efc1ae9ec5155d44</guid>
@@ -244,17 +398,6 @@
 <description>Apple's newest iPad mini is a significant upgrade over its predecessor, with hardware updates that extend far beyond the fancy new OLED display.</description>
 <enclosure url="https://www.engadget.com/img/gallery/ipad-mini-oled-vs-ipad-mini-whats-new/l-intro-1793601129.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/ipad-mini-oled-vs-ipad-mini-whats-new/l-intro-1793601129.jpg" medium="image"/>
-</item>
-<item>
-<title>The biggest modding site in PC gaming is taking a stance on AI</title>
-<link>https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</link>
-<guid isPermaLink="false">92c50f67a507db6c8047a1ecbfb2d48c89e394ab915386aa76ba7795a4a43dc5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 00:42:10 +0000</pubDate>
-<description>The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare "whether AI has been used in their work," the site announced today as part of a big post about AI-generated content on the platform. "One of the most consistent concerns we've heard is that it's not clearly disclosed when AI has been used to create a mod," according to the post from site owner Victor "Foledinho" Folmann. "We already have tags for AI-generated and AI-assisted mods, but we recognise that there's a lot more we can do to make that information more accessible and clear for you a … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Your phone's apps could have more permissions than they need – here's how to check</title>
@@ -301,17 +444,6 @@
 <media:content url="https://www.engadget.com/img/gallery/your-desktops-front-usb-ports-may-be-slowing-down-every-device-you-plug-into-them/l-intro-1793642328.jpg" medium="image"/>
 </item>
 <item>
-<title>Please stop asking me when the AI bubble will pop</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds</link>
-<guid isPermaLink="false">9d97c8271a19f07f210804b1831c22162ef4fb36697e7a6b6583a2d8f264d25e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 23:37:45 +0000</pubDate>
-<description>Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows. What I can tell you is that I read with interest a story in Bloomberg this morning: " Wall Street CEOs, Big Money Managers Divided Over AI Risks ." The story itself is a roundup of stuff said at the 2026 Global Financial Leaders' Investment Summit in Hong Kong. Here's what caught my attentio … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Arkane and its Blade game may end up at Ubisoft as Xbox considers offers</title>
 <link>https://www.engadget.com/2306118/arkane-and-its-blade-game-may-end-up-at-ubisoft-as-xbox-considers-offers</link>
 <guid isPermaLink="false">4d18f74974cc353b3265b10a4b60446cf30632bbe537b0f464a3e0f4d34587c0</guid>
@@ -356,17 +488,6 @@
 <media:content url="https://www.engadget.com/img/gallery/heres-how-to-adjust-apple-airpods-for-small-ears/l-intro-1793121569.jpg" medium="image"/>
 </item>
 <item>
-<title>Canva is announcing changes and layoffs affecting 22 percent of its staff</title>
-<link>https://www.theverge.com/tech/1025971/canva-changes-layoffs</link>
-<guid isPermaLink="false">62f8da800170149a19c3aadfc762c8a8def04460a6a0f5ca24aa9b3fa336d1fb</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 22:59:36 +0000</pubDate>
-<description>Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today . "For some people, this will mean changes to their roles or being asked to relocate to centralised hubs," says Perkins. "Sadly, it will also mean saying goodbye to teammates and friends who have helped build Canva into what it is today." In her note to staff, Perkins says that: After exploring a wide range of alternatives, I've come to the difficult conclusion that small changes won't be enough. To set ourselves up for the next decade, we need to refound Canva, getting back to our roots of small, … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Meta's Quest 2 and Quest Pro reach 'end of feature development'</title>
 <link>https://www.engadget.com/2306079/meta-quest-2-and-quest-pro-reach-end-of-feature-development</link>
 <guid isPermaLink="false">e5e05ccc87c5adfe895b4a95b45065a9b0589532bc239f7f7a51f42bbcac3977</guid>
@@ -389,17 +510,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Sonos adds new Presets and prepares for the 27voice AI beta</title>
-<link>https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access</link>
-<guid isPermaLink="false">f8fc168ace4ee0391f2cfebd22da1bf33f3b36e60df992c690e7cbae219f1fbe</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 22:20:50 +0000</pubDate>
-<description>Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you can also sign up for a spot on the waitlist for the new Sonos 27voice assistant on November 6th, with access starting on November 12th. As teased by Sonos previously, you'll be able to use the assistant to do things like start music, move playback to another room, group and ungroup speakers, and set timers. But Sonos says it can also complete more compl … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25651509/_STK084_SONOS_C.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25651509/_STK084_SONOS_C.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>US tech stocks recover after selloff spooks investors over AI spending</title>
 <link>https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending</link>
 <guid isPermaLink="false">8fb47c722971ec48c73514174db3c2dde742af47ef778c490fc056ce46034726</guid>
@@ -409,17 +519,6 @@
 <description>Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over AI spending. Tuesday’s midterm elections didn’t appear to have a huge impact on Wall Street, though investors are predicting Democrats get at least a majority in the House and potentially gain seats in the Senate, which could lead to more AI regulation. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/4deeff6920cbe68eb5c102d876b4df883151e8e9/584_0_5820_4658/master/5820.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e7c79fd67c100ee18ad005294f5771a" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/4deeff6920cbe68eb5c102d876b4df883151e8e9/584_0_5820_4658/master/5820.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e7c79fd67c100ee18ad005294f5771a" medium="image"/>
-</item>
-<item>
-<title>Valve is making changes to deal with a ‘significant increase’ in Steam game submissions</title>
-<link>https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions</link>
-<guid isPermaLink="false">dd0993e5b6bc89054d011576eb5aa565c060ed58136a0cd4d90ffce28371727a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 22:15:33 +0000</pubDate>
-<description>In a new post today , Valve acknowledged that it's seen "a significant increase in submissions for store and page review in recent months" and says it's "running a little behind" by taking "up to 12 business days" for reviews instead of the typical 3-5 days. Indie developers have recently expressed frustrations over lengthy approval times for Steam games, even causing some games to miss planned launch dates . Valve says that "much" of the delay is having to re-review games, so it's making some changes to the release checklist for developers to hopefully "cut down on re-reviews for basic functional issues." The changes include requiring dev … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>North Korean fake job interview led to $6.3B Binance heist</title>
@@ -609,17 +708,6 @@
 <media:content url="https://i.guim.co.uk/img/media/f67cc40e017c9be99ab108202d9308c5bb1694fb/356_0_3333_2666/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a7b0f64258c54a509f0fc55d1b34926" medium="image"/>
 </item>
 <item>
-<title>How to use your phone to find hidden cameras</title>
-<link>https://www.engadget.com/2300439/how-to-use-phone-find-hidden-cameras</link>
-<guid isPermaLink="false">8b3259a1d6cc24a26085be15674983a1c1d42b480eace24d2b1db85d8c9a0b37</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:00:00 +0000</pubDate>
-<description>When you feel wary, a quick check might provide some peace of mind.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-you-can-use-your-phone-to-find-hidden-cameras/l-intro-1792784027.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-you-can-use-your-phone-to-find-hidden-cameras/l-intro-1792784027.jpg" medium="image"/>
-</item>
-<item>
 <title>NYT demands Brave shut down its paywall blocker and end deals with AI firms</title>
 <link>https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms</link>
 <guid isPermaLink="false">8466290a4a63f493c42bd4dccd7e4ff93f571e0340df56655a99d6d50ae48861</guid>
@@ -629,17 +717,6 @@
 <description>The New York Times and other newspaper companies sued Brave Software yesterday, alleging that the browser maker illegally bypasses paywalls and sells stolen news content to AI companies. "Brave is the supplier, dealer, and distributor of stolen copyrighted content for its own users and many of the most prominent GenAI companies, including Anthropic, Perplexity, Mistral, xAI, and Cohere," the NYT alleged in a lawsuit filed in US District Court for the Southern District of New York. Citing third-party revenue estimates, the suit claimed that "Brave has made more than $100 million by copying and reselling publishers’ work without consent or permission," while "publishers have received nothing." The lawsuit said, "AI companies pay Brave to provide them with real-time online content from the Brave search index," and use content from the Brave index "to train their own AI models" and "to respond to specific user queries." The NYT lawsuit points to Brave's website , which says the Brave Search API is "used by some of the biggest names in AI, including Cohere, Mistral, Perplexity, and You.com." Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Razer unveils the Raiju V3 Pro Signature Edition PS5 controller</title>
-<link>https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller</link>
-<guid isPermaLink="false">10eedc772d54ac8fcf135c0dc579469852981da42b9f51b2b43ce19ff856bf48</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:28:03 +0000</pubDate>
-<description>It sure is pretty and will likely be expensive.</description>
-<enclosure url="https://www.engadget.com/img/gallery/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/l-intro-1793730404.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/l-intro-1793730404.jpg" medium="image"/>
 </item>
 <item>
 <title>Buttons are back and storage is king when it comes to car interiors</title>
@@ -1181,28 +1258,6 @@
 <media:content url="https://image.theregister.com/?imageId=247072&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights</title>
-<link>https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat</link>
-<guid isPermaLink="false">6725ad9e90d62dcc66ed2747614e46a46f28515cc438ade640460270778ac6f3</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 18:32:21 +0000</pubDate>
-<description>Apple’s new CEO, John Ternus, is apparently pushing the tech company’s development of household robots—and the first to debut may be a home robot designed to autonomously roam around while supporting FaceTime calls and switching lights on whenever a person enters the room. People who worked on Apple’s robotic projects told The Information that the AI-driven home robot, code-named J595, could be named HomeView Ultra in line with Apple’s new HomeView stationary smart display . The company is reportedly aiming to launch the robotic product with a possible price tag of $1,000 or more by 2027, although development delays may push that back to 2028. The earliest prototypes of the home robot first came out in 2018 and received approval from former Apple CEO Tim Cook to continue the project. The Information describes Apple’s engineers as trying to give the robot more capabilities beyond being a “fancy way to make FaceTime calls” in order to justify a high price tag, even as the team has spent years refining the software and incorporating more AI technologies. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Claude’s new rules against game cloning won’t stop the AI copying boom</title>
-<link>https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom</link>
-<guid isPermaLink="false">6e38c6d82605d6222af89917f397a3ad5185439fc68d8c34a91675bd4733991b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 18:05:31 +0000</pubDate>
-<description>Last week, Anthropic introduced a new system prompt designed to stop its Claude models from re-creating specific, existing video games. While that move could help shield Anthropic from some liability, it's unlikely to slow much of the massive wave of AI-assisted game porting and copying that has emerged in recent months. A social media user and AI decompilation enthusiast going by the name "chasm" was among the first to note the prompt change late last week, saying a new rule seemed to be added to the Claude Code prompt on or around October 27. That rule—included in a json file under the name "tengu_heron_brook"—reads as follows: Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original. XDA later independently verified that the new rule appears in version 2.1.314 of the Claude Code binary, which was released on October 30 . XDA also reported that the "tengu_heron_brook" rule had been used for other purposes in earlier versions and that the Claude Opus 5.5 model specifically seemed to have its own distinct and independent instructions restricting game recreations as part of its system prompt bundle. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking</title>
 <link>https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028</link>
 <guid isPermaLink="false">1d941635bc2e293582ae2560f8ee78f68f35c48320295563340e611a0fa5d752</guid>
@@ -1278,17 +1333,6 @@
 <description>The open-source browser’s newest feature lets you pop out a page – or part of a page – into its own mini window. See why this is incredibly cool.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/miniwinhero.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/miniwinhero.jpg" medium="image"/>
-</item>
-<item>
-<title>China publicly discloses plan for a lunar landing within three years</title>
-<link>https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030</link>
-<guid isPermaLink="false">7e0fada9bc1fd19fcde6d079832b694957ac65f6c9ae4d6f5f0d124c9a2ff502</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 17:09:13 +0000</pubDate>
-<description>Chinese space officials confirmed this weekend that the Asian nation plans to land its astronauts on the Moon within three years. At the Seventh Manned Spaceflight Conference in Beijing, officials, including Wang Xiang, chief designer for the lunar exploration program, laid out the country's most publicly detailed plans yet for a series of missions leading up to a crewed lunar landing "before 2030." China's lunar landings will involve a lunar-orbit rendezvous similar to what NASA did in the 1960s and early 1970s with the Apollo program. However, lacking a rocket as powerful as the Saturn V vehicle, the crew and lunar lander will launch separately to the Moon. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Samsung’s Privacy Display may be coming to more Galaxy phones – what we know</title>
@@ -1388,39 +1432,6 @@
 <description>The cyberattacks on commercial refrigerators and freezers in Europe continue, as a slew of grocery stores in Belgium, Ireland, Luxembourg, and Sweden report widespread food wastage as a result of miscreants raising the temperatures to highs of 50ºC (122°F). In Belgium, around 40 Delhaize stores were affected after the attackers reportedly switched fridges and freezers into defrost mode overnight, between Sunday and Monday, resulting in stock issues. Diego Louwers, a Proxy Delhaize store manager in Overijse, near Brussels, told RTL Info that the consequences of the cyberattacks were "catastrophic," forcing the store to throw out the entirety of its fresh and frozen products. "We can't have anything worse in our line of work," he said. "We have to throw away all of our merchandise, and it's both heartbreaking and very complicated operationally." A Delhaize spokesperson said it took steps to ensure stores remain stocked, although fresh and frozen products are "temporarily somewhat limited." "On Monday, 2 November, we identified an IT incident affecting the refrigeration systems in several dozen of our stores," they said. "We immediately took the necessary measures to keep our stores operational and ensure that our customers can continue to do their shopping as usual. "In the affected stores, the range of fresh and frozen products is temporarily somewhat limited. Our distribution centres are operating normally, and there has been no disruption to deliveries to our stores. "We are, of course, continuing to ensure that our products are stored and presented under optimal conditions, so that we can provide our customers with the quality and freshness they have come to expect from us." Around 15 Carrefour stores are also reportedly affected, as are sites operated by Intermarché, Spar, and Shop &amp; Go stores located at Q8 service stations. Belgium’s De Laet &amp; Van Haver chain of butcher shops reported temperature rises in its appliances too, but followed up with a statement on Monday saying there was no impact on its produce, and all stores remain open. Simultaneously, similar issues have affected Swedish grocery chain ICA, which confirmed attacks on a "small number of stores." "We can confirm that we have been informed of an incident overnight affecting a small number of ICA stores operating outside ICA’s central network," a company spokesperson said. "The incident impacted the stores’ refrigeration and freezer systems. ICA is currently supporting the affected stores in managing the situation." ICA did not respond to questions about the scale of food wastage nor when normal operations are expected to continue. One store, ICA Nära in Böda on Öland, said via social media that it is open today but has no fresh or frozen produce to sell. "Unfortunately, we are one of the stores whose refrigerators and freezers have been hacked," it said. "We are open as usual, but unfortunately we have no refrigerators and freezers to sell. "We have no status on when the refrige</description>
 <enclosure url="https://image.theregister.com/?imageId=257960&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=257960&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Anthropic's IPO prospectus is big on promises, short on answers to tough questions</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-ipo-prospectus-is-big-on-promises-short-on-answers-to-tough-questions/5306811</link>
-<guid isPermaLink="false">c600279dad6a4192a32f65da64da6ca942178925a044a79ec61f069762c4cb8a</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 12:30:00 +0000</pubDate>
-<description>It's official: Anthropic is going public, and boy, are our eyebrows tired from poring over hundreds and hundreds of pages of questionable claims. You can listen to the latest episode of The Kettle right here on this page, as well as on Spotify , Apple Music , or YouTube . Those platforms also let you subscribe to The Kettle, so you are always notified when the latest episode goes live. Anthropic is going to need to do a lot to make its massive IPO more than just a flash in the pan, as systems editor Tobias Man n and senior reporter Tom Claburn tell host Brandon Vigliarolo on this week's episode. For one, the company has nearly a trillion dollars in compute commitments to pay for, which is going to mean it'll be burning through more cash than a datacenter gas turbine turned up to 11. In addition to its massive spending for the foreseeable future, there's also the fact that much of its computing power relies on customers who are also competitors. In short, we're skeptical, but you probably already knew that. It's El Reg, after all, and we're not just taking what the AI industry claims at face value - if it looks like a house of cards, it probably is. A lightly edited transcript is below: Brandon (00:03) Hey everyone, and welcome to the latest episode of The Register 's Kettle podcast. I'm your host, Reg reporter Brandon Vigliarolo, and this week we're focusing on what I think our contributor Carly Page aptly described as the peak of the AI hype cycle we've been in for the past few years, and that's the public release of Anthropic's initial public offering filing. With me to talk this over is our systems editor Tobias Mann and senior reporter Tom Claburn, both of whom I'm sure have plenty to say about this matter. Welcome guys. Tobias Mann (00:34) Good to be here. Tom Claburn (00:34) Good to be here. Brandon (00:36) So, I'm sure we've got a lot to cover. 614 pages is a lot to go through. Tobias, I understand you were combing through this thing with a fine-toothed comb . Talk us through the hard numbers before we get into some of the more wobbly parts of this IPO. Tobias Mann (00:56) Sure. At face value, going into any S-1 filing, it is a kind of mess of risk mitigation, kind of covering your butt. They all pretty much read like a doomsday prophecy. Brandon (01:18) Right. Tobias Mann (01:18) The S-1 definitely did that. But on the numbers side of things, the takeaway for the market was kind of interesting because there were some people looking at the numbers and going, "OK, this actually seems reasonable." Their operating losses were only about 700 million dollars. Brandon (01:40) I think on 16.3 billion net [revenues], right? That was what they reported. Tobias Mann (01:46) Right. Brandon (01:47) Now they also mentioned, I think, and I was going to ask you about this, $80.7 billion total losses, but I understand that was an accounting adjustment of some kind. Did they mention in the IPO what that meant specifically? Tobias Mann (02:01) Not specifica</description>
-<enclosure url="https://image.theregister.com/?imageId=225166&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=225166&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>FBI pins $6.3B Binance crypto heist on North Korean hackers</title>
-<link>https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889</link>
-<guid isPermaLink="false">2760738eac152fcf4e4de3ee97888b1ff1dbc83f39b25cbe4d24a6ec6bdbabeb</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 11:45:00 +0000</pubDate>
-<description>The FBI has blamed North Korean hackers for the record-breaking $6.3 billion theft from cryptocurrency exchange Binance, pointing the finger at the notorious Lazarus Group as the exchange scrambles to replace stolen funds and reassure customers. In an alert published Saturday , the agency attributed the October 29 attack to TraderTraitor, a North Korean hacking operation linked to Lazarus, which has made a lucrative career out of relieving crypto exchanges of their digital assets. Pyongyang was already in the frame before the FBI weighed in. Blockchain intelligence firms TRM Labs and Elliptic had linked the theft to North Korea, with TRM reporting that most of the $6.36 billion haul disappeared in about 20 minutes. Elliptic, which puts the total closer to $6.43 billion, says it has verified that $2.85 billion of the stolen assets have been frozen or seized. According to the FBI, the hackers have started swapping their loot for Ethereum, with investigators expecting them to move the funds through decentralized finance (DeFi) platforms and instant swap services to make the money harder to trace. The agency has published a list of cryptocurrency wallet addresses linked to the theft and is urging exchanges, blockchain analytics firms, and other virtual asset providers to block transactions involving the stolen funds. The FBI's attribution comes days after Binance admitted that hackers had made off with roughly $6.3 billion in cryptocurrency. According to the exchange , the trouble started with a compromised DevOps engineer's laptop, which gave the intruders access to a service container and allowed them to authorize withdrawals they had no business making. Binance has since resumed customer withdrawals , which it suspended after the attack, and says it has now replenished about 95 percent of the stolen assets. The remaining tokens are proving harder to replace because of their limited liquidity. The exchange has committed billions of dollars from its own reserves and emergency funds to cover the losses, with co-CEO Richard Teng promising that customers won't be left footing the bill. That hasn't stopped users from heading for the exits. Binance recorded approximately $3.64 billion in net outflows after withdrawals resumed, although the company said this represented only around 2.1 percent of its reported assets. Replacing the stolen cryptocurrency is one thing. Getting it back from North Korea is another, and investigators face the considerable task of tracking billions of dollars as the hackers attempt to move it beyond their reach. TraderTraitor has form when it comes to raiding crypto exchanges. The North Korean crew has previously been linked to a string of cryptocurrency thefts, including the $308 million attack on Japan's DMM Bitcoin exchange in 2024 . The group has previously used fake job offers and recruitment exercises to trick employees into handing over access to their employers' systems. As we reported here on Friday , crypto exchange Bi</description>
-<enclosure url="https://image.theregister.com/?imageId=254844&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=254844&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Vintage fun: Prodding AI agents using retro hardware just because you can</title>
-<link>https://www.theregister.com/offbeat/2026/11/02/vintage-fun-prodding-ai-agents-using-retro-hardware-just-because-you-can/5306705</link>
-<guid isPermaLink="false">1ecbe4e6739f4075f55e1c266453c6060a019e41cfdfa747134b4705693e925d</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 11:00:00 +0000</pubDate>
-<description>From the department of "pointless but still cool" comes word of some kit being repurposed as a terminal for AI agents. AWS developer advocate Darko Mesaroš has connected a teletype to a modern command-line interface to revel in the delight of interacting with today's AI technology via a combination of a DECwriter and fanfold paper, or the display and keyboard of a computer whose heyday ended 40 years ago. Mesaroš' project involved AWS Kiro , a Command Line Interface (CLI) and agentic coding service. We would, however, contend that this is more about seeing what retro hardware can be made to do. Two problems needed solving: getting data to and from the teletype, and formatting the output to work on a piece of kit from another era of computing. He used Hayes modem emulation to deal with the serial connection, and Agent Client Protocol (ACP) for working with Kiro. Mesaroš used a WiModem232 for the former. The device emulates a standard Hayes-compatible modem and, according to Mesaroš, "Folks initially used this to connect Commodore 64s to BBSes in the modern era" (he started his computing journey with a Commodore 64). The latter, getting the Kiro CLI to work on a Teletype, was a little more complicated. Kiro's CLI isn't really suitable for a teleprinter capable of 30 characters per second, after all. A simple Rust application took Kiro's output (obtained via ACP) and turned it into something that a teletype, or dumb terminal, could handle. As we said, seemingly pointless, but making it work required knowledge of Rust, competence with containers, an understanding of ACP, and more than a little creative thinking. So, while one might argue it is pointless from a technical perspective, it is wonderfully educational otherwise. The repository is available and focuses on Kiro for obvious reasons (Mesaroš is an AWS developer advocate after all), but in a chat with The Register , Mesaroš said the concept was portable. He said, "Any coding assistant or any harness that supports ACP, this should work, right? I built it for Kiro, but it uses the standard ACP protocol, so I could easily plug in Claude Code or Codex. Anything that basically can serve as an ACP server should be perfectly fine. "Blessed be the standards, right?" There might be some issues. "The biggest problem with this thing is that it doesn't really handle packet drops at all," he explained. "Like, if you drop packets, they're just gone. There're no retries. It's just spitting information out." And then there is buffering. Or the lack of it. Mesaroš said, "There's actually no buffering happening here. Literally, it just comes down through the fire hose through this serial device, and the bottleneck itself is the serial device." Mesaroš had toyed with using the GPIO pins on a Raspberry Pi, but settled on the serial device instead, since everything worked "out of the box." "It's kind of cheating," he admitted, "but it's also kind of good." Mesaroš collects vintage hardware, with a stash that ranges</description>
-<enclosure url="https://image.theregister.com/?imageId=5303422&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5303422&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>From a life-changing garlic press to a super-glowy serum: 12 buys you’re loving right now</title>
@@ -1564,17 +1575,6 @@
 <description>AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry • Don’t get Pushing Buttons delivered to your inbox? Sign up here If your social media algorithms have clocked that you’re into video games, something strange will have happened in the past few weeks. Your feed, like mine, will have been full of clips of streamers playing bizarre mashups of popular video games . Skyrim in Minecraft. Halo, except the main character is Mario. Skate 2 in Call of Duty maps. A flood of professional-looking fan-coded game mods that are mildly interesting to look at for 30 seconds, but ultimately inconsequential. Would I download a mod that lets me play Wii Bowling inside a zombie shooter? No, but I am very interested in where they came from. Of course, the answer – or at least, most of the answer – is AI. After a week of researching this (thanks especially to Replay Mode on YouTube for this informative video , which set me down this track) I now understand that these mashup mods are not just AI-generated videos, but AI-assisted coding. Basically, as of a few weeks ago, Anthropic’s Claude has become extremely good at decompiling video game code. Games are written by humans in readable code and then compiled into binary 1s and 0s that the PC or console running it can read; decompiling is the reversal of that process, revealing a game’s source code, which humans can then edit and mess around with for fun. This used to be an extremely laborious process. But now it is not, because humans aren’t doing much of it any more. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/1a3c98277d78595d1da189cd71df191cca462a56/377_0_3451_2761/master/3451.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5dca5496c8ca1353284976f83a58af9c" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/1a3c98277d78595d1da189cd71df191cca462a56/377_0_3451_2761/master/3451.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5dca5496c8ca1353284976f83a58af9c" medium="image"/>
-</item>
-<item>
-<title>Eight great new indie horror games for Halloween</title>
-<link>https://www.theguardian.com/games/2026/oct/27/new-indie-horror-games-halloween</link>
-<guid isPermaLink="false">11f9ec36be3515226fa817a9a569ba33d943c9e1c8c56c0c116e2e0f2a8c8d7b</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 10:00:09 +0000</pubDate>
-<description>Whether you favour spooky fairtales, satanic card games or infernal hijinks at the chip shop there are all manner of fresh top scarers at large this witching season Tis almost All Hallows’ Eve and naturally, the thoughts of all good video game players are turning to horror. 2026 has already been a bloody good year for the genre with Resident Evil Requiem and Silent Hill: Townfall leading the rabble. But this autumn sees a festering surge of indie horror releases, featuring everything from cursed card games to Nazi-hunting penguins. Here are eight terrifying titles we think you should sample while jack-o-lanterns burn and spirits walk the moonlit streets. Allogloom (PC) Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab28c6ee210d78a0f7c89e0a0bcb020c" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab28c6ee210d78a0f7c89e0a0bcb020c" medium="image"/>
 </item>
 <item>
 <title>Is a job guarantee the solution to mass AI unemployment?</title>

@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate</title>
+<link>https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto</link>
+<guid isPermaLink="false">8642056a013a2073e329bc771a4805a07742ebe46755dc22aa034f5737bfeeba</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 06:40:13 +0000</pubDate>
+<description>Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 06:03:33 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
 <title>Ethereum dev targets 2028 for quantum resistance, a year early</title>
 <link>https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target</link>
 <guid isPermaLink="false">3ff8a7925caca9955a9ab887badfefc07bc46ccc05241a84fec4c649ec366aaf</guid>
@@ -13,17 +35,6 @@
 <description>Ethereum researcher Justin Drake said it is their “hope” that Ethereum will achieve its post-quantum and post-AI transition by December 2028.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JH4H7TR2ZYP94F0GBTNFV0/ethereum-post-quantum.png" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JH4H7TR2ZYP94F0GBTNFV0/ethereum-post-quantum.png" medium="image"/>
-</item>
-<item>
-<title>US midterms election 2026 live: Trump applauds Democrats on Senate win</title>
-<link>https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto</link>
-<guid isPermaLink="false">8642056a013a2073e329bc771a4805a07742ebe46755dc22aa034f5737bfeeba</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 04 Nov 2026 05:30:31 +0000</pubDate>
-<description>Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" medium="image"/>
 </item>
 <item>
 <title>Democrats claim control of the US Senate</title>
@@ -90,17 +101,6 @@
 <description>Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 22:39:18 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>The Gap Between Your Expertise and Your Content Marketing Is One of the Most Expensive Disconnects You Can Make</title>
@@ -439,7 +439,7 @@
 <source>Banking Dive</source>
 <category>business</category>
 <pubDate>Tue, 03 Nov 2026 15:08:46 +0000</pubDate>
-<description>The super-regional rolled out a faster onboarding experience and added insights for business owners, said Chris Ward, head of enterprise payments.</description>
+<description>The super-regional is rolling out a faster onboarding experience and adding insights for business owners, said Chris Ward, head of enterprise payments.</description>
 <enclosure url="https://imgproxy.divecdn.com/mMcG50ccqA0YGka7kQtBZDZz_1aWL9MvQQxr5UpxQ0w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTE1Ny5qcGc=.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/mMcG50ccqA0YGka7kQtBZDZz_1aWL9MvQQxr5UpxQ0w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTE1Ny5qcGc=.webp" medium="image"/>
 </item>
@@ -835,7 +835,7 @@
 <source>Banking Dive</source>
 <category>business</category>
 <pubDate>Mon, 02 Nov 2026 17:21:19 +0000</pubDate>
-<description>“The bank’s condition deteriorated due to weak earnings which led to liquidity and capital issues,” the FDIC’s Office of the Inspector General said Friday.</description>
+<description>”The bank’s condition deteriorated due to weak earnings which led to liquidity and capital issues,” the FDIC’s Office of the Inspector General said Friday.</description>
 <enclosure url="https://imgproxy.divecdn.com/-1rOHdDRSLPQCFm1YmBc5jMqJtOGtgXDM6HxG7UOPlw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY4NTA2OTY4XzEuanBn.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/-1rOHdDRSLPQCFm1YmBc5jMqJtOGtgXDM6HxG7UOPlw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY4NTA2OTY4XzEuanBn.webp" medium="image"/>
 </item>

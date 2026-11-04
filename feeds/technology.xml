@@ -4,6 +4,116 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Fedora 45 is finally finished and fit</title>
+<link>https://www.theregister.com/os-platforms/2026/11/04/fedora-45-is-finally-finished-and-fit/5307631</link>
+<guid isPermaLink="false">625e9744e85fa307be3bdc2079661f2ae21630828bafc8e8cac5e57d97b24b8f</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:59:00 +0000</pubDate>
+<description>Fedora 45 is here , after not one but two week-long delays as the team found last-minute issues. Although both the original and second announcements were irksomely non-specific, in general we prefer this "when it's ready" approach to the rigid calendar-based schedule that Canonical favors for Ubuntu. It includes six main editions, five immutable desktop variants, and 12 "spins" with different GUIs. The combined version 45 release notes detail some of the bigger individual component changes and note the hardware requirements. The recommended spec is now a 2 GHz quad-core CPU with 8 GB of RAM and 20 GB of disk space, and at least 1024×768 graphics. Fedora 45 supports most display adapters, but 3D acceleration may not work on older GPUs, including Intel models prior to GMA9xx, Nvidia models prior to NV30 (GeForce FX5xxx series), and AMD Radeon models prior to R300 (Radeon 9500). We took a quick look at the beta back in September, focusing on its new next-generation text console, which is a welcome change. We especially liked the ability to zoom in and out on the text console on the fly, which is something we've missed since the superb "Laptop Ultravision" for DOS , about a third of a century ago. (The company is long gone, but we found a downloadable version for all you DOS users .) The desktop flagship editions are Workstation 45 , which comes with GNOME 51 "A Coruña" , and Fedora KDE Plasma Desktop , with KDE Plasma 6.8 . We covered some of the new features in GNOME 51 when we looked at the Ubuntu 26.10 beta , and those changes apply here too – notably, improvements in the Settings app, but removal of some older Nvidia GPU support. Both the big names are Wayland-only environments now, but by our reckoning, X11 fans have seven of the 12 official spins to choose from: Xfce, Cinnamon, MATE, i3, LXQt, LXDE, and Sugar (SOAS) all still use X.org if you prefer. There is also a combined What's New page for all the Atomic Desktops, Fedora’s immutable variants – the main shared feature here being the new web-based installer. The new version of main Fedora is accompanied by Fedora Asahi Remix 45 for Apple Silicon Macs. This is a more notable release than the cross-platform editions, as Asahi 45 brings initial support for M3-based Macs as well as M1 and M2 kit. As The Reg described in September , though, the M3 support is preliminary and limited – for instance, it excludes the M3 Ultra. If you have an M3 Mac, for now, you're better off sticking to macOS. The most important changes in Fedora 45 are under the hood, which is what the Red Hat release announcement focuses on. It now uses RPM version 6.1, with enhanced package signature checking , and blocks the vendor of packages silently changing. The GNOME keyring now uses the oo7 secrets manager . Support for two old VPN plugins has been removed, because the packages were unmaintained. A feature that we are happy to see land at last is better support for Red Hat’s Stratis next-generation storage subsystem. We g</description>
+<enclosure url="https://image.theregister.com/?imageId=5307643&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5307643&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>‘Wellness is on the ballot’: Why did so many pilates studios tell me to vote in the midterms?</title>
+<link>https://www.theguardian.com/us-news/2026/nov/04/pilates-politics-fitness-studios-midterms-voting</link>
+<guid isPermaLink="false">621fa16fb3ceeefc5ef4f4fbfa49f8f669957d025131512c4cd8831424635111</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:53:31 +0000</pubDate>
+<description>Owners of pilates and yoga studios in the US got political and encouraged their followers to vote on social media Your local pilates instructors only want you to do two things: breathe through your side-planks and vote. In the days leading up to the US midterm elections, a wave of posts from fitness and wellness accounts blanketed Instagram, eschewing their typical messaging around the importance of strengthening your core in favor of the importance of exercising your civic duty. Owners of pilates and yoga studios and instructors across the US posted reels and pictures on platforms like Instagram encouraging their followers and clients to vote. Engagement varied depending on their following: posts reaped anywhere from 70 to more than 10,000 likes. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/8ad166b15b06ef0640fce66a4dcb41b3d9cdbb25/499_0_5001_4000/master/5001.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7d7f8c4b24eeda2627a20c1f8f8b70a" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/8ad166b15b06ef0640fce66a4dcb41b3d9cdbb25/499_0_5001_4000/master/5001.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7d7f8c4b24eeda2627a20c1f8f8b70a" medium="image"/>
+</item>
+<item>
+<title>Nintendo's main Switch cartridge supplier is leaving the ROM business</title>
+<link>https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business</link>
+<guid isPermaLink="false">fd24d29ec5f4b503fd08879e3bc9d38654a7bd684179f2dc0a985c460315cc0b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:39:08 +0000</pubDate>
+<description>This is potentially terrible news for those who love physical media.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/l-intro-1793817497.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/l-intro-1793817497.jpg" medium="image"/>
+</item>
+<item>
+<title>Turn your home into a giant crane game with this open source robot</title>
+<link>https://www.theregister.com/offbeat/2026/11/04/turn-your-home-into-a-giant-crane-game-with-this-open-source-robot/5307628</link>
+<guid isPermaLink="false">7f18bb1ccb2d49d06dcfa5f790e8e94344be002c19bb354cc19354531c868333</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:35:00 +0000</pubDate>
+<description>Your new robot servant doesn't have to look anything like a person or walk on two legs. In fact, it might just be a claw that hangs from the ceiling instead. That’s the future envisioned by Nathaniel Nifong, founder of Neufangled Robotics, and its Stringman robot . Put simply, Stringman is an AI-equipped claw suspended from four strings running through the corners of a room (up to 10 meters diagonally). Two motorized anchors adjust the lengths of the strings to move the claw around the room, from ceilings up to 4 meters high down to the floor to pick stuff up. With a payload capacity of around 2 kg, depending on its position, Stringman can move items to designated locations – like a toy box – and perform tidying tasks. Stringman can also be manually controlled if you’d prefer to play a room-sized crane game by yourself. According to Stringman’s documentation site, the device is currently a public prototype that “can self-calibrate in a new room and run policies, but is not yet reliable enough to be called a home appliance.” That said, demonstration videos on the website show it in action, and it’s neat to watch. Stringman is shown picking up laundry and dropping it in a basket, putting Lego bricks and other kids' toys back where they belong, and generally zooming around rooms and demonstrating its agility. One could imagine a properly trained Stringman could even grab the remote you left on the other side of the living room and drop it in your waiting hand if you’re that incredibly lazy. “Our mission is to give people an organized home,” Neufangled says on its future roadmap page . “We prioritize robots that are narrowly effective at something that helps today rather than a general purpose robot that may be in development for years.” The company further describes its goal as designing robots that are low cost and capable of doing things that people hate to do - e.g., pick up after a messy toddler - and making a robot that can do that while camouflaging itself into the home “as well as possible.” As long as you think a foot-long claw robot hanging from the corner of the ceiling is camouflaged, this is the robot for you. Neufangled lists Stringman for $795, which is a lot to ask for a public prototype that isn’t reliable enough to be called a home appliance yet. Luckily for those who’re interested in this sort of niche home automation, it’s fully open source , too. “A complete Stringman is three Raspberry Pis on your Wi-Fi network,” the documentation site reads: One in the gripper, and two in the corner anchor mounts that store line reels and have cameras to track the claw’s location as it moves around the room. A third camera mounted on the claw provides visual feedback. Oh, you'll also need a dedicated PC or Mac to run the robot's motion-control software. As for Stringman itself, to build your own, you'll need a 3D printer, a supplier to manufacture the PCBs, motors, Raspberry Pis, and other components listed in the bill of materials. You'll also</description>
+<enclosure url="https://image.theregister.com/?imageId=4094104&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=4094104&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Nothing teases a screen-free AI device ahead of launch next month</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</link>
+<guid isPermaLink="false">56101ee27feec7039fe1c7d02389be389d0611efa9c8beb0176b41e67df1fc99</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:26:07 +0000</pubDate>
+<description>Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for "AI-native" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature it won't have is a screen: "Our first AI-native product ships next month. It's a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn't have been an app." Pei shared an image with the post that says "NOTHING(R)" in the top left corner, above an ambiguous black rounded … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple will check shared iCloud links for ‘harmful content’</title>
+<link>https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3</link>
+<guid isPermaLink="false">68bc701759f26a6fa0c9a116507d73a00f03c6f891286f42619b403924de85b3</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:23:37 +0000</pubDate>
+<description>Apple will start checking iCloud items that are accessible to anyone who has the link for "harmful content" starting with iOS 27.3 and other 27.3 updates, the company says. "When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that content is made accessible to Apple to check for harmful content," according to a support document reported on by 9to5Mac . Sharing something over iCloud with the "Anyone with the Link" permissions will also mean that it's no longer end-to-end encrypted. Apple's support document does not define what "harmful content" is. But this new app … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Boffins use machine-learning tricks to create a starlight dimmer switch</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/04/boffins-use-machine-learning-tricks-to-create-a-starlight-dimmer-switch/5307625</link>
+<guid isPermaLink="false">79b0fe6cb6c4d67340c980c52d39aa7e9316e0a4cf53b804ba9de0d1b9f16cf4</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:03:00 +0000</pubDate>
+<description>Scientists have developed a way to remove starlight from telescope images that improved sensitivity to faint exoplanets by up to 15 times in tests on James Webb Space Telescope data. A team led by Northwestern University's Rodrigo Ferrer-Chavez combined a physics-based telescope model with optimization techniques used in machine learning to subtract unwanted starlight. Directly imaging exoplanets remains difficult because their host stars' glare can overwhelm their faint light. Existing techniques subtract modeled or reference starlight, but tiny changes in telescope optics can leave residual glare that hides planets. The team's Physics-based Learning for Imaging Planets (FLIP) framework models how light passes through the telescope, adjusts for optical imperfections, and simulates the glare to be subtracted. Applied to observations from Webb's Near-Infrared Camera (NIRCam), FLIP produced the first image of the known giant planet 51 Eridani b at an infrared wavelength of 4.3 micrometers, where conventional processing had failed. Tests showed sensitivity improvements of two to 15 times over conventional techniques, according to the Nature paper . "This is the first time, to our knowledge, that such an approach has demonstrated substantially improved sensitivity on real, on-sky coronagraphic imaging. Our framework can be extended to other current and future ground-based and space-based observatories… potentially relaxing the unprecedented stability requirements needed to make these a success," the paper says. Further work includes reducing computational demands and developing ways to handle the much larger data volumes produced by ground-based observations. The researchers hope further development and testing will bring direct images of Earth-like planets closer, while reducing the extent to which tiny telescope instabilities obscure them. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=235798&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=235798&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>My therapist thinks I should chuck the Amazon Bee Frontier out a window</title>
+<link>https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables</link>
+<guid isPermaLink="false">f762962d4e70678a67373cf47437a81ba9edf3d01faba5b648257e7c0fe982b2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
+<description>Also, can I just say this LED indicator light is way too small and unnoticeable? This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here . "How does that make you feel?" I get asked this a lot in therapy. Plenty of life events, big and small, have triggered this question. Three weeks ago, it was the fact that I had to ask my therapist for her consent because I was wearing the Amazon Bee Frontier during our session. That first week, I didn't really have an answer. A lot had changed since I first tested Bee , an always-recording AI wearable, early last year. The ele … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>ChatGPT will now make you animated GIFs</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6</link>
+<guid isPermaLink="false">7e4f7adddfbaac34bb48f63cf9d4ce2030dfb65ff51f5cd613c248b1672df644</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
+<description>ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, "can you make a gif of a cat dancing?," while also providing you with the option to change the playback speed and view it frame-by-frame. Along with support for GIF-making, OpenAI says the Images 2.6 update also enable … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>God of War Laufey is delayed until May 20</title>
+<link>https://www.engadget.com/2306802/god-of-war-laufey-is-delayed-until-may-20</link>
+<guid isPermaLink="false">e732fa19709ce6ae7789d50cf7cf3dbe86be09cd39f78390c75aa7188644c86c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 17:50:47 +0000</pubDate>
+<description>Santa Monica Studio will use the extra time to push the game "to its fullest potential."</description>
+<enclosure url="https://www.engadget.com/img/gallery/god-of-war-laufey-is-delayed-until-may-20/l-intro-1793814603.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/god-of-war-laufey-is-delayed-until-may-20/l-intro-1793814603.jpg" medium="image"/>
+</item>
+<item>
 <title>Bare metal boom: On-prem server sales for HPC and AI up 20% this year</title>
 <link>https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611</link>
 <guid isPermaLink="false">71d76b48d46ff3d387cc003b1b9f5880b41e5d83b0aa9635a2f6d559a0a1ab87</guid>
@@ -158,17 +268,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>My favorite 25W wireless power bank is down to $35</title>
-<link>https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale</link>
-<guid isPermaLink="false">98aa73721552003c5e33d75cb6b494b7da8b57e7bd95d5f3c627ed0997de8408</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 15:57:55 +0000</pubDate>
-<description>If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wirelessly, and my top pick was Baseus’ AM52 10,000mAh battery , which happens to be steeply discounted right now at Amazon . Originally $80 but commonly available for $59.99, the code M4JLY1W2 (shared via Slickdeals ) knocks it down to a much more reasonable $35.29 at checkout. The only difference between the discounted model and the one pictured below is that it lacks a built-in USB-C cable. Baseus PicoGo AM52 Qi2.2 Magnetic Power Bank The AM52’s MagSafe-ready design means it can snap onto newer iPhones and supply up to 25W of power, and because it has a USB-C port, it can also charge a Nintendo Switch 2 and other electronics. Where to Buy: $59.99 $35.29 at Amazon (w/ code M4JLY1W2) $63.99 $49.99 at Walmart I like this model for more than just its fast wireless charging speed; The side that snaps to your phone has a soft-touch material, so you don’t need to worry about it scratching your device. Also, it can quickly recharge devices via its 45W USB-C port, making it a solid power bank to tote around if you need to give a little juice to your gaming handheld or laptop. Read our hands-on with this and numerous other Qi2.2 batteries Some other great deals for you We last featured a deal on the step-climbing Dreame X50 Ultra mopping robovac in late September when it dropped down to $850 via the manufacturer. If you happened to miss out on that $250 off deal, there’s currently an even better one happening at Wellbots , and it’s exclusive to Verge readers. With the code VERGEVAC25 used at checkout the $1,099.99 cleaner will drop to $824.25, the lowest price we’ve seen from any retailer. The kit includes the vacuum, accessories, and a base station where X50 Ultra autonomously empty its trash bin, refill its water for mopping and have its mopping pads cleaned and dried. This model is one of my colleague Jennifer Pattison Tuohy’s favorite models of 2026 . I totally get it if you’re wishing The Elder Scrolls VI: Sentinels would arrive already. While it may be years away from launch, there’s a fantastic game that I recommend to fill the void. Microsoft-owned Obsidian Entertainment’s Avowed is a first-person action RPG from 2025 that delivers a great story, satisfying gameplay that blends swords, guns, and magic, plus a branching narrative. It’s cheaper than ever to own on Steam via a deal from Fanatical that currently has it at $24.99, which is half off. Read our review . While Amazon’s Alexa Tablet 8 likely isn’t a very speedy tablet, it’s one of just a few eight-inch Android tablets out there right now that has a slick design. Originally $229.99, this model recently got its first price cut, knocking the lockscreen ad-supported tablet down to $199.99 at Amazon . The Alexa Tablet is replacing Amazon’s lineup of Fire HD tablets, and the biggest difference is the new t</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/baseusiphonered.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/baseusiphonered.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>What I learned driving the Slate electric truck prototype</title>
 <link>https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype</link>
 <guid isPermaLink="false">5554163e527b537ea46569886e202a7485554fadc6adeb7700a521ff779a7319</guid>
@@ -191,17 +290,6 @@
 <media:content url="https://image.theregister.com/?imageId=261844&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Not even $200 million could help Elon Musk buy Texas</title>
-<link>https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding</link>
-<guid isPermaLink="false">38b31075fcd8236aed8803f9cc14c29c47b1d98b061807668553e82d5fe14b25</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 15:33:59 +0000</pubDate>
-<description>James Talarico, the Democratic Texas senator-elect, not only managed to flip the state in yesterday's midterms but prevailed in the most expensive Senate election to date. More than $573 million was spent on advertisements between Talarico, his Republican opponent Ken Paxton, and their aligned PACs. And a big chunk of that money came from just one man: Elon Musk. Musk reportedly spent more than $445 million supporting Republicans in the midterms, making him not only by far the biggest donor in the 2026 election cycle but also in American history. And most of his money was spent in Texas, his home state and the headquarters of both Tesla and … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Americans overwhelmingly voted against data centers in the midterms</title>
 <link>https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms</link>
 <guid isPermaLink="false">dea2c66d5b9ebf100ae783bf5fb531e7ba4a03a6b85a31c32499e45e4d601341</guid>
@@ -213,17 +301,6 @@
 <media:content url="https://www.engadget.com/img/gallery/americans-voted-overwhelmingly-against-data-centers-in-the-midterms/l-intro-1793805972.jpg" medium="image"/>
 </item>
 <item>
-<title>Bluetooth is getting a big boost to data transfer speeds</title>
-<link>https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt</link>
-<guid isPermaLink="false">7f7bcfe870cd831b2694dd81256c6cbfa61f174c900764edf10eb8f982b23558</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 15:19:54 +0000</pubDate>
-<description>The Bluetooth Special Interest Group (SIG) that oversees the wireless standard has formally adopted Bluetooth High Data Throughput (HDT) as an optional feature of the Bluetooth Core 7.0. It's an upgrade the Bluetooth SIG has been previewing over the past year that increases Bluetooth LE's maximum supported bit rate from 2 Mbps to 7.5 Mbps. It will allow for higher resolution audio to be streamed but also improvements to battery life and reliability. The primary application for Bluetooth HDT will once again be for wireless audio, with the first devices supporting the new feature expected to appear sometime in 2027. The increased bit rate wil … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bluetooth1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bluetooth1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>The DEA banned a drug some opioid users called a miracle</title>
 <link>https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle</link>
 <guid isPermaLink="false">56b14150c097cea9151f040300284781d43b2be47fd7f61c5e43f60ae91b9c5e</guid>
@@ -233,17 +310,6 @@
 <description>In 2012, as the driver of deaths in the opioid crisis began moving from prescription pills to heroin, Laura Bohn was tasked with finding safer drugs to manage pain. Funded by the National Institute on Drug Abuse, in 2017 she and other scientists revealed in the science journal Cell that several compounds—including a particularly promising one called SR-17018—could relieve pain in mice without causing respiratory depression. That’s a big deal, because respiratory depression is typically what causes people using opioids to stop breathing and die. Bohn, senior associate vice president of research at University of South Florida Health, says her team filed a patent on SR-17018. They went on to discover that mice using the chemical did not develop a high tolerance for it and that mice already dependent on morphine—a powerful opioid—could consume SR-17018 to reset their tolerance without suffering from painful withdrawal symptoms. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>The fight for tech accountability starts now</title>
-<link>https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability</link>
-<guid isPermaLink="false">564d00efa2b6f7d8354554786ff4a0b24484463825225d1aa031025ad7ef11b1</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 15:02:25 +0000</pubDate>
-<description>When Donald Trump began his second term as president, Silicon Valley gratefully embraced moral nihilism. Google, Amazon, Microsoft, and more collectively donated millions to Trump's inauguration fund to ensure his favor in a new era of gangster tech regulation . Meta overhauled its content policy to allow calling gay people mentally ill and women property. Elon Musk started throwing Nazi salutes - yes, allegedly , but he would soon be posting nonstop about protecting the white race from extinction, so that's the most fragile of fig leafs. As of mere months ago, this was working out pretty well for them. The Trump administration took a mostly … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Why the weirdest game of 2026 is also one of my favourites</title>
@@ -301,15 +367,15 @@
 <media:content url="https://i.guim.co.uk/img/media/71023ce1bb06b16b33943aaac6da2f2e793af003/414_0_4799_3840/master/4799.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a42dcf00083f010c023f8ef97c6b65a0" medium="image"/>
 </item>
 <item>
-<title>US midterm candidates find something to agree on: Reining in datacenters</title>
-<link>https://www.theregister.com/on-prem/2026/11/04/us-midterm-candidates-find-something-to-agree-on-reining-in-datacenters/5307536</link>
-<guid isPermaLink="false">33be17ac09320e3845403f6f1a147b7a3a4afe125dc76a19df36c5607e51bc30</guid>
+<title>America unites on one issue: Reining in datacenters</title>
+<link>https://www.theregister.com/systems/2026/11/04/america-unites-on-one-issue-reining-in-datacenters/5307536</link>
+<guid isPermaLink="false">97e7471d9904e89882ffd1591a4793eb0e9bec803e75b347a2641c68b2770852</guid>
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 13:15:00 +0000</pubDate>
-<description>Datacenter restrictions found broad support among candidates for governor in this week's US midterm elections, with nearly all those examined by Data Center Watch backing bans, pauses, or tighter development rules. Data Center Watch, which tracks grassroots opposition to compute sheds across America, examined the public positions of 74 selected candidates across the 36 states that elected governors in the midterm elections on November 3. It found that 43 percent of those candidates supported a ban or moratorium on new projects, while another 51 percent backed further regulation or conditional development. Only about 5 percent had no stated public position. Support for bans or moratoriums crossed party lines, although it was more common among the Democratic candidates examined (60 percent) than Republicans (30 percent). Candidates from both major parties backed restrictions in eight states: Maryland, Maine, Michigan, New Hampshire, Ohio, Oregon, Wisconsin, and Texas. Texas has experienced a boom in data campus development recently, thanks to its ample energy resources and light-touch regulations, although outgoing governor Greg Abbott ordered a pause earlier this year while audits of energy and water use were carried out. Democrat Gina Hinojosa defeated Abbott in Tuesday's election and will take office in January. Those positions matter to developers because governors can shape state regulation, energy policy, and permitting, although approval powers vary by jurisdiction. However, temporary pauses and targeted construction restrictions do not necessarily amount to opposition to all datacenter development. Things were even starker where folk got to vote directly on the issue, with measures regarding datacenters appearing on the ballot as well as candidates. Data Centers on the Ballot , which tracked many of these, found that 43 out of 46 municipalities where tighter restrictions on server farms were up for a vote had approved those at the time of publication. Only in one case, the City of Harwood in North Dakota, had restrictions been rejected, and 2 had yet to post results. AI-related campaign spending has also come under scrutiny. Guardrails Alliance, a labor-backed pressure group, described Leading the Future , a super PAC network opposing AI regulation, as "largely a non-factor" in the elections . It alleged the network avoided the most competitive races because "they know their money is politically toxic." Anti-datacenter sentiment has grown in the US in response to the facilities popping up in people's backyards, often without them having any say in the process. A Gallup survey earlier this year discovered that more than 70 percent of Americans would be against the construction of one in their neighborhood, while a Pew Research Center survey found that Americans increasingly believe datacenters are bad for the environment and blame them for rising household energy bills. Pew also found that advertisers spent almost $12 million on Facebook and</description>
-<enclosure url="https://image.theregister.com/?imageId=5302603&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5302603&amp;width=800" medium="image"/>
+<description>Datacenter restrictions found broad support in this week's US midterm elections. Data Center Watch, which tracks grassroots opposition to compute sheds across America, examined the public positions of 74 selected candidates across the 36 states that elected governors in the midterm elections on November 3. It found that 43 percent of those candidates supported a ban or moratorium on new projects, while another 51 percent backed further regulation or conditional development. Only about 5 percent had no stated public position. Support for bans or moratoriums crossed party lines, although it was more common among the Democratic candidates examined (60 percent) than Republicans (30 percent). Candidates from both major parties backed restrictions in eight states: Maryland, Maine, Michigan, New Hampshire, Ohio, Oregon, Wisconsin, and Texas. Texas has experienced a boom in data campus development recently, thanks to its ample energy resources and light-touch regulations, although outgoing governor Greg Abbott ordered a pause earlier this year while audits of energy and water use were carried out. Democrat Gina Hinojosa, who supports a temporary moratorium on datacenter buildouts and has vowed to " stop the data center takeover ,” defeated Abbott in Tuesday's election and will take office in January. These positions matter to developers because governors can shape state regulation, energy policy, and permitting, although approval powers vary by jurisdiction. However, temporary pauses and targeted construction restrictions do not necessarily amount to opposition to all datacenter development. Things were even starker where folks got to vote directly on the issue, with measures regarding datacenters appearing on the ballot as well as candidates. Data Centers on the Ballot , which tracked many of these, found that 43 out of 46 municipalities where tighter restrictions on server farms were up for a vote had approved those at the time of publication. Only in one case, the City of Harwood in North Dakota, had restrictions been rejected, and 2 had yet to post results. AI-related campaign spending has also come under scrutiny. Guardrails Alliance, a labor-backed pressure group, described Leading the Future , a super PAC network opposing AI regulation, as "largely a non-factor" in the elections . It alleged the network avoided the most competitive races because "they know their money is politically toxic." Anti-datacenter sentiment has grown in the US in response to the facilities popping up in people's backyards, often without them having any say in the process. A Gallup survey earlier this year discovered that more than 70 percent of Americans would be against the construction of one in their neighborhood, while a Pew Research Center survey found that Americans increasingly believe datacenters are bad for the environment and blame them for rising household energy bills. Pew also found that advertisers spent almost $12 million on Facebook and Instagram political</description>
+<enclosure url="https://image.theregister.com/?imageId=260022&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=260022&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Watchdog sticks probe into Capita's handling of 1.7 million member civil service pension scheme</title>
@@ -653,17 +719,6 @@
 <media:content url="https://www.engadget.com/img/gallery/what-type-of-battery-does-the-slate-truck-use/l-intro-1793394367.jpg" medium="image"/>
 </item>
 <item>
-<title>Sonos' new voice assistant is launching in early access on November 6</title>
-<link>https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6</link>
-<guid isPermaLink="false">35ea1fdf6739bf31c5cecfcf0abb5fbc2c0c3126e0673d63a5dbcb9124c196dc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 20:48:49 +0000</pubDate>
-<description>The company is hoping to collect feedback on Sonos 27voice to avoid a repeat of its previous app redesign debacle.</description>
-<enclosure url="https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg" medium="image"/>
-</item>
-<item>
 <title>Ukraine’s drone strikes spur hasty Russian plans for underground data centers</title>
 <link>https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back</link>
 <guid isPermaLink="false">24379856c459e00abd662ae2c831372f811c0b1ac4b3abefa72f8991584de080</guid>
@@ -684,17 +739,6 @@
 <description>Revolut says that in less than a year it's managed to slash its AI coding inference costs by roughly 90 percent by making self-hosted models its default instead of relying primarily on commercial services like Claude. Speaking at the AI Engineer conference in New York last month, David Abitbol, ops and infrastructure lead at the British fintech, described how it saw a 60 percent improvement in coding time and a 70 percent improvement in lead time following its rollout of AI coding tools to roughly 2,000 engineers. Revolut initially adopted GLM-5.1 before moving to GLM-5.3, which it now serves using 56 Nvidia B200 GPUs. Prior to its switch to GLM, Revolut had been experimenting with AI, deploying Gemini in early 2025 and Claude Code in early 2026. "We were highly skeptical about the cost of AI. We were seeing engineers spend $1,000 a month, $10,000 a month with not so much ROI, and so when we launched it we launched it with strict budget limits," Abitbol said. Because of this, engineers only had access to a limited number of tokens, so the company began investigating self-hosting its own models. At $0.30 per million input/output tokens, self hosting GLM 5.1 cost about a tenth of using OpenAI's Codex or Anthropic's Claude Code. And, as it turned out, when tokens are cheap, you stop worrying about how many they use or what they use them for. While Revolut did see improvements to coding speed, Abitbol noted the biggest bottleneck wasn't actually the code. Instead, he says the biggest gains came from letting the AI models deal with things like debugging and Jira and Confluence tickets. "When you have unlimited tokens, you're free to do that," he said. "You no longer have to save your tokens for the end of the quarter or the most difficult task." Developed by Chinese open weights model dev Z.ai, GLM 5.1 isn't exactly a small model. At roughly 754 billion total parameters (40 billion activated for each token generated), the model requires roughly 380 GB of GPU memory just to hold the weights and another 6-26 GB per user to maintain context depending on precision. To serve GLM-5.3 at scale, Revolut deployed 56 Nvidia B200 GPUs, equivalent in GPU count to seven eight-GPU DGX B200 systems. But as Abitbol noted, the greatest performance gains didn't come from adding GPUs, but rather tuning the model's hyperparameters along with switching to NVFP4 quantization, implementing disaggregated prefill and decode, and tuning context lengths. One key takeaway was that supporting a one-million-token context window doesn't necessarily make such a large window useful or efficient. "Long context is a scam. You really need to be mindful of that," Abitbol said. "Even though you can serve one million tokens, 256 [thousand] is really what you need." With these optimizations, Abitbol says that the company was able to achieve sub 3-second time to first token on context windows of around 256,000 tokens, and generation speeds of around 200 tokens a second, both of which he note</description>
 <enclosure url="https://image.theregister.com/?imageId=260288&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=260288&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Netflix thinks AI might save you from scrolling aimlessly for something to watch</title>
-<link>https://www.engadget.com/2305778/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch</link>
-<guid isPermaLink="false">d9f605516167919ddf4805685e000c6d4bf9fa56c9e57a2ce6a2a85286c010e6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:57:41 +0000</pubDate>
-<description>The tab will initially offer suggestions based on a range of AI-generated themes.</description>
-<enclosure url="https://www.engadget.com/img/gallery/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/l-intro-1793735788.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/l-intro-1793735788.jpg" medium="image"/>
 </item>
 <item>
 <title>AI policy wonks declare 'sovereign agents' a threat to civilization</title>
@@ -1423,39 +1467,6 @@
 <media:content url="https://image.theregister.com/?imageId=5306978&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>SUSE to cut one in ten employees because of... AI</title>
-<link>https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950</link>
-<guid isPermaLink="false">ab9f51c8b2c31abdc33008b7ce33e3060606e2b7736e675cc2c3a572d36755ef</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 15:30:00 +0000</pubDate>
-<description>One in ten employees at SUSE are facing the chop due to "automation and AI," according to a memo dispatched by management at the privately owned open source software biz. In an email to the 1,900 strong workforce on Monday - seen by The Register - CEO Dirk-Peter van Leeuwen, the former Red Hat exec who joined SUSE in March 2023, confirmed the "difficult news." "We are announcing a reduction of SUSE’s global workforce of approximately 10 percent," he said. "These decisions are painful for our people, our culture, and our open source community, but they are necessary for us to adapt and build a sustainable, resilient SUSE for the long term." Van Leeuwen says the business, bought by Swedish private equity provider EQT, decided to cut jobs after scrutinizing its "future strategy, required capabilities, and team structures." The rest of the organization will get a look at the fiscal year 2027 strategy on November 16. He said in the message to staff: "What is clear is that automation and AI are fundamentally shifting how software companies operate. AI capabilities are advancing exponentially, forcing us to radically reimagine our work. We have seen this trend already both inside our sector and in the wider economy. This means that the organizational design and cost base that SUSE is built on today will not carry us forward successfully. "We are adapting. Across SUSE, modern tooling is already changing our daily workflows, enabling teams to move faster with less operational overhead and flatter reporting lines. The requirement for some existing roles has greatly diminished. Other roles will evolve over the next few years. This means we are accelerating investments in high priority areas, and deprioritizing others. These are hard, painful decisions to make, but necessary for our future." As The Reg reported in 2025, SUSE doubled down on AI . The specific roles at risk of redundancy were not outlined but SUSE claims it has considered where the people in those positions are "able to evolve, what they can stop doing, what they need to do more of - and decisions have been made on that basis." Staff caught up in the redundancies will be informed by November 4, employee representatives nominated the following day, and one to one meetings will begin at the start of next week. Van Leeuwen says in the internal memo that the job cuts are a "reflection of shifting organizational needs, not your talent or commitment. You have tackled hard infrastructure and open source challenges that power critical enterprise systems around the world. "Any organization will be fortunate to have your expertise." Back in September, we reported that the company was asking old hands if they would take "voluntary separation ." It seems not enough people chose to walk through the door, so instead, they're getting thrown through it instead. SUSE "geckos" in the Czech Republic may be glad they joined a trade union . Back in 2018, EQT bought SUSE from Microfocus for $2.5 billion. EQT floate</description>
-<enclosure url="https://image.theregister.com/?imageId=5243339&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5243339&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Nuclear threats and street brawls: Russia, Ukraine report attacks on their emergency alert apps</title>
-<link>https://www.theregister.com/security/2026/11/02/nuclear-threats-and-street-brawls-russia-ukraine-report-attacks-on-their-emergency-alert-apps/5306901</link>
-<guid isPermaLink="false">4fec7fe9f35775636becc55369ac06c2dbdbc105f1f935ccd9f49a4ca070e8b6</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 14:45:00 +0000</pubDate>
-<description>Cyberattacks on both Russia’s and Ukraine’s emergency alert apps resulted in fake messages about missile and nuclear strikes broadcast to the public. Officials from both countries confirmed the attacks, which occurred at similar times, on Sunday evening. According to public statements and messages sent via social media, Ukraine’s alert app was hit first, with the country’s Air Force quick to dispel nuclear fears. "The Air Alert app has likely been compromised," it said via Telegram at around 2100 UTC. "There is no radiation threat! Stay calm, follow our messages on our channel!" At around 0030 UTC on Monday, Russia's Ministry of Emergency Situations confirmed the country’s app had also been abused, with fake messages sent to citizens' devices. "Attention! The Russian Ministry of Emergency Situations' mobile app has been subjected to a massive cyberattack, allowing attackers to send fake information to the public," it said, also via Telegram. "Work is currently underway to patch the vulnerability and restore normal operation." The ministry issued an update around 90 minutes later, saying the app was once again functioning normally, and pointing out that an attack on the app was not the same as a compromise of the state’s national alert system. "Citizens are alerted through primary channels: regional and municipal alert systems (sirens, loudspeakers), communication networks (SMS messaging), and television and radio broadcasts. The mobile app is merely an additional, supporting information service," it stated. Ukraine's Ministry of Digital Affairs also issued a public announcement reminding citizens about how to receive emergency warnings while its “Alarm!” app was down. These include enabling iOS and Android emergency alerts, state-controlled sirens, and other official sources, such as the official social media accounts of Ukraine's government. According to the messages sent to devices after the compromise of Ukraine's alert app, the fake warnings pertained to various threats, such as street fights in Kyiv, chemical attacks, and radiation hazards. Alerts about the threat of nuclear fallout from official government warning systems would normally lead to panic, however, one of the earliest messages sent to citizens was written in Russian and referenced the "Oreshnik" missile, which was an immediate signal that the message may not be genuine. Equivalent alerts sent to Russian citizens also warned of impending nuclear strikes "at all regions of Russia," referencing "P1-Sun," the name of a Ukrainian attack drone. Oleksander Merezhko, who chairs the Ukrainian parliament's foreign affairs committee and noted the suspicious Russian-language alert, told the BBC the attack was almost certainly part of Russia's cyber war . "It's a very unpleasant fact but it is part of cyber war and people in Ukraine understand that," he said. "It is possible and we are quite prepared for such possibilities." Russia has not explicitly blamed Ukraine for the attack on its app,</description>
-<enclosure url="https://image.theregister.com/?imageId=251310&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=251310&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Microsoft's Canada timezone troubles leave admins fixing calendars, pretending they're in Bogota</title>
-<link>https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934</link>
-<guid isPermaLink="false">1243b7237d8b9f7fdb8c13edd83bbe88fdc3feefa018b45a510228808f82f5ac</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
-<description>Microsoft has discovered once again that few things strike fear into the heart of a software engineer quite like a government deciding to fiddle with the clocks. Parts of Canada stopped observing seasonal clock changes on November 1, leaving affected areas of British Columbia, Alberta, and Manitoba permanently on UTC-07:00, UTC-06:00 and UTC-05:00 respectively. Unfortunately, Microsoft's sprawling software empire hasn't entirely caught up. The company has confirmed problems across a chunk of its software estate, leaving some customers facing incorrect times, broken schedules and a collection of workarounds while Redmond catches up. Outlook users have been left with the most homework. Switching to the new Canadian time zones won't automatically update existing calendar entries, meaning that meetings scheduled after November 1 are potentially an hour out of whack. Microsoft advises users to change their Outlook calendar time zone, then update upcoming events and meetings to use it. For meetings involving other people, only the organizer can make the change. Recurring meetings come with an additional treat: changing the time zone resets any previously moved occurrences, which then have to be recreated. Anyone with a calendar full of recurring meetings may wish to put the kettle on first. Microsoft is working on an Exchange Online PowerShell cmdlet to remediate non-recurring meetings, but according to its guidance, that's not due until later this week. A fix for recurring meetings remains "in development," with an ETA yet to be confirmed. Things get stranger with Power Automate and Fabric, where Microsoft's temporary fix involves pretending you're somewhere else entirely. Depending on the product and province, that could mean Saskatchewan, Arizona or, for Manitobans, Bogota. Because apparently time zones weren't confusing enough already. SharePoint On-Prem customers, meanwhile, have to wait until November 10 for the correct time zones to arrive, while Power Pages users could see server-formatted dates appear an hour out until a service fix lands. Microsoft's current milestone for that is December 12. Admins dealing with the fallout aren't exactly delighted. One sysadmin on Reddit said Microsoft's guidance had been "terrible" and claimed to have written roughly 900 lines of PowerShell to change users' Outlook settings and manually adjust calendar events. Others described switching systems to Saskatchewan time while waiting for Microsoft's new zones to settle in. Microsoft published its guidance on October 26, less than a week before the change took effect, and was still adding affected products and workarounds four days later. Meanwhile, admins were urged to test calendars, recurring meetings, and schedules before the November 1 switch, leaving little time to find out what might break. If any of this sounds familiar, it's because time has caused trouble for Microsoft before . In 2022, Chile delayed its switch to daylight saving time by a week. Microso</description>
-<enclosure url="https://image.theregister.com/?imageId=1682641&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1682641&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>From a life-changing garlic press to a super-glowy serum: 12 buys you’re loving right now</title>
 <link>https://www.theguardian.com/thefilter/2026/oct/30/things-you-loved-most-october-2026</link>
 <guid isPermaLink="false">e3e438ed6692305af132e68369945de50acbdf78315f92be2d2d715640adda21</guid>
@@ -1489,17 +1500,6 @@
 <media:content url="https://i.guim.co.uk/img/media/c62b7ce125ca10fc16fa8c7e9da59a1fb4bce56c/364_0_3559_2847/master/3559.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9876d7408d70ac18c5b6067ae98b490" medium="image"/>
 </item>
 <item>
-<title>Is AI your new wingman? How chatbots are transforming dating</title>
-<link>https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating</link>
-<guid isPermaLink="false">aa9a4da2b7657b1edae16269a9b4a2d7186f0d6157694e60d0ec890cf590c75d</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 12:00:42 +0000</pubDate>
-<description>Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partners After Sam’s ex joked that her sister found him ugly, he turned to AI. Google Gemini had a look at the photo and politely disagreed. AI has been his wingman ever since, aiding his dating life by giving pep talks and vetting his messages. The 27-year-old from Stoke-on-Trent is not the only AI-assisted romantic – a survey of 3,000 British singles published this month by Match Group, the owner of the Tinder and Hinge platforms, found 39% had used AI in their dating lives. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/f57dcf1a8bbea5c0f23d491b38cd69b5b7d99f18/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=860e255cec51d47db35270e6aabe071c" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/f57dcf1a8bbea5c0f23d491b38cd69b5b7d99f18/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=860e255cec51d47db35270e6aabe071c" medium="image"/>
-</item>
-<item>
 <title>Android 17 adoption hits a staggering 1% – why you really should update now</title>
 <link>https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026</link>
 <guid isPermaLink="false">d12f92c207cbae1ffc67f664d1ebf660541d0d7c000c54694c7463a945fee225</guid>
@@ -1531,17 +1531,6 @@
 <description>I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" medium="image"/>
-</item>
-<item>
-<title>Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras</title>
-<link>https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes</link>
-<guid isPermaLink="false">0b0261f33bdc8b7ac3a8dd84a7a6f46884b4bb39c42c6045f264359e89a7c505</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 16:14:11 +0000</pubDate>
-<description>Google details 42 fixes to its Home app and the devices compatible with it.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg" medium="image"/>
 </item>
 <item>
 <title>After 50 years of playing video games, I’m finally starring in one</title>

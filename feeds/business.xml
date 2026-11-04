@@ -4,15 +4,103 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss</title>
+<link>https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs</link>
+<guid isPermaLink="false">8fdc16231969cf98e9ebf97ca388f30705984b2e4dda929c6b5335a0e56a9a51</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 18:47:56 +0000</pubDate>
+<description>Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KQ5FY3D9P23X31GYKTVT1C/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KQ5FY3D9P23X31GYKTVT1C/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-2.jpg" medium="image"/>
+</item>
+<item>
+<title>US Voters Back AI Data Center Restrictions in At Least 29 Communities</title>
+<link>https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions</link>
+<guid isPermaLink="false">f36bbb19de657fd8c4e24968f7c6c44ff56ac14e57bbda68836faa8f32129ec9</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 18:46:03 +0000</pubDate>
+<description>Voters across the United States backed measures to curb data centers, raising new obstacles for the infrastructure powering AI as electricity bills, water supplies, and public oversight dominate the debate.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation</title>
+<link>https://bitcoinmagazine.com/news/matt-corallo-flags-critical-linux-kernel-flaw-lightning-labs-ships-lnd-mitigation</link>
+<guid isPermaLink="false">90f88dfc6f660983b8f56c2a545f1f9bea828a6b64bb0f718be221d7a1f6f208</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 18:31:56 +0000</pubDate>
+<description>Bitcoin Magazine Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation Bitcoin Core and Lightning developer Matt Corallo highlighted a severe Linux kernel vulnerability on October 30, criticizing Ubuntu’s delayed response to what he called “the most critical Linux vuln ever.” The bug, tracked as CVE-2026-98432 , affects the kernel’s IPv4 TCP handshake code with a CVSS severity score of 9.8. Anthropic’s Frontier Red Team later showed it could be turned into a remote root exploit against systems exposing a Multipath TCP (MPTCP) listener. Peter Todd echoed the warning the same day, advising anyone running LND on Linux with open ports to shut their Bitcoin Lightning nodes down until the kernel was patched or otherwise mitigated. The demonstrated exploit path relies on an MPTCP listener—something Go 1.24 and later enable by default. Because LND is written in Go , recent versions were listening with MPTCP on their peer, gRPC, and REST ports whenever the kernel had the feature enabled. Lightning Labs responded the same day with emergency releases: lnd v0.21.6-beta and the backport v0.20.7-beta . Both disable MPTCP listeners by default, closing the demonstrated exploit path through LND. The project described the change as a mitigation, not a fix, and noted that only a patched kernel fully resolves the underlying issue. Other services on the same machine remain exposed until MPTCP is disabled host-wide or the kernel is updated. Olaoluwa Osuntokun and the official Lightning Labs account both recommended the update. Security researcher Marcus Hutchins later reported internet-wide scanning activity consistent with threat actors looking for exposed systems. His scans found roughly 2.1 million servers reachable over MPTCP on port 443. International Cyber Digest amplified the finding on November 4, noting the scanning and Ubuntu’s slower patch timeline. Canonical has since made fixed kernels available in the opt-in, proposed pocket for Ubuntu 22.04, 24.04, and 26.04, but they have not yet reached the regular updates channel. Red Hat shipped fixes for RHEL 8/9/10 on November 1; Debian, Amazon Linux, and others had already released patches earlier. UmbrelOS 2.0.1 included the kernel fix on November 1st for x86 devices and applied a traffic-blocking mitigation on Raspberry Pi, where a fixed kernel was not yet available. No confirmed in-the-wild exploitation has been reported, and the vulnerability has not been added to CISA’s Known Exploited Vulnerabilities catalog. Anthropic’s remote-root demonstration remains unpublished. The practical exposure is highest on internet-facing servers. Home desktop systems behind typical NAT and firewalls, without public TCP listeners, are far less affected. For Lightning operators on Linux, the LND releases remove the specific MPTCP listener path the public exploit used, but the broader kernel bug remains until a patched kernel is installed. This post Matt Corallo Flags Critical Linux Kernel Flaw; Ligh</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-2.webp" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-2.webp" medium="image"/>
+</item>
+<item>
+<title>Strategy’s STRC Hits $100 Par for First Time Since May After Over $2 Billion in Buybacks</title>
+<link>https://bitcoinmagazine.com/news/strategys-strc-hits-100-par-may</link>
+<guid isPermaLink="false">0996d11d5f8d5f15d07a47eb90f9f1184cbf75716eb6008e1b94bc53c2b98036</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 18:29:01 +0000</pubDate>
+<description>Bitcoin Magazine Strategy’s STRC Hits $100 Par for First Time Since May After Over $2 Billion in Buybacks Strategy’s Stretch preferred stock touched $100 today for the first time since May, returning to the par value the company has spent over $2 billion in buybacks and five months of rate increases to defend. STRC traded below $80 at times in June, a massive discount to its stated value. The climb back to $100 restores the price at which Strategy says it will resume issuing new shares, the mechanism that funds its bitcoin purchases. Chairman Michael Saylor had pledged to keep the stock at or above par and to hold the dividend at 12% until it got there. Two changes landed in the past week. Shareholders approved daily dividends on STRC and three other preferreds on Oct. 28 by a 99.3% vote, removing the semi-monthly ex-dividend drops that had added volatility to the price. The first daily payment went out Monday. And Strategy’s Oct. 29 filing set the November rate at 12% annualized, or $1 per share for the month. Shares of Strategy (MSTR) were up over 7% today after bitcoin jumped above $80,000. BREAKING: Michael Saylor's STRC has returned to par for the first time since May! They will start buying more bitcoin as soon as it goes above $100 pic.twitter.com/niNmngTP1j — Bitcoin Magazine (@BitcoinMagazine) November 4, 2026 What Stretch (STRC) is and why it slipped Stretch, the Variable Rate Series A Perpetual Stretch Preferred, launched in July 2025 at $90 with a 9% starting rate. Saylor called it the company’s “iPhone moment.” The design is a feedback loop: Strategy adjusts the dividend each month to hold the price near $100, sells new shares when it trades above par and uses the cash to buy bitcoin. It became the largest tradable preferred in the world, with a market value above $8 billion and a holder base that CEO Phong Le has put at about 80% retail. The loop broke earlier this year. STRC drifted below par in late January; Strategy raised the rate to 11.25% in February, 11.5% in March and 12% by summer, and the price kept sliding as bitcoin fell toward $65,000. At $89 the at-the-market program sat idle, cutting off the company’s cheapest funding. In late May, Strategy sold 32 BTC for about $2.5 million to cover a Stretch distribution, its first bitcoin sale since 2022, and critics raised the prospect of a “death spiral” that analysts at Benchmark and TD Cowen disputed. The fix was to buy the stock back. Strategy paused bitcoin purchases in the week of Oct. 19 and spent $204.9 million on STRC alone, part of the roughly $2.25 billion it has retired since the discount opened. Each share bought below $100 shrank the float and reduced the dividend bill at the same time. A thin cushion under the treasury The recovery matters because of what sits beneath it. Strategy holds 849,327 BTC after adding 811 coins last week, at an average cost of about $75,446. With bitcoin near $78,300 on Wednesday, the position is about 4% above water. The company reported</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2025/12/Strategy-MSTR-Buys-Nearly-1-Billion-Worth-of-Bitcoin.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2025/12/Strategy-MSTR-Buys-Nearly-1-Billion-Worth-of-Bitcoin.jpg" medium="image"/>
+</item>
+<item>
+<title>Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up</title>
+<link>https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization</link>
+<guid isPermaLink="false">4f541a51b9b9b3f27f5599ec37dfdf2c8eaa3785a97613a00d5c428b4a6c8c2f</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 18:16:02 +0000</pubDate>
+<description>SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Jack Dorsey’s Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves</title>
+<link>https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million</link>
+<guid isPermaLink="false">d63cf9ca2b6e6f512e0e4f966a5cc36ffbbfba82ca71b80ddc0053f4490a35a6</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 18:11:38 +0000</pubDate>
+<description>Bitcoin Magazine Jack Dorsey’s Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves Block has agreed in principle to pay $764 million to resolve a Justice Department investigation into its anti-money-laundering controls, a sum larger than the $566 million profit the company reported for the third quarter. The agreement, reached in October and disclosed in a 10-Q filed Nov. 3 , would defer for three years a criminal charge that Block failed to maintain an effective anti-money-laundering program under the Bank Secrecy Act. The gross figure is about $964 million, reduced to $764 million after credits for earlier regulatory settlements. Block has accrued the full amount and said losses above it are “reasonably possible.” The company disputes the basis and methodology of the government’s assessment, and the deal requires final approval. The settlement overshadowed a quarter in which gross profit rose 22% to $3.24 billion, with Cash App up 27% to $2.07 billion and Square up 14% to $1.16 billion, according to the company release. Bitcoin was the exception. Gross profit from the bitcoin business fell 50% to $52 million from $104 million a year earlier, and bitcoin revenue dropped 11% to $1.8 billion. A case for Block that began with a short seller The investigation dates to March 2023, when Hindenburg Research alleged that Cash App inflated user counts with duplicate and fraudulent accounts and that weak identity checks let criminals use the platform for scams and money laundering. Block called the report inaccurate and misleading. The Justice Department and SEC opened inquiries into the compliance practices and related disclosures; the SEC closed its side in March without recommending enforcement. State regulators moved first. In April 2025 the New York Department of Financial Services fined Block $40 million after finding a backlog of suspicious-activity alerts that grew from about 18,000 in 2018 to more than 169,000 by 2020, and a screening system that did not block bitcoin transfers to wallets linked to terrorism financing until exposure passed 10%. A multistate settlement in January 2025 added $80 million. Those payments account for part of the $200 million credit against the DOJ figure. The deferred prosecution structure means Block avoids a conviction if it meets the agreement’s terms over three years, a path Binance took in 2023 at a cost of $4.3 billion. The charge lands as Block pursues an industrial bank charter for a unit it calls Builders Bank, which would offer custody and fiduciary services for bitcoin. Bank regulators weigh compliance history in charter decisions. The drop in bitcoin profit was a choice. Block said the decline came from its decision to cut fees on certain Cash App bitcoin transactions, part of a push to make the asset a payment rail rather than a trading product. The company auto-enabled about 1 million Square merchants for Lightning payments in May, waived processing fees on bitcoin through 202</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Jack-Dorseys-Block-XYZ-Sets-Aside-764-Million-for-DOJ-Settlement-as-Bitcoin-Profit-Halves.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Jack-Dorseys-Block-XYZ-Sets-Aside-764-Million-for-DOJ-Settlement-as-Bitcoin-Profit-Halves.jpg" medium="image"/>
+</item>
+<item>
+<title>Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income</title>
+<link>https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income</link>
+<guid isPermaLink="false">0e6946c1c4219b7c556f94876b95eccc009e66069b160f8ed5043f4b9586c033</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 18:02:42 +0000</pubDate>
+<description>Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTPGZ3TZEHDDPCZNDADBR2/coin-crushing-stablecoin-2.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTPGZ3TZEHDDPCZNDADBR2/coin-crushing-stablecoin-2.png" medium="image"/>
+</item>
+<item>
 <title>Librería de Satoshi Rebrands to ISMOS, Launches Global Platform to Train One Million Bitcoin Developers</title>
 <link>https://bitcoinmagazine.com/news/libreria-de-satoshi-rebrands-to-ismos-launches-global-platform-to-train-one-million-bitcoin-developers</link>
 <guid isPermaLink="false">a57b31154a07664ad1e585d3466f8b84f8dc81b700d219d42dc83fba79fe064c</guid>
 <source>Bitcoin Magazine</source>
 <category>business</category>
 <pubDate>Wed, 04 Nov 2026 18:00:34 +0000</pubDate>
-<description>Bitcoin Magazine Librería de Satoshi Rebrands to ISMOS, Launches Global Platform to Train One Million Bitcoin Developers Librería de Satoshi, the technical education organization, recently announced the launch of its global platform as they rebrand to ISMOS and shows off a new website. The organization aims to expand its Bitcoin and open-source developer education program throughout the world, creating local hubs across the world and delivering education programs in local languages. Since 2021, ISMOS has reached more than 3,665 people in more than 40 countries and has financially supported 30 open-source developers, according to a press release shared with Bitcoin Magazine. “Talent is universal; opportunity is not. I founded Librería de Satoshi because I experienced the language barrier in Bitcoin firsthand. ISMOS takes that mission worldwide, so that the next great developer can come from anywhere,” said Dulce Villarreal, CEO and founder of ISMOS. What began as a Bitcoin school for Spanish speakers is today a technical education ecosystem and a complete training path for freedom technologies and open-source developers. ISMOS brings together educators and technology creators: a space to learn and teach with “Freedom Tech values, in more languages, more regions, and more disciplines, with a growing presence in universities, bootcamps, and programming communities.” ISMOS was born in Latin America as Librería de Satoshi and is now a global movement. One Million Bitcoin Developers Around the World ISMOS combines rigorous study programs, direct mentorship, and fellowships in Spanish, Portuguese, and English, and soon in more languages. Subjects will include Bitcoin, cryptography, cybersecurity, mathematics, AI, Nostr, open-source software, and open AI models. The platform is open source, and software developers can explore its open tools at github.com/ismos-xyz . Today ISMOS is primarily supported by Btrust and the Human Rights Foundation. Other organizations, such as OpenSats and the Gemini Opportunity Fund, have supported its work in the past with smaller grants, according to the press release. The announcement reflects nearly five years of growth and a deeper commitment to equal opportunity. “Someone coding in Argentina, Nigeria, or El Salvador deserves the same chance to build a first-class technical career as anyone in Silicon Valley or London.” SMOS aims to go beyond study programs to provide individual support to the best developers through programs such as B4OS (Bitcoin 4 Open Source), fellowships, and its developer residencies: “in their language, at their level, and with the specific support they need to go further than they imagined.” Press contact Karina Conde, Director of Operations. comms@ismos.xyz This post Librería de Satoshi Rebrands to ISMOS, Launches Global Platform to Train One Million Bitcoin Developers first appeared on Bitcoin Magazine and is written by Juan Galt .</description>
+<description>Bitcoin Magazine Librería de Satoshi Rebrands to ISMOS, Launches Global Platform to Train One Million Bitcoin Developers Librería de Satoshi, the technical education organization, recently announced the launch of its global platform as they rebrand to ISMOS and shows off a new website. The organization aims to expand its Bitcoin and open-source developer education program throughout the world, creating local hubs across the world and delivering education programs in local languages. Since 2021, ISMOS has reached more than 3,665 people in more than 40 countries and has financially supported 30 open-source developers, according to a press release shared with Bitcoin Magazine. “Talent is universal; opportunity is not. I founded Librería de Satoshi because I experienced the language barrier in Bitcoin firsthand. ISMOS takes that mission worldwide, so that the next great developer can come from anywhere,” said Dulce Villarreal, CEO and founder of ISMOS. What began as a Bitcoin school for Spanish speakers is today a technical education ecosystem and a complete training path for freedom technologies and open-source developers. ISMOS brings together educators and technology creators: a space to learn and teach with “Freedom Tech values, in more languages, more regions, and more disciplines, with a growing presence in universities, bootcamps, and programming communities.” ISMOS was born in Latin America as Librería de Satoshi and is now a global movement. One Million Bitcoin Developers Around the World ISMOS combines rigorous study programs, direct mentorship, and fellowships in Spanish, Portuguese, and English, and soon in more languages. Subjects will include Bitcoin, cryptography, cybersecurity, mathematics, AI, Nostr, open-source software, and open AI models. The platform is open source, and software developers can explore its open tools at github.com/ismos-xyz . Today ISMOS is primarily supported by Btrust and the Human Rights Foundation. Other organizations, such as OpenSats and the Gemini Opportunity Fund, have supported its work in the past with smaller grants, according to the press release. The announcement reflects nearly five years of growth and a deeper commitment to equal opportunity. “Someone coding in Argentina, Nigeria, or El Salvador deserves the same chance to build a first-class technical career as anyone in Silicon Valley or London.” ISMOS aims to go beyond study programs to provide individual support to the best developers through programs such as B4OS (Bitcoin 4 Open Source), fellowships, and its developer residencies: “in their language, at their level, and with the specific support they need to go further than they imagined.” Press contact Karina Conde, Director of Operations. comms@ismos.xyz This post Librería de Satoshi Rebrands to ISMOS, Launches Global Platform to Train One Million Bitcoin Developers first appeared on Bitcoin Magazine and is written by Juan Galt .</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-1.webp" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-1.webp" medium="image"/>
+</item>
+<item>
+<title>Replacing Entry-Level Talent With AI Is a Costly Mistake. Here’s What to Do Instead.</title>
+<link>https://www.entrepreneur.com/building-a-business/replacing-entry-level-talent-with-ai-is-a-costly-mistake-heres-what-to-do-instead</link>
+<guid isPermaLink="false">2586a4902c6b562a1e73284bc566359a7760f5c5374eb92aafe03df5b78bfab3</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
+<description>AI is changing how businesses think about hiring, but eliminating junior roles can create problems that outweigh the short-term savings.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/replacing-entry-level-with-ai-1026_g2204782032.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/replacing-entry-level-with-ai-1026_g2204782032.jpg" medium="image"/>
 </item>
 <item>
 <title>What Is x402? How AI Agents Pay With Crypto</title>
@@ -46,6 +134,28 @@
 <description>Democratic control “hurts the direction of travel in the bank space,” TD Securities analysts said in a note Wednesday.</description>
 <enclosure url="https://imgproxy.divecdn.com/Cmw1UD79vv2KZ29VkR98HIKjcSTUz-HGvmMmkzFufY8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS92b3RlcnMuanBn.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/Cmw1UD79vv2KZ29VkR98HIKjcSTUz-HGvmMmkzFufY8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS92b3RlcnMuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>OppFi withdraws regulatory applications to buy bank</title>
+<link>https://www.bankingdive.com/news/oppfi-withdraw-applications-occ-fed-fdic-bnc-bank-schwartz-warren-van-hollen/873757</link>
+<guid isPermaLink="false">099b320590efab42af9c2241d9e9950641410acdee2bdc6a2f9667478f8675ea</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 17:17:47 +0000</pubDate>
+<description>The subprime lender’s CEO said the agreement to buy BNC National Bank “remains in effect.” But he cited a “lack of clearly articulated standards” from regulators.</description>
+<enclosure url="https://imgproxy.divecdn.com/f62fINWQ7k0ajz5kcT5aNdx5MKOoM2Bs1RXs8Ip__Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzX1BodXhnZlkuanBn.webp" type="image/jpeg"/>
+<media:content url="https://imgproxy.divecdn.com/f62fINWQ7k0ajz5kcT5aNdx5MKOoM2Bs1RXs8Ip__Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzX1BodXhnZlkuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>This Ultra-Luxury Concierge Firm Costs $150,000 Just to Join. One Client Spent $24 Million on a Birthday.</title>
+<link>https://www.entrepreneur.com/business-news/this-ultra-luxury-concierge-firm-costs-150000-just-to-join-one-client-spent-24-million-on-a-birthday</link>
+<guid isPermaLink="false">c1d24d440072e0ad4329a033b232e9f47b73f5e519710453fdafbfaea8e22a31</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 17:06:16 +0000</pubDate>
+<description>Here’s a problem most of us would love to have. What if you had so much money that you needed to hire someone just to help you enjoy it? For about 145 families, that someone is Fischer Unlimited, a New York luxury concierge firm that charges $150,000 just to become a client, plus a $25k […]</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Fischer_Fortis_interior-plane-1.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Fischer_Fortis_interior-plane-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank</title>
@@ -92,6 +202,28 @@
 <media:content url="https://imgproxy.divecdn.com/Ti9L-ajafmu1LNkGcQISN2-_J3zFMkGJRFT7R_fCdpQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY2NjY4NDE1LmpwZw==.webp" medium="image"/>
 </item>
 <item>
+<title>Companies Are Paying Up to $1.45 Million for This In-Demand Job</title>
+<link>https://www.entrepreneur.com/business-news/companies-are-paying-up-to-1-45-million-for-this-in-demand-job</link>
+<guid isPermaLink="false">6557f4f683e6e4b37b6c16b6a5d2139a1bee5e1b0537c77f8640e2c0c7e3a819</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 16:10:07 +0000</pubDate>
+<description>Demand for a specialized engineering role is driving impressive paychecks as companies compete for talent.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/job-1126-g-2264063367.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/job-1126-g-2264063367.jpg" medium="image"/>
+</item>
+<item>
+<title>Block reaches $964M DOJ pact</title>
+<link>https://www.bankingdive.com/news/block-pay-964-million-doj/873765</link>
+<guid isPermaLink="false">5585dbd9c9a058253eca9a53d729c7d608ca779f90e64fef6090db62cd49ef29</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 15:58:00 +0000</pubDate>
+<description>The company would pay $764 million of the amount in the agreement to resolve U.S. charges that its anti-money laundering program was ineffective.</description>
+<enclosure url="https://imgproxy.divecdn.com/FOe9GZUYc_-wF1vK4uslEXfpC_pCYj8qaZQplSWTjmU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzIxNzUzMzIyLmpwZw==.webp" type="image/jpeg"/>
+<media:content url="https://imgproxy.divecdn.com/FOe9GZUYc_-wF1vK4uslEXfpC_pCYj8qaZQplSWTjmU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzIxNzUzMzIyLmpwZw==.webp" medium="image"/>
+</item>
+<item>
 <title>TD Cowen: Democratic Sweep Makes a Crypto-Backed CLARITY Act ‘Impossible’</title>
 <link>https://bitcoinmagazine.com/news/td-cowen-democratic-sweep-clarity</link>
 <guid isPermaLink="false">3be655a29006fb17ed138e5f88058c4ae27e8a13e9bf5f892145a4f06bbbed83</guid>
@@ -101,6 +233,17 @@
 <description>Bitcoin Magazine TD Cowen: Democratic Sweep Makes a Crypto-Backed CLARITY Act ‘Impossible’ The Democratic sweep of Congress closes the door on crypto market structure legislation like the Clarity Act for the next two years and may rule out any version the industry would support, TD Cowen told clients in a note published after the Associated Press called both chambers. “We view this outcome as negative for our sectors,” Washington analyst Jaret Seiberg wrote. The caveat he has repeated all cycle still holds: the election “will not impact the ability of regulators to push their de-regulatory agendas,” and he expects the SEC and CFTC “to remain active including on crypto, prediction markets and perps.” The items he flags to watch are the lame-duck session, congressional investigations of Trump, the debt ceiling and populist bills such as interest rate caps. The note lands after a bruising week for the industry: a record $6.34 billion Binance hack , the loss of House allies Bryan Steil, Zach Nunn and Ann Wagner, and more than $170 million in super PAC spending that failed to deliver the Congress it was meant to buy. Clarity, Brown and World Liberty Seiberg’s crypto calls build on a note he published Tuesday , before the results. Sherrod Brown’s return to the Senate from Ohio, after about $64 million in industry money went to stopping him, “damages the crypto industry’s political clout,” he wrote. He had not expected the CLARITY Act to pass in the next Congress; Brown’s win “makes us more confident in our prediction.” The bill, which passed the House in July 2025 and failed a Senate cloture vote 49-50 in September, dies on Jan. 3 unless the lame-duck session revives it. Seiberg goes further than most: Democratic investigations of the Trump family’s crypto ventures, including World Liberty Financial, “may make it impossible to advance a version of Clarity that the crypto sector could back.” That shifts the question from timing to whether any bill the industry wants can pass under this Congress. The agencies are the counterweight. Seiberg sees no change at the SEC or CFTC, which have cleared bitcoin perpetuals , equity perps and a joint crypto taxonomy this year without Congress. The CME lawsuit over the perps approval is the live threat to that path, not the election. Debt ceiling, confirmations and the Fed The rest of the note reads as macro risk for an asset that has traded with the Nasdaq all autumn. Seiberg expects a push to raise the debt ceiling in the lame duck but doubts it succeeds, since Democrats will want the vote as leverage next year. Divided government raises the odds of a shutdown or default standoff in 2027. He sees Trump and Sen. Elizabeth Warren, the likely Senate Banking chair, finding common ground on an interest rate cap, closer to 36% than the 10% Trump has floated, with fintechs more exposed than banks. Two items touch the Fed. Seiberg does not expect Democrats to confirm Trump nominees unless the president fills Democratic seat</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/TD-Cowen-Democratic-Sweep-Makes-a-Crypto-Backed-CLARITY-Act-Impossible.jpg" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/TD-Cowen-Democratic-Sweep-Makes-a-Crypto-Backed-CLARITY-Act-Impossible.jpg" medium="image"/>
+</item>
+<item>
+<title>How ‘Entrepreneur Elevator Pitch’ Turned a 60-Second Idea Into Broadcast TV Gold</title>
+<link>https://www.entrepreneur.com/business-news/how-entrepreneur-elevator-pitch-turned-a-60-second-idea-into-broadcast-tv-gold</link>
+<guid isPermaLink="false">1d70b74cf693e3301ce4e408b15ac465334e704c51de986b131770495efcf7a1</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 15:38:23 +0000</pubDate>
+<description>As 'Entrepreneur Elevator Pitch" airs nationwide, its producer shares what he’s learned watching founders vie for life-changing investment.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Elevator-Pitch-Credit-Manny-Mondesir-.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Elevator-Pitch-Credit-Manny-Mondesir-.jpg" medium="image"/>
 </item>
 <item>
 <title>Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft</title>
@@ -136,6 +279,28 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Riot-RIOT-and-Hut-8-HUT-Sell-Thousands-of-Bitcoin-to-Fund-AI-Ventures-Share-Buybacks-.jpg" medium="image"/>
 </item>
 <item>
+<title>5 Moves That Turn a CFO Into a Real CEO Contender</title>
+<link>https://www.entrepreneur.com/building-a-business/business-operations-logistics/5-moves-that-turn-a-cfo-into-a-real-ceo-contender</link>
+<guid isPermaLink="false">d7dbf1658a90ae35541660fada846e82a22f050ef9fe755b018e35cd08c35f66</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 15:00:00 +0000</pubDate>
+<description>CFOs aiming for the CEO seat must do things like drive growth, think like owners and build trust with others.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/from-cfo-to-ceo-1126_g2286651459.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/from-cfo-to-ceo-1126_g2286651459.jpg" medium="image"/>
+</item>
+<item>
+<title>Disney Is Planning Thousands of Layoffs in Search of 20% Cost Savings</title>
+<link>https://www.entrepreneur.com/business-news/disney-is-planning-thousands-of-layoffs-in-search-of-20-cost-savings</link>
+<guid isPermaLink="false">50ee10a446cba3cd4bfa62e2f34178fb6acc11cf5d54d68dfefff856e1935fdd</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 15:00:00 +0000</pubDate>
+<description>CEO Josh D’Amaro wants to find 20% savings and reinvest that money in parks, cruises and programming. What does that mean for jobs?</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/disney-layoffs-1126_g2302952809.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/disney-layoffs-1126_g2302952809.jpg" medium="image"/>
+</item>
+<item>
 <title>Circle (CRCL) Cuts About 5% of Workforce as Q3 Revenue Hits $865M</title>
 <link>https://bitcoinmagazine.com/news/circle-crcl-cuts-about-5-of-workforce</link>
 <guid isPermaLink="false">293795681ae77188400f92a1cd8bde0324ed505cd9667b6d3b5289e9169e61e2</guid>
@@ -158,6 +323,17 @@
 <media:content url="https://imgproxy.divecdn.com/H1i7PM8hBCluXWLSRdJ5on7bqXsN1eOTfFw9wRAnz98/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTk2Ni5qcGc=.webp" medium="image"/>
 </item>
 <item>
+<title>Popeyes Sales Have Fallen 7 Quarters in a Row. Now Its Scaling Back This Fan Favorite.</title>
+<link>https://www.entrepreneur.com/buying-a-franchise/popeyes-sales-have-fallen-7-quarters-in-a-row-now-its-scaling-back-this-fan-favorite</link>
+<guid isPermaLink="false">b0fbc61ef15603c8969e1d39618a0306e7669a8a7239a7f4df221e5c0bb45b4b</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 14:30:00 +0000</pubDate>
+<description>Executives admit the move will hurt sales in the short term but say a simpler menu is ultimately worth it.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/popeyes-sales-1126_g2289554724.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/popeyes-sales-1126_g2289554724.jpg" medium="image"/>
+</item>
+<item>
 <title>Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress</title>
 <link>https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep</link>
 <guid isPermaLink="false">0d7fb1c3dc143133a1ab58c962793d3c5c3537327bf8cfe9ffbf1384bdf86a92</guid>
@@ -167,6 +343,17 @@
 <description>Bitcoin Magazine Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress Bitcoin price traded near $79,200 on Wednesday morning, up about 2% on the day, after Democrats won control of both the House and the Senate in Tuesday’s midterm elections and dealt the crypto industry its worst night in Washington since 2022. The Associated Press called the Senate for Democrats late Tuesday and the House early Wednesday. House Minority Leader Hakeem Jeffries is in line to become speaker. The result exceeded most forecasts: by Wednesday morning the AP tracker showed Democrats with 54 Senate seats to Republicans’ 44, with races still open. Prediction markets had put a Democratic House above 90% for weeks, but the Senate margin and the loss of several Republican crypto allies in the House came as a surprise. The bitcoin price reacted in two moves. Bitcoin fell to $75,618, a seven-week low, as results came in during Asian trading, then recovered the full loss and more by the European open. Traders broadly speaking treated the sweep as the removal of a known risk rather than a shock: prediction markets had priced a Democratic win for weeks, and options desks saw heavy call buying on election day, with block volume more than double the prior session. The view on the desks is that a Democratic Congress is less friendly to crypto legislation but that divided government, a presidential veto and executive orders cap how much policy can change, leaving technical targets near $82,000 as the next test. Demand remains the weak point, with U.S. spot bitcoin ETFs shedding about $1.16 billion over three sessions and the price still about 27% below where it stood a year ago, down from about $80,500 a week before the vote. The races that cost bitcoin and crypto The industry’s super PACs spent more than $170 million this cycle, most of it for Republicans, and the headline bets failed. Sherrod Brown won back an Ohio Senate seat in a special election against Sen. Jon Husted despite about $64 million in crypto money aimed at stopping him, the largest sum the industry has spent against any single candidate. Brown chaired the Senate Banking Committee until his 2024 defeat and spent that tenure resisting market structure bills. Senate seniority rules may limit his path back to a gavel, but he returns to a chamber his party controls. Three House Republicans the industry counted on lost their seats: Bryan Steil of Wisconsin, who fell to ER nurse Mitchell Berman; Zach Nunn of Iowa; and Ann Wagner of Missouri. Stand With Crypto had endorsed Steil and Nunn and directed ad money to both. Mike Lawler of New York conceded to Democrat Cait Conley with the race uncalled. House Financial Services Chairman French Hill appears to have held his Arkansas seat but will hand the gavel to Rep. Maxine Waters. Pro-bitcoin Talarico wins in Texas The night produced one result bitcoin advocates will claim. Democrat James Talarico defeated Ken Paxton in Texas, the first Democratic statewide wi</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Trades-Above-78000-After-Democratic-Sweep-of-Congress.jpg" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Trades-Above-78000-After-Democratic-Sweep-of-Congress.jpg" medium="image"/>
+</item>
+<item>
+<title>After She Lost Her Tech Job, She Bought a 1961 Studebaker on Facebook Marketplace. Now It’s a Pop-Up Bookstore on Wheels.</title>
+<link>https://www.entrepreneur.com/side-hustle/after-she-lost-her-tech-job-she-bought-a-1961-studebaker-on-facebook-marketplace-now-its-a-pop-up-bookstore-on-wheels</link>
+<guid isPermaLink="false">4c35516744ee8616716e917551c092ebe3b4e7cedcca48b7624c2ebdbdb221c4</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
+<description>Andi Bailey’s vintage book truck, Flatbed Fiction, pops up all over Rhode Island. She had shelving built and installed in the truck bed.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/studebaker-bookshop-on-wheels-1126_g1270301157.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/studebaker-bookshop-on-wheels-1126_g1270301157.jpg" medium="image"/>
 </item>
 <item>
 <title>Here’s what happened in crypto today</title>
@@ -433,17 +620,6 @@
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/content-marketing-expensive-disconnect-1026-g-1476391614.jpg" medium="image"/>
 </item>
 <item>
-<title>He Left Google to Fix a ‘Really Stupid’ Household Product. The ‘Delightful’ Solution Has Generated $20 Million in Revenue.</title>
-<link>https://www.entrepreneur.com/building-a-business/he-left-google-to-fix-a-really-stupid-household-product-the-delightful-solution-has-generated-20-million-in-revenue</link>
-<guid isPermaLink="false">c48c8b6b848a5b0ab9c4921daa034cb78ab30bb8e3766133098735702f3442a5</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 21:55:15 +0000</pubDate>
-<description>Matic co-founder Mehul Nariyawala says the goal is to sell 30,000 robots by the end of the year.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Navneet-Dalal-left-and-Mehul-Nariyawala-right.-Credit-Matic.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Navneet-Dalal-left-and-Mehul-Nariyawala-right.-Credit-Matic.jpg" medium="image"/>
-</item>
-<item>
 <title>Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business</title>
 <link>https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business</link>
 <guid isPermaLink="false">cdb7368e3436c209efacb6ef7dea253ebb3ef87575c59c55b2a16856b292486d</guid>
@@ -510,17 +686,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>The Best Idea for His Business Came From a Customer. And It Led to 300% Growth: ‘We’re Going All-In on This’</title>
-<link>https://www.entrepreneur.com/business-news/the-best-idea-for-his-business-came-from-a-customer-and-it-led-to-300-growth</link>
-<guid isPermaLink="false">ad18e7466be270c72d9fa1718ae6ae343ed431706f9549514d3e0b844999f5a9</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 19:40:00 +0000</pubDate>
-<description>Fit:match founder Haniff Brown built tech to help shoppers find clothes that fit, until a soccer club asked him to try something new.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Haniff-Brown-Fitmatch.jpeg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Haniff-Brown-Fitmatch.jpeg" medium="image"/>
-</item>
-<item>
 <title>US midterms: Prediction markets favor Democrats in key crypto races</title>
 <link>https://cointelegraph.com/news/us-midterm-prediction-markets</link>
 <guid isPermaLink="false">11db9169a92b81390c39442b51793d0d14b7870f5e45f89875bdd50ab673d59b</guid>
@@ -532,17 +697,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HQ1NKPD61CWKMF78RJP3VH/with-blended-okx-ice-logo.png" medium="image"/>
 </item>
 <item>
-<title>7 Mistakes Founders and CEOs Make When Talking to the Media (and How to Avoid Them)</title>
-<link>https://www.entrepreneur.com/building-a-business/7-mistakes-founders-and-ceos-make-when-talking-to-the-media-and-how-to-avoid-them</link>
-<guid isPermaLink="false">3fa2270e81c25d064ff1a174e899e7ed2ca5f1f6e4ca9f6e546b86e156938de1</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 19:30:00 +0000</pubDate>
-<description>Even accomplished business leaders make mistakes during media interviews. Here's how to avoid seven common missteps that can undermine your credibility and cost you valuable coverage.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/talking-to-press-mistakes-1026_g2280433686.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/talking-to-press-mistakes-1026_g2280433686.jpg" medium="image"/>
-</item>
-<item>
 <title>CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures</title>
 <link>https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures</link>
 <guid isPermaLink="false">1c9fedee7f30ab50c2e6378af70fd15d96f8498b4facbc5e5ebcab56a43f0054</guid>
@@ -552,28 +706,6 @@
 <description>Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Before He Was a Billionaire, 24-Year-Old Mark Cuban Had 5 Roommates and Lived in ‘Hell Hotel’</title>
-<link>https://www.entrepreneur.com/business-news/before-he-was-a-billionaire-24-year-old-mark-cuban-had-5-roommates-and-lived-in-hell-hotel</link>
-<guid isPermaLink="false">b6c0ef3546032b365c663088cfe0785468f6c07a8511795b7077846a74747d4d</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 19:02:41 +0000</pubDate>
-<description>The future billionaire’s early living situation was a far cry from luxury.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Mark-Cuban-1126_g263715743-new.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Mark-Cuban-1126_g263715743-new.jpg" medium="image"/>
-</item>
-<item>
-<title>That ‘100% Tax Write-Off’ on Your Company Car Isn’t What You Think. Here’s What to Know Before You Buy.</title>
-<link>https://www.entrepreneur.com/entrepreneurs/that-100-tax-write-off-on-your-company-car-isnt-what-you-think-heres-what-to-know-before-you-buy</link>
-<guid isPermaLink="false">8d7e9aff283d0ab535561c0ef106b58750fa4e505848096d6c5576a6d865ff56</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 19:00:00 +0000</pubDate>
-<description>Your business car write-off is smaller than social media claims.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/business-car-write-off-1026-g-748333887.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/business-car-write-off-1026-g-748333887.jpg" medium="image"/>
 </item>
 <item>
 <title>Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack</title>
@@ -598,17 +730,6 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/04/Tether-moves-over-70-million-in-bitcoin-to-reserves-on-chain-data-shows.jpg" medium="image"/>
 </item>
 <item>
-<title>How to Decide Whether to Build In-House, Buy an Existing Solution or Partner With Another Company</title>
-<link>https://www.entrepreneur.com/building-a-business/how-to-decide-whether-to-build-in-house-buy-an-existing-solution-or-partner-with-another-company</link>
-<guid isPermaLink="false">0b1ebcc3fbb5727849ba145fc8e3592c10735117db0f3893e200515760b4f301</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
-<description>When should a company build, buy or partner? Here's what you need to know.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/partnerships-or-build-in-house-1026_g2223152873.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/partnerships-or-build-in-house-1026_g2223152873.jpg" medium="image"/>
-</item>
-<item>
 <title>Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue</title>
 <link>https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock</link>
 <guid isPermaLink="false">0bc8996724b1b679ff1302af6294eff6a1848ddc8916086c98b04ace0beba44a</guid>
@@ -618,17 +739,6 @@
 <description>Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-4-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>TD Cowen: Democratic Congress Would Sink CLARITY Act for Two Years</title>
-<link>https://bitcoinmagazine.com/news/td-cowen-democratic-congress-clarity-act</link>
-<guid isPermaLink="false">ec74d257c786bfdce8a99ef407849b15e1123f22fe80937a1aa8ebee58b95af6</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 17:39:34 +0000</pubDate>
-<description>Bitcoin Magazine TD Cowen: Democratic Congress Would Sink CLARITY Act for Two Years A Democratic sweep of Congress would end the CLARITY Act’s chances for the next two years and sour the political climate for crypto, TD Cowen’s Washington analyst Jaret Seiberg wrote to Bitcoin Magazine and clients in an election-day note. Seiberg wrote that TD Cowen agrees with polls and prediction markets that Democrats are likely to take both chambers, with the caveat that polls taken a month out, which were more mixed, tend to beat those taken on the eve of a vote. His conclusion for crypto is blunt: “Democrats will likely investigate Trump including his crypto entanglements. We see this as souring the political environment for crypto, which is why we do not expect the Clarity Act to pass over the next two years.” The market structure bill passed the House 294-134 in July 2025 and failed a Senate cloture vote 49-50 on Sept. 15. If it does not pass before the new Congress convenes on Jan. 3, it dies and must be reintroduced. Seiberg added that crypto’s influence may shrink further in Congress if Sherrod Brown wins his Ohio Senate race, a contest the industry spent to lose. In Congress, the Senate is the lever The note treats Senate control as the bigger prize. A Democratic majority could block Trump’s nominees and use that power to force him to fill Democratic seats on the FDIC, SEC and CFTC, the three agencies at the center of crypto policy. It could pressure the White House to drop its effort to remove Lisa Cook from the Federal Reserve board. Trump could answer with acting chiefs, Seiberg wrote, but that risks handing authority to career staff, an outcome “Team Trump” does not want. Senate control would elevate Sen. Elizabeth Warren to chair the Banking Committee. Seiberg sees room for populist bills such as interest rate caps, limits on bank buybacks and a government credit score, and he thinks Warren and Trump could find common ground on some of them. Rep. Maxine Waters would take House Financial Services, with a focus on housing and tighter scrutiny of the FHFA. “That means a focus on housing though we are dubious that she will find GOP support for down payment help and public housing renovations. FHFA scrutiny will increase,” the note read. For banks, the note says the election changes little: regulators will keep easing capital, liquidity and tiering rules whichever party wins. Divided government does raise the odds of a shutdown or a debt-ceiling standoff, since Trump is expected to reject spending conditions Democrats attach. Bitcoin on election day Bitcoin traded near $77,500 Tuesday afternoon eastern time, up from a dip to $76,300 in the morning and about $2,000 below where it opened the month. The price has absorbed a record $6.34 billion Binance hack , two days of spot ETF outflows and a Fed that is leaning toward a December hike. Prediction markets on Kalshi give Democrats a 94% chance at the House and 74% at the Senate, so much of Seiberg’s scen</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/TD-Cowen-Democratic-Congress-Would-Sink-CLARITY-Act-for-Two-Years.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/TD-Cowen-Democratic-Congress-Would-Sink-CLARITY-Act-for-Two-Years.jpg" medium="image"/>
 </item>
 <item>
 <title>Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked</title>
@@ -642,17 +752,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Dave’s Hot Chicken’s CEO Was Handed a $100 Bill and 3 Words of Advice by His Boss at a Valet Stand. Those Words Are Still How He Runs the Company Today.</title>
-<link>https://www.entrepreneur.com/building-a-business/daves-hot-chicken-ceo-jim-bitticks-leadership-lesson-generosity-boss-valet</link>
-<guid isPermaLink="false">6bc1324b66d8740fc628009211c43e97b99ab3e14f63b55198a857cbfa1af7bd</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 17:30:00 +0000</pubDate>
-<description>Jim Bitticks spent years watching his boss give generously to the people around him. He says that habit is a big part of how Dave’s Hot Chicken grew.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/RI-Jim-Bitticks-3.jpeg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/RI-Jim-Bitticks-3.jpeg" medium="image"/>
-</item>
-<item>
 <title>Epidemic of Hacked Freezers Spreads Across Europe</title>
 <link>https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe</link>
 <guid isPermaLink="false">119c3e8d14a2cc640006ce4e502b600b013b69a737d09da0b26e91931546a0cd</guid>
@@ -664,17 +763,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/grocery-store-freezers-gID_4.jpg" medium="image"/>
 </item>
 <item>
-<title>What Clients Need Before They Trust You With Sensitive Work</title>
-<link>https://www.entrepreneur.com/building-a-business/what-clients-need-before-they-trust-you-with-sensitive-work</link>
-<guid isPermaLink="false">9b83c2499660cf52500e947a32bf7f8ecec62d0095e0b73b708a139f6cd21583</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
-<description>Your clients, and potential clients, need to know that they can trust you with their confidential information.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/clients-cybersecurity-1026_g2268988377.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/clients-cybersecurity-1026_g2268988377.jpg" medium="image"/>
-</item>
-<item>
 <title>Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen</title>
 <link>https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen</link>
 <guid isPermaLink="false">a7c012ecf94aec72c23a438ca131730e32f06b81655acb5ef3003663ab66c489</guid>
@@ -684,17 +772,6 @@
 <description>Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E9GCA5SEXXY937BRRK6D7T/interview-markus-thielen-1.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E9GCA5SEXXY937BRRK6D7T/interview-markus-thielen-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance Says $6.34 Billion Hack Began With Fake Job Interview</title>
-<link>https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job</link>
-<guid isPermaLink="false">71e847d2cb914b1167dd57dbe16ac75cd551c051ef705bfdd08ae41f04b45758</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 16:44:20 +0000</pubDate>
-<description>Bitcoin Magazine Binance Says $6.34 Billion Hack Began With Fake Job Interview The $6.34 billion theft from Binance began with a fake job interview and ran for five months before a single coin moved, the exchange said Tuesday in its first public account of the Oct. 29 attack. Another initial incident report from Binance, released alongside a media briefing by co-CEO Richard Teng and chief security officer Jimmy Su, describes a campaign that combined a poisoned software download, a staged recruitment process, malware that evaded endpoint detection and an internal AI tool the attackers turned against the company’s own wallet engineers. Binance said it has frozen or intercepted about $2.85 billion of the stolen assets and replenished 98% of affected tokens from its own funds, with the balance being bought on the open market. “This wasn’t one mistake or one breach — it was a months-long campaign,” Teng wrote on X. “We’re publishing the full report because the lessons go far beyond Binance.” The FBI has attributed the attack to North Korea. Binance’s report cites that finding but stops short of its own attribution. Pyongyang rejected the claim Monday, with Kim Yo Jong, sister of leader Kim Jong Un, calling it a “grave political provocation” through state media. The Binance hack had five months of preparation According to Binance, the first foothold for this hack came in June. A wallet DevOps engineer searched for a popular AI coding tool and downloaded a tampered Homebrew installer. Binance’s security team caught the anomaly, replaced the device and rotated credentials, but the episode exposed the engineer’s role and the names of colleagues on the wallet infrastructure team. In September, a second engineer was approached on a legitimate job platform by someone posing as a project director. A video interview with a purported HR representative followed, with the interviewer sharing a personal social media account to build trust. A second interview with a supposed CEO ended with an “assignment”: a code repository the engineer was told to install on his work machine. The repository replaced a legitimate pyenv component with a malicious version and opened a channel to an attacker-controlled server. Binance said the zero-day malware was not flagged by its endpoint tools at the time. On Oct. 20, the attackers used that machine and an internal AI tool to reach two more wallet engineers, one of whom held a container deployment token. On Oct. 29, between 17:15 and 19:56 UTC, they logged into a third engineer’s computer, deployed a container with the stolen credentials and launched the drain. Binance said it blocked 57 other suspected North Korea-linked attempts this year using similar lures. Four hours to contain The money left fast. Between 20:05 and 20:09 UTC, five hot wallets sent 233.46 million XRP to an attacker address. Wallets on Solana and Optimism followed with about 970,500 SOL and 44.2 million OP. A Binance hot wallet then sent 18,270 BTC. The attack</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance traces $6.3B hack to fake job interviews, compromised AI tool</title>
@@ -728,17 +805,6 @@
 <description>Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GYWTMJRC5WVDCDG7QCTRRJ/article-covers-180463-us-cpi-lower-expected-rate-cuts-coming-1280x853-960x640.webp" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GYWTMJRC5WVDCDG7QCTRRJ/article-covers-180463-us-cpi-lower-expected-rate-cuts-coming-1280x853-960x640.webp" medium="image"/>
-</item>
-<item>
-<title>Andrew Hohns: Why Bitcoin Can Fix America’s Debt Spiral</title>
-<link>https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral</link>
-<guid isPermaLink="false">d95854713dc6d1e830c60f439441bb8b2f6816dea06ca37a0aeb5cbf53a60a83</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 15:17:11 +0000</pubDate>
-<description>▶ Bitcoin Magazine Andrew Hohns: Why Bitcoin Can Fix America’s Debt Spiral U.S. federal debt has grown 40x in 45 years, from $1 trillion in 1981 to over $40 trillion. Andrew Hohns, founder and CEO of Battery Finance, explains why he doesn’t expect tax hikes or spending cuts to fix it, and how a strategic Bitcoin reserve could help defease the national debt. He also makes the case for the Treasury to pilot BitBonds. Chapters: 00:00 Andrew Hohns on Bitcoin and the Midterms 00:47 Bond Market Volatility and America’s Fiscal Outlook 01:22 40x Federal Debt Growth in 45 Years 02:55 A Strategic Bitcoin Reserve to Defease the Debt 03:20 Why BitBonds Haven’t Come to Market Yet 05:12 Higher Borrowing Costs and the Digital Credit Boom 06:15 Battery Finance’s Bitcoin-Backed Real Estate Loans 07:03 The $2 Trillion Real Estate Refinancing Wall 08:52 How Battery’s Loans Avoid Margin Calls 11:03 Which Property Types Are Under Pressure 13:34 The Future of Bitcoin and Real Estate Financing 16:25 Digital Credit and Institutional Bitcoin Adoption DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Andrew Hohns: Why Bitcoin Can Fix America’s Debt Spiral first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
-<enclosure url="https://img.youtube.com/vi/lYR2vp9wCQQ/hqdefault.jpg" type="image/jpeg"/>
-<media:content url="https://img.youtube.com/vi/lYR2vp9wCQQ/hqdefault.jpg" medium="image"/>
 </item>
 <item>
 <title>Truist expands merchant tools to boost value</title>
@@ -884,28 +950,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FX2DFZ8H6KSQP3M3F615T4/article-covers-246541-three-signs-bitcoin-price-near-full-capitulation-960x640.webp" medium="image"/>
 </item>
 <item>
-<title>ARK buys $17M in Coinbase, Circle shares while trimming Bullish</title>
-<link>https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish</link>
-<guid isPermaLink="false">ec8b3243d3e2d52c1ba640d726b66b0dd865ef3784e701ef9fcc5298ccbb374d</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 08:35:13 +0000</pubDate>
-<description>ARK Invest added Coinbase and Circle shares across two trading sessions while selling about $8 million in Bullish as crypto stocks declined.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G5EBKBSYS8ZPKKVS3JB9QS/cathie-wood2.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G5EBKBSYS8ZPKKVS3JB9QS/cathie-wood2.jpg" medium="image"/>
-</item>
-<item>
-<title>Kraken restricts accounts linked to suspected $133M EU crypto theft</title>
-<link>https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up</link>
-<guid isPermaLink="false">9b88357f9807c6f3c93d26a2be8ea5269e89e67dff6f0f11dc02bc8b3ccf181d</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 08:18:22 +0000</pubDate>
-<description>Crypto.com also took steps to block funds tied to the suspected theft, while Kraken said its systems and customer accounts were not compromised.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G79AN04CQ92B4R0XV30XJ8/hack-2.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6G79AN04CQ92B4R0XV30XJ8/hack-2.jpg" medium="image"/>
-</item>
-<item>
 <title>Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest</title>
 <link>https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks</link>
 <guid isPermaLink="false">01c93ff11ad0f5fa13ddd41ad22d3b0c0e089a77f150dad965607e7c6d8b768d</guid>
@@ -972,28 +1016,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push</title>
-<link>https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai</link>
-<guid isPermaLink="false">7c2941cce5cffd233fae71abcb6f7506840fe09f8198babaafd514163f9368be</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 18:16:02 +0000</pubDate>
-<description>Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated development.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2024/03/loser-shutterstock-gID_4.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2024/03/loser-shutterstock-gID_4.png" medium="image"/>
-</item>
-<item>
-<title>Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections</title>
-<link>https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections</link>
-<guid isPermaLink="false">061c13d7438d48a64c5e5a70c6c2755e23be706ffdcc8016737ebc83728491ea</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 17:36:03 +0000</pubDate>
-<description>Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" medium="image"/>
-</item>
-<item>
 <title>Mortgage business expansion killed Tioga-Franklin: FDIC OIG</title>
 <link>https://www.bankingdive.com/news/mortgage-business-expansion-killed-tioga-franklin-fdic-oig/873470</link>
 <guid isPermaLink="false">1bc18b756b426b37f7b3f9183c04cfe6f159282d8bf76583d9f52605312a7aa7</guid>
@@ -1014,27 +1036,5 @@
 <description>The regulator deemed the bank “adequately capitalized” last week after applying a more severe label in August. A special-purpose acquisition of the bank had fallen apart earlier this summer.</description>
 <enclosure url="https://imgproxy.divecdn.com/0uraoB8PF3cSFOfY52b-tu3FNQj5eab5YPvASVCv7GU/g:nowe:184:12/c:2796:1579/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM0MzEzNjkwLmpwZw==.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/0uraoB8PF3cSFOfY52b-tu3FNQj5eab5YPvASVCv7GU/g:nowe:184:12/c:2796:1579/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM0MzEzNjkwLmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>Dive Deposits: Black-owned bank repeatedly rebuffs offer from upstart</title>
-<link>https://www.bankingdive.com/news/m-and-f-bank-optus-triad-competing-offer-black-mdi-cdfi-north-carolina/873339</link>
-<guid isPermaLink="false">64207cefd46546c062901ff82ddcb52d6b0ba54f44a9c6f3a9c46544dcb43dd6</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 16:32:03 +0000</pubDate>
-<description>Triad Business Bank has sent Black-owned M&amp;F four proposals aimed at keeping the lender in North Carolina, with its charter and minority depository institution status intact. Shareholders vote Nov. 4.</description>
-<enclosure url="https://imgproxy.divecdn.com/LJ1BLV0Ucv4HpmAFLTBtvi8ClIQR-xZ6pJfS-sub79Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TQ19TdGF0ZV9Ib3VzZV9hdF9ldmVuaW5nX1QzemM3bzIuanBn.webp" type="image/jpeg"/>
-<media:content url="https://imgproxy.divecdn.com/LJ1BLV0Ucv4HpmAFLTBtvi8ClIQR-xZ6pJfS-sub79Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TQ19TdGF0ZV9Ib3VzZV9hdF9ldmVuaW5nX1QzemM3bzIuanBn.webp" medium="image"/>
-</item>
-<item>
-<title>Warren urges DOJ to probe BofA’s AML issues</title>
-<link>https://www.bankingdive.com/news/warren-urges-doj-probe-bofa-aml-issues-blanche/873326</link>
-<guid isPermaLink="false">7aa79c064c341183aea55bb60e4900f1c968b62153d94a98577fd0111d908f46</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 15:45:40 +0000</pubDate>
-<description>Weeks after three financial regulators fined Bank of America $1.21 billion, Sen. Elizabeth Warren wants to know if criminal charges are coming.</description>
-<enclosure url="https://imgproxy.divecdn.com/cNFgdswI5XKg7VbqBDKOfUQLOLjyc10MbiLicfgMtes/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjAwNTU2MTMyLmpwZw==.webp" type="image/jpeg"/>
-<media:content url="https://imgproxy.divecdn.com/cNFgdswI5XKg7VbqBDKOfUQLOLjyc10MbiLicfgMtes/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjAwNTU2MTMyLmpwZw==.webp" medium="image"/>
 </item>
 </channel></rss>

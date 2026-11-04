@@ -2,7 +2,7 @@
  * Keeps the existing /online/ PWA cache/offline behaviour and handles
  * Web Push notifications sent by the DailyPulse Cloudflare Worker.
  */
-const CACHE_NAME = "dailypulse-app-v4";
+const CACHE_NAME = "dailypulse-app-v5-notification-fix";
 const APP_SHELL = [
   "/online/",
   "/online/index.html",
@@ -10,7 +10,7 @@ const APP_SHELL = [
   "/online/favicon.svg",
   "/online/icons/dailypulse-192.png"
 ];
-const HOME_URL = "https://dailypusle.github.io/online/";
+const HOME_URL = new URL("./", self.registration.scope).href;
 
 self.addEventListener("install", event => {
   event.waitUntil((async () => {
@@ -43,7 +43,7 @@ self.addEventListener("fetch", event => {
 
   event.respondWith((async () => {
     try {
-      const response = await fetch(request);
+      const response = await fetch(new Request(request, { cache: "no-store" }));
       if (response && response.ok) {
         const cache = await caches.open(CACHE_NAME);
         await cache.put("/online/index.html", response.clone());

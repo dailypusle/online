@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
 <head>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="dailypulse-build" content="notification-fix-20261104">
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#087cf0">
 <meta name="description" content="DailyPulse brings you the latest breaking news, top stories, business, technology, sports and world updates.">
@@ -715,7 +718,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
 
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
-      navigator.serviceWorker.register('./sw.js').catch(error =>
+      navigator.serviceWorker.register('./sw.js', { scope: './', updateViaCache: 'none' }).catch(error =>
         console.warn('DailyPulse service worker registration failed:', error)
       );
     });
@@ -902,7 +905,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
         if (current === "denied") {
           throw new Error("Chrome denied notifications. Set DailyPulse to Allow in Chrome site settings and enable notifications for Chrome in Android Settings → Apps → Chrome → Notifications.");
         }
-        throw new Error("Chrome did not grant permission. The permission prompt may have been dismissed. Tap Allow Notifications again and choose Allow on Chrome's popup.");
+        throw new Error("Chrome did not record a permission choice. Tap Allow Notifications again and select Allow on the Chrome prompt. If no prompt appears, open Chrome Site settings → Notifications and check that this site is not blocked.");
       }
       allowButton.textContent = "Connecting…";
       return finishSubscription();

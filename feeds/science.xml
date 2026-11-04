@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>A NASA Telescope Has Crashed Back to Earth</title>
+<link>https://www.nytimes.com/2026/11/03/science/nasa-swift-reentry-crash.html</link>
+<guid isPermaLink="false">202a731e46b5226561e3749bf547eecd9143f4f38f12220d8aef9f443feb2746</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 20:14:02 +0000</pubDate>
+<description>Preparing the Neil Gehrels Swift Observatory for launch at the Kennedy Space Center in 2004. The 1.5-ton spacecraft is about the size of a pickup truck.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/03sci-nasa-swift-cqfk/03sci-nasa-swift-cqfk-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/03sci-nasa-swift-cqfk/03sci-nasa-swift-cqfk-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>'Trials and Tribble-ations' at 30: The classic 'Star Trek: Deep Space Nine' episode that brought Captains Kirk and Sisko face-to-face</title>
 <link>https://www.space.com/entertainment/space-movies-shows/trials-and-tribble-ations-at-30-the-classic-star-trek-deep-space-nine-episode-that-brought-captains-kirk-and-sisko-face-to-face</link>
 <guid isPermaLink="false">c6013c850b5abb1d9a0b7f0ab981ff596371683f70a4bd765c2f6ada396e727c</guid>
@@ -224,17 +235,6 @@
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Default.webp" medium="image"/>
 </item>
 <item>
-<title>NASA, NOAA Track 2026 Antarctic Ozone Hole</title>
-<link>https://science.nasa.gov/earth/2026-ozone-hole</link>
-<guid isPermaLink="false">50fbcf8bc9bfcec17626f16e1f632bfeac729a71d6f38820bc2081441d610788</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 15:00:14 +0000</pubDate>
-<description>4 min read NASA, NOAA Track 2026 Antarctic Ozone Hole Earth’s protective ozone layer remains on track for long-term recovery, despite atmospheric conditions that contributed to a larger Antarctic ozone hole in 2026, NASA and the National Oceanic and Atmospheric Administration (NOAA) reported. The ozone hole ranked seventh largest by area in 48 years of monitoring, but was not as deep as other large holes on record. From Sept. 7 to Oct. 13, peak ozone depletion season, the average extent of the hole covered about 9.6 million square miles (25 million square kilometers). Scientists continually track the amount of ozone in the stratosphere because it acts as the Earth’s sunscreen that helps shield life from harmful solar radiation. This is distinct from ground level ozone, which is an air pollutant commonly resulting from human activities. This data visualization shows the area and shape of the ozone hole on September 18, 2026, the day of its annual maximum extent. Scientists define the ozone hole as the area in which ozone concentrations drop below the historical threshold of 220 Dobson units. NASA Earth Observatory/Lauren Dauphin “The annual ozone hole has been forming later in the season in recent years, which tells us the ozone layer is healing,” said Paul Newman, a senior scientist at the University of Maryland, Baltimore County, and longtime leader of NASA’s ozone research team at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. “But an unusually powerful polar vortex has extended ozone depletion in the Antarctic this season, allowing the hole to grow to proportions we haven’t seen in a decade.” The ozone hole reached its greatest one-day extent for the year on Sept. 18 at 10.5 million square miles (27.1 million square kilometers). For comparison, the largest ozone hole observed since monitoring began reached its maximum extent in September 2000. “The 2026 ozone hole is large but could have been 1 to 2 million square miles (3.5 million square kilometers) larger if ozone-depleting substances were as prevalent in the atmosphere today as they were at their peak in 2000,” Newman said. The Antarctic polar vortex helps create the cold conditions that allow chlorine and bromine from human-made compounds to deplete stratospheric ozone. “The polar vortex was unusually large this year in part because planetary-scale weather systems that typically propagate up from the lower atmosphere and break up the vortex were especially weak in August and September,” said Amy Butler, a research scientist at the NOAA Chemical Sciences Laboratory. “That weak wave action kept the strongest polar vortex winds further from the pole by several degrees of latitude, creating a larger area for conditions ideal for ozone depletion to occur.” Despite its relatively large area, this year’s ozone hole was not as deep as the record ozone holes observed in previous decades. Using balloon-borne instruments from the South Pole Baseline Atmospheric Observatory, NOAA sc</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/ozone_geos5_20260918_hires.jpg?w=1440&amp;h=1480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/ozone_geos5_20260918_hires.jpg?w=1440&amp;h=1480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026</title>
 <link>https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026</link>
 <guid isPermaLink="false">2bbd60fd78f4142a1c3b17ef4c4ffca3a934cd16978efbe7f843496a3adc518e</guid>
@@ -279,17 +279,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/UyHFJpp3BWEoFpwKbQ5uzQ-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>Time to wake up MetOp-SG-B1 weather satellite</title>
-<link>https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite</link>
-<guid isPermaLink="false">8b16005cca63db5e1614314709df7a4423545500e2c90e2b121cace5311060f1</guid>
-<source>ESA Space News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 09:10:00 +0000</pubDate>
-<description>Following a short period in storage after arriving at Europe’s Spaceport in French Guiana, the MetOp Second Generation-B1 satellite has been transferred to a cleanroom and removed from its transport container. The team is now preparing to reactivate this ‘sleeping beauty, and begin the final checks and preparations ahead of its launch, planned towards the end of the year.</description>
-<enclosure url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/removing_metop-sg-b1_from_its_transport_container/27598342-1-eng-GB/Removing_MetOp-SG-B1_from_its_transport_container_card_full.jpg" type="image/jpeg"/>
-<media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/removing_metop-sg-b1_from_its_transport_container/27598342-1-eng-GB/Removing_MetOp-SG-B1_from_its_transport_container_card_full.jpg" medium="image"/>
-</item>
-<item>
 <title>Before the Dawn in America’s Heartland</title>
 <link>https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland</link>
 <guid isPermaLink="false">79e632d7c84fde6c93e1f694af30e6d2888980fa23fa6fe4fd436dd5cf653339</guid>
@@ -310,17 +299,6 @@
 <description>Kseniia Petrova, a Russian-born scientist at Harvard, seen after she was released from U.S. federal custody in Boston in 2025.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-PETROVA-DISMISS-topart-01-whtj/03SCI-PETROVA-DISMISS-topart-01-whtj-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-PETROVA-DISMISS-topart-01-whtj/03SCI-PETROVA-DISMISS-topart-01-whtj-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>A NASA Telescope Is Predicted to Crash Back to Earth Within Hours</title>
-<link>https://www.nytimes.com/2026/11/03/science/nasa-swift-reentry-crash.html</link>
-<guid isPermaLink="false">202a731e46b5226561e3749bf547eecd9143f4f38f12220d8aef9f443feb2746</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 22:37:02 +0000</pubDate>
-<description>Preparing the Neil Gehrels Swift Observatory for launch at the Kennedy Space Center in 2004. The 1.5-ton spacecraft is about the size of a pickup truck.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/03sci-nasa-swift-cqfk/03sci-nasa-swift-cqfk-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/03sci-nasa-swift-cqfk/03sci-nasa-swift-cqfk-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>NASA asks industry for ideas about saving Hubble Space Telescope</title>
@@ -466,17 +444,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg?w=1280" medium="image"/>
 </item>
 <item>
-<title>On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2</title>
-<link>https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026</link>
-<guid isPermaLink="false">d601f8785012d1f704b8e496affd503c9e8e7ba9108e3b1906c1db0209acc23c</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
-<description>null On Nov. 3, 1957, a Soviet space dog named Laika became the first animal to orbit Earth. Laika was a 3-year-old stray husky-spitz mix from the streets of Moscow, and she was recruited by the Soviet space program for her small size and calm temperament. Unfortunately for Laika, this mission was a one-way trip . The Soviets didn't design a way to bring her back down to Earth. With only 7 days worth of oxygen and a little bit of food on board, Laika launched from the Baikonur Cosmodrome in Kazakhstan with a Russian Sputnik rocket. This was the same kind of rocket used to launch the first Sputnik satellite. Laika was alive when she reached orbit, but she died shortly afterward because the spacecraft's heat shield had broken off. Laika overheated before she had the chance to die of starvation of oxygen deprivation. Laika, the first Soviet space dog to enter Earth orbit, is seen in a training capsule prior to her launch. (Image credit: Roscosmos) Why it mattered Laika has remained one of space history's most beloved and tragic figures. People around the world have dogs as pets who they love as members of their own families. And even nearly 70 years after this flight, it is so heartbreaking to think of Laika on that frightening journey from which she never returned. Laika was one of many different animals that were used in early spaceflight testing. Both the U.S. and Russia launched a number of primates on flights testing early flight technology. Sadly, like Laika, many of these brave creatures did not make it back. Unbelievably, though, some did survive the journey. For example, the chimpanzee named Ham and nicknamed the "astrochimp" survived a 1961 test flight to space. Though, the team behind that flight was so unsure of how it would go that Ham didn't get his name until after it was found that he'd survived his return. Want more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube .</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/WfWqNNL9ATasBvt6Lk6QL3-1920-80.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/WfWqNNL9ATasBvt6Lk6QL3-1920-80.jpg" medium="image"/>
-</item>
-<item>
 <title>Robot cube explores the International Space Station | Space photo of the day for Nov. 3, 2026</title>
 <link>https://www.space.com/space-exploration/international-space-station/robot-cube-explores-the-international-space-station-space-photo-of-the-day-for-nov-3-2026</link>
 <guid isPermaLink="false">ac34558e5c0ba8464068b558244bb5121c837ed4ca52529678f968ad492f1cb2</guid>
@@ -486,6 +453,17 @@
 <description>null An Astrobee, a tiny robot cube, is zipping around the International Space Station helping out the astronauts on board. (Image credit: NASA/Jessica Watkins) A tiny robot cube is zipping around the International Space Station, trying to help astronauts with the endless challenging tasks onboard. What is it? Reminiscent of Rocky rolling around the lab helping out Dr. Ryland Grace in Project Hail Mary, the Astrobee robot is a helpful assistant for astronauts aboard the space station . A metal cube about the size of a toaster, the Astrobees are free-flying robotic assistants that NASA developed to help out astronauts. The first two Astrobee robots (named Bumble and Honey) were sent to the station in 2019. The third Astrobee robot, named Queen, joined later that year, and 7 years later, the program is still going strong. So what can a free-floating cube help with? The robots are designed to assist the astronauts onboard with testing new technologies in microgravity and helping mission team members back on Earth to better observe inside the station. The little robot cubes can even help astronauts with everyday chores in space. In this image , snapped by NASA astronaut and Crew-13 commander Jessica Watkins, we can see one of the Astrobee robots helping out in the station's Kibo laboratory. Why is it incredible? The idea of a robot assistant helping out with chores and technology development aboard an orbiting space laboratory sounds positively science fiction. While Astrobee is certainly not the first robot in space or aboard the space station, its compact shape and ability to fly autonomously gives it a unique quality. It really looks like a companion aboard the space station. While the robotic space helpers of today might be cute little cubes, the success of the Astrobee program begs the question of how robots in space might continue to evolve. Will astronauts on the moon have robotic companions autonomously exploring and helping out? What will they look like?</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/F9umvr5JsmYiQvanUxwcMU-1920-80.png" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/F9umvr5JsmYiQvanUxwcMU-1920-80.png" medium="image"/>
+</item>
+<item>
+<title>On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2</title>
+<link>https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026</link>
+<guid isPermaLink="false">d601f8785012d1f704b8e496affd503c9e8e7ba9108e3b1906c1db0209acc23c</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
+<description>null On Nov. 3, 1957, a Soviet space dog named Laika became the first animal to orbit Earth. Laika was a 3-year-old stray husky-spitz mix from the streets of Moscow, and she was recruited by the Soviet space program for her small size and calm temperament. Unfortunately for Laika, this mission was a one-way trip . The Soviets didn't design a way to bring her back down to Earth. With only 7 days worth of oxygen and a little bit of food on board, Laika launched from the Baikonur Cosmodrome in Kazakhstan with a Russian Sputnik rocket. This was the same kind of rocket used to launch the first Sputnik satellite. Laika was alive when she reached orbit, but she died shortly afterward because the spacecraft's heat shield had broken off. Laika overheated before she had the chance to die of starvation of oxygen deprivation. Laika, the first Soviet space dog to enter Earth orbit, is seen in a training capsule prior to her launch. (Image credit: Roscosmos) Why it mattered Laika has remained one of space history's most beloved and tragic figures. People around the world have dogs as pets who they love as members of their own families. And even nearly 70 years after this flight, it is so heartbreaking to think of Laika on that frightening journey from which she never returned. Laika was one of many different animals that were used in early spaceflight testing. Both the U.S. and Russia launched a number of primates on flights testing early flight technology. Sadly, like Laika, many of these brave creatures did not make it back. Unbelievably, though, some did survive the journey. For example, the chimpanzee named Ham and nicknamed the "astrochimp" survived a 1961 test flight to space. Though, the team behind that flight was so unsure of how it would go that Ham didn't get his name until after it was found that he'd survived his return. Want more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube .</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/WfWqNNL9ATasBvt6Lk6QL3-1920-80.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/WfWqNNL9ATasBvt6Lk6QL3-1920-80.jpg" medium="image"/>
 </item>
 <item>
 <title>Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.</title>
@@ -521,15 +499,15 @@
 <media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-NEANDERTHAL-WOOD-01-kglw/03SCI-NEANDERTHAL-WOOD-01-kglw-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
-<title>10 asteroid mysteries that Hera will explore</title>
-<link>https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore</link>
-<guid isPermaLink="false">16d1fe94797f835bd6494d77c437fd5576b1ad509d745bab64a5f705c127d624</guid>
-<source>ESA Space News</source>
+<title>APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor</link>
+<guid isPermaLink="false">90c08f78aa09ed892a0ebc5509464df530ca9e45705b5045ce6e3ed203f261a5</guid>
+<source>NASA Breaking News</source>
 <category>science</category>
-<pubDate>Tue, 03 Nov 2026 09:30:00 +0000</pubDate>
-<description>Video: 00:07:25 Hera, the European Space Agency’s first mission for planetary defence, arrives at its target body during November, with the goal of gathering precious data on the kinetic impact method of asteroid deflection – while also solving various scientific enigmas. The small-car-sized spacecraft is headed to the 151-m-diameter Dimorphos asteroid, which orbits in turn around its 780-m Didymos parent. Dimorphos is already historic as the first object in the Solar System to have had its orbit changed by human action – when NASA’s DART spacecraft impacted it on 26 September 2022. DART’s impact caused a brightening visible from distant Earth telescopes, but nobody knows what it did to Dimorphos itself. Hera is going there to perform a close-up crash site survey, to help turn DART’s kinetic impact experiment into a well understood planetary defence deflection technique. Scientists are hoping for bonus science as well. Past spacecraft close encounters have revealed asteroids to be dynamic environments with complex histories – and many outstanding questions still to be answered. Here are 10 asteroid mysteries that Hera will explore. Read more .</description>
-<enclosure url="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/10_asteroid_mysteries_that_hera_will_explore/27597783-2-eng-GB/10_asteroid_mysteries_that_Hera_will_explore_card_full.png" type="image/jpeg"/>
-<media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/10_asteroid_mysteries_that_hera_will_explore/27597783-2-eng-GB/10_asteroid_mysteries_that_Hera_will_explore_card_full.png" medium="image"/>
+<pubDate>Tue, 03 Nov 2026 05:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and Rainbow Meteor Explanation: Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor . Comet C/2025 R3 (PanSTARRS) was captured from Hautacam , France in April when the giant space iceberg sported impressive ion (blue) and dust tails . Sand-sized rocky debris that enters Earth’s atmosphere typically appears as meteors , while the colorful foreground streak here may indicate a complicated composition. This month three notable meteor showers will reach their peaks. Over the next few days, the Southern Taurids will be reaching their apex, while the Northern Taurids will top out about a week later. Both originate from Comet 2P/Encke . November is most famous for the Leonids Meteor Shower , though, which originates from Comet 55P/Tempel-Tuttle and will reach its crescendo in about two weeks. Tomorrow’s picture: a hidden gem Date November 3, 2026 Credit &amp; Copyright Eddy Metais Authors &amp; editors: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe A service of: ASD at NASA / GSFC , NASA Science Activation &amp; Michigan Tech. U. Random APOD Generator Yesterday’s Image APOD: 2026 November 2 – A Long Cloud on Mars Tomorrow’s Image</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>New 'Star Trek: The Original Voyages' book traces the stellar legacy of the bold sci-fi brand</title>
@@ -598,17 +576,6 @@
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Muon-Fusion-cr.Oleg-Borodin-Default.webp" medium="image"/>
 </item>
 <item>
-<title>On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station</title>
-<link>https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026</link>
-<guid isPermaLink="false">eb045e589c40b318ccc071610e680fe6b25beb5758fb5b475cba292dc2d33181</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
-<description>null On Nov. 2, 2000, the International Space Station welcomed its first long-term residents: NASA astronaut Bill Shepherd and two Russian cosmonauts, Yuri Gidzenko and Sergei Krikalev. The mission was called Expedition 1. Before this expedition, NASA had launched five, one-week-long Space Shuttle missions to help build the space station and bring up supplies. But this time, the crew would be staying for four and a half months, and they weren't taking the shuttle. Instead, they took a Russian Soyuz spacecraft , and this was the first Soyuz to ever dock at the space station. During their stay at the space station, they unpacked supplies and installed new equipment, including the first solar arrays. They left on the space shuttle Discovery, which brought up the Expedition 2 crew that would take their place. Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000. (Image credit: NASA) Why it mattered As of today, there has been a continuous astronaut presence in space aboard the International Space Station for 26 years. For all of these years, not a day has gone by without someone living in space, orbiting our planet from aboard the space station. While the ISS was not the first space station, it has been the longest-running space statin by far. This first crew were pioneers, showing how humans could actually live and work aboard this station. This exploratory mission proved that the station could successfully support astronaut crews. Since this mission 26 years ago, there have been literally hundreds of astronauts from around the world who have flown to and lived aboard the ISS. While NASA has stated that the station might be decommissioned in the coming years, these accomplishments will remain forever in spaceflight history. Want more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube .</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/RzwirmhNNpEbPek9bATDg4-1920-80.png" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/RzwirmhNNpEbPek9bATDg4-1920-80.png" medium="image"/>
-</item>
-<item>
 <title>A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026</title>
 <link>https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026</link>
 <guid isPermaLink="false">47d0bb61de64f6944629f7faeb092d7448e8177fbaf7e11a50077b608b8ff022</guid>
@@ -618,6 +585,17 @@
 <description>null In this image, we can see a colorful view of an ancient, rocky Martian hill. (Image credit: NASA/JPL-Caltech/UArizona) This rainbow-hued rocky plain looks like the landscape of an alien world. And, it turns out, it is. What is it? In this image, we can see an ancient, rocky hill on Mars . In the Red Planet's Southern Highlands, this alien terrain is chock-full of minerals, which we can see clearly defined in this color-enhanced view of the region. This image was snapped by the HiRISE camera aboard NASA's Mars Reconnaissance Orbiter ( MRO ), which has been studying the planet's surface, atmosphere and climate since arriving in Martian orbit in March 2006. But this isn't exactly what the surface of the planet would look like through our eyes; the image is color-enhanced. Why would scientists take a natural-color image and turn it rainbow? Doing so enhances the slight color differences in these rocks, allowing researchers to pick out the different minerals. Why is it incredible? As pointed to above, enhancing colors in scientific images can be an incredibly useful tool for exploration. For instance, in this image, the blue- and green-toned rocks could be full of minerals like pyroxenes and olivine, according to scientists analyzing the image. And they think that the yellow, orange and red patches may contain minerals formed by past interactions with liquid water. By exploring the mineral content of rocks like this, researchers can peel back the layers of history within the Martian bedrock. The discovery of certain minerals, for example, can show that water flowed on Mars long ago, pointing to potentially habitable conditions . So, as we can see, this striking rainbow image isn't just a beautiful landscape; it's also hiding serious clues to Mars' history.</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/qrVGgKSEJE8WP8FDPfjT3h-1920-80.png" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/qrVGgKSEJE8WP8FDPfjT3h-1920-80.png" medium="image"/>
+</item>
+<item>
+<title>On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station</title>
+<link>https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026</link>
+<guid isPermaLink="false">eb045e589c40b318ccc071610e680fe6b25beb5758fb5b475cba292dc2d33181</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+<description>null On Nov. 2, 2000, the International Space Station welcomed its first long-term residents: NASA astronaut Bill Shepherd and two Russian cosmonauts, Yuri Gidzenko and Sergei Krikalev. The mission was called Expedition 1. Before this expedition, NASA had launched five, one-week-long Space Shuttle missions to help build the space station and bring up supplies. But this time, the crew would be staying for four and a half months, and they weren't taking the shuttle. Instead, they took a Russian Soyuz spacecraft , and this was the first Soyuz to ever dock at the space station. During their stay at the space station, they unpacked supplies and installed new equipment, including the first solar arrays. They left on the space shuttle Discovery, which brought up the Expedition 2 crew that would take their place. Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000. (Image credit: NASA) Why it mattered As of today, there has been a continuous astronaut presence in space aboard the International Space Station for 26 years. For all of these years, not a day has gone by without someone living in space, orbiting our planet from aboard the space station. While the ISS was not the first space station, it has been the longest-running space statin by far. This first crew were pioneers, showing how humans could actually live and work aboard this station. This exploratory mission proved that the station could successfully support astronaut crews. Since this mission 26 years ago, there have been literally hundreds of astronauts from around the world who have flown to and lived aboard the ISS. While NASA has stated that the station might be decommissioned in the coming years, these accomplishments will remain forever in spaceflight history. Want more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube .</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/RzwirmhNNpEbPek9bATDg4-1920-80.png" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/RzwirmhNNpEbPek9bATDg4-1920-80.png" medium="image"/>
 </item>
 <item>
 <title>'VisionQuest' homework guide: Everything you need to watch to understand Marvel's WandaVision follow-up</title>
@@ -651,17 +629,6 @@
 <description>There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10.</description>
 <enclosure url="https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg" medium="image"/>
-</item>
-<item>
-<title>CubeSat achieves challenging laser link to ground</title>
-<link>https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground</link>
-<guid isPermaLink="false">70833203767eaaba95664cc141a3821d683009c6809e15bf702893af7e1ebaa5</guid>
-<source>ESA Space News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 08:55:00 +0000</pubDate>
-<description>Despite it being a complex operation, ERMIS-3, an 8U CubeSat developed by the National and Kapodistrian University of Athens, has established a link with an optical ground station marking an important step in validating optical communications on small satellites. The demonstration, supported by the European Space Agency (ESA) and achieved using optical terminals developed by Lithuanian company Astrolight , happened only weeks after the satellite’s commissioning.</description>
-<enclosure url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/illustration_of_three_ermis_technology_demonstration_cubesats_in_orbit/27596682-1-eng-GB/Illustration_of_three_ERMIS_technology_demonstration_CubeSats_in_orbit_card_full.jpg" type="image/jpeg"/>
-<media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/illustration_of_three_ermis_technology_demonstration_cubesats_in_orbit/27596682-1-eng-GB/Illustration_of_three_ERMIS_technology_demonstration_CubeSats_in_orbit_card_full.jpg" medium="image"/>
 </item>
 <item>
 <title>Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)</title>
@@ -961,17 +928,6 @@
 <media:content url="https://static01.nyt.com/images/2026/10/30/science/30SCI-STEWART-APPRAISAL/30SCI-STEWART-APPRAISAL-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
-<title>What happened this month at the European Space Agency? (October 2026)</title>
-<link>https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026</link>
-<guid isPermaLink="false">95c0471cf7aaa4c6fcbbe7228271ed574134b262d86ec27778a999f462d2b106</guid>
-<source>ESA Space News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 15:00:00 +0000</pubDate>
-<description>Video: 00:04:30 October was a month of discoveries and milestones. ESA’s Rosalind Franklin rover team trained in Spain’s desert, preparing for Mars. Our Smile mission captured the full ring of northern lights around Earth, while Mars Express uncovered new clues about a giant Martian cloud. ESA astronaut Sophie Adenot returned to Earth after 237 days in space, and Hera captured its first images of the asteroids it will study to help protect our planet. Meanwhile, ESA welcomed thousands of visitors for Open Days and teamed up with Pokémon to bring space science to new audiences. Here’s a look at what space had in store for Europe this October.</description>
-<enclosure url="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_october_2026/27595875-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_October_2026_card_full.png" type="image/jpeg"/>
-<media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_october_2026/27595875-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_October_2026_card_full.png" medium="image"/>
-</item>
-<item>
 <title>'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig</title>
 <link>https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig</link>
 <guid isPermaLink="false">c92646ebe5594c8dbb6d98aa37b16684abbdfc97f7b6e280b8b05c63c7368454</guid>
@@ -1102,17 +1058,6 @@
 <description>Reid Wiseman, now a retired emeritus astronaut, will become deputy director of the Jet Propulsion Laboratory, NASA’s premier center for deep-space robotic missions.</description>
 <enclosure url="https://static01.nyt.com/images/2026/10/28/multimedia/28sci-nasa-wiseman-kfhp/28sci-nasa-wiseman-kfhp-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/10/28/multimedia/28sci-nasa-wiseman-kfhp/28sci-nasa-wiseman-kfhp-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb</title>
-<link>https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb</link>
-<guid isPermaLink="false">e0d9543d681c95d920ecaf13ff622735369fa169a84fddd29b5fc3530a441395</guid>
-<source>ESA Space News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
-<description>The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head Nebula, which reflects the 'magical'' process of star formation. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar and hints of young forming stars, while Webb’s infrared-light imagery unveils many stars and other hidden details.</description>
-<enclosure url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg" type="image/jpeg"/>
-<media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg" medium="image"/>
 </item>
 <item>
 <title>How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material</title>
@@ -1465,16 +1410,5 @@
 <description>A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" medium="image"/>
-</item>
-<item>
-<title>εpsilon</title>
-<link>https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon</link>
-<guid isPermaLink="false">aea85f33577bc10203a9d782befd6d4caf10c0668ac7989fa0c3a5789ed7dc9f</guid>
-<source>ESA Space News</source>
-<category>science</category>
-<pubDate>Wed, 21 Jan 2026 12:54:00 +0000</pubDate>
-<description>εpsilon</description>
-<enclosure url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/epsilon_website/27067642-5-eng-GB/Epsilon_website_card_full.jpg" type="image/jpeg"/>
-<media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/epsilon_website/27067642-5-eng-GB/Epsilon_website_card_full.jpg" medium="image"/>
 </item>
 </channel></rss>

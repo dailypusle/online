@@ -624,24 +624,23 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     question = question.trim(); if (!question || send.disabled) return;
     addUserMessage(question);
     const priorHistory = history.slice(-8);
+    history.push({ role: 'user', content: question });
     input.value = ''; resizeChatInput(); send.disabled = true;
     const typing = document.createElement('div'); typing.className = 'dp-chat-typing'; typing.textContent = 'DailyPulse Assistant is thinking…'; chatBody.appendChild(typing); chatBody.scrollTop = chatBody.scrollHeight;
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 180000);
     try {
       const response = await fetch(CHAT_API_URL, {
-        method: 'POST', mode: 'cors', cache: 'no-store', credentials: 'omit',
-        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: question, history: priorHistory }), signal: controller.signal
       });
       const data = await response.json().catch(() => ({}));
       if (!response.ok) throw new Error(data.error || data.details || `Request failed (${response.status})`);
       const answer = data.answer || 'I could not prepare an answer. Please try again.';
       renderAnswer(answer, data.sources);
-      history.push({ role: 'user', text: question });
-      history.push({ role: 'model', text: answer });
+      history.push({ role: 'assistant', content: answer });
     } catch (error) {
-      const message = error.name === 'AbortError' ? 'The request took too long. Please try again.' : (error instanceof TypeError ? 'The browser could not reach the Assistant Worker. Check the Worker CORS SITE_ORIGIN setting and confirm it matches this website address exactly.' : (error.message || 'Connection problem. Please try again.'));
+      const message = error.name === 'AbortError' ? 'The request took too long. Please try again.' : (error.message || 'Connection problem. Please try again.');
       renderAnswer('Sorry, I could not complete that request. ' + message);
     } finally {
       clearTimeout(timeout); typing.remove(); send.disabled = false; input.focus();
@@ -678,7 +677,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     window.matchMedia('(display-mode: standalone)').matches ||
     window.navigator.standalone === true;
 
-  if (isStandalone()) {
+  if (isStandalone) {
     installButton.hidden = true;
     return;
   }
@@ -763,18 +762,9 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
   const supported = "Notification" in window && "serviceWorker" in navigator && "PushManager" in window;
 
   function showPrompt() {
-    if (!supported || localStorage.getItem(SUBSCRIBED) === "yes") return;
-    // A previous "Maybe Later" click must not hide the prompt permanently.
-    // Hide it only for the current browser tab/session.
-    if (sessionStorage.getItem(DISMISSED) === "yes") return;
-    if (Notification.permission === "granted") return;
-
+    if (!supported || Notification.permission !== "default") return;
+    if (localStorage.getItem(DISMISSED) === "yes" || localStorage.getItem(SUBSCRIBED) === "yes") return;
     overlay.style.display = "flex";
-
-    if (Notification.permission === "denied") {
-      statusBox.textContent = "Notifications are blocked in your browser. Open this site's browser permissions and change Notifications to Allow.";
-      allowButton.textContent = "Check Notification Settings";
-    }
   }
 
   function base64UrlToBytes(value) {
@@ -792,7 +782,6 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     allowButton.textContent = "Enabling…";
 
     // The browser permission prompt is shown only after the visitor taps this button.
-    if (Notification.permission === "denied") throw new Error("Notifications are blocked for this website. Open your browser site settings, set Notifications to Allow, then reload DailyPulse.");
     const permission = await Notification.requestPermission();
     if (permission !== "granted") throw new Error("Notification permission was not granted.");
 
@@ -800,8 +789,8 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     const registration = await navigator.serviceWorker.register("./sw.js", { scope: "./" });
     await navigator.serviceWorker.ready;
 
-    const keyResponse = await fetch(WORKER_URL.replace(/\/$/, "") + "/vapid-public-key", { method: "GET", mode: "cors", cache: "no-store", credentials: "omit", headers: { "Accept": "application/json" } });
-    if (!keyResponse.ok) throw new Error("Notification Worker returned HTTP " + keyResponse.status + ". Check its VAPID_PUBLIC_KEY setting.");
+    const keyResponse = await fetch(WORKER_URL.replace(/\/$/, "") + "/vapid-public-key");
+    if (!keyResponse.ok) throw new Error("Could not contact the DailyPulse notification service.");
     const keyData = await keyResponse.json();
     if (!keyData.publicKey) throw new Error("Cloudflare did not return a push public key.");
 
@@ -814,12 +803,12 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     }
 
     const saveResponse = await fetch(WORKER_URL.replace(/\/$/, "") + "/subscribe", {
-      method: "POST", mode: "cors", cache: "no-store", credentials: "omit",
-      headers: { "Content-Type": "application/json", "Accept": "application/json" },
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ subscription })
     });
     const result = await saveResponse.json().catch(() => ({}));
-    if (!saveResponse.ok) throw new Error(result.error || ("Notification Worker returned HTTP " + saveResponse.status + " while saving the subscription."));
+    if (!saveResponse.ok) throw new Error(result.error || "Your subscription could not be saved.");
 
     localStorage.setItem(SUBSCRIBED, "yes");
     localStorage.removeItem(DISMISSED);
@@ -844,7 +833,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
   });
 
   laterButton.addEventListener("click", () => {
-    sessionStorage.setItem(DISMISSED, "yes");
+    localStorage.setItem(DISMISSED, "yes");
     overlay.style.display = "none";
   });
 

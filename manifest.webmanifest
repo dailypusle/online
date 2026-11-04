@@ -1,29 +1,26 @@
 {
-  "id": "./",
+  "id": "/online/",
   "name": "DailyPulse \u2014 Latest News",
   "short_name": "DailyPulse",
   "description": "News that keeps you in the know.",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/online/",
+  "scope": "/online/",
   "display": "standalone",
   "background_color": "#f8fbff",
   "theme_color": "#087cf0",
-  "orientation": "any",
   "icons": [
     {
-      "src": "icons/dailypulse-192.png",
+      "src": "/online/icons/dailypulse-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
-      "src": "icons/dailypulse-512.png",
+      "src": "/online/icons/dailypulse-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
-      "src": "icons/dailypulse-maskable-512.png",
+      "src": "/online/icons/dailypulse-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

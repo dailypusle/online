@@ -204,7 +204,148 @@ main{padding:16px 14px 32px}
 .dp-message-action:disabled{opacity:.6;cursor:default}
 </style>
 </head>
+<body>
+<header>
+  <div class="header-inner">
+    <a class="brand" href="./" aria-label="DailyPulse home">
+      <span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 48 48" fill="none"><path d="M5 25h9l5-12 8 24 6-15 4 3h6" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+      <span class="brand-name">Daily<span>Pulse</span></span>
+    </a>
+    <nav class="nav" id="main-nav" aria-label="Main navigation">
+      <a href="#news" class="active" data-nav-category="top">Top Stories</a>
+      <a href="#news" data-nav-category="world">World</a>
+      <a href="#news" data-nav-category="business">Business</a>
+      <a href="#news" data-nav-category="technology">Technology</a>
+      <a href="#news" data-nav-category="sports">Sports</a>
+    </nav>
+    <div class="header-actions">
+      <button class="install-app" id="install-app" type="button" hidden>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg>
+        <span>Install app</span>
+      </button>
+      <button class="refresh" id="refresh" type="button">Refresh</button>
+      <button class="menu-toggle" id="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="main-nav">☰</button>
+    </div>
+  </div>
+  <div class="crypto-ticker" aria-label="Live cryptocurrency prices">
+    <div class="crypto-ticker-track" id="crypto-ticker-track"><span class="crypto-ticker-status">Loading crypto prices…</span></div>
+  </div>
+</header>
 
+<main>
+  <div class="categories" id="categories" role="group" aria-label="News categories">
+    <button class="category" type="button" data-category="top" aria-pressed="true">Top Stories</button>
+    <button class="category" type="button" data-category="world" aria-pressed="false">World</button>
+    <button class="category" type="button" data-category="business" aria-pressed="false">Business</button>
+    <button class="category" type="button" data-category="technology" aria-pressed="false">Technology</button>
+    <button class="category" type="button" data-category="sports" aria-pressed="false">Sports</button>
+  </div>
+  <p id="status" role="status" aria-live="polite">Loading news…</p>
+  <section id="news" aria-label="News stories"></section>
+</main>
+
+<footer><strong>DailyPulse</strong> — News that keeps you in the know. Headlines are sourced from their original publishers.</footer>
+
+<!-- DailyPulse Assistant -->
+<button id="dp-chat-launcher" type="button" aria-label="Open DailyPulse Assistant" aria-expanded="false" aria-controls="dp-chat-panel">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12Z"/><path d="M8.5 11h.01M12 11h.01M15.5 11h.01"/></svg>
+</button>
+<div id="dp-chat-panel" role="dialog" aria-label="DailyPulse Assistant">
+  <div class="dp-chat-head">
+    <div class="dp-chat-logo" aria-hidden="true"><svg viewBox="0 0 48 48" fill="none"><path d="M5 25h9l5-12 8 24 6-15 4 3h6" stroke="#087cf0" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+    <div class="dp-chat-head-copy"><strong>DailyPulse Assistant</strong><span>Ask about the news</span></div>
+    <button class="dp-chat-close" id="dp-chat-close" type="button" aria-label="Close assistant">×</button>
+  </div>
+  <div class="dp-chat-body" id="dp-chat-body" aria-live="polite">
+    <div class="dp-chat-welcome">
+      <div class="dp-chat-avatar" aria-hidden="true">✦</div>
+      <div class="dp-chat-bubble"><p>Hi! I'm the DailyPulse Assistant. Ask me about today's headlines, or tap <strong>Ask AI</strong> on any story for a quick explanation.</p></div>
+    </div>
+    <div class="dp-chat-suggestions">
+      <button class="dp-chat-suggestion" type="button">What are the top stories today?</button>
+      <button class="dp-chat-suggestion" type="button">Summarize the latest business news</button>
+      <button class="dp-chat-suggestion" type="button">What's happening in technology?</button>
+    </div>
+  </div>
+  <form class="dp-chat-compose" id="dp-chat-form" autocomplete="off">
+    <textarea class="dp-chat-input" id="dp-chat-input" rows="1" placeholder="Ask DailyPulse Assistant…" aria-label="Your message"></textarea>
+    <button class="dp-chat-send" id="dp-chat-send" type="submit" aria-label="Send message">➤</button>
+  </form>
+  <div class="dp-chat-foot">Powered by <b>DailyPulse AI</b> · Answers may contain errors</div>
+</div>
+
+<!-- DailyPulse push-notification opt-in (markup + styles) -->
+<style>
+#dp-notify-overlay{position:fixed;inset:0;z-index:2000;display:none;align-items:center;justify-content:center;padding:20px;background:rgba(8,24,48,.58);backdrop-filter:blur(4px)}
+#dp-notify-card{width:min(410px,100%);padding:26px 23px 20px;background:#fff;border:1px solid #dceafa;border-radius:22px;box-shadow:0 22px 70px rgba(10,48,92,.28);text-align:center;color:#10284e}
+#dp-notify-logo{width:62px;height:62px;margin:0 auto 14px;border-radius:19px;display:grid;place-items:center;background:linear-gradient(135deg,#0796ff,#1455ed);box-shadow:0 6px 16px #087cf033}
+#dp-notify-logo svg{width:39px;height:39px}
+#dp-notify-card h2{font-size:22px;line-height:1.25;margin:0 0 9px;font-weight:850;letter-spacing:-.4px}
+#dp-notify-card p{font-size:14px;line-height:1.6;color:#667c99;margin:0 0 19px}
+#dp-notify-allow{width:100%;border:0;border-radius:12px;padding:14px 16px;background:linear-gradient(135deg,#087cf0,#075ed1);color:#fff;font-weight:800;font-size:15px;box-shadow:0 5px 14px #087cf033}
+#dp-notify-allow:disabled{opacity:.65;cursor:wait}
+#dp-notify-later{width:100%;border:0;background:transparent;color:#667c99;font-weight:700;padding:12px 8px 4px}
+#dp-notify-status{min-height:18px;margin-top:9px;color:#b42318;font-size:12px;line-height:1.4}
+</style>
+<div id="dp-notify-overlay" role="dialog" aria-modal="true" aria-labelledby="dp-notify-title">
+  <div id="dp-notify-card">
+    <div id="dp-notify-logo" aria-hidden="true">
+      <svg viewBox="0 0 48 48" fill="none"><path d="M5 25h9l5-12 8 24 6-15 4 3h6" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </div>
+    <h2 id="dp-notify-title">Stay ahead with DailyPulse</h2>
+    <p>Get one important top story delivered to your phone every morning at 9:00 AM. You can turn alerts off anytime in your browser settings.</p>
+    <button id="dp-notify-allow" type="button">Allow Notifications</button>
+    <button id="dp-notify-later" type="button">Maybe Later</button>
+    <div id="dp-notify-status" role="status" aria-live="polite"></div>
+  </div>
+</div>
+
+<script>
+(() => {
+  "use strict";
+  const newsEl = document.getElementById("news");
+  const statusEl = document.getElementById("status");
+  const refreshBtn = document.getElementById("refresh");
+  const categoryButtons = Array.from(document.querySelectorAll(".category"));
+  const navLinks = Array.from(document.querySelectorAll("[data-nav-category]"));
+  let selectedCategory = "top";
+  let loading = false;
+
+  function textOf(item, name) {
+    const node = Array.from(item.children || []).find(el => el.localName === name);
+    return node ? (node.textContent || "").trim() : "";
+  }
+
+  function safeHttpUrl(value) {
+    try {
+      const url = new URL(String(value || "").trim());
+      return url.protocol === "http:" || url.protocol === "https:" ? url.href : "";
+    } catch { return ""; }
+  }
+
+  function findImage(item) {
+    const kids = Array.from(item.children || []);
+    for (const el of kids) {
+      const name = el.localName;
+      const type = (el.getAttribute("type") || "").toLowerCase();
+      const medium = (el.getAttribute("medium") || "").toLowerCase();
+      if ((name === "content" || name === "thumbnail") && (name === "thumbnail" || medium === "image" || type.startsWith("image/") || !type)) {
+        const u = safeHttpUrl(el.getAttribute("url"));
+        if (u) return u;
+      }
+      if (name === "enclosure" && type.startsWith("image/")) {
+        const u = safeHttpUrl(el.getAttribute("url"));
+        if (u) return u;
+      }
+    }
+    const html = textOf(item, "encoded") + " " + textOf(item, "description");
+    const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+    return match ? safeHttpUrl(match[1]) : "";
+  }
+
+  function makeStory(item) {
+    const title = textOf(item, "title");
+    if (!title) return null;
       const link = safeHttpUrl(textOf(item, "link"));
       if (!link) return null;
 
@@ -346,6 +487,7 @@ main{padding:16px 14px 32px}
         categoryButtons.forEach(item =>
           item.setAttribute("aria-pressed", String(item === button))
         );
+        navLinks.forEach(a => a.classList.toggle("active", a.dataset.navCategory === selectedCategory));
         loadNews();
       });
     });
@@ -353,6 +495,15 @@ main{padding:16px 14px 32px}
     refreshBtn.addEventListener("click", loadNews);
     loadNews();
     setInterval(loadNews, 5 * 60 * 1000);
+
+    function selectCategory(name) {
+      selectedCategory = name;
+      categoryButtons.forEach(b => b.setAttribute("aria-pressed", String(b.dataset.category === name)));
+      navLinks.forEach(a => a.classList.toggle("active", a.dataset.navCategory === name));
+      loadNews();
+    }
+    navLinks.forEach(a => a.addEventListener("click", () => selectCategory(a.dataset.navCategory)));
+  })();
   </script>
 <script>
 const menuToggle=document.getElementById('menu-toggle');const mainNav=document.getElementById('main-nav');
@@ -384,12 +535,166 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     return '<span class="crypto-ticker-item"><span class="crypto-ticker-icon">'+coin.icon+'</span><span class="crypto-ticker-symbol">'+coin.symbol+'</span><span class="crypto-ticker-price">'+price(info.usd)+'</span><span class="crypto-ticker-change '+(valid?(up?'up':'down'):'')+'">'+changeText+'</span></span>';
   }
   async function update(){
-            setTimeout(() => {
-          copyButton.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h3"/></svg>';
-        }, 1500);
+    try{
+      const ids=coins.map(c=>c.id).join(',');
+      const res=await fetch('https://api.coingecko.com/api/v3/simple/price?ids='+ids+'&vs_currencies=usd&include_24hr_change=true',{cache:'no-store'});
+      if(!res.ok)throw new Error('CoinGecko returned HTTP '+res.status);
+      const data=await res.json();
+      const html=coins.map(c=>makeItem(c,data)).join('');
+      if(!html)throw new Error('No prices returned');
+      // Duplicate the content so the -50% translate animation loops seamlessly.
+      track.innerHTML=html+html;
+    }catch(error){
+      console.warn('Crypto ticker update failed:',error);
+      if(!track.querySelector('.crypto-ticker-item')){
+        track.innerHTML='<span class="crypto-ticker-status">Crypto prices are temporarily unavailable.</span>';
+      }
+    }
+  }
+  update();
+  setInterval(update,60000);
+})();
+</script>
+<script>
+/* DailyPulse Assistant */
+(() => {
+  // TODO: set this to your DailyPulse Assistant endpoint (the Worker that answers chat questions).
+  // It must accept POST {message, history} and return {answer, sources?}.
+  const CHAT_API_URL = "PASTE_YOUR_ASSISTANT_API_URL_HERE";
+
+  const history = [];
+  const launcher = document.getElementById('dp-chat-launcher');
+  const panel = document.getElementById('dp-chat-panel');
+  const closeBtn = document.getElementById('dp-chat-close');
+  const chatBody = document.getElementById('dp-chat-body');
+  const form = document.getElementById('dp-chat-form');
+  const input = document.getElementById('dp-chat-input');
+  const send = document.getElementById('dp-chat-send');
+
+  const COPY_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h3"/></svg>';
+  const CHECK_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>';
+
+  function toggle(forceOpen) {
+    const open = typeof forceOpen === 'boolean' ? forceOpen : !panel.classList.contains('open');
+    panel.classList.toggle('open', open);
+    launcher.setAttribute('aria-expanded', String(open));
+    if (open) { setTimeout(() => input.focus(), 50); chatBody.scrollTop = chatBody.scrollHeight; }
+    else if ('speechSynthesis' in window) speechSynthesis.cancel();
+  }
+
+  function resizeChatInput() {
+    input.style.height = 'auto';
+    input.style.height = Math.min(input.scrollHeight, 180) + 'px';
+  }
+
+  function escapeHtml(value) {
+    return String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function inlineMarkdown(text) {
+    // text is already HTML-escaped; only safe http(s) links are emitted.
+    return text
+      .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
+      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/(^|[^*])\*([^*\s][^*]*)\*(?!\*)/g, '$1<em>$2</em>');
+  }
+
+  function markdownToHtml(markdown) {
+    const lines = String(markdown).replace(/\r\n?/g, '\n').split('\n');
+    const out = [];
+    let list = null, para = [];
+    const flushPara = () => { if (para.length) { out.push('<p>' + inlineMarkdown(escapeHtml(para.join(' '))) + '</p>'); para = []; } };
+    const flushList = () => { if (list) { out.push('</' + list + '>'); list = null; } };
+    for (const raw of lines) {
+      const line = raw.trimEnd();
+      let m;
+      if (!line.trim()) { flushPara(); flushList(); continue; }
+      if (/^\s*(-{3,}|\*{3,})\s*$/.test(line)) { flushPara(); flushList(); out.push('<hr>'); continue; }
+      if ((m = line.match(/^#{1,6}\s+(.*)$/))) { flushPara(); flushList(); out.push('<h3>' + inlineMarkdown(escapeHtml(m[1])) + '</h3>'); continue; }
+      if ((m = line.match(/^\s*[-*•]\s+(.*)$/))) {
+        flushPara(); if (list !== 'ul') { flushList(); out.push('<ul>'); list = 'ul'; }
+        out.push('<li>' + inlineMarkdown(escapeHtml(m[1])) + '</li>'); continue;
+      }
+      if ((m = line.match(/^\s*\d+[.)]\s+(.*)$/))) {
+        flushPara(); if (list !== 'ol') { flushList(); out.push('<ol>'); list = 'ol'; }
+        out.push('<li>' + inlineMarkdown(escapeHtml(m[1])) + '</li>'); continue;
+      }
+      flushList(); para.push(line.trim());
+    }
+    flushPara(); flushList();
+    return out.join('');
+  }
+
+  function renderAnswer(answer, sources) {
+    const row = document.createElement('div');
+    row.className = 'dp-chat-message assistant';
+
+    const avatar = document.createElement('div');
+    avatar.className = 'dp-chat-avatar';
+    avatar.setAttribute('aria-hidden', 'true');
+    avatar.textContent = '✦';
+
+    const responseContent = document.createElement('div');
+    responseContent.className = 'dp-chat-response-content';
+
+    const bubble = document.createElement('div');
+    bubble.className = 'dp-chat-bubble';
+    bubble.innerHTML = markdownToHtml(answer);
+
+    const valid = (Array.isArray(sources) ? sources : []).map(s => {
+      const url = typeof s === 'string' ? s : (s && (s.url || s.link));
+      try {
+        const u = new URL(url);
+        if (u.protocol !== 'http:' && u.protocol !== 'https:') return null;
+        return { url: u.href, title: (s && s.title) || u.hostname.replace(/^www\./, ''), publisher: (s && (s.source || s.publisher)) || u.hostname.replace(/^www\./, '') };
+      } catch { return null; }
+    }).filter(Boolean);
+
+    if (valid.length) {
+      const box = document.createElement('div');
+      box.className = 'dp-chat-sources';
+      const heading = document.createElement('div');
+      heading.className = 'dp-chat-sources-title';
+      heading.textContent = 'Sources';
+      box.appendChild(heading);
+      valid.slice(0, 5).forEach(s => {
+        const item = document.createElement('div');
+        item.className = 'dp-chat-source';
+        const a = document.createElement('a');
+        a.href = s.url; a.target = '_blank'; a.rel = 'noopener noreferrer'; a.textContent = s.title;
+        const small = document.createElement('small');
+        small.textContent = s.publisher;
+        item.append(a, small);
+        box.appendChild(item);
+      });
+      bubble.appendChild(box);
+    }
+
+    responseContent.appendChild(bubble);
+    row.append(avatar, responseContent);
+
+    if (window.MathJax && typeof window.MathJax.typesetPromise === 'function') {
+      window.MathJax.typesetPromise([bubble]).catch(() => {});
+    }
+
+    const actions = document.createElement('div');
+    actions.className = 'dp-message-actions';
+
+    const copyButton = document.createElement('button');
+    copyButton.type = 'button';
+    copyButton.className = 'dp-message-action dp-copy-button';
+    copyButton.title = 'Copy response';
+    copyButton.setAttribute('aria-label', 'Copy response');
+    copyButton.innerHTML = COPY_ICON;
+    copyButton.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(bubble.innerText);
+        copyButton.innerHTML = CHECK_ICON;
+        setTimeout(() => { copyButton.innerHTML = COPY_ICON; }, 1500);
       } catch (error) {
         console.warn('Copy failed:', error);
         copyButton.textContent = '!';
+        setTimeout(() => { copyButton.innerHTML = COPY_ICON; }, 1500);
       }
     });
 
@@ -399,6 +704,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     speakButton.title = 'Read response aloud';
     speakButton.setAttribute('aria-label', 'Read response aloud');
     speakButton.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></svg>';
+    const resetSpeak = () => { speakButton.title = 'Read response aloud'; speakButton.setAttribute('aria-label', 'Read response aloud'); };
     speakButton.addEventListener('click', () => {
       if (!('speechSynthesis' in window)) {
         speakButton.title = 'Speech is not supported by this browser';
@@ -406,16 +712,18 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
       }
       if (speechSynthesis.speaking) {
         speechSynthesis.cancel();
-        speakButton.title = 'Read response aloud';
+        resetSpeak();
         return;
       }
       const utterance = new SpeechSynthesisUtterance(bubble.innerText);
       utterance.lang = 'en-US';
       utterance.rate = 1;
-      utterance.onend = () => { speakButton.title = 'Read response aloud'; };
+      utterance.onend = resetSpeak;
+      utterance.onerror = resetSpeak;
       speechSynthesis.cancel();
       speechSynthesis.speak(utterance);
       speakButton.title = 'Stop reading';
+      speakButton.setAttribute('aria-label', 'Stop reading');
     });
 
     actions.append(copyButton, speakButton);
@@ -452,6 +760,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     chatBody.scrollTop = chatBody.scrollHeight;
 
     try {
+      if (CHAT_API_URL.includes('PASTE_YOUR')) throw new Error('The assistant service URL has not been configured yet.');
       const controller = new AbortController();
       const timeout = setTimeout(() => controller.abort(), 45000);
 
@@ -517,12 +826,29 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
   document.querySelectorAll('.dp-chat-suggestion').forEach(button => {
     button.addEventListener('click', () => ask(button.textContent.trim()));
   });
+
+  launcher.addEventListener('click', () => toggle());
+  closeBtn.addEventListener('click', () => toggle(false));
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && panel.classList.contains('open')) toggle(false); });
+  input.addEventListener('input', resizeChatInput);
+  input.addEventListener('keydown', e => {
+    if (e.key === 'Enter' && !e.shiftKey && !e.isComposing) { e.preventDefault(); form.requestSubmit(); }
+  });
 })();
 </script>
 
 <script>
 /* DailyPulse PWA installation */
 (() => {
+  // Register the service worker first so it also runs in installed (standalone) mode.
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js').catch(error =>
+        console.warn('DailyPulse service worker registration failed:', error)
+      );
+    });
+  }
+
   const installButton = document.getElementById('install-app');
   if (!installButton) return;
   let installPrompt = null;
@@ -566,45 +892,8 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     installButton.hidden = true;
     installPrompt = null;
   });
-
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('./sw.js').catch(error =>
-        console.warn('DailyPulse service worker registration failed:', error)
-      );
-    });
-  }
 })();
 </script>
-
-<!-- DailyPulse push-notification opt-in -->
-<style>
-#dp-notify-overlay{position:fixed;inset:0;z-index:2000;display:none;align-items:center;justify-content:center;padding:20px;background:rgba(8,24,48,.58);backdrop-filter:blur(4px)}
-#dp-notify-card{width:min(410px,100%);padding:26px 23px 20px;background:#fff;border:1px solid #dceafa;border-radius:22px;box-shadow:0 22px 70px rgba(10,48,92,.28);text-align:center;color:#10284e}
-#dp-notify-logo{width:62px;height:62px;margin:0 auto 14px;border-radius:19px;display:grid;place-items:center;background:linear-gradient(135deg,#0796ff,#1455ed);box-shadow:0 6px 16px #087cf033}
-#dp-notify-logo svg{width:39px;height:39px}
-#dp-notify-card h2{font-size:22px;line-height:1.25;margin:0 0 9px;font-weight:850;letter-spacing:-.4px}
-#dp-notify-card p{font-size:14px;line-height:1.6;color:#667c99;margin:0 0 19px}
-#dp-notify-allow{width:100%;border:0;border-radius:12px;padding:14px 16px;background:linear-gradient(135deg,#087cf0,#075ed1);color:#fff;font-weight:800;font-size:15px;box-shadow:0 5px 14px #087cf033}
-#dp-notify-allow:disabled{opacity:.65;cursor:wait}
-#dp-notify-later{width:100%;border:0;background:transparent;color:#667c99;font-weight:700;padding:12px 8px 4px}
-#dp-notify-status{min-height:18px;margin-top:9px;color:#b42318;font-size:12px;line-height:1.4}
-</style>
-
-<div id="dp-notify-overlay" role="dialog" aria-modal="true" aria-labelledby="dp-notify-title">
-  <div id="dp-notify-card">
-    <div id="dp-notify-logo" aria-hidden="true">
-      <svg viewBox="0 0 48 48" fill="none">
-        <path d="M5 25h9l5-12 8 24 6-15 4 3h6" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg>
-    </div>
-    <h2 id="dp-notify-title">Stay ahead with DailyPulse</h2>
-    <p>Get one important top story delivered to your phone every morning at 9:00 AM. You can turn alerts off anytime in your browser settings.</p>
-    <button id="dp-notify-allow" type="button">Allow Notifications</button>
-    <button id="dp-notify-later" type="button">Maybe Later</button>
-    <div id="dp-notify-status" role="status" aria-live="polite"></div>
-  </div>
-</div>
 
 <script>
 (() => {
@@ -613,6 +902,11 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
   const allowButton = document.getElementById("dp-notify-allow");
   const laterButton = document.getElementById("dp-notify-later");
   const statusBox = document.getElementById("dp-notify-status");
+  const store = {
+    get(key) { try { return localStorage.getItem(key); } catch { return null; } },
+    set(key, value) { try { store.set(key, value); } catch {} },
+    remove(key) { try { store.remove(key); } catch {} }
+  };
   const DISMISSED = "dailypulse-notification-prompt-dismissed";
   const SUBSCRIBED = "dailypulse-notifications-enabled";
 
@@ -622,8 +916,8 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
 
   function showPrompt() {
     if (!supported || Notification.permission !== "default") return;
-    if (localStorage.getItem(DISMISSED) === "yes" ||
-        localStorage.getItem(SUBSCRIBED) === "yes") return;
+    if (store.get(DISMISSED) === "yes" ||
+        store.get(SUBSCRIBED) === "yes") return;
     overlay.style.display = "flex";
   }
 
@@ -678,8 +972,8 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
       throw new Error(result.error || "Your subscription could not be saved.");
     }
 
-    localStorage.setItem(SUBSCRIBED, "yes");
-    localStorage.removeItem(DISMISSED);
+    store.set(SUBSCRIBED, "yes");
+    store.remove(DISMISSED);
     overlay.style.display = "none";
 
     await registration.showNotification("DailyPulse alerts enabled", {
@@ -702,7 +996,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
   });
 
   laterButton.addEventListener("click", () => {
-    localStorage.setItem(DISMISSED, "yes");
+    store.set(DISMISSED, "yes");
     overlay.style.display = "none";
   });
 

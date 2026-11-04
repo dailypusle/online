@@ -4,26 +4,70 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Election 2026 live updates: Preliminary Voter Poll shows Trump, economy disapproval</title>
+<title>Election 2026 live results: Democratic Sen. Ossoff projected to win reelection in GA</title>
 <link>https://abcnews.com/Politics/live-updates/midterm-elections-live-updates?id=137782085</link>
 <guid isPermaLink="false">5ef8e278710b838550acd8983c641718423a25411923f3444581fac9fd0f71b7</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Tue, 03 Nov 2026 23:45:47 +0000</pubDate>
-<description>Preliminary Voter Poll data is in for the high-stakes midterm elections.</description>
+<pubDate>Wed, 04 Nov 2026 01:07:19 +0000</pubDate>
+<description>Ossoff is projected to win over his opponent, Republican Mike Collins.</description>
 <enclosure url="https://s.abcnews.com/images/US/elxn-37-gty-gmh-261103_1793748845342_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/elxn-37-gty-gmh-261103_1793748845342_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>DOJ ramps up probe of Alaska Senate race with target letters, new subpoenas: Sources</title>
-<link>https://abcnews.com/US/doj-ramps-probe-alaska-senate-race-target-letters/story?id=137819400</link>
-<guid isPermaLink="false">d00a6092039f9f38caf71e4c5cd6dc760a043c55538dc6a99226fd1b8d4d2982</guid>
+<title>Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins</title>
+<link>https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins</link>
+<guid isPermaLink="false">4080556e6162cfe0d52fd4638095cf992caec0207ba9d09318f836daeb16f603</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Wed, 04 Nov 2026 00:55:57 +0000</pubDate>
+<description>A year ago, the Georgia Senate race was considered one of the cycle's marquee Senate showdowns. In the end, Ossoff easily defeated Collins. (Image credit: Ryan Murphy)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F9b%2F5f0048314f919a511997c05131ff%2Fap26304584937038.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F9b%2F5f0048314f919a511997c05131ff%2Fap26304584937038.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Election Day draws millions of Americans to the polls</title>
+<link>https://abcnews.com/video/137823497</link>
+<guid isPermaLink="false">01ccffb83de02118a6b9e5eca4e174f6db3584d5129d64d53d23fb787cd4e5e6</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Tue, 03 Nov 2026 23:39:42 +0000</pubDate>
-<description>The DOJ has continued moving at an aggressive clip in ramping up its criminal investigation into the Alaska U.S. Senate race, sources tell ABC News.</description>
-<enclosure url="https://s.abcnews.com/images/US/sullivan-gty-gmh-261103_1793730759596_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/sullivan-gty-gmh-261103_1793730759596_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Wed, 04 Nov 2026 00:27:17 +0000</pubDate>
+<description>Americans from Michigan to Maine, Texas to Kansas lined up to make their voices heard on Pres. Trump’s policies and which party will control Congress.</description>
+<enclosure url="https://s.abcnews.com/images/WNT/261103_wn_bruce_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/WNT/261103_wn_bruce_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>TAKEOVER - LINK - 2024 ELEX MAP</title>
+<link>https://abcnews.comhttps://abcnews.com/widgets/nationalMap?display=inline&amp;chamber=senate&amp;year=2026&amp;source=takeover&amp;header=National_Map_Results&amp;isTakeOver=true&amp;disableInteraction=true</link>
+<guid isPermaLink="false">3b620875b693f2adc0d1d3d57e05f8c229af7004058097d5bef1e14ca448d126</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 04 Nov 2026 00:09:22 +0000</pubDate>
+<description></description>
+<enclosure url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: What happens to the president's agenda if Democrats win Congress?</title>
+<link>https://abcnews.com/video/137825049</link>
+<guid isPermaLink="false">d84111415c49b68dc648ad7ea7bd7d249fa698e9030255c3363694a0b9583c31</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 04 Nov 2026 00:00:05 +0000</pubDate>
+<description>ABC News political contributors Sonny Joy Nelson, a Republican strategist, and Cristina Tzintzún Ramirez, a Democratic strategist, share more.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/261103_abcnl_searched_spiral_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/261103_abcnl_searched_spiral_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>US democracy, Trump fatigue, cost of living are top issues with voters, AP survey finds</title>
+<link>https://www.france24.com/en/americas/20261103-trump-fatigue-cost-of-living-and-corruption-are-top-issues-with-us-voters-ap-survey-finds</link>
+<guid isPermaLink="false">3e32ae379c3327a3860a3e4f3c8a68d087ad85db328e80dcea0d2d3a9f6e6617</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Tue, 03 Nov 2026 23:46:02 +0000</pubDate>
+<description>Roughly 6 in 10 voters deeply disapprove of US President Donald Trump's presidency, according to an AP survey released Tuesday. About 4 in 10 say the economy is the most important issue while 3 in 10 say the state of US democracy is of primary concern – well above the number that rated crime or immigration as most important.</description>
+<enclosure url="https://s.france24.com/media/display/8f173e06-d7d6-11f1-a16f-a575454bc579/w:1024/p:16x9/Vote.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/8f173e06-d7d6-11f1-a16f-a575454bc579/w:1024/p:16x9/Vote.jpg" medium="image"/>
 </item>
 <item>
 <title>Billionaire tax: What to know about California's Prop 40</title>
@@ -114,17 +158,6 @@
 <media:content url="https://s.france24.com/media/display/360b5014-d7cb-11f1-a00a-d18c5759e759/w:1024/p:16x9/DL00006210-VOD-00023658-01.jpg" medium="image"/>
 </item>
 <item>
-<title>TAKEOVER - LINK - 2024 ELEX MAP</title>
-<link>https://abcnews.comhttps://abcnews.com/widgets/nationalMap?display=inline&amp;chamber=senate&amp;year=2026&amp;source=takeover&amp;header=National_Map_Results&amp;isTakeOver=true</link>
-<guid isPermaLink="false">bc24bf4ff0187e17b4e3bd88b76bd3b190dc116f25b64c968b643c301072baeb</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 03 Nov 2026 21:09:52 +0000</pubDate>
-<description></description>
-<enclosure url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Trump promised a 'Golden Age'. What has he delivered at home?</title>
 <link>https://www.france24.com/en/tv-shows/truth-or-fake/20261103-trump-promised-a-golden-age-what-has-he-delivered-at-home</link>
 <guid isPermaLink="false">6d5c9fabcb75b2e6fe3478d1c27173a1183d762ae8239bbb08fd3625e47200c6</guid>
@@ -167,17 +200,6 @@
 <description>Spain's transport minister has said he will step down after two deadly train crashes in less than a year.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-spain-oscarpuente_7396149.jpg?20261103210019" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-spain-oscarpuente_7396149.jpg?20261103210019" medium="image"/>
-</item>
-<item>
-<title>Convicted murderer who escaped prison captured</title>
-<link>https://abcnews.com/US/tennessee-escaped-murderer-caught-kansas-city/story?id=137815827</link>
-<guid isPermaLink="false">431f2cef78e6ea71c2093fa23870332b4c5848311db741c10e9c4780e32ce9b0</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 03 Nov 2026 20:31:27 +0000</pubDate>
-<description>Tennessee escaped murderer Jacob Morley has been caught near Kansas City, Missouri.</description>
-<enclosure url="https://s.abcnews.com/images/US/jacob-morley-ht-jt-261103_1793729479268_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/jacob-morley-ht-jt-261103_1793729479268_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Latino voters emerge as critical voting bloc in midterms</title>
@@ -367,17 +389,6 @@
 <media:content url="https://s.france24.com/media/display/243c1fe4-d79e-11f1-9460-695cb59fade5/w:1024/p:16x9/capture-bb8a3c60.jpg" medium="image"/>
 </item>
 <item>
-<title>For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life</title>
-<link>https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson</link>
-<guid isPermaLink="false">0097fa0c9e309d94a4eeaeea4214561ac9a3ad0f208cd080561e0e5df2c63ed8</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Tue, 03 Nov 2026 15:54:39 +0000</pubDate>
-<description>In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. "The city seems alive," said one resident, "just like it used to be." (Image credit: Svet Jacqueline for NPR)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2Ff0%2F0adc6b7e4d569f8d03e0096fc60b%2Funtitled-1350936.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2Ff0%2F0adc6b7e4d569f8d03e0096fc60b%2Funtitled-1350936.jpg" medium="image"/>
-</item>
-<item>
 <title>US midterms: Michigan Senate candidate El-Sayed becomes Democrats' rising star</title>
 <link>https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star</link>
 <guid isPermaLink="false">b86026836402b14fb426e96f224b9aa974186696e8d512285d21eb0dc01d4b1e</guid>
@@ -433,17 +444,6 @@
 <media:content url="https://s.france24.com/media/display/7a616320-d799-11f1-b243-d18c5759e759/w:1024/p:16x9/AP26307507185418.jpg" medium="image"/>
 </item>
 <item>
-<title>'Your donut, your vote': Texas group uses free food to attract young voters</title>
-<link>https://www.france24.com/en/video/20261103-your-donut-your-vote-texas-group-uses-free-food-to-attract-young-voters</link>
-<guid isPermaLink="false">cd3ced7b6ae15d6dfaa49123756b7247a4165f26bb5188f0c3bf59366cb86d93</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Tue, 03 Nov 2026 15:26:30 +0000</pubDate>
-<description>US voters on Tuesday headed to the polls in midterm elections that could shape the political future of the country. But navigating the voting process can sometimes discourage voters – particularly younger ones. In Texas, an organisation reached out to them directly by handing out free food, to then help them overcome these obstacles. FRANCE 24's Special envoy Tarek Kai reports from Austin.</description>
-<enclosure url="https://s.france24.com/media/display/ff05cc8c-d790-11f1-a95a-d18c5759e759/w:1024/p:16x9/capture-8705fe98.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/ff05cc8c-d790-11f1-a95a-d18c5759e759/w:1024/p:16x9/capture-8705fe98.jpg" medium="image"/>
-</item>
-<item>
 <title>MPs urge online retailers to stop selling AI toys over child harm fears</title>
 <link>https://news.sky.com/story/ai-toys-should-be-banned-over-child-harm-fears-say-mps-as-they-urge-retailers-to-remove-them-13607511</link>
 <guid isPermaLink="false">0cae8a5da85a1ce69ae5b381aa30abac9c8ce4e1f1e7ed2d50b1f8e0dbf3eedc</guid>
@@ -486,17 +486,6 @@
 <description>A Reform UK councillor says he is "shocked and dismayed" after being charged with 35 offences, including 12 counts of rape.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-george-madgwick-hampshire_7395880.jpg?20261103151149" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-george-madgwick-hampshire_7395880.jpg?20261103151149" medium="image"/>
-</item>
-<item>
-<title>Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia</title>
-<link>https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia</link>
-<guid isPermaLink="false">5b0df1aa9d52ed0b8c8ceda4000ba2c98775aa3fd625d9e9448d4c3abf39585d</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Tue, 03 Nov 2026 14:13:58 +0000</pubDate>
-<description>he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean. (Image credit: Ben Curtis)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5374x3583+0+0/resize/5374x3583!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe2%2Fba%2F5cd335e14641858a2bac61820420%2Fap26305460227873.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5374x3583+0+0/resize/5374x3583!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe2%2Fba%2F5cd335e14641858a2bac61820420%2Fap26305460227873.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: New states in play as record gas prices hit on Election Day</title>
@@ -708,17 +697,6 @@
 <media:content url="https://s.abcnews.com/images/GMA/261102_gma_scott_election1_0709_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>WATCH: Sisters go from lifesaving surgery to running a marathon</title>
-<link>https://abcnews.com/video/137763216</link>
-<guid isPermaLink="false">0f333ebaf301026f79834a37ea954e9ad06108dacbf3fa350674d208e910dfdc</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 02 Nov 2026 12:33:23 +0000</pubDate>
-<description>ABC News' Danny New talks to cancer survivor Kate Stevens, who received a bone marrow transplant from her sister and, around two decades later, ran a marathon with her.</description>
-<enclosure url="https://s.abcnews.com/images/US/261102_gmafl_marathon_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261102_gmafl_marathon_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>'Everything is destroyed': Hackers target refrigerators in new cyber attacks</title>
 <link>https://news.sky.com/story/hackers-target-refrigerators-in-ireland-and-european-countries-in-new-wave-of-cyber-attacks-13607013</link>
 <guid isPermaLink="false">26b330a5774fabf7c1c5165dc150c0ef84b6bbbe79482aebe56149876c6f052f</guid>
@@ -730,25 +708,25 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ica-sweden-freezers_7394730.jpg?20261102111823" medium="image"/>
 </item>
 <item>
-<title>WATCH: Thrilling finishes at NYC marathon</title>
-<link>https://abcnews.com/video/137757164</link>
-<guid isPermaLink="false">f9b55c6fad3ed31d01ff6e47edf94e757cdfad7a5ef3220ef7c933f244149db9</guid>
+<title>TAKEOVER - LINK - ELEX KEY RACES</title>
+<link>https://abcnews.comhttps://abcnews.com/widgets/keyraces?chamber=takeover&amp;year=2026&amp;limit=2&amp;source=takeover&amp;isTakeOver=true</link>
+<guid isPermaLink="false">07ec71515f00bcb782fe0d5b8aec6b6491410d98438c5f65615389babf4f6c47</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Mon, 02 Nov 2026 07:17:48 +0000</pubDate>
-<description>Sweden's Andreas Almgren won his first men's NYC marathon, and Kenya's Shelia Chepkirui won her second NYC marathon.</description>
-<enclosure url="https://s.abcnews.com/images/WNT/261101_wn_marathon_vo_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/WNT/261101_wn_marathon_vo_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Thu, 29 Oct 2026 02:48:41 +0000</pubDate>
+<description></description>
+<enclosure url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Billionaire tax, transgender rights, voter access among key midterm ballot measures</title>
-<link>https://abcnews.com/Politics/billionaire-tax-transgender-rights-voter-access-key-midterm/story?id=137602375</link>
-<guid isPermaLink="false">bd81966797e3f1b7c726cc4deeff087cfd37e36161ed460620116b22ff904e35</guid>
+<title>TAKEOVER - LINK - 2024 ELEX RECENT PROJECTIONS</title>
+<link>https://abcnews.comhttps://abcnews.com/widgets/racestowatch?year=2026&amp;source=takeover&amp;isTakeOver=true</link>
+<guid isPermaLink="false">876934d20cbd36d4e81ff6fe9e52d31947a0477a6c1aeb4037c88bc2fa0a5328</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 30 Oct 2026 14:30:03 +0000</pubDate>
-<description>Voters will weigh in on several key ballot measures in the midterm elections.</description>
-<enclosure url="https://s.abcnews.com/images/US/vote-5-gty-gmh-261026_1793021665595_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/vote-5-gty-gmh-261026_1793021665595_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Tue, 27 Oct 2026 20:50:00 +0000</pubDate>
+<description></description>
+<enclosure url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>

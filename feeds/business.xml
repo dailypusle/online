@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>US midterms election 2026 live: Democrat Ossoff retains Georgia Senate seat</title>
+<link>https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto</link>
+<guid isPermaLink="false">8642056a013a2073e329bc771a4805a07742ebe46755dc22aa034f5737bfeeba</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 01:04:18 +0000</pubDate>
+<description>Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" medium="image"/>
+</item>
+<item>
+<title>1inch lawyer sees agencies driving US crypto regulation as midterms unfold</title>
+<link>https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold</link>
+<guid isPermaLink="false">99ccb6a876124598f4350ad08372d4d5090e1bd3a3161de10258cb2b04971baa</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 00:45:16 +0000</pubDate>
+<description>Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg" medium="image"/>
+</item>
+<item>
+<title>RUNE rallies 15% as THORChain restarts most swaps after halt</title>
+<link>https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage</link>
+<guid isPermaLink="false">e983b379959c94b78bc77f5b48834d265d954b9aafb1d4e9f451c60b3af8b034</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 03 Nov 2026 23:56:09 +0000</pubDate>
+<description>THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX7RYCH2V2GKPP6BB2MVAX/thorchain-crypto-crowd-people-hype-mainstream-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX7RYCH2V2GKPP6BB2MVAX/thorchain-crypto-crowd-people-hype-mainstream-1.jpg" medium="image"/>
+</item>
+<item>
 <title>OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'</title>
 <link>https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid</link>
 <guid isPermaLink="false">619fc1e9a17c27c47fe36cdb841018d7677e068f19bac9f17326cb34df881c66</guid>
@@ -13,17 +46,6 @@
 <description>The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>US midterms election 2026 live: What they mean for crypto</title>
-<link>https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto</link>
-<guid isPermaLink="false">8642056a013a2073e329bc771a4805a07742ebe46755dc22aa034f5737bfeeba</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 23:01:32 +0000</pubDate>
-<description>Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" medium="image"/>
 </item>
 <item>
 <title>Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows</title>
@@ -763,17 +785,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ER84KWFRV6AB54PVPNX1S9/oil-bitcoin-petrol-2-960x640-960x640.webp" medium="image"/>
 </item>
 <item>
-<title>Mercado Bitcoin wallets show post-hack transfers after $46M theft</title>
-<link>https://cointelegraph.com/news/mercado-bitcoin-hack</link>
-<guid isPermaLink="false">ef59243568150b8b91872e235df1de28db2f1c27501d5cfd623c32ac62d3df6d</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 19:05:35 +0000</pubDate>
-<description>Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EWA1DBSVSDFZVCPZQ3HZ8W/mercado-bitcoin-hack.png" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EWA1DBSVSDFZVCPZQ3HZ8W/mercado-bitcoin-hack.png" medium="image"/>
-</item>
-<item>
 <title>North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds</title>
 <link>https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds</link>
 <guid isPermaLink="false">0a52a0a4c7bcf7278cc5a58ec2cd8df808163490d17e3b7416541abbdaa75461</guid>
@@ -805,17 +816,6 @@
 <description>Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated development.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2024/03/loser-shutterstock-gID_4.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2024/03/loser-shutterstock-gID_4.png" medium="image"/>
-</item>
-<item>
-<title>Animoca Brands clears final hurdle for Abu Dhabi fund management</title>
-<link>https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval</link>
-<guid isPermaLink="false">481c2f2915d9e196e604fd1c2350c26c720c848f9f82b216922f60942e962b9f</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 18:00:16 +0000</pubDate>
-<description>The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EKKJWC0SAK1Q9MXWA0N87Y/ai-abu-dhabi-businessmen-2.png" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EKKJWC0SAK1Q9MXWA0N87Y/ai-abu-dhabi-businessmen-2.png" medium="image"/>
 </item>
 <item>
 <title>Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections</title>

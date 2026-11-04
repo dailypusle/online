@@ -200,10 +200,14 @@ def main():
         raise SystemExit("No configured RSS sources could be read; refusing to publish empty feeds.")
 
 if __name__ == "__main__": main()
+    for category, items in grouped.items():
+        items.sort(key=lambda x:x["date"], reverse=True)
+        (OUT/f"{category}.xml").write_text(
+            make_xml(items, f"{category.title()} News"),
+            encoding="utf-8"
+        )
 
-
-# Publish a compact JSON preview for fast initial page rendering.
-    # Reuse the same validated, deduplicated, newest-first articles.
+    # Generate JSON preview
     preview_categories = (
         "top",
         "nigeria",
@@ -235,3 +239,5 @@ if __name__ == "__main__": main()
         json.dumps(preview, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+
+    print(f"Collection complete: {ok_sources}/{len(enabled)} sources OK; {failed_sources} failed; {total} unique articles.")

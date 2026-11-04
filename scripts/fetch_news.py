@@ -200,3 +200,38 @@ def main():
         raise SystemExit("No configured RSS sources could be read; refusing to publish empty feeds.")
 
 if __name__ == "__main__": main()
+
+
+# Publish a compact JSON preview for fast initial page rendering.
+    # Reuse the same validated, deduplicated, newest-first articles.
+    preview_categories = (
+        "top",
+        "nigeria",
+        "world",
+        "business",
+        "entertainment",
+        "sports",
+        "technology",
+        "science",
+    )
+
+    preview = {
+        category: [
+            {
+                "title": item["title"],
+                "link": item["link"],
+                "source": item["source"],
+                "date": item["date"].isoformat().replace("+00:00", "Z"),
+                "description": item["description"],
+                "image": item["image"],
+                "category": item["category"],
+            }
+            for item in grouped[category][:18]
+        ]
+        for category in preview_categories
+    }
+
+    (ROOT / "news-preview.json").write_text(
+        json.dumps(preview, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )

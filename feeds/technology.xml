@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Palantir CEO says it's pioneering an antiwar movement – while happily accepting defense dollars</title>
+<link>https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605</link>
+<guid isPermaLink="false">38ef1bc11771a4a1a6dd617bc528c9cefa7286bea905c7b50d691fa19b360752</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 19:25:00 +0000</pubDate>
+<description>Alex Karp, CEO of US spy-tech company Palantir, used this week's historic US midterm election results to claim an unlikely mantle for a military software supplier: pioneer of an antiwar movement. Palantir's Q3 revenue rose 96 percent year-on-year to $2.31 billion, although its shares fell 8 percent following the results, which it reported on Tuesday as US voters were delivering a resounding defeat for Republicans in the voting booth. For Karp, the figures represented "the reality that this moment has become a real focal point of understanding" and might help explain "what is happening in our society." From the CEO's perspective, they not only reflected the company's financial performance, but also its overall "mission." "That mission reason is we support your alpha [above average performance], we support your sovereignty. We support the war fighter. We are delighted that we can support the war fighter even more because we're making so much money. But we believe we have a moral imperative to be the dominant player in our industry," he told investors. For Karp-watchers, this is familiar self-serving shtick: turn Palantir's work for military and intelligence customers into a moral crusade, and goad its critics along the way. "There's this larger question of what does it mean to have a business that was built around what we believed and believe now is the most important mission in the world, supporting our war fighters, [and] bringing them home," he said. None of this stops him presenting Palantir as a force for peace. "We see ourselves as the pioneers of a genuine and viable antiwar movement," he wrote in his shareholder letter . He expanded on the point during the Q3 earnings call. "Our products are built to avoid war, meaning the adversary knows that they will have such pain inflicted upon them that, in fact, it's not worth going to war and also to create social cohesion because we're going to bring back our troops healthier, safer, undamaged and that makes our society much more effective," he said. That antiwar pitch sits awkwardly alongside Karp's $1 million donation in December 2024 to MAGA Inc., the super PAC supporting Donald Trump. Trump subsequently launched a US military operation in Venezuela and went to war with Iran, repeatedly promising the latter conflict would be short-lived as it dragged on. Karp did not address either topic on the call. Elsewhere, Karp claimed that Palantir "built products that would protect civil liberties and stop terrorism. If you don't stop terrorism, you're going to get a radical fringe on the right. If you stop terrorism without rights, none of us wants that." That civil liberties pitch also invites scrutiny of Palantir's longstanding relationship with US Immigration and Customs Enforcement (ICE), whose treatment of people it targets and detains has drawn criticism from US judges . Karp seems to enjoy the circus of controversy he and his colleagues have created. He also offered investors this insight: "The fu</description>
+<enclosure url="https://image.theregister.com/?imageId=258394&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=258394&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Xbox previews two new ways to control cloud games</title>
+<link>https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller</link>
+<guid isPermaLink="false">11fe08f22934bbacdb019f47511239b72f758d7c07064e9baa68225d86906c39</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
+<description>I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to connect directly to cloud servers. "Instead of a Bluetooth connection to your TV, cloud connect uses your Wi-Fi to connect directly to the cloud server running your game," says the Xbox team . "That can help reduce input latency, so gameplay may feel more responsive." Players in the US will be able to preview the new cloud connect option for the Xbo … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Fedora 45 is finally finished and fit</title>
 <link>https://www.theregister.com/os-platforms/2026/11/04/fedora-45-is-finally-finished-and-fit/5307631</link>
 <guid isPermaLink="false">625e9744e85fa307be3bdc2079661f2ae21630828bafc8e8cac5e57d97b24b8f</guid>
@@ -81,6 +103,17 @@
 <media:content url="https://image.theregister.com/?imageId=235798&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>People say they want small smartphones—the Enough Phone will put that to the test</title>
+<link>https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test</link>
+<guid isPermaLink="false">a81dad127454f8ba35ac1e8c708231feedd6d11b2eb841ca38ca0dec0f2ae80b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:00:40 +0000</pubDate>
+<description>The first modern smartphones had 3.5-inch screens, which can be hard to remember in today's world of gargantuan glass slabs. Sure, people talk about wanting smaller phones, but will they buy one? Enough Phone is betting they will. The company will begin taking preorders for its first device today, which is built around a petite 5.3-inch screen that is apparently the smallest it could find with decent performance metrics. The company's cheeky name is reflected in its approach to phone design. A flagship killer this is not, but it's probably "enough" for most people. It has a mid-range MediaTek processor, a single rear-facing camera, a polycarbonate body, and a fingerprint sensor in the power button. Specs at a glance: Enough Phone ($399 for a limited time, $599 MSRP) SoC MediaTek Dimensity 7500 Memory 8GB Storage 128GB with microSD Display 5.3-inch 1520x720 HD+ LCD Cameras Sony IMX766 50 MP, 32 MP selfie Software Android 17 or OdysseyOS Battery 3500 mAh (removable) Connectivity 5G, LTE, Wi-Fi 6, Bluetooth, NFC, SIM+eSIM Measurements 133×64×12 mm With that compact screen, the Enough Phone will be dwarfed by almost every existing smartphone. While it's a bit thicker, the device has almost the same footprint as the iPhone 13 Mini. Thinness takes a hit, as the designers have opted to make the battery user-replaceable. Like the Fairphone , you'll just have to remove a few screws to get the back cover off. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>My therapist thinks I should chuck the Amazon Bee Frontier out a window</title>
 <link>https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables</link>
 <guid isPermaLink="false">f762962d4e70678a67373cf47437a81ba9edf3d01faba5b648257e7c0fe982b2</guid>
@@ -98,7 +131,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
-<description>ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, "can you make a gif of a cat dancing?," while also providing you with the option to change the playback speed and view it frame-by-frame. Along with support for GIF-making, OpenAI says the Images 2.6 update also enable … Read the full story at The Verge.</description>
+<description>ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, "can you make a gif of a cat dancing?" while also providing you with the option to change the playback speed and view it frame by frame. Along with support for GIF-making, the Images 2.6 update also enables faster imag … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -246,28 +279,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Data centers lost the midterms</title>
-<link>https://www.theverge.com/policy/1026365/data-centers-midterms-results</link>
-<guid isPermaLink="false">0beed25ab06a25ff60d28e6b4bdc5c289a37a04a222167347cba682d99a39796</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 16:05:39 +0000</pubDate>
-<description>Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 percent said they opposed data centers in their communities. Dozens of local communities voted directly to restrict development through ballot measures . And upset winners like Texas Democratic Governor-elect Gina Hinojosa and Michigan's Democratic Senator-elect Abdul El-Sayed support moratoriums on development. … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Uber only fulfilled 4 rides from AI agents last quarter</title>
-<link>https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation</link>
-<guid isPermaLink="false">eef47e2f46ab6ae8ee70ecf5e62910f30a57b8e89052b22d4df549c02425f629</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 15:58:45 +0000</pubDate>
-<description>AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording "around 500" during the week of Halloween, out of a total 320 million Uber rides and Uber Eats deliveries. This is the first time that Uber has disclosed the number of third-party AI agents that have arranged deliveries or rides on its platform. With the rise of AI agents like Meta's Muse or OpenAI's Dots, some experts are predictin … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>What I learned driving the Slate electric truck prototype</title>
 <link>https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype</link>
 <guid isPermaLink="false">5554163e527b537ea46569886e202a7485554fadc6adeb7700a521ff779a7319</guid>
@@ -362,7 +373,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 13:22:28 +0000</pubDate>
-<description>Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood products Europe live – latest updates France’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe. The French blood service (EFS) said temperature and defrosting thresholds had been raised to “very high levels” in the attack, adding that its alarm systems had allowed technicians to intervene before the products were compromised. Continue reading...</description>
+<description>Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood products France’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe. The French blood service (EFS) said temperature and defrosting thresholds had been raised to “very high levels” in the attack, adding that its alarm systems had allowed technicians to intervene before the products were compromised. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/71023ce1bb06b16b33943aaac6da2f2e793af003/414_0_4799_3840/master/4799.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a42dcf00083f010c023f8ef97c6b65a0" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/71023ce1bb06b16b33943aaac6da2f2e793af003/414_0_4799_3840/master/4799.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a42dcf00083f010c023f8ef97c6b65a0" medium="image"/>
 </item>
@@ -1313,17 +1324,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Most of our measures of a key cognitive process don't agree</title>
-<link>https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree</link>
-<guid isPermaLink="false">231f9925239e58ee07ee0cc04408266226b116c1e8b54b3ccc48c7692651c8af</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 19:13:26 +0000</pubDate>
-<description>It's widely acknowledged that it's nearly impossible to publish negative results in scientific journals. "We didn't see anything" is a much harder sell than finding that a hypothesis is clearly right. Findings of no effect tend to either be shuffled off to low-profile journals or left behind as unpublished lab lore. The high-profile journal Nature, however, made a notable exception this week, publishing a study that tells us that a bunch of methods we have been using to try to measure a key emotional ability don't seem to be measuring the same thing. The results mean that we don't have a good way to measure the impact of a concept that is the basis of a key method in therapy. Inconsistencies One of the most successful forms of therapy is cognitive behavioral therapy, or CBT. In part, CBT is based on getting people to step back and engage in "cognitive reappraisal." This requires people to think over a situation that has caused a negative emotional response and find ways to reinterpret it so that it has less impact on them. The ability to engage in this process has been linked to emotional resilience. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Cops bust botnet of 1.3M infected Android TV boxes</title>
 <link>https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045</link>
 <guid isPermaLink="false">8c147c5c8e2a7274fd1310615797ce96160a234caeac90977429483d078e0fc8</guid>
@@ -1456,17 +1456,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Minecraft-AI-agents-test.jpg" medium="image"/>
 </item>
 <item>
-<title>Token thieves costing companies $100K+ per day in illicit LLM charges</title>
-<link>https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967</link>
-<guid isPermaLink="false">6c299e7ed47e6af238de198107346812e164e14f559d9fbd4546a317590dd4a1</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
-<description>Victim organizations are losing millions of dollars in token charges as criminals hijack their corporate LLM access to steal expensive computing resources and AI services. These fraudulent charges from resource consumption can exceed $100,000 a day, according to a Monday report by Google's Mandiant incident responders, who saw cumulative charges at some organizations hit $1 million before the victim companies revoked intruders' access. "Whenever possible, threat actors want to use this technology to gain a scale advantage over defenders. They achieve that with agentic tools and by stealing tokens from unwitting third parties,” John Hultquist, chief analyst at Google Threat Intelligence Group, told The Register . “Locking down these resources will not only protect organizations from runaway costs, but also protect the broader community from a deluge of cheap, autonomous attacks.” This tactic of hijacking access to LLMs is called LLMJacking , and it’s been increasing steadily over the past two years. In one extreme case, documented in an August report from CrowdStrike, a token thief sent about 200,000 API requests in just two minutes. In one case detailed in the report, a group Google tracks as UNC6993 illicitly gained access to LLM API keys, then generated additional keys and enabled services within the victim’s cloud projects, racking up $100,000 in charges. The threat intel biz also documented a different token thief subscribing victim accounts to Pay-As-You-Go agreements to access advanced models on the victim company’s dime. The crook selected premium foundation models, launched high-volume inference streams, and used a “burn and rotate strategy” to bypass rate limits by creating and deleting short-lived service accounts while auditing the billing interface to monitor financial impact. In yet another incident, an intruder executed more than 500,000 LLM API calls in less than eight hours using stolen third-party API keys to power a token routing service called Jet Night, according to a Monday report from Google. “Given Jet Night’s per-token costs to users are so far below typical market rates GTIG believes the service relies on stolen keys to operate profitably,” the report says. “For example, Jet Night offers an unlimited token plan for approximately $60 USD per month with alleged access to frontier models, a consumer service level that would typically run between $100 and $250 per month.” Jet Night has also admitted to multiple outages on its public Telegram channel, which the Google threat hunters note is “likely due to stolen keys being revoked as victims discover their respective compromises.” Specialized LLMjacking roles As more criminals join the LLMJacking ecosystem, Google says it has documented a division of labor between the criminals that establish initial access to compromised cloud and AI services, and those that manage downstream monetization infrastructure, called “LLM Mixers.” In one case that Mandiant responded to in mid-2026,</description>
-<enclosure url="https://image.theregister.com/?imageId=5306978&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5306978&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>From a life-changing garlic press to a super-glowy serum: 12 buys you’re loving right now</title>
 <link>https://www.theguardian.com/thefilter/2026/oct/30/things-you-loved-most-october-2026</link>
 <guid isPermaLink="false">e3e438ed6692305af132e68369945de50acbdf78315f92be2d2d715640adda21</guid>
@@ -1520,17 +1509,6 @@
 <description>The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" medium="image"/>
-</item>
-<item>
-<title>I’m finally ready for a smart calendar – why the Echo Show 16 stands out</title>
-<link>https://www.zdnet.com/home-and-office/im-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out</link>
-<guid isPermaLink="false">b4024f885823ca6436888442367483292b859d025a1d650efd53a4047a083490</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 17:23:50 +0000</pubDate>
-<description>I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" medium="image"/>
 </item>
 <item>
 <title>After 50 years of playing video games, I’m finally starring in one</title>

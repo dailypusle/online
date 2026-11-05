@@ -1,8 +1,6 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="Pragma" content="no-cache">
 <meta name="dailypulse-build" content="notification-fix-20261104">
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index,follow">
@@ -376,12 +374,59 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       return stories;
     }
 
+    /* ---------- Browser cache: saved headlines + where the reader left off ---------- */
+
+    const CACHE_KEY = "dailypulse-news-cache-v1";
+    const STATE_KEY = "dailypulse-state-v1";
+
+    function readJson(key) {
+      try { return JSON.parse(localStorage.getItem(key)) || {}; } catch { return {}; }
+    }
+    function readCache() { return readJson(CACHE_KEY); }
+    function writeCache(category, stories) {
+      try {
+        const all = readCache();
+        all[category] = { savedAt: Date.now(), stories };
+        localStorage.setItem(CACHE_KEY, JSON.stringify(all));
+      } catch { /* storage full or blocked: the site still works without it */ }
+    }
+    function readState() { return readJson(STATE_KEY); }
+    function saveState(patch) {
+      try { localStorage.setItem(STATE_KEY, JSON.stringify({ ...readState(), ...patch })); } catch {}
+    }
+
+    // Draws story cards and remembers which category is on screen. Returns the card count.
+    function renderStories(stories, category) {
+      const fragment = document.createDocumentFragment();
+      let count = 0;
+      stories.slice(0, MAX_STORIES).forEach(story => {
+        const card = makeStory(story);
+        if (card) { fragment.appendChild(card); count++; }
+      });
+      if (!count) return 0;
+      newsEl.replaceChildren(fragment);
+      newsEl.dataset.category = category;
+      return count;
+    }
+
+    // Instantly shows the last saved headlines for a category (if any).
+    function showCached(category) {
+      const entry = readCache()[category];
+      if (!entry || !Array.isArray(entry.stories)) return false;
+      const count = renderStories(entry.stories, category);
+      if (!count) return false;
+      statusEl.textContent = `${count} saved headlines · Last updated ${new Date(entry.savedAt).toLocaleTimeString()} · refreshing…`;
+      return true;
+    }
+
+    const hasCards = category => newsEl.dataset.category === category && !!newsEl.querySelector(".story");
+
     async function loadNews() {
       if (loading) return;
       loading = true;
       refreshBtn.disabled = true;
-      statusEl.textContent = "Loading news…";
       const category = selectedCategory;
+      if (!hasCards(category)) statusEl.textContent = "Loading news…";
 
       try {
         let stories;
@@ -395,26 +440,31 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
         // Ignore the result if the reader switched category while this was loading.
         if (category !== selectedCategory) return;
 
-        const fragment = document.createDocumentFragment();
-        let count = 0;
-        stories.slice(0, MAX_STORIES).forEach(story => {
-          const card = makeStory(story);
-          if (card) {
-            fragment.appendChild(card);
-            count++;
-          }
-        });
-        if (!count) throw new Error("No valid story links were found.");
-
-        newsEl.replaceChildren(fragment);
-        statusEl.textContent = `${count} headlines · Updated ${new Date().toLocaleTimeString()}`;
+        stories = stories.slice(0, MAX_STORIES);
+        const previous = readCache()[category];
+        const unchanged = hasCards(category) && previous &&
+          JSON.stringify(previous.stories) === JSON.stringify(stories);
+        if (!unchanged && !renderStories(stories, category)) {
+          throw new Error("No valid story links were found.");
+        }
+        writeCache(category, stories);
+        const shown = newsEl.querySelectorAll(".story").length;
+        statusEl.textContent = `${shown} headlines · Updated ${new Date().toLocaleTimeString()}`;
       } catch (error) {
         console.error("News loading failed:", error);
-        statusEl.textContent = "News could not be loaded. Please refresh or check your Internet connection.";
-        const message = document.createElement("div");
-        message.className = "error";
-        message.textContent = "Please refresh or check your Internet connection.";
-        newsEl.replaceChildren(message);
+        if (hasCards(category)) {
+          // Keep showing the saved headlines instead of an error.
+          const entry = readCache()[category];
+          statusEl.textContent = "You're offline or the feed is unavailable. Showing saved headlines" +
+            (entry ? " from " + new Date(entry.savedAt).toLocaleString() : "") + ".";
+        } else {
+          statusEl.textContent = "News could not be loaded. Please refresh or check your Internet connection.";
+          const message = document.createElement("div");
+          message.className = "error";
+          message.textContent = "Please refresh or check your Internet connection.";
+          newsEl.replaceChildren(message);
+          newsEl.dataset.category = "";
+        }
       } finally {
         loading = false;
         refreshBtn.disabled = false;
@@ -423,17 +473,44 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       }
     }
 
+    function setActiveCategory(category) {
+      selectedCategory = category;
+      categoryButtons.forEach(item =>
+        item.setAttribute("aria-pressed", String(item.dataset.category === category))
+      );
+    }
+
     categoryButtons.forEach(button => {
       button.addEventListener("click", () => {
-        selectedCategory = button.dataset.category;
-        categoryButtons.forEach(item =>
-          item.setAttribute("aria-pressed", String(item === button))
-        );
+        setActiveCategory(button.dataset.category);
+        saveState({ category: selectedCategory });
+        showCached(selectedCategory);
         loadNews();
       });
     });
 
+    // Remember the scroll position so readers resume where they left off.
+    const rememberScroll = () => saveState({ scrollY: Math.round(window.scrollY) });
+    let scrollTimer;
+    window.addEventListener("scroll", () => {
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(rememberScroll, 150);
+    }, { passive: true });
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "hidden") rememberScroll();
+    });
+    window.addEventListener("pagehide", rememberScroll);
+
     refreshBtn.addEventListener("click", loadNews);
+
+    // Start: restore the last category, show saved headlines at once, then update in the background.
+    const savedState = readState();
+    if (savedState.category && categoryButtons.some(b => b.dataset.category === savedState.category)) {
+      setActiveCategory(savedState.category);
+    }
+    if (showCached(selectedCategory) && savedState.scrollY > 0) {
+      requestAnimationFrame(() => window.scrollTo(0, savedState.scrollY));
+    }
     loadNews();
     setInterval(loadNews, 5 * 60 * 1000);
   </script>

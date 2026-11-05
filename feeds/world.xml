@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Hong Kong activist Joshua Wong sentenced to 10 years in prison</title>
+<link>https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced</link>
+<guid isPermaLink="false">e257b792aa5cf18484f7b8420897f03c75e739f0e75c3406f459ebf0ea221772</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Thu, 05 Nov 2026 05:29:56 +0000</pubDate>
+<description>Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement. (Image credit: Vincent Yu)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4831x3221+0+0/resize/4831x3221!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F35%2Ff545dd5f49fa81ca441084046476%2Fap26307388068594.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4831x3221+0+0/resize/4831x3221!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F35%2Ff545dd5f49fa81ca441084046476%2Fap26307388068594.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: David Muir on how a high school's auto shop is bringing Houston together</title>
+<link>https://abcnews.com/video/137862300</link>
+<guid isPermaLink="false">cd5b026280bba8b04c0565446a53159bc0c85de7dd1a58d89c4b69d0f8340818</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 05 Nov 2026 05:27:21 +0000</pubDate>
+<description>A student-run automotive shop has opened to the public – giving high schoolers hands-on experience with oil changes, tire rotations and multi-point inspections.</description>
+<enclosure url="https://s.abcnews.com/images/WNT/261104_wn_ender_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/WNT/261104_wn_ender_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Multiple bears may have killed mother and daughter in Canada</title>
 <link>https://news.sky.com/story/multiple-bears-may-have-killed-mother-and-daughter-in-canada-13608211</link>
 <guid isPermaLink="false">575fe7eaaee2be1ab65aae07427e524c22aed17150c246385fdd32ef55798002</guid>
@@ -13,6 +35,17 @@
 <description>A mother and daughter have been killed in an attack in Canada that authorities say may have involved multiple grizzly bears.</description>
 <enclosure url="https://e3.365dm.com/23/07/1920x1080/skynews-montana-grizzly-bear_6228423.jpg?20230724071712" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/23/07/1920x1080/skynews-montana-grizzly-bear_6228423.jpg?20230724071712" medium="image"/>
+</item>
+<item>
+<title>Almost 75% of Britons view US as serious threat to global peace</title>
+<link>https://news.sky.com/story/almost-75-of-britons-view-us-as-serious-threat-to-global-peace-13608212</link>
+<guid isPermaLink="false">0a4bdfe379e276cf8dd91709ee52ae977fe0f0d9cc5952257171e4a5dabf6ec3</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Thu, 05 Nov 2026 03:34:00 +0000</pubDate>
+<description>Almost three-quarters of Britons believe the US to be a serious threat to global peace - more than double the figure from two years ago - according to a new survey.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-trump-midterms_7395245.jpg?20261104053236" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-trump-midterms_7395245.jpg?20261104053236" medium="image"/>
 </item>
 <item>
 <title>Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion</title>
@@ -68,17 +101,6 @@
 <description>24/7 coverage of breaking news and live events</description>
 <enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: David Muir on how a high school's auto shop is bringing Houston together</title>
-<link>https://abcnews.com/video/137862300</link>
-<guid isPermaLink="false">cd5b026280bba8b04c0565446a53159bc0c85de7dd1a58d89c4b69d0f8340818</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 00:55:07 +0000</pubDate>
-<description>A student-run automotive shop has opened to the public – giving high schoolers hands-on experience with oil changes, tire rotations and multi-point inspections.</description>
-<enclosure url="https://s.abcnews.com/images/WNT/261104_wn_ender_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/WNT/261104_wn_ender_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Black candidates from both parties made history in midterm elections</title>
@@ -521,17 +543,6 @@
 <media:content url="https://s.france24.com/media/display/4e019f00-d868-11f1-87e9-bf1914cabd52/w:1024/p:16x9/EN-20261104-151157-152106-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Kansas just elected a Democrat. His message to Washington? Be decent</title>
-<link>https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides</link>
-<guid isPermaLink="false">a33952c2b930a246533f16dbf0e738a38e965ad2796548f8d61abb64fb40cca9</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Wed, 04 Nov 2026 16:08:41 +0000</pubDate>
-<description>The Methodist pastor who flipped a Republican Senate seat says voters want more than political change. He tells NPR what he heard from Kansans about decency, faith and finding common ground. (Image credit: Austin Johnson)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5762x3841+0+0/resize/5762x3841!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2F26%2F3935db6f4ae99857128157abbc43%2Fgettyimages-2303018490.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5762x3841+0+0/resize/5762x3841!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2F26%2F3935db6f4ae99857128157abbc43%2Fgettyimages-2303018490.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: The many firsts in the midterms</title>
 <link>https://abcnews.com/video/137841144</link>
 <guid isPermaLink="false">0d4d1a94be49b2a6717fd434cce8ca34b8733a662c1edf528a3c3f00d4751cca</guid>
@@ -719,7 +730,7 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-midterm_7395458.jpg?20261103085122" medium="image"/>
 </item>
 <item>
-<title>Briton with Ebola to be treated in UK</title>
+<title>British Ebola case 'concerning, but not entirely unexpected'</title>
 <link>https://news.sky.com/story/british-citizen-tests-positive-for-ebola-foreign-office-says-13607278</link>
 <guid isPermaLink="false">17d8cd3950d439e5c08699f6d42bbabcba6539f41e49b68c655c4d3a995bfec3</guid>
 <source>Sky News Home</source>
@@ -728,17 +739,6 @@
 <description>A British citizen in the Democratic Republic of Congo has tested positive for Ebola and will be brought back to the UK for treatment.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ebola-congo_7397090.jpg?20261104162933" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ebola-congo_7397090.jpg?20261104162933" medium="image"/>
-</item>
-<item>
-<title>The scale of the Democrats' win - in interactive maps and charts</title>
-<link>https://news.sky.com/story/us-midterms-live-results-and-analysis-whos-ahead-in-key-races-find-out-here-13605253</link>
-<guid isPermaLink="false">c0475f9b9df0176b728613e8b5a78c0d05a1b7655bb88d43ed510a5b1eadd6fc</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 04 Nov 2026 00:30:00 +0000</pubDate>
-<description>The Democrats have won control of both the House of Representatives and the Senate, Sky's US partner NBC News has projected.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-us-midterms-2026-data-x-forensics_7391986.jpg?20261030154025" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-us-midterms-2026-data-x-forensics_7391986.jpg?20261030154025" medium="image"/>
 </item>
 <item>
 <title>Spain's transport minister to resign after train crash killed 69 people</title>

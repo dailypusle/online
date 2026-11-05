@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto</title>
+<link>https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery</link>
+<guid isPermaLink="false">9db34fbed707b1988d7071df079817ba964557a70b782a2b35d4319c3ce91a06</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 06:02:29 +0000</pubDate>
+<description>Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N3H7D7JKVJG1M4FYAN87WP/polygon-hard-fork.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N3H7D7JKVJG1M4FYAN87WP/polygon-hard-fork.png" medium="image"/>
+</item>
+<item>
 <title>‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep</title>
 <link>https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep</link>
 <guid isPermaLink="false">6340cd83188665a92987aa45c9aa72581dd3f4bcaa798148ceaad943a55d2947</guid>
@@ -871,17 +882,6 @@
 <description>Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E9GCA5SEXXY937BRRK6D7T/interview-markus-thielen-1.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E9GCA5SEXXY937BRRK6D7T/interview-markus-thielen-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance traces $6.3B hack to fake job interviews, compromised AI tool</title>
-<link>https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack</link>
-<guid isPermaLink="false">68ac390a20d605bb5a872841f4ca4ff95bf3eec9c214400319b0b7a622bdf5a1</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 16:44:06 +0000</pubDate>
-<description>Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png" medium="image"/>
 </item>
 <item>
 <title>UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028</title>

@@ -23,6 +23,7 @@ MIN_SHARPNESS = 55.0
 IMAGE_CHECK_CACHE = {}
 CATEGORIES = {"top", "nigeria", "world", "entertainment", "sports", "technology", "science", "business", "gaming", "fashion", "other"}
 PREVIEW_CATEGORIES = ("top", "nigeria", "world", "business", "entertainment", "sports", "technology", "science")
+PREVIEW_LIMIT = 25  # stories per category written to news-preview.json
 
 
 def clean(value):
@@ -247,7 +248,7 @@ def main():
                 "image": item["image"],
                 "category": item["category"],
             }
-            for item in grouped[category][:18]
+            for item in grouped[category][:PREVIEW_LIMIT]
         ]
         for category in PREVIEW_CATEGORIES
     }

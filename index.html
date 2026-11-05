@@ -49,11 +49,17 @@
 <style>
 :root{--blue:#087cf0;--blue-dark:#075ed1;--ink:#10284e;--muted:#667c99;--line:#dceafa;--pale:#eaf4ff;--card:#fff;--bg:#f8fbff;--shadow:0 8px 28px rgba(24,83,143,.07)}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
-a{color:inherit}header{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.96);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}.header-inner{max-width:1240px;margin:auto;padding:14px 26px;display:flex;align-items:center;justify-content:space-between;gap:24px}.brand{display:inline-flex;align-items:center;gap:10px;text-decoration:none;font-size:1.7rem;font-weight:850;letter-spacing:-.06em;white-space:nowrap}.brand-icon{width:42px;height:42px;display:grid;place-items:center;border-radius:50%;background:linear-gradient(135deg,#0796ff,#1455ed);box-shadow:0 4px 10px #087cf033}.brand-icon svg{width:31px;height:31px}.brand-name{color:var(--ink)}.brand-name span{color:var(--blue)}.nav{display:flex;align-items:center;gap:30px}.nav a{font-size:.94rem;font-weight:650;text-decoration:none;color:#203858;padding:8px 0;border-bottom:2px solid transparent}.nav a.active,.nav a:hover{color:var(--blue);border-color:var(--blue)}.header-actions{display:flex;align-items:center;gap:10px}button{font:inherit;cursor:pointer}
-.install-app{display:inline-flex;width:max-content;max-width:100%;flex:0 0 auto;align-items:center;justify-content:center;gap:6px;border:0;background:linear-gradient(135deg,#087cf0,#075ed1);color:#fff;font-weight:750;padding:7px 10px;border-radius:9px;box-shadow:0 3px 9px #087cf02b;white-space:nowrap;font-size:.82rem;line-height:1.2}
-.install-app:hover{filter:brightness(1.06);transform:translateY(-1px)}.install-app[hidden]{display:none!important}
-.install-app svg{width:17px;height:17px;flex:none}
-.install-app:focus-visible{outline:3px solid #087cf055;outline-offset:2px}
+a{color:inherit}header{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.96);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}.header-inner{max-width:1240px;margin:auto;padding:14px 26px;display:flex;align-items:center;justify-content:space-between;gap:24px}.brand{display:inline-flex;align-items:center;gap:10px;text-decoration:none;font-size:1.7rem;font-weight:850;letter-spacing:-.06em;white-space:nowrap}.brand-icon{width:42px;height:42px;display:grid;place-items:center;border-radius:50%;background:linear-gradient(135deg,#0796ff,#1455ed);box-shadow:0 4px 10px #087cf033}.brand-icon svg{width:31px;height:31px}.brand-name{color:var(--ink)}.brand-name span{color:var(--blue)}.header-actions{display:flex;align-items:center;gap:10px}button{font:inherit;cursor:pointer}
+.header-auth{display:flex;align-items:center;justify-content:center;flex:0 0 auto;min-width:40px;min-height:40px}
+.header-user{display:inline-grid;place-items:center;width:42px;height:42px;padding:0;border:1.5px solid #c9e2ff;border-radius:50%;background:#eef7ff;color:#0874e8;font-weight:800;font-size:1rem;box-shadow:0 2px 7px #087cf012}
+.header-user:hover{background:#dceeff;border-color:#8fc5ff}
+.notify-bell{display:inline-grid;place-items:center;flex:0 0 auto;width:42px;height:42px;padding:0;border:1.5px solid #c9e2ff;border-radius:50%;background:#fff;color:#087cf0;box-shadow:0 2px 7px #087cf012;transition:background .15s,border-color .15s,transform .15s}
+.notify-bell svg{width:22px;height:22px;display:block}
+.notify-bell:hover{background:#eaf4ff;border-color:#8fc5ff;transform:translateY(-1px)}
+.notify-bell:focus-visible,.header-user:focus-visible{outline:3px solid #087cf055;outline-offset:2px}
+.notify-bell.subscribed{background:#087cf0;border-color:#087cf0;color:#fff}
+.notify-bell.subscribed svg{fill:currentColor}
+.notify-bell.subscribed:hover{background:#075ed1}
 /* Refresh: filled blue circular icon button */
 .refresh{display:inline-grid;place-items:center;flex:0 0 auto;width:42px;height:42px;padding:0;border:0;border-radius:50%;background:#087cf0;color:#fff;box-shadow:0 4px 10px #087cf033;transition:background .15s,transform .15s,box-shadow .15s}
 .refresh svg{width:24px;height:24px;display:block}
@@ -66,8 +72,8 @@ a{color:inherit}header{position:sticky;top:0;z-index:10;background:rgba(255,255,
 @media(prefers-reduced-motion:reduce){.refresh:disabled svg{animation:none}}
 @media(max-width:760px){.refresh{width:38px;height:38px}.refresh svg{width:22px;height:22px}}
 @media(max-width:380px){.refresh{width:34px;height:34px}.refresh svg{width:20px;height:20px}}
-@media(max-width:760px){.install-app{width:max-content;max-width:100%;padding:6px 8px;font-size:.76rem;gap:4px}.install-app svg{width:14px;height:14px}}
-@media(max-width:380px){.install-app{padding:5px 7px;font-size:.70rem;gap:3px}.install-app svg{width:13px;height:13px}}.menu-toggle{display:none;border:0;background:transparent;color:var(--ink);font-size:1.7rem;padding:3px 8px}
+@media(max-width:760px){.notify-bell,.header-user{width:38px;height:38px}.notify-bell svg{width:20px;height:20px}.header-actions{gap:8px}}
+@media(max-width:380px){.notify-bell,.header-user{width:34px;height:34px}.notify-bell svg{width:18px;height:18px}.header-actions{gap:6px}}
 /* Live cryptocurrency ticker in the site header */
 .crypto-ticker{width:100%;overflow:hidden;background:#eff6ff;color:#10284e;border-top:1px solid #dceafa;border-bottom:1px solid #c7defa;white-space:nowrap}
 .crypto-ticker-track{display:flex;width:max-content;align-items:center;min-height:44px;animation:crypto-ticker-scroll 42s linear infinite}
@@ -79,7 +85,7 @@ a{color:inherit}header{position:sticky;top:0;z-index:10;background:rgba(255,255,
 @media(prefers-reduced-motion:reduce){.crypto-ticker-track{animation:none}}
 main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:flex;gap:9px;overflow-x:auto;padding:4px 1px 16px;scrollbar-width:thin}.category{flex:0 0 auto;border:1px solid #d5e7fb;background:#fff;color:#486482;border-radius:999px;padding:8px 15px;font-weight:650;font-size:.88rem;white-space:nowrap}.category[aria-pressed="true"]{background:var(--blue);color:white;border-color:var(--blue);box-shadow:0 4px 10px #087cf02b}.category:hover{border-color:var(--blue);color:var(--blue)}.category[aria-pressed="true"]:hover{color:white}#status{min-height:24px;color:var(--muted);font-size:.86rem;margin:0 0 12px}#news{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.story{min-width:0;display:grid;grid-template-columns:minmax(150px,38%) minmax(0,1fr);align-items:stretch;background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 2px 7px #173b6205;transition:transform .18s ease,box-shadow .18s ease}.story:hover{transform:translateY(-2px);box-shadow:var(--shadow)}.story .photo{display:block;width:100%;height:100%;min-height:205px;object-fit:cover;background:#e6f0fb}.story .text{padding:20px;display:flex;flex-direction:column;align-items:flex-start;min-width:0}.story h2{font-size:1.08rem;line-height:1.35;letter-spacing:-.02em;margin:0 0 10px}.story h2 a{text-decoration:none}.story h2 a:hover{color:var(--blue)}.meta{color:var(--muted);font-size:.78rem;line-height:1.5}.description{margin:12px 0 0;color:#58708f;font-size:.9rem;line-height:1.55;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.read-more{display:inline-flex;align-items:center;gap:8px;margin-top:auto;padding-top:14px;text-decoration:none;color:var(--blue-dark);font-weight:750;font-size:.9rem}.read-more:hover{gap:12px}.story:not(:has(.photo)){grid-template-columns:1fr}.error{grid-column:1/-1;background:white;border:1px solid var(--line);border-radius:14px;padding:18px;color:var(--muted);overflow-wrap:anywhere}footer{border-top:1px solid var(--line);background:#fff;color:var(--muted);font-size:.84rem;padding:24px;text-align:center}footer strong{color:var(--ink)}
 @media(min-width:1000px){#news{grid-template-columns:1fr 1fr}.story{min-height:220px}}
-@media(max-width:760px){.header-inner{padding:11px 16px;gap:10px}.brand{font-size:1.35rem;gap:8px}.brand-icon{width:36px;height:36px}.brand-icon svg{width:27px;height:27px}.menu-toggle{display:block}.nav{display:none;position:absolute;top:100%;left:0;right:0;background:#fff;padding:12px 18px 18px;border-bottom:1px solid var(--line);box-shadow:var(--shadow);flex-direction:column;align-items:stretch;gap:2px}.nav.open{display:flex}.nav a{padding:10px 8px;border-bottom:0;border-radius:8px}.nav a.active,.nav a:hover{background:var(--pale)}main{padding:16px 14px 32px}#news{grid-template-columns:1fr;gap:12px}.story{display:flex;flex-direction:column;border-radius:14px}.story .photo{width:100%;height:auto;aspect-ratio:16/9;min-height:0}.story .text{padding:15px 16px 17px}.story h2{font-size:1.04rem;margin-bottom:8px}.description{font-size:.9rem;-webkit-line-clamp:3;margin-top:9px}.read-more{padding-top:11px}.categories{gap:7px;padding-bottom:12px}.category{padding:7px 12px;font-size:.83rem}#status{font-size:.82rem}.story:not(:has(.photo)){display:block}}
+@media(max-width:760px){.header-inner{padding:11px 16px;gap:10px}.brand{font-size:1.35rem;gap:8px}.brand-icon{width:36px;height:36px}.brand-icon svg{width:27px;height:27px}main{padding:16px 14px 32px}#news{grid-template-columns:1fr;gap:12px}.story{display:flex;flex-direction:column;border-radius:14px}.story .photo{width:100%;height:auto;aspect-ratio:16/9;min-height:0}.story .text{padding:15px 16px 17px}.story h2{font-size:1.04rem;margin-bottom:8px}.description{font-size:.9rem;-webkit-line-clamp:3;margin-top:9px}.read-more{padding-top:11px}.categories{gap:7px;padding-bottom:12px}.category{padding:7px 12px;font-size:.83rem}#status{font-size:.82rem}.story:not(:has(.photo)){display:block}}
 @media(max-width:380px){.brand{font-size:1.2rem}.brand-icon{width:32px;height:32px}}
 
 /* DailyPulse Assistant — clean, readable chat */
@@ -144,8 +150,7 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
 <body>
 <header><div class="header-inner">
 <a class="brand" href="#top" aria-label="DailyPulse home"><span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 48 48" fill="none"><path d="M3 25h9l5-11 8 22 7-18 4 7h9" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="brand-name">Daily<span>Pulse</span></span></a>
-<nav class="nav" id="main-nav" aria-label="Main navigation"><a class="active" href="#top">Home</a><a href="#latest">Latest News</a><a href="#categories">Categories</a><a href="#about">About</a></nav>
-<div class="header-actions"><button id="refresh" class="refresh" type="button" aria-label="Refresh news" title="Refresh news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14.3-4.5"/><path d="M4 4v4h4"/><path d="M4 13a8 8 0 0 0 14.3 4.5"/><path d="M20 20v-4h-4"/></svg></button><button id="install-app" class="install-app" type="button" aria-label="Install DailyPulse"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0 4-4m-4 4-4-4"/><path d="M5 17v3h14v-3"/></svg><span>Install App</span></button><button class="menu-toggle" id="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false">☰</button></div>
+<div class="header-actions"><button id="refresh" class="refresh" type="button" aria-label="Refresh news" title="Refresh news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14.3-4.5"/><path d="M4 4v4h4"/><path d="M4 13a8 8 0 0 0 14.3 4.5"/><path d="M20 20v-4h-4"/></svg></button><div id="header-google" class="header-auth" aria-label="Google sign in"></div><button id="notify-bell" class="notify-bell" type="button" aria-label="Subscribe to notifications" title="Notifications"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg></button></div>
 </div>
 <div class="crypto-ticker" id="crypto-ticker" aria-label="Live cryptocurrency prices">
   <div class="crypto-ticker-track" id="crypto-ticker-track"><span class="crypto-ticker-status">Loading live crypto prices…</span></div>
@@ -433,11 +438,6 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
     setInterval(loadNews, 5 * 60 * 1000);
   </script>
 <script>
-const menuToggle=document.getElementById('menu-toggle');const mainNav=document.getElementById('main-nav');
-menuToggle.addEventListener('click',()=>{const open=mainNav.classList.toggle('open');menuToggle.setAttribute('aria-expanded',String(open));menuToggle.setAttribute('aria-label',open?'Close navigation':'Open navigation');menuToggle.textContent=open?'×':'☰'});
-mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav.classList.remove('open');menuToggle.setAttribute('aria-expanded','false');menuToggle.textContent='☰'}));
-</script>
-<script>
 /* CoinGecko market data ticker; prices are refreshed every 60 seconds. */
 (function(){
   const track=document.getElementById('crypto-ticker-track');
@@ -556,7 +556,26 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     history = [];
   }
 
+  const headerAuth = document.getElementById('header-google');
+  function renderHeaderAuth() {
+    if (!headerAuth) return;
+    headerAuth.textContent = '';
+    if (profile) {
+      const who = profile.name || profile.email || 'Google user';
+      const chip = document.createElement('button');
+      chip.type = 'button'; chip.className = 'header-user';
+      chip.textContent = who.trim().charAt(0).toUpperCase() || 'G';
+      chip.title = 'Signed in as ' + who + ' (tap to sign out)';
+      chip.setAttribute('aria-label', chip.title);
+      chip.addEventListener('click', () => { if (confirm('Sign out of DailyPulse?')) signOut(); });
+      headerAuth.appendChild(chip);
+    } else if (window.google && google.accounts && google.accounts.id) {
+      google.accounts.id.renderButton(headerAuth, { type: 'icon', theme: 'outline', size: 'large', shape: 'circle' });
+    }
+  }
+
   function renderAuthBar() {
+    renderHeaderAuth();
     authBar.textContent = '';
     if (profile) {
       const label = document.createElement('span');
@@ -905,61 +924,6 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
 </script>
 
 
-<script>
-/* DailyPulse PWA installation */
-(() => {
-  const installButton = document.getElementById('install-app');
-  if (!installButton) return;
-  let installPrompt = null;
-
-  const isStandalone = () =>
-    window.matchMedia('(display-mode: standalone)').matches ||
-    window.navigator.standalone === true;
-
-  if (isStandalone()) {
-    installButton.hidden = true;
-    return;
-  }
-
-  window.addEventListener('beforeinstallprompt', event => {
-    event.preventDefault();
-    installPrompt = event;
-    installButton.hidden = false;
-  });
-
-  installButton.addEventListener('click', async () => {
-    if (installPrompt) {
-      installPrompt.prompt();
-      await installPrompt.userChoice;
-      installPrompt = null;
-      return;
-    }
-
-    const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
-    const isInAppBrowser = /Instagram|FBAN|FBAV|WhatsApp|TikTok/i.test(navigator.userAgent);
-    if (isIOS) {
-      alert('To install DailyPulse on your iPhone or iPad, open this page in Safari, tap the Share button, then choose “Add to Home Screen”.');
-    } else if (isInAppBrowser) {
-      alert('For installation, open DailyPulse in Chrome or your device browser, then use the browser menu and choose “Install app” or “Add to Home screen”.');
-    } else {
-      alert('To install DailyPulse, open your browser menu and choose “Install app” or “Add to Home screen”. If the option is unavailable, try again after the page has finished loading.');
-    }
-  });
-
-  window.addEventListener('appinstalled', () => {
-    installButton.hidden = true;
-    installPrompt = null;
-  });
-
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('./sw.js', { scope: './', updateViaCache: 'none' }).catch(error =>
-        console.warn('DailyPulse service worker registration failed:', error)
-      );
-    });
-  }
-})();
-</script>
 
 
 <!-- DailyPulse push-notification opt-in -->
@@ -996,6 +960,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
   const allowButton = document.getElementById("dp-notify-allow");
   const laterButton = document.getElementById("dp-notify-later");
   const statusBox = document.getElementById("dp-notify-status");
+  const bell = document.getElementById("notify-bell");
   const DISMISSED = "dailypulse-notification-prompt-dismissed";
   const SUBSCRIBED = "dailypulse-notifications-enabled";
 
@@ -1014,10 +979,21 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     remove(key) { try { localStorage.removeItem(key); } catch (_) {} }
   };
 
-  function showPrompt() {
-    if (storage.get(SUBSCRIBED) === "yes") return;
-    if (sessionStorage.getItem(DISMISSED) === "yes") return;
+  function showPrompt(force) {
+    const subscribed = storage.get(SUBSCRIBED) === "yes";
+    if (!force) {
+      if (subscribed) return;
+      if (sessionStorage.getItem(DISMISSED) === "yes") return;
+    }
     overlay.style.display = "flex";
+    statusBox.style.color = "";
+    if (subscribed) {
+      allowButton.textContent = "Notifications Enabled";
+      allowButton.disabled = true;
+      statusBox.style.color = "#15803d";
+      statusBox.textContent = "You're subscribed on this device. You can turn alerts off anytime in your browser settings.";
+      return;
+    }
 
     if (!supported) {
       statusBox.textContent = "This browser does not support web push notifications. Please use the latest Google Chrome.";
@@ -1095,6 +1071,7 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
     }
 
     storage.set(SUBSCRIBED, "yes");
+    if (bell) bell.classList.add("subscribed");
     overlay.style.display = "none";
     await registration.showNotification("DailyPulse notifications enabled", {
       body: "Your browser is subscribed to DailyPulse alerts.",
@@ -1165,6 +1142,10 @@ mainNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mainNav
   });
 
   function init() {
+    if (bell) {
+      if (storage.get(SUBSCRIBED) === "yes") bell.classList.add("subscribed");
+      bell.addEventListener("click", () => showPrompt(true));
+    }
     showPrompt();
     if ("serviceWorker" in navigator && window.isSecureContext) {
       navigator.serviceWorker.register("./sw.js", {

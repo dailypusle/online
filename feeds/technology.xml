@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>A BioWare documentary is set to arrive next year</title>
+<link>https://www.engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year</link>
+<guid isPermaLink="false">387c80c611e4ae034605eb47d608a428edcd7a5a8f9e6204be3b85231cd95d61</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 20:33:13 +0000</pubDate>
+<description>Massive Effect: The BioWare Story started filming two years before EA shut down the studio.</description>
+<enclosure url="https://www.engadget.com/img/gallery/a-bioware-documentary-is-set-to-arrive-next-year/l-intro-1793910593.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/a-bioware-documentary-is-set-to-arrive-next-year/l-intro-1793910593.jpg" medium="image"/>
+</item>
+<item>
+<title>Software squeezes more data out of Webb Telescope for imaging exoplanets</title>
+<link>https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets</link>
+<guid isPermaLink="false">be6b70ec9ad1cda930a65eda5d6a3f7de6cf22a77fd4bb83733050ce27aee46a</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 19:59:22 +0000</pubDate>
+<description>With a huge and still-growing catalog of exoplanets, researchers are anxious to take the next steps: trying to infer what conditions are like on them, either by imaging them directly or by capturing the light that has passed through their atmosphere. Both are substantial challenges, given the presence of stars that are far, far brighter than light that has come to us via the planet. While telescopes can be fitted with devices called coronagraphs that block out much of a star's light, there are limits to their effectiveness, caused by noise from subtle variations in the telescope's configuration and pointing between observations. Now, researchers have developed a new software package that optimizes a physical model of the telescope in a way that allows us to better model these differences, producing low-noise imaging of exoplanets. Point spreads Central to this work is the concept of a point spread function. If you use a telescope to image a single point of light, it will not appear that way in the actual image. Instead, it will be slightly blurry and spread out, due to imperfections in the telescope hardware and the limits of our ability to keep it pointed accurately through the time it takes to image something. The mathematical description of how a telescope distorts a point of light is called its point spread function. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-1152x648.png" type="image/png"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-1152x648.png" medium="image"/>
+</item>
+<item>
+<title>TikTok just released a standalone Shop app, but it's not in America just yet</title>
+<link>https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet</link>
+<guid isPermaLink="false">56df770ed946cd9bcd10b48fe97d73e4867c2e8542891349ed95a72769df5f9e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 19:58:23 +0000</pubDate>
+<description>It offers exclusive deals and other goodies.</description>
+<enclosure url="https://www.engadget.com/img/gallery/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/l-intro-1793908543.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/l-intro-1793908543.jpg" medium="image"/>
+</item>
+<item>
 <title>The Xbox PC app is getting a speed boost</title>
 <link>https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost</link>
 <guid isPermaLink="false">0d99d82fafa7463d7920aa1afb0407bd63021a6932dc49958ee8d93c1df2feec</guid>
@@ -13,6 +46,17 @@
 <description>The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster.</description>
 <enclosure url="https://www.engadget.com/img/gallery/the-xbox-pc-app-is-getting-a-speed-boost/l-intro-1793908196.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-xbox-pc-app-is-getting-a-speed-boost/l-intro-1793908196.jpg" medium="image"/>
+</item>
+<item>
+<title>Kalshi court losses pile up as judges refuse to block state gambling laws</title>
+<link>https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws</link>
+<guid isPermaLink="false">17a4f4dbe0cbac9ed6b942012a4900fd5a8345d81c1b9ab6d060e2c36937169d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 19:46:37 +0000</pubDate>
+<description>Kalshi is having a bad week in the federal court system. Two circuit appeals courts rejected the prediction market's latest attempts to block state gambling laws in Connecticut, New York, and Nevada. Kalshi is separately facing a new lawsuit filed by the Arkansas attorney general. In all cases involving Kalshi and state governments around the US, the main issue is whether state gambling laws apply to prediction markets despite Kalshi's claim that its platform offers "swaps" that can only be regulated by the US Commodity Futures Exchange (CFTC). The Trump administration is on Kalshi's side, with Donald Trump Jr. serving as an advisor to Kalshi in exchange for a generous equity deal . "Kalshi insists that its products are not gambling," but "Arkansas law is concerned with substance, not semantics," Arkansas Attorney General Tim Griffin said yesterday when announcing his lawsuit against Kalshi. Kalshi's prediction market lets customers "wager money on the outcome of just about anything" despite the fact that "gambling on an unregulated platform is squarely prohibited by Arkansas law," he said. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg" medium="image"/>
 </item>
 <item>
 <title>Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch</title>
@@ -70,7 +114,7 @@
 <media:content url="https://www.engadget.com/img/gallery/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/l-intro-1793904752.jpg" medium="image"/>
 </item>
 <item>
-<title>Is MAHA dying—or will it be reborn? What's next after crushing midterm losses?</title>
+<title>MAHA lost bigly in the midterms—is it at death's door?</title>
 <link>https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses</link>
 <guid isPermaLink="false">15b50e3afe8f06d41a86634f5af8f4743b439b7525917e7067ff46956d74d348</guid>
 <source>Ars Technica</source>
@@ -642,17 +686,6 @@
 <media:content url="https://image.theregister.com/?imageId=5301760&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Sony is selling more PS5 games but still struggling to meet console demand</title>
-<link>https://www.engadget.com/2307531/sony-earnings-report-2026-selling-more-ps5-games-console-demand</link>
-<guid isPermaLink="false">984ca4e8771bdcf510bfa44d6870dadd80a485239159006be710885583783d26</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 09:25:11 +0000</pubDate>
-<description>Despite market conditions making PS5 consoles expensive and hard to get, Sony's gaming division had a solid quarter.</description>
-<enclosure url="https://www.engadget.com/img/gallery/sony-is-selling-more-ps5-games-but-still-struggling-to-meet-console-demand/l-intro-1793870612.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/sony-is-selling-more-ps5-games-but-still-struggling-to-meet-console-demand/l-intro-1793870612.jpg" medium="image"/>
-</item>
-<item>
 <title>Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide</title>
 <link>https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide</link>
 <guid isPermaLink="false">99a5021ac5ef0d3ffbabf0459611f600dfdc6130093a92f3e4edcdc393c1854f</guid>
@@ -805,17 +838,6 @@
 <description>Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and AI-generated politicians’ Get our daily political email , free app or daily news podcast It’s the night of Halloween and Jess Wilson has appeared on social media feeds with a warning about a scary prospect: “Americanised healthcare” under a future Liberal government. “If you had a heart attack, you would have to pay $150,000 for care,” the Victorian Liberal leader says, mid-trick or treat. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/98bda4ace9417a01039105abd323a4d517ff1463/0_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f0e5a24473c4756e910e57690b3b8b8" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/98bda4ace9417a01039105abd323a4d517ff1463/0_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f0e5a24473c4756e910e57690b3b8b8" medium="image"/>
-</item>
-<item>
-<title>Snap has more than 30 million paid subscribers across Snapchat+ and other plans</title>
-<link>https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans</link>
-<guid isPermaLink="false">0f0d3295ebee653920de1e5a86d40bb6f523cadb18779157d2ab80119dccb6d2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 22:55:57 +0000</pubDate>
-<description>Power users seem more than willing to pay for AI-powered effects.</description>
-<enclosure url="https://www.engadget.com/img/gallery/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/l-intro-1793832812.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/l-intro-1793832812.jpg" medium="image"/>
 </item>
 <item>
 <title>Nintendo's biggest ROM chip supplier is bowing out of the business</title>
@@ -1071,17 +1093,6 @@
 <media:content url="https://image.theregister.com/?imageId=261844&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The DEA banned a drug some opioid users called a miracle</title>
-<link>https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle</link>
-<guid isPermaLink="false">56b14150c097cea9151f040300284781d43b2be47fd7f61c5e43f60ae91b9c5e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 15:08:48 +0000</pubDate>
-<description>In 2012, as the driver of deaths in the opioid crisis began moving from prescription pills to heroin, Laura Bohn was tasked with finding safer drugs to manage pain. Funded by the National Institute on Drug Abuse, in 2017 she and other scientists revealed in the science journal Cell that several compounds—including a particularly promising one called SR-17018—could relieve pain in mice without causing respiratory depression. That’s a big deal, because respiratory depression is typically what causes people using opioids to stop breathing and die. Bohn, senior associate vice president of research at University of South Florida Health, says her team filed a patent on SR-17018. They went on to discover that mice using the chemical did not develop a high tolerance for it and that mice already dependent on morphine—a powerful opioid—could consume SR-17018 to reset their tolerance without suffering from painful withdrawal symptoms. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2017/11/GettyImages-679470044-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Why the weirdest game of 2026 is also one of my favourites</title>
 <link>https://www.theguardian.com/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites</link>
 <guid isPermaLink="false">89aabbf032dac622db804b47a60fd8bac4b3640ebc0105c1c79b609312dcf729</guid>
@@ -1234,17 +1245,6 @@
 <description>Australian design software maker Canva is restructuring, with 1,271 employees, or 22 percent of its workforce, facing layoffs, changes to their roles, or requests to relocate. The company, which has become a challenger to Adobe, announced the news by sharing a message that CEO Melanie Perkins sent to staff on Wednesday. That missive, titled “An important update on our team,” doesn’t mention AI but does state “New technology is transforming what people can create, how they create it, and what they expect from the products they use.” Perkins observed that Canva’s rate of growth recently slowed for the first time in a decade and shared her view that continued success won’t happen without change. “After exploring a wide range of alternatives, I've come to the difficult conclusion that small changes won’t be enough,” she wrote. “To set ourselves up for the next decade, we need to refound Canva, getting back to our roots of small, empowered teams with the freedom to make decisions, take ownership and focus on what matters most for our community.” The CEO did not say how many jobs would go, but argued the changes are necessary because the company has become inefficient. The changes will therefore see Canva combine its product, growth and platform teams into a single “Product Org,” which Perkins says means “changing the way we work to provide clearer ownership, greater autonomy and flexibility to tackle our most important goals.” She characterized the changes as “simplifying layers, consolidating overlapping responsibilities, and ensuring teams have the right mix of skills and experience for the chapter ahead.” The CEO three times described herself as “deeply sorry” for the changes. Affected staff will receive a calendar invite for an optional individual meeting with a senior leader. Remaining staff get to attend two rounds of meetings next week – one company-wide affair and another with their reorganized teams. Another of Perkins’ decisions will see Canva move more of its product teams to its headquarters in Sydney, Australia. The company will ask some staff to relocate and has promised “comprehensive support” to make that happen. Departing staff can keep their company-issued MacBooks and will receive at least six months' pay, a year of health insurance, plus various forms of support to find a new gig including a one-year membership of LinkedIn Premium. Perkins’ post does not cite financial pressures as a reason for the layoffs. Canva is privately held and does not face the same financial disclosure requirements as a listed business, but last year revealed it had 260 million monthly users and revenue of $3.5 billion. Execs have previously claimed the company is profitable on a free-cash-flow basis. Canva and Atlassian are among Australia’s most successful and celebrated technology businesses. Both have now announced job cuts this year. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5307429&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5307429&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>California fights "preposterous" Trump admin demand to scrap state broadband laws</title>
-<link>https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws</link>
-<guid isPermaLink="false">87d8ed6aa2b0187cafffbf179549b93a26530f02241e335566e795c89b680d23</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 22:39:37 +0000</pubDate>
-<description>California is accepting $1.42 billion in broadband grant funding from the Trump administration, but the state is not accepting the Trump administration's demand that it stop enforcing a net neutrality law and other telecom regulations. California's stand against the Trump administration could result in multiple legal battles involving the state, federal government, and Internet providers seeking government funds. Although California told the federal government it would accept the money, it is reserving the right to challenge the condition imposed by the US. The state could delay or cancel plans to distribute broadband grants depending on how the process unfolds. The National Telecommunications and Information Administration (NTIA) decided last year that states must agree not to enforce any rate regulation or net neutrality rule on ISPs that receive money from the $42 billion Broadband Equity, Access, and Deployment (BEAD) program. California had to decide whether to accept its share of the fund despite that restriction. California is slated to spend $1.42 billion to deploy broadband to 270,571 locations and may ultimately receive up to $1.86 billion from BEAD for a mix of deployment and non-deployment projects. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>North Korean fake job interview led to $6.3B Binance heist</title>

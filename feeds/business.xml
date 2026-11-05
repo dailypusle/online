@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse</title>
+<link>https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse</link>
+<guid isPermaLink="false">bc994ee71fee30716af6c6616efe1afd2546ddc62838b9a6c32e195ecf5c16d0</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 20:46:02 +0000</pubDate>
+<description>Led by two senior DOJ officials, the Super Intelligence Task Force will target misuse by foreign governments, criminal groups and fraudsters—while pushing AI developers to tighten internal controls so their systems “behave as intended.”</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/12/DOJ-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/12/DOJ-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million</title>
+<link>https://bitcoinmagazine.com/news/core-scientific-exits-bitcoin-year-end</link>
+<guid isPermaLink="false">04158300bbaebccf1afd053bf2dac0679a3b32f6d8f0ae0fb1de99634d1c8b57</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 20:39:27 +0000</pubDate>
+<description>Bitcoin Magazine Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million Core Scientific will complete its exit from bitcoin mining by year-end and enter 2027 as a pure-play high-density colocation provider, management said on Thursday’s third-quarter earnings call, capping a pivot that has already cut the company’s mining fleet nearly in half. Chief Financial Officer Jim Nygaard told investors the company expects to “complete the wind-down during the fourth quarter.” Chief Executive Officer Adam Sullivan put the same end date more bluntly: “We expect to complete our exit from Bitcoin mining by year end.” The comments landed alongside a results release filed with the SEC that shows how far the shift has already gone. Colocation revenue climbed nearly 60% sequentially to $215.4 million in the quarter ended Sept. 30, the earnings exhibit shows. Digital asset self-mining revenue fell to $12.3 million, down about 79% from $57.4 million a year earlier. Hosted mining for third parties added just $5.2 million. Of $232.9 million in total revenue, colocation now accounts for roughly 92%. Self-mining posted a $7.5 million gross loss in the quarter. Colocation gross profit was $128.4 million, a 60% margin. Adjusted EBITDA more than tripled sequentially to $133.6 million, with the margin expanding to 57% from 25%. Mining shrinks as AI leases fill the floor Nygaard said Core Scientific had nearly 50% fewer miners online at the end of September than at year-end 2025. The company has been repurposing power and floor space under long-term customer agreements for AI and high-performance computing workloads, a process its investor materials describe as continuing “as circumstances allow.” That path is not unique among public miners. Peers have been selling bitcoin and leasing campuses to AI tenants, and research notes have flagged a widening funding gap between those that can finance data center builds and those that cannot. Core Scientific is billing for 485 megawatts of colocation capacity as of Sept. 30 — up 90 MW in the quarter — representing more than $700 million in average annualized colocation GAAP revenue. The remaining roughly 100 MW under its CoreWeave buildout is in commissioning and expected to start recognizing revenue over the next few months, Sullivan said. Beyond CoreWeave’s contracted 590 MW, Core Scientific has 530 MW under an AMD-backed agreement across five campuses, with initial delivery targeted for the first half of 2027 and full delivery by the end of 2028. Together, the two relationships cover about 1.1 GW. Once fully delivered and billing, management expects that portfolio alone to generate $1.8 billion in average annual run-rate revenue and $1.6 billion in net operating income. What Core Scientific’s sheet shows Bitcoin is almost gone from the books. Digital assets stood at $2.7 million on Sept. 30, down from $49.7 million three months earlier and $222 million at year-end 2025. Earlier this year, Core S</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Core-Scientific-CORZ-to-Exit-Bitcoin-Mining-by-Year-End-as-Colocation-Hits-215-Million.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Core-Scientific-CORZ-to-Exit-Bitcoin-Mining-by-Year-End-as-Colocation-Hits-215-Million.jpg" medium="image"/>
+</item>
+<item>
+<title>Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story</title>
+<link>https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data</link>
+<guid isPermaLink="false">8f68bf54e498649a53e935dfb35eb8ec934a04330992c4f29edc0e2ff68a66eb</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 20:16:03 +0000</pubDate>
+<description>Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Zcash Upgrade Could Lock $16 Million in Crypto Forever</title>
 <link>https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto</link>
 <guid isPermaLink="false">426b9fd8ce0a0ed9204f9c8d7b7de9d5aa371cfa7fa7a30f80cd5281eecb67e4</guid>
@@ -70,6 +103,17 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png" medium="image"/>
 </item>
 <item>
+<title>60% of Workers Have a “Work Enemy.” Here’s the Strange Trick That Disarms Them</title>
+<link>https://www.entrepreneur.com/careers/60-of-workers-have-a-work-enemy-heres-the-strange-trick-that-disarms-them</link>
+<guid isPermaLink="false">bd43369156fbf9c4a3fbc995de2d7d8b1ae3384d3e15a2f0ba91353f0396039b</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 18:15:31 +0000</pubDate>
+<description>Make them your Newman. You'll be happier for it.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/TimmC_HS_26-copy.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/TimmC_HS_26-copy.jpg" medium="image"/>
+</item>
+<item>
 <title>Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum</title>
 <link>https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum</link>
 <guid isPermaLink="false">b51a43ac9a1bbe17f53adabf32b06a8d056114badd1a6f806471f5507ce72eda</guid>
@@ -90,6 +134,17 @@
 <description>A day after Trump celebrated stock market records, the S&amp;P 500 sank 3.8%, putting emergency trading halts in focus as AI stocks dragged Wall Street sharply lower during Thursday trading.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Flattening Your Organization Comes With Real Risks. Here’s What Companies Often Overlook.</title>
+<link>https://www.entrepreneur.com/building-a-business/flattening-your-organization-comes-with-real-risks-heres-what-companies-often-overlook</link>
+<guid isPermaLink="false">c8d9fc9cf416c7f60418d9761c67b5efdbd27be38ad6ba83844e8dbd6063b893</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
+<description>Fewer management layers can mean faster decisions, but what happens to the work those managers were doing?</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/flattening-organization-risks-1026_g97393939.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/flattening-organization-risks-1026_g97393939.jpg" medium="image"/>
 </item>
 <item>
 <title>Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and Payjoin-by-Default Trading</title>
@@ -169,6 +224,17 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png" medium="image"/>
 </item>
 <item>
+<title>What College Admissions Can Teach Entrepreneurs About the Art of Not Selling</title>
+<link>https://www.entrepreneur.com/building-a-business/what-college-admissions-can-teach-entrepreneurs-about-the-art-of-not-selling</link>
+<guid isPermaLink="false">49434af4cbc73319184f0e2faa6d5dd271fca9b1efe6a36b0038b7c68c9e07ad</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<description>What do college applicants desperate to impress admissions officers have in common with entrepreneurs desperate to win clients? Both make the same mistake. They oversell.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/college-admissions-lessons-1026_g1783795012.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/college-admissions-lessons-1026_g1783795012.jpg" medium="image"/>
+</item>
+<item>
 <title>Bitcoin crashes 6% to 7-week low as US stocks erase election gains</title>
 <link>https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains</link>
 <guid isPermaLink="false">d9d397b4a8f5139356cae702480bca82297be7c8a28f905fa492961ee7244284</guid>
@@ -222,6 +288,17 @@
 <description>Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fresh policy questions, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s What Makes the CEO of a $15 Billion Company Stop Reading a Document: ‘I Can Tell Pretty Quickly’</title>
+<link>https://www.entrepreneur.com/business-news/heres-what-makes-the-ceo-of-a-15-billion-company-stop-reading-a-document-i-can-tell-pretty-quickly</link>
+<guid isPermaLink="false">841082f05ce5f0cdcf32902113062051370ac6e0f316becc079ab3ca68ec9aa5</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 16:22:10 +0000</pubDate>
+<description>This leader has little patience for this kind of writing, tossing reports away as soon as he detects it.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Aman-Bhutani-1126-g-2257143097.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Aman-Bhutani-1126-g-2257143097.jpg" medium="image"/>
 </item>
 <item>
 <title>I Dropped Out of Harvard to Start a Company That Lets You Copy Successful Investors. It’s Powered $2B in Trades.</title>
@@ -345,17 +422,6 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Coinbase-Strategy-Among-Nine-Firms-Launching-the-Bitcoin-Security-Consortium-Pledging-15-Million-To-BTC-Security-Development.jpg" medium="image"/>
 </item>
 <item>
-<title>Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest</title>
-<link>https://bitcoinmagazine.com/news/riot-names-anthropic-texas-lease</link>
-<guid isPermaLink="false">2278d20d637b6a9d912d64a39a7f638ba05f5994565894f9b10c6b85e64458fa</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 13:52:53 +0000</pubDate>
-<description>Bitcoin Magazine Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest Riot Platforms’ unnamed “Frontier AI Lab” is Anthropic, the bitcoin miner disclosed in its quarterly report filed Wednesday, naming the Claude developer as the tenant behind a 15-year lease worth about $28 billion on its Corsicana, Texas campus. The company’s results release on the same day described the tenant only as a “leading Frontier AI Lab.” The 10-Q is more specific. It says a Riot subsidiary signed the lease on Oct. 28 “with Anthropic PBC (the ‘Frontier AI Lab’),” and the deal became binding on Nov. 4 after Riot’s board approved it and outside consultants signed off on the technical specifications. The filing uses the same defined term for the tenant of Riot’s 191 MW Rockdale lease, signed in August. That makes Anthropic the counterparty on 1,101 MW of the 1,151 MW Riot has contracted. AMD holds the other 50 MW. The Corsicana lease covers 910 MW of critical IT capacity across the whole campus. Base rent starts at $130 per kilowatt per month and rises 3% a year. At that starting rate, the full 910 MW would bring in about $1.42 billion a year. Riot puts average annual rent at about $1.8 billion over the initial term, or roughly $54 billion in total if Anthropic exercises both five-year extensions. Riot’s 12% clause The detail drawing attention sits in the financing terms. The infrastructure company agreed to reimburse Anthropic up to $4 million per megawatt for the data center modules the tenant installs, or up to about $3.6 billion across the full 910 MW. That reimbursement depends on Riot raising money “on market terms reasonably acceptable to it.” If that financing is not available, the 10-Q says , Riot will instead give Anthropic rent credits that amortize the amount “plus interest at 12% per year” over the rest of the initial term. In that case, Anthropic would effectively finance the build itself and recover the cost out of rent at a double-digit rate. Riot’s base case is different. The company expects to fund the reimbursements with non-recourse project debt sized to the contracted rent, and it puts the total capital requirement at about $6 million per MW, or $5.5 billion. It said it does not currently expect to issue equity for the project. Deadlines and exits favor the tenant The lease puts most of the delivery risk on Riot. Capacity arrives in three phases: 400 MW with a first block targeted for June 28, 2027, 200 MW starting Dec. 24, 2027 and 310 MW on July 30, 2028. If Riot delivers more than 60 days late, Anthropic earns escalating rent credits capped at 270 days of base rent for the undelivered blocks. If a phase is not delivered within 270 days of its target, Anthropic can terminate the lease for that phase on 30 days’ notice, with extensions for force majeure of up to 365 days. Riot cannot curtail Anthropic’s power load or enroll the site in voluntary demand response programs without consent, a notable limit for a com</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Riot-Anthropic-Texas-Lease.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Riot-Anthropic-Texas-Lease.jpg" medium="image"/>
-</item>
-<item>
 <title>Here’s what happened in crypto today</title>
 <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
 <guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
@@ -420,17 +486,6 @@
 <description>Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Everyone is Using AI Now. Here’s What Sets the Companies Using It Well Apart.</title>
-<link>https://www.entrepreneur.com/building-a-business/everyone-is-using-ai-now-heres-what-sets-the-companies-using-it-well-apart</link>
-<guid isPermaLink="false">726e4d5c42eef43f7e79b5f5f578c4cd453f296be947feebbfe4f61958f177e8</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
-<description>AI adoption has become almost meaningless as a measure of competitive advantage.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/everybody-using-ai-1126-g-2282220392.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/everybody-using-ai-1126-g-2282220392.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says</title>
@@ -631,17 +686,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>How Leaders Can Turn Cultural Misunderstandings Into Stronger Teams</title>
-<link>https://www.entrepreneur.com/building-a-business/how-leaders-can-turn-cultural-misunderstandings-into-stronger-teams</link>
-<guid isPermaLink="false">ae2d21283cdd69cacfedde8a8d52f31fe181fafdd3a227cccc24215905d092b0</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Wed, 04 Nov 2026 21:30:00 +0000</pubDate>
-<description>At my company, our differing backgrounds and perspectives make us stronger, but they can also lead to friction. Here’s how I handle it.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/strong-teams-1026-g-2277251072.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/strong-teams-1026-g-2277251072.jpg" medium="image"/>
-</item>
-<item>
 <title>Google Tells Schools They Can Reject AI—But They'll Lose Search, Too</title>
 <link>https://decrypt.co/382572/google-schools-reject-ai-but-lose-search</link>
 <guid isPermaLink="false">c85c8ea68fdb92ed2bf0e383a992646a23a2a0189117299cfab3658b1a30aa16</guid>
@@ -664,17 +708,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Alcohol Isn’t the Only Way to Bond at Work. Try These 3 Healthy Alternatives Instead.</title>
-<link>https://www.entrepreneur.com/building-a-business/alcohol-isnt-the-only-way-to-bond-at-work-try-these-3-healthy-alternatives-instead</link>
-<guid isPermaLink="false">f0101d93bb3d72a0324cc80fbb898f6d1711eb3b25ba5d122754b86a5774df67</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Wed, 04 Nov 2026 20:45:49 +0000</pubDate>
-<description>Here are three ways to build better bonds with each other that don't rely on a tequila shot or a glass of chardonnay.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/ways-to-bond-with-coworkers-1026_g2264167210.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/ways-to-bond-with-coworkers-1026_g2264167210.jpg" medium="image"/>
-</item>
-<item>
 <title>US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents</title>
 <link>https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents</link>
 <guid isPermaLink="false">e864ffae24b1a292388cd4303f055465e9aec89bc88d053d072732c01f649596</guid>
@@ -684,17 +717,6 @@
 <description>The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major banks to restrict customer-account access.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/11/office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/11/office-of-the-comptroller-of-the-currency-occ-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>The AI Race Is No Longer About Better Models. Here’s Where the Real Value Is Being Created.</title>
-<link>https://www.entrepreneur.com/business-news/tech/the-ai-race-is-no-longer-about-better-models-heres-where-the-real-value-is-being-created</link>
-<guid isPermaLink="false">7b206e956b2e9eb579a1a9dd6cd141633fc6630fb21f3843e8bfa9f6e0378ac4</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Wed, 04 Nov 2026 19:30:00 +0000</pubDate>
-<description>As AI models mature, the true battleground has shifted from raw intelligence to real-world deployment.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/ai-race-real-value-engineers-1026_g2233474240.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/ai-race-real-value-engineers-1026_g2233474240.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms</title>
@@ -1014,28 +1036,6 @@
 <description>CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court</title>
-<link>https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties</link>
-<guid isPermaLink="false">d90b34d3d077d982454d929130d3b468040444e409602c80af89ac31f9aeabe7</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 20:36:02 +0000</pubDate>
-<description>Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal jurisdiction over his lawsuit.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys</title>
-<link>https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach</link>
-<guid isPermaLink="false">614372054c005dd6a6512d30b2a1b1357f92927464c958d8f07e9279a2c1905d</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 19:46:03 +0000</pubDate>
-<description>GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Truist expands merchant tools to boost value</title>

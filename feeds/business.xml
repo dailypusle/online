@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup</title>
+<link>https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic</link>
+<guid isPermaLink="false">8486505f3d55291f5c0e2aabc1a32724bc74c1c70edd8090235aa1c48875154f</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 23:06:02 +0000</pubDate>
+<description>Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 23:03:41 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
 <title>American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI</title>
 <link>https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai</link>
 <guid isPermaLink="false">45d999d4739705f69482ebae479b6e520ff8e8e7e769d5c31b53926ec2600687</guid>
@@ -475,17 +497,6 @@
 <description>Bitcoin Magazine Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack U.S. bank regulators contacted banks this week to check whether their systems had any vulnerabilities after last week’s $6.3 billion hack of Binance, Reuters reported Thursday, citing several people familiar with the matter. Supervisors from the Federal Reserve and the Office of the Comptroller of the Currency began reaching out to banks on Monday morning, asking about any unusual activity or disruption in their services. The outreach shows regulators are treating the largest crypto theft on record as a possible risk to traditional finance, not just a problem for crypto exchanges, at a time when links between banks and the crypto industry have tightened. Banks run diagnostics One source at a bank that regulators contacted told Reuters there had been no disruptions to its services. Employees there prepared talking points for customers but have since received few inquiries. Banks have been studying the attack and running diagnostics on their own systems to make sure they could defend against something similar, two people familiar with the efforts said. Within hours of the hack, a cybersecurity team at one of the largest U.S. banks reached out to counterparts at Binance. That team is writing an internal report that will lead to a review of the bank’s systems and possibly cybersecurity updates. It was not yet clear whether the bank would be vulnerable to the same tactics. The biggest concern, one person said, is that artificial intelligence models have been evolving quickly, making it hard for banks to keep up with hackers. Banks are devoting a lot of resources to reviewing and patching their cybersecurity code. Binance said it was not aware of conversations between banks and regulators or whether the hack had any impact on U.S. banks. “We are in close contact with regulators all over the world, keeping them up to date on this security breach,” a Binance spokesperson said. How the Binance hack worked The concern about AI tracks with how the attack unfolded. Binance said the theft began with a fake job interview and ran for five months before any coins moved. The campaign combined a poisoned software download, a staged recruitment process, malware that evaded endpoint detection and an internal AI tool that the attackers turned against the company’s own wallet engineers. Funds began leaving Binance hot wallets across multiple blockchains on Oct. 29. Blockchain analysis firms Chainalysis and TRM Labs linked the hack to TraderTraitor, a unit associated with North Korea. Binance reopened withdrawals in stages four days later, starting with bitcoin. It has said it froze or intercepted about $2.85 billion of the stolen assets and replenished 98% of affected tokens from its own funds. None of the techniques Binance described are unique to crypto. Social engineering, malicious downloads and compromised internal tools are risks every large financial institution faces, which helps expl</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Fed-OCC-Banks-Binance-Hack.jpg" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Fed-OCC-Banks-Binance-Hack.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 13:46:01 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context</title>
@@ -1025,17 +1036,6 @@
 <description>The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows</title>
-<link>https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says</link>
-<guid isPermaLink="false">ba417a5b50b45c2776d2c3daa8d9e6ab98a498bd41e88531b8db50d8edd915b6</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 22:46:02 +0000</pubDate>
-<description>Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Truist expands merchant tools to boost value</title>

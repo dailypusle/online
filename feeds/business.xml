@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto</title>
+<link>https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto</link>
+<guid isPermaLink="false">9c4b1115767afe3acd594039a29a04d653214438730ebb3b97d3849740e32025</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 12:00:01 +0000</pubDate>
+<description>Prosecutors say Ryan Roach and a co-defendant targeted U.S. universities with supercomputers, stealing logins and secretly mining crypto.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Thailand to block Bitget in December over unlicensed crypto trading</title>
+<link>https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading</link>
+<guid isPermaLink="false">c0640b3aef40d201582ec04f356f838d09025615b0bb68ca0562a6fc7d5ac2d9</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 11:33:20 +0000</pubDate>
+<description>Thailand’s SEC filed a criminal complaint against Bitget’s operator, with access to its website and app set to be blocked from Dec. 5.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NPN42BG6Z4FSAM7R35THVD/hi-bitget-research-article-350000-crypto-currency-traders-in-japan-bitget-research-2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NPN42BG6Z4FSAM7R35THVD/hi-bitget-research-article-350000-crypto-currency-traders-in-japan-bitget-research-2.jpg" medium="image"/>
+</item>
+<item>
 <title>Arkansas Sues Kalshi, Joining a Growing List of States Targeting Prediction Markets</title>
 <link>https://decrypt.co/382588/arkansas-sues-kalshi-joining-a-growing-list-of-states-targeting-prediction-markets</link>
 <guid isPermaLink="false">d0d74b3b0550953a631eec8847ba5b947006d9528b695c6610c24395542d4e7e</guid>
@@ -763,17 +785,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6J9R4VF5N3TX90MJQ3PZBSH/hack-theft-eu-bank.png" medium="image"/>
 </item>
 <item>
-<title>1inch lawyer sees agencies driving US crypto regulation as midterms unfold</title>
-<link>https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold</link>
-<guid isPermaLink="false">99ccb6a876124598f4350ad08372d4d5090e1bd3a3161de10258cb2b04971baa</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 04 Nov 2026 00:45:16 +0000</pubDate>
-<description>Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg" medium="image"/>
-</item>
-<item>
 <title>OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'</title>
 <link>https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid</link>
 <guid isPermaLink="false">619fc1e9a17c27c47fe36cdb841018d7677e068f19bac9f17326cb34df881c66</guid>
@@ -981,17 +992,6 @@
 <description>Kim Yo Jong suggested the U.S. itself could be behind the theft, as Binance said hourly deposits had begun to exceed withdrawals.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest</title>
-<link>https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks</link>
-<guid isPermaLink="false">01c93ff11ad0f5fa13ddd41ad22d3b0c0e089a77f150dad965607e7c6d8b768d</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 23:10:25 +0000</pubDate>
-<description>Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic’s site code, and OpenAI appears to be testing GPT-6.2 Astra.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>Mortgage business expansion killed Tioga-Franklin: FDIC OIG</title>

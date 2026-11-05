@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Discord is ditching Electron and its new app uses less RAM</title>
+<link>https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</link>
+<guid isPermaLink="false">c8d06251698dcc3741ecfc6ff139719e391f75d04cd9e110c7adbd4807ae44e1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 11:39:42 +0000</pubDate>
+<description>Discord is finally giving up on Electron, the cross-platform framework that lets developers build desktop apps using web technologies. Electron web apps are notoriously heavy on system resources, and Discord is now moving its desktop app fully to Rust - a modern programming language designed for speed and memory safety. "We've been early adopters of Rust since 2018 and a lot of our infra, voice tech, and even some of the current client is already Rust, the holy grail was getting the whole client there," explains Discord chief technology officer Stanislav Vishnevskiy in a post on X . "That means Electron goes away, and so does React Native, m … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Playstation and Spider-Man performance see Sony profits surge</title>
 <link>https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation</link>
 <guid isPermaLink="false">d8fbcaec95ba5b53fe2980950a48bcc51c3a18767aff21e8eaf635b360a0e689</guid>
@@ -442,17 +453,6 @@
 <description>The company behind the widely used tool for AI text is moving into more kinds of AI slop.</description>
 <enclosure url="https://www.engadget.com/img/gallery/pangram-expands-its-ai-detection-tools-to-video-and-images/l-intro-1793824046.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/pangram-expands-its-ai-detection-tools-to-video-and-images/l-intro-1793824046.jpg" medium="image"/>
-</item>
-<item>
-<title>Gemini for Home now plugs into AT&amp;#038;T’s smart security system</title>
-<link>https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</link>
-<guid isPermaLink="false">97689e4470033f7c3c03177808ba07b8df5f854c2b8cc35eab1cff74cff33b97</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 20:23:24 +0000</pubDate>
-<description>AT&amp;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the "first" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also search recorded video footage using natural language questions, like "What dug up the yard last night?" or "Who let the dogs out?", as well as revie … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/webp"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Xbox is testing two new controller options for Cloud Gaming</title>

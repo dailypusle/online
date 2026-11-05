@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect</title>
+<link>https://www.zdnet.com/tech/linux-mint-27-release-date</link>
+<guid isPermaLink="false">a52e8bcda17070bc52f36fadc720d59a532898e1d63a9cd035382e54b833ec50</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 02:35:58 +0000</pubDate>
+<description>It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg" medium="image"/>
+</item>
+<item>
+<title>Uber says it alone can make robotaxis pay, hours after Waymo quit its app</title>
+<link>https://www.theregister.com/personal-tech/2026/11/05/uber-says-it-alone-can-make-robotaxis-pay-hours-after-waymo-quit-its-app/5307718</link>
+<guid isPermaLink="false">91ddf72a4ea0432aaa8ea10538d5e70c66b180270b3d903571957087cd6d33ba</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 01:45:07 +0000</pubDate>
+<description>Google-owned autonomous cab company Waymo has revealed it will stop allowing Uber users to book its robo-cabs, hours before the OG rideshare giant made a case for all autonomous vehicle fleet operators to use its platform instead of creating their own. This slow-motion fender bender played out across Wednesday, starting with Waymo Co-CEO Tekedra Mawakana telling Bloomberg that her company would end a partnership that saw it work exclusively with Uber in Austin and Atlanta. Mawakana said Waymo wasn’t happy about the fact that when users of Uber’s app requested a ride in one of its robo-cabs, they weren’t guaranteed to get one. News of that break-up came on the same day that Uber announced its quarterly results. As is common on such occasions, the company published remarks [PDF] its execs intend to make during an earnings call. CEO Dara Khosrowshahi used those remarks to promote the idea that Uber is the natural home for robotaxi fleet operators, because it already delivers around 30 percent higher trips per vehicle per day compared to apps run by autonomous cab companies. He said that higher utilization rate, plus use of shared charging and maintenance infrastructure, can deliver “higher fleet profitability even after paying Uber’s marketplace fee.” “As autonomous technology becomes more widely available, we believe this ability to commercialize vehicles profitably will become an increasingly important source of competitive advantage and value capture.” The two events are deliciously ironic, because Uber is arguing the scale of its platform makes it the ideal host for third-party players – just as Google does with its search, app store, and YouTube services. Left unsaid is that the two companies hold concerningly dominant positions in their respective markets. Khosrowshahi also outlined more ways Uber intends to strengthen its position, including by putting around 2,000 robo-cabs on the road in 2027, before “a much larger commercial ramp beginning in 2028.” That plan means Uber will run some cars itself and rely on third-party robo-cab operators who allow bookings on its app. “Importantly, building a broad ecosystem does not mean spreading our resources evenly,” the CEO explained. “We intend to maintain an open platform while concentrating capital, integration resources, and hands-on deployment support behind a smaller group of partners with the clearest paths to commercial scale and attractive economics at maturity.” Or in other words, as Uber uses more robo-cabs, it will try to maximize profits. Uber users booked $59.8 billion worth of services in its third quarter, up 20 percent year-over-year. The company recognized $14.75 billion of that as revenue, a ten percent improvement. Rideshare accounted for $29.5 billion of bookings and $7.5 billion of revenue. Delivery services brought in $5.5 billion of revenue on $28.5 billion of bookings. No wonder Khosrowshahi wants more robo-cabs: they’ll boost Uber’s more lucrative business. The company might</description>
+<enclosure url="https://image.theregister.com/?imageId=253463&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=253463&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Meta brings Conductor on board its model train</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/05/meta-brings-conductor-on-board-its-model-train/5307711</link>
+<guid isPermaLink="false">8f88b62eb49a1d1836a9d1029941d0c337d7f64ba51eaef4a6c0f34de1d9d1ec</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 00:35:29 +0000</pubDate>
+<description>Meta has acquired AI coding startup Conductor, signaling interest in applying AI to software engineering tasks. Charlie Holtz, the startup's co-founder and CEO, made the announcement in a blog post . He also revealed that the company's hosted Conductor Cloud, a sandbox for hosted agents, will go read-only on November 13 and shut down on November 20. Conductor , the eponymous company's macOS app for running multiple coding agents simultaneously in isolated copies of Git projects, will continue working for the next few months, and the biz expects to provide a way to transfer Conductor Cloud workspaces to local machines. But in early 2027, Conductor will no longer receive new models or critical bug fixes. A Meta spokesperson confirmed that the acquisition will strengthen the company's developer-oriented AI capabilities but declined to elaborate further. Perhaps Conductor will play nicely with Muse Code , Meta's recently introduced coding agent. Having spent heavily on strengthening its AI research lab , Meta has moderated its appetite for big acquisitions since April when China blocked its $2 billion offer for Manus AI , a developer of software agents. Meta's other acquisitions this year, Moltbook , Assured Robot Intelligence, and Stilla, are also AI-oriented but more modest in scope. The Conductor deal comes without an announced price, and follows in the footsteps of Meta regaining credibility as a model provider : Llama 4 disappointed but Meta's recent Muse Wonder and Spark models rank respectably among the top LLMs at the moment. In Meta's most recent conference call for investors [PDF], CEO Mark Zuckerberg said his company aims to provide AI agents that non-technical people can deploy for business tasks. "What we see is a lot of people are actually using Muse today to help run especially small businesses," he said. "And we think that there's both an opportunity to help create an agent that people use to really enable them to automate and do a lot of the parts of spinning up a small business that are just kind of difficult and time-consuming but aren't the core thing that a person is trying to do." Meta's AI strategy, as Zuckerberg describes it, is focused on collecting transaction fees from businesses for enabling agentic commerce, selling advanced AI capabilities to developers in the form of model access or tokens, charging for Muse to automate business tasks, and applying AI to personalize and improve results from ads. It's a good time to run an AI-related startup, as leading model companies seek to add value beyond offering AI models. Models themselves have become commoditized to the point that only a few leading model makers can get away with charging a premium. In an effort to maintain that lead, top model makers have been purchasing innovation (and talent) while they are still flush with investor funds. On Wednesday, OpenAI said it plans to acquire Pierre Computer Company, maker of distributed storage service Code Storage⁠ and open-source</description>
+<enclosure url="https://image.theregister.com/?imageId=5307715&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5307715&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>X says its updated web app is way faster</title>
 <link>https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster</link>
 <guid isPermaLink="false">4450c2fb3717fccdba57a0e62313bb0e881344bc8497b49c5c2ea9c738dc8e4d</guid>
@@ -1357,28 +1390,6 @@
 <media:content url="https://image.theregister.com/?imageId=5307077&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Cops bust botnet of 1.3M infected Android TV boxes</title>
-<link>https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045</link>
-<guid isPermaLink="false">8c147c5c8e2a7274fd1310615797ce96160a234caeac90977429483d078e0fc8</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 19:03:31 +0000</pubDate>
-<description>A coalition of private-sector security firms working with Japan’s National Police Agency has disrupted XCPE, a backdoor used to build a massive botnet comprising more than 1.3 million Android devices across more than 200 countries. Google, Lumen, Human Security, Plume, Synthient, and TrendAI participated in the disruption. “We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology,” the Google Threat Intelligence Group (GTIG) said in a Monday blog. Videostrong Technology is a hardware manufacturer based in Shenzhen, China. It builds Android devices, including home TV boxes and projectors. According to Google, Videostrong deliberately embedded the XCPE backdoor in device firmware and sold access to criminal affiliates , allowing them to install additional malware modules on devices shipped to unsuspecting customers. When buyers connected these devices to their home networks, the preinstalled backdoor allowed operators to create proxy networks and hide malicious traffic using the customers' internet connections without their knowledge. The firmware’s pre-installed management agent purported to be a standard remote-management client, according to TrendAI. It pulled updates from a GitHub page, and connected to a Message Queuing Telemetry Transport (MQTT) server that gave the operator full remote control of each box, allowing them to install and remove apps, change settings, and push updates to the infected devices. Between June 3 and October 1, TrendAI documented more than 3.8 million distinct home and mobile IP addresses connected to the operation. The coalition also disrupted the command-and-control domains used to manage the affiliate modules. “Because these affiliates each have diversified distribution channels for their modules beyond XCPE, we assess that taking down their C2 domains will sever access to at least 10 million additional compromised devices,” according to GTIG. Google said it had since cut ties with Videostrong, and banned the OEM from making devices with preloaded Google apps. Videostrong did not immediately respond to The Register’ s inquiries. This backdoor and botnet operation is part of the same ecosystem as BadBox 2.0 , another notorious botnet that infected more than 10 million TV boxes and other devices before Human, Google, and TrendAI disrupted it in March 2025.®</description>
-<enclosure url="https://image.theregister.com/?imageId=247072&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=247072&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking</title>
-<link>https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028</link>
-<guid isPermaLink="false">1d941635bc2e293582ae2560f8ee78f68f35c48320295563340e611a0fa5d752</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 18:02:55 +0000</pubDate>
-<description>Hoping to dominate the next phase of AI networking, Marvell Technology plans to acquire photonics giant Lumentum in an all-stock deal valued at $115 billion. The move will fill several key gaps in Marvell's photonics portfolio, particularly with regard to high-performance laser sources, optical transceivers, optical circuit switches, and specialized compound semiconductor manufacturing capabilities involving indium phosphide. Higher speed interconnects combined with larger compute domains are the driving forces behind the move to photonics. As interconnects push beyond 400 Gbps per lane, copper interconnects are being pushed to their limit, necessitating denser, hotter rack systems. Optics offer a reprieve from these scaling laws. Traditional copper wire can only maintain a 400 Gbps signal over about 1.25 meters. Every time the per lane speed doubles, the reach is halved. Photonics are largely immune to this and can push that signal over kilometers, enabling infrastructure providers to scale their systems across entire aisles, while also reducing the power and cooling requirements of each individual rack. Due to close in the first half of 2028, the all-stock transaction comes as AI infrastructure builders, including Nvidia and AMD, eye larger rack-scale systems, which will rely heavily on optical interconnects to stitch hundreds and even thousands of GPUs together into a single compute domain for training or inference. At Computex 2026 in Taipei earlier this year, Jensen Huang predicted that Marvell's long-term investments in photonics would catapult the IP house to a $1 trillion valuation. That hasn't happened just yet – the company’s market cap currently sits at just $180 billion – but it seems Marvell isn't above buying its way to the finish line by snapping up optics vendors before the AI boom sends their valuations skyrocketing. As we've previously reported , the move to optical scale up networks has fueled a flurry of investment in optics, silicon photonics development, and manufacturing. Nvidia itself invested $2 billion into Lumentum just eight months ago to bolster its optics manufacturing capacity. The limiting factor up to this point has been power. When Nvidia unveiled its first Blackwell-based rack systems in 2024, Huang noted the company specifically avoided optics as they would have added 20 kW of additional power draw to a system that already consumed 120 kW under load. In the years since then, Marvell has invested heavily in next-gen optics tech. One of the most notable acquisitions came in February 2026, when the company paid about $3.5 billion for photonic interconnect developer Celestial AI. Celestial's tech opened the door to more efficient optics integrations including near- and co-packaged optical interconnects that used a fraction of the power of conventional pluggable optics used in scale out networks. Marvell's Lumentum buy will position the IP house as a one-stop shop for AI infrastructure providers' photonics needs. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=253714&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=253714&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect</title>
 <link>https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs</link>
 <guid isPermaLink="false">9f96bddc109dda2f9056c035fbf219e48a549d637655d1cd820fec9d3583935b</guid>
@@ -1498,17 +1509,6 @@
 <description>Only a quarter of Android phones have even made it to Android 16.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg" medium="image"/>
-</item>
-<item>
-<title>Samsung adds better sleep tracking to Galaxy Watches – here’s what to expect</title>
-<link>https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches</link>
-<guid isPermaLink="false">17ae841ebf69dd70b8fc3d2dcb5a24ce704c8263c5d89421164a963847a21875</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 17:29:50 +0000</pubDate>
-<description>The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" medium="image"/>
 </item>
 <item>
 <title>After 50 years of playing video games, I’m finally starring in one</title>

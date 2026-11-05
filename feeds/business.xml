@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>France budget rejection sidelines stablecoin tax, wallet reporting</title>
+<link>https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments</link>
+<guid isPermaLink="false">e9fa9bb953ca22281001ec4175194e6be8a231e09d4edada95a291ecbfc5bd26</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 09:04:42 +0000</pubDate>
+<description>Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NC2PJZNEWTEF3KDZR53T20/hi-setting-court-precedent-for-btc-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NC2PJZNEWTEF3KDZR53T20/hi-setting-court-precedent-for-btc-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms</title>
+<link>https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound</link>
+<guid isPermaLink="false">cd36c29e0eb154805712e57aa618e046bdc7db89f0fef5c938cf6634a7fd2160</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 08:22:30 +0000</pubDate>
+<description>Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflow streak to four trading sessions.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N87QAZCRG7H93QMDFANP2Q/hi-blockchain-and-elections.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N87QAZCRG7H93QMDFANP2Q/hi-blockchain-and-elections.jpg" medium="image"/>
+</item>
+<item>
+<title>Crédit Mutuel Arkéa resumes operations after attack, assesses losses</title>
+<link>https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft</link>
+<guid isPermaLink="false">a07c53a85f08e02576809324cd741c44ce32f666fc4d940426ada8b5eaf5bfbe</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 07:23:06 +0000</pubDate>
+<description>The bank said customer funds were unaffected after attackers accessed its systems through a service provider’s platform.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N6NXVHKBRJXY07Q6DE59G9/bank-french-credit-mutuel-arkea.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N6NXVHKBRJXY07Q6DE59G9/bank-french-credit-mutuel-arkea.png" medium="image"/>
+</item>
+<item>
 <title>Here’s what happened in crypto today</title>
 <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
 <guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
@@ -785,17 +818,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/justin-sun-decrypt-style-01-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>CFTC clears stock perpetual futures for trading on US exchanges</title>
-<link>https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges</link>
-<guid isPermaLink="false">3a85f3689ade108dff8ea44907d59970502bb2a030555cb08df51e629d6a5943</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 20:24:55 +0000</pubDate>
-<description>US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png" medium="image"/>
-</item>
-<item>
 <title>Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys</title>
 <link>https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach</link>
 <guid isPermaLink="false">614372054c005dd6a6512d30b2a1b1357f92927464c958d8f07e9279a2c1905d</guid>
@@ -805,17 +827,6 @@
 <description>GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>US midterms: Prediction markets favor Democrats in key crypto races</title>
-<link>https://cointelegraph.com/news/us-midterm-prediction-markets</link>
-<guid isPermaLink="false">11db9169a92b81390c39442b51793d0d14b7870f5e45f89875bdd50ab673d59b</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 19:38:19 +0000</pubDate>
-<description>Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’s runoff.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HQ1NKPD61CWKMF78RJP3VH/with-blended-okx-ice-logo.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HQ1NKPD61CWKMF78RJP3VH/with-blended-okx-ice-logo.png" medium="image"/>
 </item>
 <item>
 <title>CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures</title>
@@ -871,17 +882,6 @@
 <description>A suspected hacking wave has pushed supermarket freezers into defrost mode across ten European countries, with temperatures reportedly hitting 50°C. Nobody knows who's behind it or why it spread.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/grocery-store-freezers-gID_4.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/grocery-store-freezers-gID_4.jpg" medium="image"/>
-</item>
-<item>
-<title>Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen</title>
-<link>https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen</link>
-<guid isPermaLink="false">a7c012ecf94aec72c23a438ca131730e32f06b81655acb5ef3003663ab66c489</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 16:47:01 +0000</pubDate>
-<description>Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E9GCA5SEXXY937BRRK6D7T/interview-markus-thielen-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E9GCA5SEXXY937BRRK6D7T/interview-markus-thielen-1.jpg" medium="image"/>
 </item>
 <item>
 <title>UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028</title>

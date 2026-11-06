@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Russia and US seek to block plan for binding rules on autonomous weapons</title>
+<link>https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules</link>
+<guid isPermaLink="false">e2c8623550692e0f12a75cbdec6ee7bd181aa79e1cf1d8ed736c643c4ad0cec4</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 11:08:33 +0000</pubDate>
+<description>UN conference this month seen as key moment after years of discussions on filling gap in governance of AI systems Plans to fill a gap in the global governance of autonomous weapons are in jeopardy as group of nations led by Russia and the US move to use a UN conference this month to block proposals to negotiate a legally binding set of rules. The scale of the opposition will become clear at a diplomatic retreat starting on Friday ahead of the seventh review conference on “certain conventional weapons” in Geneva due to be attended by 128 countries from 16 to 20 November. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=060887d955440079e9f10a07a5bbb778" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=060887d955440079e9f10a07a5bbb778" medium="image"/>
+</item>
+<item>
+<title>UK ministers seek powers to investigate when AI agents are let off the leash</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889</link>
+<guid isPermaLink="false">62edf17370512d9cc977675e67822b469ea4da24b1419bd3ddace17b75e71d0c</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 11:00:00 +0000</pubDate>
+<description>The UK government is paving the way for rules requiring essential service operators and digital providers to guard against losing control of AI agents and report incidents when safeguards fail. An amendment to the Cyber Security and Resilience Bill, which is passing through Parliament , would give ministers powers to regulate the deployment and reporting of agentic AI in certain organizations. The new clause was introduced during the bill's third reading in the House of Lords this week. In an explanatory note , ministers outlined plans for safeguards, notification of affected organizations, preservation of evidence, and government-led incident reviews. The measures would require consultation and parliamentary approval through secondary legislation. The move follows a series of incidents. Last month, OpenAI revealed that its agents repeatedly strayed beyond their intended scope , prompting the company to notify more than 100 organizations about the issues. That came after July's incident, in which an OpenAI agent accessed the internet and breached machine learning platform Hugging Face . The episode, and the potential for more damage from poorly designed AI agent deployments, have prompted MPs to question whether UK law can deal with such threats. Speaking to The Register , Stuart Davey, a partner at law firm Pinsent Masons, described the clause as "quite novel." Rather than directly imposing new duties, it would allow ministers to introduce rules and investigatory powers covering regulated organizations. Davey said that could include powers "to look where there has been such an AI agentic compromise or issue, and do some things... appoint inspectors, enter and search premises, seize and retain documents." Under the proposals, the minister could confer certain powers on regulators, requiring action from targeted organizations. Potentially affected organizations include gas and electricity suppliers, managed service providers, and cloud providers deploying AI agents for customers. Foundation model developers would not automatically fall within scope simply because they build the underlying technology. "Where there's a security or operational compromise in relation to a relevant network or information system, that would seem to capture those managed service providers or cloud computing providers who are using AI, and there's that loss of control," said Davey. He advised cloud and managed service providers to track whether the proposed measures become law. Evin McMullen, CEO and co-founder of AI identity and control infrastructure company AmanTrue, said the amendment recognizes loss of oversight or control as a security risk but does not itself impose new duties. "The amendment allows future regulations to introduce investigatory and enforcement powers where an incident involves an AI agent, targeting organizations running essential digital services," he said. "The deployer of an AI agent chooses its permissions, connects it to systems, and gives it</description>
+<enclosure url="https://image.theregister.com/?imageId=2918046&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=2918046&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Tesla is ‘winding down’ production of the Cybertruck next year</title>
+<link>https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027</link>
+<guid isPermaLink="false">b9ecf8af67c40f983d04fc6e9d83311d4f45ef93533517a75af6b4b5780f0abc</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 10:42:52 +0000</pubDate>
+<description>Tesla is getting the Cybertruck ready for retirement in an effort to ramp up its robotaxi output. In an X post on Friday , Tesla CEO Elon Musk said that the company will be "winding down" Cybertruck production at its Texas Gigafactory sometime around the middle of next year, "to make room for increased Cybercab production." The production plant in Austin, Texas, is the only Tesla facility that's known to assemble the Cybertruck, and that's equipped to make the specialized components required to build the vehicles. Musk hasn't mentioned if Cybertruck production will be moved elsewhere, but doing so would be arduous, especially for a car that' … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25830320/STKS493_CYBERTRUCK_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25830320/STKS493_CYBERTRUCK_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The New York Times Company is reportedly trying to buy Letterboxd for $330 million</title>
+<link>https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd</link>
+<guid isPermaLink="false">aafb2db099aaaa3f3456f7b18b547ec424787fdda5f55a40e70b6e2d32ef1e47</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 10:17:23 +0000</pubDate>
+<description>The New York Times Company declined to comment on The New York Times' story.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-new-york-times-company-is-reportedly-trying-to-buy-letterboxd-for-330-million/l-intro-1793960053.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-new-york-times-company-is-reportedly-trying-to-buy-letterboxd-for-330-million/l-intro-1793960053.jpg" medium="image"/>
+</item>
+<item>
 <title>NHS wants a second opinion on Palantir's glowing self-assessments</title>
 <link>https://www.theregister.com/public-sector/2026/11/06/nhs-wants-a-second-opinion-on-palantirs-glowing-self-assessments/5307809</link>
 <guid isPermaLink="false">89d456729fe251799ab0b5bc365d0d48954724461cc762e33a928341d10dbbf7</guid>
@@ -32,7 +76,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Fri, 06 Nov 2026 08:58:22 +0000</pubDate>
-<description>Asian and European markets follow Wall Street with sharp fall as FTSE down 1.5% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday morning. The investor sentiment then reached London, with the FTSE 100 index, which tracks blue-chip shares listed in London, down 1.5%, or 166 points, at the start of trading to 10,615. Continue reading...</description>
+<description>Asian and European markets follow Wall Street with sharp fall as FTSE down 1.9% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday morning. The investor sentiment then reached London, where the market is poised for its worst day since March. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff3042c93e0c4a87dadb98b73f68be7f" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff3042c93e0c4a87dadb98b73f68be7f" medium="image"/>
 </item>
@@ -433,17 +477,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/samsung-galaxy-z-fold-8-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Muse has a voice mode now</title>
-<link>https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar</link>
-<guid isPermaLink="false">bcea566fc08fba9bba930a1f9e5b1a3a69da8d7d14f28eb1d0ce820318648035</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 19:03:04 +0000</pubDate>
-<description>Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today . The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of your conversation animates in time with the words that it's saying. You can also change the tone of the voice by just asking your agent about what you want and letting it decide or by browsing through a bunch of options in the avatar settings. In my brief tests, my Muse agent responds quickly over voice, though it occasionally pauses while it's looking up infor … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Google, Meta and TikTok are all suing California to block social media law intended to help kids</title>
 <link>https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids</link>
 <guid isPermaLink="false">79e284cf42082f53b1b4055dbc49b9f8834caa6745b1328c22c465f808662ae2</guid>
@@ -752,17 +785,6 @@
 <media:content url="https://www.engadget.com/img/gallery/macbook-pro-with-proled-xdr-review-lighter-brighter-but-the-touchscreen-doesnt-add-much/l-intro-1793826205.jpg" medium="image"/>
 </item>
 <item>
-<title>MacBook Pro M6 review: A slight upgrade, but still the most accessible MacBook Pro</title>
-<link>https://www.engadget.com/2307614/apple-macbook-pro-m6-review</link>
-<guid isPermaLink="false">3faed0d27dc455a8218f20823a0839a2805bfc8f359b6bc1f0a1b085249186bb</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
-<description>The M6 MacBook Pro is more of the same, but that's still pretty great.</description>
-<enclosure url="https://www.engadget.com/img/gallery/macbook-pro-m6-review-a-slight-upgrade-but-still-the-most-accessible-macbook-pro/l-intro-1793884787.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/macbook-pro-m6-review-a-slight-upgrade-but-still-the-most-accessible-macbook-pro/l-intro-1793884787.jpg" medium="image"/>
-</item>
-<item>
 <title>Microsoft fixed Excel 2016 copy-paste bug. Then reintroduced it. Now it's fixed again</title>
 <link>https://www.theregister.com/software/2026/11/05/microsoft-fixed-excel-2016-copy-paste-bug-then-reintroduced-it-now-its-fixed-again/5307782</link>
 <guid isPermaLink="false">b7dd5d3b3fc78e9a3f49d5db8eb5d5a915da3a40ad5f96a9a60a2ced4d5d5249</guid>
@@ -915,17 +937,6 @@
 <description>Democrats’ success was helped by popular anger over tech, AI and the super rich – life for billionaires could become much more difficult The photo of Silicon Valley centibillionaires at Donald Trump’s inauguration – Musk, Bezos and Zuckerberg, front row and side by side – now looks like a hitlist for a blue Congress hellbent on making life difficult for billionaires. The picture symbolized at the time the bending of the knee by the richest men in the world to its most powerful, a symbiosis of the ultra-rich. Already unfathomably wealthy, Silicon Valley tycoons believed a Maga-sized public shift to the right would enrich them even more. It did. For several years, while Trump seemed an everlasting kingmaker and AI’s expansion seemed unstoppable, their fortunes ballooned to values beyond comprehension. Elon Musk’s surpassed $1tn. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/b8782004aafbc4cbcf5de4f84c322c671ea8db15/354_0_3516_2814/master/3516.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbf257f46dc0c583d7fbba6aea1fcb4e" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/b8782004aafbc4cbcf5de4f84c322c671ea8db15/354_0_3516_2814/master/3516.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbf257f46dc0c583d7fbba6aea1fcb4e" medium="image"/>
-</item>
-<item>
-<title>Activists across Europe prepare two days of protests against datacentres</title>
-<link>https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres</link>
-<guid isPermaLink="false">fa71cbbbd9c93f85e3770b99b18204670221e5e374b53e4c30bee260a14d085f</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 09:00:01 +0000</pubDate>
-<description>More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects Protesters across Europe are planning two days of action against datacentres this week with demonstrations taking place in 15 countries. More than 100 groups are joining together for the “ Stop Dirty Data Centres ” events on Friday and Saturday. They are calling for a moratorium on large projects, citing environmental and social costs that “we can no longer afford”. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/d71ddf5d851c953d692e59f548ed70931dae9c83/474_0_6830_5464/master/6830.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=758102cf1c1f91332fb3480367881499" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/d71ddf5d851c953d692e59f548ed70931dae9c83/474_0_6830_5464/master/6830.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=758102cf1c1f91332fb3480367881499" medium="image"/>
 </item>
 <item>
 <title>Apple iPad mini A20 Pro review: the best small tablet but with a big price</title>
@@ -1366,17 +1377,6 @@
 <description>North Korean cryptocurrency thieves tricked a Binance software engineer into downloading malware onto their work-issued computer during a fake job interview process before last week's record-breaking $6.3 billion heist . In an incident report published on Tuesday, the cryptocurrency exchange said several techniques - including social engineering via fake job interviews, malware downloads, compromised internal AI tooling, endpoint takeover, and an “advanced transaction-authorization method” - led to the October 29 security breach. “Our current investigation indicates that this was a sophisticated, multi-stage campaign,” the incident report said. “It was not a single isolated breach or a simple phishing incident.” Over the weekend, the FBI attributed the theft to TraderTraitor, a North Korean hacking operation linked to Lazarus Group , known for combining espionage with massive cryptocurrency heists . The Pyongyang-backed crew is also highly adept at job market scams - both posing as IT workers , who are then hired by Western companies , and as potential employers to lure software engineers into downloading malware and infecting corporate devices . With the recent Binance attack, the Norks used the latter. The attack prep began back in June with a supply chain attack when one of its engineers downloaded a malicious Homebrew installation . While the malware was detected by the security team, the device was replaced, and all affected credentials rotated, “Engineer A’s role and his related colleagues on our wallet infrastructure team was exposed to the hacker,” the report says. Three months later, the social engineering part of the attack happened. In September, another software engineer was contacted via a “legitimate job-hunting platform” by someone purporting to be a project director who arranged a series of job interviews for the Binance engineer with the fake company. During the first round - a live video interview with the engineer and a fake HR rep - the interviewer “shared a social media account with him, including personal photos and videos posted on the platform, in order to build trust,” according to the report. “This was more advanced and deceptive than previously seen social engineering approaches.” The second interview with someone purporting to be the CEO of the phony company was conducted on a “popular social chat app,” and toward the end, the CEO instructed the engineer to download an “assignment” containing a malware-laced code repository. The code executed on his work computer during the setup process, which kicked off a series of unauthorized activities. According to Binance, the malware replaced a legitimate development tool component with a malicious version, which executed commands and established communication with an attacker-controlled external server. The attackers also took steps to hide the malicious script and evade detection, and it worked. Binance’s endpoint security tools did not immediately detect the malware. Here’s</description>
 <enclosure url="https://image.theregister.com/?imageId=254036&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=254036&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing</title>
-<link>https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382</link>
-<guid isPermaLink="false">530ef17f2167fa95a5713884c8bcfcc1b5227c36c7d7a7096c6845dbada3aad2</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 21:38:29 +0000</pubDate>
-<description>With RAM getting more expensive, Microsoft is putting more effort into making Windows 11 run better on systems with just 8 GB of memory. Microsoft said on Tuesday that it was "raising the bar for 8 GB Windows 11 PCs," following a renewed focus on memory optimization earlier this year . The changes come as Redmond continues pushing more expensive Copilot+ PCs, which require at least 16 GB of RAM, amid a memory crunch fueled by AI infrastructure demand. Now, Microsoft says a low-end machine with its 8 GB of precious RAM will be up to 20 percent more responsive and 40 percent faster at multitasking thanks to improvements made in memory management. The tweaks are relatively simple, as Microsoft explained, and seem more about adjusting back to the reality that its flagship operating system needs to function on the hardware people can actually afford to purchase if and when they’re forced to upgrade. Windows 11 will now keep up to 2 GB more active data in memory before shunting it to slower storage, as one example. In another instance, Windows will connect directly to Edge when the browser is already running in the background, allowing it to launch up to 33 percent faster, according to Microsoft. Microsoft apps are also being made more efficient, with Teams able to enable Efficiency Mode by default on 8 GB machines, which Microsoft said will make it launch "up to 20 percent faster." Memory efficiency is also being improved by tweaking things like Widgets, which will only load when used instead of always being on, and decreasing the time when Edge tabs go to sleep from two hours to 15 minutes by default. Microsoft said it’s enabling third-party apps to make use of those tweaks, too. Microsoft also included benchmark data in the blog post from a recent bit of research it commissioned. The benchmark report compares a range of 2026 Windows machines with models from 2021, finding that a 2026 Dell XPS 13 with 8 GB of RAM performed about as well as a 2021 Dell XPS 13 with 16 GB across selected workloads. What that means, says Microsoft, is that “the complete PC, not memory capacity alone, shapes the experience.” In other words, please buy some new Windows hardware, even if it’s expensive - we’re begging you. Software optimization can only do so much. “For many people, 8 GB is a great fit for the things they do every day,” Microsoft EVP of Windows and devices Pavan Davuluri wrote in the blog post. “Demanding workloads, such as 3D modeling, advanced video editing, or large-scale data processing benefit from 16 GB of memory or more.” It’s no surprise Microsoft is improving the performance of lower end systems at the same time it’s subtly asking users to buy newer kit, even if it’s just an 8 GB machine - Microsoft may have done well in the past two quarters, but it’s no thanks to Windows devices. Microsoft’s Q4 2026 earnings in late July saw the company rake in cash more broadly, while simultaneously reporting a 7 percent decrease in Windows OEM and devices reven</description>
-<enclosure url="https://image.theregister.com/?imageId=1684318&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1684318&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring</title>

@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph</title>
+<link>https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph</link>
+<guid isPermaLink="false">20e5ea8a8d5139236251f1e8103949460dc1dca1550dc3e9bdb35034926757a4</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 21:23:54 +0000</pubDate>
+<description>Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on Friday. The investor sentiment then reached London, where the market was, at one stage, poised for its worst day since March. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff3042c93e0c4a87dadb98b73f68be7f" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff3042c93e0c4a87dadb98b73f68be7f" medium="image"/>
+</item>
+<item>
+<title>Three men charged in US with using AI to impersonate CEOs and steal millions</title>
+<link>https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft</link>
+<guid isPermaLink="false">358c61084baa4890242bdf85f68cfe41bbdb0af8643ff9776d23133122b86535</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 21:20:49 +0000</pubDate>
+<description>Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over $100m, according to an indictment that was newly unsealed by the US Department of Justice. According to a press release from the United States attorney’s office for the southern district of New York, three men – Jacob Soall, Sharon Hazan, and Guy Sheetrit – were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82a810be5bda9ac55c5424bd9b819ff4" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82a810be5bda9ac55c5424bd9b819ff4" medium="image"/>
+</item>
+<item>
+<title>Several Democrats renew calls for datacenter pauses after blue wave</title>
+<link>https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses</link>
+<guid isPermaLink="false">8918f50849b90e539181d7091dd858e6fe43a2240c79a06c9a3ead4ee9b51812</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 21:14:46 +0000</pubDate>
+<description>Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence Several newly elected Democrats and Senator Bernie Sanders have renewed calls for datacenter moratoriums in the days after the US midterm elections. The sweeping Democratic victory , which was buoyed in part by backlash to the tech industry , has added momentum to efforts to slow down the multi-trillion-dollar buildout of the controversial facilities. On the social media platform X, Sanders posted a call for an immediate national datacenter moratorium this week. “Americans don’t want Big Tech oligarchs wrecking the environment, gutting jobs and threatening humanity’s future,” Sanders said on Wednesday. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/970f70f987dc7eac0861b19182f1571b300dab67/688_0_6880_5504/master/6880.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=20fe82892fd12def40f57c3d020ecd3a" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/970f70f987dc7eac0861b19182f1571b300dab67/688_0_6880_5504/master/6880.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=20fe82892fd12def40f57c3d020ecd3a" medium="image"/>
+</item>
+<item>
+<title>Chainalysis says hackers stole credentials and tokens for all of its customers</title>
+<link>https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers</link>
+<guid isPermaLink="false">7142f0ef7fb76f39c0d4f06c2ac75da2607d067e450ec8c4806a2cb87f087aff</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 20:56:41 +0000</pubDate>
+<description>Blockchain analysis firm Chainalysis said that hackers have obtained sensitive personal information—including names, usernames, password hashes, and live tokens—for all of its users following a breach of its network security. The accomplishment could be a major coup for the attackers. Both Chainalysis and public sources have revealed a long list of high-profile customers, including government agencies such as the FBI, US Immigration and Customs Enforcement agency, and the US Air Force, as well as private companies such as Microsoft, Coinbase, and Barclays. It's unclear if the data theft exposed customers to additional threats. We regret to inform you... Last Friday, Chainalysis said it had been the target of a cybersecurity incident in October that was similar to the hacks of other platforms during the same month. The external actor used AI agent-assisted offensive techniques to gain unauthorized access to Chainalysis systems and internal tools. An email the company sent to affected customers said some “non-sensitive customer data, such as user IDs, full names, email addresses, and organization role labels for users provisioned on our platform were accessed.” It's not clear why the company considered such information "non-sensitive." Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png" type="image/png"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png" medium="image"/>
+</item>
+<item>
+<title>Earth's churning mantle may have created the Great Unconformity</title>
+<link>https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity</link>
+<guid isPermaLink="false">fc8dda36a9e816be94854926dfe4d155d2595ff0256f33038b1935d0ebc9428c</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 20:24:20 +0000</pubDate>
+<description>In the Grand Canyon, there is a line in the rock where time seems to have gone missing. Ancient crystalline rocks mark its bottom, while sandstones laid down as life started to diversify during the Cambrian explosion mark the top. “It’s called the Great Unconformity, and it’s a gap in the geologic record,” says Nicolas Flament, a geoscientist at the University of Wollongong, Australia. "This gap can be anywhere between 200 million years, which is not that impressive, to more than a billion years.” In a recent Nature study, Flament and his colleague Santosh Dhungana argue that this gap was carved with help from deep within the planet. According to their models, slow currents of hot rock in Earth's mantle pushed entire continents up for hundreds of millions of years, letting glaciers grind them down and then let them sink, allowing fresh sediments to bury the scar. The largest hole in the rock record might be a fingerprint of processes happening deep in the planet's interior. Ice and sea The oldest sediments resting on the Great Unconformity in North America are between 635 and 482 million years old. Geologists have traced it across most of North America and parts of northern Europe and northern China. “Something seems to have happened, in particular in North America,” Flament says. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1498933988-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1498933988-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>The nine best personalized gift ideas: customized for the person you love</title>
 <link>https://www.theguardian.com/thefilter-us/2026/nov/06/best-personalized-custom-gift-ideas</link>
 <guid isPermaLink="false">48f249f7b2003d1dfb74d9bcad949dcb5e9c317d54bf29e508ac6f6a24a470cb</guid>
@@ -15,6 +70,17 @@
 <media:content url="https://i.guim.co.uk/img/media/916a350ef95f6264f22ddf0f6898ff1adb457690/0_0_1799_1440/master/1799.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c2449df65ab2eb4d9e6f4a6ade19b99" medium="image"/>
 </item>
 <item>
+<title>Nvidia hardware worth $11.4M vanished between Oakland and Texas</title>
+<link>https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas</link>
+<guid isPermaLink="false">845f91c44e4c21448e23df772cf59bc71e61fcb020a0dd8da2446cde70a2d01c</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 20:05:30 +0000</pubDate>
+<description>A shipment of Nvidia hardware valued at $11.4 million vanished in transport between Oakland and Texas over the summer, and more than two months later, police have announced no arrests or recovery of the cargo. As reported by The Mercury News , six pallets of unknown Nvidia equipment left Oakland on August 29 on a truck bound for Fort Worth, Texas. The hardware was reportedly picked up as scheduled by a truck bearing the logo of a food transportation company before vanishing off the grid. The theft wasn't noticed until early September, when the buyers realized that the shipment had never been received. Police attempting to trace the truck's route found it had made several multi-hour stops after picking up the hardware before losing the truck somewhere in San Bernardino County, California. Oakland police confirmed that there was a grand theft report filed on September 13 and that the investigation remains ongoing. Authorities have not said what Nvidia hardware was stolen or exactly how the theft was carried out. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>All the latest updates on AI data centers</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
 <guid isPermaLink="false">f8fe21ba7f368ed10ce0a3c0e1659178f895d9eae8a89112274a09de130c90c2</guid>
@@ -24,6 +90,17 @@
 <description>Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms , and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with. From audacious plans about data centers into space , heated local battles over buildouts , and potential environmental impacts , here’s The Verge ’s news, coverage, and reporting surrounding data centers and the companies that are building them. Lame-duck Congress might actually do something: speed up energy projects “We are a data center first company,” AMD CEO Lisa Su says. OpenAI is stepping back from NDAs for data center projects This week in the big AI data center buildout. Data centers lost the midterms Maine Republican Susan Collins concedes Senate seat in a tech-fueled race. Democrat projected to win Ohio seat that Republicans warned could spell trouble for data centers. Data center-dense Texas turns blue. OpenAI is quietly renaming data centers ‘compute campuses’ OpenAI pitches data center power plants as a way to protect nearby areas Could data center backlash flip Florida? Prop 45 in California could be hiding a loophole for data centers Maine’s data center revolt will decide who controls the Senate Data centers could send US climate pollution skyrocketing AI has come for Arizona’s water This week in the big AI data center buildout. Voters in Texas agree: They hate data centers Highway robbers are targeting trucks carrying data center components. Data center backlash is uniting America Anthropic is burning gas to feed the AI boom It’s a good time to sell gray paint. Data centers could erase decades of air quality gains This week in the big AI data center buildout. Trump says paying communities a “dividend” could make data centers more popular. Texas is still permitting data centers despite a supposed statewide moratorium. The fossil fuel comeback is here Microsoft abandons the UK’s largest data center project. Amazon is funding a new nuclear plant in Indiana You’ve got to hear both sides? Neocloud CoreWeave’s bonds are distressed, and so am I. This week in the big AI data center buildout. A bipartisan bill aims to hold data centers accountable for their energy use. This week in the big AI data center buildout. Google’s power-hungry data centers crave nuclear energy A Japanese real estate company is building a data center in an underground tunnel. If a data center is camouflaged in the woods, will anyone hate it? Amazon writes</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Developer ends lucrative screensaver deal with Roku because Fox bought it</title>
+<link>https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition</link>
+<guid isPermaLink="false">763737fd459b2c8c38a51e7d935c1e3f0adb47887e1e3ce33406da30cb56af3a</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 19:50:18 +0000</pubDate>
+<description>Some Roku OS users have been sad to learn that their favorite screensaver will no longer be available as of December 1. This week, affected users reported receiving an alert on their device that they will not be able to use the “Aquatic Life” screensaver after this month, as first reported by Cord Cutters News . The screensaver has been an option for Roku OS users for 10 years. Roku has been licensing the animation, which is called the Marine Aquarium , from artist Jim Sachs through Prolific Publishing. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Shure’s popular podcasting and streaming mic is almost $50 off</title>
@@ -46,6 +123,17 @@
 <description>Gentle Monster shared that its "Intelligent Eyewear" will be available to pre-order on November 12.</description>
 <enclosure url="https://www.engadget.com/img/gallery/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/l-intro-1793994268.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/l-intro-1793994268.jpg" medium="image"/>
+</item>
+<item>
+<title>FAA to finally ditch floppy disks in what it calls "historic" tech upgrade</title>
+<link>https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade</link>
+<guid isPermaLink="false">7e28c0d8055c0e98ce16b314e5d148c2447c6fef31ca3db8b81b233374de1771</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 19:12:28 +0000</pubDate>
+<description>While you might be pondering whether to replace a smartphone with one that has a slightly better camera or a second screen, the Federal Aviation Administration is planning a much bigger leap in technology for the country's air traffic control system. The FAA said yesterday that it will stop using floppy disks as part of a long-awaited upgrade that will give air traffic controllers faster access to data needed for crucial safety alerts. The new Enterprise Information Display System (E-IDS) will be installed in 435 facilities, replacing several information display systems dating to the 1980s. The FAA "is continuing its historic modernization of America’s air traffic control system by replacing outdated floppy disks that contain vital weather and other critical information with a streamlined, 21st-century system," the agency said. E-IDS will be "deployed to operational control positions at more than 400 facilities across all air traffic control domains," and "provide operationally essential information for controlling aircraft," the FAA said . Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/sean-duffy-faa-tech-1152x648-1793989923.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/sean-duffy-faa-tech-1152x648-1793989923.jpg" medium="image"/>
 </item>
 <item>
 <title>Activists break into building site of Microsoft datacentre in Amsterdam</title>
@@ -87,7 +175,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 06 Nov 2026 18:30:19 +0000</pubDate>
-<description>Those of us missing the John Wick universe can take heart, because Chad Stahelski—who created that franchise—is coming back early next year with a new dystopian action film. It's called Karōshi (a Japanese term that means "death overwork"), and Lionsgate released a killer trailer that puts this film at the top of my list of "must see" movies of 2027. Dying from working too hard is a very real phenomenon, not just in Japan and much of Asia, but also in Sweden, where some 700 workers die each year from overwork. The physical cause is usually stress-related heart attacks or strokes, as well as suicide ( karōjisatsu in Japan). Writer/director Takashi Doscher has transported that concept to a grim, futuristic corporate Manhattan, specifically a company called Ikigai Technologies. Per the official premise: Karōshi is an action-thriller set in a near-future Manhattan, where corporate loyalty and cultural tradition have reshaped everyday life. When a mysterious outsider infiltrates a powerful company after a worker’s death, he exposes the violent system hidden beneath its polished surface. Teo Yoo ( Past Lives ) stars as the aptly named Hiro, who is clearly out for vengeance against the offending corporation. The cast also includes Takehiro Hira, so memorable in the 2024 miniseries Shōgun , as well as Giancarlo Esposito, Cynthia Erivo, Bill Camp, Richard Harmon, Isabel May, and Show Kasamatsu. Read full article Comments</description>
+<description>Those of us missing the John Wick universe can take heart, because Chad Stahelski—who created that franchise—is coming back early next year with a new dystopian action film. It's called Karōshi (a Japanese term that means "death overwork"), and Lionsgate released a killer trailer that puts this film at the top of my list of "must see" movies of 2027. Dying from working too hard is a very real phenomenon, not just in Japan and much of Asia, but also in Sweden. The physical cause is usually stress-related heart attacks or strokes, as well as suicide ( karōjisatsu in Japan). Writer/director Takashi Doscher has transported that concept to a grim, futuristic corporate Manhattan, specifically a company called Ikigai Technologies. Per the official premise: Karōshi is an action-thriller set in a near-future Manhattan, where corporate loyalty and cultural tradition have reshaped everyday life. When a mysterious outsider infiltrates a powerful company after a worker’s death, he exposes the violent system hidden beneath its polished surface. Teo Yoo ( Past Lives ) stars as the aptly named Hiro, who is clearly out for vengeance against the offending corporation. The cast also includes Takehiro Hira, so memorable in the 2024 miniseries Shōgun , as well as Giancarlo Esposito, Cynthia Erivo, Bill Camp, Richard Harmon, Isabel May, and Show Kasamatsu. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-12.24.52-PM-1152x648.png" type="image/png"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-12.24.52-PM-1152x648.png" medium="image"/>
 </item>
@@ -367,17 +455,6 @@
 <media:content url="https://i.guim.co.uk/img/media/e304922b1742f8abb9512b6c85d484878c2dd647/667_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a41764e0895cc931028781b80b934b18" medium="image"/>
 </item>
 <item>
-<title>Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph</title>
-<link>https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph</link>
-<guid isPermaLink="false">20e5ea8a8d5139236251f1e8103949460dc1dca1550dc3e9bdb35034926757a4</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 15:48:36 +0000</pubDate>
-<description>Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on Friday. The investor sentiment then reached London, where the market was, at one stage, poised for its worst day since March. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff3042c93e0c4a87dadb98b73f68be7f" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff3042c93e0c4a87dadb98b73f68be7f" medium="image"/>
-</item>
-<item>
 <title>It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality</title>
 <link>https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality</link>
 <guid isPermaLink="false">caaa8e360f9023c54aa5868db866028cd0bb3e23aa6a726d8ad62c21d7eaea0d</guid>
@@ -609,17 +686,6 @@
 <media:content url="https://www.engadget.com/img/gallery/perplexitys-teammates-are-its-ai-agents-for-ongoing-work/l-intro-1793962197.jpg" medium="image"/>
 </item>
 <item>
-<title>Russia and US seek to block plan for binding rules on autonomous weapons</title>
-<link>https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules</link>
-<guid isPermaLink="false">e2c8623550692e0f12a75cbdec6ee7bd181aa79e1cf1d8ed736c643c4ad0cec4</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 11:08:33 +0000</pubDate>
-<description>UN conference this month seen as key moment after years of discussions on filling gap in governance of AI systems Plans to fill a gap in the global governance of autonomous weapons are in jeopardy as a group of nations led by Russia and the US move to use a UN conference this month to block proposals to negotiate a legally binding set of rules. The scale of the opposition will become clear at a diplomatic retreat starting on Friday before the seventh review conference on “certain conventional weapons” in Geneva due to be attended by 128 countries from 16 to 20 November. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=060887d955440079e9f10a07a5bbb778" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=060887d955440079e9f10a07a5bbb778" medium="image"/>
-</item>
-<item>
 <title>UK ministers seek powers to investigate when AI agents are let off the leash</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889</link>
 <guid isPermaLink="false">62edf17370512d9cc977675e67822b469ea4da24b1419bd3ddace17b75e71d0c</guid>
@@ -829,17 +895,6 @@
 <media:content url="https://www.engadget.com/img/gallery/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/l-intro-1793914388.jpg" medium="image"/>
 </item>
 <item>
-<title>Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats’ election triumph</title>
-<link>https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses</link>
-<guid isPermaLink="false">5c50352f02719aed8ed7ab31fd28fc399e67ccc0f28a54af35f670c36d09d9d4</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 21:23:18 +0000</pubDate>
-<description>Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across bourses The Nasdaq share index had its worst day in 19 months after slumping 5.5% on Thursday amid growing signs that the artificial intelligence industry will face tougher regulation because of the midterm election results. As Wall Street sustained widespread losses, the Nasdaq composite tumbled into “correction territory” – more than 10% below its recent record high – with more than $2tn shaved off its value by the end of trading Thursday. The tech-heavy index had its biggest one-day fall since Donald Trump announced his “liberation day” tariffs on US trading partners in April 2025. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24b781cb8368813539a0ec0d599787ff" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24b781cb8368813539a0ec0d599787ff" medium="image"/>
-</item>
-<item>
 <title>Google, Meta and TikTok sue California to block law protecting children from addiction risk</title>
 <link>https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta</link>
 <guid isPermaLink="false">b775bfc99c1ba2494d0faf35acca1694d7714f29e143497fc51ba7d2893db424</guid>
@@ -873,17 +928,6 @@
 <media:content url="https://image.theregister.com/?imageId=226251&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>BMW bumps battery for the better: The 2027 i7 60 xDrive, driven</title>
-<link>https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven</link>
-<guid isPermaLink="false">35781c16c15310fb96a6ee7857ff7176f658467da9099e53ae5934fe6cd1f8ff</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 20:45:50 +0000</pubDate>
-<description>BMW provided flights from Washington, DC, to Los Angeles and accommodation so Ars could drive the 2027 i7 as well as the 2027 iX5 and X5. Ars does not accept paid editorial content. When BMW debuted the new 7 Series in 2022, it set a new standard for large luxury sedans, increasingly irrelevant though that class is. Rather than siloing off an electric alternative like Mercedes, with its EQS alongside the normal S-Class, BMW simply made the powertrain an option. Stick with a V8 if you want, or consider the rather good electric version instead—only subtle differences like the badging and lack of exhaust pipes give the game away. Since then, BMW has brought out a string of even newer electric vehicles for the 5 and 3 Series (plus their SUV counterparts). It has switched from battery packs made of prismatic cells to more energy-dense arrangements of cylindrical cells. The motors are still electrically excited synchronous ones, but now the drive units feature silicon carbide inverters and more compact packaging. This sixth-generation electric powertrain was designed for the clean-sheet Neue Klasse family, which also threw out the legacy cruft of dozens and dozens of discrete single-function electronic control units for a handful of powerful domain controllers. These computers take over those functions but with much faster processing power—and therefore more capabilities in terms of chassis control or powertrain efficiency—as well as the ability to be more easily updated. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/BMW_i7_60_xD_Vancouver-Green_023-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>A BioWare documentary is set to arrive next year</title>
 <link>https://www.engadget.com/2308483/a-bioware-documentary-is-set-to-arrive-next-year</link>
 <guid isPermaLink="false">387c80c611e4ae034605eb47d608a428edcd7a5a8f9e6204be3b85231cd95d61</guid>
@@ -893,17 +937,6 @@
 <description>Massive Effect: The BioWare Story started filming two years before EA shut down the studio.</description>
 <enclosure url="https://www.engadget.com/img/gallery/a-bioware-documentary-is-set-to-arrive-next-year/l-intro-1793910593.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/a-bioware-documentary-is-set-to-arrive-next-year/l-intro-1793910593.jpg" medium="image"/>
-</item>
-<item>
-<title>Software squeezes more data out of Webb Telescope for imaging exoplanets</title>
-<link>https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets</link>
-<guid isPermaLink="false">be6b70ec9ad1cda930a65eda5d6a3f7de6cf22a77fd4bb83733050ce27aee46a</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 19:59:22 +0000</pubDate>
-<description>With a huge and still-growing catalog of exoplanets, researchers are eager to take the next steps: trying to infer what conditions are like on them, either by imaging them directly or by capturing the light that has passed through their atmosphere. Both are substantial challenges, given the presence of stars that are far, far brighter than light that has come to us via the planet. While telescopes can be fitted with devices called coronagraphs that block out much of a star's light, there are limits to their effectiveness, caused by noise from subtle variations in the telescope's configuration and pointing between observations. Now, researchers have developed a new software package that optimizes a physical model of the telescope in a way that allows us to better model these differences, producing low-noise imaging of exoplanets. Point spreads Central to this work is the concept of a point spread function. If you use a telescope to image a single point of light, it will not appear that way in the actual image. Instead, it will be slightly blurry and spread out, due to imperfections in the telescope hardware and the limits of our ability to keep it pointed accurately through the time it takes to image something. The mathematical description of how a telescope distorts a point of light is called its point spread function. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-1152x648.png" type="image/png"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-1152x648.png" medium="image"/>
 </item>
 <item>
 <title>TikTok just released a standalone Shop app, but it's not in America just yet</title>
@@ -926,28 +959,6 @@
 <description>The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster.</description>
 <enclosure url="https://www.engadget.com/img/gallery/the-xbox-pc-app-is-getting-a-speed-boost/l-intro-1793908196.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-xbox-pc-app-is-getting-a-speed-boost/l-intro-1793908196.jpg" medium="image"/>
-</item>
-<item>
-<title>Kalshi court losses pile up as judges refuse to block state gambling laws</title>
-<link>https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws</link>
-<guid isPermaLink="false">17a4f4dbe0cbac9ed6b942012a4900fd5a8345d81c1b9ab6d060e2c36937169d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 19:46:37 +0000</pubDate>
-<description>Kalshi is having a bad week in the federal court system. Two circuit appeals courts rejected the prediction market's latest attempts to block state gambling laws in Connecticut, New York, and Nevada. Kalshi is separately facing a new lawsuit filed by the Arkansas attorney general. In all cases involving Kalshi and state governments around the US, the main issue is whether state gambling laws apply to prediction markets despite Kalshi's claim that its platform offers "swaps" that can only be regulated by the US Commodity Futures Exchange (CFTC). The Trump administration is on Kalshi's side, with Donald Trump Jr. serving as an advisor to Kalshi in exchange for a generous equity deal . "Kalshi insists that its products are not gambling," but "Arkansas law is concerned with substance, not semantics," Arkansas Attorney General Tim Griffin said yesterday when announcing his lawsuit against Kalshi. Kalshi's prediction market lets customers "wager money on the outcome of just about anything" despite the fact that "gambling on an unregulated platform is squarely prohibited by Arkansas law," he said. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg" medium="image"/>
-</item>
-<item>
-<title>MAHA lost bigly in the midterms—is it at death's door?</title>
-<link>https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses</link>
-<guid isPermaLink="false">15b50e3afe8f06d41a86634f5af8f4743b439b7525917e7067ff46956d74d348</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 18:49:41 +0000</pubDate>
-<description>As Democrats blew away their Republican rivals in an unprecedented midterm sweep Tuesday, the Make America Health Again movement also got bowled over, raising questions about the fate of the motley movement. MAHA—which has centered around anti-vaccine activist and current Health Secretary Robert F. Kennedy Jr.—saw many of its favored candidates and allies lose, while vocal adversaries of Kennedy won. And the coalition was splintering under stress even before the voting started; in recent months, supporters have accused Kennedy and the Trump administration of inaction and betrayals in their two years in power. Now hobbled in Washington, shedding supporters, and showing little to no influence in voting booths, is MAHA on its deathbed? Or will it be reborn—possibly into a new group? Could it be assimilated into a blue platform—after sloughing off the more repulsive, conspiratorial aspects of Kennedy's ideology? These are the questions circling in the aftermath of Tuesday's bloodbath. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301676134-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301676134-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Get root on a musl Linux system by slamming it with an overly long password</title>
@@ -1003,17 +1014,6 @@
 <description>Bluetooth Core 7.0 could make your smart home devices easier to set up, for one. Here’s what we know about the new core specification.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/blu.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/blu.jpg" medium="image"/>
-</item>
-<item>
-<title>Gamers go to ridiculous lengths to "improve" GTA VI with Nvidia's DLSS 5</title>
-<link>https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5</link>
-<guid isPermaLink="false">2fb0a4cf322f754befb481ff5382e82d10ffed4b060753b8ba1593f8e2e8e29d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 17:40:27 +0000</pubDate>
-<description>While the upcoming Grand Theft Auto VI won't be available on PC this month, some gamers are making ridiculous preparations to use their PC graphics cards to apply Nvidia's DLSS 5 technology to the console exclusive. On an explicitly unmoderated GTAVI subreddit, user RevolutionaryBus8208 lays out a proposed setup, which runs a PlayStation 5 through a 4K capture card to a PC. From there, the video signal is run through Veyra , an open source tool that can apply DLSS 5's AI-powered "neural rendering" to video content. The result—which also uses DLSS frame generation to increase the 30 fps source to a 90 fps output—is then piped back to a 4K TV, theoretically adding some of the benefits of a beefy PC graphics card to a console-exclusive game. To demonstrate the potential of this setup, RevolutionaryBus8208 used Veyra to upscale the Grand Theft Auto VI Extended Look trailer posted in August. The resulting DLSS-ified version looks a bit better in places, with sharper background elements, subtler shadows, and more believable light scattering on some surfaces. But it also seems a bit washed out compared to the original video's deeper blacks and arguably suffers from an unnaturally smooth "soap opera effect" in some scenes. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-1152x648.png" type="image/png"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-1152x648.png" medium="image"/>
 </item>
 <item>
 <title>openSUSE Leap 16.1 gives Linux users the right to remain immutable</title>

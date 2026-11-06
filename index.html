@@ -701,6 +701,49 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
     if (note) renderAnswer(note);
   }
 
+  /* ---- Long-lived DailyPulse session (the Worker swaps a Google login for a 30-day token) ---- */
+  let lastSlide = 0;
+  const workerBase = () => WORKER_URL.replace(/\/+$/, '');
+  const isSessionToken = t => { const c = jwtClaims(t); return !!(c && c.typ === 'dp-session'); };
+
+  async function exchangeGoogleToken(credential) {
+    const r = await fetch(workerBase() + '/auth/google', {
+      method: 'POST', mode: 'cors', cache: 'no-store', credentials: 'omit',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify({ idToken: credential })
+    });
+    const d = await r.json().catch(() => ({}));
+    if (!r.ok || !d.sessionToken) throw new Error(d.error || 'Could not start a long sign-in session.');
+    return d.sessionToken;
+  }
+
+  async function renewSession() {
+    if (!idToken || !isSessionToken(idToken)) return false;
+    try {
+      const r = await fetch(workerBase() + '/auth/refresh', {
+        method: 'POST', mode: 'cors', cache: 'no-store', credentials: 'omit',
+        headers: { 'Accept': 'application/json', 'Authorization': 'Bearer ' + idToken }
+      });
+      const d = await r.json().catch(() => ({}));
+      if (r.ok && d.sessionToken) {
+        idToken = d.sessionToken;
+        try { localStorage.setItem(TOKEN_KEY, idToken); } catch {}
+        return true;
+      }
+    } catch { /* offline: keep the current session */ }
+    return false;
+  }
+
+  // Each visit pushes the 30-day expiry forward, so regular readers stay signed in.
+  async function slideSession() {
+    if (!profile || !isSessionToken(idToken)) return;
+    if (Date.now() - lastSlide < 6 * 3600 * 1000) return;
+    const c = jwtClaims(idToken);
+    if (!c || !c.exp || c.exp * 1000 - Date.now() > 25 * 86400 * 1000) return;
+    lastSlide = Date.now();
+    await renewSession();
+  }
+
   // Google ID tokens last about an hour, so we refresh them silently in the background.
   function silentRefresh(ms) {
     return new Promise(resolve => {
@@ -715,7 +758,7 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   function scheduleRefresh() {
     clearTimeout(refreshTimer);
     const c = jwtClaims(idToken);
-    if (!c || !c.exp) return;
+    if (!c || !c.exp || c.typ === 'dp-session') return;   // long sessions are renewed when the user returns
     const wait = Math.max(10000, c.exp * 1000 - Date.now() - 5 * 60 * 1000);
     refreshTimer = setTimeout(() => silentRefresh(), wait);
   }
@@ -1027,6 +1070,7 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
 
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState !== 'visible' || !profile) return;
+    if (isSessionToken(idToken)) { slideSession(); return; }
     const c = jwtClaims(idToken);
     if (!c || !c.exp || c.exp * 1000 - Date.now() < 5 * 60 * 1000) silentRefresh();
   });
@@ -1039,11 +1083,13 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   gsi.onload = () => {
     google.accounts.id.initialize({
       client_id: GOOGLE_CLIENT_ID,
-      callback: resp => {
-        if (resp && resp.credential) {
-          startSession(resp.credential);
-          refreshWaiters.splice(0).forEach(f => f(true));
-        }
+      callback: async resp => {
+        if (!(resp && resp.credential)) return;
+        let token = resp.credential;
+        try { token = await exchangeGoogleToken(resp.credential); }
+        catch (error) { console.warn('DailyPulse long sign-in unavailable, using the Google token:', error.message); }
+        startSession(token);
+        refreshWaiters.splice(0).forEach(f => f(true));
       },
       auto_select: true,
       cancel_on_tap_outside: false,
@@ -1061,7 +1107,7 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   try {
     const saved = localStorage.getItem(TOKEN_KEY) || sessionStorage.getItem(TOKEN_KEY);
     const storedProfile = JSON.parse(localStorage.getItem(PROFILE_KEY) || 'null');
-    if (saved && tokenValid(saved)) startSession(saved);
+    if (saved && tokenValid(saved)) { startSession(saved); slideSession(); }
     else if (storedProfile) { pendingReturning = storedProfile; renderAuthBar(); }
   } catch {}
 })();

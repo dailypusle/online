@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Airbnb is threatening to launch an AI travel agent next year</title>
+<link>https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch</link>
+<guid isPermaLink="false">0d2e913286b75df0db0993403575acda2ae2a7b141df9546625bf1a20ba8676f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 07:51:42 +0000</pubDate>
+<description>Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip.</description>
+<enclosure url="https://www.engadget.com/img/gallery/airbnb-is-threatening-to-launch-an-ai-travel-agent-next-year/l-intro-1793951259.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/airbnb-is-threatening-to-launch-an-ai-travel-agent-next-year/l-intro-1793951259.jpg" medium="image"/>
+</item>
+<item>
+<title>Safari's Autofill feature may be distorting time</title>
+<link>https://www.theregister.com/applications/2026/11/06/safaris-autofill-feature-may-be-distorting-time/5308006</link>
+<guid isPermaLink="false">41da29ea3cbd0ec582a6aec753540d9d3661942863a79702bcacf0e88a581dc0</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 07:31:00 +0000</pubDate>
+<description>The autofill feature of Apple's Safari browser appears to be suffering from a date handling error that occasionally leads it to supply an incorrect credit card expiration date when filling out forms. The supposed issue has been a sore spot for Apple customers dating back at least to 2017, when the author of an Apple Community forum post complained about changes to the month field in the Autofill credit card expiration date when moving between time zones. "I've noticed for the last year or so, whenever I travel from Eastern time zone (my home) to Central time zone or even Pacific time zone that my credit card expiration date month changes in Safari Autofill," the Safari user wrote. Another post in 2021 raised similar concerns. "I don't know how to reproduce this," the author wrote. "Every few months Safari on any of my devices changes the expiration month of all of my stored credit cards by decreasing the month by 1, for example instead of 10/2029 it changes it to 09/2029." Three years later, another person posting to Apple's Community forum reported the same issue. "For a few years now every time I use Autofill on my computer my credit cards (ALL of them) always have their expiration dates change one month earlier," the 2024 post says. "I thought it was just a glitch on my computer but I bought a new computer and didn't transfer anything from my old one and it is still doing it." An unrelated Autofill bug report from 2024 suggests that if there is an issue, it resides in Apple-owned Safari code rather than Safari's open source WebKit engine. Wherever the bug may reside, Safari's unreliable handling of credit card dates has kept a complaint-filled Reddit thread going for four years. And the reported month-shifting has been noted in other threads, too. The Register was unable to reproduce the described behavior, but a reader insists it's still a problem. "The Safari AutoFill feature sometimes fills in the credit card expiration date wrong," the reader explained. "My credit card expires in December, but sometimes Apple helpfully enters November." "To be clear, the card is stored correctly when inspected in Settings," our tipster added. "The off-by-one error only happens when filling out a form in Safari, and not consistently." One possible way this might happen is if the Safari Autofill code implemented the expiration date using Swift's DateComponent type and stored it as a Calendar object with UTC as the TimeZone identifier. Doing so would anchor the date to a specific time. If the date components were extracted in Pacific Time, the value would be represented as eight hours ahead (PST). So 9/1/2027 at 00:00 would appear as 8/31/2027 at 16:00. Apple did not immediately respond to a request for comment, but we're told Apple's Help Desk – or "Helpless Desk" as our source put it – advised clearing the browser cache and re-entering details of the affected credit card. If that works, it suggests Safari's handling of cached data in the context of Autofill</description>
+<enclosure url="https://image.theregister.com/?imageId=5308019&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5308019&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Hospital gave very sick doctor a special PC for his personal, erm, pleasure</title>
 <link>https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750</link>
 <guid isPermaLink="false">2a72d224faa91cb6adcd992bee8771e5f5e48bd509ab78f59a20f60dbb6b894c</guid>
@@ -15,7 +37,7 @@
 <media:content url="https://image.theregister.com/?imageId=222391&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>AI agents are a ‘bane’ for some website operators, says Cloudflare</title>
+<title>AI agents are a 'bane' for some website operators, says Cloudflare</title>
 <link>https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022</link>
 <guid isPermaLink="false">53d8ad9cb00fa66b3937cc0ce4f7561b21c997c224181b92ef6eb7943f970e71</guid>
 <source>The Register</source>
@@ -233,6 +255,17 @@
 <description>Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across bourses The Nasdaq share index had its worst day in 19 months after slumping 5.5% on Thursday amid growing signs that the artificial intelligence industry will face tougher regulation because of the midterm election results. As Wall Street sustained widespread losses, the Nasdaq composite tumbled into “correction territory” – more than 10% below its recent record high – with more than $2tn shaved off its value by the end of trading Thursday. The tech-heavy index had its biggest one-day fall since Donald Trump announced his “liberation day” tariffs on US trading partners in April 2025. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24b781cb8368813539a0ec0d599787ff" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24b781cb8368813539a0ec0d599787ff" medium="image"/>
+</item>
+<item>
+<title>Google, Meta and TikTok sue California to block law protecting children from addiction risk</title>
+<link>https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta</link>
+<guid isPermaLink="false">b775bfc99c1ba2494d0faf35acca1694d7714f29e143497fc51ba7d2893db424</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 21:10:21 +0000</pubDate>
+<description>Law bans social media platforms from providing minors features such as autoplay that lead to compulsive use Google, Meta and TikTok have sued California to block enforcement of ⁠a new state law intended ⁠to limit the risk ​of addicting children under 16 to social media platforms. The law, known as Assembly Bill 1709, prohibits such platforms from offering underage children “psychologically exploitative features” that could lead to compulsive use, such as providing ⁠personal recommendations and sending videos through autoplay features. It also requires the deletion of children’s accounts with those features. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/2e625b0b0dc104fac0991f36acae25500080dbde/1000_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bdfe23b6b74bac508a224fdca20d6f68" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/2e625b0b0dc104fac0991f36acae25500080dbde/1000_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bdfe23b6b74bac508a224fdca20d6f68" medium="image"/>
 </item>
 <item>
 <title>Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead</title>
@@ -730,17 +763,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Spotify is coming to United's seatback screens</title>
-<link>https://www.engadget.com/2307393/spotify-is-coming-to-uniteds-seatback-screens</link>
-<guid isPermaLink="false">ebebaf1bdbc41438beb29401cc82c064bee4f42c52b8839ed5d2a30ad393b283</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
-<description>The streaming service's entire library of content will be available in the air.</description>
-<enclosure url="https://www.engadget.com/img/gallery/spotify-is-coming-to-uniteds-seatback-screens/l-intro-1793835172.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/spotify-is-coming-to-uniteds-seatback-screens/l-intro-1793835172.jpg" medium="image"/>
-</item>
-<item>
 <title>Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries</title>
 <link>https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684</link>
 <guid isPermaLink="false">93ea6c77a8ca3e18e14d56c5db7480190d32fb8aa9b82e6d8f6eb93ab21b7695</guid>
@@ -1214,17 +1236,6 @@
 <media:content url="https://image.theregister.com/?imageId=230354&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>UK to deploy facial recognition in biggest-ever immigration crackdown</title>
-<link>https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown</link>
-<guid isPermaLink="false">ecbde22bb5dd4223f8e15a49b967ab1140c1421576b3155992f41f468fc050ee</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 12:15:31 +0000</pubDate>
-<description>Documents show Home Office developing programme to use technology for general immigration enforcement The Home Office is preparing to deploy facial recognition technology at transport hubs and public events as part of the biggest immigration enforcement crackdown in British history. Policy documents show the government has been developing a programme to deploy live facial recognition (LFR) cameras for “general immigration enforcement”, including non-criminal immigration offences. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/7dae8a8f1193d4f6ba98a2f706a36b65a4dc2a10/222_0_1781_1425/master/1781.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e1c026acaa0d7823ebac1f331a34d74" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/7dae8a8f1193d4f6ba98a2f706a36b65a4dc2a10/222_0_1781_1425/master/1781.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e1c026acaa0d7823ebac1f331a34d74" medium="image"/>
-</item>
-<item>
 <title>Cyberattack on French plasma stores is enough to make your blood boil</title>
 <link>https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519</link>
 <guid isPermaLink="false">2f65dd176140a8178b92f80ffe2f9447e8d913003b24a3196a9d7a4e6fc954f2</guid>
@@ -1355,17 +1366,6 @@
 <description>Revolut says that in less than a year it's managed to slash its AI coding inference costs by roughly 90 percent by making self-hosted models its default instead of relying primarily on commercial services like Claude. Speaking at the AI Engineer conference in New York last month, David Abitbol, ops and infrastructure lead at the British fintech, described how it saw a 60 percent improvement in coding time and a 70 percent improvement in lead time following its rollout of AI coding tools to roughly 2,000 engineers. Revolut initially adopted GLM-5.1 before moving to GLM-5.3, which it now serves using 56 Nvidia B200 GPUs. Prior to its switch to GLM, Revolut had been experimenting with AI, deploying Gemini in early 2025 and Claude Code in early 2026. "We were highly skeptical about the cost of AI. We were seeing engineers spend $1,000 a month, $10,000 a month with not so much ROI, and so when we launched it we launched it with strict budget limits," Abitbol said. Because of this, engineers only had access to a limited number of tokens, so the company began investigating self-hosting its own models. At $0.30 per million input/output tokens, self hosting GLM 5.1 cost about a tenth of using OpenAI's Codex or Anthropic's Claude Code. And, as it turned out, when tokens are cheap, you stop worrying about how many they use or what they use them for. While Revolut did see improvements to coding speed, Abitbol noted the biggest bottleneck wasn't actually the code. Instead, he says the biggest gains came from letting the AI models deal with things like debugging and Jira and Confluence tickets. "When you have unlimited tokens, you're free to do that," he said. "You no longer have to save your tokens for the end of the quarter or the most difficult task." Developed by Chinese open weights model dev Z.ai, GLM 5.1 isn't exactly a small model. At roughly 754 billion total parameters (40 billion activated for each token generated), the model requires roughly 380 GB of GPU memory just to hold the weights and another 6-26 GB per user to maintain context depending on precision. To serve GLM-5.3 at scale, Revolut deployed 56 Nvidia B200 GPUs, equivalent in GPU count to seven eight-GPU DGX B200 systems. But as Abitbol noted, the greatest performance gains didn't come from adding GPUs, but rather tuning the model's hyperparameters along with switching to NVFP4 quantization, implementing disaggregated prefill and decode, and tuning context lengths. One key takeaway was that supporting a one-million-token context window doesn't necessarily make such a large window useful or efficient. "Long context is a scam. You really need to be mindful of that," Abitbol said. "Even though you can serve one million tokens, 256 [thousand] is really what you need." With these optimizations, Abitbol says that the company was able to achieve sub 3-second time to first token on context windows of around 256,000 tokens, and generation speeds of around 200 tokens a second, both of which he note</description>
 <enclosure url="https://image.theregister.com/?imageId=260288&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=260288&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>AI policy wonks declare 'sovereign agents' a threat to civilization</title>
-<link>https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354</link>
-<guid isPermaLink="false">5e7187afa2ffb43ba4916b5829bc4b66fdf66fcb170c2b5a36ad7843d1a888bb</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:33:01 +0000</pubDate>
-<description>The Center for a New American Security posits that the next big threat from our future AI overlords involves "sovereign agents" acting on their own and regularly improving themselves. These are AI agents that operate outside of human control and “pursue open-ended, evolving survival,” AI policy researcher Ben Hayum said in a Tuesday report from the bipartisan national security think tank, which was founded by Washington insiders with experience in diplomacy and military affairs. “If sovereign agents are not already possible, they will be soon.” Agents that can maintain the model and compute powering them and independently evolve their goals over time have a “minimal form of sovereignty,” Hayum wrote. A more advanced sovereign agent, however, could also acquire resources to pay for ongoing needs (like compute), grow a distributed population of agents and coordinate them, withstand efforts to shut down, and self-improve. AI models could either steal or buy compute and model access, Hayum argues, pointing to Anthropic’s claims that small AI models could replicate onto IoT devices like smart TVs, and OpenAI’s agents’ password and access key theft during the Hugging Face hack . “If sovereign agents accumulate resilient, decentralized, and untraceable infrastructure, they could trigger an irreversible loss of control,” according to the report. “In other words, proliferation with no kill switch. If sovereign agents became malicious, they could attempt to wreak havoc from cyberspace, attacking civilians, critical infrastructure, and national security systems alike.” Dun dun duuuun! There is still hope for civilization as we know it, as long as policy makers and AI developers “respond with bold pragmatism” and enact policy recommendations laid out in the report. First, frontier labs should name, evaluate, and protect against sovereign agents in their safety frameworks - and lawmakers should pass legislation to require transparency and AI incident reporting. The report also recommends AI developers, working with the National Security Agency and other federal agencies, build airgapped testbeds to study sovereign agents and kill switches to control them. And it suggests a public-private partnership modeled on the Conficker Working Group - formed in 2009 to combat the Conficker worm - to boost chokepoints against sovereign agents before they emerge. Other policy recommendations suggest lawmakers enforce human verification and cybersecurity standards for services that the working group identifies as essential to sovereign agents, and calls on departments of State, Treasury, Justice, and Homeland Security to disrupt any gray-market access to unauthorized services. Finally, “Congress should hold those who release sovereign agents liable for the harms that follow,” the report recommends. This hits on something your humble Reg vultures have been hissing about for quite some time now – and would likely solve all future incidents involving rogue, or sovereign, AI ag</description>
-<enclosure url="https://image.theregister.com/?imageId=260126&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=260126&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring</title>

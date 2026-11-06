@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Chainalysis says breach exposed password hashes and live tokens</title>
+<link>https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed</link>
+<guid isPermaLink="false">63c3feaff75059db45885a884283987b5117464444c6ce3c1d1d98b8e8eb29a6</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 06:54:34 +0000</pubDate>
+<description>Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 06:04:41 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
 <title>Crypto exchanges tout cold storage ratios after Binance attack</title>
 <link>https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight</link>
 <guid isPermaLink="false">fd03a29689a214d95fc75d0f6ebf7becd8c8bbc2d018c7bb6f2e00b83199eeb4</guid>
@@ -46,17 +68,6 @@
 <description>Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 23:03:41 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI</title>
@@ -849,17 +860,6 @@
 <description>SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income</title>
-<link>https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income</link>
-<guid isPermaLink="false">0e6946c1c4219b7c556f94876b95eccc009e66069b160f8ed5043f4b9586c033</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 04 Nov 2026 18:02:42 +0000</pubDate>
-<description>Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTPGZ3TZEHDDPCZNDADBR2/coin-crushing-stablecoin-2.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTPGZ3TZEHDDPCZNDADBR2/coin-crushing-stablecoin-2.png" medium="image"/>
 </item>
 <item>
 <title>What Is x402? How AI Agents Pay With Crypto</title>

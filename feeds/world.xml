@@ -4,15 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Trump says chief of staff Susie Wiles out, Stephen Miller will replace her</title>
+<link>https://abcnews.com/Politics/trump-chief-staff-susie-wiles-miller-replace/story?id=137921244</link>
+<guid isPermaLink="false">2f730e18f67201e05003ba71c88e98a9167879a4a27ee4ea73e68d0830c6a264</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 22:44:06 +0000</pubDate>
+<description>Trump said his top aide Stephen Miller will replace her in the job.</description>
+<enclosure url="https://s.abcnews.com/images/US/wiles-ap-gmh-261106_1793991411176_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/wiles-ap-gmh-261106_1793991411176_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Critical incident declared after car 'damaged by gunfire' - with two arrested</title>
+<link>https://news.sky.com/story/critical-incident-declared-in-south-wales-after-car-damaged-by-gunfire-with-two-arrested-13609113</link>
+<guid isPermaLink="false">9f5ace0722d4bf8b61641e9694e091e311acc812dfcff38f4c0f36a7bf7017c4</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 22:26:00 +0000</pubDate>
+<description>A critical incident has been declared in South Wales after a car was damaged by gunfire, police said.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-swansea-a48-clase-road_7399643.jpg?20261106224119" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-swansea-a48-clase-road_7399643.jpg?20261106224119" medium="image"/>
+</item>
+<item>
 <title>Cornell faculty senate votes no-confidence in school's leadership</title>
 <link>https://abcnews.com/US/cornell-faculty-senate-release-result-confidence-vote/story?id=137911777</link>
 <guid isPermaLink="false">916c2f64effac5381944e87a92e7169261c78d8b758e3f6141b49204d378909e</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 06 Nov 2026 21:20:16 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 22:25:50 +0000</pubDate>
 <description>Following the alleged gang rape of a student, Cornell's faculty senate passed a no-confidence resolution condemning the school's handling of sexual violence on campus.</description>
 <enclosure url="https://s.abcnews.com/images/US/cornell-3-rt-gmh-261015._1792082317974_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/cornell-3-rt-gmh-261015._1792082317974_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Kenyan cult leader sentenced to 200 years in prison</title>
+<link>https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison</link>
+<guid isPermaLink="false">479d3d59e3886c9fb2e6ef93549d3744138010f5caf9d5807a79ad8c779bab2b</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 21:23:53 +0000</pubDate>
+<description>In tonight's edition, cult leader Paul Mackenzie is sentenced to 200 years in prison for the murder of 190 children starved ‌to death on his orders. Also, in South Africa, activists warn that new data centres could put added pressure on already strained water and electricity supplies. And Senegal continues to celebrate the spirit of sport at the Youth Olympic Games.</description>
+<enclosure url="https://s.france24.com/media/display/70a84f88-da28-11f1-a6e4-695cb59fade5/w:1024/p:16x9/capture-1380a6db.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/70a84f88-da28-11f1-a6e4-695cb59fade5/w:1024/p:16x9/capture-1380a6db.jpg" medium="image"/>
+</item>
+<item>
+<title>Europe bomb hoaxes widen</title>
+<link>https://www.france24.com/en/europe-bomb-hoaxes-widen</link>
+<guid isPermaLink="false">730544f3c51fcdef6a13de892fd9b1e6f7ca262fbd883f2c5f36726b6df8d188</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 21:22:24 +0000</pubDate>
+<description>The series of hoax bomb scares sent to several Irish media outlets and European airlines are likely part of a coordinated campaign of disruption, according to the Irish government. Dozens of commercial flights have been targetted by email with threats said to be over and above the typical hoax in specificty. Ireland's broadcaster RTE who's staff evacuated the premises this morning and several Italian airlines, say they received a mesage cliaming to be from a Russian extremist group calling itself the Fighters of the Male State, which denied its implication. France 24's Jean-Emile Jammine speaks to Eric Schouten, founder and CEO of Dyami Security Intelligence.</description>
+<enclosure url="https://s.france24.com/media/display/d4fadc82-da26-11f1-bdcc-d18c5759e759/w:1024/p:16x9/capture-2027abfe.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/d4fadc82-da26-11f1-bdcc-d18c5759e759/w:1024/p:16x9/capture-2027abfe.jpg" medium="image"/>
 </item>
 <item>
 <title>Pope Leo arrives in Uruguay for first stop on 12-day South America tour</title>
@@ -26,6 +70,17 @@
 <media:content url="https://s.france24.com/media/display/0aab0508-da1a-11f1-81c8-d18c5759e759/w:1024/p:16x9/2026-11-06T193927Z-1437835472-RC2JIOACA4EZ-RTRMADP-3-POPE-LATAM-URUGUAY.jpg" medium="image"/>
 </item>
 <item>
+<title>WATCH: $11.4M shipment of Nvidia cargo stolen from Oakland</title>
+<link>https://abcnews.com/video/137915251</link>
+<guid isPermaLink="false">fe4b95802c3df26d06966525993fcfa39a5dc91bce8de090554e53b47746f260</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 20:59:52 +0000</pubDate>
+<description>Experts describe the computer hardware theft as a sophisticated cargo heist.</description>
+<enclosure url="https://s.abcnews.com/images/US/261106_abcn_nvidiachiptheft_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/261106_abcn_nvidiachiptheft_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Trump announces immigration hardliner Stephen Miller as new chief of staff</title>
 <link>https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff</link>
 <guid isPermaLink="false">0db36603c7f03ffb3720b821950d39405f6bf916e4027dc3f99cb41b3d843727</guid>
@@ -37,26 +92,26 @@
 <media:content url="https://s.france24.com/media/display/e4ccbd52-da20-11f1-92bf-a575454bc579/w:1024/p:16x9/000-D6PN3T3.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump says chief of staff Susie Wiles out, Stephen Miller will replace her</title>
-<link>https://abcnews.com/Politics/trump-chief-staff-susie-wiles-miller-replace/story?id=137921244</link>
-<guid isPermaLink="false">2f730e18f67201e05003ba71c88e98a9167879a4a27ee4ea73e68d0830c6a264</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 20:44:49 +0000</pubDate>
-<description>Trump said his top aide Stephen Miller will replace her in the job.</description>
-<enclosure url="https://s.abcnews.com/images/US/wiles-ap-gmh-261106_1793991411176_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wiles-ap-gmh-261106_1793991411176_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Israel's Arab-led parties in spotlight after inconclusive election</title>
 <link>https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties</link>
 <guid isPermaLink="false">612883a640e88a9ac93034bb767c0d51680eafd8a915f4a6ad80029334c6fab6</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Fri, 06 Nov 2026 20:42:51 +0000</pubDate>
-<description>Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key (Image credit: Mahmoud Illean)</description>
+<description>Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key. (Image credit: Mahmoud Illean)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8069x5380+0+0/resize/8069x5380!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F6c%2F50cd0c0a4ea1b5b817c6d594d7b6%2Fap26300479457875.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8069x5380+0+0/resize/8069x5380!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F6c%2F50cd0c0a4ea1b5b817c6d594d7b6%2Fap26300479457875.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Senator-elect Abdul El-Sayed’s grandparents react to historic win in Michigan</title>
+<link>https://abcnews.com/video/137925710</link>
+<guid isPermaLink="false">53c240f72bd2343f3fef906669a7a29e66312ef3f66b0b28363255ef627e5268</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 20:33:48 +0000</pubDate>
+<description>Jan and Judy Johnson, grandparents of Sen.-elect Abdul El-Sayed, join ABC News Live to reflect on his Senate victory, their blended interfaith family and the traditions that bring them together.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/261106_abcnl_2p_johnson_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/261106_abcnl_2p_johnson_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Boy, 6, dies in hospital after house fire that killed four members of his family</title>
@@ -76,7 +131,7 @@
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Fri, 06 Nov 2026 20:21:13 +0000</pubDate>
-<description>From the first Native American elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic candidates in the midterms. (Image credit: Scott Olson/Getty Images; Dymanh Chhoun/Sahan Journal/CatchLight via Getty Images; Sylvia Jarrus for NPR)</description>
+<description>From the first Native American woman elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic candidates on Tuesday. (Image credit: Scott Olson/Getty Images; Dymanh Chhoun/Sahan Journal/CatchLight via Getty Images; Sylvia Jarrus for NPR)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F45%2Fec329b15426b8f905036518cfcae%2Fdems-senate-history.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F45%2Fec329b15426b8f905036518cfcae%2Fdems-senate-history.jpg" medium="image"/>
 </item>
@@ -521,28 +576,6 @@
 <media:content url="https://s.france24.com/media/display/786ab9d8-d9d6-11f1-88c5-a575454bc579/w:1024/p:16x9/capture-bcc8d7a2.jpg" medium="image"/>
 </item>
 <item>
-<title>Tech giants lose $1 trillion in one day after Democrats victory in midterms</title>
-<link>https://www.france24.com/en/video/20261106-tech-giants-lose-1-trillion-in-one-day-after-democrats-victory-in-midterms</link>
-<guid isPermaLink="false">9538a05ef576a21485ae136aeac07c983b97f2191836a51502df25b99140e05e</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 13:15:27 +0000</pubDate>
-<description>Trillions of dollars have been wiped off the stock value of major tech firms in the US, Europe and Asia. Investors appear worried about the possibility of an AI slowdown and tougher regulation as Democrats won the midterms in the US. Some of the Democratic candidates had expressed their opposition to the data centres that are needed to power AI technology.</description>
-<enclosure url="https://s.france24.com/media/display/6e1d77ee-d9dc-11f1-9d72-695cb59fade5/w:1024/p:16x9/capture-4f9220cf.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/6e1d77ee-d9dc-11f1-9d72-695cb59fade5/w:1024/p:16x9/capture-4f9220cf.jpg" medium="image"/>
-</item>
-<item>
-<title>Canada PM Mark Carney unveils budget to strengthen economy</title>
-<link>https://www.france24.com/en/video/20261106-canada-pm-mark-carney-unveils-budget-to-strengthen-economy</link>
-<guid isPermaLink="false">d4b06f9d7d414a72129de89da9a423357056ac7d00b9af0394a1a7a589fd5106</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 13:10:49 +0000</pubDate>
-<description>Canada's Prime Minister Mark Carney unveiled his first ever budget on November 5, which set out strong ambitions for greater economic independence from the US. The "Masters of our Destiny" budget also announced generous measures for parts of the economy affected by tariffs, setting aside 44 billion Canadian dollars for impacted businesses and workers.</description>
-<enclosure url="https://s.france24.com/media/display/fa6b4696-b28a-11f1-a748-4daf57bffe27/w:1024/p:16x9/2026-09-17T111429Z-20141978-RC2ZKNAG3C67-RTRMADP-3-EU-CANADA.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/fa6b4696-b28a-11f1-a748-4daf57bffe27/w:1024/p:16x9/2026-09-17T111429Z-20141978-RC2ZKNAG3C67-RTRMADP-3-EU-CANADA.jpg" medium="image"/>
-</item>
-<item>
 <title>Two dead after bus carrying schoolchildren crashes in France, officials say</title>
 <link>https://news.sky.com/story/two-dead-after-bus-carrying-schoolchildren-crashes-in-france-officials-say-13608677</link>
 <guid isPermaLink="false">e3cbca361357d153945b56a8f505b30e6910f64bed2d53144f020419722b518b</guid>
@@ -565,17 +598,6 @@
 <media:content url="https://s.abcnews.com/images/WNT/261105_wn_goldberg_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Two men charged with murder after death of non-league footballer</title>
-<link>https://news.sky.com/story/two-men-charged-with-murder-after-death-of-non-league-footballer-13608676</link>
-<guid isPermaLink="false">0f19b4b18d1c90bc33c64929592ef1e70dbaa360e7f57824af533235b60c4fab</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 11:40:00 +0000</pubDate>
-<description>Two men have been charged with murder after the death of a non-league footballer.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ezekiel-williams-hendon_7397044.png?20261106124749" type="image/png"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ezekiel-williams-hendon_7397044.png?20261106124749" medium="image"/>
-</item>
-<item>
 <title>WATCH: These identical twin sisters speak at the same time</title>
 <link>https://abcnews.com/video/137904581</link>
 <guid isPermaLink="false">158d5201559cdc8259d091eb7a694644ce8d2374af9cd3db676ff2910aa96037</guid>
@@ -585,17 +607,6 @@
 <description>Danny New talks to identical twin sisters in Australia who are turning heads for their unique speech patterns.</description>
 <enclosure url="https://s.abcnews.com/images/International/261106_gmafl_twins_speak_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/International/261106_gmafl_twins_speak_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Prison operator and health board admit criminal charges after death of inmate with COVID</title>
-<link>https://news.sky.com/story/prison-operator-sodexo-and-lothian-health-board-admit-criminal-charges-after-death-of-inmate-with-covid-13608794</link>
-<guid isPermaLink="false">fb64c23e865f5b1068e8926804b32a389243100dd358ab11e55f1adb507ba350</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 10:49:00 +0000</pubDate>
-<description>A prison operator and an NHS health board have admitted criminal charges after the death of an imprisoned man who contracted COVID-19.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-calum-inglis-covid_7398968.jpg?20261106113906" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-calum-inglis-covid_7398968.jpg?20261106113906" medium="image"/>
 </item>
 <item>
 <title>Left-leaning Washington, Colorado join conservative states in banning trans athletes</title>
@@ -739,27 +750,5 @@
 <description>A Citibank employee was shot and killed at a business complex in Florida on Wednesday, according to local authorities and company officials.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261105_gma_oquendo_tampa3_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261105_gma_oquendo_tampa3_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Eiffel Tower closes amid protests in Paris</title>
-<link>https://abcnews.com/video/137873444</link>
-<guid isPermaLink="false">5ffda0468573f87131919a58acf24e5d6ab5ed63c8efb1c887e11851aadad5d0</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 14:36:48 +0000</pubDate>
-<description>ABC News’ Tom Soufi Burridge reports from Paris, where tens of thousands of police officers have been deployed to help maintain law and order.</description>
-<enclosure url="https://s.abcnews.com/images/GMA/261105_gma_burridge_paris1_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261105_gma_burridge_paris1_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: David Muir on how a high school's auto shop is bringing Houston together</title>
-<link>https://abcnews.com/video/137862300</link>
-<guid isPermaLink="false">cd5b026280bba8b04c0565446a53159bc0c85de7dd1a58d89c4b69d0f8340818</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 05:27:21 +0000</pubDate>
-<description>A student-run automotive shop has opened to the public – giving high schoolers hands-on experience with oil changes, tire rotations and multi-point inspections.</description>
-<enclosure url="https://s.abcnews.com/images/WNT/261104_wn_ender_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/WNT/261104_wn_ender_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>

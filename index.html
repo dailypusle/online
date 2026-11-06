@@ -55,6 +55,7 @@ a{color:inherit}header{position:sticky;top:0;z-index:10;background:rgba(255,255,
 .notify-bell svg{width:22px;height:22px;display:block}
 .notify-bell:hover{background:#eaf4ff;border-color:#8fc5ff;transform:translateY(-1px)}
 .notify-bell:focus-visible,.header-user:focus-visible{outline:3px solid #087cf055;outline-offset:2px}
+.header-user.pending{opacity:.55;cursor:default}
 .notify-bell.subscribed{background:#087cf0;border-color:#087cf0;color:#fff}
 .notify-bell.subscribed svg{fill:currentColor}
 .notify-bell.subscribed:hover{background:#075ed1}
@@ -612,6 +613,9 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   const authBar = document.getElementById('dp-auth-bar');
   const baseCount = chatBody.children.length; // welcome message + suggestions
   let idToken = '', profile = null, conversationId = '';
+  const TOKEN_KEY = 'dp_id_token', PROFILE_KEY = 'dp_profile';
+  let pendingReturning = null;   // saved profile of a returning user while we silently sign them back in
+  let refreshWaiters = [], refreshTimer = null;
 
   const jwtClaims = t => {
     try {
@@ -646,6 +650,13 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       chip.setAttribute('aria-label', chip.title);
       chip.addEventListener('click', () => { if (confirm('Sign out of DailyPulse?')) signOut(); });
       headerAuth.appendChild(chip);
+    } else if (pendingReturning) {
+      const who = pendingReturning.name || pendingReturning.email || 'Google user';
+      const chip = document.createElement('button');
+      chip.type = 'button'; chip.className = 'header-user pending'; chip.disabled = true;
+      chip.textContent = who.trim().charAt(0).toUpperCase() || 'G';
+      chip.title = 'Signing you back in…';
+      headerAuth.appendChild(chip);
     } else if (window.google && google.accounts && google.accounts.id) {
       google.accounts.id.renderButton(headerAuth, { type: 'icon', theme: 'outline', size: 'large', shape: 'circle' });
     }
@@ -664,6 +675,12 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       authBar.append(label, out);
       return;
     }
+    if (pendingReturning) {
+      const wait = document.createElement('span');
+      wait.className = 'dp-auth-note'; wait.textContent = 'Signing you back in…';
+      authBar.append(wait);
+      return;
+    }
     const holder = document.createElement('div');
     const note = document.createElement('span');
     note.className = 'dp-auth-note'; note.textContent = 'Sign in to save your chats';
@@ -676,20 +693,46 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   function signOut(opts) {
     const { keepChat = false, note = '' } = opts || {};
     idToken = ''; profile = null; conversationId = '';
-    try { sessionStorage.removeItem('dp_id_token'); localStorage.removeItem('dp_conversation_id'); } catch {}
+    pendingReturning = null; clearTimeout(refreshTimer);
+    try { sessionStorage.removeItem(TOKEN_KEY); localStorage.removeItem(TOKEN_KEY); localStorage.removeItem(PROFILE_KEY); localStorage.removeItem('dp_conversation_id'); } catch {}
     if (window.google && google.accounts && google.accounts.id) google.accounts.id.disableAutoSelect();
     if (!keepChat) clearChat();
     renderAuthBar();
     if (note) renderAnswer(note);
   }
 
+  // Google ID tokens last about an hour, so we refresh them silently in the background.
+  function silentRefresh(ms) {
+    return new Promise(resolve => {
+      if (!(window.google && google.accounts && google.accounts.id)) { resolve(false); return; }
+      const done = ok => { clearTimeout(timer); resolve(ok); };
+      const timer = setTimeout(() => { refreshWaiters = refreshWaiters.filter(f => f !== done); resolve(false); }, ms || 6000);
+      refreshWaiters.push(done);
+      try { google.accounts.id.prompt(); } catch { done(false); }
+    });
+  }
+
+  function scheduleRefresh() {
+    clearTimeout(refreshTimer);
+    const c = jwtClaims(idToken);
+    if (!c || !c.exp) return;
+    const wait = Math.max(10000, c.exp * 1000 - Date.now() - 5 * 60 * 1000);
+    refreshTimer = setTimeout(() => silentRefresh(), wait);
+  }
+
   function startSession(token) {
     const c = jwtClaims(token);
+    const isNewSession = !profile;   // a background token refresh must not wipe the chat
     idToken = token;
     profile = { name: c && c.name, email: c && c.email };
-    try { sessionStorage.setItem('dp_id_token', token); } catch {}
+    pendingReturning = null;
+    try {
+      localStorage.setItem(TOKEN_KEY, token);
+      localStorage.setItem(PROFILE_KEY, JSON.stringify(profile));
+    } catch {}
     renderAuthBar();
-    restoreChat();
+    scheduleRefresh();
+    if (isNewSession) restoreChat();
   }
 
   async function restoreChat() {
@@ -932,7 +975,10 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
     const timeout = setTimeout(() => controller.abort(), 180000);
     try {
       // If the Google sign-in expired, carry on as a guest (the sign-in button comes back).
-      if (idToken && !tokenValid(idToken)) signOut({ keepChat: true });
+      if (idToken && !tokenValid(idToken)) {
+        await silentRefresh(4000);
+        if (!idToken || !tokenValid(idToken)) signOut({ keepChat: true });
+      }
       const headers = { 'Content-Type': 'application/json', 'Accept': 'application/json' };
       if (idToken) headers['Authorization'] = 'Bearer ' + idToken;
       const payload = { message: question, history: priorHistory };
@@ -979,6 +1025,12 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   form.addEventListener('submit', event => { event.preventDefault(); ask(input.value); });
   document.querySelectorAll('.dp-chat-suggestion').forEach(button => button.addEventListener('click', () => ask(button.textContent.trim())));
 
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState !== 'visible' || !profile) return;
+    const c = jwtClaims(idToken);
+    if (!c || !c.exp || c.exp * 1000 - Date.now() < 5 * 60 * 1000) silentRefresh();
+  });
+
   /* Start Google Sign-In */
   renderAuthBar();
   const gsi = document.createElement('script');
@@ -987,15 +1039,30 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   gsi.onload = () => {
     google.accounts.id.initialize({
       client_id: GOOGLE_CLIENT_ID,
-      callback: resp => { if (resp && resp.credential) startSession(resp.credential); },
-      auto_select: false
+      callback: resp => {
+        if (resp && resp.credential) {
+          startSession(resp.credential);
+          refreshWaiters.splice(0).forEach(f => f(true));
+        }
+      },
+      auto_select: true,
+      cancel_on_tap_outside: false,
+      itp_support: true
     });
     renderAuthBar();
+    // Returning visitor with an expired token: sign them back in silently.
+    if (pendingReturning && !profile) {
+      silentRefresh(6000).then(ok => {
+        if (!ok && !profile) { pendingReturning = null; renderAuthBar(); }
+      });
+    }
   };
   document.head.appendChild(gsi);
   try {
-    const saved = sessionStorage.getItem('dp_id_token');
+    const saved = localStorage.getItem(TOKEN_KEY) || sessionStorage.getItem(TOKEN_KEY);
+    const storedProfile = JSON.parse(localStorage.getItem(PROFILE_KEY) || 'null');
     if (saved && tokenValid(saved)) startSession(saved);
+    else if (storedProfile) { pendingReturning = storedProfile; renderAuthBar(); }
   } catch {}
 })();
 </script>

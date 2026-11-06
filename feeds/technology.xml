@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI is stepping back from NDAs for data center projects</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda</link>
+<guid isPermaLink="false">ad929875c5a71925cbcee2553c8b1114f928f69a9f70b13ca65e789a4ca55788</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 00:37:56 +0000</pubDate>
+<description>Following this week's midterms where voters resoundingly voiced their opposition to data center expansion , OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing "only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information." In October, Amazon announced it would no longer u … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost</title>
+<link>https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance</link>
+<guid isPermaLink="false">93411e9e48d6e5475b1815f6ab102d1fe1c73452b2aefc2332318131cfcfb07d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 00:17:06 +0000</pubDate>
+<description>KENNEDY SPACE CENTER, Fla.—Blue Origin announced two significant upgrades to its New Glenn rocket on Thursday, reducing the cost of manufacturing the vehicle and expanding its capacity for payload delivery to geostationary orbit and the Moon. With these upgrades, the company aims to eventually position New Glenn to launch more than 1,000 times a year. "There has never been higher demand for launch, ever," Dave Limp, chief executive officer of Blue Origin, said during the UP.Summit conference at the Shuttle Landing Facility in Florida. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp" type="image/webp"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp" medium="image"/>
+</item>
+<item>
+<title>Airbnb is working on an AI travel agent</title>
+<link>https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</link>
+<guid isPermaLink="false">8b33f1382f19de19bb661cbe47967641595a12a5ba55b00b70ae357df9c2f789</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 00:06:12 +0000</pubDate>
+<description>Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today . "Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment," Airbnb said. "But planning a trip on Airbnb is different." The company argued that its experience matching hosts and guests, its current role in being part of reservations already, and a "new interface" built "specifically for travel" gives it an edge. Here's how Airbnb says that new interface will work: We don't think a traditional chatbo … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>The New York Times is in talks to buy Letterboxd for around $330 million</title>
 <link>https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report</link>
 <guid isPermaLink="false">7ad2d3f24420f2354ad0a651a5cf7c5a12296d54d9f99c0802d8655c4399ae17</guid>
@@ -24,6 +57,28 @@
 <description>The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a "major" carrier in the US. During an earnings call on Thursday , Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company "super serious," but that it will cost at least $200 billion to pull off: He [Musk] has now bought 76 megahertz of spectrum. By the way, we have 400. So if you now say he can buy the spectrum prospectively, do your math. These are kind of triple-digit billions which are needed to gain the spectrum position. If he has the money, go for it. Then he has to build a network. I can tell you, we have 85,000 tower … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2259379374.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Meet *sshole, the vulnerability that lets hackers SSH into Linux devices</title>
+<link>https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password</link>
+<guid isPermaLink="false">975fa8e739b5760d69bc26b97d2f904799fbd421b4b6fe4b23264e9dd93457b2</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 23:09:36 +0000</pubDate>
+<description>Devices running some configurations of Alpine Linux, and possibly other distributions, are affected by a decade-old vulnerability that allows attackers to log into devices with no password. The vulnerability exists in the interaction between OpenSSH, the code library implementing SSH connections, and musl, a lightweight alternative to the libc library that, unlike most other Linux distributions, is used in Alpine. Further, OpenSSH using musl (pronounced muscle) must not use PAM (pluggable authentication modules), a framework that handles user authentication and account-access checks. Alpine is a lightweight, widely used Linux distribution. Other platforms may be affected if they use the same configurations. One connection, works every time, needs no retries There are two other conditions necessary for successful exploitation. First, a system must have at least one user account that’s accessible using a password that is hashed using the SHA256 or SHA512 functions. Second, the target system account must be configured to be passwordless, by way of specifying a "*" in the password field in /etc/shadow, the Linux file where password hashes are stored. Passwordless accounts are commonly used for accounts that use certificate-based authentication. This setting is common for certain types of accounts. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA unveils mysterious X-70 experimental aircraft using AI-generated image</title>
+<link>https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark</link>
+<guid isPermaLink="false">4714ab8c9466c815c6b2f152b795dcffc433a4acea073350453b6e4b54ef46c3</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 22:49:03 +0000</pubDate>
+<description>NASA has announced a new experimental aircraft, the X-70 Fractal, that will supposedly feature reconfigurable flight-control technology and a modular design for swapping in different payloads. But much remains unknown about the aircraft’s design and development timeline, even as NASA administrator Jared Isaacman said the X-plane could take flight within two years. The mystery surrounding NASA’s newest X-plane was exemplified by the agency’s press release, including an apparently AI-generated image of the X-70, showing a dark silhouette vaguely resembling a military fighter jet obscured by smoke. The news was announced by Isaacman during the UP.Summit held at the agency’s Kennedy Space Center in Florida on November 4. “The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” Isaacman said. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg" medium="image"/>
 </item>
 <item>
 <title>Perplexity launches its own take on AI agents for work</title>
@@ -301,17 +356,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/purplepeople-GettyImages-2227030316-1.jpg" medium="image"/>
 </item>
 <item>
-<title>EA is bringing 25 classic PC games to Steam</title>
-<link>https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition</link>
-<guid isPermaLink="false">a8d095edc90e7e1a9d69f544c16bb71aa40f0aac4e168f5e4d168e2c817e3e55</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 18:30:00 +0000</pubDate>
-<description>This Road Rash screenshot rules. | Image: EA Electronic Arts is launching 25 classic games on Steam, including "Anniversary Editions" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve "the original look, feel and creative intent of the game" but also have quality-of-life updates to support modern systems and controls and improve performance, according to EA . The seven new editions were "inspired" by the discovery of a "physical media vault" with "thousands" of Betacam, VHS, and D1 tapes and "other media assets," EA says. As part of the digitization process, EA was able to recover master FMV sequences and reedited them to restore more … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ROAD_RASH.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ROAD_RASH.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Get root on a musl Linux system by slamming it with an overly long password</title>
 <link>https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910</link>
 <guid isPermaLink="false">53ca9c1c3ea14acdaaaa1d074c23f1a23f91a10080e9af41600e26d0abc54512</guid>
@@ -354,17 +398,6 @@
 <description>Blockchain analysis outfit Chainalysis has confirmed that when attackers broke into its systems in October, they managed to grab usernames, password hashes, and live tokens. In an update written late Wednesday evening, the company, a leader in blockchain analysis which has some very high-profile global customers and partners, confirmed the impact of the attack for the first time. In previous updates, which Chainalysis has issued regularly since it detected the intrusion on October 30, it confirmed that user IDs, full names, email addresses, and organizational role labels were exposed. The news of password hashes and live tokens also being accessed reflects a worsening picture for the company. Chainalysis did not confirm the type of hashing algorithm it used to encrypt users' passwords, which makes it difficult to draw conclusions about the offline crackability of users' hashed credentials. Some users received emails instructing them to change their passwords, but Chainalysis said in its latest update that the password reset functionality is currently down. Nevertheless, users were also encouraged to change their passwords on any site where they reuse credentials. In addition to the exposed data, Chainalysis also detected "abnormal activity" on its transaction screening products, and has taken services down while "our team completes critical work." These include, but are not limited to, the Reactor blockchain investigation platform used by international law enforcement customers, the Data Solutions threat intelligence platform, and the KYT (know your transaction) anti-money laundering solution's user interface and login page. Regarding Reactor and the associated investigation data, Chainalysis said : "At this time, we continue to have no evidence that any investigations data has been accessed or Chainalysis attribution data has been manipulated." The company plans to reinstate KYT and the risk-intelligence Address Screening tool at some point today (Thursday November 5). Customers will have to provide the company’s support team or their account manager with trusted IP addresses, which will be added to an allowlist. From there, users can begin resetting their passwords . "We are working around the clock to harden our systems and bring Reactor and Data Solutions back online," Chainalysis said. "We will require additional protections to access accounts, including that every user will have to reset passwords and rotate API keys as appropriate. We will communicate these changes as necessary. "We know how business-critical these services are to our customers, and we are working expeditiously alongside our outside experts to restore them securely." Chainalysis has not yet commented on who was behind the attack, but implied that the culprits used an AI agent, and likened the attack to others that have hit "many other tech platforms in recent weeks." "This month, Chainalysis detected an external actor using offensive agentic techniques to gain unauthorized</description>
 <enclosure url="https://image.theregister.com/?imageId=227153&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=227153&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Claude AI can plug directly into your bank account</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance</link>
-<guid isPermaLink="false">e6d6c85b3eb3fa4e89ea4aed657ea2fe97a7759e181e964c6e6c3e63cf5108a1</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
-<description>Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot "where did my money go this month," for example, and it'll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also answer broader questions around what bills are left before your next payday, if you can afford big purchases like holiday trips, and how much money you could be saving each month. Its access is read-only, and with Plaid facilit … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Now Claude can help with your finances too</title>
@@ -970,28 +1003,6 @@
 <description>As of Tuesday, developers can explore expanded Siri AI integration for their Apple platform apps through beta releases of iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. Next spring, nearly three years after announcing plans for deeper third-party Siri integration, Apple expects to begin accepting App Store submissions using the new capabilities. "This developer beta offers a sneak peek at Siri AI app intents for developers," Apple said in a developer news post . "With this early Developer Preview, your app can work directly with Siri AI, giving you a first look at new ways to reach and serve your customers." Anything is likely to be an improvement. Apple's Siri, a voice-activated assistant service, dates back to 2011 and gained limited third-party app access in 2016. In 2024, it became an interface for interacting with Apple Intelligence, its suite of generative AI features. Apple Intelligence has not been very intelligent – several advertised Siri capabilities were delayed, so much so that Apple was sued in 2025 over allegations of misleading marketing. After a shakeup of Apple's machine learning group in December 2025, Siri and Apple Intelligence received a makeover at Apple's Worldwide Developers Conference in June. "Before this year, Siri was a timer with a voice," said Roberto Gutierrez, Apple platforms staff engineer at a media company and author of the e-book On-Device Intelligence, in an email to The Register . "Weather, alarms, calls. Anything past that was a coin toss. "On the developer side, SiriKit covered a handful of domains and Shortcuts only worked if users memorized the phrase. Siri AI is the first version that understands context and can chain actions across apps. That's a real change." There is a catch, however, Gutierrez observed. Siri AI is available in a limited number of languages and regions. Support for Traditional Chinese is expected by the end of 2026, and EU availability remains a matter of negotiation – Siri AI is unavailable on iOS, iPadOS, and watchOS in the bloc as Apple works through interoperability concerns under Europe's Digital Markets Act. "Apple is working constructively with the EU in an attempt to find a path forward," the company said last month without committing to any concessions. Gutierrez said that he expects opening Siri to third-party developers will be useful to some extent. "Siri can only do what apps expose through App Intents, and SiriKit is on its way out," he said. "If your app's main actions aren't exposed, the new Siri can't see you. The bigger shift is letting Claude, Gemini and others plug in. Developers already choose between three options for every AI feature: Apple's system model, an open model through MLX, or a cloud API. Siri is heading the same way. It doesn't need to be the smartest model. It needs to be the best router. That's the right call." Apple has made choosing between those three options more difficult by failing to publish benchmarks that show how its Foundation Mod</description>
 <enclosure url="https://image.theregister.com/?imageId=5307663&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5307663&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”</title>
-<link>https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech</link>
-<guid isPermaLink="false">486c70c94cb0cc7c69c7ca0177e23268c43476aa9ce2312ef25ef465c7cc4a1b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 20:55:50 +0000</pubDate>
-<description>Donald Trump’s big, rapid American AI buildout now faces a major slowdown as voters in yesterday’s elections overwhelmingly supported candidates and measures that favored increasing restrictions on AI and data centers nationwide. One resource from a polling firm, called Redbud Consulting, tracked data center initiatives on the ballot and reported that out of 44 measures across 10 states seeking to restrict data centers, 38 passed so far. Those measures included dozens of moratoriums and bans. Analysts suggested those won’t impact data centers already under construction or approved through 2027, instead largely impacting future projects planned for 2028. Only one measure passed allowing a data center to proceed. But even that small win represented pushback on the AI industry—requiring data center developers in a North Dakota city to pay for independent reviews and hold public hearings when expanding or proposing projects. In addition to increasing regulations on data centers, voters also backed anti-AI candidates, electing officials vowing crackdowns in key states building out the most data center capacity in the US. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>After Texas' blue wave, what happens to Elon Musk and SpaceX?</title>
-<link>https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next</link>
-<guid isPermaLink="false">a0d12098f80f26cba2f6f2c1aac5d5e284da02c282e3341227ace7ef727319cb</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 20:36:05 +0000</pubDate>
-<description>Following his public disputes with California authorities during the COVID-19 pandemic, Elon Musk personally moved to Texas, outside of Austin, in 2020. Over the next six years, he doubled down on the Lone Star State. In 2021, Musk increasingly focused the Starship program in South Texas, urging SpaceX employees to move there and work on the company's future. In March of that year, he began using the name Starbase to describe the production and launch facilities near the Rio Grande River. In 2023, he built a massive factory east of Austin to manufacture customer terminals and other electronics for the Starlink program. In July 2024, he announced that SpaceX would relocate its corporate headquarters from Hawthorne, California, to Starbase, Texas. He cited California's regulatory and political environment as the motivating factor. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Palantir CEO says it's pioneering an antiwar movement – while happily accepting defense dollars</title>

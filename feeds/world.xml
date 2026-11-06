@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Trump moves to make Oval Office a national monument to prevent future major changes</title>
+<link>https://abcnews.com/Politics/trump-moves-make-oval-office-national-monument-aiming/story?id=137894328</link>
+<guid isPermaLink="false">7e173a59b32eacaa6c83606441a539de1b4213e3e14201f01c255c691c08ad33</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 00:45:32 +0000</pubDate>
+<description>Trump indicated the proclamation would have to be ratified by Congress.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/trump-1-gty-er-261105_1793920043837_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/trump-1-gty-er-261105_1793920043837_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Marco Rubio denies plans to resign as 2028 speculation grows</title>
+<link>https://www.france24.com/en/americas/20261106-marco-rubio-denies-resignation-2028-white-house</link>
+<guid isPermaLink="false">dd09aa7740821f619ee2a81fa2cc6306b59fb755ea7ca2d44db9c4f404d5dd10</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 00:24:59 +0000</pubDate>
+<description>US Secretary of State Marco Rubio dismissed reports on Thursday that he planned to leave the administration after Republican midterm losses, telling The New York Times he intended to serve through the end of President Donald Trump’s term. Rubio, a potential presidential candidate in 2028, declined to discuss his plans.</description>
+<enclosure url="https://s.france24.com/media/display/a33023e8-cf3a-11f1-a4eb-5b4a75578ebb/w:1024/p:16x9/02e49a537cd5fadcdce9728406b6b4b733a6bcb5.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/a33023e8-cf3a-11f1-a4eb-5b4a75578ebb/w:1024/p:16x9/02e49a537cd5fadcdce9728406b6b4b733a6bcb5.jpg" medium="image"/>
+</item>
+<item>
+<title>Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks</title>
+<link>https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections</link>
+<guid isPermaLink="false">cf6a238773ad656793437dfc1a4427cd03db3dbe0fb797b239d5ac54bb11802e</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 00:16:53 +0000</pubDate>
+<description>Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers. (Image credit: Timothy A. Clary)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3575x2378+0+0/resize/3575x2378!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F8a%2F246fd1f04d62b6c6e0b904447992%2Fgettyimages-2303241458.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3575x2378+0+0/resize/3575x2378!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F8a%2F246fd1f04d62b6c6e0b904447992%2Fgettyimages-2303241458.jpg" medium="image"/>
+</item>
+<item>
+<title>Melania Trump touts rare agreement she brokered between Russia and Ukraine</title>
+<link>https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine</link>
+<guid isPermaLink="false">fce12d9d44ef4b03e40c1b67ba7efeefc51967c50c3583f57cdfd7032b621a5c</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Thu, 05 Nov 2026 23:52:48 +0000</pubDate>
+<description>The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine. (Image credit: Samuel Corum)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4943x3295+0+0/resize/4943x3295!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2F47%2F2b0ce1bb4a2d829d15fd15e5bab2%2Fgettyimages-2303676947.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4943x3295+0+0/resize/4943x3295!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2F47%2F2b0ce1bb4a2d829d15fd15e5bab2%2Fgettyimages-2303676947.jpg" medium="image"/>
+</item>
+<item>
 <title>How North Carolina Democrats flipped several House seats in historically GOP districts</title>
 <link>https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts</link>
 <guid isPermaLink="false">3804be9bdc929bb3d8e54578139ea867e352167f34706e391ba44426a1d9fc85</guid>
@@ -59,17 +103,6 @@
 <media:content url="https://s.abcnews.com/images/Politics/map-ap-er-261104_1793834717260_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Dow plunges 1,800 points, wiping out gains from midterm results rally</title>
-<link>https://abcnews.com/Business/dow-plunges-1200-points-shedding-midterm-results-stock/story?id=137880888</link>
-<guid isPermaLink="false">8bb6847c437096a4ba0f520019c37dbb14166dbf316fd2a9fd78794bce99dccd</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 21:23:46 +0000</pubDate>
-<description>The selloff came a day after the Dow soared more than 1,500 points.</description>
-<enclosure url="https://s.abcnews.com/images/Business/nyse-1-rt-jef-261105_1793894156320_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Business/nyse-1-rt-jef-261105_1793894156320_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Nigeria court bars opposition candidate two months before election</title>
 <link>https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election</link>
 <guid isPermaLink="false">30781d6462466890cb7c615e6e83274a486612238f8a928daba36d80af172429</guid>
@@ -90,6 +123,17 @@
 <description>Republicans considering a presidential run offered their assessment of the party's performance in the midterm elections.</description>
 <enclosure url="https://s.abcnews.com/images/Politics/ted-cruz-ap-jt-261105_1793899416946_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Politics/ted-cruz-ap-jt-261105_1793899416946_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Judge blasts administration for planning to deport Iranians to Iran during wartime</title>
+<link>https://abcnews.com/US/judge-blasts-administration-planning-deport-iranian-immigrants-back/story?id=137886625</link>
+<guid isPermaLink="false">93a4c7b7c33437bbbd92832706ff7291bcbda52238a695634e2b979205ae6b85</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 05 Nov 2026 20:46:06 +0000</pubDate>
+<description>The Trump administration said during a hearing that it's been making plans to deport Iranian migrants back to Iran during the war, earning a rebuke from a federal judge.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/ice-flight-ap-jt-261105_1793905396213_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/ice-flight-ap-jt-261105_1793905396213_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>French protests: 'It's only when public, private sector act together that you can make changes'</title>
@@ -114,17 +158,6 @@
 <media:content url="https://s.abcnews.com/images/US/donald-trump-1-rt-gmh-261104_1793814688050_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Russell Brand found guilty in UK rape, sexual assault trial</title>
-<link>https://abcnews.com/GMA/Culture/russell-brand-found-guilty-uk-rape-sexual-assault/story?id=137877576</link>
-<guid isPermaLink="false">37326c4c73ee73c8418bd9ddbdcefae6cc8786ff263eab157031a48498d03823</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 20:24:30 +0000</pubDate>
-<description>Brand, 51, denied the charges, pleading not guilty to three counts of rape, three counts of sexual assault, and one count of attempted indecent assault.</description>
-<enclosure url="https://s.abcnews.com/images/US/russel-brand-1-ap-gmh-261105_1793888516529_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/russel-brand-1-ap-gmh-261105_1793888516529_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>'Inhumane punishment': Governor Gavin Newsom to commute all 548 California death sentences</title>
 <link>https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences</link>
 <guid isPermaLink="false">058895c955cd47dfb62c48f3ff2432157d52e729de9cb6a89c0b99dba7e1eeb1</guid>
@@ -136,15 +169,15 @@
 <media:content url="https://s.france24.com/media/display/dd2a0d00-d950-11f1-ad62-d18c5759e759/w:1024/p:16x9/063-2302639014.jpg" medium="image"/>
 </item>
 <item>
-<title>Voter frustration about the economy went beyond gas prices, Voter Poll shows</title>
-<link>https://abcnews.com/Business/voter-frustration-economy-gas-prices-voter-poll-shows/story?id=137857804</link>
-<guid isPermaLink="false">8109a22b58ce19f64bb72b1505bfd42cd547bfb677f32973c07d5c8e192fc739</guid>
-<source>ABC News Top Stories</source>
+<title>Breakaway league LIV Golf to fold after filing for bankruptcy</title>
+<link>https://news.sky.com/story/breakaway-league-liv-golf-to-fold-after-lack-of-financial-support-13608566</link>
+<guid isPermaLink="false">84d1f1b8993af6f74f18676a2e4dce28a1843bf5029fbcd3fbd22e95f8698c69</guid>
+<source>Sky News Home</source>
 <category>world</category>
-<pubDate>Thu, 05 Nov 2026 19:46:17 +0000</pubDate>
-<description>Three-fours of voters described the economy as not good or poor, polls showed.</description>
-<enclosure url="https://s.abcnews.com/images/Business/grocery-store-ap-jt-261104_1793827845124_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Business/grocery-store-ap-jt-261104_1793827845124_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Thu, 05 Nov 2026 19:23:00 +0000</pubDate>
+<description>Breakaway men's league LIV Golf is to fold instead of launching a new version because of a lack of financial support.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-golf-sergio-garcia_7398473.jpg?20261105200925" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-golf-sergio-garcia_7398473.jpg?20261105200925" medium="image"/>
 </item>
 <item>
 <title>3rd place Mississippi Senate candidate says he did not spoil tight race for Democrat</title>
@@ -499,17 +532,6 @@
 <media:content url="https://s.france24.com/media/display/26e1fdac-d912-11f1-b02d-d18c5759e759/w:1024/p:16x9/capture-4f347cf9.jpg" medium="image"/>
 </item>
 <item>
-<title>Multiple flights in Europe diverted because of bomb threats after earlier hoaxes</title>
-<link>https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes</link>
-<guid isPermaLink="false">b2bf07c03c94cf2953c571d378bf1fe2b8fb8c2316dedfd7e9e528d19dd8e8b3</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 12:52:44 +0000</pubDate>
-<description>Multiple flights in Europe made emergency landings on Thursday after being diverted because of bomb threats. The incidents followed hoax bomb threats earlier this week that prompted searches, diversions and in one case a military escort.</description>
-<enclosure url="https://s.france24.com/media/display/8a87f438-d912-11f1-af4e-bf1914cabd52/w:1024/p:16x9/EN-20261105-130140-130307-CS-01.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/8a87f438-d912-11f1-af4e-bf1914cabd52/w:1024/p:16x9/EN-20261105-130140-130307-CS-01.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: The wide-ranging reactions to election night</title>
 <link>https://abcnews.com/video/137870293</link>
 <guid isPermaLink="false">9934e5889badd186740d9042d546789a2d039641f969d13e4b399276b08b4665</guid>
@@ -521,17 +543,6 @@
 <media:content url="https://s.abcnews.com/images/US/261105_gmafl_election_reax_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>PM reviewing decision to give UK military satellite system contract to US firm</title>
-<link>https://news.sky.com/story/pm-reviewing-decision-to-give-uk-military-satellite-system-contract-to-us-firm-13608376</link>
-<guid isPermaLink="false">8b4b541b0a55954f02888ac1d3f22f54447058392c3a005d976f4e9740b5b17a</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 12:41:00 +0000</pubDate>
-<description>Andy Burnham must settle a bitter battle on Earth between rival American and European companies over the future in space of a critical UK military satellite system.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-airbus-skynet-6a_7397976.jpg?20261105132329" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-airbus-skynet-6a_7397976.jpg?20261105132329" medium="image"/>
-</item>
-<item>
 <title>Teens worldwide aren't getting enough exercise -- especially girls</title>
 <link>https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap</link>
 <guid isPermaLink="false">b41fac9c85da80f89a9e56252298a2267d1a67c33d748a5e89f46d72416650e8</guid>
@@ -541,28 +552,6 @@
 <description>A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it. (Image credit: Mohamed Abdiwahab/AFP)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3975x2661+0+0/resize/3975x2661!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fbd%2Fe082662b4a28bf31da0f34fc7bf1%2Fgettyimages-612865426.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3975x2661+0+0/resize/3975x2661!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fbd%2Fe082662b4a28bf31da0f34fc7bf1%2Fgettyimages-612865426.jpg" medium="image"/>
-</item>
-<item>
-<title>After sweeping midterm wins, here's what Democrats hope to get done in the majority</title>
-<link>https://www.npr.org/2026/11/05/nx-s1-6029331/democrats-have-a-long-to-do-list-when-they-take-over-congress-next-year</link>
-<guid isPermaLink="false">63ec5f36192ab69a0de1ea748db2a77df398b18bc24b3c7db9085dd87c103adf</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 11:45:35 +0000</pubDate>
-<description>Democrats ran on lowering costs and stamping out corruption. Now that they've won, party leaders will have to unite a sometimes fractious caucus to fulfill those pledges. (Image credit: Kevin Dietsch)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5731x3820+0+0/resize/5731x3820!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Ffe%2Feded9cce4a7dae5586e5b5dedc8d%2Fgettyimages-2303513124.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5731x3820+0+0/resize/5731x3820!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Ffe%2Feded9cce4a7dae5586e5b5dedc8d%2Fgettyimages-2303513124.jpg" medium="image"/>
-</item>
-<item>
-<title>Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?</title>
-<link>https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities</link>
-<guid isPermaLink="false">0e69189faa58e68417f0999a8280abbb147fb3684984168bd807666d419f65fd</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 11:45:30 +0000</pubDate>
-<description>Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver. (Image credit: Graeme Sloan)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F89%2F40b80f9449b58190ae9e7c6654f3%2Fgettyimages-2273284217.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe5%2F89%2F40b80f9449b58190ae9e7c6654f3%2Fgettyimages-2273284217.jpg" medium="image"/>
 </item>
 <item>
 <title>What to know about recounts in Mississippi with razor-thin margin in Senate race</title>
@@ -728,16 +717,5 @@
 <description>Police and paramedics were attacked with fireworks as they tried to reach an injured man, with a police vehicle also set alight.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-glasgow-fire-bonfire-night_7398662.jpg?20261105233100" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-glasgow-fire-bonfire-night_7398662.jpg?20261105233100" medium="image"/>
-</item>
-<item>
-<title>Spanish footballer dies after on-field collision</title>
-<link>https://news.sky.com/story/tenerife-footballer-jesus-de-miguel-30-dies-after-on-field-collision-13607419</link>
-<guid isPermaLink="false">abb5d7492a0747fda5ceddf3bd23c4e70c50da74549c787dff2942f46b41953d</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Tue, 03 Nov 2026 10:20:00 +0000</pubDate>
-<description>Tenerife football player Jesus de Miguel has died after suffering a cardiac arrest following an on-field collision in a match on Monday.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-jesus-de-miguel-tenerife_7395617.jpg?20261103101535" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-jesus-de-miguel-tenerife_7395617.jpg?20261103101535" medium="image"/>
 </item>
 </channel></rss>

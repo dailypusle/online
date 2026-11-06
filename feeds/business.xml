@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards</title>
+<link>https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards</link>
+<guid isPermaLink="false">aa2f38c346482db95b6c3be67fc96e5016b6722dee3b29a035c28dd676e5d3e2</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 10:13:27 +0000</pubDate>
+<description>The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-decrypt-style-03-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool</title>
+<link>https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable</link>
+<guid isPermaLink="false">8c831dc3e0371635dcb1f942cc0181cd948ca274933928cdc7235c474e7b9556</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 09:00:36 +0000</pubDate>
+<description>Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QZ8PA38PE2N6K2QE0N13TT/hi-top-5-biggest-mining-farms-zcash-2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QZ8PA38PE2N6K2QE0N13TT/hi-top-5-biggest-mining-farms-zcash-2.jpg" medium="image"/>
+</item>
+<item>
 <title>Hyperliquid Strategies seeks futures registration for perps</title>
 <link>https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps</link>
 <guid isPermaLink="false">66c51e05028bf034f68011e5ceef6fd5803e0d7d051dcdfcb4384dfaaa267dbd</guid>
@@ -1025,17 +1047,6 @@
 <description>A Nova Scotia judge found prosecutors failed to link William Sandeson's Bitcoin to the 2015 murder of fellow student Taylor Samson.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'</title>
-<link>https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid</link>
-<guid isPermaLink="false">619fc1e9a17c27c47fe36cdb841018d7677e068f19bac9f17326cb34df881c66</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 23:48:32 +0000</pubDate>
-<description>The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Truist expands merchant tools to boost value</title>

@@ -1077,6 +1077,22 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
     return wrap;
   }
 
+  // An italic or bold span can be split across several lines by the model; join those lines first.
+  const startsBlock = l => {
+    const t = l.trim();
+    return !t || /^```/.test(t) || /^#{1,6}\s/.test(t) || /^>/.test(t) || t.startsWith('|') ||
+      /^\s*([-*•]|\d+[.)])\s+/.test(l) || /^(?:\*\s*){3,}$|^(?:-\s*){3,}$|^(?:_\s*){3,}$/.test(t);
+  };
+  const openEmphasis = s => ((s.match(/\*/g) || []).length % 2) === 1;
+  function joinEmphasis(first, allLines, at) {
+    let text = first, next = at + 1, extra = 0;
+    while (openEmphasis(text) && next < allLines.length && !startsBlock(allLines[next]) && extra < 8) {
+      text += ' ' + allLines[next].trim(); next++; extra++;
+    }
+    if (openEmphasis(text)) text = text.replace(/^\*(?!\*)/, '').replace(/(?<!\*)\*$/, '');   // drop a stray unmatched asterisk
+    return { text, next };
+  }
+
   function renderAnswer(text, sources) {
     const bubble = document.createElement('div'); bubble.className = 'dp-chat-bubble';
     const lines = String(text || '').replace(/\r/g, '').split('\n');
@@ -1158,16 +1174,18 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
           stack.push({ indent, type, el });
         }
         const li = document.createElement('li');
-        formatInline(item[3], li);
+        const joinedItem = joinEmphasis(item[3], lines, i);
+        formatInline(joinedItem.text, li);
         stack[stack.length - 1].el.appendChild(li);
-        i++;
+        i = joinedItem.next;
         continue;
       }
 
       // Paragraph
       stack = [];
-      if (line !== '*') { const p = document.createElement('p'); formatInline(line, p); bubble.appendChild(p); }
-      i++;
+      const joined = joinEmphasis(line, lines, i);
+      if (joined.text !== '*') { const p = document.createElement('p'); formatInline(joined.text, p); bubble.appendChild(p); }
+      i = joined.next;
     }
     if (Array.isArray(sources) && sources.length) {
       const wrap = document.createElement('div'); wrap.className = 'dp-chat-sources';

@@ -1,0 +1,35 @@
+{
+  "channels": {
+    "UCEXGDNclvmg6RW0vipJYsTQ": {
+      "available": true,
+      "misses": 1,
+      "status": "offline"
+    },
+    "UCIALMKvObZNtJ6AmdCLP7Lg": {
+      "available": true,
+      "misses": 1,
+      "status": "offline"
+    },
+    "UCNye-wNBqNL5ZzHSJj3l8Bg": {
+      "available": true,
+      "misses": 1,
+      "status": "offline"
+    },
+    "UCQfwfsi5VrQ8yKZ-UWmAEFg": {
+      "available": true,
+      "misses": 1,
+      "status": "offline"
+    },
+    "UCknLrEdhRCp1aegoMqRaCZg": {
+      "available": true,
+      "misses": 1,
+      "status": "offline"
+    },
+    "UCoMdktPbSTixAyNGwb-UYkQ": {
+      "available": true,
+      "misses": 1,
+      "status": "offline"
+    }
+  },
+  "updatedAt": "2026-11-07T14:46:31Z"
+}

@@ -18,6 +18,7 @@ import datetime
 import json
 import pathlib
 import re
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -53,6 +54,10 @@ def check(channel_id):
     """Returns (state, reason). state: live | blocked | offline | unknown."""
     try:
         _, page = get(f"https://www.youtube.com/channel/{channel_id}/live")
+    except urllib.error.HTTPError as error:
+        if error.code == 404:
+            return "offline", "channel not found (check the channel ID)"
+        return "unknown", f"YouTube answered HTTP {error.code}"
     except Exception as error:  # network trouble: do not judge the channel
         return "unknown", f"could not load the live page ({error})"
 
@@ -102,6 +107,7 @@ def main():
     new = {}
     for channel_id in ids:
         state, reason = check(channel_id)
+        time.sleep(1)
         previous = old.get(channel_id)
         print(f"{channel_id}: {state} - {reason}")
 

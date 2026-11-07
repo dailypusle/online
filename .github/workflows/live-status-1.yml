@@ -1,0 +1,34 @@
+name: Update live TV status
+on:
+  schedule:
+    - cron: "3,18,33,48 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-status-update
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check which live channels are working
+        run: python scripts/check_live.py
+
+      - name: Commit live status
+        run: |
+          git config user.name "news-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add live-status.json
+          git diff --staged --quiet || (git commit -m "Update live TV status" && git pull --rebase && git push)

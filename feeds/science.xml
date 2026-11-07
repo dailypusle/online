@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Despite All, Daylight Saving Time Is Still on Trump’s Mind</title>
+<link>https://www.nytimes.com/2026/11/07/science/donald-trump-daylight-saving-time.html</link>
+<guid isPermaLink="false">d80646a64c702ae3a5ddb7fcc166a36dd451a931a16f5c0edb10fa711a6a2bcf</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Sat, 07 Nov 2026 10:03:35 +0000</pubDate>
+<description>If the president were to sign a bill making daylight saving time permanent, most clocks in the U.S. could suddenly spring forward, pushing sunrise to after 9 a.m. in many places for several weeks.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/07/multimedia/07SCI-DSL-TRUMP-ltmq/07SCI-DSL-TRUMP-ltmq-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/07/multimedia/07SCI-DSL-TRUMP-ltmq/07SCI-DSL-TRUMP-ltmq-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>COP climate summits might yet have a useful future – here’s how</title>
+<link>https://www.newscientist.com/article/2596962-cop-climate-summits-might-yet-have-a-useful-future-heres-how</link>
+<guid isPermaLink="false">9c0bb2868cca0baa754a0d23f9acf2632f213dc8a2ecdddcd8fc176225d02000</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
+<description>No one is expecting COP31 to save the world from climate disaster, but it could provide a small taste of how international meetings can still deliver meaningful progress</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319168379.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319168379.jpg" medium="image"/>
+</item>
+<item>
 <title>APOD: 2026 November 7 – De Gerlache-Kocher Massif</title>
 <link>https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif</link>
 <guid isPermaLink="false">9f7215bf24ee128182d17c5898980cc4ae1617093a0896fa5be59d7f25a14d8c</guid>
@@ -431,17 +453,6 @@
 <description>Should children use AI in school? AnnaStills/Shutterstock When I was at school, a new technology launched in the form of a magic box that could answer any question you wanted. It was called Google, and my teachers cautioned that we shouldn’t trust everything it spat out, because anyone could put anything on the internet. Three decades later, history is repeating – with a twist. Schools are now begging Google to allow students to access its search engine, but the tech giant says that is only possible if teachers also accept a new kind of magic box, AI. Google is far more integrated into education than it was in my day, with its Classroom and Workspace products providing teachers and students with a range of tools from email to lesson planning. More recently, Google has incorporated its Gemini AI chatbot into Classroom, to the chagrin of some US school districts that want to be able to decide whether or not students have access to AI. Sure, said Google, you can switch off AI, but then you lose search. “Search and AI are deeply integrated,” Google’s Chris Phillips told The New York Times . Read more Why I have changed my mind about AI and you should too At first, I thought this must be a misunderstanding about what we call AI. For most people today, AI means a large language model (LLM) of the type that powers Gemini or ChatGPT. But Google’s search engine has long used AI in the historical sense of machine learning, starting in 2015 with a system called RankBrain that helped relate words to concepts in order to produce search results. The AI Overviews you often see at the top of a search today, which launched in 2024, are the only part of the search results produced by Gemini. Advertisement Surely, I thought, what’s happening here is that school districts saying “no AI” simply mean no AI Overviews, while Google is quite reasonably saying it isn’t possible to rip out elements of its search engine that have been operating for over a decade in order to comply with a strict “no AI” request. This can easily be solved by making sure everyone is talking about the same thing, right? Wrong. Google really is presenting schools with an all-or-nothing choice. “If a school is not comfortable with that and simply wants AI off, then they have the choice to not have search on at all,” Phillips told education news outlet Chalkbeat . This is a product decision, not a technical one. AI Overviews do not appear on every search, and they can be disabled for every search by adding a short code to the URL . Google could surely provide schools with this option, if it wished. When asked to comment, a Google spokesperson sent New Scientist a link to a blog post on AI tutoring with its Gemini product. We have seen a tech giant use this playbook before. Around the same time that Google was launching its young, upstart search engine in the late 1990s, Microsoft was facing legal action for forcing people to install the Internet Explorer (IE) browser as part of its Windows operati</description>
 <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319433950.jpg" type="image/jpeg"/>
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319433950.jpg" medium="image"/>
-</item>
-<item>
-<title>Evidence of active volcanoes on Mars may boost chances of finding life</title>
-<link>https://www.newscientist.com/article/2597667-evidence-of-active-volcanoes-on-mars-may-boost-chances-of-finding-life</link>
-<guid isPermaLink="false">79a1e4fe0000b8a340e0864e4661657d2cfa4e7bc08a28535ebdd85909b218e1</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Thu, 05 Nov 2026 16:42:06 +0000</pubDate>
-<description>Evidence of volcanic activity was detected near Alba Mons on Mars Mars Express &amp; HRSC Mars may be volcanically active, say scientists who have linked evidence of gases often produced by magma with photographs of fresh fissures found on the surface of the Red Planet. The findings could be interpreted as good news in the hunt for life, as a continuous heat source would be needed to keep microorganisms safe from frigid temperatures on the surface. Scientists have seen evidence of volcanoes on Mars in the past few million years and seismic activity has hinted that some may still be active, but no evidence of lava flows or current eruptions had previously been found. Read more Why we must investigate Phobos, the solar system’s strangest object In 2019, the ExoMars Trace Gas Orbiter detected evidence of hydrogen chloride (HCl) in Mars’s atmosphere. That gas is commonly associated with magmatic vents on Earth, and researchers wondered if the same was true on Mars. Advertisement To investigate further, Daniel Mège at the Polish Academy of Sciences and his colleagues looked at the little data available – just 15 recorded instances of the gas – alongside newly taken photographs of the surface. They were able to link recent, narrow fissures in the Alba Mons region of Mars to the HCl emissions, providing strong evidence of underground lava flow. To assess whether the HCl could have come from the fissures, the team modelled the wind direction at the time the measurements were taken. Free newsletter Sign up to Launchpad Sign up to newsletter “We have 2 kilometres of wind between them, and in this season there are a lot of dust devils. So, the atmosphere is turbulent. It’s an enormous mess,” says Mège. Nicolas Thomas at the University of Bern, Switzerland, another team member, stresses that until the area is investigated up-close, there will always be doubt about the source of the gas. But, he argues, this finding makes the case for further surface exploration of Mars. “Suspicion is one thing, proof is better, right?” says Thomas. “I’m a terrible sceptic. Until you put something down there and you actually sniff the stuff coming out of the ground, you haven’t got unambiguous proof.” Thomas thinks the finding makes the prospects for life on Mars more likely. “We know that Mars, even at the equator, can be −70°C, −80°C at night. It’s a very harsh environment,” he says. “If this thermal source were constant and continuous, then you have to admit it’s improving the situation [in terms of the hunt for life].” “This is definitely a highly interesting finding,” says Lena Noack at the Free University of Berlin. “Many scientists working on Mars will not be too surprised, as the picture of a ‘dead’ Mars was inconsistent with many recent research findings.” Journal Reference: Science Advances DOI: 10.1126/sciadv.aeb942</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319532373.jpg" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319532373.jpg" medium="image"/>
 </item>
 <item>
 <title>NASA's Voyager 1 probe bounces back from communications glitch in interstellar space</title>

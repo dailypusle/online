@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NHS breach helpline left staff carrying a 'significant emotional burden'</title>
+<link>https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201</link>
+<guid isPermaLink="false">7066bf1c44b6d15523db55187093805cc75895312ae06c1513d612a3518d4ba8</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 10:30:00 +0000</pubDate>
+<description>NHS staff drafted into a helpline after colleagues' health data was exposed online faced distressed callers, safeguarding concerns, and a "serious emotional impact," a review has found. The report [PDF] comes almost exactly a year after the Royal Cornwall Hospitals NHS Trust disclosed a data breach affecting 8,003 people, including current and former trust staff and non-trust workers. A member of the public discovered the exposure in November 2025. An Excel workbook published in response to a Freedom of Information request in February 2023 retained underlying sickness absence records that users could reveal through its pivot tables. Staff assigned to the helpline described difficult calls involving shouting, anger, and distress. Particularly difficult calls involved people distressed by the sensitivity of the disclosures or potentially in danger from domestic abuse. Call handlers said they had to make safeguarding assessments without training or an established process. "Such occurrences of anger or distress were not infrequent, and this reflected the heightened emotions and distress experienced by callers to varying degrees due to the breach," the review noted. "This placed significant emotional burden on individuals working in the contact center, who were not prepared or provided support on how to deal with those." Members of the trust's clinical governance team were told just a day beforehand that they would staff the helpline. Despite their experience dealing with patient trauma, they received little preparation for the calls that followed. "The staff working in the call centers had a short training session and then the calls started coming in within minutes of the team being set up," the review noted. "Some staff had not finished reading the pre-prepared script which had arrived only 30 minutes before the center went live." Most call handlers only learned that their own data had been exposed while already working on the helpline, sometimes minutes before supporting others affected. Call handlers also said they had little choice about taking on the work and were expected to maintain their usual duties alongside it. The review stated that some staff members gave up weekends and worked long past their scheduled hours to meet the demands of both roles. "It's typical NHS, it runs on goodwill," one staffer told the team that compiled the report. The call center was only supposed to run for two weeks in December 2025, but due to the volume of calls, it was eventually stood down after 11 weeks, in February 2026. According to officials speaking at a trust board meeting on Thursday, the review and its findings have since been circulated among staff, and published online. How the spreadsheet slipped through Responding to a Freedom of Information Act (FOIA) request thought to be from a journalist researching a story about stress in the NHS, the Royal Cornwall Hospitals NHS Trust uploaded a spreadsheet to its public FOI Disclosure log in February 2023. Th</description>
+<enclosure url="https://image.theregister.com/?imageId=5240357&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5240357&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim</title>
+<link>https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy</link>
+<guid isPermaLink="false">0dcf5e690b0eae8fd2ec323616f398d9f82f85cef6d14c6c5ab40ead4731436f</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 10:00:08 +0000</pubDate>
+<description>DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energy A datacentre company that said it would power a massive AI development near Glasgow with renewable energy has admitted that the scheme will be entirely served by the National Grid. DataVita, a key plank of the UK’s AI strategy, had promised that the Lanarkshire project would draw 1GW – the equivalent output of a small nuclear reactor, or Britain’s largest windfarm – from green sources. But when the Guardian raised questions about the pledge , it said the arrangement was “subject to final commercial agreements, planning, grid and consenting processes”. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/c1b8eb2d05fbcf3925b8a30a9e3d4612d3eaa8c7/1365_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85d7e0b66828c82c833f1595a20fa832" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/c1b8eb2d05fbcf3925b8a30a9e3d4612d3eaa8c7/1365_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85d7e0b66828c82c833f1595a20fa832" medium="image"/>
+</item>
+<item>
+<title>The datacentre arms race hits pause in south-east Asia</title>
+<link>https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia</link>
+<guid isPermaLink="false">bef028bbd7f40d5d158e0ec3c15a0471d5e7ab7bdd91296f5a3edd576d88a55d</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 10:00:07 +0000</pubDate>
+<description>Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago In early 2026, Thailand’s datacentre industry was on a roll. The country’s board of investment had recently announced approval of datacentre projects from Tiktok, a UAE-based Skyline datacentre and Singapore’s Bridge datacentres, totalling a planned investment of $27bn. As the year has passed, however, what once seemed like a new industrial juggernaut has ground to a halt. Thailand paused construction on 49 projects and approval decisions on 117 more in September 2026, amidst growing concern about the lack of sufficient details for regulation and monitoring. It is not alone in reconsidering datacentre projects. In neighbouring Indonesia, the governor of the country’s most populous province of West Java halted construction on a datacentre due to lack of permits and an incomplete environmental assessment process. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/97317ac683d16a9b43f8f91ba651c0c5be5113a7/836_0_4164_3333/master/4164.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db7082efc0db3ab05df411e1159efdab" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/97317ac683d16a9b43f8f91ba651c0c5be5113a7/836_0_4164_3333/master/4164.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db7082efc0db3ab05df411e1159efdab" medium="image"/>
+</item>
+<item>
 <title>TikTok accused of helping to promote sex industry to girls</title>
 <link>https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans</link>
 <guid isPermaLink="false">f4d8438053ed674ec29173d28b6a67c02ff919b5d74e42a83a58f4072088aebb</guid>
@@ -686,17 +719,6 @@
 <media:content url="https://image.theregister.com/?imageId=252143&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI</title>
-<link>https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai</link>
-<guid isPermaLink="false">6271bef94c80eeb022bd6618ddcef4bd695498cdb8f3443e256be564ad9e98d1</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 12:38:05 +0000</pubDate>
-<description>Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi Elon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US. The billionaire chief executive said production of the car would stop in about the middle of next year at the company’s factory in Texas in order to use the plant for the Cybercab, its self-driving taxi. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/067248f953434b6b22df921bb895b2c6f11d1011/74_41_3730_2983/master/3730.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af7f8cae3ec2da558fca7eba338c427d" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/067248f953434b6b22df921bb895b2c6f11d1011/74_41_3730_2983/master/3730.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af7f8cae3ec2da558fca7eba338c427d" medium="image"/>
-</item>
-<item>
 <title>Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook</title>
 <link>https://www.theguardian.com/technology/2026/nov/06/crunchy-moms-facebook-vaccines</link>
 <guid isPermaLink="false">c5dd5cc2c50bb0213d8b25da2f9b288ad2da3ba58fb674f6fe871412f747cf2d</guid>
@@ -1014,17 +1036,6 @@
 <description>If you’re a new Pixel 11 user, here are six things I recommend changing right away to get the most from your phone.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/PXL_20261105_154231218.PORTRAIT.ORIGINAL.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/PXL_20261105_154231218.PORTRAIT.ORIGINAL.jpg" medium="image"/>
-</item>
-<item>
-<title>Winner of the Prix Goncourt literary prize admits to using AI</title>
-<link>https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada</link>
-<guid isPermaLink="false">93cfbd1c61369830b65ac605132524560b23f997a61b2cde6541657087627603</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 18:08:58 +0000</pubDate>
-<description>Philippe Jaenada told French radio that he used ChatGPT to ‘play with the reader’, after the prize removed a different book from its longlist over allegations of AI use The winner of France’s most prestigious literary prize has admitted using artificial intelligence while writing his novel, barely a day after collecting an award whose jury had thrown out another book over suspected AI use. Philippe Jaenada, who won the Prix Goncourt on Tuesday for L’Inconnue du quai de Javel (The Unknown Woman of the Quai de Javel), told France Inter radio on Wednesday that he had turned to AI “three times” while writing it. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/3828a993d195cb9ebff36c53aed34bb94581d25f/299_0_6000_4800/master/6000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8dac9da6cbc3897716bd63557814a530" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/3828a993d195cb9ebff36c53aed34bb94581d25f/299_0_6000_4800/master/6000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8dac9da6cbc3897716bd63557814a530" medium="image"/>
 </item>
 <item>
 <title>October crypto-tracker hack: Access cracked, law enforcement tokens packed</title>
@@ -1399,17 +1410,6 @@
 <description>Scientists have developed a way to remove starlight from telescope images that improved sensitivity to faint exoplanets by up to 15 times in tests on James Webb Space Telescope data. A team led by Northwestern University's Rodrigo Ferrer-Chavez combined a physics-based telescope model with optimization techniques used in machine learning to subtract unwanted starlight. Directly imaging exoplanets remains difficult because their host stars' glare can overwhelm their faint light. Existing techniques subtract modeled or reference starlight, but tiny changes in telescope optics can leave residual glare that hides planets. The team's Physics-based Learning for Imaging Planets (FLIP) framework models how light passes through the telescope, adjusts for optical imperfections, and simulates the glare to be subtracted. Applied to observations from Webb's Near-Infrared Camera (NIRCam), FLIP produced the first image of the known giant planet 51 Eridani b at an infrared wavelength of 4.3 micrometers, where conventional processing had failed. Tests showed sensitivity improvements of two to 15 times over conventional techniques, according to the Nature paper . "This is the first time, to our knowledge, that such an approach has demonstrated substantially improved sensitivity on real, on-sky coronagraphic imaging. Our framework can be extended to other current and future ground-based and space-based observatories… potentially relaxing the unprecedented stability requirements needed to make these a success," the paper says. Further work includes reducing computational demands and developing ways to handle the much larger data volumes produced by ground-based observations. The researchers hope further development and testing will bring direct images of Earth-like planets closer, while reducing the extent to which tiny telescope instabilities obscure them. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=235798&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=235798&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Bare metal boom: On-prem server sales for HPC and AI up 20% this year</title>
-<link>https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611</link>
-<guid isPermaLink="false">71d76b48d46ff3d387cc003b1b9f5880b41e5d83b0aa9635a2f6d559a0a1ab87</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 17:30:00 +0000</pubDate>
-<description>On-premises high-performance compute (HPC) is still in demand, according to Hyperion Research, which estimates the market is expanding at almost 20 percent year-on-year, often driven by requirements for AI processing. What Hyperion calls the "on-premises HPC and AI-for-Science" server market showed significant growth in the first half of 2026, with revenues hitting $16.5 billion, up 19.9 percent. However, the analyst says unit shipments over the same period grew only 4.4 percent, meaning that systems are carrying a higher price tag due to greater use of costly components such as GPUs and other accelerators, not to mention the effects of higher memory costs, which have tripled or quadrupled since last year. Its tracking of the HPC market is based on multiple surveys conducted of both buyers and suppliers, the firm says. The latest data shows a major change in the overall HPC market growth, heavily driven by a combination of the use of AI, large language models (LLMs), and purchases of large GPU/accelerator-based systems. This trend was noted a couple of years ago, with Omdia reporting in 2024 that revenue growth from server sales was racing ahead of actual units shipped, as customers prioritized investment in highly configured server clusters for AI . Much of that spending was by hyperscalers and cloud providers, seeking to profit from selling AI services to enterprise customers, but Hyperion’s figures focus on on-prem shipments, showing that many enterprises prefer to do their processing in-house. According to Hyperion, Dell has now surpassed HPE as the biggest HPC vendor, with server revenues of $4.2 billion for the first half of 2026. HPE, which picked up supercomputing specialist Cray for $1.3 billion in 2019, had long been pack leader in the global HPC arena in terms of market share and revenue. The figures put Dell on a 24 percent share, while HPE is not far behind on 21 percent. Lenovo and China-based Sugon trail behind at 4 percent share each, while 45 percent of the market is just labelled as "others" by Hyperion. This includes names such as Bull, which re-emerged from the shadows of Atos this year, plus Supermicro, Penguin Computing, and NEC. The HPC infrastructure market is inherently cyclical. HPE recognized significant revenue in 2025 with sales of multiple exascale-class leadership machines, but procurement of that scale is intermittent and doesn't necessarily come along every year, Hyperion notes. "Organizations and institutions are continuing to invest in their advanced computing infrastructure due to both replacing aging machines and the desire to adopt AI into their workflows to support their businesses and missions," said Hyperion Research CEO Earl Joseph. "The growth reflects both a nominal increase in units being purchased and significant increases in system prices." HPC systems are considered the backbone for many AI and AI-related applications, which has driven the overall HPC market to a new growth level, Joseph added. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=1684886&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1684886&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Safari finally gets 3 popular browser features – and I can’t wait to try them</title>

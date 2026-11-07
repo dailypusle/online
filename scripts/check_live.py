@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Reliable YouTube live-channel checker for DailyPulse."""
 

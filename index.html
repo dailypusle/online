@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta name="dailypulse-build" content="login-30day-20261106">
+<meta name="dailypulse-build" content="login-30day-history-20261107">
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index,follow">
 <meta name="theme-color" content="#087cf0">
@@ -97,6 +97,10 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
 .dp-chat-logo svg{width:29px;height:29px}
 .dp-chat-head-copy{min-width:0;flex:1}.dp-chat-head-copy strong{display:block;font-size:1.02rem;font-weight:750}.dp-chat-head-copy span{display:block;font-size:.82rem;opacity:.94}
 .dp-chat-close{border:0;background:transparent;color:#fff;font-size:27px;line-height:1;padding:3px 7px;cursor:pointer}
+.dp-chat-hbtn{flex:none;width:38px;height:38px;padding:0;border:0;border-radius:50%;background:rgba(255,255,255,.18);color:#fff;display:grid;place-items:center;cursor:pointer}
+.dp-chat-hbtn svg{width:20px;height:20px;display:block}
+.dp-chat-hbtn:hover{background:rgba(255,255,255,.3)}
+.dp-chat-hbtn:focus-visible{outline:3px solid #ffffff88;outline-offset:2px}
 .dp-chat-body{padding:16px 14px;overflow-y:auto;flex:1;background:#f8fbff;scroll-behavior:smooth}
 .dp-chat-welcome,.dp-chat-message{display:flex;gap:9px;align-items:flex-start;margin:0 0 14px}
 .dp-chat-avatar{width:34px;height:34px;border-radius:50%;background:#087cf0;color:#fff;display:grid;place-items:center;flex:none;font-size:19px}
@@ -114,8 +118,28 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
 .dp-chat-sources{margin:10px 0 2px;padding-top:10px;border-top:1px solid #e6eef8}.dp-chat-sources-title{font-size:.8rem;font-weight:750;color:#71839b;margin-bottom:7px}.dp-chat-source{padding:9px 10px;margin:7px 0;background:#f1f7ff;border:1px solid #e0edfb;border-radius:11px}.dp-chat-source a{display:block;font-size:.88rem;line-height:1.4}.dp-chat-source small{display:block;color:#8091a8;font-size:.75rem;margin-top:4px}
 .dp-chat-suggestions{display:grid;gap:7px;margin:0 0 12px 43px}.dp-chat-suggestion{border:1px solid #d5e7fb;background:#fff;color:#0872e5;border-radius:11px;padding:9px 11px;text-align:left;font-size:.83rem;font-weight:650;cursor:pointer}.dp-chat-suggestion:hover{background:#edf6ff}
 .dp-chat-compose{border-top:1px solid #e3edf8;background:#fff;padding:10px 12px;display:flex;gap:8px;align-items:flex-end;flex:none}.dp-chat-input{min-width:0;flex:1;min-height:47px;max-height:180px;overflow-y:auto;resize:none;box-sizing:border-box;border:1px solid #d8e6f5;border-radius:22px;padding:13px 15px;font:inherit;font-size:.92rem;line-height:1.4;color:#10284e;outline:none}.dp-chat-input:focus{border-color:#78b8ff;box-shadow:0 0 0 3px #087cf014}.dp-chat-send{width:47px;height:47px;border:0;border-radius:50%;background:#087cf0;color:#fff;font-size:21px;flex:none;cursor:pointer}.dp-chat-send:disabled{opacity:.55;cursor:wait}.dp-chat-foot{text-align:center;background:#fff;color:#8293a9;font-size:.74rem;padding:0 10px 10px;flex:none}.dp-chat-foot b{color:#087cf0}.dp-chat-typing{color:#7890ad;font-size:.82rem;padding:4px 0 12px 43px}
-@media(max-width:520px){#dp-chat-launcher{right:15px;bottom:16px;width:57px;height:57px}#dp-chat-panel{right:10px;bottom:82px;width:calc(100vw - 20px);height:min(690px,calc(100dvh - 96px));border-radius:18px}.dp-chat-head{padding:13px}.dp-chat-body{padding:13px 11px}.dp-chat-bubble{font-size:.9rem}}
+@media(max-width:520px){#dp-chat-launcher{right:15px;bottom:16px;width:57px;height:57px}#dp-chat-panel{right:10px;bottom:82px;width:calc(100vw - 20px);height:min(690px,calc(100dvh - 96px));border-radius:18px}.dp-chat-head{padding:13px;gap:9px}.dp-chat-body{padding:13px 11px}.dp-chat-bubble{font-size:.9rem}.dp-chat-logo{width:40px;height:40px}.dp-chat-hbtn{width:36px;height:36px}}
 
+/* Chat history panel (replaces the conversation while open) */
+.dp-hist{display:none;flex:1;min-height:0;flex-direction:column;background:#f8fbff}
+#dp-chat-panel.hist-open .dp-hist{display:flex}
+#dp-chat-panel.hist-open .dp-chat-body,#dp-chat-panel.hist-open .dp-chat-compose,#dp-chat-panel.hist-open .dp-chat-foot{display:none}
+.dp-hist-top{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:12px 14px;background:#fff;border-bottom:1px solid #e3edf8;flex:none}
+.dp-hist-top strong{font-size:.95rem;color:#10284e}
+.dp-hist-new{border:0;border-radius:999px;background:#087cf0;color:#fff;font-weight:750;font-size:.82rem;padding:8px 14px;cursor:pointer}
+.dp-hist-new:hover{background:#075ed1}
+.dp-hist-back{border:1px solid #d5e7fb;border-radius:999px;background:#fff;color:#0872e5;font-weight:750;font-size:.82rem;padding:7px 12px;cursor:pointer}
+.dp-hist-list{flex:1;overflow-y:auto;padding:12px 12px 16px}
+.dp-hist-empty{color:#71839b;font-size:.88rem;line-height:1.55;text-align:center;padding:28px 18px}
+.dp-hist-item{display:flex;align-items:stretch;gap:6px;margin:0 0 9px;background:#fff;border:1px solid #e0edfb;border-radius:13px;overflow:hidden}
+.dp-hist-item.active{border-color:#78b8ff;background:#eef7ff}
+.dp-hist-open{flex:1;min-width:0;border:0;background:transparent;text-align:left;padding:11px 12px;cursor:pointer;color:#10284e}
+.dp-hist-open:hover{background:#f1f7ff}
+.dp-hist-title{display:block;font-size:.88rem;font-weight:700;line-height:1.35;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow-wrap:anywhere}
+.dp-hist-meta{display:block;color:#8091a8;font-size:.75rem;margin-top:4px}
+.dp-hist-del{flex:none;width:44px;border:0;border-left:1px solid #e6eef8;background:transparent;color:#b42318;cursor:pointer;display:grid;place-items:center;padding:0}
+.dp-hist-del:hover{background:#fdecec}
+.dp-hist-del svg{width:18px;height:18px}
 
 /* Ask AI action is structurally aligned with each article headline */
 .story-heading-row{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;width:100%;margin:0 0 9px}
@@ -566,9 +590,19 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   <div class="dp-chat-head">
     <div class="dp-chat-logo"><svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><path d="M24 5v6" stroke="#087cf0" stroke-width="3.5" stroke-linecap="round"/><circle cx="24" cy="4" r="3" fill="#087cf0"/><rect x="8" y="12" width="32" height="27" rx="10" fill="#087cf0"/><rect x="13" y="18" width="22" height="14" rx="6" fill="white"/><circle cx="19" cy="25" r="2" fill="#087cf0"/><circle cx="29" cy="25" r="2" fill="#087cf0"/></svg></div>
     <div class="dp-chat-head-copy"><strong>DailyPulse Assistant</strong><span>Ask me anything</span></div>
+    <button class="dp-chat-hbtn" id="dp-chat-new" type="button" aria-label="Start a new chat" title="New chat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></button>
+    <button class="dp-chat-hbtn" id="dp-chat-history" type="button" aria-label="Chat history" title="Chat history"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></button>
     <button class="dp-chat-close" id="dp-chat-close" type="button" aria-label="Close assistant">×</button>
   </div>
   <div class="dp-auth-bar" id="dp-auth-bar"></div>
+  <div class="dp-hist" id="dp-hist">
+    <div class="dp-hist-top">
+      <button class="dp-hist-back" id="dp-hist-back" type="button">← Back</button>
+      <strong>Chat history</strong>
+      <button class="dp-hist-new" id="dp-hist-new" type="button">+ New chat</button>
+    </div>
+    <div class="dp-hist-list" id="dp-hist-list"></div>
+  </div>
   <div class="dp-chat-body" id="dp-chat-body">
     <div class="dp-chat-welcome"><div class="dp-chat-avatar">✦</div><div class="dp-chat-bubble"><p>Hello! I'm your DailyPulse Assistant.</p><p>Ask me about the latest news or anything else you'd like to understand.</p></div></div>
     <div class="dp-chat-suggestions">
@@ -589,6 +623,11 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   const launcher = document.getElementById('dp-chat-launcher');
   const panel = document.getElementById('dp-chat-panel');
   const closeBtn = document.getElementById('dp-chat-close');
+  const newChatBtn = document.getElementById('dp-chat-new');
+  const historyBtn = document.getElementById('dp-chat-history');
+  const histBack = document.getElementById('dp-hist-back');
+  const histNew = document.getElementById('dp-hist-new');
+  const histList = document.getElementById('dp-hist-list');
   const chatBody = document.getElementById('dp-chat-body');
   const form = document.getElementById('dp-chat-form');
   const input = document.getElementById('dp-chat-input');
@@ -612,8 +651,10 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   /* ---------- Optional Google sign-in (saved chats) ---------- */
   const authBar = document.getElementById('dp-auth-bar');
   const baseCount = chatBody.children.length; // welcome message + suggestions
+  const suggestionsEl = chatBody.querySelector('.dp-chat-suggestions');
   let idToken = '', profile = null, conversationId = '';
-  const TOKEN_KEY = 'dp_id_token', PROFILE_KEY = 'dp_profile';
+  let chatEpoch = 0;             // bumps whenever the visible chat changes, so late replies are not drawn in the wrong chat
+  const TOKEN_KEY = 'dp_id_token', PROFILE_KEY = 'dp_profile', CONVO_KEY = 'dp_conversation_id';
   let pendingReturning = null;   // saved profile of a returning user while we silently sign them back in
   let refreshWaiters = [], refreshTimer = null;
 
@@ -629,12 +670,17 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   const displayText = t => {
     // Show "Ask AI" prompts as a short label when a saved chat is restored.
     const m = /^HEADLINE: (.+)$/m.exec(t);
-    return t.startsWith('Please explain and analyse this DailyPulse news article') && m ? 'Ask AI: ' + m[1] : t;
+    return String(t).startsWith('Please explain and analyse this DailyPulse news article') && m ? 'Ask AI: ' + m[1] : t;
   };
+  const setSuggestions = show => { if (suggestionsEl) suggestionsEl.style.display = show ? '' : 'none'; };
+  const rememberConversation = id => { try { localStorage.setItem(CONVO_KEY, id); } catch {} };
 
   function clearChat() {
+    chatEpoch++;
     while (chatBody.children.length > baseCount) chatBody.lastElementChild.remove();
     history = [];
+    send.disabled = false;
+    setSuggestions(true);
   }
 
   const headerAuth = document.getElementById('header-google');
@@ -694,9 +740,10 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
     const { keepChat = false, note = '' } = opts || {};
     idToken = ''; profile = null; conversationId = '';
     pendingReturning = null; clearTimeout(refreshTimer);
-    try { sessionStorage.removeItem(TOKEN_KEY); localStorage.removeItem(TOKEN_KEY); localStorage.removeItem(PROFILE_KEY); localStorage.removeItem('dp_conversation_id'); } catch {}
+    try { sessionStorage.removeItem(TOKEN_KEY); localStorage.removeItem(TOKEN_KEY); localStorage.removeItem(PROFILE_KEY); localStorage.removeItem(CONVO_KEY); } catch {}
     if (window.google && google.accounts && google.accounts.id) google.accounts.id.disableAutoSelect();
     if (!keepChat) clearChat();
+    closeHistory();
     renderAuthBar();
     if (note) renderAnswer(note);
   }
@@ -778,43 +825,162 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
     if (isNewSession) restoreChat();
   }
 
+  /* ---------- Saved chats: open, create, list, delete ---------- */
+
+  async function apiRequest(path, method) {
+    const r = await fetch(workerBase() + path, {
+      method: method || 'GET', mode: 'cors', cache: 'no-store', credentials: 'omit',
+      headers: { 'Accept': 'application/json', 'Authorization': 'Bearer ' + idToken }
+    });
+    return { status: r.status, data: await r.json().catch(() => ({})) };
+  }
+
+  const EXPIRED_NOTE = 'Your Google sign-in expired. Please sign in again.';
+
+  // Loads one saved conversation into the chat window.
+  async function openConversation(id) {
+    clearChat();
+    const epoch = chatEpoch;
+    conversationId = id;
+    rememberConversation(id);
+    const r = await apiRequest('/history?conversationId=' + encodeURIComponent(id));
+    if (epoch !== chatEpoch) return;
+    if (r.status === 401) { signOut({ note: EXPIRED_NOTE }); return; }
+    const messages = (r.data && r.data.history) || [];
+    messages.forEach(m => {
+      if (m.role === 'user') addUserMessage(displayText(m.content));
+      else renderAnswer(m.content);
+    });
+    if (messages.length) {
+      setSuggestions(false);
+      requestAnimationFrame(() => { chatBody.scrollTop = chatBody.scrollHeight; });
+    }
+  }
+
+  // After sign-in: reopen the chat the reader was last in, or the newest saved one.
   async function restoreChat() {
     clearChat();
-    const base = WORKER_URL.replace(/\/+$/, '');
-    const get = async path => {
-      const r = await fetch(base + path, {
-        mode: 'cors', cache: 'no-store', credentials: 'omit',
-        headers: { 'Accept': 'application/json', 'Authorization': 'Bearer ' + idToken }
-      });
-      return { status: r.status, data: await r.json().catch(() => ({})) };
-    };
+    let id = '';
+    try { id = localStorage.getItem(CONVO_KEY) || ''; } catch {}
     try {
-      let id = '';
-      try { id = localStorage.getItem('dp_conversation_id') || ''; } catch {}
-      let r = id ? await get('/history?conversationId=' + encodeURIComponent(id)) : null;
-      if (!r || r.status !== 200 || !(r.data.history || []).length) {
-        const list = await get('/conversations');
-        if (list.status === 401) { signOut({ note: 'Your Google sign-in expired. Please sign in again.' }); return; }
-        id = ((list.data.conversations || [])[0] || {}).conversation_id || '';
-        r = id ? await get('/history?conversationId=' + encodeURIComponent(id)) : null;
+      if (!id) {
+        const list = await apiRequest('/conversations');
+        if (list.status === 401) { signOut({ note: EXPIRED_NOTE }); return; }
+        id = (((list.data && list.data.conversations) || [])[0] || {}).conversation_id || '';
       }
-      if (r && r.status === 401) { signOut({ note: 'Your Google sign-in expired. Please sign in again.' }); return; }
-      conversationId = id || newConversationId();
-      try { localStorage.setItem('dp_conversation_id', conversationId); } catch {}
-      ((r && r.data.history) || []).forEach(m => {
-        if (m.role === 'user') addUserMessage(displayText(m.content));
-        else renderAnswer(m.content);
-      });
+      await openConversation(id || newConversationId());
     } catch (error) {
       console.warn('DailyPulse could not restore saved chat:', error);
       conversationId = newConversationId();
+      rememberConversation(conversationId);
     }
   }
+
+  // Starts a blank conversation. A signed-in chat is only saved once the first question is sent.
+  function startNewChat() {
+    clearChat();
+    if (profile) {
+      conversationId = newConversationId();
+      rememberConversation(conversationId);
+    }
+    closeHistory();
+    resizeChatInput();
+  }
+
+  function closeHistory() { panel.classList.remove('hist-open'); }
+
+  function historyMessage(text) {
+    const box = document.createElement('div');
+    box.className = 'dp-hist-empty';
+    box.textContent = text;
+    histList.replaceChildren(box);
+  }
+
+  const trashIcon = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13M10 11v6M14 11v6"/></svg>';
+
+  function formatConversationDate(value) {
+    const d = new Date(String(value || '').replace(' ', 'T') + 'Z');   // D1 stores UTC
+    return Number.isNaN(d.getTime()) ? '' : d.toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
+  }
+
+  async function renderHistoryList() {
+    if (!profile) {
+      historyMessage(pendingReturning ? 'Signing you back in…' : 'Sign in with Google (button above) to save your chats and come back to them later.');
+      return;
+    }
+    historyMessage('Loading your chats…');
+    try {
+      const r = await apiRequest('/conversations');
+      if (r.status === 401) { signOut({ note: EXPIRED_NOTE }); return; }
+      if (r.status !== 200) throw new Error('HTTP ' + r.status);
+      const items = (r.data && r.data.conversations) || [];
+      if (!items.length) { historyMessage('No saved chats yet. Ask a question and it will appear here.'); return; }
+      const fragment = document.createDocumentFragment();
+      items.forEach(item => {
+        const id = item.conversation_id;
+        const row = document.createElement('div');
+        row.className = 'dp-hist-item' + (id === conversationId ? ' active' : '');
+
+        const open = document.createElement('button');
+        open.type = 'button'; open.className = 'dp-hist-open';
+        const title = document.createElement('span');
+        title.className = 'dp-hist-title';
+        title.textContent = String(displayText(item.first_message || 'New chat')).slice(0, 120);
+        const meta = document.createElement('span');
+        meta.className = 'dp-hist-meta';
+        const count = Math.ceil((item.message_count || 0) / 2);
+        meta.textContent = [formatConversationDate(item.updated_at), count ? count + (count === 1 ? ' question' : ' questions') : ''].filter(Boolean).join(' · ');
+        open.append(title, meta);
+        open.addEventListener('click', async () => {
+          closeHistory();
+          try { await openConversation(id); } catch (error) { console.warn('Could not open chat:', error); renderAnswer('Sorry, I could not open that chat. Please try again.'); }
+        });
+
+        const del = document.createElement('button');
+        del.type = 'button'; del.className = 'dp-hist-del';
+        del.title = 'Delete this chat'; del.setAttribute('aria-label', 'Delete this chat');
+        del.innerHTML = trashIcon;
+        del.addEventListener('click', async () => {
+          if (!confirm('Delete this chat permanently?')) return;
+          del.disabled = true;
+          try {
+            const res = await apiRequest('/history?conversationId=' + encodeURIComponent(id), 'DELETE');
+            if (res.status === 401) { signOut({ note: EXPIRED_NOTE }); return; }
+            if (res.status !== 200) throw new Error('HTTP ' + res.status);
+            if (id === conversationId) startNewChat();
+            panel.classList.add('hist-open');
+            renderHistoryList();
+          } catch (error) {
+            console.warn('Could not delete chat:', error);
+            del.disabled = false;
+            alert('Could not delete that chat. Please try again.');
+          }
+        });
+
+        row.append(open, del);
+        fragment.appendChild(row);
+      });
+      histList.replaceChildren(fragment);
+    } catch (error) {
+      console.warn('DailyPulse could not load chat history:', error);
+      historyMessage('Could not load your chats. Please check your connection and try again.');
+    }
+  }
+
+  function openHistory() {
+    panel.classList.add('hist-open');
+    renderHistoryList();
+  }
+
+  newChatBtn.addEventListener('click', () => { startNewChat(); input.focus(); });
+  historyBtn.addEventListener('click', () => { panel.classList.contains('hist-open') ? closeHistory() : openHistory(); });
+  histBack.addEventListener('click', closeHistory);
+  histNew.addEventListener('click', () => { startNewChat(); input.focus(); });
 
   function toggle(open) {
     panel.classList.toggle('open', open);
     launcher.setAttribute('aria-expanded', String(open));
-    if (open) input.focus();
+    if (open && !panel.classList.contains('hist-open')) input.focus();
   }
   launcher.addEventListener('click', () => toggle(!panel.classList.contains('open')));
   closeBtn.addEventListener('click', () => toggle(false));
@@ -1010,7 +1176,10 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
 
   async function ask(question) {
     question = question.trim(); if (!question || send.disabled) return;
+    closeHistory();
+    const epoch = chatEpoch;
     addUserMessage(question);
+    setSuggestions(false);
     const priorHistory = history.slice(-8);
     input.value = ''; resizeChatInput(); send.disabled = true;
     const typing = document.createElement('div'); typing.className = 'dp-chat-typing'; typing.textContent = 'DailyPulse Assistant is thinking…'; chatBody.appendChild(typing); chatBody.scrollTop = chatBody.scrollHeight;
@@ -1025,12 +1194,17 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       const headers = { 'Content-Type': 'application/json', 'Accept': 'application/json' };
       if (idToken) headers['Authorization'] = 'Bearer ' + idToken;
       const payload = { message: question, history: priorHistory };
-      if (idToken) payload.conversationId = conversationId;
+      if (idToken) {
+        if (!conversationId) { conversationId = newConversationId(); rememberConversation(conversationId); }
+        payload.conversationId = conversationId;
+      }
       const response = await fetch(CHAT_API_URL, {
         method: 'POST', mode: 'cors', cache: 'no-store', credentials: 'omit',
         headers, body: JSON.stringify(payload), signal: controller.signal
       });
       const data = await response.json().catch(() => ({}));
+      // The reader opened another chat while this one was thinking. The server has saved it; just don't draw it here.
+      if (epoch !== chatEpoch) return;
       if (response.status === 401 && idToken) {
         signOut({ keepChat: true });
         throw new Error('Your Google sign-in expired. Please sign in again, then resend your question.');
@@ -1039,16 +1213,18 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       const answer = data.answer || data.response || 'I could not prepare an answer. Please try again.';
       if (idToken && data.conversationId) {
         conversationId = data.conversationId;
-        try { localStorage.setItem('dp_conversation_id', conversationId); } catch {}
+        rememberConversation(conversationId);
       }
       renderAnswer(answer, data.sources);
       history.push({ role: 'user', text: question });
       history.push({ role: 'model', text: answer });
     } catch (error) {
+      if (epoch !== chatEpoch) return;
       const message = error.name === 'AbortError' ? 'The request took too long. Please try again.' : (error instanceof TypeError ? 'The browser could not reach the Assistant Worker. Check the Worker CORS SITE_ORIGIN setting and confirm it matches this website address exactly.' : (error.message || 'Connection problem. Please try again.'));
       renderAnswer('Sorry, I could not complete that request. ' + message);
     } finally {
-      clearTimeout(timeout); typing.remove(); send.disabled = false; input.focus();
+      clearTimeout(timeout); typing.remove();
+      if (epoch === chatEpoch) { send.disabled = false; input.focus(); }
     }
   }
   window.addEventListener('dailypulse:ask-story', event => {
@@ -1063,6 +1239,7 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
       'ARTICLE LINK: ' + (story.url || '')
     ].join('\n');
     toggle(true);
+    startNewChat();   // every article question gets its own chat in the history list
     ask(prompt);
   });
   form.addEventListener('submit', event => { event.preventDefault(); ask(input.value); });
@@ -1112,9 +1289,6 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
   } catch {}
 })();
 </script>
-
-
-
 
 <!-- DailyPulse push-notification opt-in -->
 <style>

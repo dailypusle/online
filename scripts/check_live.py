@@ -10,6 +10,9 @@ For each channel we ask YouTube three things:
   2. Is that stream allowed to be embedded on other websites?
   3. (confirmed with YouTube's oEmbed service)
 
+When a channel is live, its current video ID is saved too, because the page
+plays that exact stream (YouTube's "channel" embed often says "Video unavailable").
+
 A channel is hidden on live.html only after it fails 2 checks in a row, so one
 temporary glitch does not remove a working channel. If YouTube cannot be
 reached at all, the previous result is kept unchanged.
@@ -51,30 +54,30 @@ def channel_ids():
 
 
 def check(channel_id):
-    """Returns (state, reason). state: live | blocked | offline | unknown."""
+    """Returns (state, reason, video_id). state: live | blocked | offline | unknown."""
     try:
         _, page = get(f"https://www.youtube.com/channel/{channel_id}/live")
     except urllib.error.HTTPError as error:
         if error.code == 404:
-            return "offline", "channel not found (check the channel ID)"
-        return "unknown", f"YouTube answered HTTP {error.code}"
+            return "offline", "channel not found (check the channel ID)", None
+        return "unknown", f"YouTube answered HTTP {error.code}", None
     except Exception as error:  # network trouble: do not judge the channel
-        return "unknown", f"could not load the live page ({error})"
+        return "unknown", f"could not load the live page ({error})", None
 
     if "ytInitialData" not in page:
-        return "unknown", "YouTube returned a page without video data (consent or bot check)"
+        return "unknown", "YouTube returned a page without video data (consent or bot check)", None
 
     canonical = re.search(
         r'<link rel="canonical" href="https://www\.youtube\.com/watch\?v=([\w-]{11})"', page
     )
     if not canonical:
-        return "offline", "channel is not streaming"
+        return "offline", "channel is not streaming", None
 
     if '"isLiveNow":true' not in page and '"isLive":true' not in page:
-        return "offline", "video is not live (ended or upcoming)"
+        return "offline", "video is not live (ended or upcoming)", None
 
     if '"playableInEmbed":false' in page:
-        return "blocked", "the broadcaster does not allow embedding"
+        return "blocked", "the broadcaster does not allow embedding", None
 
     video_id = canonical.group(1)
     oembed = "https://www.youtube.com/oembed?format=json&url=" + urllib.parse.quote(
@@ -84,13 +87,13 @@ def check(channel_id):
         get(oembed)
     except urllib.error.HTTPError as error:
         if error.code in (401, 403):
-            return "blocked", "embedding is disabled (oEmbed refused)"
+            return "blocked", "embedding is disabled (oEmbed refused)", None
         if error.code == 404:
-            return "offline", "video not found"
+            return "offline", "video not found", None
     except Exception:
         pass  # oEmbed is only a second opinion
 
-    return "live", "ok"
+    return "live", "ok", video_id
 
 
 def main():
@@ -106,7 +109,7 @@ def main():
 
     new = {}
     for channel_id in ids:
-        state, reason = check(channel_id)
+        state, reason, video_id = check(channel_id)
         time.sleep(1)
         previous = old.get(channel_id)
         print(f"{channel_id}: {state} - {reason}")
@@ -120,11 +123,16 @@ def main():
         else:
             misses = min((previous or {}).get("misses", 0) + 1, HIDE_AFTER_MISSES)
 
-        new[channel_id] = {
+        entry = {
             "status": state,
             "available": misses < HIDE_AFTER_MISSES,
             "misses": misses,
         }
+        if state == "live" and video_id:
+            entry["videoId"] = video_id  # the page plays this exact stream
+        elif previous and previous.get("videoId") and misses < HIDE_AFTER_MISSES:
+            entry["videoId"] = previous["videoId"]  # keep it through a one-off glitch
+        new[channel_id] = entry
 
     if new == old:
         print("No changes, live-status.json left as it is.")

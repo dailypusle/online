@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Is Seeking Its Next Class of Astronauts</title>
+<link>https://www.nytimes.com/2026/11/07/science/nasa-recruiting-astronauts.html</link>
+<guid isPermaLink="false">ccd1b353b49f025dc6797f36e198cedbec404904b15546c0c36bb9b8ff9b34db</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Sat, 07 Nov 2026 22:04:16 +0000</pubDate>
+<description>The new space travelers will most likely be trained for missions to the moon and space stations in low-Earth orbit. Applications are due Dec. 3.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/07/multimedia/07sci-nasa-astronauts-topart-lzfc/07sci-nasa-astronauts-topart-lzfc-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/07/multimedia/07sci-nasa-astronauts-topart-lzfc/07sci-nasa-astronauts-topart-lzfc-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>NASA Seeks Next Generation of Explorers to Join Astronaut Corps</title>
 <link>https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps</link>
 <guid isPermaLink="false">db559fb332acc86803509505cdda1645f5eab1868bba91334d8abfd00aa04c7d</guid>

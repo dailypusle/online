@@ -2,7 +2,7 @@
  * Keeps the existing /online/ PWA cache/offline behaviour and handles
  * Web Push notifications sent by the DailyPulse Cloudflare Worker.
  */
-const CACHE_NAME = "dailypulse-app-v5-notification-fix";
+const CACHE_NAME = "dailypulse-app-v6-notification-image";
 const APP_SHELL = [
   "/online/",
   "/online/index.html",
@@ -11,6 +11,7 @@ const APP_SHELL = [
   "/online/icons/dailypulse-192.png"
 ];
 const HOME_URL = new URL("./", self.registration.scope).href;
+const ICON_URL = "/online/icons/dailypulse-192.png";
 
 self.addEventListener("install", event => {
   event.waitUntil((async () => {
@@ -60,6 +61,46 @@ self.addEventListener("fetch", event => {
   })());
 });
 
+function httpsUrl(value) {
+  try {
+    const u = new URL(value);
+    return u.protocol === "https:" ? u.href : "";
+  } catch (_) {
+    return "";
+  }
+}
+
+const normalize = value => String(value || "").toLowerCase().replace(/\s+/g, " ").trim();
+
+// When the push message has no picture, look up the story's photo in the site's
+// news-preview.json (matched by link, then by headline). Returns "" if none is found.
+async function findStoryImage(data, title) {
+  try {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 4000);
+    const response = await fetch(new URL("news-preview.json?t=" + Date.now(), self.registration.scope).href, {
+      cache: "no-store",
+      signal: controller.signal
+    });
+    clearTimeout(timer);
+    if (!response.ok) return "";
+
+    const feed = await response.json();
+    const records = Object.values(feed || {}).filter(Array.isArray).flat();
+    const link = String(data.url || data.link || "").split("#")[0];
+    const wantedTitle = normalize(data.storyTitle || data.title || title);
+
+    const match =
+      (link && records.find(r => r && String(r.link || "").split("#")[0] === link)) ||
+      (wantedTitle && records.find(r => r && normalize(r.title) === wantedTitle)) ||
+      (wantedTitle && records.find(r => r && normalize(r.title) && wantedTitle.includes(normalize(r.title))));
+
+    return match ? httpsUrl(match.image) : "";
+  } catch (_) {
+    return "";
+  }
+}
+
 // Display the daily Top Story sent by the Cloudflare Worker.
 self.addEventListener("push", event => {
   event.waitUntil((async () => {
@@ -86,16 +127,18 @@ self.addEventListener("push", event => {
 
     const options = {
       body: String(body).slice(0, 240),
-      icon: "/online/icons/dailypulse-192.png",
-      badge: "/online/icons/dailypulse-192.png",
+      icon: ICON_URL,
+      badge: ICON_URL,
       tag: data.tag || "dailypulse-daily-top-story",
       renotify: false,
       timestamp: Date.now(),
       data: { url: targetUrl }
     };
 
-    // Optional media fields are supported if the Worker adds them later.
-    if (data.image) options.image = data.image;
+    // Large picture: use the one in the push, otherwise find the story's photo on the site.
+    const image = httpsUrl(data.image || data.imageUrl || data.picture || "") ||
+      await findStoryImage(data, title);
+    if (image) options.image = image;
     if (data.actions && Array.isArray(data.actions)) options.actions = data.actions.slice(0, 2);
 
     await self.registration.showNotification(title, options);

@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#087cf0">
+<meta name="description" content="Watch live news TV on DailyPulse: world, Nigeria, business and more.">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<title>Live TV — DailyPulse</title>
+<style>
+:root{--blue:#087cf0;--blue-dark:#075ed1;--ink:#10284e;--muted:#667c99;--line:#dceafa;--card:#fff;--bg:#f8fbff;--shadow:0 8px 28px rgba(24,83,143,.07)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+a{color:inherit}
+button{font:inherit;cursor:pointer}
+header{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.96);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.header-inner{max-width:1240px;margin:auto;padding:14px 26px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+.brand{display:inline-flex;align-items:center;gap:10px;text-decoration:none;font-size:1.7rem;font-weight:850;letter-spacing:-.06em;white-space:nowrap}
+.brand-icon{width:42px;height:42px;display:grid;place-items:center;border-radius:50%;background:linear-gradient(135deg,#0796ff,#1455ed);box-shadow:0 4px 10px #087cf033}
+.brand-icon svg{width:31px;height:31px}
+.brand-name span{color:var(--blue)}
+.back{display:inline-flex;align-items:center;gap:6px;text-decoration:none;border:1px solid #c9e2ff;border-radius:999px;background:#eef7ff;color:#0874e8;padding:8px 14px;font-weight:750;font-size:.86rem;white-space:nowrap}
+.back:hover{background:#dceeff}
+main{max-width:1000px;margin:0 auto;padding:22px 26px 48px}
+h1{margin:0 0 4px;font-size:1.5rem;letter-spacing:-.03em;display:flex;align-items:center;gap:10px}
+.dot{width:11px;height:11px;border-radius:50%;background:#e11d48;box-shadow:0 0 0 4px #e11d4826;animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{50%{box-shadow:0 0 0 8px #e11d4800}}
+@media(prefers-reduced-motion:reduce){.dot{animation:none}}
+.sub{margin:0 0 16px;color:var(--muted);font-size:.9rem}
+.categories{display:flex;gap:9px;overflow-x:auto;padding:4px 1px 14px;scrollbar-width:thin}
+.category{flex:0 0 auto;border:1px solid #d5e7fb;background:#fff;color:#486482;border-radius:999px;padding:8px 15px;font-weight:650;font-size:.88rem;white-space:nowrap}
+.category[aria-pressed="true"]{background:var(--blue);color:#fff;border-color:var(--blue);box-shadow:0 4px 10px #087cf02b}
+.category:hover{border-color:var(--blue)}
+.player{position:relative;width:100%;aspect-ratio:16/9;background:#0b1b33;border-radius:16px;overflow:hidden;box-shadow:var(--shadow)}
+.player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.facade{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;border:0;width:100%;background:radial-gradient(circle at 30% 20%,#1a4f9c,#0b1b33 70%);color:#fff;text-align:center;padding:16px}
+.facade .play{width:68px;height:68px;border-radius:50%;background:#fff;color:var(--blue);display:grid;place-items:center;box-shadow:0 8px 22px #0006}
+.facade .play svg{width:30px;height:30px;margin-left:4px}
+.facade strong{font-size:1.1rem}
+.facade span{font-size:.82rem;opacity:.85}
+.empty{display:grid;place-items:center;text-align:center;padding:30px;color:#fff}
+.now{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:12px 0 4px;flex-wrap:wrap}
+.now h2{margin:0;font-size:1.05rem}
+.yt{display:inline-flex;align-items:center;gap:6px;text-decoration:none;border:1px solid #d5e7fb;background:#fff;color:#0872e5;border-radius:999px;padding:7px 13px;font-weight:750;font-size:.82rem}
+.yt:hover{background:#edf6ff}
+.note{margin:6px 0 18px;color:var(--muted);font-size:.8rem;line-height:1.5}
+.list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.channel{display:flex;flex-direction:column;align-items:flex-start;gap:3px;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:13px 14px;color:var(--ink);transition:transform .15s,box-shadow .15s}
+.channel:hover{transform:translateY(-2px);box-shadow:var(--shadow)}
+.channel[aria-pressed="true"]{border-color:#78b8ff;background:#eef7ff}
+.channel b{font-size:.95rem}
+.channel small{color:var(--muted);font-size:.78rem}
+.tag{display:inline-flex;align-items:center;gap:5px;font-size:.7rem;font-weight:800;color:#e11d48;letter-spacing:.04em}
+.tag i{width:7px;height:7px;border-radius:50%;background:#e11d48;display:inline-block}
+.none{background:#fff;border:1px dashed #c9dcf2;border-radius:14px;padding:18px;color:var(--muted);font-size:.9rem;text-align:center}
+footer{border-top:1px solid var(--line);background:#fff;color:var(--muted);font-size:.84rem;padding:22px;text-align:center}
+@media(max-width:760px){.header-inner{padding:11px 16px}.brand{font-size:1.35rem}.brand-icon{width:36px;height:36px}.brand-icon svg{width:27px;height:27px}main{padding:16px 14px 32px}.player{border-radius:12px}.list{grid-template-columns:1fr}h1{font-size:1.3rem}}
+</style>
+</head>
+<body>
+<header><div class="header-inner">
+<a class="brand" href="index.html" aria-label="DailyPulse home"><span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 48 48" fill="none"><path d="M3 25h9l5-11 8 22 7-18 4 7h9" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="brand-name">Daily<span>Pulse</span></span></a>
+<a class="back" href="index.html">← News</a>
+</div></header>
+
+<main>
+<h1><span class="dot" aria-hidden="true"></span>Live TV</h1>
+<p class="sub">Watch live news channels. Pick a category, then a channel.</p>
+
+<nav class="categories" id="categories" aria-label="Live categories"></nav>
+
+<div class="player" id="player" aria-live="polite"></div>
+<div class="now">
+  <h2 id="now-title"></h2>
+  <a class="yt" id="yt-link" href="#" target="_blank" rel="noopener noreferrer">Open on YouTube ↗</a>
+</div>
+<p class="note">Streams are provided by each channel on YouTube. If the player says the video is unavailable, the channel may be offline right now or may not allow embedding. Tap “Open on YouTube” to watch it there.</p>
+
+<section class="list" id="list" aria-label="Channels"></section>
+</main>
+
+<footer><strong>DailyPulse</strong> · Live streams belong to their original broadcasters.</footer>
+
+<script>
+/*
+  HOW TO ADD A LIVE CHANNEL
+  1. Open the channel on YouTube and find its channel ID (it starts with "UC").
+     On a computer: open the channel > About > Share channel > Copy channel ID.
+  2. Add a line like this to the category you want:
+       { name: "Channel name", channelId: "UCxxxxxxxxxxxxxxxxxxxxxx", desc: "Short description" }
+  The page shows whatever that channel is streaming live right now.
+*/
+const CHANNELS = {
+  aje:      { name: "Al Jazeera English", channelId: "UCNye-wNBqNL5ZzHSJj3l8Bg", desc: "24/7 world news" },
+  sky:      { name: "Sky News",           channelId: "UCoMdktPbSTixAyNGwb-UYkQ", desc: "24/7 UK and world news" },
+  dw:       { name: "DW News",            channelId: "UCknLrEdhRCp1aegoMqRaCZg", desc: "News from Germany and the world" },
+  france24: { name: "France 24 English",  channelId: "UCQfwfsi5VrQ8yKZ-UWmAEFg", desc: "International news in English" },
+  channels: { name: "Channels Television", channelId: "UCEXGDNclvmg6RW0vipJYsTQ", desc: "Nigeria's 24-hour news channel" },
+  bloomberg:{ name: "Bloomberg Television", channelId: "UCIALMKvObZNtJ6AmdCLP7Lg", desc: "Business and markets" }
+};
+
+const CATEGORIES = [
+  { key: "top",           label: "Top stories",   channels: [CHANNELS.aje, CHANNELS.sky, CHANNELS.dw, CHANNELS.france24] },
+  { key: "nigeria",       label: "Nigeria",       channels: [CHANNELS.channels] },
+  { key: "world",         label: "World",         channels: [CHANNELS.aje, CHANNELS.dw, CHANNELS.france24, CHANNELS.sky] },
+  { key: "business",      label: "Business",      channels: [CHANNELS.bloomberg] },
+  { key: "entertainment", label: "Entertainment", channels: [] },
+  { key: "sports",        label: "Sports",        channels: [] },
+  { key: "technology",    label: "Technology",    channels: [] },
+  { key: "science",       label: "Science",       channels: [] }
+];
+
+const STATE_KEY = "dailypulse-live-v1";
+const categoriesEl = document.getElementById("categories");
+const playerEl = document.getElementById("player");
+const listEl = document.getElementById("list");
+const nowTitle = document.getElementById("now-title");
+const ytLink = document.getElementById("yt-link");
+
+let catKey = CATEGORIES[0].key;
+let chanIndex = 0;
+
+function loadState() {
+  try {
+    const s = JSON.parse(localStorage.getItem(STATE_KEY)) || {};
+    if (CATEGORIES.some(c => c.key === s.cat)) catKey = s.cat;
+    if (Number.isInteger(s.idx)) chanIndex = s.idx;
+  } catch {}
+  const fromHash = location.hash.replace("#", "");
+  if (CATEGORIES.some(c => c.key === fromHash)) { catKey = fromHash; chanIndex = 0; }
+}
+function saveState() {
+  try { localStorage.setItem(STATE_KEY, JSON.stringify({ cat: catKey, idx: chanIndex })); } catch {}
+}
+
+const currentCategory = () => CATEGORIES.find(c => c.key === catKey) || CATEGORIES[0];
+
+function renderCategories() {
+  categoriesEl.replaceChildren(...CATEGORIES.map(c => {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "category"; b.textContent = c.label;
+    b.setAttribute("aria-pressed", String(c.key === catKey));
+    b.addEventListener("click", () => { catKey = c.key; chanIndex = 0; saveState(); renderAll(); });
+    return b;
+  }));
+}
+
+function renderPlayer() {
+  const cat = currentCategory();
+  const channel = cat.channels[chanIndex];
+  playerEl.replaceChildren();
+
+  if (!channel) {
+    const box = document.createElement("div");
+    box.className = "empty";
+    box.textContent = "No live channel for " + cat.label + " yet. Check back soon.";
+    playerEl.appendChild(box);
+    nowTitle.textContent = cat.label;
+    ytLink.style.display = "none";
+    return;
+  }
+
+  nowTitle.textContent = channel.name;
+  ytLink.style.display = "";
+  ytLink.href = "https://www.youtube.com/channel/" + encodeURIComponent(channel.channelId) + "/live";
+
+  // The video loads only when the visitor taps play, which saves data and avoids surprise sound.
+  const facade = document.createElement("button");
+  facade.type = "button"; facade.className = "facade";
+  facade.setAttribute("aria-label", "Play live: " + channel.name);
+  facade.innerHTML = '<span class="play"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></span><strong></strong><span></span>';
+  facade.querySelector("strong").textContent = channel.name;
+  facade.querySelectorAll("span")[1].textContent = "Tap to watch live";
+  facade.addEventListener("click", () => {
+    const frame = document.createElement("iframe");
+    frame.src = "https://www.youtube.com/embed/live_stream?channel=" + encodeURIComponent(channel.channelId) +
+      "&autoplay=1&playsinline=1&rel=0";
+    frame.title = channel.name + " live";
+    frame.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+    frame.allowFullscreen = true;
+    frame.referrerPolicy = "strict-origin-when-cross-origin";
+    playerEl.replaceChildren(frame);
+  });
+  playerEl.appendChild(facade);
+}
+
+function renderList() {
+  const cat = currentCategory();
+  if (!cat.channels.length) {
+    const none = document.createElement("div");
+    none.className = "none";
+    none.textContent = "Live channels for this category are coming soon.";
+    listEl.replaceChildren(none);
+    return;
+  }
+  listEl.replaceChildren(...cat.channels.map((c, i) => {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "channel";
+    b.setAttribute("aria-pressed", String(i === chanIndex));
+    const tag = document.createElement("span"); tag.className = "tag"; tag.innerHTML = "<i></i>LIVE CHANNEL";
+    const name = document.createElement("b"); name.textContent = c.name;
+    const desc = document.createElement("small"); desc.textContent = c.desc || "";
+    b.append(tag, name, desc);
+    b.addEventListener("click", () => {
+      chanIndex = i; saveState(); renderAll();
+      playerEl.scrollIntoView({ behavior: "smooth", block: "center" });
+    });
+    return b;
+  }));
+}
+
+function renderAll() { renderCategories(); renderPlayer(); renderList(); }
+
+loadState();
+if (chanIndex >= currentCategory().channels.length) chanIndex = 0;
+renderAll();
+</script>
+</body>
+</html>

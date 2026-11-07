@@ -1,34 +1,50 @@
-name: Update live TV status
+name: Update DailyPulse Live TV Status
+
 on:
-  schedule:
-    - cron: "3,18,33,48 * * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: live-status-update
+  group: dailypulse-live-status
   cancel-in-progress: false
 
 jobs:
-  check:
+  check-live-channels:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 25
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch || github.ref_name }}
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Check which live channels are working
+      - name: Install live-check dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install --upgrade yt-dlp
+
+      - name: Check YouTube live channels
         run: python scripts/check_live.py
 
-      - name: Commit live status
+      - name: Commit updated live status
         run: |
-          git config user.name "news-bot"
-          git config user.email "bot@users.noreply.github.com"
+          if git diff --quiet -- live-status.json; then
+            echo "No live status changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add live-status.json
-          git diff --staged --quiet || (git commit -m "Update live TV status" && git pull --rebase && git push)
+          git commit -m "Update DailyPulse live TV status"
+          git push

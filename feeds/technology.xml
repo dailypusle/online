@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Windows takes a break at UK motorway services</title>
+<link>https://www.theregister.com/offbeat/2026/11/07/windows-takes-a-break-at-uk-motorway-services/5307862</link>
+<guid isPermaLink="false">ee66432100840d42041ba290c84354101a966a1fd336ae716342a9801e828868</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 08:30:00 +0000</pubDate>
+<description>A roadside display at Cherwell Valley services has stopped dispensing information and started asking for help. The eagle-eyed Register reader who spotted the stricken screen told us: "UK motorway signs often tell us that tiredness can kill, urging us to take a break. This poor thing at Cherwell Valley services took the advice to heart." The display at the Moto services appears to have run into trouble during a restart. Windows offers another attempt or access to repair tools, although the latter options are hidden – perhaps somewhere on the top floor of the neighboring Travelodge. Getting things moving again will probably require access to the computer behind the screen. The Automatic Repair screen is all too familiar to Windows users. Not to be confused with the classic blue screen of death, it might indicate a misbehaving driver during a reboot, an update that did something unexpected, or some sort of hardware failure. Hopefully it isn't the latter – with memory and storage prices the way they are at the moment, a motorway services sandwich or gallon of fuel will seem a positive bargain by comparison. Our reader is right: taking a break is sensible advice. Getting Windows to end one can be another matter. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5307868&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5307868&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Can AI really save you money on your heating bill? I spent two years testing to find out</title>
 <link>https://www.theguardian.com/money/2026/nov/07/can-ai-save-you-money-heating-bill</link>
 <guid isPermaLink="false">7ddc1659b9313d0b8b05a5cd8fcaf3a3760ca82fb39cb10937c5641bb8839c03</guid>
@@ -1399,17 +1410,6 @@
 <description>Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here’s how it works.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/1_ef67d6.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1_ef67d6.jpg" medium="image"/>
-</item>
-<item>
-<title>VMware returns to low-end server virtualization with 'vSphere Express'</title>
-<link>https://www.theregister.com/virtualization/2026/11/04/vmware-returns-to-low-end-server-virtualization-with-vsphere-express/5307466</link>
-<guid isPermaLink="false">415e406f78b1844c1fad632328630f86544caad3952add33e9a8a05923c33f70</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 17:01:00 +0000</pubDate>
-<description>As first reported by The Register , VMware has returned to the low-end server virtualization market with a product called "vSphere Express." The product will run on up to 128 processor cores and includes vMotion to allow live migration of VMs, automated restart of failed VMs, a distributed switch, rapid non-disruptive patching, and support for physical and virtual trusted platform modules. "We have been listening to the market at the low end, and they want a basic core server virtualization platform," said Prashanth Shenoy, vice president of product marketing in Broadcom's VMware Cloud Foundation (VCF). He explained that each instance of vSphere Express will be discrete, meaning it won't be possible to manage them centrally. "This is tested for small implementations," he told The Register . "We do not want a customer to run this on thousands of cores." Shenoy said the vSphere Foundation (VVF) enterprise virtualization product, and Cloud Foundation (VCF) private cloud suite, are appropriate for users with more complex needs. vSphere Express will, however, match the release cadence of VVF and VCF. Under Broadcom’s ownership, VMware has enormously reduced the number of resellers in its channel program , meaning it no longer has partners who are a good fit for this product. The virtualization giant will therefore sell vSphere Express through its distributors, most of which now operate cloud marketplaces at which affiliated resellers can acquire software – an arrangement channel folk call "two tier distribution." We asked VMware to tell us the price it will charge for vSphere Express. A spokesperson told us it will offer a per-core subscription license at a price "significantly lower" than VVF or VCF but declined to quote a dollar amount. "We encourage interested customers to reach out to their local reseller for information related to pricing and subscription terms," the spokesperson wrote. VMware has also bulked out VVF and VCF a little, by adding disaster recovery and policy-based networking for virtual private clouds that it previously sold as add-ons. Shenoy pitched the additions as demonstrating VMware's intention to add value to VVF and VCF, in part by ensuring the bundles include tools that users are likely to consider represent essential functionality. The Broadcom business unit will also add new features, such as native AWS S3-compatible object storage for its VSAN virtual storage. That update, due in calendar Q1 of 2027, means VSAN will become a more convenient platform on which to store the unstructured data that AI workloads rely on, therefore boosting the utility of VMware's AI Factory. VMware also plans to make its AI Factory easier to implement. "The idea is to focus more on AI, less on setup," Shenoy said. Analysis: A welcome low-end return faces an uncertain reception VMware's return to the low-end server virtualization market may not be well-received, because it has largely ignored users of its existing low-end vSphere Standard prod</description>
-<enclosure url="https://image.theregister.com/?imageId=254061&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=254061&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Why the weirdest game of 2026 is also one of my favourites</title>

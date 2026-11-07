@@ -43,6 +43,9 @@ h1{margin:0 0 4px;font-size:1.5rem;letter-spacing:-.03em;display:flex;align-item
 .now h2{margin:0;font-size:1.05rem}
 .yt{display:inline-flex;align-items:center;gap:6px;text-decoration:none;border:1px solid #d5e7fb;background:#fff;color:#0872e5;border-radius:999px;padding:7px 13px;font-weight:750;font-size:.82rem}
 .yt:hover{background:#edf6ff}
+.yt[hidden]{display:none}
+.now-actions{display:flex;gap:8px;flex-wrap:wrap}
+button.yt{font-family:inherit}
 .note{margin:6px 0 18px;color:var(--muted);font-size:.8rem;line-height:1.5}
 .list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 .channel{display:flex;flex-direction:column;align-items:flex-start;gap:3px;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:13px 14px;color:var(--ink);transition:transform .15s,box-shadow .15s}
@@ -72,7 +75,10 @@ footer{border-top:1px solid var(--line);background:#fff;color:var(--muted);font-
 <div class="player" id="player" aria-live="polite"></div>
 <div class="now">
   <h2 id="now-title"></h2>
-  <a class="yt" id="yt-link" href="#" target="_blank" rel="noopener noreferrer">Open on YouTube ↗</a>
+  <div class="now-actions">
+    <button class="yt" id="alt-btn" type="button" hidden>Not playing? Try backup player</button>
+    <a class="yt" id="yt-link" href="#" target="_blank" rel="noopener noreferrer">Open on YouTube ↗</a>
+  </div>
 </div>
 <p class="note">Streams are provided by each channel on YouTube. Channels that are offline or do not allow embedding are hidden automatically. If a video still says unavailable, tap “Open on YouTube” to watch it there.</p>
 
@@ -92,7 +98,8 @@ footer{border-top:1px solid var(--line);background:#fff;color:var(--muted);font-
 
   AUTOMATIC CHECKS
   A GitHub Action (.github/workflows/live-status.yml) reads every channelId
-  from this file twice an hour and saves the results in live-status.json.
+  from this file every 15 minutes and saves the results in live-status.json,
+  including the exact video ID of each live stream, which the player uses.
   Channels that are offline or block embedding are hidden here automatically,
   and they reappear on their own when they work again.
 */
@@ -172,6 +179,7 @@ const playerEl = document.getElementById("player");
 const listEl = document.getElementById("list");
 const nowTitle = document.getElementById("now-title");
 const ytLink = document.getElementById("yt-link");
+const altBtn = document.getElementById("alt-btn");
 
 let catKey = CATEGORIES[0].key;
 let chanIndex = 0;
@@ -215,10 +223,27 @@ function renderCategories() {
   }));
 }
 
+// Builds the embedded player. "video" plays the exact live stream found by the automatic check
+// (most reliable). "channel" asks YouTube for whatever the channel is live with, used as a backup.
+function buildFrame(channel, mode) {
+  const info = statusMap[channel.channelId] || {};
+  const frame = document.createElement("iframe");
+  const base = (mode === "video" && info.videoId)
+    ? "https://www.youtube.com/embed/" + encodeURIComponent(info.videoId) + "?"
+    : "https://www.youtube.com/embed/live_stream?channel=" + encodeURIComponent(channel.channelId) + "&";
+  frame.src = base + "autoplay=1&playsinline=1&rel=0&modestbranding=1";
+  frame.title = channel.name + " live";
+  frame.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+  frame.allowFullscreen = true;
+  frame.referrerPolicy = "strict-origin-when-cross-origin";
+  return frame;
+}
+
 function renderPlayer() {
   const cat = currentCategory();
   const channel = visibleChannels()[chanIndex];
   playerEl.replaceChildren();
+  altBtn.hidden = true;
 
   if (!channel) {
     const box = document.createElement("div");
@@ -232,9 +257,12 @@ function renderPlayer() {
     return;
   }
 
+  const info = statusMap[channel.channelId] || {};
   nowTitle.textContent = channel.name;
   ytLink.style.display = "";
-  ytLink.href = "https://www.youtube.com/channel/" + encodeURIComponent(channel.channelId) + "/live";
+  ytLink.href = info.videoId
+    ? "https://www.youtube.com/watch?v=" + encodeURIComponent(info.videoId)
+    : "https://www.youtube.com/channel/" + encodeURIComponent(channel.channelId) + "/live";
 
   // The video loads only when the visitor taps play, which saves data and avoids surprise sound.
   const facade = document.createElement("button");
@@ -244,14 +272,16 @@ function renderPlayer() {
   facade.querySelector("strong").textContent = channel.name;
   facade.querySelectorAll("span")[1].textContent = "Tap to watch live";
   facade.addEventListener("click", () => {
-    const frame = document.createElement("iframe");
-    frame.src = "https://www.youtube.com/embed/live_stream?channel=" + encodeURIComponent(channel.channelId) +
-      "&autoplay=1&playsinline=1&rel=0";
-    frame.title = channel.name + " live";
-    frame.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
-    frame.allowFullscreen = true;
-    frame.referrerPolicy = "strict-origin-when-cross-origin";
-    playerEl.replaceChildren(frame);
+    let mode = info.videoId ? "video" : "channel";
+    playerEl.replaceChildren(buildFrame(channel, mode));
+    // Offer the other player type if this one shows "Video unavailable".
+    altBtn.hidden = !info.videoId;
+    altBtn.textContent = "Not playing? Try backup player";
+    altBtn.onclick = () => {
+      mode = mode === "video" ? "channel" : "video";
+      playerEl.replaceChildren(buildFrame(channel, mode));
+      altBtn.textContent = mode === "video" ? "Not playing? Try backup player" : "Switch back to main player";
+    };
   });
   playerEl.appendChild(facade);
 }

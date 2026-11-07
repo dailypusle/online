@@ -1,149 +1,233 @@
+
 #!/usr/bin/env python3
-"""Check every YouTube live channel listed in live.html and write live-status.json.
+"""Reliable YouTube live-channel checker for DailyPulse."""
 
-The channel IDs are read straight from live.html (the lines that look like
-channelId: "UC..."), so adding a channel to the page is enough: the next run
-starts checking it automatically.
-
-For each channel we ask YouTube three things:
-  1. Is the channel streaming live right now?
-  2. Is that stream allowed to be embedded on other websites?
-  3. (confirmed with YouTube's oEmbed service)
-
-When a channel is live, its current video ID is saved too, because the page
-plays that exact stream (YouTube's "channel" embed often says "Video unavailable").
-
-A channel is hidden on live.html only after it fails 2 checks in a row, so one
-temporary glitch does not remove a working channel. If YouTube cannot be
-reached at all, the previous result is kept unchanged.
-"""
 import datetime
 import json
 import pathlib
-import re
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 
+import yt_dlp
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 HTML_FILE = ROOT / "live.html"
 OUT_FILE = ROOT / "live-status.json"
+
 HIDE_AFTER_MISSES = 2
+CHECK_DELAY = 1
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-    "Cookie": "CONSENT=YES+cb; SOCS=CAI",  # skips YouTube's cookie-consent page
-}
-
-
-def get(url):
-    request = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(request, timeout=25) as response:
-        return response.status, response.read().decode("utf-8", "replace")
+YOUTUBE_API_KEY = ""  # Optional: add a YouTube Data API key
 
 
 def channel_ids():
-    text = HTML_FILE.read_text(encoding="utf-8")
-    found = re.findall(r'channelId:\s*"(UC[\w-]{22})"', text)
-    return list(dict.fromkeys(found))  # unique, keeps order
+    import re
+
+    html = HTML_FILE.read_text(encoding="utf-8")
+    found = re.findall(r'channelId:\s*"(UC[\w-]{22})"', html)
+
+    return list(dict.fromkeys(found))
+
+
+def extract_live_video(channel_id):
+    """Find the actual live video using yt-dlp."""
+
+    url = f"https://www.youtube.com/channel/{channel_id}/live"
+
+    options = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+        "extract_flat": False,
+        "ignoreerrors": True,
+        "socket_timeout": 30,
+        "retries": 2,
+        "extractor_retries": 2,
+    }
+
+    with yt_dlp.YoutubeDL(options) as ydl:
+        info = ydl.extract_info(url, download=False)
+
+    if not info:
+        raise RuntimeError("YouTube returned no stream information")
+
+    def find_live(data):
+        if not isinstance(data, dict):
+            return None
+
+        if data.get("id") and (
+            data.get("is_live") is True
+            or data.get("live_status") == "is_live"
+        ):
+            return data
+
+        entries = data.get("entries")
+
+        if entries:
+            for entry in entries:
+                result = find_live(entry)
+                if result:
+                    return result
+
+        return None
+
+    live = find_live(info)
+
+    if live:
+        video_id = live.get("id")
+
+        if not video_id or len(video_id) != 11:
+            raise RuntimeError("Invalid YouTube video ID")
+
+        return {
+            "state": "live",
+            "videoId": video_id,
+            "reason": "Active live broadcast found",
+        }
+
+    # A successfully extracted channel with no active live broadcast
+    # is offline. Extraction failures are handled separately as unknown.
+    return {
+        "state": "offline",
+        "videoId": None,
+        "reason": "No active live broadcast found",
+    }
+
+
+def check_embedding(video_id):
+    """Check embedding permission when a YouTube API key is available."""
+
+    if not YOUTUBE_API_KEY:
+        return "unknown"
+
+    url = (
+        "https://www.googleapis.com/youtube/v3/videos"
+        "?part=status&id="
+        + urllib.parse.quote(video_id)
+        + "&key="
+        + urllib.parse.quote(YOUTUBE_API_KEY)
+    )
+
+    try:
+        request = urllib.request.Request(
+            url,
+            headers={"User-Agent": "DailyPulse/1.0"},
+        )
+
+        with urllib.request.urlopen(request, timeout=15) as response:
+            data = json.loads(response.read().decode("utf-8"))
+
+        items = data.get("items", [])
+
+        if not items:
+            return "unknown"
+
+        return (
+            "allowed"
+            if items[0].get("status", {}).get("embeddable") is True
+            else "blocked"
+        )
+
+    except Exception as error:
+        print(f"Embedding check warning: {error}")
+        return "unknown"
 
 
 def check(channel_id):
-    """Returns (state, reason, video_id). state: live | blocked | offline | unknown."""
     try:
-        _, page = get(f"https://www.youtube.com/channel/{channel_id}/live")
-    except urllib.error.HTTPError as error:
-        if error.code == 404:
-            return "offline", "channel not found (check the channel ID)", None
-        return "unknown", f"YouTube answered HTTP {error.code}", None
-    except Exception as error:  # network trouble: do not judge the channel
-        return "unknown", f"could not load the live page ({error})", None
+        result = extract_live_video(channel_id)
 
-    if "ytInitialData" not in page:
-        return "unknown", "YouTube returned a page without video data (consent or bot check)", None
+        if result["state"] == "offline":
+            return "offline", result["reason"], None
 
-    canonical = re.search(
-        r'<link rel="canonical" href="https://www\.youtube\.com/watch\?v=([\w-]{11})"', page
-    )
-    if not canonical:
-        return "offline", "channel is not streaming", None
+        video_id = result["videoId"]
 
-    if '"isLiveNow":true' not in page and '"isLive":true' not in page:
-        return "offline", "video is not live (ended or upcoming)", None
+        embedding = check_embedding(video_id)
 
-    if '"playableInEmbed":false' in page:
-        return "blocked", "the broadcaster does not allow embedding", None
+        if embedding == "blocked":
+            return "blocked", "YouTube does not allow embedding", None
 
-    video_id = canonical.group(1)
-    oembed = "https://www.youtube.com/oembed?format=json&url=" + urllib.parse.quote(
-        f"https://www.youtube.com/watch?v={video_id}", safe=""
-    )
-    try:
-        get(oembed)
-    except urllib.error.HTTPError as error:
-        if error.code in (401, 403):
-            return "blocked", "embedding is disabled (oEmbed refused)", None
-        if error.code == 404:
-            return "offline", "video not found", None
-    except Exception:
-        pass  # oEmbed is only a second opinion
+        return "live", result["reason"], video_id
 
-    return "live", "ok", video_id
+    except Exception as error:
+        return "unknown", f"YouTube check failed: {error}", None
 
 
 def main():
     ids = channel_ids()
+
     if not ids:
-        print("No channel IDs found in live.html. Nothing to do.")
+        print("No channel IDs found in live.html.")
         return
 
     try:
-        old = json.loads(OUT_FILE.read_text(encoding="utf-8")).get("channels", {})
+        old_data = json.loads(
+            OUT_FILE.read_text(encoding="utf-8")
+        )
+        old = old_data.get("channels", {})
     except (FileNotFoundError, ValueError):
         old = {}
 
     new = {}
+
     for channel_id in ids:
         state, reason, video_id = check(channel_id)
-        time.sleep(1)
-        previous = old.get(channel_id)
+        previous = old.get(channel_id, {})
+
         print(f"{channel_id}: {state} - {reason}")
 
         if state == "unknown":
-            new[channel_id] = previous or {"status": "unknown", "available": True, "misses": 0}
+            # Preserve the last known result during network errors.
+            new[channel_id] = previous or {
+                "status": "unknown",
+                "available": True,
+                "misses": 0,
+            }
+
+            time.sleep(CHECK_DELAY)
             continue
 
         if state == "live":
             misses = 0
         else:
-            misses = min((previous or {}).get("misses", 0) + 1, HIDE_AFTER_MISSES)
+            misses = min(
+                previous.get("misses", 0) + 1,
+                HIDE_AFTER_MISSES,
+            )
 
         entry = {
             "status": state,
             "available": misses < HIDE_AFTER_MISSES,
             "misses": misses,
         }
+
+        # Never retain an old video ID for an ended or blocked stream.
         if state == "live" and video_id:
-            entry["videoId"] = video_id  # the page plays this exact stream
-        elif previous and previous.get("videoId") and misses < HIDE_AFTER_MISSES:
-            entry["videoId"] = previous["videoId"]  # keep it through a one-off glitch
+            entry["videoId"] = video_id
+
         new[channel_id] = entry
 
+        time.sleep(CHECK_DELAY)
+
     if new == old:
-        print("No changes, live-status.json left as it is.")
+        print("No changes. live-status.json remains unchanged.")
         return
 
     payload = {
-        "updatedAt": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "updatedAt": datetime.datetime.now(
+            datetime.timezone.utc
+        ).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "channels": new,
     }
-    OUT_FILE.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n", encoding="utf-8")
-    print("Wrote live-status.json")
+
+    OUT_FILE.write_text(
+        json.dumps(payload, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+
+    print("Successfully updated live-status.json")
 
 
 if __name__ == "__main__":

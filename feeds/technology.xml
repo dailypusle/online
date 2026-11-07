@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>You can easily keep your home network running during a power outage — here's how</title>
+<link>https://www.engadget.com/2308573/how-to-keep-home-network-running-during-outage</link>
+<guid isPermaLink="false">0e96123cce52d1790f07de249fa6635458c77f57ea7c0c2976cd0b252ae19b37</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 19:30:00 +0000</pubDate>
+<description>Few things top the inconvenience of being in the middle of something online when the power goes out. Luckily, there are a few options to keep you connected.</description>
+<enclosure url="https://www.engadget.com/img/gallery/you-can-easily-keep-your-home-network-running-during-a-power-outage-heres-how/l-intro-1793913082.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/you-can-easily-keep-your-home-network-running-during-a-power-outage-heres-how/l-intro-1793913082.jpg" medium="image"/>
+</item>
+<item>
+<title>How to set up SpaceXAI's Grok in Google Workspace (and what it can do)</title>
+<link>https://www.engadget.com/2309543/how-to-set-up-use-spacexai-grok-in-google-workspace</link>
+<guid isPermaLink="false">81029fe32d7f090a84a7e84d117b5e592157bf83a84b99e786635f3e23fb7dcf</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 19:15:00 +0000</pubDate>
+<description>Inserting Grok into your Google Workspace is easy, but you'll want to consider a few things before rolling out the welcome mat.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-set-up-spacexais-grok-in-google-workspace-and-what-it-can-do/l-intro-1793988095.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-set-up-spacexais-grok-in-google-workspace-and-what-it-can-do/l-intro-1793988095.jpg" medium="image"/>
+</item>
+<item>
+<title>How a bottleneck calculator for your GPU and CPU works</title>
+<link>https://www.engadget.com/2306571/how-bottleneck-calculator-works-gpu-cpu</link>
+<guid isPermaLink="false">47ba7217855483e3b358f49076b1a19a652e9f52bf7f352474e5abd2c00f25e1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<description>They're a quick way to help you check component compatibility before you build or upgrade a system.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-a-bottleneck-calculator-for-your-gpu-and-cpu-works/l-intro-1793806824.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-a-bottleneck-calculator-for-your-gpu-and-cpu-works/l-intro-1793806824.jpg" medium="image"/>
+</item>
+<item>
+<title>5 things you didn't know Steam's overlay could do</title>
+<link>https://www.engadget.com/2309539/things-you-didnt-know-steam-overlay-could-do</link>
+<guid isPermaLink="false">dcceadf7601aee28a3587c05f62e71e0a422e69f2d37706b4f1530cb3c275489</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 18:45:00 +0000</pubDate>
+<description>Steam's overlay hides several useful tools beyond its familiar chat window, including features that can help you play, stay organized, and connect with friends.</description>
+<enclosure url="https://www.engadget.com/img/gallery/5-things-you-didnt-know-steams-overlay-could-do/l-intro-1793988811.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/5-things-you-didnt-know-steams-overlay-could-do/l-intro-1793988811.jpg" medium="image"/>
+</item>
+<item>
 <title>How to watch videos on Apple CarPlay while parked</title>
 <link>https://www.engadget.com/2306196/apple-carplay-how-to-watch-videos</link>
 <guid isPermaLink="false">8ca1107e4d9233aa16db87ecbaad4b719e324ad183628fe0ceb1abb00f465593</guid>
@@ -235,17 +279,6 @@
 <media:content url="https://www.engadget.com/img/gallery/how-to-use-your-old-tablet-to-build-a-live-streaming-setup/l-intro-1793689754.jpg" medium="image"/>
 </item>
 <item>
-<title>How iOS can warn you when one of your passwords shows up in a data leak</title>
-<link>https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak</link>
-<guid isPermaLink="false">ccb95109feb8a8add3749f2c68152174f62a2e039ef1a3d4ce00ce96d8d6e20f</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 15:15:00 +0000</pubDate>
-<description>You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-ios-can-warn-you-when-one-of-your-passwords-shows-up-in-a-data-leak/l-intro-1793725978.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-ios-can-warn-you-when-one-of-your-passwords-shows-up-in-a-data-leak/l-intro-1793725978.jpg" medium="image"/>
-</item>
-<item>
 <title>AI broke the cybersecurity world. What’s next?</title>
 <link>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</link>
 <guid isPermaLink="false">4b429bd7582936e31a06bd96af5a52a7bc025ba8117462358d981259605958a1</guid>
@@ -255,17 +288,6 @@
 <description>Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say that the multibillion-dollar cybersecurity industry as we’ve known it is essentially overdue to the unrelenting, AI-boosted waves of hacks, breaches, and attacks — and this is only the beginning of how much AI is changing security. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . Both private actors and also state actors, like Russia or North Korea, are breaking into systems all over thanks to AI helping them both detect and exploit vulnerabilities all at the same time. It’s got a real frontier feel to it, Alex notes, just like the ’90s, when the whole idea of an always-online world was brand-new. That much disruption means a lot of places where bad guys can get in while everyone else is left scrambling. Alex isn’t a doomer in the long run, but he does think we’re in for a “dark age” while we try to figure out how on earth to adapt to the new era. There’s a lot going on here — we even got all the way to how AI-powered misinformation and slop might be managed on our social networks. Before we get going, do me a favor and subscribe to Decoder on YouTube, where we put out new episodes every Monday and Thursday. Okay: Alex Stamos on how AI is upending cybersecurity. Here we go. This interview has been lightly edited for length and clarity. Alex Stamos, you’re the chief security officer at Cognition. You’re also a lecturer at Stanford University Cyber Policy Center. Welcome back to Decoder . Hey, thanks for having me, man. I’m excited to talk to you. It’s been a long time since you and I chatted in what you might call the “content moderation era” of internet policy discourse. I feel like you and I talked a lot about how all that was working, about election security, all those sorts of things. We’re in a new era of big problems on the internet, particularly around cyber defense, cybersecurity. You’ve been thinking about this stuff a lot. You referred to the past few weeks as “security awareness month.” Tell me what’s going on. Just give me the lay of land right now. October is traditionally security awareness month. Lots of companies run events and deal both internally and then tell people, “Change your password, use multiple passwords, use a password manager.” What has happened over the last month is we’ve had a couple of these big bugs, PHP, Node and such. What’s been less discussed is a huge number of companies have been breached. You have a series of AI-related companies, the neoclouds that have been breached in succession. You have the Binance hack, which is the largest heist of anything in human history. You have the Curso</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Why you don't really need an expensive, high-end router</title>
-<link>https://www.engadget.com/2305411/why-you-dont-need-expensive-high-end-router</link>
-<guid isPermaLink="false">1b478fdaad237760d4586b64ac6e8f86c5290914630d62dba8a1f54dea60c200</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
-<description>Getting a top-of-the-line router won't necessarily increase your internet speeds. Here's what you need to know before you buy.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-you-dont-really-need-an-expensive-high-end-router/l-intro-1793041101.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-you-dont-really-need-an-expensive-high-end-router/l-intro-1793041101.jpg" medium="image"/>
 </item>
 <item>
 <title>Fireworks says you’re wasting money on AI unless you’re using all the models</title>
@@ -279,17 +301,6 @@
 <media:content url="https://image.theregister.com/?imageId=5308281&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Windows PowerToys can automate some of your more tedious PC tasks</title>
-<link>https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks</link>
-<guid isPermaLink="false">fa48506df7812f5f7c1143432a9862d2e9da4f6e5d1bd35766fdaa2a642affae</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:45:00 +0000</pubDate>
-<description>PowerToys is a secret weapon for Windows users, with tons of handy utilities to help you save time on your PC every day.</description>
-<enclosure url="https://www.engadget.com/img/gallery/windows-powertoys-can-automate-some-of-your-more-tedious-pc-tasks/l-intro-1793722923.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/windows-powertoys-can-automate-some-of-your-more-tedious-pc-tasks/l-intro-1793722923.jpg" medium="image"/>
-</item>
-<item>
 <title>Good riddance, Cybertruck!</title>
 <link>https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash</link>
 <guid isPermaLink="false">64aea633afaca9aebc44f5368281c68e3b3a26fe10bec2b72e262ac665a83d23</guid>
@@ -299,17 +310,6 @@
 <description>I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be "winding down" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed as the pinnacle of Tesla's engineering - faster than a Porsche 911, more powerful than an F-150, able to leap over the Model Y as a singular representation of Musk's Blade Runner -inspired designs for the future. "I think the Tesla Cybertruck is our best product ever," he declared during a 2019 earnings call . (He prefaced the statement … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The accessory Samsung Galaxy S26 users should be taking advantage of</title>
-<link>https://www.engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of</link>
-<guid isPermaLink="false">18825cc9ba624cbd59a140358c58bcb952e8945876c9f6e3c9068395a123af56</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:30:00 +0000</pubDate>
-<description>There's a lot to like about Samsung's Galaxy S26 phones, especially the S26 Ultra, but some users may not be taking full advantage of what they have to offer.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-accessory-samsung-galaxy-s26-users-should-be-taking-advantage-of/l-intro-1793687035.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-accessory-samsung-galaxy-s26-users-should-be-taking-advantage-of/l-intro-1793687035.jpg" medium="image"/>
 </item>
 <item>
 <title>Standing in the way of slop bowls: the woman blocking food delivery robots</title>

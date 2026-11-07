@@ -69,9 +69,7 @@ footer{border-top:1px solid var(--line);background:#fff;color:var(--muted);font-
 <main>
 <h1><span class="dot" aria-hidden="true"></span>Live TV</h1>
 <p class="sub">Watch live news channels. Pick a category, then a channel.</p>
-
 <nav class="categories" id="categories" aria-label="Live categories"></nav>
-
 <div class="player" id="player" aria-live="polite"></div>
 <div class="now">
   <h2 id="now-title"></h2>
@@ -81,7 +79,6 @@ footer{border-top:1px solid var(--line);background:#fff;color:var(--muted);font-
   </div>
 </div>
 <p class="note">Streams are provided by each channel on YouTube. Channels that are offline or do not allow embedding are hidden automatically. If a video still says unavailable, tap “Open on YouTube” to watch it there.</p>
-
 <section class="list" id="list" aria-label="Channels"></section>
 </main>
 
@@ -90,21 +87,14 @@ footer{border-top:1px solid var(--line);background:#fff;color:var(--muted);font-
 <script>
 /*
   HOW TO ADD A LIVE CHANNEL
-  1. Open the channel on YouTube and find its channel ID (it starts with "UC").
-     On a computer: open the channel > About > Share channel > Copy channel ID.
-  2. Add a line like this to the category you want:
-       { name: "Channel name", channelId: "UC_your_channel_id", desc: "Short description" }
-  The page shows whatever that channel is streaming live right now.
+  Add a channel entry below. The checker reads every channelId automatically.
 
   AUTOMATIC CHECKS
-  A GitHub Action (.github/workflows/live-status.yml) reads every channelId
-  from this file every 15 minutes and saves the results in live-status.json,
-  including the exact video ID of each live stream, which the player uses.
-  Channels that are offline or block embedding are hidden here automatically,
-  and they reappear on their own when they work again.
+  GitHub Actions runs scripts/check_live.py every 15 minutes and updates
+  live-status.json. The exact active video ID is used by the player.
 */
 const CHANNELS = {
-  // ---- News ----
+  // News
   aje:       { name: "Al Jazeera English",    channelId: "UCNye-wNBqNL5ZzHSJj3l8Bg", desc: "24/7 world news" },
   sky:       { name: "Sky News",              channelId: "UCoMdktPbSTixAyNGwb-UYkQ", desc: "24/7 UK and world news" },
   dw:        { name: "DW News",               channelId: "UCknLrEdhRCp1aegoMqRaCZg", desc: "News from Germany and the world" },
@@ -122,15 +112,18 @@ const CHANNELS = {
   pbs:       { name: "PBS NewsHour",          channelId: "UC6ZFN9Tx6xh-skXCuRHCDpQ", desc: "US news and analysis" },
   gbnews:    { name: "GB News",               channelId: "UC0vn8ISa4LKMunLbzaXLnOQ", desc: "UK news and debate" },
   abcau:     { name: "ABC News Australia",    channelId: "UCVgO39Bk5sMo66-6o6Spn6Q", desc: "News from Australia" },
-  // ---- Nigeria and Africa ----
-  channels:  { name: "Channels Television",   channelId: "UCEXGDNclvmg6RW0vipJYsTQ", desc: "Nigeria's 24-hour news channel" },
-  africanews:{ name: "Africanews",            channelId: "UC1_E8NeF5QHY2dtdLRBCCLA", desc: "News from across Africa" },
-  // ---- Business ----
-  bloomberg: { name: "Bloomberg Television",  channelId: "UCIALMKvObZNtJ6AmdCLP7Lg", desc: "Business and markets" },
+
+  // Nigeria and Africa
+  channels:   { name: "Channels Television", channelId: "UCEXGDNclvmg6RW0vipJYsTQ", desc: "Nigeria's 24-hour news channel" },
+  africanews: { name: "Africanews",          channelId: "UC1_E8NeF5QHY2dtdLRBCCLA", desc: "News from across Africa" },
+
+  // Business
+  bloomberg: { name: "Bloomberg Television", channelId: "UCIALMKvObZNtJ6AmdCLP7Lg", desc: "Business and markets" },
   cnbc:      { name: "CNBC",                  channelId: "UCvJJ_dzjViJCoLf5uKUTwoA", desc: "Markets, business and tech" },
   yahoo:     { name: "Yahoo Finance",         channelId: "UCEAZeUIeJs0IjQiqTCdVSIg", desc: "Live markets and money news" },
   wsj:       { name: "Wall Street Journal",   channelId: "UCK7tptUDHh-RYDsdxO1-5QQ", desc: "Business news and live events" },
-  // ---- Sports ----
+
+  // Sports
   olympics:  { name: "Olympics",              channelId: "UCTl3QQTvqHFjurroKxexy2Q", desc: "Olympic sports, live events" },
   cbssports: { name: "CBS Sports HQ",         channelId: "UCp0hYYBW6IMayGgR-WeoCvQ", desc: "Sports news and talk" },
   nba:       { name: "NBA",                   channelId: "UCWJ2lWNubArHWmf3FIHbfcQ", desc: "Basketball, live when streaming" },
@@ -141,7 +134,8 @@ const CHANNELS = {
   wwe:       { name: "WWE",                   channelId: "UCJ5v_MCY6GNUBTO8-D3XoAg", desc: "Wrestling, live when streaming" },
   redbull:   { name: "Red Bull",              channelId: "UCblfuW_4rakIf2h6aqANefA", desc: "Extreme sports and events" },
   espn:      { name: "ESPN",                  channelId: "UCiWLfSweyRNmLpgEHekhoAg", desc: "Sports shows and live events" },
-  // ---- Technology ----
+
+  // Technology
   apple:     { name: "Apple",                 channelId: "UCE_M8A5yxnLfW0KghEeajjw", desc: "Keynotes and launch events" },
   google:    { name: "Google",                channelId: "UCK8sQmJBp8GCxrOtXWBpyEA", desc: "Google events and launches" },
   verge:     { name: "The Verge",             channelId: "UCddiUEpeqJcYeBxX1IVBKvQ", desc: "Tech news and live events" },
@@ -149,28 +143,30 @@ const CHANNELS = {
   engadget:  { name: "Engadget",              channelId: "UC-6OW5aJYBFM33zXQlBKPNA", desc: "Gadgets and live coverage" },
   mkbhd:     { name: "Marques Brownlee",      channelId: "UCBJycsmduvYEL83R_U4JriQ", desc: "Tech reviews, live when streaming" },
   ltt:       { name: "Linus Tech Tips",       channelId: "UCXuqSBlHAE6Xw-yeJA0Tunw", desc: "PC and gadget tech" },
-  // ---- Science and space ----
+
+  // Science and space
   nasa:      { name: "NASA",                  channelId: "UCLA_DiR1FfKNvjuUpBHmylQ", desc: "NASA TV and space station views" },
   nsf:       { name: "NASASpaceflight",       channelId: "UCSUu1lih2RifWkKtDOJdsBA", desc: "Rocket launches and Starbase cams" },
   spacex:    { name: "SpaceX",                channelId: "UCtI0Hodo5o5dUb67FeUjDeA", desc: "Launches, live when flying" },
   esa:       { name: "European Space Agency", channelId: "UCIBaDdAbGlFDeS33shmlD0A", desc: "ESA missions and events" },
-  // ---- Entertainment and music ----
-  lofi:      { name: "Lofi Girl",             channelId: "UCSJ4gkVC6NrvII8umztf0Ow", desc: "24/7 chill music to relax to" },
-  kexp:      { name: "KEXP",                  channelId: "UC3I2GFN_F8WudD_2jUZbojA", desc: "Live music radio with video" },
-  tomorrowland:{ name: "Tomorrowland",        channelId: "UCsN8M73DMWa8SPp5o_0IAQQ", desc: "Festival sets and live shows" },
-  netflix:   { name: "Netflix",               channelId: "UCWOA1ZGywLbqmigxE4Qlvuw", desc: "Premieres and live events" },
-  ted:       { name: "TED",                   channelId: "UCAuUUnT6oDeKwE6v1NGQxug", desc: "Talks and live conferences" }
+
+  // Entertainment and music
+  lofi:        { name: "Lofi Girl",   channelId: "UCSJ4gkVC6NrvII8umztf0Ow", desc: "24/7 chill music to relax to" },
+  kexp:        { name: "KEXP",        channelId: "UC3I2GFN_F8WudD_2jUZbojA", desc: "Live music radio with video" },
+  tomorrowland:{ name: "Tomorrowland",channelId: "UCsN8M73DMWa8SPp5o_0IAQQ", desc: "Festival sets and live shows" },
+  netflix:     { name: "Netflix",     channelId: "UCWOA1ZGywLbqmigxE4Qlvuw", desc: "Premieres and live events" },
+  ted:         { name: "TED",         channelId: "UCAuUUnT6oDeKwE6v1NGQxug", desc: "Talks and live conferences" }
 };
 
 const CATEGORIES = [
-  { key: "top",           label: "Top stories",   channels: [CHANNELS.aje, CHANNELS.sky, CHANNELS.bbc, CHANNELS.dw, CHANNELS.france24, CHANNELS.euronews, CHANNELS.cnn, CHANNELS.nbc, CHANNELS.abc, CHANNELS.cbs, CHANNELS.ap] },
-  { key: "nigeria",       label: "Nigeria",       channels: [CHANNELS.channels, CHANNELS.africanews, CHANNELS.aje] },
-  { key: "world",         label: "World",         channels: [CHANNELS.aje, CHANNELS.bbc, CHANNELS.dw, CHANNELS.france24, CHANNELS.euronews, CHANNELS.sky, CHANNELS.cnn, CHANNELS.nhk, CHANNELS.cna, CHANNELS.abcau, CHANNELS.gbnews, CHANNELS.reuters, CHANNELS.pbs] },
-  { key: "business",      label: "Business",      channels: [CHANNELS.bloomberg, CHANNELS.cnbc, CHANNELS.yahoo, CHANNELS.wsj, CHANNELS.reuters] },
-  { key: "entertainment", label: "Entertainment", channels: [CHANNELS.lofi, CHANNELS.kexp, CHANNELS.tomorrowland, CHANNELS.netflix, CHANNELS.ted] },
-  { key: "sports",        label: "Sports",        channels: [CHANNELS.cbssports, CHANNELS.olympics, CHANNELS.nba, CHANNELS.nfl, CHANNELS.fifa, CHANNELS.epl, CHANNELS.ufc, CHANNELS.wwe, CHANNELS.redbull, CHANNELS.espn] },
-  { key: "technology",    label: "Technology",    channels: [CHANNELS.cnbc, CHANNELS.bloomberg, CHANNELS.yahoo, CHANNELS.apple, CHANNELS.google, CHANNELS.verge, CHANNELS.techcrunch, CHANNELS.engadget, CHANNELS.mkbhd, CHANNELS.ltt] },
-  { key: "science",       label: "Science",       channels: [CHANNELS.nasa, CHANNELS.nsf, CHANNELS.spacex, CHANNELS.esa] }
+  { key:"top", label:"Top stories", channels:[CHANNELS.aje,CHANNELS.sky,CHANNELS.bbc,CHANNELS.dw,CHANNELS.france24,CHANNELS.euronews,CHANNELS.cnn,CHANNELS.nbc,CHANNELS.abc,CHANNELS.cbs,CHANNELS.ap] },
+  { key:"nigeria", label:"Nigeria", channels:[CHANNELS.channels,CHANNELS.africanews,CHANNELS.aje] },
+  { key:"world", label:"World", channels:[CHANNELS.aje,CHANNELS.bbc,CHANNELS.dw,CHANNELS.france24,CHANNELS.euronews,CHANNELS.sky,CHANNELS.cnn,CHANNELS.nhk,CHANNELS.cna,CHANNELS.abcau,CHANNELS.gbnews,CHANNELS.reuters,CHANNELS.pbs] },
+  { key:"business", label:"Business", channels:[CHANNELS.bloomberg,CHANNELS.cnbc,CHANNELS.yahoo,CHANNELS.wsj,CHANNELS.reuters] },
+  { key:"entertainment", label:"Entertainment", channels:[CHANNELS.lofi,CHANNELS.kexp,CHANNELS.tomorrowland,CHANNELS.netflix,CHANNELS.ted] },
+  { key:"sports", label:"Sports", channels:[CHANNELS.cbssports,CHANNELS.olympics,CHANNELS.nba,CHANNELS.nfl,CHANNELS.fifa,CHANNELS.epl,CHANNELS.ufc,CHANNELS.wwe,CHANNELS.redbull,CHANNELS.espn] },
+  { key:"technology", label:"Technology", channels:[CHANNELS.cnbc,CHANNELS.bloomberg,CHANNELS.yahoo,CHANNELS.apple,CHANNELS.google,CHANNELS.verge,CHANNELS.techcrunch,CHANNELS.engadget,CHANNELS.mkbhd,CHANNELS.ltt] },
+  { key:"science", label:"Science", channels:[CHANNELS.nasa,CHANNELS.nsf,CHANNELS.spacex,CHANNELS.esa] }
 ];
 
 const STATE_KEY = "dailypulse-live-v1";
@@ -183,7 +179,7 @@ const altBtn = document.getElementById("alt-btn");
 
 let catKey = CATEGORIES[0].key;
 let chanIndex = 0;
-let statusMap = {};   // filled from live-status.json (written by the GitHub Action)
+let statusMap = {};
 
 function loadState() {
   try {
@@ -192,45 +188,73 @@ function loadState() {
     if (Number.isInteger(s.idx)) chanIndex = s.idx;
   } catch {}
   const fromHash = location.hash.replace("#", "");
-  if (CATEGORIES.some(c => c.key === fromHash)) { catKey = fromHash; chanIndex = 0; }
-}
-function saveState() {
-  try { localStorage.setItem(STATE_KEY, JSON.stringify({ cat: catKey, idx: chanIndex })); } catch {}
+  if (CATEGORIES.some(c => c.key === fromHash)) {
+    catKey = fromHash;
+    chanIndex = 0;
+  }
 }
 
-// Reads the automatic check results. If the file is missing, every channel is shown.
-async function loadStatus() {
+function saveState() {
   try {
-    const response = await fetch("live-status.json?t=" + Date.now(), { cache: "no-store" });
-    if (!response.ok) return;
-    const data = await response.json();
-    if (data && data.channels && typeof data.channels === "object") statusMap = data.channels;
+    localStorage.setItem(STATE_KEY, JSON.stringify({cat:catKey,idx:chanIndex}));
   } catch {}
 }
 
+async function loadStatus() {
+  try {
+    const response = await fetch("live-status.json?t=" + Date.now(), {cache:"no-store"});
+    if (!response.ok) return;
+    const data = await response.json();
+    if (data && data.channels && typeof data.channels === "object") {
+      statusMap = data.channels;
+    }
+  } catch (error) {
+    console.warn("DailyPulse live status could not be loaded:", error);
+  }
+}
+
 const currentCategory = () => CATEGORIES.find(c => c.key === catKey) || CATEGORIES[0];
-const isAvailable = channel => !(statusMap[channel.channelId] && statusMap[channel.channelId].available === false);
+const isAvailable = channel => {
+  const info = statusMap[channel.channelId];
+  return !info || info.available !== false;
+};
 const visibleChannels = () => currentCategory().channels.filter(isAvailable);
-const clampIndex = () => { if (chanIndex >= visibleChannels().length) chanIndex = 0; };
+const clampIndex = () => {
+  if (chanIndex >= visibleChannels().length || chanIndex < 0) chanIndex = 0;
+};
 
 function renderCategories() {
   categoriesEl.replaceChildren(...CATEGORIES.map(c => {
     const b = document.createElement("button");
-    b.type = "button"; b.className = "category"; b.textContent = c.label;
+    b.type = "button";
+    b.className = "category";
+    b.textContent = c.label;
     b.setAttribute("aria-pressed", String(c.key === catKey));
-    b.addEventListener("click", () => { catKey = c.key; chanIndex = 0; saveState(); clampIndex(); renderAll(); });
+    b.addEventListener("click", () => {
+      catKey = c.key;
+      chanIndex = 0;
+      saveState();
+      clampIndex();
+      renderAll();
+    });
     return b;
   }));
 }
 
-// Builds the embedded player. "video" plays the exact live stream found by the automatic check
-// (most reliable). "channel" asks YouTube for whatever the channel is live with, used as a backup.
+/*
+  Prefer the exact video ID returned by the checker, but only when the
+  saved status confirms that it is a current live broadcast.
+  The channel-live URL is retained as a fallback.
+*/
 function buildFrame(channel, mode) {
   const info = statusMap[channel.channelId] || {};
-  const frame = document.createElement("iframe");
-  const base = (mode === "video" && info.videoId)
+  const useExactVideo = mode === "video" && info.status === "live" && info.videoId;
+
+  const base = useExactVideo
     ? "https://www.youtube.com/embed/" + encodeURIComponent(info.videoId) + "?"
     : "https://www.youtube.com/embed/live_stream?channel=" + encodeURIComponent(channel.channelId) + "&";
+
+  const frame = document.createElement("iframe");
   frame.src = base + "autoplay=1&playsinline=1&rel=0&modestbranding=1";
   frame.title = channel.name + " live";
   frame.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
@@ -242,8 +266,10 @@ function buildFrame(channel, mode) {
 function renderPlayer() {
   const cat = currentCategory();
   const channel = visibleChannels()[chanIndex];
+
   playerEl.replaceChildren();
   altBtn.hidden = true;
+  altBtn.onclick = null;
 
   if (!channel) {
     const box = document.createElement("div");
@@ -260,29 +286,37 @@ function renderPlayer() {
   const info = statusMap[channel.channelId] || {};
   nowTitle.textContent = channel.name;
   ytLink.style.display = "";
-  ytLink.href = info.videoId
+  ytLink.href = info.status === "live" && info.videoId
     ? "https://www.youtube.com/watch?v=" + encodeURIComponent(info.videoId)
     : "https://www.youtube.com/channel/" + encodeURIComponent(channel.channelId) + "/live";
 
-  // The video loads only when the visitor taps play, which saves data and avoids surprise sound.
   const facade = document.createElement("button");
-  facade.type = "button"; facade.className = "facade";
+  facade.type = "button";
+  facade.className = "facade";
   facade.setAttribute("aria-label", "Play live: " + channel.name);
   facade.innerHTML = '<span class="play"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></span><strong></strong><span></span>';
   facade.querySelector("strong").textContent = channel.name;
-  facade.querySelectorAll("span")[1].textContent = "Tap to watch live";
+  facade.querySelectorAll("span")[1].textContent = "Tap to watch on YouTube";
+
   facade.addEventListener("click", () => {
-    let mode = info.videoId ? "video" : "channel";
+    let mode = info.status === "live" && info.videoId ? "video" : "channel";
     playerEl.replaceChildren(buildFrame(channel, mode));
-    // Offer the other player type if this one shows "Video unavailable".
-    altBtn.hidden = !info.videoId;
+
+    const hasExactVideo = info.status === "live" && Boolean(info.videoId);
+    altBtn.hidden = !hasExactVideo;
     altBtn.textContent = "Not playing? Try backup player";
-    altBtn.onclick = () => {
-      mode = mode === "video" ? "channel" : "video";
-      playerEl.replaceChildren(buildFrame(channel, mode));
-      altBtn.textContent = mode === "video" ? "Not playing? Try backup player" : "Switch back to main player";
-    };
+
+    if (hasExactVideo) {
+      altBtn.onclick = () => {
+        mode = mode === "video" ? "channel" : "video";
+        playerEl.replaceChildren(buildFrame(channel, mode));
+        altBtn.textContent = mode === "video"
+          ? "Not playing? Try backup player"
+          : "Switch back to main player";
+      };
+    }
   });
+
   playerEl.appendChild(facade);
 }
 
@@ -301,15 +335,26 @@ function renderList() {
 
   const items = shown.map((c, i) => {
     const b = document.createElement("button");
-    b.type = "button"; b.className = "channel";
+    b.type = "button";
+    b.className = "channel";
     b.setAttribute("aria-pressed", String(i === chanIndex));
-    const tag = document.createElement("span"); tag.className = "tag"; tag.innerHTML = "<i></i>LIVE CHANNEL";
-    const name = document.createElement("b"); name.textContent = c.name;
-    const desc = document.createElement("small"); desc.textContent = c.desc || "";
+
+    const tag = document.createElement("span");
+    tag.className = "tag";
+    tag.innerHTML = "<i></i>LIVE CHANNEL";
+
+    const name = document.createElement("b");
+    name.textContent = c.name;
+
+    const desc = document.createElement("small");
+    desc.textContent = c.desc || "";
+
     b.append(tag, name, desc);
     b.addEventListener("click", () => {
-      chanIndex = i; saveState(); renderAll();
-      playerEl.scrollIntoView({ behavior: "smooth", block: "center" });
+      chanIndex = i;
+      saveState();
+      renderAll();
+      playerEl.scrollIntoView({behavior:"smooth",block:"center"});
     });
     return b;
   });
@@ -322,17 +367,30 @@ function renderList() {
       : hidden + " channels are offline right now and are hidden. They will come back automatically.";
     items.push(info);
   }
+
   listEl.replaceChildren(...items);
 }
 
-function renderAll() { renderCategories(); renderPlayer(); renderList(); }
+function renderAll() {
+  renderCategories();
+  renderPlayer();
+  renderList();
+}
 
-loadState();
-// Wait briefly for the check results so offline channels never flash on screen.
-Promise.race([loadStatus(), new Promise(resolve => setTimeout(resolve, 2500))]).then(() => {
+async function startPage() {
+  loadState();
+
+  // Do not wait indefinitely for the status file.
+  await Promise.race([
+    loadStatus(),
+    new Promise(resolve => setTimeout(resolve, 4000))
+  ]);
+
   clampIndex();
   renderAll();
-});
+}
+
+startPage();
 </script>
 </body>
 </html>

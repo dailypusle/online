@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Suspicious prediction market activity seen before election poll release: NYT</title>
+<link>https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt</link>
+<guid isPermaLink="false">e8f854a156d0001fde1a63880cbb1dfa609b2a0779b73b1a43bf0176e756aedf</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sat, 07 Nov 2026 09:10:35 +0000</pubDate>
+<description>Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg" medium="image"/>
+</item>
+<item>
 <title>Nvidia may face a more hostile post-election Washington: Report</title>
 <link>https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report</link>
 <guid isPermaLink="false">8b15887553446be3e14a877bb0e3b850d06eb39ec29a9b13015961f3b8372cfd</guid>
@@ -455,17 +466,6 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Gopax-Suspends-Withdrawals-Cold-Storage.jpg" medium="image"/>
 </item>
 <item>
-<title>AI protocols fuel ‘code red’ at big banks, fintech CEO says</title>
-<link>https://www.bankingdive.com/news/ai-agent-protocols-bank-access-socure-pnc-fifth-third-fraud-aml-kyc/873970</link>
-<guid isPermaLink="false">c6fae481406c533ba984c5f2c525eaefa8c5e15430e2d5d43124e6dbeae9120f</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 14:13:54 +0000</pubDate>
-<description>As banks such as PNC and Fifth Third draw boundaries for what they’ll let agents do, the fintech Socure is debuting an AI agent detection tool to help.</description>
-<enclosure url="https://imgproxy.divecdn.com/i5FO3FnhotGABiZd4nIjbQ7f9q5vD0vtAQIq7Ce6wWU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2ODE1MjU4LmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/i5FO3FnhotGABiZd4nIjbQ7f9q5vD0vtAQIq7Ce6wWU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2ODE1MjU4LmpwZw==.webp" medium="image"/>
-</item>
-<item>
 <title>$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic</title>
 <link>https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic</link>
 <guid isPermaLink="false">228864bbd0d95c3725cba407f63c05e0d84db491d108a831358863f65934e4b3</guid>
@@ -829,17 +829,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum</title>
-<link>https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum</link>
-<guid isPermaLink="false">b51a43ac9a1bbe17f53adabf32b06a8d056114badd1a6f806471f5507ce72eda</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 18:09:38 +0000</pubDate>
-<description>The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P8H9870ZQY6MMMYHJSDGZ5/hi-how-binance-plans-to-bring-tokenized-us-stocks-4.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P8H9870ZQY6MMMYHJSDGZ5/hi-how-binance-plans-to-bring-tokenized-us-stocks-4.png" medium="image"/>
-</item>
-<item>
 <title>S&amp;#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs</title>
 <link>https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs</link>
 <guid isPermaLink="false">e13687958f9961bacce5cf0bf06561f632ae22c132473ec4f65360b8a01fc2c2</guid>
@@ -880,8 +869,8 @@
 <category>business</category>
 <pubDate>Thu, 05 Nov 2026 17:13:55 +0000</pubDate>
 <description>A gunman drove through a fence on the bank’s campus, shot the worker, then exchanged fire with a security guard at a nearby cafeteria. The gunman is dead and four were injured.</description>
-<enclosure url="https://imgproxy.divecdn.com/iftmxk0ZFcJg9wWHTMAmfQRfBJBT7NSpUdTqpGdVWhQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU2MjkzNTYwLmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/iftmxk0ZFcJg9wWHTMAmfQRfBJBT7NSpUdTqpGdVWhQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU2MjkzNTYwLmpwZw==.webp" medium="image"/>
+<enclosure url="https://imgproxy.divecdn.com/glbrsHijJDXtFgXy2TuzfClmGBPjiEBEvTFmgek1gpE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODE2NDU1MDQuanBn.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/glbrsHijJDXtFgXy2TuzfClmGBPjiEBEvTFmgek1gpE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODE2NDU1MDQuanBn.webp" medium="image"/>
 </item>
 <item>
 <title>Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto</title>
@@ -1069,5 +1058,27 @@
 <description>Democratic control “hurts the direction of travel in the bank space,” TD Securities analysts said in a note Wednesday.</description>
 <enclosure url="https://imgproxy.divecdn.com/Cmw1UD79vv2KZ29VkR98HIKjcSTUz-HGvmMmkzFufY8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS92b3RlcnMuanBn.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/Cmw1UD79vv2KZ29VkR98HIKjcSTUz-HGvmMmkzFufY8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS92b3RlcnMuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>OppFi withdraws regulatory applications to buy bank</title>
+<link>https://www.bankingdive.com/news/oppfi-withdraw-applications-occ-fed-fdic-bnc-bank-schwartz-warren-van-hollen/873757</link>
+<guid isPermaLink="false">099b320590efab42af9c2241d9e9950641410acdee2bdc6a2f9667478f8675ea</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 17:17:47 +0000</pubDate>
+<description>The subprime lender’s CEO said the agreement to buy BNC National Bank “remains in effect.” But he cited a “lack of clearly articulated standards” from regulators.</description>
+<enclosure url="https://imgproxy.divecdn.com/f62fINWQ7k0ajz5kcT5aNdx5MKOoM2Bs1RXs8Ip__Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzX1BodXhnZlkuanBn.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/f62fINWQ7k0ajz5kcT5aNdx5MKOoM2Bs1RXs8Ip__Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzX1BodXhnZlkuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>Key to buy private capital adviser in boost to investment bank</title>
+<link>https://www.bankingdive.com/news/keycorp-buy-atlantic-pacific-capital-investment-bank/873739</link>
+<guid isPermaLink="false">d5bf33a49d8902161bc9875250b3cf795ef896454ec3bf9e36e8bc8a8f199eb2</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 16:11:05 +0000</pubDate>
+<description>Atlantic-Pacific Capital would give the Cleveland-based lender incremental platform expansion as it targets $1 billion in annual investment banking revenue, an analyst noted.</description>
+<enclosure url="https://imgproxy.divecdn.com/Ti9L-ajafmu1LNkGcQISN2-_J3zFMkGJRFT7R_fCdpQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY2NjY4NDE1LmpwZw==.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/Ti9L-ajafmu1LNkGcQISN2-_J3zFMkGJRFT7R_fCdpQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY2NjY4NDE1LmpwZw==.webp" medium="image"/>
 </item>
 </channel></rss>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>WATCH: Guide dog Eddie named 2026 American Humane Society Hero Dog</title>
+<link>https://abcnews.com/video/137928725</link>
+<guid isPermaLink="false">e02d654328a5572a1b1c3a937dbb85a1422071cb16012dd1ba7a7c9de56b6882</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 07 Nov 2026 00:24:27 +0000</pubDate>
+<description>Eddie, a 3-year-old Labrador retriever, was honored for changing the life of his legally blind owner, Luis Rodriguez, through his work as a guide dog.</description>
+<enclosure url="https://s.abcnews.com/images/US/261106_abcnl_6p_guide_dog_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/261106_abcnl_6p_guide_dog_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Foster parent accused of murdering 10-year-old girl in her care: Officials</title>
 <link>https://abcnews.com/US/foster-parent-accused-murdering-10-year-girl-care/story?id=137926563</link>
 <guid isPermaLink="false">d9d28347e094c4680ca9a55329e6b7391b08de85ea12bddcefadd7a6856c3782</guid>
@@ -252,9 +263,9 @@
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Fri, 06 Nov 2026 19:13:06 +0000</pubDate>
-<description>Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades. (Image credit: Martin Mejia)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7102x4734+0+0/resize/7102x4734!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F2d%2F036602604d04bdf7cf1bb565478f%2Fap26309594274044.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7102x4734+0+0/resize/7102x4734!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F2d%2F036602604d04bdf7cf1bb565478f%2Fap26309594274044.jpg" medium="image"/>
+<description>Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades. (Image credit: Matilde Campodonico )</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6816x4544+0+0/resize/6816x4544!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F70%2F4c7f5387455fac4992cf3fc5c68e%2Fap26310822769131.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6816x4544+0+0/resize/6816x4544!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F70%2F4c7f5387455fac4992cf3fc5c68e%2Fap26310822769131.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Fall’s beautiful colors on display at Utah’s Zion National Park</title>
@@ -750,16 +761,5 @@
 <description>Patrick De Haan, head of petroleum analysis at GasBuddy, explains what's behind the decrease in prices.</description>
 <enclosure url="https://s.abcnews.com/images/US/261105_abcnl_11a_dehaan_oil_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261105_abcnl_11a_dehaan_oil_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: New 911 calls and bodycam video released in Citibank Center shooting in Tampa</title>
-<link>https://abcnews.com/video/137872171</link>
-<guid isPermaLink="false">fc98ba85e0ff1e892dfb53d00018f3feb12e6c1f9075d8b10823eac4328685fc</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 14:56:19 +0000</pubDate>
-<description>A Citibank employee was shot and killed at a business complex in Florida on Wednesday, according to local authorities and company officials.</description>
-<enclosure url="https://s.abcnews.com/images/GMA/261105_gma_oquendo_tampa3_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261105_gma_oquendo_tampa3_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>

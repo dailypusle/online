@@ -97,23 +97,73 @@ footer{border-top:1px solid var(--line);background:#fff;color:var(--muted);font-
   and they reappear on their own when they work again.
 */
 const CHANNELS = {
-  aje:      { name: "Al Jazeera English", channelId: "UCNye-wNBqNL5ZzHSJj3l8Bg", desc: "24/7 world news" },
-  sky:      { name: "Sky News",           channelId: "UCoMdktPbSTixAyNGwb-UYkQ", desc: "24/7 UK and world news" },
-  dw:       { name: "DW News",            channelId: "UCknLrEdhRCp1aegoMqRaCZg", desc: "News from Germany and the world" },
-  france24: { name: "France 24 English",  channelId: "UCQfwfsi5VrQ8yKZ-UWmAEFg", desc: "International news in English" },
-  channels: { name: "Channels Television", channelId: "UCEXGDNclvmg6RW0vipJYsTQ", desc: "Nigeria's 24-hour news channel" },
-  bloomberg:{ name: "Bloomberg Television", channelId: "UCIALMKvObZNtJ6AmdCLP7Lg", desc: "Business and markets" }
+  // ---- News ----
+  aje:       { name: "Al Jazeera English",    channelId: "UCNye-wNBqNL5ZzHSJj3l8Bg", desc: "24/7 world news" },
+  sky:       { name: "Sky News",              channelId: "UCoMdktPbSTixAyNGwb-UYkQ", desc: "24/7 UK and world news" },
+  dw:        { name: "DW News",               channelId: "UCknLrEdhRCp1aegoMqRaCZg", desc: "News from Germany and the world" },
+  france24:  { name: "France 24 English",     channelId: "UCQfwfsi5VrQ8yKZ-UWmAEFg", desc: "International news in English" },
+  bbc:       { name: "BBC News",              channelId: "UC16niRr50-MSBwiO3YDb3RA", desc: "BBC World News live" },
+  euronews:  { name: "Euronews",              channelId: "UCSrZ3UV4jOidv8ppoVuvW9Q", desc: "Europe's view of the world" },
+  cnn:       { name: "CNN International",     channelId: "UCupvZG-5ko_eiXAupbDfxWw", desc: "Global news from CNN" },
+  nhk:       { name: "NHK World-Japan",       channelId: "UCSPEjw8F2nQDtmUKPFNF7_A", desc: "News and culture from Japan" },
+  cna:       { name: "CNA",                   channelId: "UC83jt4dlz1Gjl58fzQrrKZg", desc: "Asia news from Singapore" },
+  abc:       { name: "ABC News Live",         channelId: "UCBi2mrWuNuyYy4gbM6fU18Q", desc: "US news, streaming live" },
+  nbc:       { name: "NBC News NOW",          channelId: "UCeY0bbntWzzVIaj2z3QigXg", desc: "US news, streaming live" },
+  cbs:       { name: "CBS News",              channelId: "UC8p1vwvWtl6T73JiExfWs1g", desc: "CBS News 24/7" },
+  ap:        { name: "Associated Press",      channelId: "UC52X5wxOL_s5yw0dQk7NtgA", desc: "Live coverage from the AP" },
+  reuters:   { name: "Reuters",               channelId: "UChqUTb7kYRX8-EiaN3XFrSQ", desc: "Breaking news and live events" },
+  pbs:       { name: "PBS NewsHour",          channelId: "UC6ZFN9Tx6xh-skXCuRHCDpQ", desc: "US news and analysis" },
+  gbnews:    { name: "GB News",               channelId: "UC0vn8ISa4LKMunLbzaXLnOQ", desc: "UK news and debate" },
+  abcau:     { name: "ABC News Australia",    channelId: "UCVgO39Bk5sMo66-6o6Spn6Q", desc: "News from Australia" },
+  // ---- Nigeria and Africa ----
+  channels:  { name: "Channels Television",   channelId: "UCEXGDNclvmg6RW0vipJYsTQ", desc: "Nigeria's 24-hour news channel" },
+  africanews:{ name: "Africanews",            channelId: "UC1_E8NeF5QHY2dtdLRBCCLA", desc: "News from across Africa" },
+  // ---- Business ----
+  bloomberg: { name: "Bloomberg Television",  channelId: "UCIALMKvObZNtJ6AmdCLP7Lg", desc: "Business and markets" },
+  cnbc:      { name: "CNBC",                  channelId: "UCvJJ_dzjViJCoLf5uKUTwoA", desc: "Markets, business and tech" },
+  yahoo:     { name: "Yahoo Finance",         channelId: "UCEAZeUIeJs0IjQiqTCdVSIg", desc: "Live markets and money news" },
+  wsj:       { name: "Wall Street Journal",   channelId: "UCK7tptUDHh-RYDsdxO1-5QQ", desc: "Business news and live events" },
+  // ---- Sports ----
+  olympics:  { name: "Olympics",              channelId: "UCTl3QQTvqHFjurroKxexy2Q", desc: "Olympic sports, live events" },
+  cbssports: { name: "CBS Sports HQ",         channelId: "UCp0hYYBW6IMayGgR-WeoCvQ", desc: "Sports news and talk" },
+  nba:       { name: "NBA",                   channelId: "UCWJ2lWNubArHWmf3FIHbfcQ", desc: "Basketball, live when streaming" },
+  nfl:       { name: "NFL",                   channelId: "UCDVYQ4Zhbm3S2dlz7P1GBDg", desc: "American football" },
+  fifa:      { name: "FIFA",                  channelId: "UCpcTrCXblq78GZrTUTLWeBw", desc: "Football, live when streaming" },
+  epl:       { name: "Premier League",        channelId: "UCG5qGWdu8nIRZqJ_GgDwQ-w", desc: "English football" },
+  ufc:       { name: "UFC",                   channelId: "UCvgfXK4nTYKudb0rFR6noLA", desc: "Mixed martial arts" },
+  wwe:       { name: "WWE",                   channelId: "UCJ5v_MCY6GNUBTO8-D3XoAg", desc: "Wrestling, live when streaming" },
+  redbull:   { name: "Red Bull",              channelId: "UCblfuW_4rakIf2h6aqANefA", desc: "Extreme sports and events" },
+  espn:      { name: "ESPN",                  channelId: "UCiWLfSweyRNmLpgEHekhoAg", desc: "Sports shows and live events" },
+  // ---- Technology ----
+  apple:     { name: "Apple",                 channelId: "UCE_M8A5yxnLfW0KghEeajjw", desc: "Keynotes and launch events" },
+  google:    { name: "Google",                channelId: "UCK8sQmJBp8GCxrOtXWBpyEA", desc: "Google events and launches" },
+  verge:     { name: "The Verge",             channelId: "UCddiUEpeqJcYeBxX1IVBKvQ", desc: "Tech news and live events" },
+  techcrunch:{ name: "TechCrunch",            channelId: "UCCjyq_K1Xwfg8Lndy7lKMpA", desc: "Startups and tech events" },
+  engadget:  { name: "Engadget",              channelId: "UC-6OW5aJYBFM33zXQlBKPNA", desc: "Gadgets and live coverage" },
+  mkbhd:     { name: "Marques Brownlee",      channelId: "UCBJycsmduvYEL83R_U4JriQ", desc: "Tech reviews, live when streaming" },
+  ltt:       { name: "Linus Tech Tips",       channelId: "UCXuqSBlHAE6Xw-yeJA0Tunw", desc: "PC and gadget tech" },
+  // ---- Science and space ----
+  nasa:      { name: "NASA",                  channelId: "UCLA_DiR1FfKNvjuUpBHmylQ", desc: "NASA TV and space station views" },
+  nsf:       { name: "NASASpaceflight",       channelId: "UCSUu1lih2RifWkKtDOJdsBA", desc: "Rocket launches and Starbase cams" },
+  spacex:    { name: "SpaceX",                channelId: "UCtI0Hodo5o5dUb67FeUjDeA", desc: "Launches, live when flying" },
+  esa:       { name: "European Space Agency", channelId: "UCIBaDdAbGlFDeS33shmlD0A", desc: "ESA missions and events" },
+  // ---- Entertainment and music ----
+  lofi:      { name: "Lofi Girl",             channelId: "UCSJ4gkVC6NrvII8umztf0Ow", desc: "24/7 chill music to relax to" },
+  kexp:      { name: "KEXP",                  channelId: "UC3I2GFN_F8WudD_2jUZbojA", desc: "Live music radio with video" },
+  tomorrowland:{ name: "Tomorrowland",        channelId: "UCsN8M73DMWa8SPp5o_0IAQQ", desc: "Festival sets and live shows" },
+  netflix:   { name: "Netflix",               channelId: "UCWOA1ZGywLbqmigxE4Qlvuw", desc: "Premieres and live events" },
+  ted:       { name: "TED",                   channelId: "UCAuUUnT6oDeKwE6v1NGQxug", desc: "Talks and live conferences" }
 };
 
 const CATEGORIES = [
-  { key: "top",           label: "Top stories",   channels: [CHANNELS.aje, CHANNELS.sky, CHANNELS.dw, CHANNELS.france24] },
-  { key: "nigeria",       label: "Nigeria",       channels: [CHANNELS.channels] },
-  { key: "world",         label: "World",         channels: [CHANNELS.aje, CHANNELS.dw, CHANNELS.france24, CHANNELS.sky] },
-  { key: "business",      label: "Business",      channels: [CHANNELS.bloomberg] },
-  { key: "entertainment", label: "Entertainment", channels: [] },
-  { key: "sports",        label: "Sports",        channels: [] },
-  { key: "technology",    label: "Technology",    channels: [] },
-  { key: "science",       label: "Science",       channels: [] }
+  { key: "top",           label: "Top stories",   channels: [CHANNELS.aje, CHANNELS.sky, CHANNELS.bbc, CHANNELS.dw, CHANNELS.france24, CHANNELS.euronews, CHANNELS.cnn, CHANNELS.nbc, CHANNELS.abc, CHANNELS.cbs, CHANNELS.ap] },
+  { key: "nigeria",       label: "Nigeria",       channels: [CHANNELS.channels, CHANNELS.africanews, CHANNELS.aje] },
+  { key: "world",         label: "World",         channels: [CHANNELS.aje, CHANNELS.bbc, CHANNELS.dw, CHANNELS.france24, CHANNELS.euronews, CHANNELS.sky, CHANNELS.cnn, CHANNELS.nhk, CHANNELS.cna, CHANNELS.abcau, CHANNELS.gbnews, CHANNELS.reuters, CHANNELS.pbs] },
+  { key: "business",      label: "Business",      channels: [CHANNELS.bloomberg, CHANNELS.cnbc, CHANNELS.yahoo, CHANNELS.wsj, CHANNELS.reuters] },
+  { key: "entertainment", label: "Entertainment", channels: [CHANNELS.lofi, CHANNELS.kexp, CHANNELS.tomorrowland, CHANNELS.netflix, CHANNELS.ted] },
+  { key: "sports",        label: "Sports",        channels: [CHANNELS.cbssports, CHANNELS.olympics, CHANNELS.nba, CHANNELS.nfl, CHANNELS.fifa, CHANNELS.epl, CHANNELS.ufc, CHANNELS.wwe, CHANNELS.redbull, CHANNELS.espn] },
+  { key: "technology",    label: "Technology",    channels: [CHANNELS.cnbc, CHANNELS.bloomberg, CHANNELS.yahoo, CHANNELS.apple, CHANNELS.google, CHANNELS.verge, CHANNELS.techcrunch, CHANNELS.engadget, CHANNELS.mkbhd, CHANNELS.ltt] },
+  { key: "science",       label: "Science",       channels: [CHANNELS.nasa, CHANNELS.nsf, CHANNELS.spacex, CHANNELS.esa] }
 ];
 
 const STATE_KEY = "dailypulse-live-v1";

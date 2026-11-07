@@ -4,13 +4,35 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>At least 5 killed, several injured in shooting at Polish market square: Police</title>
+<title>Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15</title>
+<link>https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15</link>
+<guid isPermaLink="false">efa3042371dea0f3e229571b47855411515aa88acad731a4acfb654ca7ad4434</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Sat, 07 Nov 2026 18:37:36 +0000</pubDate>
+<description>A gunman targeted random people as he drove into Krakow's Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight. (Image credit: Beata Zawrzel)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x4667+0+0/resize/7000x4667!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2Ffc%2Fbb0a469b492cbf28c12a5f5439e8%2Fap26311614976633.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x4667+0+0/resize/7000x4667!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2Ffc%2Fbb0a469b492cbf28c12a5f5439e8%2Fap26311614976633.jpg" medium="image"/>
+</item>
+<item>
+<title>Suspect arrested in connection with NYC jogger's murder: Police</title>
+<link>https://abcnews.com/US/suspect-arrested-connection-nyc-joggers-murder-police/story?id=137942462</link>
+<guid isPermaLink="false">b53ca08fa880d9681725ca0498746d7288c0057158eec402cd3d7003bbdfa8cc</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 07 Nov 2026 18:11:19 +0000</pubDate>
+<description>The NYPD arrested a man on Saturday in connection with the killing of Katie Suarez, who was stabbed while jogging in Brooklyn last week.</description>
+<enclosure url="https://s.abcnews.com/images/US/katie-suarez-ht-jef-261102_1793638106172_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/katie-suarez-ht-jef-261102_1793638106172_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>At least 6 killed, several injured in shooting at Polish market square: Police</title>
 <link>https://abcnews.com/International/5-killed-injured-shooting-polish-market-square/story?id=137941731</link>
 <guid isPermaLink="false">f1f037522c624a84b03711dc078f81cd537ae7acf0a43a2798c6baebf00f7502</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Sat, 07 Nov 2026 17:37:25 +0000</pubDate>
-<description>Five people were killed and several others injured after shots were fired in Krakow's Main Market Square on Saturday, according to regional police.</description>
+<pubDate>Sat, 07 Nov 2026 17:58:22 +0000</pubDate>
+<description>Six people were killed and several others injured after shots were fired in Krakow's Main Market Square on Saturday, according to regional police.</description>
 <enclosure url="https://s.abcnews.com/images/International/poland-shooting-rt-jt-261107_1794066399530_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/International/poland-shooting-rt-jt-261107_1794066399530_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
@@ -37,15 +59,15 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6653x4435+0+0/resize/6653x4435!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F78%2F40561ab4423abbd70bf3463d02c0%2Fgettyimages-2295537388.jpg" medium="image"/>
 </item>
 <item>
-<title>Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America</title>
-<link>https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096</link>
-<guid isPermaLink="false">d95ac251fd14343aa9e2d44ae63184357f168640324076bc510ca7948185afef</guid>
-<source>ABC News Top Stories</source>
+<title>France investigating if bogus bomb threats against airlines linked to 'foreign powers'</title>
+<link>https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers</link>
+<guid isPermaLink="false">a1fba242825f3ad00209494b85be7934774a6c9541496ac60e7490ab8727ffc6</guid>
+<source>France 24</source>
 <category>world</category>
-<pubDate>Sat, 07 Nov 2026 16:26:18 +0000</pubDate>
-<description>Pope Leo XIV has urged an estimated 40,000 people in Uruguay to build bridges of fraternity and faith</description>
-<enclosure url="https://s.abcnews.com/images/International/wirestory_48fcfaf83f64e9fdb80e6ca6ad022e19_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/wirestory_48fcfaf83f64e9fdb80e6ca6ad022e19_16x9_1600.jpg" medium="image"/>
+<pubDate>Sat, 07 Nov 2026 16:33:53 +0000</pubDate>
+<description>French prosecutors are investigating a series of fake bomb threats that targeted commercial flights in Europe this week, including trying to establish whether foreign powers may be involved. Those responsible for the bogus threats have not been identified.</description>
+<enclosure url="https://s.france24.com/media/display/04c53f78-dac9-11f1-b612-a575454bc579/w:1024/p:16x9/0e4210476305ece4f8a6aabff01978500875331c.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/04c53f78-dac9-11f1-b612-a575454bc579/w:1024/p:16x9/0e4210476305ece4f8a6aabff01978500875331c.jpg" medium="image"/>
 </item>
 <item>
 <title>At least six people killed in shooting in Polish city of Krakow, police say</title>
@@ -57,6 +79,17 @@
 <description>A shooting in the main market square of Krakow in Poland killed at least six people and wounded more than a dozen on Saturday, local police said, adding that the gunman was a Polish citizen and that they had shot and wounded him. Mass shootings are uncommon in the country.</description>
 <enclosure url="https://s.france24.com/media/display/59a230dc-dabf-11f1-b499-d18c5759e759/w:1024/p:16x9/2026-11-07T152325Z-151899915-UP1EMB716QZIE-RTRMADP-3-POLAND-SHOOTING.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/59a230dc-dabf-11f1-b499-d18c5759e759/w:1024/p:16x9/2026-11-07T152325Z-151899915-UP1EMB716QZIE-RTRMADP-3-POLAND-SHOOTING.jpg" medium="image"/>
+</item>
+<item>
+<title>Travel delays feared as fog warning issued for parts of England</title>
+<link>https://news.sky.com/story/travel-delays-feared-on-remembrance-sunday-as-fog-warning-issued-for-parts-of-england-13609282</link>
+<guid isPermaLink="false">46387cf0d0feea934853f9dc363c02e51368a35261c10baf942066b8f883ebcd</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Sat, 07 Nov 2026 15:18:00 +0000</pubDate>
+<description>Thick fog could lead to travel disruption across much of England from midnight on Saturday to late Sunday morning, the Met Office has warned.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-uk-weather-fog_7399951.jpg?20261107145249" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-uk-weather-fog_7399951.jpg?20261107145249" medium="image"/>
 </item>
 <item>
 <title>Pope Leo calls on Uruguay's Catholics to be 'bridge builders'</title>
@@ -323,17 +356,6 @@
 <media:content url="https://s.france24.com/media/display/0fe04a50-da8e-11f1-9600-695cb59fade5/w:1024/p:16x9/EN-20261107-091022-091213-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Anti-data centre groups set to march in Edinburgh as part of Europe-wide protest</title>
-<link>https://news.sky.com/story/dozens-of-anti-data-centre-groups-set-to-march-in-edinburgh-as-part-of-europe-wide-protest-13609164</link>
-<guid isPermaLink="false">46dc5237b37cc0da5330c573f0246a67b861cac9f77c1845efa8e254d01996b8</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Sat, 07 Nov 2026 08:19:00 +0000</pubDate>
-<description>A coalition of 75 organisations opposed to plans for AI data centres in Scotland is set to march in Edinburgh this month.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-scotland-data-centre-protest_7399731.jpg?20261107083230" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-scotland-data-centre-protest_7399731.jpg?20261107083230" medium="image"/>
-</item>
-<item>
 <title>Live: French student unions say 250,000 people took part in Saturday’s protests</title>
 <link>https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience</link>
 <guid isPermaLink="false">85f01cbeffa89d6b50773d4bb272273e95a3a26ec0273dffb92db25bd3fd3452</guid>
@@ -499,17 +521,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5139x3426+0+0/resize/5139x3426!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Ff3%2F216d65034f5a96ee4c0176aa44c8%2Fgettyimages-2277503865.jpg" medium="image"/>
 </item>
 <item>
-<title>Europe bomb hoaxes widen</title>
-<link>https://www.france24.com/en/europe-bomb-hoaxes-widen</link>
-<guid isPermaLink="false">730544f3c51fcdef6a13de892fd9b1e6f7ca262fbd883f2c5f36726b6df8d188</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 21:22:24 +0000</pubDate>
-<description>The series of hoax bomb scares sent to several Irish media outlets and European airlines are likely part of a coordinated campaign of disruption, according to the Irish government. Dozens of commercial flights have been targetted by email with threats said to be over and above the typical hoax in specificty. Ireland's broadcaster RTE who's staff evacuated the premises this morning and several Italian airlines, say they received a mesage cliaming to be from a Russian extremist group calling itself the Fighters of the Male State, which denied its implication. France 24's Jean-Emile Jammine speaks to Eric Schouten, founder and CEO of Dyami Security Intelligence.</description>
-<enclosure url="https://s.france24.com/media/display/d4fadc82-da26-11f1-bdcc-d18c5759e759/w:1024/p:16x9/capture-2027abfe.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/d4fadc82-da26-11f1-bdcc-d18c5759e759/w:1024/p:16x9/capture-2027abfe.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: $11.4M shipment of Nvidia cargo stolen from Oakland</title>
 <link>https://abcnews.com/video/137915251</link>
 <guid isPermaLink="false">fe4b95802c3df26d06966525993fcfa39a5dc91bce8de090554e53b47746f260</guid>
@@ -574,17 +585,6 @@
 <description>Connecticut Democratic Sen. Chris Murphy says he has been discharged from the hospital after suffering a stroke last weekend and will miss “several weeks” of votes in the Senate as he recovers in a rehabilitation facility</description>
 <enclosure url="https://s.abcnews.com/images/US/wirestory_42a870159590f0a22d7612c4e8b800c1_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/wirestory_42a870159590f0a22d7612c4e8b800c1_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump's global health strategy is emerging. What will the Democratic Congress say?</title>
-<link>https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress</link>
-<guid isPermaLink="false">e926a52b1adddb7b7f3f7ec255489f210a7e8fb92eada7afbca7caded25a88ba</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 20:09:58 +0000</pubDate>
-<description>The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in? (Image credit: U.S Embassy in Zambia)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1604+0+0/resize/2048x1604!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F76%2F26c454834932b3897322366b750c%2Fzamia-mou-1.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1604+0+0/resize/2048x1604!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F76%2F26c454834932b3897322366b750c%2Fzamia-mou-1.jpg" medium="image"/>
 </item>
 <item>
 <title>LIVE: ABC News Live</title>

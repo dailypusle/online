@@ -4,7 +4,62 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Pope Leo arrives in Argentina amid divisions over Milei’s austerity</title>
+<title>NASA is looking for astronauts to live and work on the Moon</title>
+<link>https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026</link>
+<guid isPermaLink="false">e789562bdcc09420aff7b8161d01326300e05bc5d5390b301f9281de94f532b4</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Sun, 08 Nov 2026 23:36:47 +0000</pubDate>
+<description>NASA needs more recruits in order to return to the moon after being gone more than half a century. (Image credit: Karen Warren)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4599x3066+0+0/resize/4599x3066!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc0%2Fdc73c7204565a92b1ac2edbf6cdf%2Fap26240473368494.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4599x3066+0+0/resize/4599x3066!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc0%2Fdc73c7204565a92b1ac2edbf6cdf%2Fap26240473368494.jpg" medium="image"/>
+</item>
+<item>
+<title>Arrest made in deadly shooting during Winston-Salem State homecoming weekend</title>
+<link>https://abcnews.com/US/wireStory/police-2-shootings-winston-salem-state-homecoming-weekend-137952526</link>
+<guid isPermaLink="false">875c7ff14c861a81d29de5ec96ed54a82522a947e305db5808c1f7fd2fc1db1e</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sun, 08 Nov 2026 23:28:01 +0000</pubDate>
+<description>It is too early to tell whether the shootings were connected, police say.</description>
+<enclosure url="https://s.abcnews.com/images/US/wirestory_0302c32793ab9cb241fcb13284c98421_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/wirestory_0302c32793ab9cb241fcb13284c98421_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>NVIDIA announces investigation of CEO amid foreign intelligence target allegations</title>
+<link>https://abcnews.com/Technology/nvidia-announces-investigation-ceo-amid-foreign-intelligence-target/story?id=137959091</link>
+<guid isPermaLink="false">71078e55c31dd912e19b2973af1fd8c8f83cb056ce9ae85d12956b367b35dabb</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sun, 08 Nov 2026 23:19:12 +0000</pubDate>
+<description>Jensen Huang "is committed to continuing to lead NVIDIA," the company said.</description>
+<enclosure url="https://s.abcnews.com/images/Technology/NVIDIA_logo_gty_cw_20261108_1794171451641_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Technology/NVIDIA_logo_gty_cw_20261108_1794171451641_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang</title>
+<link>https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe</link>
+<guid isPermaLink="false">cbcae134d3b94d1f4d82b363e47cd04310d1b12417dbcabb15a057fc5172baa6</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sun, 08 Nov 2026 23:02:54 +0000</pubDate>
+<description>Nvidia’s board said Sunday it would investigate reports that CEO Jensen Huang was targeted by a foreign intelligence operation. The New York Times reported Huang had an affair with an executive US intelligence believed was gathering information for Beijing. Huang will remain CEO during the inquiry and has pledged cooperation.</description>
+<enclosure url="https://s.france24.com/media/display/de28787e-ce09-11f1-932f-8d87bc3aeb3a/w:1024/p:16x9/4be63ee4f4f77ef4291d72acfad4aed31a19b368.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/de28787e-ce09-11f1-932f-8d87bc3aeb3a/w:1024/p:16x9/4be63ee4f4f77ef4291d72acfad4aed31a19b368.jpg" medium="image"/>
+</item>
+<item>
+<title>Ron DeSantis hasn't made final decision on 2028 run: Sources</title>
+<link>https://abcnews.com/Politics/ron-desantis-door-open-presidential-run-made-final/story?id=137933111</link>
+<guid isPermaLink="false">8c23c540a253b4c3e8cde95dd03bd59f3fbdad8790ac96d95fedbfc3eb5f1ff3</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sun, 08 Nov 2026 22:53:37 +0000</pubDate>
+<description>In the days leading up to and after the midterms, DeSantis has ramped up his media appearances, reflecting on what went wrong for the Republican Party.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/AP26239719310429_1794020001532_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/AP26239719310429_1794020001532_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all</title>
 <link>https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei</link>
 <guid isPermaLink="false">0e21f75a1391540e022d6d60a24988c96d8fd4019b50f6ca7b9dd276aba3ba95</guid>
 <source>France 24</source>
@@ -13,17 +68,6 @@
 <description>Pope Leo XIV arrived in Argentina on Sunday from Uruguay, where his tour began, facing calls to help bridge divisions after three years of austerity under President Javier Milei. The visit to Buenos Aires is the first by a pontiff to the late Pope Francis’ homeland in nearly four decades.</description>
 <enclosure url="https://s.france24.com/media/display/39bb378c-dbaf-11f1-8a96-1beafce15fea/w:1024/p:16x9/2026-11-08T200018Z-1909450093-RC2WJOAQHQ73-RTRMADP-3-POPE-LATAM-ARGENTINA.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/39bb378c-dbaf-11f1-8a96-1beafce15fea/w:1024/p:16x9/2026-11-08T200018Z-1909450093-RC2WJOAQHQ73-RTRMADP-3-POPE-LATAM-ARGENTINA.jpg" medium="image"/>
-</item>
-<item>
-<title>NVIDIA announces investigation of CEO amid foreign intelligence target allegations</title>
-<link>https://abcnews.com/Technology/nvidia-announces-investigation-ceo-amid-foreign-intelligence-target/story?id=137959091</link>
-<guid isPermaLink="false">71078e55c31dd912e19b2973af1fd8c8f83cb056ce9ae85d12956b367b35dabb</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sun, 08 Nov 2026 21:16:51 +0000</pubDate>
-<description>Jensen Huang "is committed to continuing to lead NVIDIA," the company said.</description>
-<enclosure url="https://s.abcnews.com/images/Technology/NVIDIA_logo_gty_cw_20261108_1794171451641_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Technology/NVIDIA_logo_gty_cw_20261108_1794171451641_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Pope Leo in Latin America: Papal Politics and Peru</title>
@@ -189,17 +233,6 @@
 <description>President Donald Trump continued to criticize the results of Tuesday's midterm elections.</description>
 <enclosure url="https://s.abcnews.com/images/US/donald-trump-13-ap-gmh-261106_1793995586699_hpMain_2_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/donald-trump-13-ap-gmh-261106_1793995586699_hpMain_2_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>2 shootings at Winston-Salem State during homecoming weekend leave 1 dead</title>
-<link>https://abcnews.com/US/wireStory/police-2-shootings-winston-salem-state-homecoming-weekend-137952526</link>
-<guid isPermaLink="false">875c7ff14c861a81d29de5ec96ed54a82522a947e305db5808c1f7fd2fc1db1e</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sun, 08 Nov 2026 15:54:27 +0000</pubDate>
-<description>It is too early to tell whether the shootings were connected, police say.</description>
-<enclosure url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Russell Brand to learn sentence after being found guilty of rape and sexual assault</title>
@@ -455,28 +488,6 @@
 <media:content url="https://s.france24.com/media/display/dec0c3da-db57-11f1-b79b-bf1914cabd52/w:1024/p:16x9/EN-20261108-100714-100924-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Gaza: Heavy rain inundates thousands of tents</title>
-<link>https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents</link>
-<guid isPermaLink="false">9e19bbe6af60ee217e1c5dd0f4681e50b1af4f1b18c2763df5c1c9a0af3dd5e5</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Sun, 08 Nov 2026 09:42:03 +0000</pubDate>
-<description>Heavy rainfall has flooded thousands of tents sheltering displaced Palestinians across the Gaza Strip, including in Deir al-Balah. Residents say overflowing sewage has mixed with the floodwater, further worsening already dire living conditions. Families are struggling to salvage their belongings, building makeshift earthen barriers and trying to drain the water by hand. Many have seen essential items soaked and rendered unusable, adding to the hardship faced by those already displaced.</description>
-<enclosure url="https://s.france24.com/media/display/25796fa2-db58-11f1-946f-695cb59fade5/w:1024/p:16x9/EN-20261108-100942-101123-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/25796fa2-db58-11f1-946f-695cb59fade5/w:1024/p:16x9/EN-20261108-100942-101123-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary</title>
-<link>https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary</link>
-<guid isPermaLink="false">fc8b9f966699944af36a295e3ed546b95a258783c3ba0bdd7431f8c67d21cc8a</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Sun, 08 Nov 2026 07:35:29 +0000</pubDate>
-<description>President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White. (Image credit: Mark Schiefelbein)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4492x3208+0+0/resize/4492x3208!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Ffa%2F3f790b7e481ea32d03d42cae34fe%2Fap26311730542307.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4492x3208+0+0/resize/4492x3208!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Ffa%2F3f790b7e481ea32d03d42cae34fe%2Fap26311730542307.jpg" medium="image"/>
-</item>
-<item>
 <title>Trump asks UFC boss Dana White to be his new press secretary</title>
 <link>https://news.sky.com/story/trump-asks-ufc-boss-dana-white-to-become-white-house-press-secretary-13609613</link>
 <guid isPermaLink="false">18ba836433e03935767a88abe2ad4a31803c12e39515605bcaaf6bdb1397ff04</guid>
@@ -519,17 +530,6 @@
 <description>Corpus Christi firefighters dressed as superheroes surprised patients at Driscoll Children's Hospital by rappelling down the glass building as kids waved.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261107_gma_play_hero2_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261107_gma_play_hero2_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Ron DeSantis hasn't made final decision on 2028 run: Sources</title>
-<link>https://abcnews.com/Politics/ron-desantis-door-open-presidential-run-made-final/story?id=137933111</link>
-<guid isPermaLink="false">8c23c540a253b4c3e8cde95dd03bd59f3fbdad8790ac96d95fedbfc3eb5f1ff3</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 07 Nov 2026 11:22:53 +0000</pubDate>
-<description>In the days leading up to and after the midterms, DeSantis has ramped up his media appearances, reflecting on what went wrong for the Republican Party.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/AP26239719310429_1794020001532_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/AP26239719310429_1794020001532_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Democrats flip statehouses in midterm wave</title>

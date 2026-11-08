@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>These experimental EV batteries can eject themselves during a fire</title>
+<link>https://www.engadget.com/2307844/experimental-ev-batteries-eject-during-fire</link>
+<guid isPermaLink="false">c650ef1f587b57c9b9f775b5bf137567ef409caeccf9a62f5b54240c57783680</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:30:00 +0000</pubDate>
+<description>EV battery fires are highly dangerous and difficult to extinguish, but is launching a battery pack out of the car a smart or realistic solution?</description>
+<enclosure url="https://www.engadget.com/img/gallery/these-experimental-ev-batteries-can-eject-themselves-during-a-fire/l-intro-1793820961.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/these-experimental-ev-batteries-can-eject-themselves-during-a-fire/l-intro-1793820961.jpg" medium="image"/>
+</item>
+<item>
+<title>Pro Gamers typically don't use OLED monitors, but you most definitely can</title>
+<link>https://www.engadget.com/2307840/pro-gamers-dont-use-oled-monitors-why-you-should</link>
+<guid isPermaLink="false">54235b3664c65ed0004ee3fc3dddac325dff38911c0e808bbf6cf5735add0e69</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:15:00 +0000</pubDate>
+<description>Big tournaments favor LCD monitors, though perhaps not for the reasons you suspect. We'll explain why normal gamers can and should embrace OLED displays.</description>
+<enclosure url="https://www.engadget.com/img/gallery/pro-gamers-typically-dont-use-oled-monitors-but-you-most-definitely-can/l-intro-1793761591.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/pro-gamers-typically-dont-use-oled-monitors-but-you-most-definitely-can/l-intro-1793761591.jpg" medium="image"/>
+</item>
+<item>
+<title>Chatbots might be coming to Apple’s HomeView</title>
+<link>https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview</link>
+<guid isPermaLink="false">7ff53c833c04080042abcbe9c8b544a7734725064c28d12bad1a9aa3c74d62f9</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:00:30 +0000</pubDate>
+<description>Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a "Conversational Apps" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to HomeView. According to pdfu on X, that new beta also adds support for bidirectional audio routing and session management, but says it's "still not fully wired up." Apple has also added anti-spoofing protection that will require a user to authenticate themselves with an iPhone after three failed attempts. It will also have a lockout s … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>How to set up Google Authenticator on a new phone</title>
+<link>https://www.engadget.com/2307835/how-to-set-up-google-authenticator-new-phone</link>
+<guid isPermaLink="false">38d33f8b8e5ee60a017b1ba618d1e5b62677faf11eb9b9e6663b44861b9bc40d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
+<description>How to setup Google Authenticator on a new phone without causing a headache.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-set-up-google-authenticator-on-a-new-phone/l-intro-1793698683.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-set-up-google-authenticator-on-a-new-phone/l-intro-1793698683.jpg" medium="image"/>
+</item>
+<item>
+<title>Your digital game library is yours, until it's not</title>
+<link>https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty</link>
+<guid isPermaLink="false">2328636a065cdd0cb66727178af2612b594d475b6aae0f27bcda81c1900d7ba9</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 14:45:00 +0000</pubDate>
+<description>Digital games you "buy" can be taken away at any time, and there are fewer options than ever for true game ownership.</description>
+<enclosure url="https://www.engadget.com/img/gallery/your-digital-game-library-is-yours-until-its-not/l-intro-1793892568.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/your-digital-game-library-is-yours-until-its-not/l-intro-1793892568.jpg" medium="image"/>
+</item>
+<item>
 <title>The pros and cons of buying refurbished laptops</title>
 <link>https://www.engadget.com/2307699/buying-refurbished-laptops-pros-and-cons</link>
 <guid isPermaLink="false">a03c6760da5f73c33ddfb05e17edb1ed378aea76843d038e704712aaed1ccab4</guid>
@@ -246,50 +301,6 @@
 <media:content url="https://www.engadget.com/img/gallery/what-discs-can-a-playstation-5-play/l-intro-1793819005.jpg" medium="image"/>
 </item>
 <item>
-<title>What does NAT type mean for online gaming?</title>
-<link>https://www.engadget.com/2309599/what-nat-type-means-online-gaming</link>
-<guid isPermaLink="false">084d6186361b430e05f27a419bc4c0804de1014a647d0e2346b0dd9e3189e7aa</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 22:30:00 +0000</pubDate>
-<description>If you regularly play online games, you may have noticed a setting called NAT type or even got an alert about it. Here's what it means and why it matters.</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-does-nat-type-mean-for-online-gaming/l-intro-1793903325.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-does-nat-type-mean-for-online-gaming/l-intro-1793903325.jpg" medium="image"/>
-</item>
-<item>
-<title>The disadvantages of owning smart refrigerators</title>
-<link>https://www.engadget.com/2309569/disadvantages-owning-smart-refrigerators</link>
-<guid isPermaLink="false">51a8425a6eaafd1fe77173b3af5ef9ad5fab179fa0b3093b93d808806526633e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 22:15:00 +0000</pubDate>
-<description>A smart refrigerator can change how you manage your kitchen, but its features come with practical drawbacks worth checking before making a purchase.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-disadvantages-of-owning-smart-refrigerators/l-intro-1793726702.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-disadvantages-of-owning-smart-refrigerators/l-intro-1793726702.jpg" medium="image"/>
-</item>
-<item>
-<title>Is your router overheating? Here's how to keep it cool and working safely</title>
-<link>https://www.engadget.com/2306359/how-to-keep-router-from-overheating</link>
-<guid isPermaLink="false">71ee2cb573e4ce3cbc073d9b7823c9983681f9aa817855fc9dba2a679432ab2a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
-<description>You'll want your router to be well-ventilated for it to perform at its best.</description>
-<enclosure url="https://www.engadget.com/img/gallery/is-your-router-overheating-heres-how-to-keep-it-cool-and-working-safely/l-intro-1793800666.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/is-your-router-overheating-heres-how-to-keep-it-cool-and-working-safely/l-intro-1793800666.jpg" medium="image"/>
-</item>
-<item>
-<title>How often should you restart your Fitbit watch?</title>
-<link>https://www.engadget.com/2309565/how-often-should-restart-fitbit-watch</link>
-<guid isPermaLink="false">b3d8932eee24d1fe356b5d176fc79722f17e1630141f52f0a41db6f236e2ff9a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 21:45:00 +0000</pubDate>
-<description>The old "turn it off and turn it on again" trick can come in handy for certain situations.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-often-should-you-restart-your-fitbit-watch/l-intro-1793889829.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-often-should-you-restart-your-fitbit-watch/l-intro-1793889829.jpg" medium="image"/>
-</item>
-<item>
 <title>FAA announces first US digital air traffic control towers in Florida and Alaska</title>
 <link>https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology</link>
 <guid isPermaLink="false">ba84036a0a06fb5cdec0e5cb28cb6d3a553cef11e7306cf88eff6598b883cc95</guid>
@@ -420,17 +431,6 @@
 <description>Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Andrew Garfield and GTA VI and sexy joke thieves , finally actually watching The Sopranos for the first time (I know, I know), mourning the end of Salon , reinstalling the new and extremely improved Notion Calendar , testing the new Keurig Alta coffee machine, reviewing the iPad Mini and the touchscreen MacBook Pro , and really thinking about just thr … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Why a new report on Anthropic automating AI development is alarming researchers</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
-<guid isPermaLink="false">eecad6fef1daea32eacda32c0bb28056968d36fc45ddb410145c1946ddba9fe9</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
-<description>Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company, as part of a report evaluating its AI research and development. The probe is separate from a program offering safety researchers "employee-like" access to systems in the wake of high-profile hacking incidents over the summer. The findings offer some of the clearest evidence yet of AI … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The Bantu expansion changed Africa. Scientists are still tracing how.</title>

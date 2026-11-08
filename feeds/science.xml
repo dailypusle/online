@@ -141,7 +141,7 @@
 <guid isPermaLink="false">ccd1b353b49f025dc6797f36e198cedbec404904b15546c0c36bb9b8ff9b34db</guid>
 <source>New York Times Science</source>
 <category>science</category>
-<pubDate>Sun, 08 Nov 2026 02:17:02 +0000</pubDate>
+<pubDate>Sun, 08 Nov 2026 02:17:03 +0000</pubDate>
 <description>The new recruits would most likely participate in the Artemis program, which flew its first crewed mission, a loop around the moon, in April.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/07/multimedia/07sci-nasa-astronauts-topart-lzfc/07sci-nasa-astronauts-topart-lzfc-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/07/multimedia/07sci-nasa-astronauts-topart-lzfc/07sci-nasa-astronauts-topart-lzfc-mediumSquareAt3X.jpg" medium="image"/>
@@ -1214,6 +1214,17 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
 </item>
 <item>
+<title>Astronomers Solve Cosmic Cold Case with NASA Hubble Data</title>
+<link>https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9</link>
+<guid isPermaLink="false">e7acee45febf783e11665c7d291d8b2a40f8aba5f5607b9b460e19e507ca7a75</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 06 Oct 2026 16:17:00 +0000</pubDate>
+<description>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" medium="image"/>
+</item>
+<item>
 <title>NASA Astronaut Christina Koch at Eagles vs. Rams</title>
 <link>https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field</link>
 <guid isPermaLink="false">578734c1fe8df2e9efa4b83a532b1ddf9a63a7e7b36defe815c606d85de22c40</guid>
@@ -1256,6 +1267,17 @@
 <description>Ahead of launch of NASA’s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova</title>
+<link>https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207</link>
+<guid isPermaLink="false">26ec5e4da7e213b5df4096c233fdfa86e32cf848c1db76707ae23292412979a7</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Wed, 23 Sep 2026 18:45:00 +0000</pubDate>
+<description>An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" medium="image"/>
 </item>
 <item>
 <title>COSI Telescope Comes Together</title>
@@ -1377,6 +1399,17 @@
 <description>From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA's B777 Gets New Coat of Paint</title>
+<link>https://www.nasa.gov/image-detail/jsc2026e407303</link>
+<guid isPermaLink="false">f7e995f8c8d6b7d64d5dd5dd7a6d8bf253d7dce8ba4d40d6757ad8a159fd3895</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 18 Aug 2026 15:16:00 +0000</pubDate>
+<description>NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" medium="image"/>
 </item>
 <item>
 <title>Colorful Collage of Tarantula Nebula</title>

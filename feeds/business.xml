@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet</title>
+<link>https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet</link>
+<guid isPermaLink="false">516d3f7ea51a1de04e9cf5f43ed94af9f53a27c0584041221879d0575c5e0c34</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Sun, 08 Nov 2026 14:01:03 +0000</pubDate>
+<description>Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Here’s what happened in crypto today</title>
 <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
 <guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
@@ -1036,17 +1047,6 @@
 <description>OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Google Tells Schools They Can Reject AI—But They'll Lose Search, Too</title>
-<link>https://decrypt.co/382572/google-schools-reject-ai-but-lose-search</link>
-<guid isPermaLink="false">c85c8ea68fdb92ed2bf0e383a992646a23a2a0189117299cfab3658b1a30aa16</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 04 Nov 2026 21:16:03 +0000</pubDate>
-<description>Google is giving schools more control over Gemini, but districts that want Search without AI are out of luck, fueling accusations that the company is pressuring educators into adopting AI.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Midterm results may curb bank-friendly legislation, analysts say</title>

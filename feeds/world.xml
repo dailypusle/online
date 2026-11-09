@@ -4,15 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>A day before US-brokered talks, Russia and Ukraine batter each other with strikes</title>
-<link>https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428</link>
-<guid isPermaLink="false">69f128ee75e71b0775136a5a387002e954d537085e8711d3b525d81d9753d8ab</guid>
+<title>WATCH: Pope Leo XIV in Argentina</title>
+<link>https://abcnews.com/video/137970414</link>
+<guid isPermaLink="false">5848957cd5ae6a012131a67ee159120e5a643fc1fa44786ddb8ef1cca65ba0db</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Mon, 09 Nov 2026 11:48:39 +0000</pubDate>
-<description>Russia has hit Ukraine's power grid again, while Ukrainian forces targeted a major Russian oil refinery</description>
-<enclosure url="https://s.abcnews.com/images/International/wirestory_514ff90fc04fae340898967e6655151c_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/wirestory_514ff90fc04fae340898967e6655151c_16x9_1600.jpg" medium="image"/>
+<pubDate>Mon, 09 Nov 2026 13:18:54 +0000</pubDate>
+<description>The pontiff will celebrate his first mass in Buenos Aires on Monday, which is expected to draw more than a million people.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261109_gma_adan_pope_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261109_gma_adan_pope_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Vikings superfan has only missed 2 home games in 25 seasons</title>
+<link>https://abcnews.com/video/137970320</link>
+<guid isPermaLink="false">1dddab61e30d18291b1d2442b3800ed3febf74ac1097f0797c61f5435620bc5f</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 13:09:35 +0000</pubDate>
+<description>“GMA” is outside U.S. Bank Stadium with Minnesota Vikings “Fan of the Year,” Lindsey Lorenston, as she is surprised with a pair of tickets to Super Bowl LXI.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261109_gma_play_vikings2_0747_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261109_gma_play_vikings2_0747_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Family's gigantic fern named 'Jeff' goes viral on social media</title>
+<link>https://abcnews.com/video/137967596</link>
+<guid isPermaLink="false">e05f2e6546ac650b601cd4a1e26e1190b30f99fcda9485bc03c1bc5786ae1f8f</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 12:22:21 +0000</pubDate>
+<description>ABC News' Danny New talks to a family in Colorado who has an annual tradition of having to move their gigantic fern, named Jeff, back inside for autumn.</description>
+<enclosure url="https://s.abcnews.com/images/US/261109_gmafl_fern_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/261109_gmafl_fern_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Congress returns for crowded lame-duck session as Hegseth impeachment looms</title>
+<link>https://abcnews.com/Politics/congress-returns-crowded-lame-duck-session-hegseth-impeachment/story?id=137918357</link>
+<guid isPermaLink="false">3ac02df51399f8cb78eabccf368feb752fa0782c9c75a43647c23b0e301db565</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 12:05:32 +0000</pubDate>
+<description>Congress must pass legislation to avert a looming government shutdown, farm bill, FISA reform and National Defense Authorization Act in the coming weeks.</description>
+<enclosure url="https://s.abcnews.com/images/US/elxn-4-rt-gmh-261104_1793801189237_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/elxn-4-rt-gmh-261104_1793801189237_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Explosion at steel plant in Turkey kills at least six, officials say</title>
+<link>https://news.sky.com/story/explosion-at-steel-plant-in-turkey-kills-at-least-six-officials-say-13610161</link>
+<guid isPermaLink="false">bc98100c142549d6ba7bf65a15f8e7be097baf2792048116cb5a722aa3d12836</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 12:05:00 +0000</pubDate>
+<description>A major fire broke out following an explosion at an iron and steel plant in Turkey on Monday, killing at least six people, with eight missing, officials said.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-aliaga-turkey-fire_7402157.jpg?20261109131735" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-aliaga-turkey-fire_7402157.jpg?20261109131735" medium="image"/>
 </item>
 <item>
 <title>AI, affair and espionage: Why is Nvidia's chief Jensen Huang under scrutiny?</title>
@@ -48,6 +92,17 @@
 <media:content url="https://s.france24.com/media/display/b9984d7e-dc30-11f1-b84b-bf1914cabd52/w:1024/p:16x9/EN-20261109-120936-121141-CS.jpg" medium="image"/>
 </item>
 <item>
+<title>Suspect in deadly Poland shooting dies in hospital, police say</title>
+<link>https://abcnews.com/International/suspect-deadly-poland-shooting-dies-hospital-police/story?id=137966778</link>
+<guid isPermaLink="false">21778365339c4e5eb235fffd48e81695181fe073a412aef5c85d87588aac8bf6</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 11:39:31 +0000</pubDate>
+<description>Polish Police announced the death on Monday morning.</description>
+<enclosure url="https://s.abcnews.com/images/International/poland-main_1794206270195_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/poland-main_1794206270195_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>French policemen go on trial over 2020 beating of Black music producer</title>
 <link>https://www.france24.com/en/video/20261109-french-policemen-go-on-trial-over-2020-beating-of-black-music-producer</link>
 <guid isPermaLink="false">eb4ea46f0e38fec1566500f7e6792f0416795925a599e0f924117ebae37c168a</guid>
@@ -81,6 +136,17 @@
 <media:content url="https://s.france24.com/media/display/af7567f4-dc2c-11f1-af39-a575454bc579/w:1024/p:16x9/capture-cf3edb11.jpg" medium="image"/>
 </item>
 <item>
+<title>COP31 opens with leaders under pressure to tackle climate crisis</title>
+<link>https://www.france24.com/en/video/20261109-cop31-opens-with-leaders-under-pressure-to-tackle-climate-crisis</link>
+<guid isPermaLink="false">9467479964264e67ff869b8b6aed491e305728c047db6584681f642b88078493</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 11:07:43 +0000</pubDate>
+<description>The COP31 climate talks kicked off Monday, November 9, with an early fight over money as the UN's chief urged world leaders to "get serious" about tackling the crisis after a year of devastating weather extremes. Antonio Guterres made his plea as thousands of participants descended on a sprawling expo centre in the Turkish Mediterranean city of Antalya for the UN's annual two-week climate conference.</description>
+<enclosure url="https://s.france24.com/media/display/649e119c-dc2a-11f1-b119-1beafce15fea/w:1024/p:16x9/capture-d644bdb1.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/649e119c-dc2a-11f1-b119-1beafce15fea/w:1024/p:16x9/capture-d644bdb1.jpg" medium="image"/>
+</item>
+<item>
 <title>New James Bond actor expected 'within weeks' as 'unexpected' frontrunners emerge</title>
 <link>https://www.france24.com/en/tv-shows/press-review/20261109-new-james-bond-actor-expected-within-weeks-as-unexpected-frontrunners-emerge</link>
 <guid isPermaLink="false">71bd1a5cd0b327382391de07ee1aac83b4b1d7ca34b4ee1b7810a6e5d126c51a</guid>
@@ -92,7 +158,18 @@
 <media:content url="https://s.france24.com/media/display/83ec834a-dc29-11f1-8f40-a575454bc579/w:1024/p:16x9/capture-468ce634.jpg" medium="image"/>
 </item>
 <item>
-<title>Tents 'entirely submerged' has heavy rains hit Gaza</title>
+<title>Met Office issues fog warning for second day - with wind and rain to follow</title>
+<link>https://news.sky.com/story/dense-fog-expected-to-bring-difficult-travelling-conditions-warn-forecasters-13610137</link>
+<guid isPermaLink="false">50d41c86e2a3a279c69ce03f3725cf28c3e6e872a0e1f1b84f3f48fdfa524a8a</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 11:05:00 +0000</pubDate>
+<description>A new warning for dense fog has been issued by the Met Office – with people being told to expect "difficult travelling conditions".</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-weather-m11-fog_7401989.jpg?20261109105554" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-weather-m11-fog_7401989.jpg?20261109105554" medium="image"/>
+</item>
+<item>
+<title>Tents 'entirely submerged' as heavy rains hit Gaza</title>
 <link>https://www.france24.com/en/video/20261109-tents-entirely-submerged-has-heavy-rains-hit-gaza</link>
 <guid isPermaLink="false">2d855899dfaf6f8e8409f3d7b12078d15a627109a1eb6bb598bb82cbf398f1e2</guid>
 <source>France 24</source>
@@ -134,17 +211,6 @@
 <description>Through civic participation and liberal education, South Korean educators hope to "quietly stitch the fabric of our democracy…before it unravels beyond repair." (Image credit: Anthony Kuhn)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5064x3376+0+0/resize/5064x3376!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F1e%2F815c3ced4743a1d265ce01b4d05a%2F5979129-kuhn-1.JPG" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5064x3376+0+0/resize/5064x3376!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F1e%2F815c3ced4743a1d265ce01b4d05a%2F5979129-kuhn-1.JPG" medium="image"/>
-</item>
-<item>
-<title>Congress returns for crowded lame-duck session as Hegseth impeachment looms</title>
-<link>https://abcnews.com/Politics/congress-returns-crowded-lame-duck-session-hegseth-impeachment/story?id=137918357</link>
-<guid isPermaLink="false">3ac02df51399f8cb78eabccf368feb752fa0782c9c75a43647c23b0e301db565</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 09 Nov 2026 10:45:55 +0000</pubDate>
-<description>Congress must pass legislation to avert a looming government shutdown, farm bill, FISA reform and National Defense Authorization Act in the coming weeks.</description>
-<enclosure url="https://s.abcnews.com/images/US/elxn-4-rt-gmh-261104_1793801189237_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/elxn-4-rt-gmh-261104_1793801189237_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Saudi Arabia intercepts Houthi missiles as Riyadh's Aramco building damaged</title>
@@ -219,7 +285,7 @@
 <source>France 24</source>
 <category>world</category>
 <pubDate>Mon, 09 Nov 2026 10:08:03 +0000</pubDate>
-<description>Three French police officers will go on trial Monday over the 2020 beating of Black music producer Michel Zecler in Paris. The assault, which was captured on camera, sparked nationwide outrage and renewed scrutiny of police violence and racism in France.</description>
+<description>Three French police officers went on trial Monday over the 2020 beating of Black music producer Michel Zecler in Paris. The assault, which was captured on camera, sparked nationwide outrage and renewed scrutiny of police violence and racism in France.</description>
 <enclosure url="https://s.france24.com/media/display/dba8d6a2-dc23-11f1-9698-695cb59fade5/w:1024/p:16x9/000-D6VU4CT.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/dba8d6a2-dc23-11f1-9698-695cb59fade5/w:1024/p:16x9/000-D6VU4CT.jpg" medium="image"/>
 </item>
@@ -268,17 +334,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4243x2829+0+0/resize/4243x2829!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F3a%2F2d7f76824ca99d9a70fbe27143e5%2Fnebraska-medicaid-04.jpg" medium="image"/>
 </item>
 <item>
-<title>Palantir hires a former Democratic senator as it faces scrutiny in new Congress</title>
-<link>https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations</link>
-<guid isPermaLink="false">ce9123852c66f507fb886291d64c507cbe154c1d49d256356c7a471a103ab9db</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Mon, 09 Nov 2026 10:00:00 +0000</pubDate>
-<description>The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it's hiring former Sen. Jon Tester to burnish its image. (Image credit: Andrew Harnik)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2Fe0%2F53c022f44e3dbbfa2c2fa3e1b80a%2Ftester-ap.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2Fe0%2F53c022f44e3dbbfa2c2fa3e1b80a%2Ftester-ap.jpg" medium="image"/>
-</item>
-<item>
 <title>Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise</title>
 <link>https://www.npr.org/2026/11/09/nx-s1-6013575/supreme-court-federal-law-enforcement-prison-rights</link>
 <guid isPermaLink="false">56b20d07d720bcc449e235f59e459fe7e6f916d6c3658e6423cd52755f70860a</guid>
@@ -290,17 +345,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2F7a%2F09d469e94929a1a138f554be6c41%2Fap26275652659374.jpg" medium="image"/>
 </item>
 <item>
-<title>U.N. climate talks begin today. Here are 3 things to know</title>
-<link>https://www.npr.org/2026/11/09/nx-s1-6026787/climate-talks-antalya-turkey-cop31</link>
-<guid isPermaLink="false">4f77388d3bd809835d4e27ac8865aa91434083b1630d23cc280b46da526fcdd4</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Mon, 09 Nov 2026 10:00:00 +0000</pubDate>
-<description>Countries are gathering in Antalya, Turkey, for the annual U.N. climate conference. Many are frustrated with the lack of focus on fossil fuels, the main driver of climate change. (Image credit: Burak Kara)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4589x3059+0+0/resize/4589x3059!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F1a%2F40f6d9c544f5bdfb4ad128dfb6a1%2Fgettyimages-2303993104.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4589x3059+0+0/resize/4589x3059!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F1a%2F40f6d9c544f5bdfb4ad128dfb6a1%2Fgettyimages-2303993104.jpg" medium="image"/>
-</item>
-<item>
 <title>Congress is coming back to Washington. Here's what to expect</title>
 <link>https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect</link>
 <guid isPermaLink="false">ea7bd8114d3adfc130c59750bb0dc1cbc314b0623d4c639dd47f808bd65633b4</guid>
@@ -310,6 +354,28 @@
 <description>Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January. (Image credit: Zayrha Rodriguez)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/2000x1333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2F88%2F780a9a564af39daf6190b94bfd90%2F021025-capitol-zayrharodriguez-4-1.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/2000x1333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2F88%2F780a9a564af39daf6190b94bfd90%2F021025-capitol-zayrharodriguez-4-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Palantir hires a former Democratic senator as it faces scrutiny in new Congress</title>
+<link>https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations</link>
+<guid isPermaLink="false">ce9123852c66f507fb886291d64c507cbe154c1d49d256356c7a471a103ab9db</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 10:00:00 +0000</pubDate>
+<description>The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it's hiring former Sen. Jon Tester to burnish its image. (Image credit: Andrew Harnik)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2Fe0%2F53c022f44e3dbbfa2c2fa3e1b80a%2Ftester-ap.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2Fe0%2F53c022f44e3dbbfa2c2fa3e1b80a%2Ftester-ap.jpg" medium="image"/>
+</item>
+<item>
+<title>U.N. climate talks begin today. Here are 3 things to know</title>
+<link>https://www.npr.org/2026/11/09/nx-s1-6026787/climate-talks-antalya-turkey-cop31</link>
+<guid isPermaLink="false">4f77388d3bd809835d4e27ac8865aa91434083b1630d23cc280b46da526fcdd4</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 10:00:00 +0000</pubDate>
+<description>Countries are gathering in Antalya, Turkey, for the annual U.N. climate conference. Many are frustrated with the lack of focus on fossil fuels, the main driver of climate change. (Image credit: Burak Kara)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4589x3059+0+0/resize/4589x3059!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F1a%2F40f6d9c544f5bdfb4ad128dfb6a1%2Fgettyimages-2303993104.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4589x3059+0+0/resize/4589x3059!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F1a%2F40f6d9c544f5bdfb4ad128dfb6a1%2Fgettyimages-2303993104.jpg" medium="image"/>
 </item>
 <item>
 <title>European troops in Poland: 'Coalition of the Willing' holds military exercises</title>
@@ -343,17 +409,6 @@
 <description>Eve Irvine is pleased to welcome Sir Richard Evans, British Historian and Regius Professor Emeritus of History at the University of Cambridge. The controversy surrounding the fate of Adolf Hitler's Eagle's Nest, the Nazi-era mountaintop complex in the Bavarian Alps, raises profound questions about the relationship between architecture, historical memory and political extremism. At the heart of the debate lies a difficult distinction: preserving the material evidence of history is not necessarily the same as preserving the symbols through which a criminal regime sought to glorify itself. "This is a Nazi vanity project," Evans argues and his conclusion is unequivocal: the mountain must be "restored to its natural state."</description>
 <enclosure url="https://s.france24.com/media/display/72f70d2c-dc1e-11f1-be8f-1beafce15fea/w:1024/p:16x9/EN-20261109-081027-081758-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/72f70d2c-dc1e-11f1-be8f-1beafce15fea/w:1024/p:16x9/EN-20261109-081027-081758-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Family's gigantic fern named 'Jeff' goes viral on social media</title>
-<link>https://abcnews.com/video/137967596</link>
-<guid isPermaLink="false">e05f2e6546ac650b601cd4a1e26e1190b30f99fcda9485bc03c1bc5786ae1f8f</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 09 Nov 2026 09:39:26 +0000</pubDate>
-<description>ABC News' Danny New talks to a family in Colorado who has an annual tradition of having to move their gigantic fern, named Jeff, back inside for autumn.</description>
-<enclosure url="https://s.abcnews.com/images/US/261109_gmafl_fern_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261109_gmafl_fern_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>At least 14 dead after boat carrying migrants found near Crete</title>
@@ -673,28 +728,6 @@
 <description>Danny New talks to identical twin sisters in Australia who are turning heads for their unique speech patterns.</description>
 <enclosure url="https://s.abcnews.com/images/International/261106_gmafl_twins_speak_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/International/261106_gmafl_twins_speak_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Authorities reveal motive in Citibank complex shooting</title>
-<link>https://abcnews.com/video/137895443</link>
-<guid isPermaLink="false">2f10bbde580d6f69e73a1d521b6b5fe52d947a687f9cd060e3464b765ee9b8e1</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 01:01:24 +0000</pubDate>
-<description>Chilling surveillance video shows a gunman exchanging gunfire with a security guard after ramming a gate at a Citibank complex near Tampa and killing a woman having lunch, authorities say.</description>
-<enclosure url="https://s.abcnews.com/images/WNT/261105_wn_oquendo_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/WNT/261105_wn_oquendo_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Jaguars face injury-ravaged Ravens in Thursday Night Football matchup</title>
-<link>https://abcnews.com/video/137892694</link>
-<guid isPermaLink="false">6f99539686ef6dc01290d42846fd9ef295e5c4be5bd2a9ff7c4d8ee56c09adc4</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 23:28:59 +0000</pubDate>
-<description>ESPN’s Jeremy Fowler previews the Jaguars-Ravens matchup, Baltimore’s quarterback injuries and Trevor Lawrence’s strong start to the season.</description>
-<enclosure url="https://s.abcnews.com/images/Sports/261105_abcnl_5p_fowler_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Sports/261105_abcnl_5p_fowler_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Gunman suspected of killing six people in Polish city of Krakow has died, police say</title>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>tBTC bridge partially resumes as $120M Aave reserve remains frozen</title>
+<link>https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen</link>
+<guid isPermaLink="false">6399dded2a7d009a305b1306e7b5411aa82233dc3160e77e449e1d4e35aa60b5</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 04:03:08 +0000</pubDate>
+<description>Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Z7HEM0J3VD1G6Q7DHXMEMM/bitcoin-bridge-paused.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Z7HEM0J3VD1G6Q7DHXMEMM/bitcoin-bridge-paused.png" medium="image"/>
+</item>
+<item>
 <title>Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest</title>
 <link>https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest</link>
 <guid isPermaLink="false">49f9c9256942e05905afa339f494d682aa07806af395f95e818ce66e803a9db2</guid>
@@ -772,17 +783,6 @@
 <description>US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg" medium="image"/>
-</item>
-<item>
-<title>Chainalysis says breach exposed password hashes and live tokens</title>
-<link>https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed</link>
-<guid isPermaLink="false">63c3feaff75059db45885a884283987b5117464444c6ce3c1d1d98b8e8eb29a6</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 06:54:34 +0000</pubDate>
-<description>Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2005NQRX5E6SV5DN6KN3Z8T/hi-how-great-big-companies-use-blockchain3.jpg" medium="image"/>
 </item>
 <item>
 <title>Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup</title>

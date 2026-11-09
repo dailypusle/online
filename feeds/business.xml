@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 05:44:53 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Zcash devs propose another block time cut days after NU7 upgrade</title>
+<link>https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade</link>
+<guid isPermaLink="false">04220211bc0c121373a5b6d0b7b7474740a7fdca0c128d46657e0cdca2e4591e</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 05:36:08 +0000</pubDate>
+<description>The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZCTV693BR2130FJ37YTBT0/hi-bounties-and-do-they-work-zcash-2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZCTV693BR2130FJ37YTBT0/hi-bounties-and-do-they-work-zcash-2.jpg" medium="image"/>
+</item>
+<item>
 <title>tBTC bridge partially resumes as $120M Aave reserve remains frozen</title>
 <link>https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen</link>
 <guid isPermaLink="false">6399dded2a7d009a305b1306e7b5411aa82233dc3160e77e449e1d4e35aa60b5</guid>
@@ -35,17 +57,6 @@
 <description>Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 08 Nov 2026 13:33:00 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance France emails announce closure of its users’ accounts on Dec. 31</title>
@@ -772,17 +783,6 @@
 <description>The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QXFT81EJZ5FY6966J6NXJE/hiblockchain-powered-prediction-platforms-hyperliquid-2.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QXFT81EJZ5FY6966J6NXJE/hiblockchain-powered-prediction-platforms-hyperliquid-2.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin, Ether ETFs post $530M outflows as election gains evaporate</title>
-<link>https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased</link>
-<guid isPermaLink="false">c75afe95d10dde241d07a7178e5641b765d1f40dc56a611aca59887400c46e85</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 08:19:18 +0000</pubDate>
-<description>US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg" medium="image"/>
 </item>
 <item>
 <title>Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup</title>

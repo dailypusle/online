@@ -4,6 +4,138 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Nvidia’s board needs to do some succession planning – sharpish | Nils Pratley</title>
+<link>https://www.theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang</link>
+<guid isPermaLink="false">56bec4a0fd79c2e67ba1ca4f91d2ae9e5c5430d121bcd78990644e532ab30a9b</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 17:06:23 +0000</pubDate>
+<description>The chipmaker faces business risks and political scrutiny due to its over-reliance on founder and CEO Jensen Huang Why is Nvidia’s Jensen Huang at the centre of a US-China row? Too big – and too well-connected – to sack? One doesn’t have to be overly cynical to think Jensen Huang, the Nvidia boss, starts with one huge advantage as the chipmaker’s board starts its independent investigation into the alleged honeytrap spy scandal . The world of US big tech is not, to put it mildly, strong on checks and balances on a founder’s power. Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ca8a563c8870958117c887980ea56de8f955a9f2/526_0_2134_1708/master/2134.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f7d23b32c1afbf17f8a3c4c7dedf8a0" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ca8a563c8870958117c887980ea56de8f955a9f2/526_0_2134_1708/master/2134.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f7d23b32c1afbf17f8a3c4c7dedf8a0" medium="image"/>
+</item>
+<item>
+<title>Venmo finally launches an in-app bill splitting feature</title>
+<link>https://www.engadget.com/2310993/venmo-finally-launches-an-in-app-bill-splitting-feature</link>
+<guid isPermaLink="false">1be77dc6d842e7ab9e6950b368d8d982d1e363509a41efbb736356f088571fbe</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 17:05:15 +0000</pubDate>
+<description>Venmo's receipt-scanning feature is rolling out now.</description>
+<enclosure url="https://www.engadget.com/img/gallery/venmo-finally-launches-an-in-app-bill-splitting-feature/l-intro-1794243863.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/venmo-finally-launches-an-in-app-bill-splitting-feature/l-intro-1794243863.jpg" medium="image"/>
+</item>
+<item>
+<title>Uber wants to park your car now, too</title>
+<link>https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis</link>
+<guid isPermaLink="false">91232764ff3e6527bbc01275000958c8bfb203fd5ccf414b12ee0281c63d0267</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 17:00:00 +0000</pubDate>
+<description>Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero , integrating a network of over 13,000 facilities across more than 400 cities into the company's platform. The new feature works by tapping the new "Parking" icon in the Uber app to view an interactive map with upfront prices and arrival times. You can filter spots by self-park or valet, outdoor lot or garage, and whether staff are on-site. The app will prompt you to enter your vehicle details and license plate, a … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_9398.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_9398.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Uber is launching its own parking reservation service</title>
+<link>https://www.engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service</link>
+<guid isPermaLink="false">d5a40acfb6540a99f3426948f80d6d4dd548d478233c6fc24d90eae341ee38b2</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 17:00:00 +0000</pubDate>
+<description>Uber Parking is built on the company's acquisition of SpotHero.</description>
+<enclosure url="https://www.engadget.com/img/gallery/uber-is-launching-its-own-parking-reservation-service/l-intro-1793918077.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/uber-is-launching-its-own-parking-reservation-service/l-intro-1793918077.jpg" medium="image"/>
+</item>
+<item>
+<title>Machine learning researchers build a better world model</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/09/machine-learning-researchers-build-a-better-world-model/5308301</link>
+<guid isPermaLink="false">c4311e2439f378f2d5de28706dbbf68973f1dccdc88365835e6cf689e4ee7938</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 17:00:00 +0000</pubDate>
+<description>Machine learning researchers have developed a technique that allows world models to make better predictions about how objects will behave. World models are used to train physical AI systems like robots how to navigate the real world. They predict the consequences of actions. But they do so based on observed data. These models could provide better direction to robots if they were able to make inferences about possible actions without being trained for all the possible outcomes. Randall Balestriero (Brown University, AMI Labs), Kerda Varaku, and Turing Award winner Yann LeCun (NYU, AMI Labs) describe an approach that might allow that to happen in a pre-print paper, "Counterfactual World Models: Natura Non Facit Saltus." The Latin refers to Gottfried Leibniz's axiom " nature makes no leaps ," which had a good run until it ran headlong into quantum mechanics. Yet for the authors, the saying explains how they have been able to devise a method for zero-shot physics inference. Counterfactual world models, said Balestriero in an email to The Register use "the mismatch between your prediction and the real world to figure out what did you get wrong, and from that you can better understand what happened for better future predictions, debugging, reasoning, all at test time." Joint Embedding Predictive Architecture ( JEPA ) models, developed by LeCunn and colleagues back in 2023, have been proposed for robots because they can take an action as input and ask what the world would be like with that action. But a JEPA world model produces an average of outcomes and would not be able to anticipate counterfactual scenarios – events that didn't happen. The technique that the researchers developed is not specific to JEPAs – it can be applied to any world model that predicts the average next state under any action. But JEPA models are particularly well suited to being adapted. Balestriero said that the counterfactual world model experiments were done using off-the-shelf encoders (DINOv2 and MAE) without any fine-tuning and only a small predictor trained on top. Creating a counterfactual world model from that starting point would only require minor additions. Counterfactual world models predict alternative scenarios more effectively by inferring possibilities from what did occur. "In causal inference, answering 'What would have happened had I acted differently?' takes three steps," explained Balestriero. "You use what you observed to learn something about those hidden factors, you change the action, and you predict again with the hidden factors kept exactly as they were. "Our counterfactual world model does all three steps with one subtraction." Balestriero cited an example from the paper: a boat crossing a river with a hidden current and how the JEPA world model and counterfactual world model predicted the boat's movements. "The world model predicted where the boat would end up after steering left, and it actually ended up two meters further downstream," he explained.</description>
+<enclosure url="https://image.theregister.com/?imageId=5308397&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5308397&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Samsung mulls Galaxy AI usage limits and subscription tiers – what we know</title>
+<link>https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription</link>
+<guid isPermaLink="false">6555c60aa4acf7c5713604e04ada45a0db459cb677ef10aa97c67fe46a604cf8</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 16:55:56 +0000</pubDate>
+<description>Galaxy device owners who are heavy AI users would likely start paying for some features they’ve long enjoyed for free.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/fe11a80b-0164-4255-bb82-12df7762a950.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/fe11a80b-0164-4255-bb82-12df7762a950.jpg" medium="image"/>
+</item>
+<item>
+<title>Why EV fast charging slows down after 80 percent</title>
+<link>https://www.engadget.com/2307731/why-ev-fast-charging-slows-after-80-percent</link>
+<guid isPermaLink="false">ef1706f538d79ea850b996addb7f02aad36e99b73fd3a9db3a09a896a7bd28a6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 16:45:00 +0000</pubDate>
+<description>EV fast charging will only take you so far - the speed slows down as you near a full charge. Turns out there's a good reason.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-ev-fast-charging-slows-down-after-80-percent/l-intro-1793649511.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-ev-fast-charging-slows-down-after-80-percent/l-intro-1793649511.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft takes three decades to make Sticky Keys less sticky</title>
+<link>https://www.theregister.com/os-platforms/2026/11/09/microsoft-takes-three-decades-to-make-sticky-keys-less-sticky/5308491</link>
+<guid isPermaLink="false">aae8932402c647fedfadf145effe042ef92fe6217abfd4124062e4937fdc81ef</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 16:43:17 +0000</pubDate>
+<description>Windows testers are getting a new option in the Sticky Keys and Filter Keys dialogs – one to banish the pop-ups without needing to venture deep into Settings. It's only taken several decades for Microsoft to put the off switch where the interruption actually happens. The accessibility features themselves are useful, though triggering their activation prompts by accident is another matter. Once enabled, Sticky Keys let users press modifier keys (such as Control) one at a time instead of holding them down together. For example, rather than holding Control and pressing C to copy, a user can press and release Control, then press C. Filter Keys, meanwhile, ignores brief or repeated keystrokes and adjusts the keyboard's repeat behavior. However, the dialogs are of little use to people who don't need the features, and they can pop up at the most inconvenient moments. Tap Shift five times, and you'll see what we mean: Windows chimes and shows a dialog asking whether you'd like to turn on Sticky Keys. Dismiss it, hit Shift five times, and there it is again. Or hold down the right Shift key for eight seconds to be treated to the Filter Keys pop-up. You can stop this behavior elsewhere in the system, but it requires a trek through Windows settings. The change, introduced in the Experimental Windows Insider Build 26340.9882, adds an option to the Sticky Keys or Filter Keys dialogs to dismiss the prompts permanently. It's a small change, but one that should spare users an irritating interruption. Better late than never – even if "never ask me again" has taken roughly three decades to reach the dialog. Former Microsoft engineer Charles Opperman said he wrote the dialog in early 1995 "after @bradsilverberg kids kept activating StickeyKeys [sic] while playing Space Cadet pinball." Opperman added that a link to Settings was added in Windows 98 or what would become Windows 2000, and a checkbox was considered even then, but it wasn't deemed a priority. Users could turn off the prompt via settings. Now the option is front and center. The option is also rolling out in the Windows Insider Beta channel , although Microsoft has not announced a general release date. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=257647&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=257647&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy</title>
+<link>https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk</link>
+<guid isPermaLink="false">2ecf841fedbcee54db81cbd90b17959d4883da27eb7831d1b0e744f39b1a5559</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 16:42:35 +0000</pubDate>
+<description>Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees Nvidia’s board needs to do some succession planning – sharpish Donald Trump, Elon Musk and prominent finance moguls have expressed their support for embattled Nvidia CEO Jensen Huang, as the head of the world’s most valuable chip company faces an internal investigation over a romantic relationship with an alleged Chinese spy. “I have not ​spoken to him about it,” Trump told reporters on Sunday. “I just know he’s a fine person, but you never know what is going on. I’m sure, I hope everything’s fine. He’s done such an incredible job”. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d39beb1d9bb5d0d9747f2800e58dd63b" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d39beb1d9bb5d0d9747f2800e58dd63b" medium="image"/>
+</item>
+<item>
+<title>Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage</title>
+<link>https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage</link>
+<guid isPermaLink="false">04c35e90322109c1090a0db4a1d96a99e7065784e504d9282416c5404112cdfe</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 16:23:31 +0000</pubDate>
+<description>Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before , and will include "additional" internal storage for future-looking features. It's the additional internal storage that's the surprise change to this particular model, which will be locked to Japanese language options and can only be used with a PlayStation account registered in Japan. Sony says the extra storage is for "future functionality" that it will announce once these features are finalized. Sony is also renaming this particular Portal from PlayStation Portal Rem … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/playstationportal.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/playstationportal.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>NHTSA investigates if Waymo robotaxis are still running school bus stop signs</title>
+<link>https://www.engadget.com/2310872/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs</link>
+<guid isPermaLink="false">466067d824e6d7f01d5c281b8a9d565fee0ad24ff272e4adbbdde27824afd7aa</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 16:16:46 +0000</pubDate>
+<description>The latest probe questions the effectiveness of Waymo's software recall from 2025.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs/l-intro-1794240937.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs/l-intro-1794240937.jpg" medium="image"/>
+</item>
+<item>
+<title>Think twice before using a webcam cover on your MacBook</title>
+<link>https://www.engadget.com/2307730/think-twice-before-using-webcam-cover-macbook</link>
+<guid isPermaLink="false">46b6f3e75c545523734373cb12b24b9ff511e9f3dfb3a0d6bc5a00a3f8d545c1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 16:15:00 +0000</pubDate>
+<description>Webcam covers sound like a good idea, but your MacBook isn't designed with space to accommodate them.</description>
+<enclosure url="https://www.engadget.com/img/gallery/think-twice-before-using-a-webcam-cover-on-your-macbook/l-intro-1793645458.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/think-twice-before-using-a-webcam-cover-on-your-macbook/l-intro-1793645458.jpg" medium="image"/>
+</item>
+<item>
 <title>Meta is expanding AI age detection for Instagram teen accounts</title>
 <link>https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts</link>
 <guid isPermaLink="false">89e4c35c56d79b286a6c27d14793f6f1618c7097f3796199dfe79b2b92676fcd</guid>
@@ -48,6 +180,17 @@
 <media:content url="https://image.theregister.com/?imageId=1684260&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>SpaceX now fundamentally an "infrastructure company," senior official says</title>
+<link>https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says</link>
+<guid isPermaLink="false">cbb103aa892c78b86c78dc4459968aa7a01684b14b586ba2e7dea80aa7c4c109</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 15:39:21 +0000</pubDate>
+<description>For a long time, SpaceX has been synonymous with the development of newer, larger, and ever-more-reusable rockets. But that began to change over the last decade with the introduction of Starlink, and the change has accelerated during the last 18 months as the company has pivoted to data and artificial intelligence. At last week's UP.Summit conference in Florida, the vice president of launch at SpaceX, Kiko Dontchev, offered some of the most revealing comments to date about the company's changing focus, how it is embracing AI, and why the Falcon 9 rocket—which has dominated global launch for a decade and remains the world's preeminent launch vehicle—is firmly on the road to retirement. "In the last couple years, when I talk about SpaceX, yes, we are a rocket company, but fundamentally we are an infrastructure company at this point," Dontchev said. "We're building infrastructure on the ground and low Earth orbit, soon on the Moon, and obviously eventually Mars." Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d-1152x648.png" type="image/png"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d-1152x648.png" medium="image"/>
+</item>
+<item>
 <title>Disney and Adobe are building generative AI tools together</title>
 <link>https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</link>
 <guid isPermaLink="false">a1d6a1e656f4ce844a1d9cb02c2008566f02f6f1790d2af5db8ad7b2978c0d9b</guid>
@@ -68,6 +211,28 @@
 <description>Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set the rest of my career in motion — and Mitch was in the background as a young lawyer at the RIAA working on those cases. So part of me was very deeply, very genuinely surprised to discover just how much fun I had talking to Mitch. That’s because here in 2026, Mitch, the RIAA, the record labels, the artists, and ordinary people are all pretty unhappy with the big AI companies in the same way, for training on everyone’s work without permission and flooding our feeds with slop. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . Everyone is mad about it! And since the RIAA is both the group that lobbies for changes to the law and also the group that files lawsuits about things that affect record labels and distributors, Mitch is a pretty busy guy these days. We got deep into the legal complexity of things like AI deepfakes, how banning them might affect other kinds of expression, and how the AI detection and labeling systems that we all seem to want might actually work in practice — especially if big platforms like Spotify and YouTube don’t get on board. I just want to get right into it. This conversation is a real ride through how AI, the law, art, and commerce might all intersect. I think you’re going to be able to tell, Mitch and I had a lot of fun talking about it. Before we get going, do me a favor and subscribe to Decoder on YouTube , where we put out new episodes every Monday and Thursday. Okay: RIAA CEO Mitch Glazier. Here we go. This interview has been lightly edited for length and clarity. Mitch Glazier, you’re the chairman and CEO of the Recording Industry Association of America, which people know as the RIAA. Welcome to Decoder . Thank you. Thank you, Nilay. I’m excited to be here. I am very excited to talk to you. I have to tell you, this is a very full-circle moment for me. My entire career got on track when I was in college. Napster came out, my university banned Napster from the school network, and I decided right then I was going to go be a copyright lawyer. And then I was a copyright lawyer, and I defended kids who got sued for using Kazaa . I was not good at that job. It was not fulfilling. And I became a journalist because I could write about copyright law on the iPod. So talking to you is about as full circle as it gets for me. Thank you for being on the show. Good. Well then, I’m no longer sorry for the policies that we forced your school to implement because it made you a copyright lawyer. So the world benefited at the end of the day. It had some silver linings to it. When I first started at the RIAA, Napster was obviou</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261109_Glazier.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261109_Glazier.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Nvidia CEO's affair becomes a national security problem</title>
+<link>https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage</link>
+<guid isPermaLink="false">33a0483307191e736514257bcb73581bbfb5c813db7e504f887f69a6278d3b7c</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 15:23:20 +0000</pubDate>
+<description>Nvidia’s chief executive Jensen Huang has admitted having an affair two days after the FT reported his alleged romantic relationship with a woman the US intelligence community believes was working as a spy for China. Huang revealed the affair in an internal message to employees on Sunday that was obtained by the FT. “I owe my family and all of you an apology,” Huang said in the message. “I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>F1 in Brazil: You’ve got to keep your tires alive</title>
+<link>https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions</link>
+<guid isPermaLink="false">8bbb1e68758770f1943c073d24e7b2603cab9c1548b514b79b49043c1ff917a1</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 15:16:31 +0000</pubDate>
+<description>In sports, a “ dead rubber ” is a match that takes place after the outcome of the series or championship has already been decided. The people in charge hate this*—if you wrap up a title two-thirds of the way through a season, the viewers evaporate, as there’s nothing left at stake. But anyone who decided to skip this year’s Brazilian Grand Prix this past weekend missed one of the year’s most entertaining races, as a combination of a mixed-up starting order, some very fast drivers at the back, and a wet track that dried and then saw rain again resulted in action aplenty. A peculiarity of F1 is that even if you manage to win a championship, there’s no guarantee you’ll be in a position to defend it. Take McLaren’s Lando Norris, who took the crown in 2025 after a nail-biting fight with his teammate Oscar Piastri and Red Bull’s Max Verstappen. Sadly for Lando, McLaren did not start this year in a position to win races, and even with several upgrades, the team has produced a car that is still very tricky to drive. But this weekend in Brazil, Norris demonstrated the form that earned him the number 1. Rain on Saturday during qualifying helped jumble the usual running order. It was heavy enough that drivers used the wet weather tire with deep treads, which usually generates so much spray that visibility disappears and running has to be suspended. But with fewer cars on track in the later knockout qualifying sessions, this was not a problem for once. More disruption came from grid penalties for Verstappen and Ferrari’s Lewis Hamilton, both of whom needed to use extra power unit components outside of the season’s allowance. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304145044-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304145044-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Medium is launching a new note-taking app called TK</title>
@@ -134,28 +299,6 @@
 <description>With the holidays quickly appro aching, everyone will soon be on the hunt for gifts and the fastest way to get them. Thankfully, many retailers offer generous shipping policies, with some even providing free two-day shipping or same-day delivery if you’re willing to pay a little extra. And just in case the gift you choose isn’t quite right, many retailers offer extended return policies so your giftee can get something more to their liking. For your convenience, we’ve compiled the current shipping and return policies for all the big-name retailers, from Amazon to Walmart. A few already have holiday policies in place, but we’ll be keeping tabs on them and updating our list accordingly. Hopefully, knowing more about how much leeway you have to make a return will help lessen that inevitable holiday angst (fingers crossed). Amazon Shipping : Same-day delivery is not available on Thanksgiving, Christmas, or New Year’s (it’s also limited on Black Friday). However, Prime members get free same-day delivery on qualifying orders in qualifying ZIP codes provided they meet the “minimum qualifying dollar threshold” ( which varies by location) of eligible items in their cart. One-Day and Two-Day Delivery with no minimum purchase amount required is also available to Prime members for qualifying products. Non-Prime buyers will find shipping options on the order page of each specific product. Returns : As part of its holiday promotional period, Amazon says most items purchased between November 1st and December 31st can be returned until January 31st, 2027. Apple products, however, must be returned by January 15th, 2027. Note that this policy applies to both Prime and non-Prime buyers. Apple Shipping : Apple has yet to provide details on its holiday shipping policy; however, last year, it offered free delivery of in-stock items that hadn’t been engraved by Christmas Eve if you ordered before 9PM ET on December 21st. Apple also offers free next-day or two-hour delivery from local stores in most metro areas for an additional fee, or you can opt to pick up purchases yourself by visiting your local Apple Store. Returns : Apple is offering an extended return period for online orders received between November 6th and December 25th, allowing you to return items until January 8th, 2027. Purchases made after December 25th are generally subject to the usual terms and conditions, and must be returned within 14 calendar days of your initial purchase date. Target Shipping : Target offers free two-day shipping on many orders if you spend $35 or more or use your Target Circle Card . Same-day delivery costs $9.99 per order, but it’s included with a Target Circle 360 membership ($10.99 a month / $99 a year). Your mileage may vary for same-day delivery availability based on the item and your location. Returns : Target offers an extended return policy for electronics and entertainment items purchased between November 1st and December 24th, allowing you to return them until January 24</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2024/12/Amazon-warehouse.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/webp"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2024/12/Amazon-warehouse.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>We’re giving away a bag filled with almost $900 worth of tech for Black Friday</title>
-<link>https://www.theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes</link>
-<guid isPermaLink="false">2fc3c0200e3f83b51557c9616d0b8fa04ea0bc86366045d1f3e381ffd7abd239</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 15:00:00 +0000</pubDate>
-<description>As we inch toward the gift-giving season, which officially kicks off with Black Friday, we thought it’d be the perfect time for another giveaway. As with previous sweepstakes, we raided The Verge ’s tech closet and stuffed as much tech as possible into a single bag, and one lucky person will receive the winnings just in time for the holiday season. You can keep the goodies all for yourself or re-gift them — you decide. You won them, after all. The rules for entry are easy. Just fill out the fields below in the Viralsweep embed. Once you enter (and then verify your entry with a unique code sent to your provided email address), you’ll become a subscriber to our Verge Shopping newsletter , which goes out multiple times a week and contains the latest deals we covered on the site, as well as exclusive savings that only subscribers can see. Beyond discounts, we include links to recent buying guides, in-depth reviews, hands-ons, and other articles we think you’ll enjoy. NO PURCHASE NECESSARY. VOID WHERE PROHIBITED BY LAW. Sweepstakes begins at 10:00am ET on 11/09/2026 and ends at 10:00am ET on 11/23/2026. Open to legal residents of the 50 U.S. states and Washington D.C., who are at least 18 years of age (or the age of majority in their jurisdiction, if greater) and have access to the internet, and a valid email address. Odds of winning depend on number of eligible entries received. Governed by and subject to the Official Rules , additional eligibility restrictions apply. VM Publishing, LLC Privacy Policy Sponsor: VM Publishing, LLC, 475 Fifth Avenue, New York, NY 10017.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/alignedgiveawaybag.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/alignedgiveawaybag.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The Verge’s guide to Black Friday 2026</title>
-<link>https://www.theverge.com/gadgets/1027765/black-friday-cyber-monday-guide-2026</link>
-<guid isPermaLink="false">0d7e4362cf51ad419a94dc9363b95211b3fce2842e84d19d45a0c9f86166ac38</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 15:00:00 +0000</pubDate>
-<description>Whether you’re hoping to finally upgrade your TV or simply get a head start on your holiday shopping, Black Friday still offers one of the best opportunities to save on the gadgets we prize most at The Verge . From wireless earbuds and smartwatches to robot vacuums and the latest gaming gear, retailers have already begun offering discounts across a wide swath of electronics, with more expected to drop as we approach the big day on November 27th. Love it or hate it, what once was a singular shopping day is now a drawn-out, monthlong affair. But with hundreds of thousands of items on sale, figuring out which deals are actually worth your time (and cold, hard cash) is easier said than done. Fortunately, to help you navigate another tariff-riddled shopping season , we’ve compiled all our Black Friday coverage in one place. Here, you’ll find the best deals we’ve spotted on our favorite gadgets, along with tips for making the most of your money . We’ll also be updating this page regularly in the weeks leading up to the holiday so you can keep up with the latest discounts as they arrive. Here are the shipping and return policies for all the big-name retailers How to shop like a pro during Black Friday and Cyber Monday Here are the price-matching policies for Best Buy, Walmart, and others We’re giving away a bag filled with almost $900 worth of tech for Black Friday Here’s when the Black Friday sales start at Walmart, Target, and other retailers</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_Black_Friday__Cyber_Monday_Content_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_Black_Friday__Cyber_Monday_Content_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>This prototype camera is fighting the good fight against AI photography</title>
@@ -274,7 +417,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
-<description>Someone left your organisation in the spring. Can they still open the project share? Most infrastructure leads would want to check before answering, and that pause is the subject of a dinner The Register and LucidLink are hosting for senior technology, infrastructure and data leaders at the Covent Garden Hotel on Tuesday 24 November. Joe Fay of The Register is in the chair. Request a place The trouble is the copies. A busy folder lives on the file server, in a sync client, on a couple of laptops and in the share set up for an agency last year, and each copy carries its own permissions. Locking down one leaves the others as they were. Then there's the tool a team built for itself because the approved one was too slow, which IT may not know exists. The evening runs under the Chatham House Rule, and that's what makes it worth going. People say what actually happened in their own shop and how they caught it. Alan Marshall, Strategic Director, EMEA at LucidLink, joins a small group of peers round the table. Nobody presents. The talk moves on to unstructured data that keeps growing, the duplicate storage that comes with it, and how to get access back under control without throwing out the storage and governance you've already paid for. Drinks are at 6.30pm and dinner around one table runs until 9pm. Places are limited. Request a place at the 24 November dinner Places go by invitation and each one is confirmed personally. Sponsored by LucidLink.</description>
+<description>Someone left your organisation in the spring. Can they still open the project share? Most infrastructure leads would want to check before answering, and that pause is the subject of a dinner The Register and LucidLink are hosting for senior technology, infrastructure, and data leaders at the Covent Garden Hotel on Tuesday 24 November. Joe Fay of The Register is in the chair. Request a place The trouble is the copies. A busy folder lives on the file server, in a sync client, on a couple of laptops and in the share set up for an agency last year, and each copy carries its own permissions. Locking down one leaves the others as they were. Then there's the tool a team built for itself because the approved one was too slow, which IT may not know exists. The evening runs under the Chatham House Rule, and that's what makes it worth going. People say what actually happened in their own shop and how they caught it. Alan Marshall, Strategic Director, EMEA at LucidLink, joins a small group of peers round the table. Nobody presents. The talk moves on to unstructured data that keeps growing, the duplicate storage that comes with it, and how to get access back under control without throwing out the storage and governance you've already paid for. Drinks are at 6.30pm and dinner around one table runs until 9pm. Places are limited. Request a place at the 24 November dinner Places go by invitation and each one is confirmed personally. Sponsored by LucidLink.</description>
 <enclosure url="https://image.theregister.com/?imageId=5306422&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306422&amp;width=800" medium="image"/>
 </item>
@@ -532,61 +675,6 @@
 <media:content url="https://www.engadget.com/img/gallery/spacexai-grok-bot-availability-just-keeps-growing-heres-which-plans-offer-it/l-intro-1793897295.jpg" medium="image"/>
 </item>
 <item>
-<title>Should you make the switch to Google Pixel from Samsung Galaxy?</title>
-<link>https://www.engadget.com/2309302/switch-to-google-pixel-from-samsung-galaxy</link>
-<guid isPermaLink="false">396182b9a790ad3cb621cb2d7942483a19bb06b496b61266b90770cc9c619fba</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 23:30:00 +0000</pubDate>
-<description>While Samsung Galaxy phones deliver flagship power, Google Pixel phones have lots of benefits, including faster updates and minimal bloatware.</description>
-<enclosure url="https://www.engadget.com/img/gallery/should-you-make-the-switch-to-google-pixel-from-samsung-galaxy/l-intro-1793891087.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/should-you-make-the-switch-to-google-pixel-from-samsung-galaxy/l-intro-1793891087.jpg" medium="image"/>
-</item>
-<item>
-<title>What is the Slate Telematics Module and what can it be used for?</title>
-<link>https://www.engadget.com/2309298/what-is-slate-telematic-module-uses</link>
-<guid isPermaLink="false">07c94806433ba2867581c873e1cfc7c52711c434dd52e9408049fe23460a2996</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 23:00:00 +0000</pubDate>
-<description>When you buy a Slate Truck, you only pay for the tech you want, and that includes connectivity between the vehicle and your phone. Is this a minimalist's dream?</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-is-the-slate-telematics-module-and-what-can-it-be-used-for/l-intro-1793894523.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-is-the-slate-telematics-module-and-what-can-it-be-used-for/l-intro-1793894523.jpg" medium="image"/>
-</item>
-<item>
-<title>How long can you expect your PC RAM to last?</title>
-<link>https://www.engadget.com/2309637/how-long-pc-ram-lasts-lifespan</link>
-<guid isPermaLink="false">6e83fa0452e13fd332111d8efb9362dc5f552464661c9ca3533e616c39132d03</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 22:30:00 +0000</pubDate>
-<description>With the rising cost and demand for RAM and the ever-increasing tech requirements of PCs, it may be hard to determine just how long your components will last.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-long-can-you-expect-your-pc-ram-to-last/l-intro-1793985651.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-long-can-you-expect-your-pc-ram-to-last/l-intro-1793985651.jpg" medium="image"/>
-</item>
-<item>
-<title>Qalo SL-1 vs. Garmin Cirqa: How these minimalist wearables compare</title>
-<link>https://www.engadget.com/2309634/qalo-sl-1-vs-garmin-cirqa-how-wearables-compare</link>
-<guid isPermaLink="false">c0a33fb0ac189937de72c34e263716ee24f0fa10083379d7e4ceaf73313c0278</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 22:15:00 +0000</pubDate>
-<description>The Qalo SL-1 and Garmin Cirqa were released in 2026, and both cost about $200. A comparison of these screenless wearables reveals some key differences.</description>
-<enclosure url="https://www.engadget.com/img/gallery/qalo-sl-1-vs-garmin-cirqa-how-these-minimalist-wearables-compare/l-intro-1793986309.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/qalo-sl-1-vs-garmin-cirqa-how-these-minimalist-wearables-compare/l-intro-1793986309.jpg" medium="image"/>
-</item>
-<item>
-<title>The one Starlink perk that gives it an edge over traditional internet</title>
-<link>https://www.engadget.com/2309293/starlink-perk-edge-over-traditional-internet-adaptibility</link>
-<guid isPermaLink="false">ae69c8e5f9ca7d178410d31645e454549c97f8d7b40e12cdc53e8dbedb9ed482</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 22:00:00 +0000</pubDate>
-<description>Cable and fiber often win on performance, yet Starlink offers a distinct benefit that could matter more depending on how and why you connect.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-one-starlink-perk-that-gives-it-an-edge-over-traditional-internet/l-intro-1793905751.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-one-starlink-perk-that-gives-it-an-edge-over-traditional-internet/l-intro-1793905751.jpg" medium="image"/>
-</item>
-<item>
 <title>Labour expected to cut EV targets for UK’s car industry despite MPs’ protests</title>
 <link>https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns</link>
 <guid isPermaLink="false">ed4e6b3802ec42be504a1ebaae9870b46251137f0f3b8b83215f71faf89bd9cc</guid>
@@ -829,17 +917,6 @@
 <media:content url="https://image.theregister.com/?imageId=254748&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph</title>
-<link>https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph</link>
-<guid isPermaLink="false">20e5ea8a8d5139236251f1e8103949460dc1dca1550dc3e9bdb35034926757a4</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 21:23:54 +0000</pubDate>
-<description>Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on Friday. The investor sentiment then reached London, where the market was, at one stage, poised for its worst day since March. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff3042c93e0c4a87dadb98b73f68be7f" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff3042c93e0c4a87dadb98b73f68be7f" medium="image"/>
-</item>
-<item>
 <title>Chainalysis says hackers stole credentials and tokens for all of its customers</title>
 <link>https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers</link>
 <guid isPermaLink="false">7142f0ef7fb76f39c0d4f06c2ac75da2607d067e450ec8c4806a2cb87f087aff</guid>
@@ -1038,17 +1115,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality</title>
-<link>https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality</link>
-<guid isPermaLink="false">caaa8e360f9023c54aa5868db866028cd0bb3e23aa6a726d8ad62c21d7eaea0d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 15:28:07 +0000</pubDate>
-<description>Apple's new MacBook Pro is expensive as hell. Let's get that out there right away, because for a lot of people, it will be the only thing that matters. As with so many things in life, though, you get what you pay for. There's no questioning the quality of the laptop's display or most of its other hardware components. But should you buy it? Well, that's a complicated question in 2026. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/MacBook-Pro-closed-lid-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/MacBook-Pro-closed-lid-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>DoJ's 'Super Intelligence Task Force' up and running</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074</link>
 <guid isPermaLink="false">d8369d27ebe2a7af536dc28af970716ba298d5be932eaa952007b11830ec144c</guid>
@@ -1071,17 +1137,6 @@
 <media:content url="https://image.theregister.com/?imageId=243195&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns</title>
-<link>https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns</link>
-<guid isPermaLink="false">5d6aaf835fa3bf32a6d316a3655dccc2c0d0a435d87eee5dc675e0e88294bf3e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 14:13:32 +0000</pubDate>
-<description>Top Republican lawmakers have asked Jensen Huang to appear before Congress to answer questions after it was reported that US intelligence officials believe Nvidia’s chief executive has been targeted by a Chinese spying operation. The chairs of the House committees on China, foreign affairs, and intelligence wrote to Huang this week asking him to appear before a joint closed-door briefing for their committees on November 18. “Recent reports raise significant national security concerns regarding the People’s Republic of China’s access to sensitive US technology and information,” representatives John Moolenaar, Brian Mast, and Rick Crawford wrote. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Blue Origin unveils more thrust, less haste as New Glenn slips to 2027</title>
 <link>https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138</link>
 <guid isPermaLink="false">3ccc770f3154d0416da8822a607f6ef2d22d4c9520aebb4afd955a3dd3f2e18b</guid>
@@ -1091,17 +1146,6 @@
 <description>New Glenn's return to flight has slipped to January 2027, according to the internal memo, viewed by The Register, from Blue Origin CEO Dave Limp, overshadowing the company's announcements of a new third stage and booster engine. Blue Origin has been rebuilding after its New Glenn rocket exploded during a ground test in May , extensively damaging the launchpad. A month later, the company's CEO, Dave Limp, said that Blue Origin "still plan[s] to fly again this year," which raised a few eyebrows in the space and rocket community. The detonation had pretty much destroyed the facility, and getting back into the launch business so quickly seemed optimistic. That timetable has now slipped. In the memo, Limp praised the team's efforts but said: "We're proactively updating our anticipated launch date to January 2027." A small slip given the damage, but one that leaves less breathing room before NASA's planned Artemis III demonstration mission, involving lunar technologies from Blue Origin and SpaceX, next year. The delay emerged as the Bezos-backed company unveiled GS3, a third stage for New Glenn , designed for missions including direct injection into geostationary orbit and Earth-escape trajectories. The company said: "GS3 is already under contract for a cislunar mission with a government customer scheduled to launch in 2028." Blue Origin says the stage is not required for its lunar lander architecture, although it could support sustained operations around the Moon. The company also unveiled Northstar , a booster engine it says has half the parts and 30 percent less mass than its BE-4, while increasing thrust from 640,000 to 715,000 pounds-force. The memo said the team had "found and fixed the issue that caused the anomaly," without elaborating. Limp said in August that the problem "originated at the main oxygen valve on one of the BE-4 engines" and that existing engines would need retrofitting, but did not explain how the valve failed or what changes were required. The memo added that the company would "continue sharing progress updates on Voyager ." ®</description>
 <enclosure url="https://image.theregister.com/?imageId=236527&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=236527&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>No more Cybertrucks; Musk moves on from the angular metallic flop</title>
-<link>https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk</link>
-<guid isPermaLink="false">3bc1e1b383733d23fa6804d84487860f3d2db09e31a455346f18333de7c97975</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 13:50:20 +0000</pubDate>
-<description>Elon’s Edsel is no more. Last night, Tesla CEO Elon Musk revealed on social media that his car company is ending its failed attempt to wrest control of the American pickup truck market. The Cybertruck will cease production in the middle of 2027, liberating that space in Tesla’s cavernous factory for other uses—more Cybercabs , most likely. Musk first revealed the Cybertruck in late 2019 , back when Tesla was still trading at a theoretically understandable price-to-earning ratio. The pickup's unusual angular shape owed more to low-res video game models than any concessions to practicality. At the time, Musk made fanciful claims that the truck would use a stainless steel monocoque construction, telling his audience that “the body and bed don’t do anything useful” on a normal truck. While some race cars use carbon-fiber monocoques for strength and lightness, making a pickup truck with a stainless steel monocoque chassis would only make sense if someone had an awful lot of stainless steel lying around and needed something to do with it all. The truck was supposed to go on sale for less than $40,000, and Tesla made its usual stratospheric sales predictions that (had they been accurate) the bare metal EVs would be as ubiquitous as the Model 3 and Y. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303012424-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303012424-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>DigiCert admits 16-month security lapse exposed customer information</title>
@@ -1357,28 +1401,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg" medium="image"/>
 </item>
 <item>
-<title>Tobacco company got smoked by leaving secret recipes on a file share</title>
-<link>https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704</link>
-<guid isPermaLink="false">fce20f2bf3dfaad208534d80950e0617ecccf6912a507a4650f70d1549db8ef1</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 16:02:00 +0000</pubDate>
-<description>Welcome once again to PWNED, where all of the security victims are self-owned. Today, we celebrate a company that makes a supremely unhealthy product having a supremely unhealthy security posture. Our tale of terrible data management, once again, comes courtesy of professional pen tester and red teamer Dahvid Schloss. Assigned to find flaws in the network of a tobacco company, Schloss stumbled onto some very poorly protected trade secrets. Schloss started by probing the network with tools like Metasploit, a popular open-source pen testing app. Surprisingly, the company’s Trend Micro antivirus did not issue an alert even as he was scanning the network for vulnerabilities. He compared the process to shooting a machine gun and having no one hear it. "I'm running through this environment, and I'm basically just using the loudest toys and tools you can imagine," he told The Register. It seemed as if the client simply didn't care much. "I'm feeling like there's not a whole lot of value that I'm providing here." Schloss then asked his boss what else he could do to make his findings more useful and compelling to the client. "My senior manager turns to me and goes 'Think about what is important to this organization. If it got leaked, how detrimental would it be to their business?'" Schloss said. "I’m thinking it’s a products company. Maybe their recipes." Schloss began searching for network file shares that allowed unauthenticated or anonymous access. After discovering an open share, he scanned it using the network mapping tool Nmap . The scan revealed that ports 139 and 445 were open , indicating that the system was running the Windows SMB file sharing protocol . Despite hosting sensitive IT and HR reco rds, this specific file share had no access restrictions and was completely exposed to every employee in the company. He clicked through the directories and found a folder named “confidential." He found files in there which were named recipe, the product name, the sub product name, and the date. He opened one file and discovered that it had information about how that tobacco product was made, including the weight and volume and what percentage of each chemical it had inside. The file was marked with red letters at the top that said "Confidential" and another set at the bottom that said "Do not share." “I think we found a smoking gun here. This is pretty bad,” Schloss said. He noted that anyone on the network could simply use Windows Explorer to find the file. Schloss downloaded the file, thinking he'd be able to show it to the company to prove that the data could be exfiltrated. But his manager asked him to delete the downloaded file, because it was such sensitive information that he shouldn't retain a copy. This would later harm his ability to show that it had ever existed at all. He then told the security team at the tobacco company what he had found, expecting them to lock down all the recipe files. But when he returned to the site the next morning, he</description>
-<enclosure url="https://image.theregister.com/?imageId=5307708&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5307708&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Memory makers mint megabucks while buyers beg for mercy</title>
-<link>https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846</link>
-<guid isPermaLink="false">9feb0dc69439ecb1e8820d35e736c2e57a96c294cf66c0dd56645d6ff7d6f1fc</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 15:07:34 +0000</pubDate>
-<description>The big memory manufacturers continue to print money at the expense of long-suffering buyers, with industry DRAM revenue approaching five times its level a year ago. Demand for datacenter capacity and AI accelerators drove the 369 percent year-over-year surge in Q3 2026, Counterpoint Research reports . "Bit shipments rose only about 4 percent this quarter, yet DRAM revenue reached nearly $200 billion, close to 5x a year ago," says Counterpoint senior analyst Jeongku Choi. "AI has turned memory from a commodity into a valuable scarce resource, and buyers are now competing for supply rather than negotiating on price. With prices still rising, suppliers are on track to set new earnings records again next quarter." As Reg readers will be well aware by now, the AI infrastructure boom has sent demand for server memory soaring. Manufacturers have prioritized more lucrative products for that market, squeezing supplies for PCs, smartphones, and other devices. The consequences have been a sharp increase in memory costs, leading to higher prices of products that use it. The average price tag for a laptop or desktop was up by double-digit percentages across Europe this summer, resulting in falling PC shipments as vendors struggled to secure supplies and buyers were put off by the expense. A similar effect has been seen in the smartphone arena, with shipments down by at least a fifth as rising memory costs squeezed budget models out of the market, leaving vendors to focus on high-end devices instead. Price increases slowed from the steep rises seen in the first half of the year, Counterpoint says, but average DRAM selling prices still reached $1.90 per gigabit and remained the main driver of revenue growth. Of the big three memory makers – the DRAMvirate, if you like – Samsung led with a 38 percent share of DRAM revenue. Separately, it forecast company-wide operating profit of about $80 billion for Q3, up from $9 billion a year earlier. SK hynix posted stronger sequential growth, helping it recover some of the share it lost earlier this year, according to Counterpoint. The firm made a $62.8 billion profit , and predicts that memory shortages will persist until at least 2030. Micron's DRAM revenue grew more slowly than rivals', but its wider business hardly suffered: fiscal fourth-quarter net profit reached $37.7 billion , exceeding its entire second-quarter revenue of $23.8 billion. Counterpoint's research director MS Hwang expects to see memory prices remaining high next year. "[High-bandwidth memory] prices, which lagged commodity DRAM this year, are now catching up. Long-term agreements (LTAs) are supporting prices, and supply will stay tight because major new fabs will not start production until 2028. LTA terms may cause results to differ between suppliers in the short term, but over time they should all follow the same upward trend," he says. That means more bad news for buyers, but more massive profits for the memory makers. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5259665&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5259665&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>‘It’s so glossy and sexy!’: 10 movies (and one TV show) that inspired Grand Theft Auto</title>
 <link>https://www.theguardian.com/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto</link>
 <guid isPermaLink="false">7fc28c04213e8df8fdafb4ab55c2f99e08aec59597709e617ac082dcd26d9a85</guid>
@@ -1555,17 +1577,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2210544722.jpg" medium="image"/>
 </item>
 <item>
-<title>Is Claude Code truly faster with message threads? I did the math on my logs</title>
-<link>https://www.zdnet.com/innovation/claude-code-message-threads-speed-test</link>
-<guid isPermaLink="false">3bd5ecdfcf1c3ea79a0953215b88dcd0c949dcbf16ae4ea1cd5a525ffedad88c</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 07:28:00 +0000</pubDate>
-<description>Claude Code’s update could save you time during demanding, hours-long coding sessions at no extra cost. But by how much? Here’s my real-world result.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/anthropic_004de4.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/anthropic_004de4.jpg" medium="image"/>
-</item>
-<item>
 <title>Is a job guarantee the solution to mass AI unemployment?</title>
 <link>https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment</link>
 <guid isPermaLink="false">c921e5a3357873ad79dd37c735a21b7db910e8767badb4b6ed967ed7f30be0b0</guid>
@@ -1586,17 +1597,6 @@
 <description>Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Apple’s biggest and beefiest smartwatch it gets the best kind of spec upgrade – longer battery life – while waiting for something potentially more transformative. That’s because several of the key features announced as part of Apple’s new smartwatch lineup for 2026 have yet to be enabled, awaiting updates towards the end of this year. That leaves the £749 (€899/$799/A$1,349) Apple Watch Ultra 4 the top dog, but basically the same as last year’s model . Case size: 49 x 44mm Case thickness: 12mm Weight: 63g Processor: S11 Storage: 64GB Operating system: watchOS 27 Water resistance: 100 metres (10ATM) Connectivity: Bluetooth 5.3, wifi 4, 5G RedCap/4G, UWB Sensors: HR, ECG, spO2, temp, depth, dual-band GPS, compass, altimeter Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/4f1356823052f403fc9b5a13c8f45e5e5aa596d6/1367_680_4321_3456/master/4321.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aac3a9548af9cd855e43b87385cd12a" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/4f1356823052f403fc9b5a13c8f45e5e5aa596d6/1367_680_4321_3456/master/4321.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aac3a9548af9cd855e43b87385cd12a" medium="image"/>
-</item>
-<item>
-<title>Labor and the Coalition are poised to take a reckless gamble on AI. Haven’t they realised community support has collapsed? | Edward Santow and Sarah Sacher</title>
-<link>https://www.theguardian.com/technology/commentisfree/2026/oct/21/labor-coalition-poised-to-take-reckless-gamble-on-ai-joint-select-committee</link>
-<guid isPermaLink="false">94e226f7256558892f59c79be879a0b1942d00d2e25f922f98c9125fe5d17191</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 14:00:38 +0000</pubDate>
-<description>Australian workers expect the government to act to protect them from AI harms. There is a clear reform solution at hand Get our new political email , free app or daily news podcast Australia’s major political parties are edging towards rare consensus. Labor and the Coalition increasingly want to take a major bet on artificial intelligence. Yet, just as the parties are coming together, the Australian community is running the other way. Last year, only 30% of Australians believed the benefits of AI outweighed the risks. In 2026, community trust in AI appears to be falling even further. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/9c9ec69d76f8fe3ecc5633e32f9280cf5f31c95d/596_0_5955_4764/master/5955.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ee8d1dcdd70f340c0d3fba663bbd5ff" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/9c9ec69d76f8fe3ecc5633e32f9280cf5f31c95d/596_0_5955_4764/master/5955.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ee8d1dcdd70f340c0d3fba663bbd5ff" medium="image"/>
 </item>
 <item>
 <title>Googlebook review: Google’s new laptops are woefully underbaked</title>

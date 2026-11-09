@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week</title>
+<link>https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week</link>
+<guid isPermaLink="false">633ab82075e71dd92ff7126da802b0a4dbaff454e7fdb8369695ce4285d539de</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 10:03:40 +0000</pubDate>
+<description>Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-960x644-960x644.webp" type="image/webp"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-960x644-960x644.webp" medium="image"/>
+</item>
+<item>
 <title>Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort</title>
 <link>https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort</link>
 <guid isPermaLink="false">6aeb8a2e5d475e76726581a307296331bfe9e5cf34c4fb71ffd4d051c1b655e6</guid>
@@ -783,17 +794,6 @@
 <description>South Korea’s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5FQT9G760GWMQ4WKS1P1T/storage-crypto-tokens.png" type="image/png"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R5FQT9G760GWMQ4WKS1P1T/storage-crypto-tokens.png" medium="image"/>
-</item>
-<item>
-<title>Binance’s $6.3B hack leaves questions over hot wallet safeguards</title>
-<link>https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls</link>
-<guid isPermaLink="false">7a1cd4da816c44747b41c62e317f60a8defe57e16034a212654f1499d22e0d2d</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 10:40:57 +0000</pubDate>
-<description>Experts say blockchain records show repeated wallet drains but cannot establish Binance’s internal signing controls or transaction limits.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NZZB32AAV4WA4BCAVB6M4R/hi-how-to-migrate-crypto-from-an-exchange-to-ledger-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NZZB32AAV4WA4BCAVB6M4R/hi-how-to-migrate-crypto-from-an-exchange-to-ledger-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards</title>

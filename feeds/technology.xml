@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up</title>
+<link>https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up</link>
+<guid isPermaLink="false">502e12e03a758fd7cb2e65916ba6618bd5659fdd6a4528deb8ce9b3a68484f28</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 19:42:47 +0000</pubDate>
+<description>There's a checkbox that simply turns it off.</description>
+<enclosure url="https://www.engadget.com/img/gallery/windows-11-is-finally-adding-an-easier-way-to-disable-the-sticky-keys-pop-up/l-intro-1794253296.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/windows-11-is-finally-adding-an-easier-way-to-disable-the-sticky-keys-pop-up/l-intro-1794253296.jpg" medium="image"/>
+</item>
+<item>
+<title>Vulnerability that lets hackers SSH into Linux devices is under active exploitation</title>
+<link>https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation</link>
+<guid isPermaLink="false">eb9aae20ddecf55386a0dee9a787ec83aa86e62ece9bd3ac60a38d030d1b404b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 19:41:34 +0000</pubDate>
+<description>Hackers are actively exploiting a recently discovered critical vulnerability that allows them to log in to privileged accounts on many Linux systems, multiple researchers are reporting. The vulnerability, tracked under the name *sshole, arises from the interaction between OpenSSH and a code library known as musl. Linux systems that use both of these packages and meet certain other requirements can be hacked to give unauthenticated access to high-privilege accounts in a matter of seconds. *sshole became publicly known last Thursday and quickly stoked concerns it could lead to widespread compromise of Linux machines. Four days later, the prediction shows signs of becoming real. Attackers conducting "mature intrusions" Security firm Greynoise said Monday that honeypots it maintains in Southeast Asia have come under attack by a group it’s tracking as GT10. The group conducted “mature intrusions" into the systems, which Greynoise uses to detect attempted or successful attacks in real time. Greynoise subsequently gained access to a GT10 server that revealed potential other victims and some of the tools used in the campaign. A backdoor the group is using in the attacks contains Chinese language comments and appears to be generated with the use of AI. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg" medium="image"/>
+</item>
+<item>
+<title>Cyber-attack on French supermarket freezers has geopolitical context</title>
+<link>https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe</link>
+<guid isPermaLink="false">88fd9e5b6be26d2450d185cfadb587c9778f5940926be98728ed8456dece892b</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 19:40:45 +0000</pubDate>
+<description>‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on the screens of water-control equipment made by an Israeli firm. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbbf673c92cc02d5cc5b7d630a066fe9" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbbf673c92cc02d5cc5b7d630a066fe9" medium="image"/>
+</item>
+<item>
+<title>You can change Windows settings directly from a search now – how to try it</title>
+<link>https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview</link>
+<guid isPermaLink="false">32ed12b73c12e0b23c7203157c19d9984ec6d04bc92f6561a617f8248b25f00c</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 19:33:24 +0000</pubDate>
+<description>The latest Windows 11 Insiders Preview enhances the Search feature so that you can access specific settings right from a search window.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg" medium="image"/>
+</item>
+<item>
+<title>How to use your iPhone to take the best picture of the Moon</title>
+<link>https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide</link>
+<guid isPermaLink="false">b4e04b366f5186b399a5851272010dbeff99660ac37ae9d960fcbff82217dc9b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 19:30:00 +0000</pubDate>
+<description>We explain how to take the best photos of the Moon with your iPhone, regardless of which model.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-use-your-iphone-to-take-the-best-picture-of-the-moon/l-intro-1793619969.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-use-your-iphone-to-take-the-best-picture-of-the-moon/l-intro-1793619969.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple’s $50 Intelligence Usage Packs extend access to some AI features</title>
+<link>https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</link>
+<guid isPermaLink="false">5ef93d9981a0db1c3c84437ab5811829aef63e6de91977c9d1183cc45f9056d9</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 19:09:58 +0000</pubDate>
+<description>After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to "Buy More Usage" for a one-time purchase price of $49.99, as spotted by 9to5Mac . It has a built-in AI assistant to do things like "start a new song, set up a vocal track from a single prompt, or refine an active project." These Intelligence Usage Packs, as Apple calls them, will allow users to continue accessing certain Apple Intelligence features that have usage limits because they rely on cloud-based AI models from OpenAI or Google Gemini. The Usage Packs can only be used … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Pentagon mulls placing fleet of military satellites around the Moon</title>
+<link>https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon</link>
+<guid isPermaLink="false">8cf52cbb7e3e47bb776ce14f17bf1e040845e91f5fafb6cb1049ea4c2d091972</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 19:08:37 +0000</pubDate>
+<description>The US military has published a Request for Information on a federal procurement website signaling interest in deploying a "proliferated cislunar constellation" consisting of an unspecified number of satellites performing an undisclosed mission in the vicinity of the Moon. The announcement follows statements in recent months from the Space Force's acquisitions chief for advanced programs, Maj. Gen. Stephen Purdy, that the military was getting serious about extending its reach to the Moon. The Space Force's most distant satellites today are in geostationary orbit, some 22,000 miles (36,000 kilometers) over the equator, collecting routine surveillance and missile warning data. Most recently, Purdy spoke of a shift in Pentagon leadership's thinking about the Moon following an executive order signed by President Donald Trump last December. The order set out the Trump administration's space policy. One section of the order deals with the US government's ability to detect, characterize, and counter threats to US space interests from low-Earth orbit to cislunar space, the term of art for the region of space around the Moon. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Anthropic launches new Claude Fable and Mythos 5.2 models</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2</link>
 <guid isPermaLink="false">ea9e2270122931419f9b2e1c27ee99619ac89aba556d98f2ca86d4384d059d20</guid>
@@ -13,6 +90,28 @@
 <description>Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on "daunting" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable 5.2 is good at challenging software engineering problems, Anthropic says, and can orchestrate agent teams and tackle long-running projects. The new model has also solved some complex scientific problems, including two open theoretical physics problems. During prerelease testing, the two models have "help … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Gmail users should know about this little-noticed feature</title>
+<link>https://www.engadget.com/2307742/gmail-unsend-feature</link>
+<guid isPermaLink="false">907dd8c1a22c423eb6ada098277c7d801b7d233d6f6e1cf07ace719111345114</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+<description>Gmail's unsend feature will delay it from dispatching your message. Here's how to extend the amount of time you have to use it.</description>
+<enclosure url="https://www.engadget.com/img/gallery/gmail-users-should-know-about-this-little-noticed-feature/l-intro-1793819117.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/gmail-users-should-know-about-this-little-noticed-feature/l-intro-1793819117.jpg" medium="image"/>
+</item>
+<item>
+<title>Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy</title>
+<link>https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk</link>
+<guid isPermaLink="false">2ecf841fedbcee54db81cbd90b17959d4883da27eb7831d1b0e744f39b1a5559</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 18:58:37 +0000</pubDate>
+<description>Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees Nvidia’s board needs to do some succession planning – sharpish Donald Trump , Elon Musk and prominent finance moguls have expressed their support for embattled Nvidia CEO Jensen Huang , as the head of the world’s most valuable chip company faces an internal investigation over a romantic relationship with an alleged Chinese spy. “I have not ​spoken to him about it,” the US president told reporters on Sunday. “I just know he’s a fine person, but you never know what is going on. I’m sure, I hope everything’s fine. He’s done such an incredible job”. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d39beb1d9bb5d0d9747f2800e58dd63b" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d39beb1d9bb5d0d9747f2800e58dd63b" medium="image"/>
 </item>
 <item>
 <title>You can grab three months of Game Pass Ultimate for under $20 per month</title>
@@ -54,7 +153,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Mon, 09 Nov 2026 17:58:05 +0000</pubDate>
-<description>Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter Thiel, used a direct WhatsApp channel to argue that “the logic of joining up primary and secondary [care] data is unarguable” and said its software was “ideal” for the job. The push came in February this year despite GP data being expressly ruled out of scope of Palantir’s existing £330m contract with NHS England to run its federated data platform (FDP), which it says has helped cut surgery waiting times and discharge delays. Continue reading...</description>
+<description>Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform UK politics live – latest updates Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter Thiel, used a direct WhatsApp channel to argue that “the logic of joining up primary and secondary [care] data is unarguable” and said its software was “ideal” for the job. The push came in February this year despite GP data being expressly ruled out of the scope of Palantir’s existing £330m contract with NHS England to run its federated data platform (FDP), which it says has helped cut surgery waiting times and discharge delays. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90b00d99c5f668e22df0929eb12a9dee" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90b00d99c5f668e22df0929eb12a9dee" medium="image"/>
 </item>
@@ -224,17 +323,6 @@
 <media:content url="https://image.theregister.com/?imageId=257647&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy</title>
-<link>https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk</link>
-<guid isPermaLink="false">2ecf841fedbcee54db81cbd90b17959d4883da27eb7831d1b0e744f39b1a5559</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 16:42:35 +0000</pubDate>
-<description>Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees Nvidia’s board needs to do some succession planning – sharpish Donald Trump, Elon Musk and prominent finance moguls have expressed their support for embattled Nvidia CEO Jensen Huang, as the head of the world’s most valuable chip company faces an internal investigation over a romantic relationship with an alleged Chinese spy. “I have not ​spoken to him about it,” Trump told reporters on Sunday. “I just know he’s a fine person, but you never know what is going on. I’m sure, I hope everything’s fine. He’s done such an incredible job”. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d39beb1d9bb5d0d9747f2800e58dd63b" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d39beb1d9bb5d0d9747f2800e58dd63b" medium="image"/>
-</item>
-<item>
 <title>Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage</title>
 <link>https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage</link>
 <guid isPermaLink="false">04c35e90322109c1090a0db4a1d96a99e7065784e504d9282416c5404112cdfe</guid>
@@ -275,8 +363,8 @@
 <category>technology</category>
 <pubDate>Mon, 09 Nov 2026 15:58:55 +0000</pubDate>
 <description>The company will increase its use of the tech on Facebook and Threads too.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/l-intro-1794239869.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/l-intro-1794239869.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/l-intro-1794251531.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/l-intro-1794251531.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec</title>
@@ -332,17 +420,6 @@
 <description>Who wants a hand-designed and creatively curated monorail anyway. | Image: Disney / Adobe The Walt Disney Company has teamed up with Adobe to develop proprietary "artist-led" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to ESPN content. Disney and Adobe will also collaborate "to explore emerging technologies, including responsibly developed AI," according to Adobe's press release : With Adobe Firefly Foundry, Disney will work directly with Adobe on generative AI models tailored to Disney's properties t … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Hold up — I had a great time talking to the RIAA guy</title>
-<link>https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music</link>
-<guid isPermaLink="false">717aea7cb5bba68cb04d1d9d122d204a1532fe97563678eb65f39005dbb232ae</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 15:30:00 +0000</pubDate>
-<description>Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set the rest of my career in motion — and Mitch was in the background as a young lawyer at the RIAA working on those cases. So part of me was very deeply, very genuinely surprised to discover just how much fun I had talking to Mitch. That’s because here in 2026, Mitch, the RIAA, the record labels, the artists, and ordinary people are all pretty unhappy with the big AI companies in the same way, for training on everyone’s work without permission and flooding our feeds with slop. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . Everyone is mad about it! And since the RIAA is both the group that lobbies for changes to the law and also the group that files lawsuits about things that affect record labels and distributors, Mitch is a pretty busy guy these days. We got deep into the legal complexity of things like AI deepfakes, how banning them might affect other kinds of expression, and how the AI detection and labeling systems that we all seem to want might actually work in practice — especially if big platforms like Spotify and YouTube don’t get on board. I just want to get right into it. This conversation is a real ride through how AI, the law, art, and commerce might all intersect. I think you’re going to be able to tell, Mitch and I had a lot of fun talking about it. Before we get going, do me a favor and subscribe to Decoder on YouTube , where we put out new episodes every Monday and Thursday. Okay: RIAA CEO Mitch Glazier. Here we go. This interview has been lightly edited for length and clarity. Mitch Glazier, you’re the chairman and CEO of the Recording Industry Association of America, which people know as the RIAA. Welcome to Decoder . Thank you. Thank you, Nilay. I’m excited to be here. I am very excited to talk to you. I have to tell you, this is a very full-circle moment for me. My entire career got on track when I was in college. Napster came out, my university banned Napster from the school network, and I decided right then I was going to go be a copyright lawyer. And then I was a copyright lawyer, and I defended kids who got sued for using Kazaa . I was not good at that job. It was not fulfilling. And I became a journalist because I could write about copyright law on the iPod. So talking to you is about as full circle as it gets for me. Thank you for being on the show. Good. Well then, I’m no longer sorry for the policies that we forced your school to implement because it made you a copyright lawyer. So the world benefited at the end of the day. It had some silver linings to it. When I first started at the RIAA, Napster was obviou</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261109_Glazier.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261109_Glazier.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Nvidia CEO's affair becomes a national security problem</title>
@@ -662,39 +739,6 @@
 <description>If you have an extra laptop lying around, you can connect it to your primary laptop with a wireless or wired connection for a free dual monitor set up.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-to-use-your-laptop-as-a-second-monitor/l-intro-1793914883.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-to-use-your-laptop-as-a-second-monitor/l-intro-1793914883.jpg" medium="image"/>
-</item>
-<item>
-<title>Why your USB device isn't showing up on your MacBook and how you can fix it</title>
-<link>https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes</link>
-<guid isPermaLink="false">a1bebff432732cd887f8a7bc724c7c68238db1305884220e985277aacea203e2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 01:00:00 +0000</pubDate>
-<description>If your USB device isn't showing up on your MacBook, the issue could be anything from a damaged cord to software troubles. Find out how to fix these problems.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-usb-device-isnt-showing-up-on-your-macbook-and-how-you-can-fix-it/l-intro-1793975296.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-usb-device-isnt-showing-up-on-your-macbook-and-how-you-can-fix-it/l-intro-1793975296.jpg" medium="image"/>
-</item>
-<item>
-<title>Which Canon Cameras Are Compatible With Its Free 3D Photo Software?</title>
-<link>https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software</link>
-<guid isPermaLink="false">fda0c72e2dabd8d80a13bec03f1da1a23214d7a5658dfb438085fed783a78bb2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 00:45:00 +0000</pubDate>
-<description>Canon cameras are often known for their versatility and compatibility with software programs. These cameras are best used with the free 3D photo software.</description>
-<enclosure url="https://www.engadget.com/img/gallery/which-canon-cameras-are-compatible-with-its-free-3d-photo-software/l-intro-1793981282.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/which-canon-cameras-are-compatible-with-its-free-3d-photo-software/l-intro-1793981282.jpg" medium="image"/>
-</item>
-<item>
-<title>The disadvantages of buying tech from other countries</title>
-<link>https://www.engadget.com/2309284/disadvantages-buying-tech-from-other-countries</link>
-<guid isPermaLink="false">5f86fc47cce922e5eb30ef208e342b64e6285ada0cc7466ab527ab642a9d4f4d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 00:30:00 +0000</pubDate>
-<description>Importing a phone or a laptop can be appealing, especially if you can get a product you wouldn't otherwise have access to, but it has downsides.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-disadvantages-of-buying-tech-from-other-countries/l-intro-1793957706.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-disadvantages-of-buying-tech-from-other-countries/l-intro-1793957706.jpg" medium="image"/>
 </item>
 <item>
 <title>Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence</title>
@@ -1060,17 +1104,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/9f63197d-cd41-4007-a0bb-ab0ce06e6a6a.jpg" medium="image"/>
 </item>
 <item>
-<title>“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.</title>
-<link>https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update</link>
-<guid isPermaLink="false">0b33259ab43866603fce5c73c63383314d4e6a03708e5388218b657960ae5181</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 17:43:02 +0000</pubDate>
-<description>After weeks of backlash —and a failed attempt to quell it —Meta has indefinitely delayed plans to update its commercial terms and require Meta Business account users to allow extensive AI training on external websites linked on Facebook. "We're pausing the ‌changes ⁠as we continue to engage with stakeholders and ​take ​our ⁠time to get this right. ​In the ​meantime, ⁠our existing terms remain in ⁠effect," a Meta spokesperson told Reuters. Soon after Meta notified business account holders of the upcoming changes, legal experts warned Nieman Lab that the vague language could allow the company to ignore scraping preferences specified in robots.txt files and exhaustively crawl vast amounts of off-Facebook content for AI training. Since virtually every news publisher has a Facebook page, Nieman Lab sounded the alarm that Meta could potentially avoid millions in licensing fees if the TOS update happened as planned. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Thinking Machines’ new model takes the lead in western open-weight AI</title>
 <link>https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight</link>
 <guid isPermaLink="false">88e5477171643a520255936cc0bedbba01b18fd75932907d9312375b959d5b35</guid>
@@ -1080,17 +1113,6 @@
 <description>Another competitive model developed outside of China could change the open-weight landscape.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/redonblueGettyImages-2270299267.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/redonblueGettyImages-2270299267.jpg" medium="image"/>
-</item>
-<item>
-<title>Wisconsin reports measles death of a baby, first death in over 35 years</title>
-<link>https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years</link>
-<guid isPermaLink="false">ce49974025fcd2f1a58f869724200f401def7f0caec3e3af6aa35c57b58e5278</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 17:06:32 +0000</pubDate>
-<description>An infant in Wisconsin has died of measles, the first measles death in the state since 1990, officials reported Thursday . The death comes amid an outbreak in the Badger State that has stricken over 430 people across 13 counties this year. "Any death of a child is a tragedy, and even more so when it is related to a vaccine-preventable disease," Wisconsin Health Secretary Kirsten Johnson said in a statement. "Measles can cause serious illness and death, and it is important for all Wisconsinites to evaluate their risk and take steps to protect themselves and their family." The baby's death is the third measles fatality nationally just this week, following the death of a New York child reported on Monday and another death in Pennsylvania reported on Wednesday . The Pennsylvania death was of an unvaccinated person in Jefferson County; the state health department did not provide additional details, such as the age of the person. The state's explosive, ongoing measles outbreak has led to 1,467 cases so far this year. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Mac lookalikes multiply as Linux raids Apple's wardrobe</title>
@@ -1542,28 +1564,6 @@
 <description>The HomeView Ultra is expected to feature a robotic arm and 9-inch display. Shades of Amazon’s discontinued Echo Show 10?</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/0B7F1C4A-9EC9-4A98-B338-76A186CAB5FF_1_105_c.jpeg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/0B7F1C4A-9EC9-4A98-B338-76A186CAB5FF_1_105_c.jpeg" medium="image"/>
-</item>
-<item>
-<title>Nvidia RTX 50 GPUs hit with more price hikes – up to $500</title>
-<link>https://www.zdnet.com/tech/nvidia-rtx-50-cards-gpus-more-price-increases</link>
-<guid isPermaLink="false">c1add796d7eeb46e937967ab3afe4f0c60b43691a2a5030e382da60cc6dee2c1</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 17:30:50 +0000</pubDate>
-<description>Some GPUs will see bigger increases than others, while Intel and AMD remain mum on their pricing plans</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/727c351e-7609-441d-8ee9-669c970864c8.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/727c351e-7609-441d-8ee9-669c970864c8.jpg" medium="image"/>
-</item>
-<item>
-<title>Is a job guarantee the solution to mass AI unemployment?</title>
-<link>https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment</link>
-<guid isPermaLink="false">c921e5a3357873ad79dd37c735a21b7db910e8767badb4b6ed967ed7f30be0b0</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 10:00:30 +0000</pubDate>
-<description>An old idea springs anew as a chorus of influential voices predicts that AI may trigger crises of vast magnitude In a preface to his book Capitalism and Freedom, the American economist Milton Friedman famously observed that a crisis can propel once-fringe ideas into the political mainstream. “Only a crisis – actual or perceived – produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around,” he wrote. The job of intellectuals, thinktanks and economists, he argued, is to refine the quality of these ambient ideas, so that good ones are ready when disaster strikes. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/5d838343b80e3163461a99b84753451e52e54078/724_0_7211_5773/master/7211.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62ea69ec368ae2b57aa377a6071ec4fb" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/5d838343b80e3163461a99b84753451e52e54078/724_0_7211_5773/master/7211.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62ea69ec368ae2b57aa377a6071ec4fb" medium="image"/>
 </item>
 <item>
 <title>Apple Watch Ultra 4 review: longer battery life but still awaiting new features</title>

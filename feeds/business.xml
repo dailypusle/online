@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>PNC Bank tests turning USDC payments into dollar deposits</title>
+<link>https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase</link>
+<guid isPermaLink="false">a1f0035e848146ad90602eeb7c4f3545e54e9174910b097ba1a85cb0bb6efa5c</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 17:48:35 +0000</pubDate>
+<description>The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png" medium="image"/>
+</item>
+<item>
+<title>Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC</title>
+<link>https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec</link>
+<guid isPermaLink="false">904438428bc801a4bcc694997b5cf872f3409bfd02a51181cf5dbeaaff091332</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 17:46:02 +0000</pubDate>
+<description>Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Avalanche’s AVAX leads crypto gains following NYSE tokenization deal</title>
+<link>https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal</link>
+<guid isPermaLink="false">e61d002f6e58c8975899dc80e58735ddabe78486eff452322cf0d65defeea9cb</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 17:41:02 +0000</pubDate>
+<description>Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70J2ENA2XKCHW53PWMMZG5X/hi-avalanche-avax-ecosystem.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70J2ENA2XKCHW53PWMMZG5X/hi-avalanche-avax-ecosystem.png" medium="image"/>
+</item>
+<item>
+<title>North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot</title>
+<link>https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack</link>
+<guid isPermaLink="false">ca7ffb0dc6ca4b9617aad0d0ec858db62e8640a832b486b0d4d14aafdee3a707</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 17:26:28 +0000</pubDate>
+<description>Bitcoin Magazine North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot North Korean launderers are creating their own worthless meme coins and pushing stolen Binance funds through them so the coins never move directly from one wallet to another, blockchain analytics firm Elliptic said Monday. Between Nov. 5 and 7, the operators minted at least six new tokens on the NEAR blockchain — named FUK, OLCCL, MEILI, MMLI, DABI and SINU — paired each with NEAR in its own liquidity pool, then bought the tokens with stolen NEAR and sold them back out through a second set of wallets. About 117,000 NEAR, or roughly $430,000, passed through the six tokens, Elliptic wrote . The trail sits inside the broader laundering of the Oct. 29 Binance theft, which the exchange has put at $6.34 billion and which the FBI has attributed to North Korea’s TraderTraitor group. Elliptic’s wider update now puts roughly 3,000 BTC — about $225 million — in new bitcoin addresses converted from other stolen assets, while about 11.8 million NEAR, or $43.7 million, from the theft has still not moved. “Most people think of meme tokens as joke coins whose prices rise and fall on hype,” Elliptic co-founder and chief scientist Dr. Tom Robinson wrote. “North Korea’s launderers have found a different use for them.” How the homemade token trick works The technique is a four-step hop. The North Korea launderers create a token with a public launch tool, open a liquidity pool pairing it with a real asset such as NEAR or a stablecoin, buy the new token with stolen funds from one set of wallets, then sell it back into the same pool from a second set of wallets that collect the real asset. At no point do the stolen funds transfer directly from a buying wallet to a collecting wallet, because the pool sits in between. To a casual observer, the collecting wallets look like ordinary traders who sold a token at a profit. Each of the six NEAR tokens cost about 25 NEAR, or around $90, to create. Each was traded heavily within hours using stolen NEAR and then abandoned. None has traded since Nov. 8, and that afternoon the creators of four of them withdrew what liquidity was left. Five of the six token creators were funded by a wallet that had just sold an earlier token, between two and 13 minutes before the next launch, so the tokens form a chain. Elliptic first reported the same approach in the laundering of the February 2025 Bybit theft, also attributed to North Korean group TraderTraitor, when a worthless Tron token helped move at least $24 million. In the Binance case the firm has also seen the technique on Tron and a close variant on Solana that used existing thinly traded tokens rather than homemade ones. A slowing tactic, not a disappearing act The meme coins do not hide the funds. Every step is public on-chain. What they buy is time. Each extra hop slows investigators while launderers race to move funds before they are flagged, and at about $90 apiece the tokens are cheap enough to</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/North-Korea-Is-Minting-Its-Own-Meme-Coins-to-Launder-Binance-Hack-Loot.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/North-Korea-Is-Minting-Its-Own-Meme-Coins-to-Launder-Binance-Hack-Loot.jpg" medium="image"/>
+</item>
+<item>
+<title>Morgan Stanley to bolster IPO wheelhouse with Vinyl acquisition</title>
+<link>https://www.bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136</link>
+<guid isPermaLink="false">ce7048bfb2dffada27e4d93145e64d95ff638a673ac2c99df5ac3727cae01c6e</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 17:26:21 +0000</pubDate>
+<description>Financial terms of the Vinyl Equity deal were not disclosed. But the purchase gives the bank an in-house transfer agent for share transfer, which can be complicated when a company goes public.</description>
+<enclosure url="https://imgproxy.divecdn.com/kdnjPYoTKhcpIlIZgoVrYGRfoo50q1yYJTv5eR-CONk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MTI1OTEwMC5qcGc=.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/kdnjPYoTKhcpIlIZgoVrYGRfoo50q1yYJTv5eR-CONk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MTI1OTEwMC5qcGc=.webp" medium="image"/>
+</item>
+<item>
+<title>Coinbase secures unconditional trust charter</title>
+<link>https://www.bankingdive.com/news/coinbase-secures-unconditional-trust-charter/874135</link>
+<guid isPermaLink="false">e8b7659a85bf14320ba4426f2a594b75e02ebb04ae14c9aba68d695579e1c226</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 17:23:50 +0000</pubDate>
+<description>The company applied for the license in October 2025 and gained the Office of the Comptroller of the Currency’s conditional approval in April, but charter plans date back more than two years, an executive said.</description>
+<enclosure url="https://imgproxy.divecdn.com/KulG3cgJI9Ts6y-F_g9Wflea6LdSPXfJqr-GZNKnaUg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2luYi5qcGc=.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/KulG3cgJI9Ts6y-F_g9Wflea6LdSPXfJqr-GZNKnaUg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Db2luYi5qcGc=.webp" medium="image"/>
+</item>
+<item>
 <title>Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability</title>
 <link>https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability</link>
 <guid isPermaLink="false">6d7411fe0aaa5459ab1410e9a9cad262a48ee9e595c0235917853afd7e779fde</guid>
@@ -13,6 +79,17 @@
 <description>The Ethereum co-founder says ETH's value comes from stability, not fee burns, citing its decentralization, censorship resistance and security.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target</title>
+<link>https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target</link>
+<guid isPermaLink="false">be6b37f483cba10f8ebd4ff214b68048754b100b8020378e539bdfbcb1d41987</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 17:13:25 +0000</pubDate>
+<description>Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70K6JJA96WE7MYD336FM1EF/article-covers-262247-bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-do-960x640.webp" type="image/webp"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70K6JJA96WE7MYD336FM1EF/article-covers-262247-bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-do-960x640.webp" medium="image"/>
 </item>
 <item>
 <title>Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration</title>
@@ -48,6 +125,28 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/BlackRock-Security-Fears-Are-Driving-Bitcoin-Whales-Into-IBIT.jpg" medium="image"/>
 </item>
 <item>
+<title>Your Next Customer Is an AI Agent. Here’s How to Market to It.</title>
+<link>https://www.entrepreneur.com/business-news/tech/your-next-customer-is-an-ai-agent-heres-how-to-market-to-it</link>
+<guid isPermaLink="false">932fd0c5bc37cd6743ee561318ebc71c2335146debf5dbe3fb8e723cf9036e49</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
+<description>AEO and GEO are chapter one, but the next big shift is evolving further down the purchase funnel</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/next-customer-is-an-ai-agent-1126_g2263341951.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/next-customer-is-an-ai-agent-1126_g2263341951.jpg" medium="image"/>
+</item>
+<item>
+<title>Customers Suing McDonald’s In Chicago Are Not Lovin’ the McRib</title>
+<link>https://www.entrepreneur.com/buying-a-franchise/customers-suing-mcdonalds-in-chicago-are-not-lovin-the-mcrib</link>
+<guid isPermaLink="false">4ae08935f5191954dfa24dedac6e6c20e03de3ad82d04df48484a70ab4a04501</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
+<description>A federal judge says customers could reasonably expect a sandwich called the McRib to contain actual ribs.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/mcdonalds-mcrib-lawsuit-1126_g106494489.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/mcdonalds-mcrib-lawsuit-1126_g106494489.jpg" medium="image"/>
+</item>
+<item>
 <title>Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29</title>
 <link>https://bitcoinmagazine.com/news/binance-closing-accounts-four-eu-countries</link>
 <guid isPermaLink="false">01046a3e4153217080a043ed8cb6631814d0b062f8fe943fa05089bf7c506dc2</guid>
@@ -59,6 +158,17 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/06/Binance.jpg" medium="image"/>
 </item>
 <item>
+<title>Would You Take the Money? Microsoft Is Offering Employees Its Biggest Buyout Offer to Date.</title>
+<link>https://www.entrepreneur.com/business-news/how-microsoft-employees-responded-to-the-companys-biggest-buyout-offer-to-date</link>
+<guid isPermaLink="false">bba734370640156cff9efc27c22b921c00bd93e942db5b966a16728bd0e332e8</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 15:52:25 +0000</pubDate>
+<description>The tech giant offered buyouts to a quarter of its workforce as it looks to reduce spending.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Satya-Nadella-1126_g2300856092-new.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Satya-Nadella-1126_g2300856092-new.jpg" medium="image"/>
+</item>
+<item>
 <title>NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform</title>
 <link>https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform</link>
 <guid isPermaLink="false">836db68309bfece2bef003deab79d790dafd8de5f95bc456e1e3d664bf93a576</guid>
@@ -68,6 +178,28 @@
 <description>Ava Labs said Avalanche will serve as the “core ledger technology” for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 trading, clearing and settlement of tokenized securities onchain.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Hilton Is Whisking Strangers Away to Mystery Destinations. Here’s the Business Lesson Behind It.</title>
+<link>https://www.entrepreneur.com/business-news/hilton-is-whisking-strangers-away-to-mystery-destinations-heres-the-business-lesson-behind-it</link>
+<guid isPermaLink="false">125892d2b74ac751d58f9b667d6eb16d9feb48949841dcf093c61aca3375359a</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 15:45:00 +0000</pubDate>
+<description>Hilton marketing executive Dan Reynolds and comedian Heather McMahan explain what travelers are truly craving, and what any business can learn from listening closely to its customers.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Heather-McMahan-x-Hilton_Whisk-Away-_Photo-by-Kevin-Mazur_Getty-Images-for-Hilton-4.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Heather-McMahan-x-Hilton_Whisk-Away-_Photo-by-Kevin-Mazur_Getty-Images-for-Hilton-4.jpg" medium="image"/>
+</item>
+<item>
+<title>Elon Musk Is Killing Cybertrucks — But Says Telsa Needs to Add an Extra Shift to Get Backlog Orders Done Before Production Ends</title>
+<link>https://www.entrepreneur.com/business-news/tesla-is-killing-cybertruck-production-but-musk-says-it-needs-to-add-an-extra-shift-to-get-backlog-orders-done</link>
+<guid isPermaLink="false">b38ac095d68dcede05824d9983cbbc9fc03458c185749a8eb7ab4de3b14ca01f</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 15:00:00 +0000</pubDate>
+<description>Tesla's CEO says demand is bigger than the factory can handle before the space shifts to building Tesla’s Cybercabs.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/tesla-cybertruck-production-1126_g2292008446.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/tesla-cybertruck-production-1126_g2292008446.jpg" medium="image"/>
 </item>
 <item>
 <title>U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too</title>
@@ -103,6 +235,17 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/05/Strives-SATA-Briefly-Swallows-the-Entire-Bitcoin-Mining-Daily-Supply-As-BTC-Purchases-Ramp-Up.jpg" medium="image"/>
 </item>
 <item>
+<title>Jensen Huang Had an Affair: ‘There Is No Excuse for What I Did.’ Now Nvidia Wants to Know If His Mistress Was a Chinese Spy.</title>
+<link>https://www.entrepreneur.com/business-news/jensen-huang-had-an-affair-there-is-no-excuse-for-what-i-did-now-nvidia-wants-to-know-if-his-mistress-was-a-chinese-spy</link>
+<guid isPermaLink="false">5000fd1df59628665727b5aabfd815f5f88f3e7f561ebf14eccd144347325fda</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 14:24:42 +0000</pubDate>
+<description>In a scandal straight out of Hollywood, U.S. officials say the chip partner executive may have been targeted by the Chinese government.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/jense-huang-affair-1126_g2301620664.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/jense-huang-affair-1126_g2301620664.jpg" medium="image"/>
+</item>
+<item>
 <title>Coinbase Wins Full Federal Trust Charter From OCC</title>
 <link>https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter</link>
 <guid isPermaLink="false">f7ac635f205ca1e32a51f18695d3802ec949edc631f128df4bd228f572882a02</guid>
@@ -112,6 +255,28 @@
 <description>Bitcoin Magazine Coinbase Wins Full Federal Trust Charter From OCC Coinbase has won a full national trust bank charter from the Office of the Comptroller of the Currency, upgrading the conditional approval it received in April and putting its institutional custody business under direct federal supervision, the exchange said Monday. The OCC approved the application for Coinbase National Trust Company last Friday, the company said in a blog post. OCC licensing records, as reported, show the chartering process was completed Nov. 6. Coinbase applied in October 2025 and received preliminary approval on April 2. In the intervening months it had to finish its organizational and operational preparations before the OCC would let the trust bank open. “This charter allows us to bring clear and consistent federal uniformity to our industry-leading custody capabilities,” Coinbase wrote, adding that it strengthens the regulatory framework under which it serves customers. The company said it has served as a custodian for more than 14 years. What the charter allows A national trust bank can hold assets for clients as a fiduciary, and Coinbase’s focus is custody for institutional customers. It is not a commercial bank. It cannot take ordinary retail deposits or make loans, and the charter does not authorize it to issue stablecoins. Staking, prime trading and financing will keep running through Coinbase affiliates, not the trust itself. Under the OCC’s April decision, the trust bank acts as an intermediary for those services and does not perform them directly. The decision also sets conditions. The trust bank must hold at least $60 million in Tier 1 capital and enough liquid assets to cover 180 days of operating expenses during its first three years. The license does not automatically connect Coinbase to Federal Reserve payment systems either. That requires a separate application under the Fed’s account access guidelines. Coinbase already runs custody through Coinbase Custody Trust Company, a limited-purpose trust regulated by the New York State Department of Financial Services. The company plans to move that business to the national entity over three years. A crowded charter queue Coinbase is the latest crypto firm to complete a federal trust charter. Ripple received final approval on Oct. 26, and Circle won final OCC approval in July, a decision that put USDC reserves on a path toward federal supervision. The OCC has been courting the sector. In August, Comptroller Jonathan V. Gould said “America and the OCC are once again open for business,” as the regulator touted its charter push. Ripple, Circle, Crypto.com and Paxos had all received conditional approval by then. Block applied for its own banking charter in September. The approval did not come without resistance. The Independent Community Bankers of America urged the OCC in December to reject Coinbase’s application, arguing the exchange has “demonstrably flawed risk and control functions.” The American Banker</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Coinbase-Wins-Full-OCC-National-Trust-Charter.jpg" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Coinbase-Wins-Full-OCC-National-Trust-Charter.jpg" medium="image"/>
+</item>
+<item>
+<title>She Sold Poppi for $1.95 Billion. Now She’s Launching a New Hydration Brand.</title>
+<link>https://www.entrepreneur.com/business-news/she-sold-poppi-for-1-95-billion-now-shes-launching-a-new-hydration-brand</link>
+<guid isPermaLink="false">a46de96ee972ea758444ad9b1c9604b00f90ebac0d1562a1b894f62dde338397</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>
+<description>Here are 5 things they learned from Poppi, which they'll use to grow Jetty.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/FamilyShot_260916_Jetty_Launch_Photoshoot31432_BYH_1-1-copy.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/FamilyShot_260916_Jetty_Launch_Photoshoot31432_BYH_1-1-copy.jpg" medium="image"/>
+</item>
+<item>
+<title>How AI Agents Are Helping Companies Scale Their Marketing</title>
+<link>https://www.entrepreneur.com/business-news/tech/how-ai-agents-are-helping-companies-scale-their-marketing</link>
+<guid isPermaLink="false">45b7c2ce24c7004638904f4e945bd23c9c5baa65d2947cab57d754423274c77b</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 13:55:00 +0000</pubDate>
+<description>Here's how AI agents can help companies scale marketing by combining skills, tools and context into an agentic marketing operating model.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/ai-agent-marketing-engine-1026_g2260005104.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/ai-agent-marketing-engine-1026_g2260005104.jpg" medium="image"/>
 </item>
 <item>
 <title>Analysts see no broader ‘contagion’ from $6.3B Binance hack</title>
@@ -488,28 +653,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg" medium="image"/>
 </item>
 <item>
-<title>Being ‘Good at Social Media’ Isn’t Enough to Run Your Business Accounts. Here’s What Is.</title>
-<link>https://www.entrepreneur.com/building-a-business/being-good-at-social-media-isnt-enough-to-run-your-business-accounts-heres-what-is</link>
-<guid isPermaLink="false">417b0ce7b79e943adbf28ff2f4955f13deaa5d1725de7b94484517216045482c</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 22:30:00 +0000</pubDate>
-<description>Invest in training your team, and your social media stops being a question mark and starts becoming one of your strongest business assets.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/social-media-business-account-1126_g2256856352.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/social-media-business-account-1126_g2256856352.jpg" medium="image"/>
-</item>
-<item>
-<title>U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows</title>
-<link>https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system</link>
-<guid isPermaLink="false">e9d42680eca04b424a59229254b45afa2654cfa0dc3508965d4b32345628b00c</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 21:28:56 +0000</pubDate>
-<description>Bitcoin Magazine U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows The U.S. Treasury’s Financial Crimes Enforcement Network issued a final order Friday that will cut offshore exchange MEXC Global off from the American banking system over alleged links to sanctions evasion by Iran, North Korea and Russia, the department said . FinCEN’s order, published as a PDF pending Federal Register placement, finds MEXC a “primary money laundering concern in connection with Russian illicit finance” under section 9714(a) of the Combating Russian Money Laundering Act. Thirty days after that Register notice, covered U.S. financial institutions will be barred from any funds transfer — including convertible virtual currency — to or from MEXC. Reuters reported the same cut-off Friday afternoon. Treasury framed the move as part of Operation Economic Outcast. It is not an OFAC sanctions designation: the order says it does not rewrite Bank Secrecy Act duties or OFAC rules, and it is a FinCEN funds-transmittal ban rather than a Section 311 proposed rulemaking. Treasury alleges MEXC facilitated at least $16 billion in illicit flows from May 2021 through May 2026, including nearly $1.5 billion tied to Russian sanctions evasion and about $22 million linked to Iran’s Central Bank and the Islamic Revolutionary Guard Corps’ Qods Force. The platform was still processing trades with sanctioned Garantex and successor Grinex as recently as June 2026, more than four years after OFAC designated Garantex, the release says. What the order does — and when The order , signed by FinCEN Deputy Director Jimmy L. Kirby, covers MEXC Global and named affiliates operating outside the United States, including Seychelles-incorporated MEXC Global Ltd / MX Global Ltd, Estonia’s MEXC Estonia OÜ, Switzerland’s GIDA Technology AG and the U.K.’s MXC Global Ltd, plus successors. Covered institutions face civil or criminal penalties for willful violations. Until the Federal Register publishes the notice, the 30-day clock has not started. As of Friday evening eastern time the Register’s public index still showed no MEXC document, matching the order’s own cover note that publication is pending. Background on MEXC Founded in 2018 and formerly branded MXC, MEXC ranks among the world’s 20 largest centralized crypto venues by volume. Treasury puts daily turnover above $1 billion and reserves near $5 billion as of mid-2026, with access claimed across more than 170 countries. The exchange already lists the United States as a prohibited jurisdiction in its user terms, so Friday’s action mainly hits any remaining dollar rails, banking partners and counterparties that still touch U.S. institutions. Regulators elsewhere have been circling for years. The U.K. Financial Conduct Authority put MEXC Global Ltd on its warning list in March 2024 as unauthorized. Hong Kong’s Securities and Futures Commission warned the same month that the platform was marketing to local inves</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Senator-Clarity-Act-is-Almost-There-Treasury-Secretary-Puts-It-at-the-1-Yard-Line.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Senator-Clarity-Act-is-Almost-There-Treasury-Secretary-Puts-It-at-the-1-Yard-Line.jpg" medium="image"/>
-</item>
-<item>
 <title>Treasury Cuts Crypto Exchange MEXC Off From US Financial System</title>
 <link>https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system</link>
 <guid isPermaLink="false">36177d33aff2e6e2190f56a6f326b0dc5eb7b8c2988a0532820548f179a2b790</guid>
@@ -576,17 +719,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S0G0RDKT5WK8GZZHWMB7ZP/hi-token-burning-explained-sec-1.png" medium="image"/>
 </item>
 <item>
-<title>How to Properly Lead a Team When the Founder Still Calls Every Shot</title>
-<link>https://www.entrepreneur.com/building-a-business/how-to-properly-lead-a-team-when-the-founder-still-calls-every-shot</link>
-<guid isPermaLink="false">2ec3d0396bf39bd1ff237f13bb9761842a1c888718bbb2960370ca385f6be397</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 20:00:00 +0000</pubDate>
-<description>Reporting to a founder is different from reporting to a manager. Here are four ways to make this special relationship work.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/leading-a-team-founder-1026_g2227637087.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/leading-a-team-founder-1026_g2227637087.jpg" medium="image"/>
-</item>
-<item>
 <title>Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker</title>
 <link>https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker</link>
 <guid isPermaLink="false">7713e04e394c5f83463fb7816602bc41150b26a034bdcbe5d4d06c1d2fb9df9e</guid>
@@ -598,28 +730,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Your Customers Are Using AI Search. They’re Still Googling You, Too. Here’s What Your Marketing Strategy Might Be Missing.</title>
-<link>https://www.entrepreneur.com/building-a-business/customers-use-ai-search-still-googling-you</link>
-<guid isPermaLink="false">cc42fd48af4b8d07999ede9410959fd42939cd8679b7bdda45b6a9cee04d4a00</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 19:30:00 +0000</pubDate>
-<description>A new audience-overlap finding is a useful corrective to the idea that AI search is replacing Google. And it changes how businesses should think about discovery and measurement.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/ai-google-search-marketing-1026_g2238549222.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/ai-google-search-marketing-1026_g2238549222.jpg" medium="image"/>
-</item>
-<item>
-<title>Tight Budget? This Familiar Destination Could Help You Cut Expenses.</title>
-<link>https://www.entrepreneur.com/business-news/tight-budget-this-familiar-destination-could-help-you-cut-expenses</link>
-<guid isPermaLink="false">ba0759c45058c724c8b83482cef98bd9e45c6cb9df07e8d9f9ff00c5d2647aaa</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 19:21:55 +0000</pubDate>
-<description>With less room in their budgets, people are turning to a familiar resource they may have overlooked.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/library-1126_g2276504299-new.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/library-1126_g2276504299-new.jpg" medium="image"/>
-</item>
-<item>
 <title>Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears</title>
 <link>https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears</link>
 <guid isPermaLink="false">e673029c6f34dfa00f3ce11b6fe8c6d8a356fa0aa1a3d08992f704984f4ce714</guid>
@@ -629,17 +739,6 @@
 <description>Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/paraguay-flag-protests-banks-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/paraguay-flag-protests-banks-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Your Business May Be Invisible to AI. Here Are 7 Simple Fixes You Can Make This Week.</title>
-<link>https://www.entrepreneur.com/building-a-business/how-to-improve-ai-visibility-for-businesses</link>
-<guid isPermaLink="false">93396a4884e877e459f7087ebfde1bdb155a56bf813d46bd01aea7c9367dfe39</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 19:00:00 +0000</pubDate>
-<description>Learn how to improve AI visibility with seven practical website, content and credibility fixes that help customers discover and evaluate your business.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/business-invisible-to-ai-1026-g-2156161117.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/business-invisible-to-ai-1026-g-2156161117.jpg" medium="image"/>
 </item>
 <item>
 <title>Russia finalizes crypto trading rules ahead of Nov. 17 rollout</title>
@@ -675,28 +774,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg" medium="image"/>
 </item>
 <item>
-<title>How I Built a Fully Remote Global Team Without Spending a Dollar on Job Ads or Recruiters</title>
-<link>https://www.entrepreneur.com/building-a-business/how-i-built-a-fully-remote-global-team-without-spending-a-dollar-on-job-ads-or-recruiters</link>
-<guid isPermaLink="false">09b74ff243a82f8124db9d4cfdcad31028d52cab807878bed02e859859253951</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 18:00:00 +0000</pubDate>
-<description>Solopreneurs that provide digital services have a world of talent at their disposal. Here is how to leverage it.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/remote-global-team-1026_g1883230014.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/remote-global-team-1026_g1883230014.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin price dips under $75K as crypto markets miss tech-stock rebound</title>
-<link>https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock</link>
-<guid isPermaLink="false">58670b798c89f2e04bf5f52d8e2eba329e0615b49ebb139ca1429b405107a9d6</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 17:49:33 +0000</pubDate>
-<description>BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp" type="image/webp"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp" medium="image"/>
-</item>
-<item>
 <title>US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group</title>
 <link>https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group</link>
 <guid isPermaLink="false">a18a64a17e35b9b3a05d359dc329209bba99e5256a9bc08a08708ad2d03e391b</guid>
@@ -719,17 +796,6 @@
 <media:content url="https://imgproxy.divecdn.com/8uYw98b7-rAHdn78JuE5uNBFZBJa5p46cWyI7wZQDR8/g:nowe:8:1/c:1013:572/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5MzU5NDQyLmpwZw==.webp" medium="image"/>
 </item>
 <item>
-<title>This Violinist Beat 350,000 Applicants to Become Snoop Dogg’s $10,000-a-Month Ice Cream Taster — Here’s How She Struck a Chord</title>
-<link>https://www.entrepreneur.com/business-news/this-violinist-beat-350000-applicants-to-become-snoop-doggs-10000-a-month-ice-cream-taster</link>
-<guid isPermaLink="false">8e1ff548a14478de80d018a414617aa4f9c680b039220fa8c055d4e008dd968a</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
-<description>Concert violinist Annabelle Traves explains how she scored a $10,000-a-month gig tasting ice cream for Snoop Dogg’s company</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Dr-Bombay-Annabelle-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Dr-Bombay-Annabelle-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data</title>
 <link>https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data</link>
 <guid isPermaLink="false">8bc0fc9d9ac903f75238c35f9cea4bdf2faa3c95e86fcb2aa4b46a8b9f73456b</guid>
@@ -739,17 +805,6 @@
 <description>Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>After Elizabeth Holmes Ate His Product, Everything Changed for His Business: ‘This Publicity, It’s in the Millions of Dollars’</title>
-<link>https://www.entrepreneur.com/business-news/after-elizabeth-holmes-ate-his-product-everything-changed-for-his-business</link>
-<guid isPermaLink="false">23cb036329e78776849aa0745610e2f3fedeb205d7a5c53035e7d66d4ea0bb5b</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 16:37:39 +0000</pubDate>
-<description>Ricky Hirsch, founder of Think Jerky, was "overwhelmed" when his brand appeared on screen.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Me_69985e-e1793911746193.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Me_69985e-e1793911746193.jpg" medium="image"/>
 </item>
 <item>
 <title>Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low</title>
@@ -796,17 +851,6 @@
 <media:content url="https://imgproxy.divecdn.com/GEITUnz57EIb7kkZjPzyXdPf-JCKjgSkjarp_CgrpAU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTkNfQnJhbmNoX0RlbnZlcl9oaS1yZXMucG5n.webp" medium="image"/>
 </item>
 <item>
-<title>What Democrats’ US midterm sweep means for the CLARITY Act</title>
-<link>https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress</link>
-<guid isPermaLink="false">8ac88eb0977bc572a54dc07dad9a1f537573b212b34fc8d75d1a5dacdb5abf6b</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 14:30:00 +0000</pubDate>
-<description>The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R79GK8R2493NTQFW6VGRDS/magazine-republicans-vs-democrats-and-crypto-as-a-point-of-contention.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R79GK8R2493NTQFW6VGRDS/magazine-republicans-vs-democrats-and-crypto-as-a-point-of-contention.jpg" medium="image"/>
-</item>
-<item>
 <title>AI protocols fuel ‘code red’ at big banks, fintech CEO says</title>
 <link>https://www.bankingdive.com/news/ai-agent-protocols-bank-access-socure-pnc-fifth-third-fraud-aml-kyc/873970</link>
 <guid isPermaLink="false">c6fae481406c533ba984c5f2c525eaefa8c5e15430e2d5d43124e6dbeae9120f</guid>
@@ -827,17 +871,6 @@
 <description>The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Nigeria sets new crypto licensing rules, bans algorithmic stablecoins</title>
-<link>https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing</link>
-<guid isPermaLink="false">a09b24eba92952c288c972b98e6922f875319963c8c729364b9884d996be525c</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 13:57:14 +0000</pubDate>
-<description>Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RFZC8EDJXT26642DWHC0EV/hi-the-crypto-act-explained-nigeria-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RFZC8EDJXT26642DWHC0EV/hi-the-crypto-act-explained-nigeria-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI</title>
@@ -1027,17 +1060,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Wells Fargo exec sees ‘now or never’ M&amp;A attitude</title>
-<link>https://www.bankingdive.com/news/wells-fargo-corporate-investment-banking-deals-2028/873881</link>
-<guid isPermaLink="false">3631cdf8f67f8f7cf8a6e509c000713e93399417fba1da29ae6ffb44c2481eff</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 16:42:34 +0000</pubDate>
-<description>Incoming Democratic majorities will prompt dealmaking urgency, said Wells corporate and investment banking CEO Fernando Rivas, who also discussed the bank’s approach to AI infrastructure financing.</description>
-<enclosure url="https://imgproxy.divecdn.com/IKom7Ylay65EwwGI2LERm5H6zKxm8ZER-ZWeO79De6E/g:nowe:84:36/c:2916:1647/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzUyMy5qcGc=.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/IKom7Ylay65EwwGI2LERm5H6zKxm8ZER-ZWeO79De6E/g:nowe:84:36/c:2916:1647/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzUyMy5qcGc=.webp" medium="image"/>
-</item>
-<item>
 <title>Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report</title>
 <link>https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report</link>
 <guid isPermaLink="false">8f7c445872a1df02e987ad2e4ceb4248bb38b66bc54e19cf440a1fce98c62361</guid>
@@ -1047,16 +1069,5 @@
 <description>Analysts said that the Clarity Act's path has become tougher, while advocacy group Stand With Crypto has endorsed 27 winning candidates so far.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out</title>
-<link>https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs</link>
-<guid isPermaLink="false">4a516dc4a638089c9405eefbbdb477b30dbb02dee449b183fa132357dd1f0d4c</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 16:29:11 +0000</pubDate>
-<description>Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fresh policy questions, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg" medium="image"/>
 </item>
 </channel></rss>

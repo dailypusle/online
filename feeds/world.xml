@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon'</title>
+<link>https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621</link>
+<guid isPermaLink="false">5e61f2800ea8b24eecf8e016c24be78d885686820d85d9656e9e50c1e2d01bca</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 10 Nov 2026 10:00:13 +0000</pubDate>
+<description>American, Ukrainian and Russian representatives gathered in Abu Dhabi on Tuesday for their latest round of trilateral peace talks.</description>
+<enclosure url="https://s.abcnews.com/images/International/Ukraine-troops-DB-261110_1794295981055_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/Ukraine-troops-DB-261110_1794295981055_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Iran live updates: Trump says US will maintain 'status quo' with Tehran</title>
 <link>https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi?id=137967256</link>
 <guid isPermaLink="false">4727bff5af62f0b71f7e8cf793978204fdaf806a50b1ddbdbe3c74d8434bbb88</guid>
@@ -37,26 +48,15 @@
 <media:content url="https://s.france24.com/media/display/7a7a3c24-dcda-11f1-9a72-f71d22e7fea9/w:1024/p:16x9/da8f65893059c2a60634f440f726825d42694898.jpg" medium="image"/>
 </item>
 <item>
-<title>California's Prop 40 'billionaires' tax' measure is rejected, AP projects</title>
-<link>https://abcnews.com/Politics/californias-prop-40-billionaires-tax-measure-rejected-ap/story?id=137999519</link>
-<guid isPermaLink="false">aad90fbb87bab35fc896fcc4b0e22fbd6c684cc214b15e38d49cb53ae757a0a9</guid>
-<source>ABC News Top Stories</source>
+<title>Hundreds more prisoners being released early</title>
+<link>https://news.sky.com/story/hundreds-more-prisoners-being-freed-early-in-latest-wave-of-scheme-13610445</link>
+<guid isPermaLink="false">baecec8be56a3a7879af3162643c06e5aa0ec7ef7db21fd4925cf81f3f3da757</guid>
+<source>Sky News Home</source>
 <category>world</category>
-<pubDate>Tue, 10 Nov 2026 07:02:19 +0000</pubDate>
-<description>The tax was introduced in response to steep cuts to California's healthcare funding that resulted from the passage of President Donald Trump's "Big Beautiful Bill."</description>
-<enclosure url="https://s.abcnews.com/images/Business/tax-rt-er-261103_1793733349710_hpMain_2_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Business/tax-rt-er-261103_1793733349710_hpMain_2_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>G7 attention turns to Ukraine while US-mediated talks get underway in Abu Dhabi</title>
-<link>https://abcnews.com/International/wireStory/g7-attention-paris-turns-ukraine-us-mediated-talks-138001993</link>
-<guid isPermaLink="false">0cc9d15ae2dfcfc3a7d8c53b30b689fff21a9d7ef59e25896e891be9db50d674</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 10 Nov 2026 06:57:41 +0000</pubDate>
-<description>U.S. Secretary of State Marco Rubio and his counterparts from the Group of 7 developed democracies are turning their attention toward Ukraine and how to support it in its struggle to defend itself from Russia</description>
-<enclosure url="https://s.abcnews.com/images/International/wirestory_49f273e626ca4bab0e5a2d32e4943014_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/wirestory_49f273e626ca4bab0e5a2d32e4943014_16x9_1600.jpg" medium="image"/>
+<pubDate>Tue, 10 Nov 2026 06:37:00 +0000</pubDate>
+<description>Hundreds more prisoners are being released early this morning, as part of a scheme to ease overcrowding in Britain's jails.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-prisoner-release-hmp-wandsworth_7402767.jpg?20261110093552" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-prisoner-release-hmp-wandsworth_7402767.jpg?20261110093552" medium="image"/>
 </item>
 <item>
 <title>Teddy Riner announces candidacy for French presidential elections</title>
@@ -65,7 +65,7 @@
 <source>France 24</source>
 <category>world</category>
 <pubDate>Tue, 10 Nov 2026 06:35:05 +0000</pubDate>
-<description>Teddy Riner has announced his candidacy for the 2027 French presidential elections, against a backdrop of political tension across France.</description>
+<description>Judo star Teddy Riner has announced his candidacy for the 2027 French presidential elections, against a backdrop of political tension across France.</description>
 <enclosure url="https://s.france24.com/media/display/1ce5d6ca-dc73-11f1-b3f0-a575454bc579/w:1024/p:16x9/AP26313423095961.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/1ce5d6ca-dc73-11f1-b3f0-a575454bc579/w:1024/p:16x9/AP26313423095961.jpg" medium="image"/>
 </item>
@@ -246,6 +246,17 @@
 <media:content url="https://s.france24.com/media/display/fd78160c-dc88-11f1-88e7-a575454bc579/w:1024/p:16x9/EN-20261109-223117-224317-CS.jpg" medium="image"/>
 </item>
 <item>
+<title>Supreme Court lifts pause on border construction in Big Bend, Texas</title>
+<link>https://abcnews.com/Politics/supreme-court-lifts-pause-border-construction-big-bend/story?id=137988610</link>
+<guid isPermaLink="false">fcef889e8f8f901ccd870e8bff6d22a4ea5cf42a111fb1c3424cb656cebc8a41</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 22:16:11 +0000</pubDate>
+<description>The construction will include physical walls, access roads and vehicle barriers, according to Trump administration plans.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/supreme-gty-er-190320_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/supreme-gty-er-190320_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>UK writer M. John Harrison wins Booker Prize for AI-tinged apocalyptic novel</title>
 <link>https://www.france24.com/en/europe/20261109-uk-writer-m-john-harrison-wins-booker-prize-for-ai-tinged-apocalyptic-novel</link>
 <guid isPermaLink="false">baced25ef4adf4f0d47665d363eb7734beebaef216203d112a77099d72bdcf9b</guid>
@@ -257,13 +268,13 @@
 <media:content url="https://s.france24.com/media/display/4a8ae5c2-dc8a-11f1-aa1e-695cb59fade5/w:1024/p:16x9/b494e954a69a687575dd83c9c41ab832139bc0fd.jpg" medium="image"/>
 </item>
 <item>
-<title>South Africa’s ANC suffers historic setback in local elections as coalition talks begin</title>
+<title>South Africa's ANC suffers historic setback in local elections as coalition talks begin</title>
 <link>https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin</link>
 <guid isPermaLink="false">3da15ef6ee92adc5c0f7353dc72fde8d5be73e1b495dbb11c5c556b2a83beb65</guid>
 <source>France 24</source>
 <category>world</category>
 <pubDate>Mon, 09 Nov 2026 21:54:11 +0000</pubDate>
-<description>South Africa’s ruling ANC suffers its worst-ever local election results, securing just 30 percent of the vote, as coalition talks loom. Meanwhile, former Ugandan military intelligence officer Herbert Matanda Mabonga accuses the army of secretly detaining and torturing opponents, following the release of videos that sparked national outrage. Finally, in Senegal, more than 200,000 free tickets are giving young people the chance to experience the Youth Olympic Games live on home soil, in a bid to inspire a new generation of athletes.</description>
+<description>South Africa's ruling ANC suffers its worst-ever local election results, securing just 30 percent of the vote, as coalition talks loom. Meanwhile, former Ugandan military intelligence officer Herbert Matanda Mabonga accuses the army of secretly detaining and torturing opponents, following the release of videos that sparked national outrage. Finally, in Senegal, more than 200,000 free tickets are giving young people the chance to experience the Youth Olympic Games live on home soil, in a bid to inspire a new generation of athletes.</description>
 <enclosure url="https://s.france24.com/media/display/346c3b5e-dc87-11f1-b0e6-bf1914cabd52/w:1024/p:16x9/capture-aa965032.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/346c3b5e-dc87-11f1-b0e6-bf1914cabd52/w:1024/p:16x9/capture-aa965032.jpg" medium="image"/>
 </item>
@@ -587,17 +598,6 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-aliaga-turkey-fire_7402157.jpg?20261109131735" medium="image"/>
 </item>
 <item>
-<title>Trump believes Iran war 'militarily is effectively over'</title>
-<link>https://news.sky.com/story/positive-momentum-towards-end-to-iran-war-trump-says-13610128</link>
-<guid isPermaLink="false">ecd5356c079f86addc4159d768502c86be7549faf94cc70577ef974833311bc5</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Mon, 09 Nov 2026 10:52:00 +0000</pubDate>
-<description>President Donald Trump speaks in the James Brady Press Briefing Room at the White House Monday, Nov. 9, 2026, in Washington. (AP Photo/Alex Brandon)</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-trump-press-conference_7402604.jpg?20261110012038" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-trump-press-conference_7402604.jpg?20261110012038" medium="image"/>
-</item>
-<item>
 <title>Why a South Korean city is turning to a U.S. college to outsmart AI?</title>
 <link>https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai</link>
 <guid isPermaLink="false">323a05ab7de5a706987038049bace2a1d9e40cfdb4c335302f349a059de9d48d</guid>
@@ -629,17 +629,6 @@
 <description>Following Tuesday's "blue wave," Democrats have vowed to reign in ICE's power. What could they actually accomplish? (Image credit: Andrew Caballero-Reynolds)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7840x5200+0+0/resize/7840x5200!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F04%2F306e17864f1eb9deaa70f95efa6d%2Fgettyimages-2262725884.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7840x5200+0+0/resize/7840x5200!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F04%2F306e17864f1eb9deaa70f95efa6d%2Fgettyimages-2262725884.jpg" medium="image"/>
-</item>
-<item>
-<title>On wild Cumberland Island, a land swap proposal stirs controversy</title>
-<link>https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal</link>
-<guid isPermaLink="false">3d94461999da4f0236b12b060f580c9ba73aefd1bcbd897ce874e84e715ae264</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Mon, 09 Nov 2026 10:00:00 +0000</pubDate>
-<description>Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it. (Image credit: Malcolm Jackson for NPR)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7728x5152+0+0/resize/7728x5152!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F5e%2Fcb4d96264f14a6bd361de7dc6079%2Fdscf2242.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7728x5152+0+0/resize/7728x5152!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F5e%2Fcb4d96264f14a6bd361de7dc6079%2Fdscf2242.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump says 'too tough' deportation policies hurt him in the midterms</title>
@@ -684,6 +673,28 @@
 <description>Governor-elect Keisha Lance Bottoms joins "This Week" to discuss Democrats' sweeping victories, and her historic win in formerly red Georgia.</description>
 <enclosure url="https://s.abcnews.com/images/Politics/TW_Keisha_Lance_Botoms_ABC_CW_20261108_1794151993755_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Politics/TW_Keisha_Lance_Botoms_ABC_CW_20261108_1794151993755_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Republican takes step to force vote to impeach Pete Hegseth</title>
+<link>https://news.sky.com/story/republican-congressman-moves-to-force-a-vote-to-impeach-pete-hegseth-13609811</link>
+<guid isPermaLink="false">8a1e212e81cd054463ced532071d48b1ba300be1541961d1a1d90dba3396ab66</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Sun, 08 Nov 2026 16:31:00 +0000</pubDate>
+<description>A Republican congressman has taken steps to force a vote to impeach US defence secretary Pete Hegseth.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-massie-usa_7402513.jpg?20261109211140" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-massie-usa_7402513.jpg?20261109211140" medium="image"/>
+</item>
+<item>
+<title>Seven dead and 114 injured in train crash near Cairo</title>
+<link>https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748</link>
+<guid isPermaLink="false">c18c75ae93951feb994d5c18c8ff83a415e912b7ed4ea8266c9a8b4c2d592df2</guid>
+<source>Sky News World</source>
+<category>world</category>
+<pubDate>Sun, 08 Nov 2026 14:55:00 +0000</pubDate>
+<description>At least seven people have died and more than 100 have been left injured in a major train crash south of Cairo, according to the Egyptian Chief Prosecutor’s office.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-egypt-train-derailed_7401023.jpg?20261108152839" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-egypt-train-derailed_7401023.jpg?20261108152839" medium="image"/>
 </item>
 <item>
 <title>Finland's navy chief says Russia's presence in the Baltic Sea may have peaked for now</title>

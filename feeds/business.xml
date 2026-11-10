@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting</title>
+<link>https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains</link>
+<guid isPermaLink="false">06de0c73462de2a216350bc5ef7a8eb7090c025e119302560b234e5460db84c2</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 21:36:03 +0000</pubDate>
+<description>Truth Social’s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/donald-trump-bitcoin-statue2-gID_7.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/donald-trump-bitcoin-statue2-gID_7.jpeg" medium="image"/>
+</item>
+<item>
+<title>Can crypto trust firms compete with banks in US derivatives settlements?</title>
+<link>https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements</link>
+<guid isPermaLink="false">1721751412ec6bfb8481215aab10caf9334dc9d83f6e73aee4b3145637d29c65</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 21:34:40 +0000</pubDate>
+<description>Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M737F90C6VC7KHFB6CAJGABZ/hi-bank-of-international-settlements-and-crypto.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M737F90C6VC7KHFB6CAJGABZ/hi-bank-of-international-settlements-and-crypto.png" medium="image"/>
+</item>
+<item>
+<title>LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds</title>
+<link>https://bitcoinmagazine.com/news/lnbits-releases-1-7-0-urgent-security-update-after-november-8-attacks-drain-funds</link>
+<guid isPermaLink="false">1f0c07f31fbd2fd00bd3552a81cb8a26f84aabeccd5cf3d88c57b575fea6f535</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 21:32:45 +0000</pubDate>
+<description>Bitcoin Magazine LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds LNbits, the open-source Lightning Network wallet and accounts platform, released version 1.7.0 on November 10 as an urgent security update and instructed all operators to upgrade before restarting their servers. The project’s official X account posted the announcement with a link to the GitHub release , calling it a “SECURITY UPDATE”. The release follows a wave of attacks that began over the weekend. On November 8, LNbits posted on X that all users should stop their LNbits servers immediately after reporting active attacks, adding that security patches were being prepared and that it was “better to err on the side of caution.” The project also disabled instances on its hosted service. Multiple reports documented unauthorized account creation and fund withdrawals. Kevin Ravensberg , operator of the Telegram tipping service BitTipBot, publicly stated that attackers created new accounts on his instance and withdrew 2,285,545 satoshis (approximately 0.0229 BTC) between roughly 09:22 and 14:00 UTC on November 8. According to the official upgrade guidance published alongside the release, versions prior to 1.7.0 are affected and “funds running on prior versions of LNbits are at risk of being stolen.” The project stated that 1.7.0 includes security fixes in response to the incident discovered on November 8 and that a full technical report on the exploit will follow. Operators are advised to set up a fresh server if compromise is suspected, because updating alone cannot remove access an attacker may already have gained. Additional recovery steps include rotating all user wallet keys as Super Admin, replacing funding-source credentials (API keys or macaroons), rotating other secrets stored in settings, and reviewing or re-creating connections for extensions such as NWC Provider, LNDHub, Bolt Cards, TPOS, Bleskomat, and FOSSA. The GitHub release notes describe extensive security hardening across authentication, extension management, and payment handling, plus dependency updates. New features shipping with the version include on-chain wallet support, BOLT12 offer payments, TOTP two-factor authentication, NIP-17 support, a job scheduler, automatic extension updates, and hold invoice support for the LNbits funding source. The project notes that LNbits functions as a hot wallet and that operators should keep only operational balances online, regularly review activity, and move excess funds to offline keys. LNbits was founded as a free and open-source project in 2019 by Ben Arc and later incorporated a commercial entity to support development. It provides multi-user accounts and a large suite of extensions on top of any Lightning funding source (including LND and Core Lightning). Bitcoin Magazine profiled the project in September 2024, describing it as “ the WordPress for your Bitcoin Lightning node ” noting its widepsread use by individuals, businesses, and node o</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-5.webp" type="image/webp"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-5.webp" medium="image"/>
+</item>
+<item>
+<title>Across Protocol warns users to avoid app amid reports of drained wallets</title>
+<link>https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets</link>
+<guid isPermaLink="false">434c16f2d3fcb40763c2bbfb6647fbdb571d86d8dcfe797337f6034fdc723611</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 21:24:36 +0000</pubDate>
+<description>The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73K15YFN3A2NRTYKWZDD5KZ/hi-company-hits-vulnerability-1.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73K15YFN3A2NRTYKWZDD5KZ/hi-company-hits-vulnerability-1.png" medium="image"/>
+</item>
+<item>
+<title>Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’</title>
+<link>https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains</link>
+<guid isPermaLink="false">a238319a4a73b1bc7dde15abb2024368e2290a3f9dbcff5836a8485e8ec70c03</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 21:07:44 +0000</pubDate>
+<description>Ava Labs’ John Nahas said the collaboration with the NYSE shows institutions moving past pilots toward purpose-built onchain market infrastructure.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71CKZSV2TF2K3QA6GMNV1K0/ava-labs-token-edit.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71CKZSV2TF2K3QA6GMNV1K0/ava-labs-token-edit.png" medium="image"/>
+</item>
+<item>
 <title>Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena</title>
 <link>https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena</link>
 <guid isPermaLink="false">41abfaee6024979dafa7184e6e01a1ae304516f80b2e1945583e4137361095ca</guid>
@@ -81,17 +136,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>I Made a Mistake That Cost Me Everything. Rebuilding My Life and Career Taught Me These 2 Essential Leadership Lessons.</title>
-<link>https://www.entrepreneur.com/building-a-business/i-made-a-mistake-that-cost-me-everything-rebuilding-my-life-and-career-taught-me-these-2-essential-leadership-lessons</link>
-<guid isPermaLink="false">42df9e874e7d6c57d9327310bc4701fcdbd2cad194607261cd568b67de5abd1c</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
-<description>What does it take to rebuild after your worst decision?</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/rebuilding-life-and-career-lessons-1126_g1830679721.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/rebuilding-life-and-career-lessons-1126_g1830679721.jpg" medium="image"/>
-</item>
-<item>
 <title>Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants</title>
 <link>https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants</link>
 <guid isPermaLink="false">096eb044f31b0c64d4410d59d553420ff74cf081cad3c7d616d674e809c641b6</guid>
@@ -114,61 +158,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M732NFDQVGSJE1VGENNVNKQT/trading-app-crypto-messenger-phone.jpg" medium="image"/>
 </item>
 <item>
-<title>Stop Treating Media Coverage Like a Trophy. Put It to Work For Your Business.</title>
-<link>https://www.entrepreneur.com/building-a-business/stop-treating-media-coverage-like-a-trophy-put-it-to-work-for-your-business</link>
-<guid isPermaLink="false">a02d742b4d05621e808519cf1b89b9149a6641ba74125214d5ca6902748996d8</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
-<description>Earned media shouldn't stop working once the article is published. You get the most value from press coverage by treating it as the start.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/media-coverage-1026-g-2280435126-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/media-coverage-1026-g-2280435126-1.jpg" medium="image"/>
-</item>
-<item>
-<title>The Best Leaders Never Stop Sharing the Lessons They’ve Learned. Here’s Why It Matters More Than You Think.</title>
-<link>https://www.entrepreneur.com/building-a-business/why-best-leaders-never-stop-sharing-lessons-learned</link>
-<guid isPermaLink="false">a7db9c1c33865a655648617c9767c91f3f9a4542fea7d3b15a584b53d8409353</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
-<description>Decades of hard-earned business wisdom matters most when leaders are willing to share the full story behind it, not just the outcome.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/leaders-teaching-lessons-1126-g-2057985510.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/leaders-teaching-lessons-1126-g-2057985510.jpg" medium="image"/>
-</item>
-<item>
-<title>Why This CEO Rebuilt His Best-Selling Product Before Taking It to Target</title>
-<link>https://www.entrepreneur.com/building-a-business/why-this-ceo-rebuilt-his-best-selling-product-before-taking-it-to-target</link>
-<guid isPermaLink="false">21b208bd74667f8070653ee375607654cfd307ca4a67d3abaa266c872ebed8bc</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
-<description>Jeff Byers already had one of the best creatines on the market. He raised the bar anyway, then took it to Target</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/MOMENTOUS_LosAngelesEvent_AEarl_03069-copy.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/MOMENTOUS_LosAngelesEvent_AEarl_03069-copy.jpg" medium="image"/>
-</item>
-<item>
-<title>What a Billion-Dollar Shipwreck Can Teach You About Relentlessly Chasing Your Big Idea</title>
-<link>https://www.entrepreneur.com/business-news/what-a-billion-dollar-shipwreck-can-teach-you-about-relentlessly-chasing-your-big-idea</link>
-<guid isPermaLink="false">7dd818d47159d6f5cecde72a5d8afb91eeb3df082ad5004480dbcd823915b73b</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 17:40:00 +0000</pubDate>
-<description>Bestselling author Julian Sancton dives into his new book, "Neptune's Fortune," the story of a legendary sunken treasure, the man who found it and what entrepreneurs can learn from his tireless quest.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/53_Sanc_9780593594179_all_art_r1_7d664b.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/53_Sanc_9780593594179_all_art_r1_7d664b.jpg" medium="image"/>
-</item>
-<item>
-<title>Residents Make Big Decisions About Local Businesses Within 30 Days of Moving In. Here’s How One Campaign Used That Window to Fill a Slow Monday Night.</title>
-<link>https://www.entrepreneur.com/building-a-business/residents-make-big-decisions-about-local-businesses-within-30-days-of-moving-in-heres-how-one-campaign-used-that-window-to-fill-a-slow-monday-night</link>
-<guid isPermaLink="false">251b230fe522b8520b025cf49660c28ad07f41999724083a06f596d3be629506</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 17:33:45 +0000</pubDate>
-<description>On a rainy Monday, a Manhattan restaurant landed 50 diners by reaching people who lived just a few blocks away. The exec behind the campaign explains why new neighbors are ready to pick their go-to spots.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/RI-Cover-Sam-Bahkshandehpour-1.jpeg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/RI-Cover-Sam-Bahkshandehpour-1.jpeg" medium="image"/>
-</item>
-<item>
 <title>Hot US inflation raises odds of half-point Fed hike in December</title>
 <link>https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto</link>
 <guid isPermaLink="false">7fd6364d4b509205311efdf70e4b527ca087a09560ac4c0db502dca3f506af7a</guid>
@@ -189,17 +178,6 @@
 <description>The deal, for an undisclosed sum, would expand Montgomery-based MAX Credit Union’s services into the larger Birmingham metro area.</description>
 <enclosure url="https://imgproxy.divecdn.com/nPUetq5lBTefqM7qXriKPuK5PRT8kiowl5Ijqj6bikE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgzNTk1Nzc3LmpwZw==.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/nPUetq5lBTefqM7qXriKPuK5PRT8kiowl5Ijqj6bikE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgzNTk1Nzc3LmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>This Founder Went From ‘Kitchen Chemist’ to 9-Figure Business Owner Whose Products Are Sold at Target, Ulta and CVS</title>
-<link>https://www.entrepreneur.com/building-a-business/how-she-went-from-making-products-in-her-kitchen-to-creating-a-9-figure-brand</link>
-<guid isPermaLink="false">b22c8d9550d678b7d6cde6bb0eea16783066ae9814bef07f73d4b977f602b1d7</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 17:17:12 +0000</pubDate>
-<description>Janell Stephens started her career as a speech language pathologist before tapping into her passion for haircare.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Janell-Stephens.-Credit-Camille-Rose.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Janell-Stephens.-Credit-Camille-Rose.jpg" medium="image"/>
 </item>
 <item>
 <title>Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%</title>
@@ -264,8 +242,8 @@
 <category>business</category>
 <pubDate>Tue, 10 Nov 2026 16:20:24 +0000</pubDate>
 <description>Popular restaurants want customers back, and they're rethinking their core offerings to win their business.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/wendys-1126-g-2291553738.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/wendys-1126-g-2291553738.jpg" medium="image"/>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/wendys-GettyImages-2291553738.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/wendys-GettyImages-2291553738.jpg" medium="image"/>
 </item>
 <item>
 <title>Miami-Dade County Now Accepts Bitcoin for Property Taxes</title>
@@ -312,6 +290,17 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Clarity-Act-Draft-Would-Bar-Trump-and-Officials-From-Issuing-Crypto-With-a-2029-Sunset.jpg" medium="image"/>
 </item>
 <item>
+<title>Taco Bell Put AI in 900 Drive-Thrus — Here’s What Happened to Sales</title>
+<link>https://www.entrepreneur.com/buying-a-franchise/taco-bell-put-ai-in-900-drive-thrus-heres-what-happened-to-sales</link>
+<guid isPermaLink="false">70753dd83ef36fca600fb4675863de01984b9d80a0e56ce6f0e8e0b2ed8993d5</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 15:15:00 +0000</pubDate>
+<description>Customers are happier and spending a bit more with AI taking their orders. KFC kitchens are getting a tech upgrade too.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/taco-bell-ai-drive-thru-1126_g2165799578.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/taco-bell-ai-drive-thru-1126_g2165799578.jpg" medium="image"/>
+</item>
+<item>
 <title>Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio</title>
 <link>https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio</link>
 <guid isPermaLink="false">0a671cd705da782fedcb58cbe064ce1f17d57a9bc8db378f836adff7d7704935</guid>
@@ -321,6 +310,28 @@
 <description>The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>After Landing $12,000 in Debt, He Started Dumpster Diving. Now He Digs Up $140,000 in Treasure a Year.</title>
+<link>https://www.entrepreneur.com/business-news/got-out-of-debt-dumpster-diving-digs-up-140000-in-treasure-a-year</link>
+<guid isPermaLink="false">8b2f1396703f3b780c2a000a630dcb6e0228a43b0773c6ed7e488c19284c3ee0</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
+<description>Carter Stevens, 31, pulls office chairs, Persian rugs and even samurai swords from the trash and flips them online.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/dumpster-diving-into-profit-1126_g839357676.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/dumpster-diving-into-profit-1126_g839357676.jpg" medium="image"/>
+</item>
+<item>
+<title>This Former Art Teacher Built a Thriving Pottery Business in a Town Full of Rocket Scientists</title>
+<link>https://www.entrepreneur.com/building-a-business/this-former-art-teacher-built-a-thriving-pottery-business-in-a-town-full-of-rocket-scientists</link>
+<guid isPermaLink="false">dfba72ffcef7f499d11c06b52a9a8b1fde42860bc1743282e10ec7deab37b9fc</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
+<description>Kristina Latraverse never tested the market before opening her business — here are the lessons she’s learned about growth and community.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Seagrass-CMS.png" type="image/png"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Seagrass-CMS.png" medium="image"/>
 </item>
 <item>
 <title>MARA Sells 13,597 Bitcoin for $1.1 Billion, Says More Sales Are Coming</title>
@@ -367,17 +378,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/decrypt-the-information-exchange-helius-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Bitcoin Price Trades Down Near $73,500 After Hot CPI Print Lifts Fed Hike Bets</title>
-<link>https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi</link>
-<guid isPermaLink="false">8c785454e6db0b562c3833c9173b00920223a1ec195aa0a63e8e8aa5a309d03e</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 14:27:49 +0000</pubDate>
-<description>Bitcoin Magazine Bitcoin Price Trades Down Near $73,500 After Hot CPI Print Lifts Fed Hike Bets Bitcoin price traded near $73,500 on Tuesday morning, down about 1% over the past day and roughly $32,000 below its price one year ago, after a hotter-than-expected inflation report revived fears of a larger Federal Reserve rate hike, according to Bitcoin Magazine Pro data. The U.S. consumer price index rose 0.4% in October, above the 0.3% economists expected. Core CPI, which strips out food and energy, climbed 0.3% against forecasts for 0.2%. Bitcoin price had been holding near $74,300 in the minutes before the 8:30 a.m. ET release. It dropped to about $73,400 right after the print, briefly undercutting Monday’s overnight low of $73,477 , before steadying in the high-$73,000s. JUST IN: U.S. CPI inflation comes in at 0.4% MoM, higher than expectations Bitcoin falls below $74,000 on the news. pic.twitter.com/Zxq3LtVwAd — Bitcoin Magazine (@BitcoinMagazine) November 10, 2026 Food prices jumped 0.5% on the month, energy rose 0.7% and gasoline gained 1.0%. Housing costs increased 0.3%. The report will not carry an annual inflation rate. The government shutdown in October 2025 kept the Bureau of Labor Statistics from collecting a full set of prices, so there is no comparable figure. Bank of America estimated before the release that the annual rates were running near 3.8% for headline and 2.7% for core. Fed hike bets build around the bitcoin price Bond traders moved first. Two- to five-year Treasury yields rose at least 10 basis points on the day after the print, and traders boosted bets on a half-point hike when the Fed meets on Dec. 9. That was the scenario Fed Governor Christopher Waller laid out hours earlier. He said he is “leaning toward” a December increase and would back “more robust action” if inflation ran hotter than expected. “In that case, I believe a 50 basis point hike in the policy rate should be considered at the December meeting,” Waller said. “Hiking only 25 basis points would put our credibility at risk, a risk I am not eager to take.” Before the data, markets had already largely priced in a quarter-point move. Higher rates raise the cost of holding an asset that pays no yield, and that math has capped the bitcoin price since Friday’s strong jobs report. Bitcoin had already been soft overnight. It lost about 1.4% from midnight UTC before the data, even as Asian markets rallied. South Korea’s Kospi jumped 4.39% and Japan’s Nikkei 225 rose 2.87%, while oil kept falling after President Donald Trump called fresh strikes on Iran “highly unlikely.” Stock futures were mixed going into the release. Dow futures rose 156 points, or 0.3%, while Nasdaq-100 futures slipped 0.4% after Monday’s rally gave the S&amp;P 500 its best day since April 8. Commodities slipped too. West Texas Intermediate crude traded near $84 a barrel, its lowest since late August, and gold fell just over 1% to below $4,100 an ounce. ETF outflows leave the bitcoin price exposed Fun</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Trades-Down-Near-73500-After-Hot-CPI-Print-Lifts-Fed-Hike-Bets.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Trades-Down-Near-73500-After-Hot-CPI-Print-Lifts-Fed-Hike-Bets.jpg" medium="image"/>
-</item>
-<item>
 <title>Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion</title>
 <link>https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion</link>
 <guid isPermaLink="false">b2dce149f9b932aac3d5702e7364031c0db95855905ce401daf270e3850c4cbe</guid>
@@ -398,6 +398,17 @@
 <description>The testnet pilot used Chainlink’s CCIP to distribute Moody’s ratings simultaneously across permissioned and permissionless blockchains, while preserving the firm’s existing publication and governance processes.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Top Schools for Entrepreneurs in 2027</title>
+<link>https://www.entrepreneur.com/business-news/top-schools-for-entrepreneurs-in-2027</link>
+<guid isPermaLink="false">8bb275e507074d79c773630d337bb46399f9bfc923616749f64237275e48e6cc</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 13:59:00 +0000</pubDate>
+<description>See the list of the Top 50 undergraduate and Top 50 graduate schools, as ranked by Entrepreneur and The Princeton Review.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Bauer-Scenes-Downtown-1-copy.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Bauer-Scenes-Downtown-1-copy.jpg" medium="image"/>
 </item>
 <item>
 <title>Poland’s lower house backs sanctions bill covering crypto freezes</title>
@@ -697,6 +708,28 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
+<title>This Former NASA Engineer Has 85 Million YouTube Subscribers. He Says This Is How to Differentiate Your Videos From AI Slop.</title>
+<link>https://www.entrepreneur.com/business-news/he-has-85-7-million-youtube-subscribers-this-is-how-to-differentiate-your-videos-from-ai-slop</link>
+<guid isPermaLink="false">414a99412c5c0a7557abf10cf3dfb1daa0676624d75c1fbb7854087db4cb8230</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 19:33:44 +0000</pubDate>
+<description>The YouTube star explains what makes content valuable as it gets cheaper to produce.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Mark-Rober-1126_g2297533234-new.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Mark-Rober-1126_g2297533234-new.jpg" medium="image"/>
+</item>
+<item>
+<title>It’s Time to Confront the Realities of What Your CRM Can Do — and What It Can’t</title>
+<link>https://www.entrepreneur.com/building-a-business/its-time-to-confront-the-realities-of-what-your-crm-can-do-and-what-it-cant</link>
+<guid isPermaLink="false">836b2b780a3f85755be4e8c58c40c31797bc92ef9fb7cc7f9eb9fb5a6fc0e0ec</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 19:30:00 +0000</pubDate>
+<description>CRMs can be powerful tools, but they’re not crystal balls.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/confront-crm-realities-1126_g2239962509.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/confront-crm-realities-1126_g2239962509.jpg" medium="image"/>
+</item>
+<item>
 <title>Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report</title>
 <link>https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation</link>
 <guid isPermaLink="false">2f682324d7f78c0915ad463d5cd98665115640c608a6fe2b2bfbf7463f26cad6</guid>
@@ -706,6 +739,17 @@
 <description>U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets on a December Fed rate hike.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>AI Is Making Expertise Cheaper. Here’s What Will Make You More Valuable.</title>
+<link>https://www.entrepreneur.com/building-a-business/ai-is-making-expertise-cheaper-heres-what-will-make-you-more-valuable</link>
+<guid isPermaLink="false">1b4706b46e54766d3a2effd76519910110ec1b094456f199dfe316672214e2dd</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+<description>When customers can access sophisticated knowledge through AI, entrepreneurs need to rethink what makes their expertise valuable.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/make-yourself-more-valuable-than-ai-1126_g2247697594.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/make-yourself-more-valuable-than-ai-1126_g2247697594.jpg" medium="image"/>
 </item>
 <item>
 <title>Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?</title>
@@ -840,28 +884,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M708577YNJM1YTD403ZVNDXB/hi-volatility2.jpg" medium="image"/>
 </item>
 <item>
-<title>The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules</title>
-<link>https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules</link>
-<guid isPermaLink="false">16a4a09af94dd5c5238a5748c3d13b1201016c0a301286a8c58a4704fdc0d98e</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 13:30:00 +0000</pubDate>
-<description>The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33DXG3A0A4EZ0MK4MVHFSA0/binance.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33DXG3A0A4EZ0MK4MVHFSA0/binance.jpg" medium="image"/>
-</item>
-<item>
-<title>Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364</title>
-<link>https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc</link>
-<guid isPermaLink="false">4964bb860085c7a7b0da39dc0b60a3ef0a6204e716e9e0aaf0441f9f68aa11c5</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 13:29:47 +0000</pubDate>
-<description>Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KYHA0Z0DAFRPRWE639Z8D7/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-6.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KYHA0Z0DAFRPRWE639Z8D7/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-6.jpg" medium="image"/>
-</item>
-<item>
 <title>Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC</title>
 <link>https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc</link>
 <guid isPermaLink="false">cfd35b2cdc4380c4e7a803b36c00e91801b364a53de626fc3a4f0091e35210d5</guid>
@@ -882,17 +904,6 @@
 <description>Space and Time Enterprise uses Proof of SQL to prove calculations on private business data without exposing the records to AI agents.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>EU taps industry to set standards for tokenized securities</title>
-<link>https://cointelegraph.com/news/eu-nominations-tokenization-standards-group</link>
-<guid isPermaLink="false">535d29b830783277484dcab7626bce60a1677b885cf8ef0bafe113e873ee1800</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 12:27:06 +0000</pubDate>
-<description>Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M702QB3WBZE6GCA3TM7M3NJ9/hi-markets-in-crypto-assets-regulation-mica-explained.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M702QB3WBZE6GCA3TM7M3NJ9/hi-markets-in-crypto-assets-regulation-mica-explained.jpg" medium="image"/>
 </item>
 <item>
 <title>Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter</title>
@@ -1003,17 +1014,6 @@
 <description>Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears</title>
-<link>https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears</link>
-<guid isPermaLink="false">e673029c6f34dfa00f3ce11b6fe8c6d8a356fa0aa1a3d08992f704984f4ce714</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 19:16:03 +0000</pubDate>
-<description>Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/paraguay-flag-protests-banks-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/paraguay-flag-protests-banks-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>Dive Deposits: Goldman named new partners but left other details out</title>

@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures</title>
+<link>https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit</link>
+<guid isPermaLink="false">eb6eacaf78d6ecb01dfe08345d238270fdc268ba266c65d6f5d9672c5dfda557</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 11:44:55 +0000</pubDate>
+<description>Coinbase, Kalshi and four other companies backed the CFTC in a lawsuit over whether US exchanges can list perpetual futures tied to individual stocks.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy</title>
+<link>https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy</link>
+<guid isPermaLink="false">749aebbb0fb4a98a48e8492154cd301098c895a0e5cdbfa3a642d67214010001</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 11:26:56 +0000</pubDate>
+<description>A proposed class action claims the chipmaker misled investors about the CEO's alleged affair and the national security risks it posed.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Binance warns iOS flaw could expose crypto wallet keys</title>
+<link>https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys</link>
+<guid isPermaLink="false">244edbfa1b9fb8f273058ae02786e8406ab3d1caa07af19791808cb037bcb71a</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 11:25:57 +0000</pubDate>
+<description>The exchange urged iPhone users to remove apps installed from untrusted sources, and it is unclear whether Apple’s latest iOS updates fix the flaw.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72JTX67XQ0ZM4JSV4NCX5K5/hi-how-a-wrong-number-message-turned-into-a-34m-crypto-scam-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72JTX67XQ0ZM4JSV4NCX5K5/hi-how-a-wrong-number-message-turned-into-a-34m-crypto-scam-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing</title>
+<link>https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing</link>
+<guid isPermaLink="false">4d9d4e95223515eb773508e7e01a19658d4540a51b1d9e0ee301acf286f83d7e</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 10:56:51 +0000</pubDate>
+<description>Kayleen Fulton alleges she was fired less than two weeks after disclosing a cancer diagnosis and helping organize a staff letter challenging a requirement to endorse the foundation’s new mandate.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72FWR1NA57RHTK5MYEQ38F1/lawsuit-editorial-illustration.jpeg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72FWR1NA57RHTK5MYEQ38F1/lawsuit-editorial-illustration.jpeg" medium="image"/>
+</item>
+<item>
 <title>'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair</title>
 <link>https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair</link>
 <guid isPermaLink="false">6fe78fbbe51b01dbb11d1f5bd4fda71dd51dbb792259d552ca4d02a4a403d5bb</guid>
@@ -167,6 +211,17 @@
 <description>Google’s TPU 8tx protects sensitive AI workloads, while the dual-chip TPU 8i Max targets memory-hungry AI agents.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Binance CFO departs one week after $6B hack</title>
+<link>https://www.bankingdive.com/news/binance-cfo-departs-one-week-6-billion-hack-cybersecurity-kaiser-ng/874224</link>
+<guid isPermaLink="false">3c6133fe9ba63c515afe3b63755090fe6edc6fac5d97d5aca69f450b4127e1bb</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Mon, 09 Nov 2026 19:52:52 +0000</pubDate>
+<description>The crypto exchange’s CFO left to start his own business about a week after hackers siphoned $6.3 billion in assets from the Binance platform.</description>
+<enclosure url="https://imgproxy.divecdn.com/h7g_5-5z-XTs81Dv495lPxSzOE1z8EignHgfpsVMhY0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyNjU5NTEzLmpwZ19yZXNpemUuanBn.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/h7g_5-5z-XTs81Dv495lPxSzOE1z8EignHgfpsVMhY0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyNjU5NTEzLmpwZ19yZXNpemUuanBn.webp" medium="image"/>
 </item>
 <item>
 <title>Formation Securities plans Solana stock trading venue under SEC exemption</title>
@@ -719,39 +774,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Binance France emails announce closure of its users’ accounts on Dec. 31</title>
-<link>https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31</link>
-<guid isPermaLink="false">9fd2863a88f1815578e2189e8d3fc59ef9ae775c0cd0c30e9b07eb150dedb7bc</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 08 Nov 2026 12:57:51 +0000</pubDate>
-<description>Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg" medium="image"/>
-</item>
-<item>
-<title>Amsterdam protesters break into Microsoft data center construction site: Report</title>
-<link>https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report</link>
-<guid isPermaLink="false">31b2c30bb100ae8a5e4fd2e87a60ebdc17a510c9de0e08dae38674eafb1bc97e</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 08 Nov 2026 09:48:48 +0000</pubDate>
-<description>Dutch police said they detained 150-200 people for trespassing during the protest.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance’s finance chief Kaiser Ng to leave company, report says</title>
-<link>https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says</link>
-<guid isPermaLink="false">f5c29b6f33afdecac9248b5944e92274fa6b7911f64a1dd7758ecbbdc84562fc</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 08 Nov 2026 08:12:56 +0000</pubDate>
-<description>Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png" medium="image"/>
-</item>
-<item>
 <title>Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue</title>
 <link>https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue</link>
 <guid isPermaLink="false">ceca23beb1416d552b3ee4a5a04b40eb978bede81ef8f0570bdf3f2ed7f3a114</guid>
@@ -1027,17 +1049,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/12/DOJ-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story</title>
-<link>https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data</link>
-<guid isPermaLink="false">8f68bf54e498649a53e935dfb35eb8ec934a04330992c4f29edc0e2ff68a66eb</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 20:16:03 +0000</pubDate>
-<description>Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png" medium="image"/>
-</item>
-<item>
 <title>Indiana banks to merge in $33M deal</title>
 <link>https://www.bankingdive.com/news/first-federal-harrison-indiana-kentucky-merger-33-million/873892</link>
 <guid isPermaLink="false">84b9220921de1bf85be5418b88490e6e213e0b6e1b775acd592df6c9aecac108</guid>
@@ -1047,16 +1058,5 @@
 <description>The transaction, expected to close in the first half of 2027, would expand First Harrison’s footprint across southern Indiana and western Kentucky.</description>
 <enclosure url="https://imgproxy.divecdn.com/2ifAs89cJoUbMm8DLOjCALqingaIYZPxA5YWQvD6FOE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODU1OTI0NDQuanBn.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/2ifAs89cJoUbMm8DLOjCALqingaIYZPxA5YWQvD6FOE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODU1OTI0NDQuanBn.webp" medium="image"/>
-</item>
-<item>
-<title>Citi employee is killed in shooting at Tampa office complex</title>
-<link>https://www.bankingdive.com/news/citi-shooting-employee-dead-gunman-tampa-florida-fence-cafeteria-4-injured/873890</link>
-<guid isPermaLink="false">dd7d0dc6298dac94121ad84f0291637fb7a1abdbf31282abef2abef25c8b3003</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 17:13:55 +0000</pubDate>
-<description>A gunman drove through a fence on the bank’s campus, shot the worker, then exchanged fire with a security guard at a nearby cafeteria. The gunman is dead and four were injured.</description>
-<enclosure url="https://imgproxy.divecdn.com/iftmxk0ZFcJg9wWHTMAmfQRfBJBT7NSpUdTqpGdVWhQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU2MjkzNTYwLmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/iftmxk0ZFcJg9wWHTMAmfQRfBJBT7NSpUdTqpGdVWhQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU2MjkzNTYwLmpwZw==.webp" medium="image"/>
 </item>
 </channel></rss>

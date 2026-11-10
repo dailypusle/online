@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>El Niño Is Hitting California Hard</title>
+<link>https://www.nytimes.com/2026/11/10/climate/el-nino-california-flooding-fires-kelvin-wave.html</link>
+<guid isPermaLink="false">b968e5bc09fb6e1a09194bbed70b16674f22c041ba7a79dbb0b845afbafbdc4c</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Tue, 10 Nov 2026 10:00:54 +0000</pubDate>
+<description>Rising sea levels and violent weather are testing residents in some of the most picturesque cities along the Pacific Coast.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/07/multimedia/00cli-california-el-nino-stillpromo/00cli-california-el-nino-01-cplk-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/07/multimedia/00cli-california-el-nino-stillpromo/00cli-california-el-nino-01-cplk-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>Newly described insect may live its whole life on a spider’s web</title>
 <link>https://www.newscientist.com/article/2598153-newly-described-bug-lives-its-whole-life-on-a-spider-web</link>
 <guid isPermaLink="false">0a037ddef00bff3cc73f2b8b60cd5c0ae832ea0fcca589c2e113f4c6855e0481</guid>
@@ -1027,17 +1038,6 @@
 <media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/03sci-nasa-swift-cqfk/03sci-nasa-swift-cqfk-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
-<title>The Southwest Is Parched. Can the Recent Floodwaters Quench It?</title>
-<link>https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html</link>
-<guid isPermaLink="false">888a47173e05374ae5fb0b520abbbecf9b7759d4e430cdb74ccc3cc4e81fb3c8</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 17:01:11 +0000</pubDate>
-<description>A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X-v2.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X-v2.jpg" medium="image"/>
-</item>
-<item>
 <title>New Research Tests Whether AI Models Know Their Own Thoughts</title>
 <link>https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104</link>
 <guid isPermaLink="false">8c416cac2e1213d024fab341361258f4ea9077d91376448c410e1aa2fd460a80</guid>
@@ -1091,17 +1091,6 @@
 <description>CSA (Canadian Space Agency) astronaut and Expedition 75 flight engineer Joshua Kutryk is pictured during a spacewalk with his spacesuit's helmet visor down to install a new roll-out solar array on the International Space Station's port side truss structure.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Neanderthals Used Wood for Tools, Housing — and Murder?</title>
-<link>https://www.nytimes.com/2026/11/03/science/neanderthals-wood-tools.html</link>
-<guid isPermaLink="false">0ae58cce887033be8bf1add5410ad3bf9a74ca4c89e14a4bd63a296bd48d7d15</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 10:02:47 +0000</pubDate>
-<description>In one case, 75,000-year-old bones reveal what may be the earliest identifiable victim of death by wooden spear.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/10/multimedia/03SCI-NEANDERTHAL-WOOD-01-kglw/03SCI-NEANDERTHAL-WOOD-01-kglw-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/10/multimedia/03SCI-NEANDERTHAL-WOOD-01-kglw/03SCI-NEANDERTHAL-WOOD-01-kglw-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>NASA's CHAPEA Crew "Returns" to Earth</title>

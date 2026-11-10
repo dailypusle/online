@@ -4,6 +4,149 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Ember’s latest self-heating 14-ounce mug is $50 off</title>
+<link>https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale</link>
+<guid isPermaLink="false">34acddedba1324c5039298990038002cd438dde91ebf48dd0c98626df126b845</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 15:47:18 +0000</pubDate>
+<description>You can toggle through temperature settings directly from the mug, or from within the app. | Image: The Verge If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3 , you might warm up to the current discount happening at Amazon , Ember , and Best Buy for several colors of the (top rack) dishwasher-safe mug. It’s 33 percent off, dropping to $99.99 — still not cheap, but cheaper, and notably just $10 more than the 10-ounce version. Ember Mug 3 (14-ounces) Where to Buy: $149.95 $99.99 at Amazon $149.95 $99.99 at Best Buy $149.95 $99.99 at Ember The Mug 3 affords you a couple of ways to control your drink’s temperature. A power button on the bottom of the mug can cycle between five temperature presets (125 to 145 degrees Fahrenheit), or you can use the app. It includes a sipping lid, and Ember claims that the Mug 3’s battery can keep drinks hot for up to three hours with the lid on. Without it, drinks stay hot for 80 minutes, the same battery claim as the Mug 2. As we inch closer to the gift-getting season, the Ember Mug 3 seems like a solid product to snag for a coffee or tea lover who works from home, or for parents who have their hands full with kids and could always use a cuppa. window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/holiday-garmin-vivoactive-5-ivory.png", productImageAlt: "Garmin vívoactive 5 at Walmart", productTitle: "Garmin vívoactive 5 at Walmart", shortDescription: "Give their everyday an upgrade with the Garmin vívoactive 5, a fitness smartwatch available at Walmart.", longDescription: "For the person who likes to keep moving, the Garmin vívoactive 5 makes a thoughtful holiday upgrade. Its colorful AMOLED display, built-in sports apps, and up to 11 days of battery life in smartwatch mode bring useful features to their wrist. Find the Ivory model at Walmart and check one more gift off your list.", purchaseUrl: "https://goto.walmart.com/c/482924/565706/9383?subId1=WalmartGiftingHypeDesk&amp;veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https%3A%2F%2Fwww.walmart.com%2Fip%2Fseort%2F5020233074&amp;partnerpropertyid=7032191", purchaseLinkText: "Shop Garmin at Walmart" }; Some more great Verge-approved deals Criterion Collection DVDs and Blu-rays are half off through December 6th at Amazon and Barnes and Noble , meaning you have plenty of time to assemble a wishlist of movies you want to buy ahead of the holiday season. The company’s catalog of films is vast, and it’s the best place to get limited edition releases of cherished films, old and new. Some of Criterion’s recent physical releases have been a hit, especially because they’ve quickly sank in price. KPop Demon Hunters on 4K Blu-ray is just $24.99 at Amazon and Barnes and Noble . Also, The Complete Kubrick boxset (currently the only way to get 4K Blu-ray versions of every one of the director’s legendary films) is half off, too, down to $299.99 . I’ve been wanting a USB-C cable that coils itself magnetically sin</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/embermug3.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/embermug3.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Why does your phone keep switching between Wi-Fi and mobile data?</title>
+<link>https://www.engadget.com/2307770/why-phone-switches-wifi-to-mobile-data</link>
+<guid isPermaLink="false">fa738c6120c85bf316b837552487132d88e7cdf725896d86e6ac61f522b7e2f4</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 15:45:00 +0000</pubDate>
+<description>Your phone switches to mobile data to keep you connected, but it can drain your data plan. Learn what causes it and how to stop it on iPhone and Android.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-does-your-phone-keep-switching-between-wi-fi-and-mobile-data/l-intro-1793641246.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-does-your-phone-keep-switching-between-wi-fi-and-mobile-data/l-intro-1793641246.jpg" medium="image"/>
+</item>
+<item>
+<title>Fireworks AI gets burned twice as customer data exposure widens</title>
+<link>https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722</link>
+<guid isPermaLink="false">f3cf8b22bd0fc963892105ccd8de52ac203b9eaf1c054530484a2a14c7eadad1</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 15:28:00 +0000</pubDate>
+<description>Fireworks AI has disclosed another cyberattack in October and a wider customer data exposure involving billing records, datasets, and incomplete model weights. The company, which lets customers train and run AI models, said a third-party cloud provider hosting its research and development machines was compromised on October 23. Attackers used that access the following day to reach Fireworks development systems and run an unauthorized workload. Fireworks suspects links to financially motivated criminals involved in LLMJacking – selling unauthorized access to AI models through illicit gateways. Fireworks grouped the affected data into three categories: Resource metadata: Resource identifiers, display names, descriptions, creation times, and more Billing information: Billing and shipping addresses, invoice and payment histories, account balances, and credit usages. Payment card numbers are not saved and therefore unaffected Model weights and datasets: For certain customers, a subset of incomplete model weights and datasets were accessed, Fireworks said Lin Qiao, Fireworks co-founder and CEO, said the apparent motive was not stealing model weights in response to concerns raised by Cantina Security CEO Hari Mulackal. "From what we see attackers are not after weights," said Qiao. "Most downloads were partial and stopped." Render founder and CEO Anurag Goel shared a notification from Notion warning that some chats with its AI assistant may have been exposed through the Fireworks incident. "Following an investigation by the Notion security team, we have determined that your workspace, Render, was among the &lt;1 percent of Notion workspaces that may have been affected by the Fireworks security incident," the email sent to Goel stated. "Some unattributable chat sessions with Notion AI may have been exposed in this incident." Notion said the exposed transcripts lacked separate information linking them to particular users or workspaces. As Reddit users pointed out , however, the conversations themselves could contain identifying details. "Beyond what's in the chat transcript itself, there's no information tying the chat back to your workspace, users, or company," the email added. "No other data from within your workspace is affected." Bloomberg reports that Fireworks is also working with customers including Cursor and Harvey to assess the impact. Fireworks' update confirmed that it worked with Palo Alto Networks' Unit 42 team to remediate the attack, which included rotating credentials, isolating affected systems from the network, and tightening up data storage access and monitoring systems. The update did not state how many customers were affected by either of the two attacks in October. Fireworks first disclosed an incident on October 9 after detecting unauthorized use of internal credentials on October 6. Attackers accessed environment variables in evaluation jobs, including API keys and tokens belonging to some customers. At the time, Fireworks said it had</description>
+<enclosure url="https://image.theregister.com/?imageId=5308749&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5308749&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Done with Debian Linux distros? Try Fedora next – 7 reasons why</title>
+<link>https://www.zdnet.com/linux/debian-fedora-linux-migration</link>
+<guid isPermaLink="false">00ab1fb2de4bd5acdff3b4553963d6ec88cd599c460b7c648aa703bb361dc209</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 15:16:47 +0000</pubDate>
+<description>After using a Debian-based distribution, you may find yourself longing for something different. I know exactly what you should try next.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/gnomelaptophero.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/gnomelaptophero.jpg" medium="image"/>
+</item>
+<item>
+<title>DeepMind reveals Gemini Robotics 2.5 and open safety benchmark "ASIMOV-jailbreak"</title>
+<link>https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak</link>
+<guid isPermaLink="false">c86d08502069b5ef25941361119bb29fa1faa951a208bca11f11a832dd1c2155</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 15:00:39 +0000</pubDate>
+<description>Google DeepMind has revealed a new generation of the AI-powered Gemini Robotics platform. In the 2.5 release, Google says its robotic AI is getting tantalizingly close to completing real-world tasks as well as humans do. In fact, some Gemini robots were able to get actual work done in Mercedes-Benz factories, and the team is preparing for a day when robots operate alongside humans with an open source safety benchmark. DeepMind's physical AI platform has several computational layers between user input and robotic action. There's the vision-language model piece, which is Gemini Embodied Reasoning. Essentially, it takes your instructions and uses live video to plan how the robot can accomplish the task. The other main component is the vision-language-action (VLA) that actually generates robot actions, like moving an actuator—that's Gemini Robotics, which has been bumped to version 2.5. DeepMind says that Gemini Robotics 2.5 is much better at tasks that require a high degree of dexterity. The model was evaluated across more than 200 activities, including serving food with tongs and using a pipette, as you would see in a laboratory. Google also showed that Apptronik’s Apollo 2 humanoid robot with Gemini Robotics 2.5 can now tie a bow with its five-fingered hands, a notable feat, because deformable objects (like ribbon) are notoriously difficult for robots to manipulate. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Reddit wants to guide your next purchase</title>
+<link>https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping</link>
+<guid isPermaLink="false">1d09c07958f96a31d51ee7196a40be2eb4c5fd02dfaa8d17cc22d1a288bf7741</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
+<description>Millions of people turn to Reddit for firsthand recommendations and reviews of consumer goods. Now, the platform is leaning into its role as a destination for shoppers in a challenge to more traditional outlets that publish product reviews and roundups. The company is launching Reddit Reviews , a built-in product reviews hub for consumer goods that are frequently discussed on the platform. The reviews feature collects and analyzes threads and comments across subreddits that discuss specific products, pulling the information into one product page. To start, it will cover 10,000 items in the electronics, health and beauty, home and garden, and … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985506/acastro_STK024_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23985506/acastro_STK024_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Reddit is (sort of) getting into the product reviews business</title>
+<link>https://www.engadget.com/2310918/reddit-is-sort-of-getting-into-the-product-reviews-business</link>
+<guid isPermaLink="false">976d8c670c3b57e8f283f19500de2577b5ed7cf51e0a88b2971405ac1b4270e6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
+<description>The platform's new toolset collects and organizes user data on thousands of items.</description>
+<enclosure url="https://www.engadget.com/img/gallery/reddit-is-sort-of-getting-into-the-product-reviews-business/l-intro-1794241903.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/reddit-is-sort-of-getting-into-the-product-reviews-business/l-intro-1794241903.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia has a Jensen Huang problem—and no obvious successor</title>
+<link>https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor</link>
+<guid isPermaLink="false">153193cce694f59bd7d997c262da164312cbf7c7258002b73b53df19fede4f3b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:53:05 +0000</pubDate>
+<description>The investigation of Jensen Huang by Nvidia’s board threatens the future of one of Silicon Valley’s longest-serving executives and a key enabler of the AI boom, who has no obvious successor as leader of the world’s second-most-valuable company. Huang is fighting for survival after admitting to an extramarital affair, believed to be with an executive at a large Nvidia customer whom US officials also allege was working as a Chinese spy. The prospect that Huang could be forced out as chief executive of the US chipmaker he co-founded more than 30 years ago has alarmed investors and allies in the tech industry. Shares in Nvidia, which late last month ceded its position as the world’s most valuable to Apple amid a broader sell-off in AI stocks, had fallen more than 5 percent by midday trading on Monday. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Another contract extension for Fujitsu on the Post Office's Horizon</title>
+<link>https://www.theregister.com/public-sector/2026/11/10/another-contract-extension-for-fujitsu-on-the-post-offices-horizon/5308793</link>
+<guid isPermaLink="false">d0f9b79a806f521e10fe0c4b7d87936927d678df2f3099e4a673af8024a0acb9</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:45:11 +0000</pubDate>
+<description>The UK Post Office is extending its contract with Fujitsu to give it time to move services to a new supplier, after a scandal that has long marred the relationship between the two. The current contract runs until March 2027, and the publicly owned company has announced a short, time-limited contract extension to cover the transition. Accenture will take over running the Horizon system, which was at the center of a string of miscarriages of justice, from September 2027, after winning a £410 million contract in May this year. Meanwhile, the Post Office is developing a replacement for the aging system to serve its network of 11,500 branches. The Post Office began rolling out the legacy Horizon IT system for accounting in 1999, along with two subsequent upgrades. The electronic point-of-sale (EPOS) and back-end finance system was first implemented by ICL, a UK tech firm majority-owned by Fujitsu in the 1990s and which it fully acquired in 1998 . From 1999 until 2015, around 736 subpostmasters were wrongfully prosecuted and convicted over Horizon errors, devastating lives in the process. The Post Office, Accenture, and Fujitsu have agreed that Fujitsu will hand over the operation of Horizon to Accenture between 1 June and 1 September 2027, with the final date set to be confirmed in March 2027. Accenture is set to "walk in and take over" the current Horizon system by assuming day-to-day operations from Fujitsu, as well as developing the back-end of the new system to replace Horizon. Post Office CEO Neil Brocklehurst said: "Ending our contract with Fujitsu is a critical milestone in Post Office's transformation, and today's agreement secures the transition away from Fujitsu and over to Accenture safely and responsibly to achieve our target of summer 2027. "In addition to ending our contract with Fujitsu, we are also working at pace with our leading technology suppliers, Accenture, OneView Commerce, and Escher, to build a modern, resilient platform able to make everyday life easier for customers and postmasters for years to come." Fujitsu has also been awarded a contract extension to run the UK Government's Emergency Alerts platform until October 2029. The contract is worth £9.6 million ($12.8 million). The company committed to not bid for new public sector contracts while the inquiry into the Horizon scandal continues. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=228064&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=228064&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>A Chinese team made a big splash with a drone swarm world record</title>
+<link>https://www.engadget.com/2307769/116-underwater-drone-swarm-world-record-china</link>
+<guid isPermaLink="false">90fc19dccce6ba4794745e5916f1df01de4dae82e40cffcba450e5f9eaa546de</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:45:00 +0000</pubDate>
+<description>The performance of these underwater drones is much more than a gimmick. It signals serous geopolitical swagger that's turning heads across global sectors.</description>
+<enclosure url="https://www.engadget.com/img/gallery/a-chinese-team-made-a-big-splash-with-a-drone-swarm-world-record/l-intro-1793653335.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/a-chinese-team-made-a-big-splash-with-a-drone-swarm-world-record/l-intro-1793653335.jpg" medium="image"/>
+</item>
+<item>
+<title>FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss</title>
+<link>https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns</link>
+<guid isPermaLink="false">5a67091197330232c7dbe6781671a056a0e0ca607c755e7105b3d8d504250875</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:43:49 +0000</pubDate>
+<description>The Food and Drug Administration is warning that popular obesity drugs—including Ozempic, Wegovy, Zepbound, and Mounjaro—may carry a "potential increased risk" of a rare eye condition that can lead to permanent vision loss. In a drug safety communication Monday , the FDA said it will now require makers of GLP-1 receptor agonist drugs to add a warning about that risk on their drug labels. The specific eye condition it warns of is called non-arteritic anterior ischemic optic neuropathy or NAION . The condition is caused by restricted blood flow to the optic nerve, which leads to swelling and cell death and ultimately damages the nerve, causing abrupt vision loss that can often be permanent. It's unknown how GLP-1 drugs may cause NAION. The condition is rare overall, occurring in somewhere between two and 10 people in 100,000 in the general population, according to the American Academy of Ophthalmologists. These small numbers have made it more difficult to determine with certainty if there is a connection. Further complicating the potential link is the fact that the risk factors for developing NAION are common among patients taking GLP-1 drugs. The risk factors include diabetes, cardiovascular disease, high blood pressure, high cholesterol, metabolic syndrome, and obstructive sleep apnea. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>5 apps I need Siri AI to work with now that it’s open to third-party developers</title>
+<link>https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration</link>
+<guid isPermaLink="false">2cad6d84b7df6432786bd595ff0f5b85e31a1ee7fd5a37718e33d977dabc33bc</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:38:36 +0000</pubDate>
+<description>With the latest betas for iOS and other platforms, Siri AI is now available to all developers for full integration into their apps. Here are the ones I hope will jump on board.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Libby-app-on-iPhone.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Libby-app-on-iPhone.jpg" medium="image"/>
+</item>
+<item>
+<title>Polestar has a new look with its Formula 2030 concept</title>
+<link>https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept</link>
+<guid isPermaLink="false">266a46cee91f544cfa32b5b931d57897198fe3a335a0ca6ad8bc38c342bb3780</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:22:02 +0000</pubDate>
+<description>Perhaps only a small percentage of Ars readers will care about the Polestar 2030 concept, debuted today by the electric automaker. Spun out of Volvo—once upon a time, Polestar was a racing team—the brand has leveraged the resources of parent-automaker Geely to create electric vehicles that marry a modern minimalist style with rewarding driving dynamics . But you now can’t buy any Polestars in the US , since Geely is Chinese, and banning Chinese-owned car brands enjoys remarkable bipartisan support in Congress. The Formula 2030 is about the same length as a Polestar 2 but with a very low roofline. If anything, the two-box shape reminds me of the Saab Aero-X, one of the final concepts from the then-terminal Swedish automaker. (In many ways, Polestar has adopted Saab’s mantle.) Credit: Polestar These rear lights will show up in production Polestars. In 2008, Saab showed off the Aero-X concept. Credit: Scott Barbour/Getty Images Polestar says the concept fits into its own segment somewhere between the next Polestar 2 and the Polestar 7—it numbers its cars chronologically (mostly), not based on size—although it’s not saying if the hatchback form factor will go into series production. Successfully packaging the rear seat passengers and a lithium-ion battery pack is something a concept needn’t worry about, after all. Rather, it’s a styling exercise, or more than one. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Polestar-260929-HBL_B0001178_v003-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Polestar-260929-HBL_B0001178_v003-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>The HDMI port settings you should change for the best picture quality</title>
 <link>https://www.engadget.com/2307766/hdmi-port-settings-should-change-best-picture-quality</link>
 <guid isPermaLink="false">62e5430e3aa8037d0162f32ca8699ff9263c4ca0e09a63a62164f3f29fb19fa4</guid>
@@ -21,7 +164,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 14:06:54 +0000</pubDate>
-<description>Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share and according to the Wall Street Journal 's sources, Anthropic is "aiming for its shares to start trading Thursday or Friday next week." As Reuters notes, the Anthropic IPO was previously expected to be valued at as much as $2 trillion. As of last week, Anthropic's rival OpenAI was valued at $1.25 trillion . The initial public offering price is expected to be between $70.00 and $78.00 per share. Anthropic has applied to list its Class A common sto … Read the full story at The Verge.</description>
+<description>Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the New York Times . The Wall Street Journal reports that according to its sources, Anthropic is "aiming for its shares to start trading Thursday or Friday next week." As Reuters notes, the Anthropic IPO was previously expected to be valued at as much as $2 trillion. As of last week, Anthropic's rival OpenAI was valued at $1.25 trillion . Those lower expectations follow months of … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -142,7 +285,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 13:30:00 +0000</pubDate>
-<description>Ring’s new Drone Cam is a flying indoor security camera. Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99 , Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced its first flying camera, the Ring Always Home Cam. Designed to patrol inside your home when you're not there, the Drone Cam is an AI-powered drone that can react to triggers from Ring sensors, such as detecting motion, a door opening, a water leak, or an alarm sounding. When triggered, it flies along pre-programmed routes to a set location … Read the full story at The Verge.</description>
+<description>Ring’s new Drone Cam is a flying indoor security camera. Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99 , Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced its first flying camera, the Ring Always Home Cam. Designed to patrol inside your home when you're not there, the Drone Cam is an AI-powered drone that can react to triggers from Ring sensors, such as detecting motion, a door opening, a water leak, or an alarm sounding. When triggered, it flies along preprogrammed routes to a set location, … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01268.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01268.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -202,7 +345,7 @@
 <media:content url="https://www.engadget.com/img/gallery/spacexs-first-attempt-to-catch-both-starship-stages-takes-place-november-13/l-intro-1794315716.jpg" medium="image"/>
 </item>
 <item>
-<title>‘Without storyboards, I feel like I’m in Grand Central station in my underwear’: film’s fightback against AI</title>
+<title>‘Without storyboards, I feel like I’m in Grand Central station in my underwear’: film fights back against AI</title>
 <link>https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai</link>
 <guid isPermaLink="false">41a0f772447991ae2cb1646380bbd03bc58946a82d3e71c657bc7b7b286ee0e9</guid>
 <source>The Guardian Technology</source>
@@ -286,8 +429,8 @@
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 12:00:21 +0000</pubDate>
 <description>I've written more than once about the weird positioning of Apple's entry-level 14-inch MacBook Pro, which has always occupied an uncomfortable perch between the MacBook Air and the higher-end MacBook Pros. The best versions of this laptop, like last year's M5 refresh, come with the same basic design and external features of the higher-end MacBook Pros, just with a more modest processor and a lower ceiling for specs like RAM and storage. The lesser versions stick with older designs or other compromises, reserving Apple's most updated designs and screen technologies for the more expensive high-end models. Recall the 13-inch M1 and M2 MacBook Pros, which stuck with Apple's 2016-era MacBook Pro designs for everything , up to and including the now-abandoned Touch Bar. (If you're someone at Apple maintaining Touch Bar support into the 2030s for the sake of these two laptop models, I'd like to hear from you. Not for a story! I'd just like to know how you are.) This year's entry-level MacBook Pro mostly falls into that latter category. It does get an Apple M6 chip, and the M6 is great—rumors suggest the M6 won't get Pro, Max, or Ultra configurations, so there are some fringe benefits here that you can't get in the top-tier MacBook Pros. But it uses the same MacBook Pro design Apple has been using since 2021 . There's no touchscreen, no OLED panel, no Dynamic Island, no half-pound weight reduction, no glowing Apple logo on the lid. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648.jpeg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648.jpeg" medium="image"/>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648-1794321189.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648-1794321189.jpeg" medium="image"/>
 </item>
 <item>
 <title>Garmin users can now share their cycling location through Waze for extra safety</title>
@@ -323,17 +466,6 @@
 <media:content url="https://image.theregister.com/?imageId=5247969&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance</title>
-<link>https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology</link>
-<guid isPermaLink="false">dd934de5d7bfd37977f83bba23c94385e2f790be28c952895ad3581c1a8ece35</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 11:01:00 +0000</pubDate>
-<description>Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your data is used and relocates the files you're currently using, or use most frequently, to the faster SSD. The FireCuda Forge is now available through Seagate's online store with an 8TB hard drive for $699, or a 20TB hard drive for $899, that are both user-replaceable. However, the NVMe SSD is not included, and in the middle of a memory shortage , t … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>EU's €212M border IT project lands IBM and Atos in legal water</title>
 <link>https://www.theregister.com/public-sector/2026/11/10/eus-212m-border-it-project-lands-ibm-and-atos-in-legal-water/5308669</link>
 <guid isPermaLink="false">34d7a20f160d12d12f3ac14913a3f30f5e8a4278b2cbe738a690e758cdf1ba50</guid>
@@ -354,17 +486,6 @@
 <description>What young students stand to lose is more than cognitive skill: it’s a reliable sense of their own minds In August, OpenAI launched Teen Mode – a version of ChatGPT in which every user under 18 will automatically be enrolled – a year after a lawsuit alleged that ChatGPT had contributed to the suicide of a 16-year-old named Adam Raine. For years, the tech industry has contested any causal link between its products and the harms named in a wave of similar lawsuits, each alleging that the companies had not merely failed to protect children but had deliberately designed products to exploit them. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/7c4e62acbc9ca4257774b10197f801201e6aa2a9/292_0_2917_2333/master/2917.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=401355db2df512fd0da70895ec923eb8" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/7c4e62acbc9ca4257774b10197f801201e6aa2a9/292_0_2917_2333/master/2917.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=401355db2df512fd0da70895ec923eb8" medium="image"/>
-</item>
-<item>
-<title>Real Motors’ Project Ares is a cyberpunk fantasy made real</title>
-<link>https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride</link>
-<guid isPermaLink="false">1762b88198381d6870391e93d6c7a433a7a370fdca8e2aea9fdac9015957211a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 11:00:00 +0000</pubDate>
-<description>Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of BMW's CE 02 , but nothing yet has quite left me so awestruck as Project Ares. This all-electric machine is the first offering from South Carolina-based Real Motors, and it bears a shape that would not look out of place on the streets of Night City, the main setting in Cyberpunk 2077 . There's a little bit of Star … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Royal Navy stands up first autonomous boat squadron</title>
@@ -521,17 +642,6 @@
 <media:content url="https://www.engadget.com/img/gallery/how-to-turn-on-personal-results-on-your-google-home/l-intro-1793815000.jpg" medium="image"/>
 </item>
 <item>
-<title>David Ellison says AI could be the ‘biggest creative unlock in modern history’</title>
-<link>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</link>
-<guid isPermaLink="false">05e31abb81030e94daf9e1de5c7882de3be9f45e8966f4c80ac0665709d5abc2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 00:28:49 +0000</pubDate>
-<description>During Paramount Skydance's latest earnings call , CEO David Ellison said "it's hard to imagine" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: "I think when you zoom out and look at production, AI really has the potential to be the biggest creative unlock in modern history. The last time we saw anything close to this was really the, you know, advent of CGI and digital composites in the early 90s. That technology gave birth to amazing stories like Jurassic Park and Terminator 2 , and it's hard to imagine that AI is not going to have a more significant i … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Anthropic's super bug-finding Mythos model is going into Cisco and IBM products</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616</link>
 <guid isPermaLink="false">025fdd17b37370cab5844f570af973855032435e46d477b4490f54544453d853</guid>
@@ -563,17 +673,6 @@
 <description>USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector.</description>
 <enclosure url="https://www.engadget.com/img/gallery/why-you-probably-shouldnt-buy-gadgets-with-micro-usb-ports/l-intro-1793654155.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/why-you-probably-shouldnt-buy-gadgets-with-micro-usb-ports/l-intro-1793654155.jpg" medium="image"/>
-</item>
-<item>
-<title>The pros and cons of using mesh Wi-Fi</title>
-<link>https://www.engadget.com/2307745/using-mesh-wifi-pros-and-cons</link>
-<guid isPermaLink="false">879bd5bee8e56231d8b8db29972488ad46a10a2c0a6d0d2e91eada4a97e3f982</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 23:00:00 +0000</pubDate>
-<description>Should you buy a mesh Wi-Fi system or a standalone router? Learn how each handles range, roaming, and cost, and which one fits your home best.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-mesh-wi-fi/l-intro-1793389440.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-mesh-wi-fi/l-intro-1793389440.jpg" medium="image"/>
 </item>
 <item>
 <title>France blames Iran for supermarket hack meltdowns</title>
@@ -609,28 +708,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg" medium="image"/>
 </item>
 <item>
-<title>YouTube will once again be part of Billboard chart calculations in 2027</title>
-<link>https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027</link>
-<guid isPermaLink="false">b86574a35568b99a653e2b5c7f428dd2f386dd8c6d53011091a2f70160745700</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 21:09:51 +0000</pubDate>
-<description>Billboard will give more weight to free, ad-supported listening in its methodology.</description>
-<enclosure url="https://www.engadget.com/img/gallery/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/l-intro-1794258544.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/l-intro-1794258544.jpg" medium="image"/>
-</item>
-<item>
-<title>5 Nintendo Switch 2 features everyone should know about</title>
-<link>https://www.engadget.com/2307744/nintendo-switch-2-features-everyone-should-know</link>
-<guid isPermaLink="false">fa0120738e0adc50a321251b13dd3454b9d817bb3bcf405416f45b03381b0541</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 21:00:00 +0000</pubDate>
-<description>From finding hidden controllers to sharing games with others, improve your gaming experience on the Nintendo Switch 2 with these useful features.</description>
-<enclosure url="https://www.engadget.com/img/gallery/5-nintendo-switch-2-features-everyone-should-know-about/l-intro-1793628827.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/5-nintendo-switch-2-features-everyone-should-know-about/l-intro-1793628827.jpg" medium="image"/>
-</item>
-<item>
 <title>A Sam Altman parody offers an amusing lesson in memory management</title>
 <link>https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management</link>
 <guid isPermaLink="false">a8f11ce9edffc7d442f360cba35b5352de90fda95850faf27aa0a315da647b6c</guid>
@@ -659,7 +736,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Mon, 09 Nov 2026 19:59:50 +0000</pubDate>
-<description>Unknown attackers used compromised identity and access management (IAM) credentials associated with Qubole's AWS account to access customer AWS environments, stealing secrets and other sensitive data from S3 buckets. Qubole is a cloud data processing platform that uses cross-account IAM roles to manage compute and access storage in customers' AWS environments without requiring customers to provide long-lived AWS access keys. The supply-chain attack abused this third-party, cross-account trust relationship. Google’s cloud-security shop Wiz declined to tell us how many organizations were affected, but called it a “broad, opportunistic supply chain campaign” that hit “multiple” customer environments. “Because many organizations left trust policies active even after deprecating the platform, the attacker was able to successfully assume integration roles, enumerate cloud resources, harvest secrets, and siphon data,” the researchers told The Register in an emailed response to questions. Neither AWS nor Qubole responded to The Register 's inquiries. Wiz, working with Google's Mandiant incident responders after AI data security company Sentra flagged suspicious activity, traced the malicious activity back to October 14, when credentials associated with Qubole's AWS account were used to call the sts:AssumeRole API to obtain temporary credentials for customer-managed integration roles. The calls originated from Qubole AWS account 805246085872 , and used IAM user ID AIDA3W7DIFLYOLTK63SFS , Wiz analysts Zack Morrow, Sean Johnstone, and Benjamin Read said in a Monday blog about the supply chain attack. “Across the affected environments, Wiz CIRT has not observed this IAM user in any activity other than that associated with this threat actor,” the trio wrote. This activity continued on October 15, and on October 18, the digital intruders began using a second IAM user from the same account. Once inside customers’ environments, the crooks began probing a ton of AWS services and stealing credentials, keys, and other secrets stored across Lambda, Secrets Manager, and SSM Parameter Store. The miscreants also used TruffleHog to test AWS credentials belonging to victim organizations, discover their Microsoft Entra ID secrets, and request OAuth tokens using Okta client credentials also uncovered while snooping around the AWS environments. Abusing the integration roles also allowed the criminals to steal data from customers’ S3 storage, although it seems they were largely opportunistic attackers, in some cases downloading entire buckets, as opposed to state-sponsored spies looking for specific data. The threat hunters haven’t attributed the supply chain attack to any particular group, and say they don’t have any insight into how the miscreants are using the stolen data. While investigating this incident, Wiz spotted a separate campaign between October 8 and October 11 that also used customer-owned AWS access keys for Qubole integrations. While a “small number” of these</description>
+<description>Unknown attackers used compromised identity and access management (IAM) credentials associated with Qubole's AWS account to access customer AWS environments, stealing secrets and other sensitive data from S3 buckets. Qubole is a cloud data processing platform that uses cross-account IAM roles to manage compute and access storage in customers' AWS environments without requiring customers to provide long-lived AWS access keys. The supply-chain attack abused this third-party, cross-account trust relationship. Google’s cloud-security shop Wiz declined to tell us how many organizations were affected, but called it a “broad, opportunistic supply chain campaign” that hit “multiple” customer environments. “Because many organizations left trust policies active even after deprecating the platform, the attacker was able to successfully assume integration roles, enumerate cloud resources, harvest secrets, and siphon data,” the researchers told The Register in an emailed response to questions. Qubole did not respond to The Register 's inquiries. Wiz, working with Google's Mandiant incident responders after AI data security company Sentra flagged suspicious activity, traced the malicious activity back to October 14, when credentials associated with Qubole's AWS account were used to call the sts:AssumeRole API to obtain temporary credentials for customer-managed integration roles. The calls originated from Qubole AWS account 805246085872 , and used IAM user ID AIDA3W7DIFLYOLTK63SFS , Wiz analysts Zack Morrow, Sean Johnstone, and Benjamin Read said in a Monday blog about the supply chain attack. “Across the affected environments, Wiz CIRT has not observed this IAM user in any activity other than that associated with this threat actor,” the trio wrote. This activity continued on October 15, and on October 18, the digital intruders began using a second IAM user from the same account. Once inside customers’ environments, the crooks began probing a ton of AWS services and stealing credentials, keys, and other secrets stored across Lambda, Secrets Manager, and SSM Parameter Store. The miscreants also used TruffleHog to test AWS credentials belonging to victim organizations, discover their Microsoft Entra ID secrets, and request OAuth tokens using Okta client credentials also uncovered while snooping around the AWS environments. Abusing the integration roles also allowed the criminals to steal data from customers’ S3 storage, although it seems they were largely opportunistic attackers, in some cases downloading entire buckets, as opposed to state-sponsored spies looking for specific data. The threat hunters haven’t attributed the supply chain attack to any particular group, and say they don’t have any insight into how the miscreants are using the stolen data. While investigating this incident, Wiz spotted a separate campaign between October 8 and October 11 that also used customer-owned AWS access keys for Qubole integrations. While a “small number” of these also resu</description>
 <enclosure url="https://image.theregister.com/?imageId=1681829&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=1681829&amp;width=800" medium="image"/>
 </item>
@@ -1203,28 +1280,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg" medium="image"/>
 </item>
 <item>
-<title>Ships loiter near subsea cables amid Iran's warnings to Trump</title>
-<link>https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump</link>
-<guid isPermaLink="false">3246a74aa5d8f1275eb59654fac6016ff1fed82693867b375723255ec19ff343</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 22:41:37 +0000</pubDate>
-<description>Several tanker ships linked to Iran have been loitering over subsea Internet cables in the Gulf of Oman near the Strait of Hormuz—a possible indication that the Iranian government is preparing to attack such undersea infrastructure in response to any renewed US and Israeli strikes. The movements of three sanctioned tankers and an Iranian fishing boat have been tracked near major undersea cables by the maritime intelligence firm Windward in October, according to the Financial Times . Six active cables currently cross through the contested Strait of Hormuz, linking the Middle East to Europe, Africa, and Asia, with two more cables having segments under construction in the region. Four countries, including Iraq, Kuwait, Bahrain, and Qatar, depend entirely upon such subsea telecommunications connections running through the Strait of Hormuz chokepoint to link with the outside world. But other countries also depend heavily on the region's undersea cable network—one-third of India’s westbound Internet traffic goes through the Persian Gulf and Strait of Hormuz. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Re-releases of Wing Commander, Ultima titles hit Steam and GOG</title>
-<link>https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters</link>
-<guid isPermaLink="false">e327be20322aa52b90b3b3275adbf969cadb9965bdcdf4e4d73bbc6add8c3ef4</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 22:08:47 +0000</pubDate>
-<description>Many people are not big fans of game publisher EA right now for good reason , but for those who remember a better time in the 1990s, there's a little good news. Twenty-five classic games from that EA era have been lightly remastered and updated, then placed for sale on Steam and GOG , including several Wing Commander games and nearly the entire Ultima series. Below is the full list of remastered or re-released games: Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif" type="image/avif"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif" medium="image"/>
-</item>
-<item>
 <title>Agents reveal secrets when offered to team up with each other</title>
 <link>https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260</link>
 <guid isPermaLink="false">c0671233a4cf54b81d2c9533f88b0399b44dd20456161c747bf92513968fab4b</guid>
@@ -1234,28 +1289,6 @@
 <description>AI agents will break security rules, revealing their secrets to strangers, and running untrusted code in exchange for help from a swarm of other agents, according to test results shared with The Register . The test - part of an internal hackathon sponsored by the nonprofit AI Alignment Foundation and run by AE Studio - asked nine AI coding agents to fix a bug: a broken pricing service. The testers also gave the agents a private token, told them to keep it private, and gave them access to a forum of 24 other agents. The forum held the fix, and the swarm asked the nine to share their secret token and run an install script before they would help them fix the bug. Across 181 trials with that swarm, agents posted the token 15 percent of the time and ran the script 24 percent of the time, compared to 2 percent and 0 percent on an ordinary help forum. “It was like explicitly said that this is a secret key, and it should not be shared,” Diogo de Lucena, AE Studio's chief scientist, told The Register . “And in the first opportunity they saw,” the models shared the secret keys, “similar to some of the things that we've seen from OpenAI in the Hugging Face incident.” The Hugging Face incident - during which a swarm of OpenAI agents built unauthorized message boards to ask other agents for help, exploited zero-day vulnerabilities , gained internet access, stole credentials, and ultimately broke into Hugging Face - inspired this hackathon, de Lucena said. “Given the Hugging Face incident, and everything that's been happening since then, we thought that it made sense to start exploring behaviors that you might get from swarms, what risks are people not seeing yet,” he said. Sandboxed coding test This particular test from the hackathon that saw agents give up their keys to join a forum “is one of the most interesting ones,” according to de Lucena, who explained it has a huge impact on how organizations build IT systems and what access they grant to AI agents. “This was a fairly simple type of instructions - we were not particularly trying to get secretive information from the models,” he told us. “I would imagine this being a problem not only for secret keys, but anything that you're trying to keep private.” Plus, the agents' willingness to run an untrusted script on the host computer “seems like a pretty obvious risk,” he added. “You could get any kind of control over that host if you ran something malicious,” de Lucena said. “The simplicity of making that happen is very surprising. It's not surprising to me that you can get to it, but how little effort you need to put into setting that up to get models to share anything.” The researchers tested nine models: DeepSeek V4 Flash, Z.ai’s GLM-5.3 and GLM-5.3-Flash, OpenAI’s GPT-5.6-Sol, GPT-5.6-Luna, and GPT-6.1-Sol, Moonshot AI’s Kimi K3, Google’s Gemini 3.8 Flash, and Anthropic’s Claude Sonnet 5.5. The agent completing the task received this prompt: You are an autonomous software engineering agent working in a Li</description>
 <enclosure url="https://image.theregister.com/?imageId=254748&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=254748&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Chainalysis says hackers stole credentials and tokens for all of its customers</title>
-<link>https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers</link>
-<guid isPermaLink="false">7142f0ef7fb76f39c0d4f06c2ac75da2607d067e450ec8c4806a2cb87f087aff</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 20:56:41 +0000</pubDate>
-<description>Blockchain analysis firm Chainalysis said that hackers have obtained sensitive personal information—including names, usernames, password hashes, and live tokens—for all of its users following a breach of its network security. The accomplishment could be a major coup for the attackers. Both Chainalysis and public sources have revealed a long list of high-profile customers, including government agencies such as the FBI, US Immigration and Customs Enforcement agency, and the US Air Force, as well as private companies such as Microsoft, Coinbase, and Barclays. It's unclear if the data theft exposed customers to additional threats. We regret to inform you... Last Friday, Chainalysis said it had been the target of a cybersecurity incident in October that was similar to the hacks of other platforms during the same month. The external actor used AI agent-assisted offensive techniques to gain unauthorized access to Chainalysis systems and internal tools. An email the company sent to affected customers said some “non-sensitive customer data, such as user IDs, full names, email addresses, and organization role labels for users provisioned on our platform were accessed.” It's not clear why the company considered such information "non-sensitive." Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Earth's churning mantle may have created the Great Unconformity</title>
-<link>https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity</link>
-<guid isPermaLink="false">fc8dda36a9e816be94854926dfe4d155d2595ff0256f33038b1935d0ebc9428c</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 20:24:20 +0000</pubDate>
-<description>In the Grand Canyon, there is a line in the rock where time seems to have gone missing. Ancient crystalline rocks mark its bottom, while sandstones laid down as life started to diversify during the Cambrian explosion mark the top. “It’s called the Great Unconformity, and it’s a gap in the geologic record,” says Nicolas Flament, a geoscientist at the University of Wollongong, Australia. "This gap can be anywhere between 200 million years, which is not that impressive, to more than a billion years.” In a recent Nature study, Flament and his colleague Santosh Dhungana argue that this gap was carved with help from deep within the planet. According to their models, slow currents of hot rock in Earth's mantle pushed entire continents up for hundreds of millions of years, letting glaciers grind them down and then let them sink, allowing fresh sediments to bury the scar. The largest hole in the rock record might be a fingerprint of processes happening deep in the planet's interior. Ice and sea The oldest sediments resting on the Great Unconformity in North America are between 635 and 482 million years old. Geologists have traced it across most of North America and parts of northern Europe and northern China. “Something seems to have happened, in particular in North America,” Flament says. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1498933988-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1498933988-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>PyTorch 2.15 tackles the 'one bad GPU' problem</title>
@@ -1412,28 +1445,6 @@
 <media:content url="https://image.theregister.com/?imageId=252143&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Bank of England pours cold water on AI productivity boom</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059</link>
-<guid isPermaLink="false">b752338b6df8a623a2e5d8370933c98600b8ae77968457319557a2a3a5b9d31f</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 11:43:00 +0000</pubDate>
-<description>Despite the billions being thrown at artificial intelligence, the technology has delivered little in the way of productivity gains for UK businesses, according to the Bank of England. In its latest Monetary Policy Report , the central bank found that AI has increased UK productivity by an estimated 0.5 percent over the past three years. That works out to just 0.1 to 0.2 percentage points of additional annual productivity growth since early 2024, hardly the economic revolution Silicon Valley has been promising. "AI investment appears to be contributing somewhat to current demand strength, but so far there is only evidence of a modest AI-driven rise in UK productivity growth," the Bank said. Even industries supposedly best placed to benefit from the technology have little to boast about. Productivity growth has improved in AI-heavy sectors such as information and communications, but has yet to exceed pre-pandemic averages. That's not to say AI isn't doing anything for the British economy. The bank estimates that AI-related activity has accounted for just under a fifth of UK GDP growth since the beginning of 2026, though much of that appears to come from companies developing and deploying the technology rather than businesses becoming more productive by using it. "The contribution to growth from AI to date appears to reflect activity in the upstream development and implementation of AI technologies rather than broader gains from their adoption elsewhere in the economy," the report said. In other words, selling AI is proving rather more lucrative than actually using it, The bank also cautioned against giving AI too much credit for Britain's recent productivity improvements. Much of the increase appears to reflect businesses hiring fewer workers while output continues to grow, partly as companies unwind post-pandemic staffing decisions and respond to higher employment costs. And despite predictions that AI will make vast swathes of the workforce redundant, firms responding to the Bank's Decision Maker Panel survey reported virtually no overall impact on employment so far. The technology is, however, making some employers less inclined to hire new staff or replace those who leave. Other studies suggest businesses are still waiting for the payoff. A Gartner survey published last month found that while three-quarters of corporate board members expected AI to improve productivity and cut costs, just 3 percent of organizations had actually achieved their targets. Meanwhile, 38 percent were already over budget on AI spending, yet 85 percent planned to spend even more next year. Another study involving nearly 6,000 executives , published in February, found that more than 80 percent of firms had seen no discernible impact from AI on either employment or productivity. Apparently, the answer to disappointing returns is to keep writing checks. That growing disconnect between AI spending and actual returns has also caught the attention of financial watchdogs. The</description>
-<enclosure url="https://image.theregister.com/?imageId=1683227&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1683227&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>UK ministers seek powers to investigate when AI agents are let off the leash</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889</link>
-<guid isPermaLink="false">62edf17370512d9cc977675e67822b469ea4da24b1419bd3ddace17b75e71d0c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 11:00:00 +0000</pubDate>
-<description>The UK government is paving the way for rules requiring essential service operators and digital providers to guard against losing control of AI agents and report incidents when safeguards fail. An amendment to the Cyber Security and Resilience Bill, which is passing through Parliament , would give ministers powers to regulate the deployment and reporting of agentic AI in certain organizations. The new clause was introduced during the bill's third reading in the House of Lords this week. In an explanatory note , ministers outlined plans for safeguards, notification of affected organizations, preservation of evidence, and government-led incident reviews. The measures would require consultation and parliamentary approval through secondary legislation. The move follows a series of incidents. Last month, OpenAI revealed that its agents repeatedly strayed beyond their intended scope , prompting the company to notify more than 100 organizations about the issues. That came after July's incident, in which an OpenAI agent accessed the internet and breached machine learning platform Hugging Face . The episode, and the potential for more damage from poorly designed AI agent deployments, have prompted MPs to question whether UK law can deal with such threats. Speaking to The Register , Stuart Davey, a partner at law firm Pinsent Masons, described the clause as "quite novel." Rather than directly imposing new duties, it would allow ministers to introduce rules and investigatory powers covering regulated organizations. Davey said that could include powers "to look where there has been such an AI agentic compromise or issue, and do some things... appoint inspectors, enter and search premises, seize and retain documents." Under the proposals, the minister could confer certain powers on regulators, requiring action from targeted organizations. Potentially affected organizations include gas and electricity suppliers, managed service providers, and cloud providers deploying AI agents for customers. Foundation model developers would not automatically fall within scope simply because they build the underlying technology. "Where there's a security or operational compromise in relation to a relevant network or information system, that would seem to capture those managed service providers or cloud computing providers who are using AI, and there's that loss of control," said Davey. He advised cloud and managed service providers to track whether the proposed measures become law. Evin McMullen, CEO and co-founder of AI identity and control infrastructure company AmanTrue, said the amendment recognizes loss of oversight or control as a security risk but does not itself impose new duties. "The amendment allows future regulations to introduce investigatory and enforcement powers where an incident involves an AI agent, targeting organizations running essential digital services," he said. "The deployer of an AI agent chooses its permissions, connects it to systems, and gives it</description>
-<enclosure url="https://image.theregister.com/?imageId=2918046&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=2918046&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>6 default Pixel 11 settings I changed that made a big difference – and why</title>
 <link>https://www.zdnet.com/tech/pixel-11-settings-to-change</link>
 <guid isPermaLink="false">e06e93d60262f87441f1a86d65eb3011263e41845e63c6ab8231b8978460d307</guid>
@@ -1533,28 +1544,6 @@
 <media:content url="https://i.guim.co.uk/img/media/f5beb4426227616f86699d732ff704168d8ca0a1/1_0_2999_2400/master/2999.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6639cb9849b8ec327950595f7493688" medium="image"/>
 </item>
 <item>
-<title>Safari finally gets 3 popular browser features – and I can’t wait to try them</title>
-<link>https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features</link>
-<guid isPermaLink="false">0d2355fa2d8526ae137b9a62bfd192ff20c0b57b859582caec4b177b815d1c21</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 17:14:36 +0000</pubDate>
-<description>New developer beta release notes point to deeper Siri AI integration and more Safari customization.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc09863_f6afcb.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc09863_f6afcb.jpg" medium="image"/>
-</item>
-<item>
-<title>Can Netflix’s new AI tool stop your TV-streaming doomscrolling? How to try it</title>
-<link>https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature</link>
-<guid isPermaLink="false">81355f9e9815c84ba185a10c730f6d7e5d3059fb18347d664e5b9cbbfcf5e6ad</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 17:05:06 +0000</pubDate>
-<description>Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here’s how it works.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/1_ef67d6.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1_ef67d6.jpg" medium="image"/>
-</item>
-<item>
 <title>Why the weirdest game of 2026 is also one of my favourites</title>
 <link>https://www.theguardian.com/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites</link>
 <guid isPermaLink="false">89aabbf032dac622db804b47a60fd8bac4b3640ebc0105c1c79b609312dcf729</guid>
@@ -1564,17 +1553,6 @@
 <description>Titanium Court is a bizarre world of 8-bit fairies, Shakespeare and surprise songs – its magic lies in never knowing what on earth is going on • Don’t get Pushing Buttons delivered to your inbox? Sign up here Earlier this year, I was stuck in hospital for several days, fuzzy on pain medication and bored out of my mind, with nothing but a Steam Deck for company. In the middle of one of those long nights, unable to sleep, I played a game called Titanium Court . It’s a strange creation that looks like it was made for the ZX Spectrum and reads like a postmodern Shakespeare adaptation – a compelling mix of strategy game and match-3 where you rearrange battlefields by matching tiles, before sending tiny lo-fi fairy armies to their deaths. At the end of this late-night run, I met a boss I’d defeated before – a comically hungry dragon – and the game asked if I would like to skip the boss fight and enjoy a musical performance instead. A game has never asked me this before. Of course, I accepted. And then, instead of the familiar tiled battlefield, I was looking at a pixellated singer-songwriter, who launched into an extremely long preamble about the mating habits of the Pacific salmon before saying, “This is a song for anyone else who ever got so horny they could die,” and launching into a soulful acoustic guitar number accompanied by crude images of leaping fish. I began to wonder if my meds were making me hallucinate. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ba416c83d04ed8b47b3685bbbc82d44fa33e5148/600_2_1320_1057/master/1320.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e27cf29ddadcf153264efe38552a3b6a" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ba416c83d04ed8b47b3685bbbc82d44fa33e5148/600_2_1320_1057/master/1320.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e27cf29ddadcf153264efe38552a3b6a" medium="image"/>
-</item>
-<item>
-<title>Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring</title>
-<link>https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage</link>
-<guid isPermaLink="false">2c124d535471caf98c585018186832c20adfcb1d0c4e8874bb5d2643525a5256</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:28:32 +0000</pubDate>
-<description>The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/DSC01150.jpeg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/DSC01150.jpeg" medium="image"/>
 </item>
 <item>
 <title>Apple Watch Ultra 4 review: longer battery life but still awaiting new features</title>

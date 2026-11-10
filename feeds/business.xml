@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI builds kill switch to stop rogue agents within 35 seconds</title>
+<link>https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents</link>
+<guid isPermaLink="false">0c4de2a1d158b30fb2df09e4dd7d684e74ca0cd6ca9ee8548d51d986bda6abf1</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 03:04:54 +0000</pubDate>
+<description>Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71N7GC9GWKMNHVENCJ5D0PB/hi-how-to-launch-and-push-prediction-markets-moonpay.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71N7GC9GWKMNHVENCJ5D0PB/hi-how-to-launch-and-push-prediction-markets-moonpay.jpg" medium="image"/>
+</item>
+<item>
 <title>HIVE, MARA mine more Bitcoin but earn less as crypto prices fall</title>
 <link>https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls</link>
 <guid isPermaLink="false">ebc745fa84898bc05a6673b58dd2fff7f48b3c51e54b2748b7b4ab62239ed7d2</guid>
@@ -772,17 +783,6 @@
 <description>FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>US Treasury cuts off MEXC over alleged $16B in illicit transactions</title>
-<link>https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions</link>
-<guid isPermaLink="false">1d6eb0661d11bcea0df3365ad327fb131daeef8eaf9fc6fd42faf0158d461c62</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 21:05:25 +0000</pubDate>
-<description>The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Global.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png" medium="image"/>
 </item>
 <item>
 <title>Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi</title>

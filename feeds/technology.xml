@@ -4,13 +4,189 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin</title>
+<link>https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523</link>
+<guid isPermaLink="false">b484ce188f49530b48dffe92bfe50934868cf787d50fe73669ce7fa7d0b1637b</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
+<description>AMD's upcoming Verano processors aren't like any Epyc CPUs we've seen before. Rather than general-purpose workloads, Verano is designed specifically to power AMD's next generation of GPU servers. In an interview with The Register during a press event in Las Vegas last week, Madhu Rangarajan, CVP of AMD's compute and enterprise AI products business, described Verano as being the first step towards building something that more closely resembles Nvidia's Vera Rubin superchips. "Verano is really designed for an integrated CPU+GPU rack scale solution," he said. "From that perspective, I wouldn't say the CPU is a competitor to Vera. In a head note, I'd say the Verano+GPU solution is a competitor to Vera+Rubin." For reference, Vera Rubin and the GB200 and GB300 that came before it aren't your typical server platforms. Instead they're more like an enormous single-board computer combining CPUs and GPUs into a tightly-integrated package. Each of Nvidia's superchips joins a single 88-core Vera CPU and 1.5 TB of LPDDR5X memory to a pair of Rubin GPUs via Nvidia's speedy NVLink-C2C interconnect. Rangarajan tells us Verano will be the host CPU for a similar class of product using AMD GPUs, and much like Nvidia's superchips, the CPU will also use notebook memory rather than conventional RDIMMS. However, unlike Vera, which is also being deployed as a standalone CPU in storage servers and agent sandboxes, Verano has a singular purpose: keeping its GPUs fed. (We assume they'll be MI500X GPUs.) This design choice reflects AMD's philosophy of one SKU per workload. As such, Verano's core count, clock speeds, memory bandwidth, power, and I/O have been rebalanced to keep its GPUs fed and not much else. Under the hood If we were to peel back Verano's heat spreader, the chip looks a lot like the Venice Epycs we looked at back in September. It features either six of AMD's core complex dies (CCDs) for a total of 72 high-frequency cores clocking to 5.3 GHz, or 192 density-optimized cores clocking to 4.1 GHz, depending on whether the customer's workloads prefer core density or faster clocks. But that's about where the visual similarities end. Much of the chip has been reworked to eliminate data flow bottlenecks between the CPU and the GPUs it is responsible for feeding. The chip features an entirely custom pair of I/O dies through which four LPDDR5X memory controllers are attached. Those memory controllers are currently being validated for use with 24 channels of memory at up to 8,533 MT/s. We're told that we may see that creep up a bit depending on how much headroom AMD has when the part starts shipping next year, but for now that's what AMD is validating against. That means the platform not only has fewer cores, but also slower memory. Peak theoretical memory bandwidth tops out at around 800 GB/s, which you might have noticed is half of what AMD's top-specced Venice parts can do and about 66 percent of Nvidia's Vera. What LPDDR seems to buy AMD is a 30 to 40 percent reduct</description>
+<enclosure url="https://image.theregister.com/?imageId=161325&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=161325&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Don't throw away your old phone box — you might need it in an emergency</title>
+<link>https://www.engadget.com/2307779/dont-throw-away-your-old-phone-box</link>
+<guid isPermaLink="false">0310272a8965301b549e533afbebf2229d3ee6ba0e669928bcd91958770ddb92</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:45:00 +0000</pubDate>
+<description>If you're thinking of tossing your old phone box, here are the practical reasons the packaging is worth holding onto, including what to do in an emergency.</description>
+<enclosure url="https://www.engadget.com/img/gallery/dont-throw-away-your-old-phone-box-you-might-need-it-in-an-emergency/l-intro-1793376704.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/dont-throw-away-your-old-phone-box-you-might-need-it-in-an-emergency/l-intro-1793376704.jpg" medium="image"/>
+</item>
+<item>
+<title>Google’s new AI tool just proved Signal encryption really works – here’s how</title>
+<link>https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works</link>
+<guid isPermaLink="false">20772dbda054f7d06b65ae1b7efcba6876c84b7eb23694330040cc04123753ac</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:31:47 +0000</pubDate>
+<description>With the aim of securing other vital systems, Google DeepMind plans to open-source its AlphaProof Code.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2206371598.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2206371598.jpg" medium="image"/>
+</item>
+<item>
+<title>High oil prices have led to a dip in global carbon emissions</title>
+<link>https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last</link>
+<guid isPermaLink="false">8bebeeb78f54a7d4aac445176b7ccc907b30c676bbd62638b3a218e28a838faa</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:29:27 +0000</pubDate>
+<description>Evaluating the annual global temperatures each year requires context. There is a fair amount of natural variability from one year to the next, so it’s important to focus on the trend over time. Famously, global warming did not end in 1998, as some claimed a couple of decades ago—we just had a run of La-Niña-dominated years after a very strong El Niño. Annual greenhouse gas emissions are much less variable, having increased fairly steadily, but many complicating factors can still muddy the picture. Sometimes those factors conspire to throw a year off the trend. It looks like 2026 will be one of those years. A new analysis led by Corinne Le Quéré at the University of East Anglia estimates that fossil fuel emissions have fallen about 0.4 percent from last year. This probably isn’t a peak that symbolizes heartening progress on climate change, though; the researchers think it’s a short-term dip driven by the war in Iran and its effect on oil prices. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>eBay appears to have shut the door on third-party AI agents</title>
+<link>https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping</link>
+<guid isPermaLink="false">de59f40c4070218b9f64d96dc14e11795505bb93f2028f62ce2e4eb974d4441c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:20:30 +0000</pubDate>
+<description>eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was unable to pull any links or details from eBay, with Muse saying it was blocked from the site. The Verge was able to re-create the experience using other search requests, and in some cases we found that Muse instead directed users … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>One space station company sues another for copying its work</title>
+<link>https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work</link>
+<guid isPermaLink="false">67f440dce0e98664f34c860dd3293b11cb699d6ff983abeaa83a5422e429be68</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:17:51 +0000</pubDate>
+<description>NASA's competition for the development of private space stations that will take flight in the 2030s is already nearing crunch time. But a recently unsealed lawsuit may spice things up even further. The lawsuit involves two of the most prominent companies in this competition, Houston-based Axiom Space and Long Beach, California-based Vast Space. And it is surfacing as final proposals for private space stations are due from companies to the US space agency a little more than one month from today, on December 14 . According to the court filings unsealed by a November 4 order from US District Judge Charles Eskridge, Axiom is pursuing a False Claims Act case against Vast in which Axiom accuses Vast of presenting NASA with a fraudulent mission-planning document that incorporates Axiom's proprietary information. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>What is the difference between rest mode and shutdown for your PlayStation 5?</title>
+<link>https://www.engadget.com/2307774/playstation-5-shutdown-vs-rest-mode-differences</link>
+<guid isPermaLink="false">ecdc280ee2ef5a9211338796ee512f57ec3ceee2ee0f2809666b0f5962b3922a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:15:00 +0000</pubDate>
+<description>Rest mode is more convenient, but shutting the console off could give you more piece of mind.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-is-the-difference-between-rest-mode-and-shutdown-for-your-playstation-5/l-intro-1793390186.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-is-the-difference-between-rest-mode-and-shutdown-for-your-playstation-5/l-intro-1793390186.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump taps Palantir security chief to run battered US cyber defense agency</title>
+<link>https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763</link>
+<guid isPermaLink="false">d04ccd86df73d515e305e040ea4980b7ec63d5644e6d52b914d5310f060d6c71</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:15:00 +0000</pubDate>
+<description>President Donald Trump has nominated Palantir security chief Michael LoSapio to lead CISA, putting an executive from the controversial government supplier in line to run America's civilian cyber defense agency. The nomination , announced on Monday, could end CISA's nearly two-year wait for a Senate-confirmed director following Jen Easterly's departure in January 2025. LoSapio has served as Palantir's CISO since September 2024 , having previously led the company's infrastructure and network security team. He first joined the data analytics outfit in 2013, later spent a spell at database company SingleStore, and returned to Palantir in 2017. If confirmed, LoSapio would move from securing Palantir's systems to leading the federal government's main civilian cyber defense agency. CISA protects federal civilian networks and works with critical infrastructure operators, including power, water, and telecommunications providers. It's a substantial job, particularly given the state of the agency he would inherit. CISA has shed more than 1,000 staff, roughly a third of its workforce, since Trump returned to the White House, according to reports . It's now trying to plug the gaps, although acting director Nick Andersen said in September that around 250 would-be recruits were still waiting for security clearance before they could get to work. Andersen has been running CISA since February. With fewer people to go around, CISA is also rethinking where to spend its time. A strategy published last month emphasizes infrastructure whose failure would do the most damage, raising questions about what gets less attention as the agency operates with fewer staff. LoSapio would be the second person Trump has put forward for the role. His previous pick, Sean Plankey, withdrew in April after spending more than a year awaiting confirmation, with his nomination becoming caught up in a dispute involving Republican Senator Rick Scott over Coast Guard contracting. The nomination arrives late in the congressional calendar. If the Senate does not confirm LoSapio before the current Congress ends, Trump would have to nominate him again for consideration by the incoming Democratic-controlled Senate. Palantir, co-founded by billionaire Peter Thiel, has become a major supplier of technology to US government agencies, including the Department of Homeland Security and Immigration and Customs Enforcement (ICE). Its work with immigration authorities has attracted criticism from civil liberties groups and Democratic lawmakers concerned about surveillance and the handling of sensitive personal information. The controversy isn't confined to the US either. In the UK, WhatsApp messages obtained by campaign group Foxglove this week indicate that Palantir privately lobbied a health minister to consider extending its software into GP patient records, despite that data being expressly excluded from its £330 million NHS England contract for the Federated Data Platform. That revelation follows news</description>
+<enclosure url="https://image.theregister.com/?imageId=5219759&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5219759&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Flying cars could launch in China next summer, maker of two-seat model says</title>
+<link>https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng</link>
+<guid isPermaLink="false">a0a19dee53bf45e236c6b4666461711ee4f1f1739c0e477fe741f20be23f88f7</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:14:50 +0000</pubDate>
+<description>XPeng says its $300k low-altitude device will soon be ready for emergency services and recreational use in rural areas People could start taking trips in flying cars in China as soon as next summer, the manufacturer of a two-seater vehicle with autopilot model has said. Deli Zhao, the chief executive of the Chinese flying car company XPeng, said the $300,000 (£225,000) low-altitude device would be ready for use by recreational users in rural locations and by emergency services in the second half of 2027. After 10 years of development including trials of flying motorbikes at the company’s Guangzhou base, it has been approved by China’s civil aviation authorities for limited use. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/8df726b5a5310c3a6db89297bbc9ba32d8cfa244/279_0_3938_3150/master/3938.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63e1843676a253bdc473da5b8c2ef10d" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/8df726b5a5310c3a6db89297bbc9ba32d8cfa244/279_0_3938_3150/master/3938.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63e1843676a253bdc473da5b8c2ef10d" medium="image"/>
+</item>
+<item>
+<title>Anthropic targets valuation of up to $1.4tn in stock market flotation</title>
+<link>https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai</link>
+<guid isPermaLink="false">d3a0388562c166c7c812bfaf0b2248e509f8b7082e3b854e4cd55773da493c20</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:13:13 +0000</pubDate>
+<description>Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.05tn) in its imminent stock market flotation , short of the $2tn that had been expected before investors started to question the durability of the AI boom. The developer of the Claude chatbot was widely reported to be targeting a $2tn initial public offering on Wall Street but its sights have been set lower, according to a US regulatory filing on Tuesday. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3586ac777991f2da7b10a4c3f68514ec" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3586ac777991f2da7b10a4c3f68514ec" medium="image"/>
+</item>
+<item>
+<title>GTA 6 is targeting 30 fps and has ray-tracing support on PS5 Pro</title>
+<link>https://www.engadget.com/2312120/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro</link>
+<guid isPermaLink="false">58491197ee6aebc076048d13a69adf3ff1c7959d0339f7adde110a3d8c2a696f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:12:44 +0000</pubDate>
+<description>Xbox Cloud Gaming support means you'll be able to stream GTA6 on Xbox One.</description>
+<enclosure url="https://www.engadget.com/img/gallery/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro/l-intro-1794327030.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro/l-intro-1794327030.jpg" medium="image"/>
+</item>
+<item>
+<title>The Verge’s 2026 holiday gift guide for moms</title>
+<link>https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026</link>
+<guid isPermaLink="false">0b13fcdeacb74b876a02d3a91328b03a5b9ef74aecace726dfd6069d6fce83e5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+<description>Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've done the hard work for you. To help you make the mother figure in your life feel truly appreciated, we've created a sprawling list of intriguing, lovingly curated gift ideas. From a ring watch and luxe portable gaming deck to a better robovac and an AI-powered bird feeder that brings nature to her doorstep, our list has something to fit all of you … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google releases Gemini 4 Carbon with agent ‘swarm’ feature</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout</link>
+<guid isPermaLink="false">8658a0744e2cda3c83edc7395ba9133cee48edefa3de13f5be7acb0d9b5226a6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+<description>Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of "cybersecurity defenders" two weeks ago. Google claims Carbon is its "strongest model" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon "pushes the frontier even further" than Argon, referring to the company's other frontier model that launched only last month . The company said Argon will likely remain "the ideal choice for the majority of software engineering and knowledge work," but that Carbon is "built for tasks that test the limits of a model's intellige … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google's Gemini 4 Carbon is now widely available around the world</title>
+<link>https://www.engadget.com/2311855/gemini-4-carbon-now-available-worldwide</link>
+<guid isPermaLink="false">a174803f899953fcaf33eab15e46a64323ad14111adc2bd7c452c4e608c649c7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+<description>Google is rolling out Gemini 4 Carbon after a limited release to cybersecurity companies.</description>
+<enclosure url="https://www.engadget.com/img/gallery/googles-gemini-4-carbon-is-now-widely-available-around-the-world/l-intro-1794310699.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/googles-gemini-4-carbon-is-now-widely-available-around-the-world/l-intro-1794310699.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple brings Sign Language interpretation to a selection of original Apple TV titles</title>
+<link>https://www.engadget.com/2311778/apple-sign-language-interpretation-original-apple-tv-titles</link>
+<guid isPermaLink="false">d8f428997c7288f2a15fa7cb4a9190570cdaca7059e75c24de067489287b522e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+<description>You'll be able to watch 'Being Heumann,' 'F1' and other original titles with sign language interpretation.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apple-brings-sign-language-interpretation-to-a-selection-of-original-apple-tv-titles/l-intro-1794283507.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-brings-sign-language-interpretation-to-a-selection-of-original-apple-tv-titles/l-intro-1794283507.jpg" medium="image"/>
+</item>
+<item>
+<title>Your FitBit Versa and Sense smartwatches will lose some features this month – what to know</title>
+<link>https://www.zdnet.com/tech/fitbit-versa-sense-smartwatches-third-party-apps</link>
+<guid isPermaLink="false">48b72e8c3b1650b35f2ba18383444e0deec7d00dc95c2a47c57edb6740fec1b6</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 15:55:35 +0000</pubDate>
+<description>Time’s running out for some Versa and Sense models. After Nov. 28, you can no longer install or update third-party apps or clockfaces on these Google smartwatches.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/fitbit-versa-2-3_287f7c.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/fitbit-versa-2-3_287f7c.jpg" medium="image"/>
+</item>
+<item>
 <title>Ember’s latest self-heating 14-ounce mug is $50 off</title>
 <link>https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale</link>
 <guid isPermaLink="false">34acddedba1324c5039298990038002cd438dde91ebf48dd0c98626df126b845</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 15:47:18 +0000</pubDate>
-<description>You can toggle through temperature settings directly from the mug, or from within the app. | Image: The Verge If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3 , you might warm up to the current discount happening at Amazon , Ember , and Best Buy for several colors of the (top rack) dishwasher-safe mug. It’s 33 percent off, dropping to $99.99 — still not cheap, but cheaper, and notably just $10 more than the 10-ounce version. Ember Mug 3 (14-ounces) Where to Buy: $149.95 $99.99 at Amazon $149.95 $99.99 at Best Buy $149.95 $99.99 at Ember The Mug 3 affords you a couple of ways to control your drink’s temperature. A power button on the bottom of the mug can cycle between five temperature presets (125 to 145 degrees Fahrenheit), or you can use the app. It includes a sipping lid, and Ember claims that the Mug 3’s battery can keep drinks hot for up to three hours with the lid on. Without it, drinks stay hot for 80 minutes, the same battery claim as the Mug 2. As we inch closer to the gift-getting season, the Ember Mug 3 seems like a solid product to snag for a coffee or tea lover who works from home, or for parents who have their hands full with kids and could always use a cuppa. window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/holiday-garmin-vivoactive-5-ivory.png", productImageAlt: "Garmin vívoactive 5 at Walmart", productTitle: "Garmin vívoactive 5 at Walmart", shortDescription: "Give their everyday an upgrade with the Garmin vívoactive 5, a fitness smartwatch available at Walmart.", longDescription: "For the person who likes to keep moving, the Garmin vívoactive 5 makes a thoughtful holiday upgrade. Its colorful AMOLED display, built-in sports apps, and up to 11 days of battery life in smartwatch mode bring useful features to their wrist. Find the Ivory model at Walmart and check one more gift off your list.", purchaseUrl: "https://goto.walmart.com/c/482924/565706/9383?subId1=WalmartGiftingHypeDesk&amp;veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https%3A%2F%2Fwww.walmart.com%2Fip%2Fseort%2F5020233074&amp;partnerpropertyid=7032191", purchaseLinkText: "Shop Garmin at Walmart" }; Some more great Verge-approved deals Criterion Collection DVDs and Blu-rays are half off through December 6th at Amazon and Barnes and Noble , meaning you have plenty of time to assemble a wishlist of movies you want to buy ahead of the holiday season. The company’s catalog of films is vast, and it’s the best place to get limited edition releases of cherished films, old and new. Some of Criterion’s recent physical releases have been a hit, especially because they’ve quickly sank in price. KPop Demon Hunters on 4K Blu-ray is just $24.99 at Amazon and Barnes and Noble . Also, The Complete Kubrick boxset (currently the only way to get 4K Blu-ray versions of every one of the director’s legendary films) is half off, too, down to $299.99 . I’ve been wanting a USB-C cable that coils itself magnetically sin</description>
+<description>You can toggle through temperature settings directly from the mug, or from within the app. | Image: The Verge If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3 , you might warm up to the current discount happening at Amazon , Ember , and Best Buy for several colors of the (top rack) dishwasher-safe mug. It’s 33 percent off, dropping to $99.99 — still not cheap, but cheaper, and notably just $10 more than the 10-ounce version. Ember Mug 3 (14 ounces) Where to Buy: $149.95 $99.99 at Amazon $149.95 $99.99 at Best Buy $149.95 $99.99 at Ember The Mug 3 affords you a couple of ways to control your drink’s temperature. A power button on the bottom of the mug can cycle between five temperature presets (125 to 145 degrees Fahrenheit), or you can use the app. It includes a sipping lid, and Ember claims that the Mug 3’s battery can keep drinks hot for up to three hours with the lid on. Without it, drinks stay hot for 80 minutes, the same battery claim as the Mug 2. As we inch closer to the gift-getting season, the Ember Mug 3 seems like a solid product to snag for a coffee or tea lover who works from home, or for parents who have their hands full with kids and could always use a cuppa. window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/holiday-garmin-vivoactive-5-ivory.png", productImageAlt: "Garmin vívoactive 5 at Walmart", productTitle: "Garmin vívoactive 5 at Walmart", shortDescription: "Give their everyday an upgrade with the Garmin vívoactive 5, a fitness smartwatch available at Walmart.", longDescription: "For the person who likes to keep moving, the Garmin vívoactive 5 makes a thoughtful holiday upgrade. Its colorful AMOLED display, built-in sports apps, and up to 11 days of battery life in smartwatch mode bring useful features to their wrist. Find the Ivory model at Walmart and check one more gift off your list.", purchaseUrl: "https://goto.walmart.com/c/482924/565706/9383?subId1=WalmartGiftingHypeDesk&amp;veh=aff&amp;sourceid=imp_000011112222333344&amp;u=https%3A%2F%2Fwww.walmart.com%2Fip%2Fseort%2F5020233074&amp;partnerpropertyid=7032191", purchaseLinkText: "Shop Garmin at Walmart" }; Some more great Verge-approved deals Criterion Collection DVDs and Blu-rays are half off through December 6th at Amazon and Barnes and Noble , meaning you have plenty of time to assemble a wishlist of movies you want to buy ahead of the holiday season. The company’s catalog of films is vast, and it’s the best place to get limited edition releases of cherished films, old and new. Some of Criterion’s recent physical releases have been a hit, especially because they’ve quickly sunk in price. KPop Demon Hunters on 4K Blu-ray is just $24.99 at Amazon and Barnes and Noble . Also, The Complete Kubrick boxset (currently the only way to get 4K Blu-ray versions of every one of the director’s legendary films) is half off, too, down to $299.99 . I’ve been wanting a USB-C cable that coils itself magnetically sin</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/embermug3.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/embermug3.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -164,7 +340,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 14:06:54 +0000</pubDate>
-<description>Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the New York Times . The Wall Street Journal reports that according to its sources, Anthropic is "aiming for its shares to start trading Thursday or Friday next week." As Reuters notes, the Anthropic IPO was previously expected to be valued at as much as $2 trillion. As of last week, Anthropic's rival OpenAI was valued at $1.25 trillion . Those lower expectations follow months of … Read the full story at The Verge.</description>
+<description>Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times . The Wall Street Journal reports that according to its sources, Anthropic is "aiming for its shares to start trading Thursday or Friday next week." As Reuters notes, the Anthropic IPO was previously expected to be valued at as much as $2 trillion. As of last week, Anthropic's rival OpenAI was valued at $1.25 trillion . Those lower expectations follow month … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -213,17 +389,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Photoshop, Lightroom, and Premiere are making it easier to remove things</title>
-<link>https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates</link>
-<guid isPermaLink="false">e313ab2892aad27b24def402f633a53c500e2ceeae41113908c5d5fbfbdc04b7</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-<description>Photoshop’s Quick Compare feature lets you quickly review a before-and-after comparison of edits. | Image: Adobe Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI tools and collaborative experiences across Adobe's apps and Firefly suite. In Premiere, Adobe is introducing a new Generative Remove tool in beta that lets you erase unwanted objects and distractions like boom mics and background clutter directly on the video editing … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PS-Remove-No-Logo-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PS-Remove-No-Logo-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Spotify adds new voices for its AI DJ</title>
 <link>https://www.engadget.com/2311665/spotify-adds-new-voices-for-its-ai-dj</link>
 <guid isPermaLink="false">49fa0a955667715f0e8240ffb6c326e17d9d685e1ea1bd4adde9ce5bb419c2ae</guid>
@@ -266,28 +431,6 @@
 <description>That red dot on your Apple Watch indicates you have unread notifications. Here's how you can clear them and change your notification settings.</description>
 <enclosure url="https://www.engadget.com/img/gallery/heres-what-the-red-dot-on-your-apple-watch-means-and-how-to-clear-it/l-intro-1793823386.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/heres-what-the-red-dot-on-your-apple-watch-means-and-how-to-clear-it/l-intro-1793823386.jpg" medium="image"/>
-</item>
-<item>
-<title>Amazon turned its Alexa robot into a Ring security patrol bot</title>
-<link>https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business</link>
-<guid isPermaLink="false">c068d4b5ec3f4dbc6b426613fbb576e5d3fb205293d7d3e16f8fe74fa7cd27ee</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 13:30:00 +0000</pubDate>
-<description>As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. It borrows a lot of the design and functionality from the Astro home robot that Amazon first debuted in 2021 . The Rover Cam is targeted at businesses in need of an affordable security solution that can patrol and investigate concerns in large facilities, and it comes with a few upgrades. As with Astro, the Rover Cam rolls around on a pair of large wheels that help it navigate small obstacles or uneven terrain. It can be manua … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ringrover1_31dee3.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ringrover1_31dee3.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Hands-on with Ring’s new AI drone camera for your home</title>
-<link>https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot</link>
-<guid isPermaLink="false">1d8889c9661cfe547bb2e072a14f3e7c50093ea84305eb25460113c64e00d3d5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 13:30:00 +0000</pubDate>
-<description>Ring’s new Drone Cam is a flying indoor security camera. Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99 , Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced its first flying camera, the Ring Always Home Cam. Designed to patrol inside your home when you're not there, the Drone Cam is an AI-powered drone that can react to triggers from Ring sensors, such as detecting motion, a door opening, a water leak, or an alarm sounding. When triggered, it flies along preprogrammed routes to a set location, … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01268.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01268.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Amazon finally launches the $250 Ring Drone Cam and also the Ring Rover Cam</title>
@@ -345,17 +488,6 @@
 <media:content url="https://www.engadget.com/img/gallery/spacexs-first-attempt-to-catch-both-starship-stages-takes-place-november-13/l-intro-1794315716.jpg" medium="image"/>
 </item>
 <item>
-<title>‘Without storyboards, I feel like I’m in Grand Central station in my underwear’: film fights back against AI</title>
-<link>https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai</link>
-<guid isPermaLink="false">41a0f772447991ae2cb1646380bbd03bc58946a82d3e71c657bc7b7b286ee0e9</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 13:00:24 +0000</pubDate>
-<description>As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lost A film industry dominated by AI is a dystopian prospect: stories and dialogue generated by large language models, populated by reincarnated screen icons and uncanny humanoids . That is in the future, but the real-world impact of AI is already directly affecting jobs behind the scenes, as Hollywood’s biggest film-makers begin to adopt the technology. James Cameron – long an advocate for emerging technologies in film-making – is on the board of a gen AI firm , citing his interest in how AI will intersect with CGI; Steven Soderbergh used Meta-powered tech to create animations for his recent documentary about John Lennon ; even Christopher Nolan, while dismissing the idea that AI will replace humans as “nonsense”, conceded that it will create some useful “imaging tools”. The current canary in the coalmine however is the storyboard artist, whose work gen AI appears to have directly in its sights. Storyboard artists are the illustrators who draw the panels of images with notes and diagrams that map out scenes before they are filmed. Storyboards are used to work out how a film will look, and as a blueprint to communicate a director’s vision to cast and crew , and are one of the first steps in bringing a script off the page. Now they appear on the verge of replacement by programmes that use text prompts to create illustrations instead. Even an old-school diehard like Martin Scorsese has got on board; in June he announced a partnership with an AI firm whose text-to-image model he used in the storyboarding process for his next movie. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/58_263_5069_4056/master/5069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b939d72a993d8dbf3cd59fc55a77f63" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/58_263_5069_4056/master/5069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b939d72a993d8dbf3cd59fc55a77f63" medium="image"/>
-</item>
-<item>
 <title>SteelSeries Rival Pro review: Rock solid connectivity, speed and a nifty battery system</title>
 <link>https://www.engadget.com/2311251/steelseries-rival-pro-review</link>
 <guid isPermaLink="false">a65b2fb62d945fdea67b41016c8e47e4944a72c8d1341ac6098e8c658b1a6a52</guid>
@@ -395,7 +527,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 12:38:51 +0000</pubDate>
-<description>Between 12 and 13 million UK smart meters could stop working properly when 2G and 3G networks are switched off by 2033, and replacing them all is likely to cost around £4 billion ($5.3 billion). Smart meters have long been a controversial topic thanks to the British government's botched rollout of the technology; they were supposed to be fitted into 80 percent of households by 2020. But numerous delays and technical hitches, such as consumers finding their meter stopped being smart if they switched energy supplier , hindered progress. Now, a report from connectivity biz Wirepas, "The European Connectivity Trilemma," shows that it isn't just Brits who have problems, but that other European countries also have their share of smart meter issues and that no two countries have adopted the same approach. The UK's issues center on the fact that early meters used 2G or 3G cellular connections to transmit energy usage back to the supplier. These continued to be fitted until 4G versions began arriving at the end of 2024, the report says. This issue was covered by The Register back in 2023 , and again in 2024 . However, the government had already announced measures to phase out 2G and 3G networks by 2033 several years earlier, back in 2021, so it was known that any meters being fitted would have a limited lifespan. In fact, 3G services have now already been withdrawn by the networks , and they all plan to phase out 2G ahead of the 2033 deadline . BT/EE will begin closing its network from May 2029, VMO2 will start the same summer, and Vodafone aims to switch off in spring 2030. The report claims the UK now faces two substantial areas of expenditure as a result. The first covers newer, second generation (SMETS2) meters, where only the communications module needs swapping out, but even this is likely to cost £1.3 to £1.4 billion (c $1.7 to $1.9 billion) before the hardware cost of each new hub is even factored in. The other is for an estimated 7 million older, first-generation (SMETS1) meter installations, which have the cellular comms hard-wired in, so the whole meter typically needs replacing. The report authors estimate this will cost another £2.1 billion to £2.45 billion ($2.8 billion to $3.3 billion), at an indicative replacement cost of £300 to £350 per installation. This results in the estimated £4 billion in gross replacement costs, which will ultimately feed into household energy bills, adding to the very costs the government is currently trying to reduce. We asked the Department for Energy Security and Net Zero (DESNZ), which oversees smart meters, for comment. While some of these older meters would naturally have been due for replacement as part of normal asset renewal cycles, the cell network shutdown makes the replacement program unavoidable and dictates when much of the expenditure must occur. According to the report, the SMETS2 replacement largely applies to central and southern Britain, as second-gen meters in the north use a long-range radio n</description>
+<description>Between 12 and 13 million UK smart meters could stop working properly when 2G and 3G networks are switched off by 2033, and replacing them all is likely to cost around £4 billion ($5.3 billion). Smart meters have long been a controversial topic thanks to the British government's botched rollout of the technology; they were supposed to be fitted into 80 percent of households by 2020. But numerous delays and technical hitches, such as consumers finding their meter stopped being smart if they switched energy supplier , hindered progress. Now, a report from connectivity biz Wirepas, "The European Connectivity Trilemma," shows that it isn't just Brits who have problems, but that other European countries also have their share of smart meter issues and that no two countries have adopted the same approach. The UK's issues center on the fact that early meters used 2G or 3G cellular connections to transmit energy usage back to the supplier. These continued to be fitted until 4G versions began arriving at the end of 2024, the report says. This issue was covered by The Register back in 2023 , and again in 2024 . However, the government had already announced measures to phase out 2G and 3G networks by 2033 several years earlier, back in 2021, so it was known that any meters being fitted would have a limited lifespan. In fact, 3G services have now already been withdrawn by the networks , and they all plan to phase out 2G ahead of the 2033 deadline . BT/EE will begin closing its network from May 2029, VMO2 will start the same summer, and Vodafone aims to switch off in spring 2030. The report claims the UK now faces two substantial areas of expenditure as a result. The first covers newer, second generation (SMETS2) meters, where only the communications module needs swapping out, but even this is likely to cost £1.3 to £1.4 billion (c $1.7 to $1.9 billion) before the hardware cost of each new hub is even factored in. The other is for an estimated 7 million older, first-generation (SMETS1) meter installations, which have the cellular comms hard-wired in, so the whole meter typically needs replacing. The report authors estimate this will cost another £2.1 billion to £2.45 billion ($2.8 billion to $3.3 billion), at an indicative replacement cost of £300 to £350 per installation. This results in the estimated £4 billion in gross replacement costs, which will ultimately feed into household energy bills, adding to the very costs the government is currently trying to reduce. We asked the Department for Energy Security and Net Zero (DESNZ), which oversees smart meters, for comment. A spokesperson said: "Smart meters are already helping millions of consumers manage their energy and save money on bills," they told The Reg . "The transition to 4G is a planned upgrade that will continue to deliver the benefits that smart meters already provide to households and industry." While some of these older meters would naturally have been due for replacement as part of normal asset r</description>
 <enclosure url="https://image.theregister.com/?imageId=233199&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=233199&amp;width=800" medium="image"/>
 </item>
@@ -543,17 +675,6 @@
 <media:content url="https://image.theregister.com/?imageId=5308394&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>HoverAir Versa review: Convenience and creativity with compromises</title>
-<link>https://www.engadget.com/2311413/hoverair-versa-review</link>
-<guid isPermaLink="false">427770636adf26cd8b8e82fa9dc05e7810c4a83565c42953981751001ff970b2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
-<description>The HoverAir Versa is a clever combination that makes a lot of sense, but don't expect the best of both worlds.</description>
-<enclosure url="https://www.engadget.com/img/gallery/hoverair-versa-review-convenience-and-creativity-with-compromises/l-intro-1794254958.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/hoverair-versa-review-convenience-and-creativity-with-compromises/l-intro-1794254958.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen</title>
 <link>https://www.theguardian.com/technology/2026/nov/10/apple-macbook-pro-review-lighter-thinner-stunning-oled-touchscreen</link>
 <guid isPermaLink="false">982ae5e3dc8f6b1e96c95ec1238a0e03dbc01d1fd98012836c6394ec0cae9df3</guid>
@@ -620,28 +741,6 @@
 <media:content url="https://i.guim.co.uk/img/media/495089a2ea3363d20bc4baf998d27df79ec59b7c/688_0_6880_5504/master/6880.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=034509025b5fb6337330cac61c84df64" medium="image"/>
 </item>
 <item>
-<title>Every senior with an Apple Watch should set up these 5 health alerts</title>
-<link>https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors</link>
-<guid isPermaLink="false">9f5eb377f085fcbce539123be0dbe495470941d0dbc0dabdb11914ec2e5a3705</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 01:30:00 +0000</pubDate>
-<description>Seniors, especially those who live alone, could benefit from a number of Apple Watch health alerts, including medication reminders and fall detection.</description>
-<enclosure url="https://www.engadget.com/img/gallery/every-senior-with-an-apple-watch-should-set-up-these-5-health-alerts/l-intro-1793800673.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/every-senior-with-an-apple-watch-should-set-up-these-5-health-alerts/l-intro-1793800673.jpg" medium="image"/>
-</item>
-<item>
-<title>How to turn on personal results on your Google Home</title>
-<link>https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home</link>
-<guid isPermaLink="false">ee5a8ac941eb93ed0a0c37537fa3c3c16b590ad7b1288a8a6bf2a0a689789e24</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 00:30:00 +0000</pubDate>
-<description>Every member of the family can have their own assistant with personal results on Google Home. Find out how to set this feature up.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-turn-on-personal-results-on-your-google-home/l-intro-1793815000.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-turn-on-personal-results-on-your-google-home/l-intro-1793815000.jpg" medium="image"/>
-</item>
-<item>
 <title>Anthropic's super bug-finding Mythos model is going into Cisco and IBM products</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616</link>
 <guid isPermaLink="false">025fdd17b37370cab5844f570af973855032435e46d477b4490f54544453d853</guid>
@@ -651,28 +750,6 @@
 <description>Anthropic has started extending access to its bug-finding Mythos model by allowing Cisco and IBM to make it part of their security products. Cisco announced its integration today at an event in Melbourne, Australia, where it revealed that the red teaming tools in its AI Defense suite, which looks for weaknesses and inappropriate activity in AI models, agents, and applications they power, will be able to call Mythos to test customers’ setups. “At a very high level, AI Defense has the ability to look at models and break them,” said Jeff Schultz, Cisco’s senior vice president for portfolio strategy and marketing. He said the tool is now “super-charged by Mythos” and will identify more danger that AI Defense will then address. AI Defense already uses AI-powered red teaming to find flaws. Mythos will become another option. Cisco will make it available under users’ existing licenses, without additional cost. Natalie Mead, Anthropic’s head of applied AI for the Asia-Pacific, said the company has a long queue of buyers who want to use Mythos, and working with Cisco will make it easier to satisfy that demand. Anthropic initially made Mythos available under "Project Glasswing," a program that gave vetted organizations access to the model to test their codebases, but has since expanded access through other controlled programs, an arrangement that makes considerable sense because in the wrong hands Mythos could help attackers exploit software flaws. The Cisco deal exposes the functionality of Mythos to end-users, without letting them use the model itself. The Register asked Mead if Anthropic has similar deals with other third parties and she demurred. That may be because a few hours after Cisco told us about its use of Mythos, IBM announced that it will also integrate Anthropic’s model into a product – namely its Concert tool, which uses AI to scan applications for risks and weaknesses. IBM says it will use Mythos “to uncover weaknesses traditional scanners miss, determine which pose real risk and generate fixes for developer approval.” We have asked Anthropic if these integrations represent a decision to open Mythos to more users in more ways. We will update this story if we receive a substantial response. Also on Monday, Anthropic introduced version 5.2 of Mythos and Fable, which the company says generate outputs up to 30 percent faster than version 5.1 yet cost less: $8 per million input tokens and $40 per million output tokens. Users can choose to run both models in “fast mode,” which speeds up token generation by up to 2.5 times, and doubles prices to $16 per million input tokens and $80 per million output tokens. Anthropic says it “ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes.” After those tests, the company concluded “high-stakes risks from misalignment remain low, and the model pe</description>
 <enclosure url="https://image.theregister.com/?imageId=245983&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=245983&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>The safety reason TSA might ask you to turn on your phone</title>
-<link>https://www.engadget.com/2307751/why-tsa-ask-turn-on-phone-safety-reason</link>
-<guid isPermaLink="false">ac7222af1d16182a8fcf5a659bbbf00c7f3d7615d205a0ecb19b4c095c79a663</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-<description>While traveling through the airport, TSA may ask you to power up your phone. Border agents can conduct a more thorough search as well.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-safety-reason-tsa-might-ask-you-to-turn-on-your-phone/l-intro-1793805495.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-safety-reason-tsa-might-ask-you-to-turn-on-your-phone/l-intro-1793805495.jpg" medium="image"/>
-</item>
-<item>
-<title>Why you probably shouldn't buy gadgets with micro USB ports</title>
-<link>https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets</link>
-<guid isPermaLink="false">d75016f9828f1161fe4c92a2f66893e8b9edd9078971677ceef142b165cbb55e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 23:30:00 +0000</pubDate>
-<description>USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-you-probably-shouldnt-buy-gadgets-with-micro-usb-ports/l-intro-1793654155.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-you-probably-shouldnt-buy-gadgets-with-micro-usb-ports/l-intro-1793654155.jpg" medium="image"/>
 </item>
 <item>
 <title>France blames Iran for supermarket hack meltdowns</title>
@@ -692,7 +769,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Mon, 09 Nov 2026 21:55:35 +0000</pubDate>
-<description>It's barely been two months since the controversial Paramount and Warner Bros. merger, and we've already got a shockingly unexpected ouster : Co-CEOs of the rebooted DC Universe, James Gunn and Peter Safran, are stepping down from that role despite the Hollywood rumor mill assuming that the duo would be safe. It's unclear whether the pair chose to resign or were forced out, or what will happen to their planned slate of projects beyond 2028's Superman: Man of Tomorrow , which is in post-production. Producer Jeremy Latcham—a protege of Marvel's Kevin Feige who worked with Gunn on Guardians of the Galaxy among other MCU films—will replace them. Per Gunn and Safran's joint statement : Four years ago, we set out to unite DC under one creative vision. In that time, we helped restore Superman to the heart of DC, while opening new doors and telling new stories in film and television with Peacemaker , Creature Commandos, Lanterns and Clayface. We’re immensely proud of the team that turned that ambition into something real, including the actors, crews and executives we had the opportunity to collaborate with. We’ve shared a creative history with Jeremy going back to Marvel, and we’re eager to see the perspective he brings to DC’s next chapter. We’re excited to return to what drew us to this job in the first place, which is telling the stories we love, including the next chapter of Clark and Lex’s journey in Man of Tomorrow . DCU fans are mourning the news and what it could mean for the franchise. My feelings are mixed. On the one hand, I'm on record that I’ve found the rebooted DC Universe films released thus far to be enjoyable but rather forgettable, even when the positives outweigh the negatives . (I have yet to see Clayface , which debuted to good reviews and a solid box office showing.) But HBO has done right by the DCU: I loved both seasons of Peacemaker; Lanterns is a shining beacon of what is possible when someone is allowed to get really creative within the genre; and I'm very much looking forward to next year's Jimmy Olsen (Skylar Gisondo) series The People v. Gorilla Grodd —described as a “mockumentary crime comedy superhero series.” Read full article Comments</description>
+<description>It's barely been two months since the controversial Paramount and Warner Bros. merger, and we've already got a shockingly unexpected ouster : Co-CEOs of the rebooted DC Universe, James Gunn and Peter Safran, are stepping down from that role despite the Hollywood rumor mill assuming that the duo would be safe. It's unclear whether the pair chose to resign or were forced out, or what will happen to their planned slate of projects beyond 2028's Superman: Man of Tomorrow , which is in post-production. Producer Jeremy Latcham—a protege of Marvel's Kevin Feige who worked with Gunn on Guardians of the Galaxy among other MCU films—will replace them. Per Gunn and Safran's joint statement : Four years ago, we set out to unite DC under one creative vision. In that time, we helped restore Superman to the heart of DC, while opening new doors and telling new stories in film and television with Peacemaker , Creature Commandos, Lanterns and Clayface. We’re immensely proud of the team that turned that ambition into something real, including the actors, crews and executives we had the opportunity to collaborate with. We’ve shared a creative history with Jeremy going back to Marvel, and we’re eager to see the perspective he brings to DC’s next chapter. We’re excited to return to what drew us to this job in the first place, which is telling the stories we love, including the next chapter of Clark and Lex’s journey in Man of Tomorrow . DCU fans are mourning the news and what it could mean for the franchise. My feelings are mixed. On the one hand, I'm on record that I’ve found the rebooted DC Universe films released thus far to be enjoyable but rather forgettable, even when the positives outweigh the negatives . (I have yet to see Clayface , which debuted to good reviews and a solid box office showing.) But HBO has done right by the DCU: I loved both seasons of Peacemaker ; Lanterns is a shining beacon of what is possible when someone is allowed to get really creative within the genre; and I'm very much looking forward to next year's Jimmy Olsen (Skylar Gisondo) series The People v. Gorilla Grodd —described as a “mockumentary crime comedy superhero series.” Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg" medium="image"/>
 </item>
@@ -1159,6 +1236,17 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg" medium="image"/>
 </item>
 <item>
+<title>The efficiency trap: why optimising everything can backfire, badly</title>
+<link>https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly</link>
+<guid isPermaLink="false">bbbb86b7d578c108f500ebeb01e311f650fe1fb6cd691218dc14260f9883667c</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 12:00:39 +0000</pubDate>
+<description>From roundabouts to the stock market, relentless streamlining could be making the world more dangerous We have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes. A protective flu jab offers some reassurance, but so does the thought that there will be a hospital bed for you, should you need it. Yet, in England, about 95% of adult hospital beds were occupied at the height of flu season last year. If hospitals were hotels, that level of occupancy would be good business, and we would commend them for their efficiency. But do we really want a hospital to have so few beds in reserve that it’s just one bad flu week away from having to treat patients in corridors? Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/e68bbef8dbe92c67f604bdd86917dcb9368a1049/0_349_1847_1476/master/1847.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b5d71ef564773091db7efc4a88579595" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/e68bbef8dbe92c67f604bdd86917dcb9368a1049/0_349_1847_1476/master/1847.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b5d71ef564773091db7efc4a88579595" medium="image"/>
+</item>
+<item>
 <title>Doom delivers five minutes of terminal violence on an IBM mainframe</title>
 <link>https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092</link>
 <guid isPermaLink="false">75f7b7caa3520092ab0d11907b88fb51d27acdcac764281b5e9a2a2c3ff78487</guid>
@@ -1179,28 +1267,6 @@
 <description>The International Telecommunications Union (ITU) kicks off its quadrennial plenipotentiary on Monday, and internet governance organizations are bracing in case the event becomes a forum for nation-states to try to challenge their roles. The ITU is the United Nations' specialized agency for information and communication technologies, meaning its members are nation-states. The body's role is to facilitate international connectivity, which it does by managing radio spectrum, satellite orbits, and working on relevant technical standards. Its key standards are pervasive. ITU-T X.509 sets out the rules of public key infrastructure. ITU-T E.164 governs telephone numbers. ITU-T H.264 and 265 define the video codecs used for most online streams. The ITU's role is largely uncontested, yet its work gets very close to that of the organizations who work on technologies that make the internet work. Those bodies include the Internet Engineering Task Force (IETF); the Internet Corporation for Assigned Names and Numbers (ICANN), which oversees the domain name system; and the regional internet registries (RIRs), which manage IP addresses. The World Wide Web Consortium (W3C) works on HTML, CSS, and accessibility. Governments participate in work at those internet governance bodies but are just one voice among many and can't override the consensus-driven decision-making process they use, under a system which has come to be known as the multi-stakeholder governance model. At a 2025 event called WSIS+20, the United Nations endorsed multi-stakeholder governance by deciding that its Internet Governance Forum (IGF) should become a permanent body. That decision effectively endorsed multi-stakeholder governance, and kept the ITU out of internet standards. Yet the IGF hasn't met since WSIS+20, so it is yet to start operating meaningfully as a permanent body. This year's ITU meeting is therefore a moment at which stakeholders can stress-test the delicate balance between the ITU, internet governance bodies, and the emerging IGF. Such a test could see ITU members try to have it pursue new fields that overlap with work performed by internet governance organizations. This has already happened before. China tried to have the ITU work on " New IP" – a major revision to internet protocol, a technology the IETF manages. In 2022, Russia and China backed a candidate for the ITU presidency who favored giving nations a stronger role in internet governance, potentially by having the ITU take over some standards work. That candidate was not elected. Ahead of next week's meetings, the Internet Society published a background paper that declared it is "actively challenging proposals that could affect the Internet's underlying technical architecture or increase fragmentation, as well as those that could affect connectivity, particularly for remote, underserved, and unserved communities." The society is watching for resolutions on AI, quantum technologies, and other emerging areas that could em</description>
 <enclosure url="https://image.theregister.com/?imageId=5308036&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5308036&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints</title>
-<link>https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence</link>
-<guid isPermaLink="false">1bf3de5d437f5ff562d8930f24197adfc6acb9f4a078975ee96c72d4dbb9cde4</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 08:00:36 +0000</pubDate>
-<description>MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to ‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence. “Half the emails we receive are some form of AI,” she says, adding that this has made requests and complaints much more complex and time-consuming to read and deal with, despite her decade of experience in the role. “It is definitely more taxing.” Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/82c6e92cb6cbcabc717462a79d11fbaac898da2c/0_0_5906_4724/master/5906.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee2fda602bee19777701a50c943cc0d7" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/82c6e92cb6cbcabc717462a79d11fbaac898da2c/0_0_5906_4724/master/5906.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee2fda602bee19777701a50c943cc0d7" medium="image"/>
-</item>
-<item>
-<title>Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?</title>
-<link>https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic</link>
-<guid isPermaLink="false">404ba329b755c4be11911aa065da45fff335fb3d3d1f2c7f686d887d0515f2f0</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 06:00:33 +0000</pubDate>
-<description>As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurrence Alex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd. The defrost light on refrigeration unit 2 was on, and the panel reading was 150C. Unit 4 was the same. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5268c2b6909974bb0602274c46ae6e8e" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5268c2b6909974bb0602274c46ae6e8e" medium="image"/>
 </item>
 <item>
 <title>Fireworks says you’re wasting money on AI unless you’re using all the models</title>
@@ -1236,17 +1302,6 @@
 <media:content url="https://i.guim.co.uk/img/media/add3efa623b78699ceac7a663e4ab615f38fb13d/378_0_3378_2704/master/3378.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27a8624634150e7c14686231ad1d92af" medium="image"/>
 </item>
 <item>
-<title>British soldier ignored order to pull his SIM card, then got blackmailed</title>
-<link>https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed</link>
-<guid isPermaLink="false">1a0841a1f39d9e8a746d5f1cf491b374dd7ff5a62f33674372c86cafe7e7336b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 11:00:34 +0000</pubDate>
-<description>An Estonian newspaper recently revealed that a British soldier disobeyed a direct order to remove the SIM card from his cellphone before being deployed to a part of Estonia, approximately 90 miles west of the Russian border. As a result of his refusal to engage in this element of operational security (opsec), the soldier, Daniel Barton-Kennedy, had his phone hacked, and nude photos of himself were stolen and used as blackmail against him. Eventually, Barton-Kennedy was court-martialed for disobeying a lawful command, pled guilty, was reduced in rank, and ordered to serve 10 months in detention. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>NHS breach helpline left staff carrying a 'significant emotional burden'</title>
 <link>https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201</link>
 <guid isPermaLink="false">7066bf1c44b6d15523db55187093805cc75895312ae06c1513d612a3518d4ba8</guid>
@@ -1267,17 +1322,6 @@
 <description>A roadside display at Cherwell Valley services has stopped dispensing information and started asking for help. The eagle-eyed Register reader who spotted the stricken screen told us: "UK motorway signs often tell us that tiredness can kill, urging us to take a break. This poor thing at Cherwell Valley services took the advice to heart." The display at the Moto services appears to have run into trouble during a restart. Windows offers another attempt or access to repair tools, although the latter options are hidden – perhaps somewhere on the top floor of the neighboring Travelodge. Getting things moving again will probably require access to the computer behind the screen. The Automatic Repair screen is all too familiar to Windows users. Not to be confused with the classic blue screen of death, it might indicate a misbehaving driver during a reboot, an update that did something unexpected, or some sort of hardware failure. Hopefully it isn't the latter – with memory and storage prices the way they are at the moment, a motorway services sandwich or gallon of fuel will seem a positive bargain by comparison. Our reader is right: taking a break is sensible advice. Getting Windows to end one can be another matter. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5307868&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5307868&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Doctors pull knife from man's eye that went through his brain—and he's fine now</title>
-<link>https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain</link>
-<guid isPermaLink="false">cbf11d240a42087dda4adc1511ff0aac7bc5723e476eadf7444af14cc8f7d9ba</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 23:09:45 +0000</pubDate>
-<description>A man in his 20s showed up to a UK hospital with the hilt of a knife sticking out of his face. The 15 mm-wide blade hidden within went completely through his right eye and through his brain, with the tip of the blade hitting the top of his skull. Despite the ghastly injury, the man was alive and conscious when he arrived. He could still talk and move all four limbs. His doctors described him as being in a state of agitation. On the Glasgow Coma Scale, he scored a 12 (E3 V4 M5) , indicating a "moderate" brain injury, just one point above "mild." He could open his left eye when told, but otherwise kept it closed (E3 score); he could talk and answer questions, but was confused (V4); and he intentionally moved away when pressure was applied to his body (M5). In a report published Friday in BMJ Case Report, his doctors said they were concerned that in his confused, agitated state he may try to pull the knife out on his own. So, they swiftly sedated and intubated him. They put him on prophylactic treatments for bacterial infections, including tetanus. Then they used images to see what was going on in his head. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg" medium="image"/>
 </item>
 <item>
 <title>Agents reveal secrets when offered to team up with each other</title>
@@ -1412,17 +1456,6 @@
 <media:content url="https://image.theregister.com/?imageId=236527&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>DigiCert admits 16-month security lapse exposed customer information</title>
-<link>https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097</link>
-<guid isPermaLink="false">f918c85d53b408b094c73a2293876a0619076facc23977c687e39ac3aa78c048</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 13:15:00 +0000</pubDate>
-<description>DigiCert has admitted that a botched server migration left an internal system exposed to the internet for more than a year, allowing an unauthorized user to access customer data, including passports, driver's licenses, and other identity documents. The certificate authority has begun notifying affected customers but has yet to disclose how many people had their information exposed. In an email seen by The Register , DigiCert confirmed the compromised information included names, business email addresses, phone numbers, and business addresses. Some records may also have contained passports, driver's licenses, utility bills, or other identification documents. "We are completing a review of identification documents to determine the specific individuals involved," DigiCert told those affected, adding that it would notify those people once the review was complete. DigiCert's incident report traces the blunder back to February 2025, when an internal business system was moved from a VPN-protected network to a different availability zone. That change also opened the system up to the public internet, where it sat for more than 16 months without DigiCert realizing. The archive used the same account management platform as DigiCert's customer-facing products, including a self-registration feature that was never supposed to be available on the internal system. This allowed outsiders to create accounts without multifactor authentication and, thanks to a separate permissions flaw, use them to browse archived customer records. DigiCert found the unauthorized accounts on June 18, 2026, but initially dismissed them as harmless because they weren't assigned to an application. A security researcher raised the alarm about the account creation issue three days later, but it took until July 2 for DigiCert to shut it down. Unfortunately, someone had already been poking around. It wasn't until October 12 that DigiCert began investigating whether customer information had actually been accessed. On October 19, it confirmed that an unauthorized account had accessed a subset of archived records between June 27 and July 2. DigiCert described the affected records as a "small proportion" of its archive but hasn't disclosed how many customers or individuals were caught up in the breach. The company did not respond to The Register ’s questions at the time of publication. DigiCert's postmortem makes for uncomfortable reading. The server move didn't get a proper security review, monitoring failed to pick up suspicious activity, and the access controls weren't much use against self-registered accounts. The company has since switched off self-registration, tightened network access, and added monitoring that might have come in handy a few months earlier. Certificate authority operations, CertCentral, and DigiCert ONE were unaffected, the company said, adding that customer credentials and issued certificates remain secure. It also found no evidence that the unauthorized account had been</description>
-<enclosure url="https://image.theregister.com/?imageId=5305665&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305665&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>The Legend of Zelda: Ocarina of Time has revived the midnight game launch – but was it worth the wait?</title>
 <link>https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch</link>
 <guid isPermaLink="false">bec2e1d6fcd9236269778eb0c235d1a5a30912560eb15edd7144f43a9d9ee640</guid>
@@ -1432,17 +1465,6 @@
 <description>When our writer found himself among the hundreds on Oxford Street hoping to get their hands on early copies and collectibles, it was a heartwarming reminder of the shared experience of fandom • The Legend of Zelda: Ocarina of Time review – a dream come true It is Thursday night and I am sat blurry-eyed and runny nosed outside the Argos on Oxford Street. Incredibly, I am far from alone. This is not some strange protest against the popular retailer. When the clock strikes midnight, the lavish 4K Switch 2 remake of beloved N64 classic The Legend of Zelda: Ocarina of Time will be released, and I have joined a lengthy queue of about 500 fans desperate to snag early copies. There are similar events taking place across the world, from Melbourne to Mexico City; at key locations, Nintendo has senior executives waiting at the tills. These days, of course, most video games are bought as digital copies that download straight to your PC or console on the day of release. You don’t even have to get out of bed to start playing. But in a bygone era, when we used to go to shops to buy games, midnight launches offered a space for likeminded enthusiasts to gather and celebrate their fandom. Every Call of Duty, Halo or Grand Theft Auto release would have fans queueing outside branches of Game or Electronics Boutique, many dressed as favourite characters. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/250_238_7202_5762/master/7202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e37b4863ba9469d2fe393175d8770203" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/250_238_7202_5762/master/7202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e37b4863ba9469d2fe393175d8770203" medium="image"/>
-</item>
-<item>
-<title>Home Office cloud services contract may net AWS £1B</title>
-<link>https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106</link>
-<guid isPermaLink="false">480679655b0f2cde02d40dacac456bb680170d40354b15c0f0f6e2a121300b3e</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 12:47:00 +0000</pubDate>
-<description>Amazon Web Services (AWS) looks set to win more than a billion pounds of UK taxpayers' money under a new Home Office contract for public cloud hosting. A planning notice , published on October 30, covers the renewal of the department's public cloud services, to meet its current and future hosting needs. The estimated value is £881,621,007 ($1.18 billion), which passes £1 billion once VAT is included. AWS won the existing contract with the Home Office in 2023 for about £450 million (c $603 million). The Register has asked the Home Office why the figure has risen so much, and will update this article if it responds. Once awarded, the contract is expected to run from December 2027 to December 2029, with a possible extension to December 2031 (four years in total). A market engagement event for suppliers on the G-Cloud 15 Lot 1A procurement framework is scheduled for December 8, giving bidders the chance to pitch. The Home Office would not say who else is being considered, saying it does not comment on ongoing procurement. The notice lands as digital sovereignty becomes a bigger problem in the UK and across Europe, amid suspicion that US authorities have cut off access to American technology for political reasons . A survey found that about three-quarters of businesses in the UK, France, and Germany fear Washington could abruptly sever access to the US tech platforms they rely on. Earlier this year, the Open Rights Group warned politicians that the UK is far too dependent on US technology companies to run critical operations. Whitehall is mindful of its over-reliance on American hyperscalers. As The Register revealed in 2024, the Cabinet Office admitted - in an internal document seen by us - that the government’s negotiating power had been inhibited by vendor lock-in . It said the "UK government’s current approach to cloud adoption and management across its departments faces several challenges" which combined result "in risk concentration and vendor lock-in that inhibit UK government’s negotiating power over the cloud vendors." It acknowledged "the existing dominance of AWS and Azure in the UK Government’s cloud services is set to continue." A source at one supplier that works with the public sector said the UK administration was "failing to support UK [cloud] providers, it says they can’t meet scale and that is garbage." They claimed that in many cases the government people writing the tenders are advised by professional services companies to favor the hyperscalers. The professional services companies are then "rewarded" as migration or integration partners, our source claimed. The UK government also pledged to steer more business to small-to-medium sized enterprises (SMEs) in an action plan published last month. In August it added smaller, local suppliers to G-Cloud 15 , though a place on the framework does not guarantee any business. Pledges like this are nothing new, and they have largely come to nothing, as we reported in 2005 , 2013 , 2016 , and</description>
-<enclosure url="https://image.theregister.com/?imageId=252143&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=252143&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>6 default Pixel 11 settings I changed that made a big difference – and why</title>

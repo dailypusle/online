@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How SCSKiller is trying to fix shader stuttering in PC games</title>
+<link>https://www.engadget.com/2307815/scskiller-fix-shader-stuttering-pc-games</link>
+<guid isPermaLink="false">67a76955759de8fbd8091f37f5bb1ba15cc770e2aa449695aaf92131659388a2</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 23:30:00 +0000</pubDate>
+<description>This free app claims to defeat shader compilation in modern PC titles, but does it deliver? We tested it on games that are notorious for stuttering,</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-scskiller-is-trying-to-fix-shader-stuttering-in-pc-games/l-intro-1793806351.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-scskiller-is-trying-to-fix-shader-stuttering-in-pc-games/l-intro-1793806351.jpg" medium="image"/>
+</item>
+<item>
+<title>The US military seems to be getting nervous about the launch supply crunch</title>
+<link>https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch</link>
+<guid isPermaLink="false">b06a13572544bb33ab110fafd96de596bae4b0eb74ad117161b9ae9a8c681515</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 23:02:39 +0000</pubDate>
+<description>The US military is taking a new approach to prop up commercial launch companies as SpaceX looks to wind down its Falcon rocket program, suggesting defense officials see the workhorse rocket's retirement as a potential national security risk. The Pentagon's Office of Strategic Capital has twice in the last two weeks announced it was sending cash to two of SpaceX's competitors in the launch business. First, on October 26, the office announced a $150 million conditional loan commitment to Stoke Space. Military officials revealed a second $150 million Pentagon loan Tuesday for Rocket Lab. Stoke Space and Rocket Lab are the first two launch companies to receive significant support from the Office of Strategic Capital (OSC), an organization established in 2022 to infuse companies developing "vital" national security technologies with capital. OSC has been on a loan spree in recent weeks, committing hundreds of millions of dollars to companies specializing in batteries, drones, and semiconductors. In the space sector, the office also provided a $150 million loan to LeoLabs , a commercial satellite tracking company, for production and deployment of radar units. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>These Xiaomi phones are no longer getting support with the latest HyperOS 4 update</title>
+<link>https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update</link>
+<guid isPermaLink="false">3969521833ab75808e3ff4455808c6ca0f03b3f4e30b2e8110f89c64c4c6ad0e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
+<description>Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.</description>
+<enclosure url="https://www.engadget.com/img/gallery/these-xiaomi-phones-are-no-longer-getting-support-with-octobers-hyperos-4-update/l-intro-1793733962.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/these-xiaomi-phones-are-no-longer-getting-support-with-octobers-hyperos-4-update/l-intro-1793733962.jpg" medium="image"/>
+</item>
+<item>
+<title>Ring cameras go mobile as Amazon debuts AI-powered security drone and robot</title>
+<link>https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot</link>
+<guid isPermaLink="false">fc73217409f2e0eb015a813f69216b3de7e752d1d9743e059d9a2b6b3e941492</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 22:35:01 +0000</pubDate>
+<description>Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices. But the company’s upcoming Ring Robotic products are also certain to intensify privacy concerns previously raised around a prior Amazon attempt to popularize a flying security camera. The Ring Rover Cam and Ring Drone Cam are expected to reach customers starting at the end of 2026 and in early 2027, respectively, according to an Amazon announcement posted on November 10. Amazon describes the devices as relying on an AI Pilot system that uses each device’s cameras along with “specialized vision models, on-device sensors and cloud processing” to plan patrol routes while autonomously navigating around obstacles such as furniture. Both devices also use that AI Pilot system to digitally map the floor plan of the customer’s home or business. This setup process occurs after the customer carries the Ring drone through their indoor spaces or allows the Ring Rover to do some autonomous exploration. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg" medium="image"/>
+</item>
+<item>
 <title>Meta warns some of its AI glasses may get 'too warm' if they get wet</title>
 <link>https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet</link>
 <guid isPermaLink="false">f8eb373ad786d5848c164a7224dc73b2d43d1313fd468c654f2e0bf7d9b905cf</guid>
@@ -576,28 +620,6 @@
 <media:content url="https://www.engadget.com/img/gallery/gta-6-is-targeting-30-fps-and-has-ray-tracing-support-on-ps5-pro/l-intro-1794327030.jpg" medium="image"/>
 </item>
 <item>
-<title>Google's Gemini 4 Carbon is now widely available around the world</title>
-<link>https://www.engadget.com/2311855/gemini-4-carbon-now-available-worldwide</link>
-<guid isPermaLink="false">a174803f899953fcaf33eab15e46a64323ad14111adc2bd7c452c4e608c649c7</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
-<description>Google is rolling out Gemini 4 Carbon after a limited release to cybersecurity companies.</description>
-<enclosure url="https://www.engadget.com/img/gallery/googles-gemini-4-carbon-is-now-widely-available-around-the-world/l-intro-1794310699.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/googles-gemini-4-carbon-is-now-widely-available-around-the-world/l-intro-1794310699.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple brings Sign Language interpretation to a selection of original Apple TV titles</title>
-<link>https://www.engadget.com/2311778/apple-sign-language-interpretation-original-apple-tv-titles</link>
-<guid isPermaLink="false">d8f428997c7288f2a15fa7cb4a9190570cdaca7059e75c24de067489287b522e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
-<description>You'll be able to watch 'Being Heumann,' 'F1' and other original titles with sign language interpretation.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-brings-sign-language-interpretation-to-a-selection-of-original-apple-tv-titles/l-intro-1794283507.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-brings-sign-language-interpretation-to-a-selection-of-original-apple-tv-titles/l-intro-1794283507.jpg" medium="image"/>
-</item>
-<item>
 <title>Your FitBit Versa and Sense smartwatches will lose some features this month – what to know</title>
 <link>https://www.zdnet.com/tech/fitbit-versa-sense-smartwatches-third-party-apps</link>
 <guid isPermaLink="false">48b72e8c3b1650b35f2ba18383444e0deec7d00dc95c2a47c57edb6740fec1b6</guid>
@@ -1027,17 +1049,6 @@
 <media:content url="https://image.theregister.com/?imageId=1681829&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Vulnerability that lets hackers SSH into Linux devices is under active exploitation</title>
-<link>https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation</link>
-<guid isPermaLink="false">eb9aae20ddecf55386a0dee9a787ec83aa86e62ece9bd3ac60a38d030d1b404b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 19:41:34 +0000</pubDate>
-<description>Hackers are actively exploiting a recently discovered critical vulnerability that allows them to log in to privileged accounts on many Linux systems, multiple researchers are reporting. The vulnerability, tracked under the name *sshole, arises from the interaction between OpenSSH and a code library known as musl. Linux systems that use both of these packages and meet certain other requirements can be hacked to give unauthenticated access to high-privilege accounts in a matter of seconds. *sshole became publicly known last Thursday and quickly stoked concerns it could lead to widespread compromise of Linux machines. Four days later, the prediction shows signs of becoming real. Attackers conducting "mature intrusions" Security firm Greynoise said Monday that honeypots it maintains in Southeast Asia have come under attack by a group it’s tracking as GT10. The group conducted “mature intrusions" into the systems, which Greynoise uses to detect attempted or successful attacks in real time. Greynoise subsequently gained access to a GT10 server that revealed potential other victims and some of the tools used in the campaign. A backdoor the group is using in the attacks contains Chinese language comments and appears to be generated with the use of AI. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg" medium="image"/>
-</item>
-<item>
 <title>The French fridge hacks were relatively unsophisticated. An AI-enabled attack would raise the stakes</title>
 <link>https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe</link>
 <guid isPermaLink="false">88fd9e5b6be26d2450d185cfadb587c9778f5940926be98728ed8456dece892b</guid>
@@ -1058,17 +1069,6 @@
 <description>The latest Windows 11 Insiders Preview enhances the Search feature so that you can access specific settings right from a search window.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg" medium="image"/>
-</item>
-<item>
-<title>Pentagon mulls placing fleet of military satellites around the Moon</title>
-<link>https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon</link>
-<guid isPermaLink="false">8cf52cbb7e3e47bb776ce14f17bf1e040845e91f5fafb6cb1049ea4c2d091972</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 19:08:37 +0000</pubDate>
-<description>The US military has published a Request for Information on a federal procurement website signaling interest in deploying a "proliferated cislunar constellation" consisting of an unspecified number of satellites performing an undisclosed mission in the vicinity of the Moon. The announcement follows statements in recent months from the Space Force's acquisitions chief for advanced programs, Maj. Gen. Stephen Purdy, that the military was getting serious about extending its reach to the Moon. The Space Force's most distant satellites today are in geostationary orbit, some 22,000 miles (36,000 kilometers) over the equator, collecting routine surveillance and missile warning data. Most recently, Purdy spoke of a shift in Pentagon leadership's thinking about the Moon following an executive order signed by President Donald Trump last December. The order set out the Trump administration's space policy. One section of the order deals with the US government's ability to detect, characterize, and counter threats to US space interests from low-Earth orbit to cislunar space, the term of art for the region of space around the Moon. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records</title>

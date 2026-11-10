@@ -4,7 +4,7 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Work to clear 18,000 tonnes of waste from notorious site begins</title>
+<title>Specialists to remove 25 lorry loads of waste from site a day</title>
 <link>https://news.sky.com/story/work-to-clear-18000-tonnes-of-waste-from-notorious-site-in-wigan-begins-13610297</link>
 <guid isPermaLink="false">baffaa16d5e9604344e1bb7536d3e57aec32fd0a84269c3edfa456f62f07c3cc</guid>
 <source>Sky News Home</source>
@@ -686,17 +686,6 @@
 <media:content url="https://s.abcnews.com/images/WNT/261108_ntl_NASA_recruitment_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>AI giant Nvidia launches investigation into CEO's affair with 'Chinese spy'</title>
-<link>https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986</link>
-<guid isPermaLink="false">0d208e2c1172ff8b091519442eeb780b7845db875274eaf7a0f8806b339fd429</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Sun, 08 Nov 2026 20:41:00 +0000</pubDate>
-<description>The chief executive of tech giant Nvidia has admitted having an affair, with the company investigating reports that he was targeted by a foreign intelligence effort.</description>
-<enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-nvidia-jensen-huang_7354587.jpg?20260917130746" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-nvidia-jensen-huang_7354587.jpg?20260917130746" medium="image"/>
-</item>
-<item>
 <title>Georgia Gov.-elect Bottoms: 'It's safe to say that we are a blue state'</title>
 <link>https://abcnews.com/Politics/safe-blue-state-georgia-gov-elect-bottoms-after/story?id=137952244</link>
 <guid isPermaLink="false">dab494648aee21e4af721e4ddc44912a4169990aee9312dadbf9637aadc4c578</guid>
@@ -717,6 +706,17 @@
 <description>A Republican congressman has taken steps to force a vote to impeach US defence secretary Pete Hegseth.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-massie-usa_7402513.jpg?20261109211140" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-massie-usa_7402513.jpg?20261109211140" medium="image"/>
+</item>
+<item>
+<title>Seven dead and 114 injured in train crash near Cairo</title>
+<link>https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748</link>
+<guid isPermaLink="false">c18c75ae93951feb994d5c18c8ff83a415e912b7ed4ea8266c9a8b4c2d592df2</guid>
+<source>Sky News World</source>
+<category>world</category>
+<pubDate>Sun, 08 Nov 2026 14:55:00 +0000</pubDate>
+<description>At least seven people have died and more than 100 have been left injured in a major train crash south of Cairo, according to the Egyptian Chief Prosecutor’s office.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-egypt-train-derailed_7401023.jpg?20261108152839" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-egypt-train-derailed_7401023.jpg?20261108152839" medium="image"/>
 </item>
 <item>
 <title>Finland's navy chief says Russia's presence in the Baltic Sea may have peaked for now</title>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Crypto exchanges need hard dollar caps on hot wallets, CertiK says</title>
+<link>https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik</link>
+<guid isPermaLink="false">dfd7b01d59a913ea0c412ee47bf53b16b5feb9940c500a670840fddd7216b5ac</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 05:05:58 +0000</pubDate>
+<description>“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71XK0AKCR5VV61ST5J6AGKW/cold-wallet-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71XK0AKCR5VV61ST5J6AGKW/cold-wallet-1.jpg" medium="image"/>
+</item>
+<item>
 <title>OpenAI builds kill switch to stop rogue agents within 35 seconds</title>
 <link>https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents</link>
 <guid isPermaLink="false">0c4de2a1d158b30fb2df09e4dd7d684e74ca0cd6ca9ee8548d51d986bda6abf1</guid>
@@ -35,17 +46,6 @@
 <description>Anthropic's latest AI can build complex software and even design physical objects. Users are producing impressive results, and estimated bills large enough to make developers wince.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 22:06:26 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years</title>

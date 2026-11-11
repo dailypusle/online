@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring</title>
+<link>https://www.engadget.com/2312913/2027-chevrolet-bolt-review</link>
+<guid isPermaLink="false">73e923b0798152fd5c0008b8262ffdd5c76b062f0ca4e89cf3508d5a515859b1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+<description>Like a budget-minded phoenix, the Bolt is back - but not for long.</description>
+<enclosure url="https://www.engadget.com/img/gallery/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring/l-intro-1794352074.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring/l-intro-1794352074.jpg" medium="image"/>
+</item>
+<item>
+<title>Google gooses Python AI performance by... removing Python</title>
+<link>https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995</link>
+<guid isPermaLink="false">ca248e99183dbbe18820ae852d0da16c8f1460bd9a9d72b595853c579f475c0d</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 11:30:00 +0000</pubDate>
+<description>"Train in Python, serve in C++" might as well be Google's motto when it comes to much of its ML work. Python is easy for data scientists to wield, but keeping its interpreter in the serving pipeline can add overhead and deployment headaches. The industry-backed OpenXLA Project provides tools for compiling machine learning computations into native code for different processors. The latest component of this setup to be open sourced is XSE , short for the XLA Serving Engine. One-shot inference XSE is not so much suited for large-scale LLM inference (which would be better served by vLLM or SGLang ), but rather for smaller, more sharply task-oriented models, of which there are plenty at Google. "LLM serving gets most of the attention right now, but a significant amount of production inference is still ranking, recommendation, embedding, and vision models. These tend to be short requests with very high [queries-per-second] and tight latency budgets," Nathan Beach , Google director of product management, wrote in a LinkedIn missive Tuesday. At Google, XSE already handles more than six million queries per second across services including YouTube Shorts, Google Ads, and Search. These models aren't there for a leisurely chat. They rank results, recommend videos, and make other decisions on the fly, often without users noticing. A Python interpreter mulling each request would be a bottleneck, if not the end of Google itself. In Google's tests on short requests, XSE delivered two to five times the throughput of its best optimized Python server, using a quarter of the memory. No Python here In this setup, the ML boffins write their model code in Python, using Google's JAX to help with the sums. Google also plans integration with TorchTPU so PyTorch users can export models for C++ serving on TPUs. An export tool packages the model's computations in StableHLO, a portable intermediate representation, alongside its trained weights in an "XLA SavedModel." Ready to precognate, the C++ serving runtime uses XLA to compile those computations into native code for the target silicon. No Python interpreter to see here. XLA SavedModels can run on GPUs and CPUs – Google partnered with both Arm and Intel to develop the XLA ecosystem. But Google obviously thinks it'd be a lot cooler if you ran your models on its own line of TPU accelerators . Python's sluggishness continues to be an issue for the ML community. Beyond XSE, other approaches have been taken, many of which involve jettisoning the Python code as quickly as possible. PyTorch offers a native C++ runtime called LibTorch . Also, Microsoft and its collaborators offer the ONNX Runtime , which supports an open graph format with Python bindings. Even Python's own reference implementation relies heavily on C, with Rust now getting a foot in the door. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=1682491&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=1682491&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Apple is shutting down its online Support Community on November 20</title>
 <link>https://www.engadget.com/2313147/apple-shuts-down-support-community-forum</link>
 <guid isPermaLink="false">65c8593bec07c1968b49700f5cbeff8daecb91abf070ac5686ec0213fc288cdd</guid>
@@ -46,6 +68,17 @@
 <description>Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.</description>
 <enclosure url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg" medium="image"/>
+</item>
+<item>
+<title>Germany reportedly bans Chinese drones at military bases over security concerns</title>
+<link>https://www.theguardian.com/world/2026/nov/11/germany-bans-chinese-drones-military-bases-spying-security</link>
+<guid isPermaLink="false">0965b7b55b280e8fcfd3132ded403cec8707ccff3bc685aadc329f9ae0dd8288</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 09:41:05 +0000</pubDate>
+<description>Western military forces increasingly worried Chinese-made technology ⁠could send ‌sensitive information to Beijing Germany has banned commercially available Chinese-made drones ⁠from its military bases and training grounds due to security concerns, ⁠according to reports. Western military forces have grown increasingly concerned that Chinese-made technology ⁠could pose a security risk and may be ​used to transmit ‌sensitive information to Beijing. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/cd544b4eda9c6644bc1f2a607c6d84915015d8c7/614_0_5179_4144/master/5179.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4174b0fdb51f5432425eaa5e34b51c00" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/cd544b4eda9c6644bc1f2a607c6d84915015d8c7/614_0_5179_4144/master/5179.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4174b0fdb51f5432425eaa5e34b51c00" medium="image"/>
 </item>
 <item>
 <title>UK's 'buy British' tech ambitions hit reality as less than £1 in £6 stays at home</title>
@@ -609,17 +642,6 @@
 <media:content url="https://www.engadget.com/img/gallery/nvidia-dlss-4-5-has-presets-you-should-know-about/l-intro-1793721583.jpg" medium="image"/>
 </item>
 <item>
-<title>Polestar is banned in the US, but we still want its latest concept car</title>
-<link>https://www.engadget.com/2312286/polestar-is-banned-in-the-us-but-we-still-want-its-latest-concept-car</link>
-<guid isPermaLink="false">b3d96e666ebb5fd0abdfbb82c6220add9b193695277709046391aa342abce302</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:38:43 +0000</pubDate>
-<description>The Formula 2030 has inflatable seats, a pop-up LiDAR sensor and physical buttons.</description>
-<enclosure url="https://www.engadget.com/img/gallery/polestar-is-banned-in-the-us-but-we-still-want-its-latest-concept-car/l-intro-1794332275.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/polestar-is-banned-in-the-us-but-we-still-want-its-latest-concept-car/l-intro-1794332275.jpg" medium="image"/>
-</item>
-<item>
 <title>UK social media ban expansion for under-16s could cover YouTube Kids</title>
 <link>https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids</link>
 <guid isPermaLink="false">e4f6ecf548c7cf59f41dc3e9a6d0e73c85be1e325aad9dbc0251983bcdd6a69a</guid>
@@ -1159,17 +1181,6 @@
 <media:content url="https://image.theregister.com/?imageId=1681829&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The French fridge hacks were relatively unsophisticated. An AI-enabled attack would raise the stakes</title>
-<link>https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe</link>
-<guid isPermaLink="false">88fd9e5b6be26d2450d185cfadb587c9778f5940926be98728ed8456dece892b</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 19:40:45 +0000</pubDate>
-<description>‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on the screens of water-control equipment made by an Israeli firm. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbbf673c92cc02d5cc5b7d630a066fe9" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbbf673c92cc02d5cc5b7d630a066fe9" medium="image"/>
-</item>
-<item>
 <title>You can change Windows settings directly from a search now – how to try it</title>
 <link>https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview</link>
 <guid isPermaLink="false">32ed12b73c12e0b23c7203157c19d9984ec6d04bc92f6561a617f8248b25f00c</guid>
@@ -1443,17 +1454,6 @@
 <description>The writer and podcaster on why politics is made to seem more complicated than it is and his mission to unpack world events for everyone Why did you get into comedy? My mum was a professional dancer and always encouraged me to perform. Given that I have zero rhythm, comedy was my other option. She wrote me a poem called Mrs Brown’s Moggy, about a cat that was often very soggy, for my school’s talent show. Because you can’t tell the difference between real and polite laughter at the age of six, I assumed I’d killed my first gig and convinced myself I was born to do nothing else. Where do you find your material? In a world where Robert Jenrick claims Nigel Farage has “ probably done more than almost anybody to stand against racism ”, the answer is that my material is presented to me on a silver platter each morning. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/59055f0d397c465621f8da5eb34b10408c20a92c/32_171_1454_1163/master/1454.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb03a3d97ae74ed7f53ccbdad70acaac" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/59055f0d397c465621f8da5eb34b10408c20a92c/32_171_1454_1163/master/1454.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb03a3d97ae74ed7f53ccbdad70acaac" medium="image"/>
-</item>
-<item>
-<title>Linus Torvalds sees signs AI-prompted patch flood has peaked</title>
-<link>https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345</link>
-<guid isPermaLink="false">e811360dc86da18ed11e34ee4ba43d00337239e8c97036fe2a3509c2568b821a</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 04:53:08 +0000</pubDate>
-<description>The worst of the patchpocalypse may be behind us, according to Linus Torvalds. Writing in his weekly kernel update post , the Linux kernel dev leader delivered Linux 7.4 rc2 – the second rough cut of the next kernel – which he rated as a big release for two reasons. One is that he left some code out of rc1, because he was busy and because it was already the largest such release in the history of the kernel. The other is what Torvalds described as “various AI fixes.” Such fixes are necessary because ever since Anthropic launched its Mythos bug-finding model in April , developers have been able to find more software flaws than was previously possible. Microsoft, for example, addressed a record 974 flaws in September – its third record fixing spree this year after it whacked 622 flaws in July and 206 in June. Oracle addressed 1,449 flaws in a single month. That’s many more patches than IT teams are set up to handle, yet they must find ways to deal with bugs more quickly because attackers are increasingly targeting flaws found by AI . Torvalds’ post suggests that, perhaps, the worst of this is behind us. “This time around Alexei claims that on the bpf side at least the fixes are now coming in faster than the new reports, and that sounds lovely if true,” he wrote. That’s a reference to Alexei Starovoitov, co-creator and lead dev on the Extended Berkeley Packet Filter (eBPF), the project that makes it possible to run sandboxed programs within the Linux kernel. “I think most other areas haven't reached that point yet, but it's at least a sign that we _may_ be starting to see the tide starting to turn,” he added. “Don't hold your breath, but maybe cross your fingers we'll be getting there in the not entirely distant future.” If Torvalds is correct, that’s welcome news. The Linux kernel’s 40-million-plus lines of code makes it one of the world’s bigger software projects. If AI soon stops finding flaws in other parts of the kernel beyond eBPF, perhaps the deluge of fixes developers and users alike will need to handle has peaked. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5241522&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5241522&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Gotta buy ’em all: how Pokémon card collecting became race against scalpers</title>

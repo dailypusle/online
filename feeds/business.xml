@@ -4,9 +4,75 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Deutsche Bank Switches On Bitcoin Custody for Paying Clients</title>
+<link>https://bitcoinmagazine.com/news/deutsche-bank-bitcoin-custody-live</link>
+<guid isPermaLink="false">2121783894d17e65dfa3089d14e98e70de4a12534ad96bdb6bf6104ee173d1ff</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 14:48:10 +0000</pubDate>
+<description>Bitcoin Magazine Deutsche Bank Switches On Bitcoin Custody for Paying Clients Deutsche Bank has switched on its digital asset custody service for paying clients, the German lender said Wednesday, letting institutions and corporations in Europe hold bitcoin with the country’s largest bank less than two months after it first unveiled the plan. The bank announced the service on Sept. 16, saying it would go live with first clients this year once regulators signed off. It now supports bitcoin and ether, along with the USDC, EURC and EURAU stablecoins, according to its product page . Under the setup, Deutsche Bank manages the wallets and private keys on behalf of clients, who can store the assets and transfer them to third parties. The bank pitched that as a way for clients to skip building and maintaining their own custody infrastructure. “In the medium term we aim to deliver a fully integrated, regulated ecosystem that supports the custody, tokenisation, and settlement of digital assets,” said Paul Maley, global head of trust and securities services at Deutsche Bank. The bank did not name its first clients, say how many have signed up or disclose what it charges to hold the coins. The service is aimed at institutional and corporate clients, not retail customers. What Deutsche Bank is offering The product page describes private keys stored in hardware security modules, a choice of warm and cold storage, multi-factor authentication, segregation of client assets and a customizable approval process for client transfers. Clients reach the service through Autobahn, Deutsche Bank’s multi-channel gateway, or its Corporate Bank portal. The service is booked out of Deutsche Bank AG in Frankfurt and is available in Germany, with cross-border servicing across Europe through passporting. The bank lists institutional investors, multinationals and corporates, governments and sovereigns, and wealth managers as target clients, and it describes the offering as compliant with the European Union’s MiCA crypto rules. For now the menu is narrow. Deutsche lists custody, transfers and internal moves between warm and cold storage as its initial services, with “further capabilities planned.” The September release said the asset list may grow with client demand and that tokenized financial instruments are on the roadmap. It also carried a warning familiar to anyone in bitcoin: crypto assets held this way are not covered by a deposit-guarantee scheme like the one that protects eligible bank deposits. A tie-up with Deutsche Asset Management Alongside the launch, Deutsche Bank signed a memorandum of understanding with Deutsche Asset Management, the money manager it mostly owns that was known until recently as DWS. The agreement is meant “to explore comprehensive commercial and technical collaboration opportunities in the digital asset space,” the bank said. The firms plan to look at tokenized money market funds, crypto exchange-traded commodities and stablecoins built around the</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Deutsche-Bank-Switches-On-Bitcoin-Custody-for-Paying-Clients.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Deutsche-Bank-Switches-On-Bitcoin-Custody-for-Paying-Clients.jpg" medium="image"/>
+</item>
+<item>
+<title>Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix</title>
+<link>https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix</link>
+<guid isPermaLink="false">9f6acbdcf8d9a1acb1c49a1536dbff4b31e99b36380a0ac82ae5c3f85803d1dc</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 14:02:55 +0000</pubDate>
+<description>The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/phoenix-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/phoenix-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Deutsche Bank launches crypto custody for companies and institutions</title>
+<link>https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu</link>
+<guid isPermaLink="false">d2e3bc19d2b21cdbadb13a5a1b06c576f7d58181956b32d9ceea4c05bb8b0b0b</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 14:02:18 +0000</pubDate>
+<description>Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75D0RVNVRMGT5GMDFRH6PZQ/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75D0RVNVRMGT5GMDFRH6PZQ/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 13:38:15 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts</title>
+<link>https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts</link>
+<guid isPermaLink="false">889102096ae1158c1ac4e968d18159efa6a209611be92735fe07305814dd3f4d</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 13:30:00 +0000</pubDate>
+<description>Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72P50QB7YYQYFYB7ABTSVZ2/magazineai-banking-the-unbanked-in-africa-1.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72P50QB7YYQYFYB7ABTSVZ2/magazineai-banking-the-unbanked-in-africa-1.png" medium="image"/>
+</item>
+<item>
+<title>Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions</title>
+<link>https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv</link>
+<guid isPermaLink="false">71dfe5f8aab3deb3d9208ea0b2b2dbb6d1b4bac93d6defe9154190ef322e0f6f</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 13:26:18 +0000</pubDate>
+<description>OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-storage.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-storage.jpg" medium="image"/>
+</item>
+<item>
 <title>CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates</title>
-<link>https://cointelegraph.com/news/coreweave-stock-surges-pre-market-q3-revenue</link>
-<guid isPermaLink="false">775bbd4921c6270d6f343ca86ac074eda68e6bebd2a07cd79b6b8da9ce7769b7</guid>
+<link>https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue</link>
+<guid isPermaLink="false">daeade8a93588596e146411b047cc28c3324a03aa7b841f8a819e03a3357c145</guid>
 <source>Cointelegraph</source>
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 13:02:30 +0000</pubDate>
@@ -178,17 +244,6 @@
 <description>The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74RCY03VD26P3VVM8SW3SGD/tracking-supervision-security-people.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74RCY03VD26P3VVM8SW3SGD/tracking-supervision-security-people.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack</title>
@@ -565,17 +620,6 @@
 <media:content url="https://imgproxy.divecdn.com/nPUetq5lBTefqM7qXriKPuK5PRT8kiowl5Ijqj6bikE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgzNTk1Nzc3LmpwZw==.webp" medium="image"/>
 </item>
 <item>
-<title>8 questions for the Wells Fargo wealth unit’s AI chief</title>
-<link>https://www.bankingdive.com/news/8-questions-for-the-wells-fargo-wealth-units-ai-chief/874275</link>
-<guid isPermaLink="false">7ab767de61d6e3db21d32badae7519f023dd1cdfd9ce04a40c1ad3b620d588ef</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 17:21:20 +0000</pubDate>
-<description>Wells Fargo’s AI Teammate has had hundreds of thousands of interactions, according to Andre Mansour, and “things that used to take hours now are down to minutes.”</description>
-<enclosure url="https://imgproxy.divecdn.com/JEKh7PHJJI9YFVmLrb0NoVuB7ZR7beWvyh5UoxCGkik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NzgwNTcyLmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/JEKh7PHJJI9YFVmLrb0NoVuB7ZR7beWvyh5UoxCGkik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NzgwNTcyLmpwZw==.webp" medium="image"/>
-</item>
-<item>
 <title>Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%</title>
 <link>https://bitcoinmagazine.com/news/canaan-can-swings-8-million-profit</link>
 <guid isPermaLink="false">2122fe1f4e898892b0dc0725c01d7a5b2f95936b7aa57b8af41384f96eea7e48</guid>
@@ -675,17 +719,6 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/03/MARA-Dumps-1.1-Billion-in-Bitcoin-to-Repurchase-Convertible-Notes-Cuts-Debt-by-30.jpg" medium="image"/>
 </item>
 <item>
-<title>Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury</title>
-<link>https://bitcoinmagazine.com/news/hyperscale-data-sells-last-bitcoin-ai</link>
-<guid isPermaLink="false">b77ff36afeb34dee66934affe206de85e8569d3471322f2b4eaf033b31cb3b8a</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 14:45:00 +0000</pubDate>
-<description>Bitcoin Magazine Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury Hyperscale Data has sold the last of its bitcoin, the NYSE American-listed company said Tuesday, unloading about 211.56 BTC for roughly $16 million to pay down debt and fund an AI data center in Michigan. The sales were completed by Nov. 8 at about $76,000 per coin. Since it first sold part of its reserve in late July, Hyperscale has sold approximately 1,113 bitcoin for about $74.4 million, the company said. That works out to an average of roughly $66,800 per coin. At today’s price near $74,200, the same 1,113 BTC would be worth about $82.6 million. The company, which trades under the ticker GPUS, said the money will go toward its Michigan site, where it aims to energize the first 10 megawatts of critical IT capacity in December. “We believe bringing that capacity online is our quickest path to profitability,” CEO Will Horne said in the release. “Selling our Bitcoin reserves reduces our exposure to Bitcoin price swings and gives us cash to pay down debt and fund the work in Michigan. We believe that’s the best use of this capital for all our stockholders.” From a $100 million target to zero The exit is a sharp reversal from Hyperscale’s plans this summer. In late July, the company reported holding more than 1,106 bitcoin and said it wanted to build a $100 million digital asset treasury and reach full parity between its bitcoin holdings and its market capitalization. “Every Bitcoin we acquire further strengthens Hyperscale Data’s balance sheet and expands our financial flexibility,” Executive Chairman Milton “Todd” Ault III said at the time. “We intend to continue building our Bitcoin position over time.” A week later, Hyperscale disclosed its first sale , about 150.5 BTC, leaving it with roughly 958.5 BTC as of Aug. 2, even as its Ault Capital Group subsidiary bought about 15 BTC on the open market. The holdings were split between that unit and Sentinum. Ault said then that the company planned to keep a long-term position while tapping it for short-term flexibility, adding, “We are confident in our ability to use Bitcoin as pristine collateral.” Tuesday’s release closes that chapter. Hyperscale said it still mines bitcoin at its Montana site and expects any bitcoin it holds on its balance sheet going forward to come “primarily” from its own mining operations. Hyperscale joins the bitcoin-for-AI trade Hyperscale is the latest public company to give up a bitcoin treasury in favor of data center spending. Keel sold its entire bitcoin treasury for $192 million in the third quarter, and Riot and Hut 8 sold thousands of bitcoin to fund AI buildouts and buybacks. Larger miners are moving the same way. MARA said Monday it sold 13,597 BTC for about $1.1 billion after Sept. 30 and plans to keep selling to fund AI infrastructure, convertible note puts and share repurchases. Hyperscale’s structure is more complicated than a pure-play</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/07/Hyperscale-Buys-More-Bitcoin-1.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/07/Hyperscale-Buys-More-Bitcoin-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius</title>
 <link>https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius</link>
 <guid isPermaLink="false">0bb7b8eb5ddfec5837f5e225e92d3534a7a1e8278ede88c787be942452f462af</guid>
@@ -730,17 +763,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png" medium="image"/>
 </item>
 <item>
-<title>Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss</title>
-<link>https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss</link>
-<guid isPermaLink="false">bf590af36927d5256197803d255d3a515584db703db5a7f480c8b7cad071c0ee</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 13:30:00 +0000</pubDate>
-<description>Bitcoin Opportunity Fund co-founder Mark Moss says that with banks and ETFs widening access to Bitcoin he expects a new record high in 2027.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M706AM1558Y70YWGC5XVGNF0/mark-moss-trade-secrets.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M706AM1558Y70YWGC5XVGNF0/mark-moss-trade-secrets.png" medium="image"/>
-</item>
-<item>
 <title>Morning Minute: Vitalik Recasts ETH as a Store of Value</title>
 <link>https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value</link>
 <guid isPermaLink="false">ae7a81f0aa0dede9ebbfec78f05b08a8591658f8d72adaf3b825190d3866a74e</guid>
@@ -763,17 +785,6 @@
 <media:content url="https://imgproxy.divecdn.com/iQr0GmGzV3LRui2z2xBr75dzPYYpWmIJY38xP6sdPZo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yQ0M3RVIxLmpwZw==.webp" medium="image"/>
 </item>
 <item>
-<title>Bitcoin may benefit as global tightening slows, Binance Research says</title>
-<link>https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research</link>
-<guid isPermaLink="false">ab731eeb874a38dca183fa39b176e2366d8cffe92d13c02e9ba94a11699fbbee</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 13:15:59 +0000</pubDate>
-<description>Binance Research says Bitcoin could find support as global monetary tightening slows, even as markets price in a December Fed rate hike.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72H4DJ226BDHE1MFZ2MJ0XJ/analysis-psychoanalyst2-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72H4DJ226BDHE1MFZ2MJ0XJ/analysis-psychoanalyst2-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys</title>
 <link>https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys</link>
 <guid isPermaLink="false">1ced58a112cefd400ddf8a6e3113afc35d76323d5ff090b7c3568821afbf2933</guid>
@@ -794,17 +805,6 @@
 <description>The exchange will reject withdrawals to MEXC and hold deposits from it for review, after FinCEN tied it to $16 billion in suspicious flows.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures</title>
-<link>https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit</link>
-<guid isPermaLink="false">eb6eacaf78d6ecb01dfe08345d238270fdc268ba266c65d6f5d9672c5dfda557</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 11:44:55 +0000</pubDate>
-<description>Coinbase, Kalshi and four other companies backed the CFTC in a lawsuit over whether US exchanges can list perpetual futures tied to individual stocks.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72DGPHCSG70YGY72DZ7EFS4/hinew-us-government-crypto-coinbase.jpg" medium="image"/>
 </item>
 <item>
 <title>Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy</title>
@@ -1005,39 +1005,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump Says He Knows 'Nothing' About World Liberty Financial as He Defends UAE Ties</title>
-<link>https://decrypt.co/382813/trump-says-he-knows-nothing-about-world-liberty-financial-as-he-defends-uae-ties</link>
-<guid isPermaLink="false">e2676701e83a0ade5db08439d6ab35c398888c4bdec59f4aeffb5b247dd0dcc4</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 11:26:27 +0000</pubDate>
-<description>Pressed on why he doesn't divest from the family's crypto venture, Trump said his sons run the business and every president faces conflicts.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-11-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-11-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort</title>
-<link>https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort</link>
-<guid isPermaLink="false">6aeb8a2e5d475e76726581a307296331bfe9e5cf34c4fb71ffd4d051c1b655e6</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 09:50:21 +0000</pubDate>
-<description>Huang told staff he had been "unfaithful" to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet</title>
-<link>https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet</link>
-<guid isPermaLink="false">516d3f7ea51a1de04e9cf5f43ed94af9f53a27c0584041221879d0575c5e0c34</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Sun, 08 Nov 2026 14:01:03 +0000</pubDate>
-<description>Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
 <title>Dive Deposits: Goldman named new partners but left other details out</title>
 <link>https://www.bankingdive.com/news/goldman-109-new-partners-women-gender-race-diversity-trump-solomon/874018</link>
 <guid isPermaLink="false">2500d72858aa74f691c754bcec20d02bbf4f9721ebd39a1a93d088c884126473</guid>
@@ -1058,5 +1025,16 @@
 <description>The state ordered the crypto ATM company to pay $4.8 million to scam victims, and bashed federal regulators over failing to police for fraud.</description>
 <enclosure url="https://imgproxy.divecdn.com/m89vHtziBkSz1Pnmiz-i3P2ejhpTG22nGJcUufXy0D4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODI2NjQ2MjIuanBn.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/m89vHtziBkSz1Pnmiz-i3P2ejhpTG22nGJcUufXy0D4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODI2NjQ2MjIuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>PNC boosts branch expansion, kicks off CFO transition</title>
+<link>https://www.bankingdive.com/news/pnc-branch-expansion-southeast-cfo-transition-reilly-overstrom/874005</link>
+<guid isPermaLink="false">75253a8322f0cc3e88b4ac6481f4751fd13f40c62ac6469bc4123dfed57dc98a</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Fri, 06 Nov 2026 15:54:42 +0000</pubDate>
+<description>The Pittsburgh-based bank said it would add more than 50 locations in South Carolina and Georgia and named its retail chief to the CFO role, effective in March.</description>
+<enclosure url="https://imgproxy.divecdn.com/GEITUnz57EIb7kkZjPzyXdPf-JCKjgSkjarp_CgrpAU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTkNfQnJhbmNoX0RlbnZlcl9oaS1yZXMucG5n.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/GEITUnz57EIb7kkZjPzyXdPf-JCKjgSkjarp_CgrpAU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTkNfQnJhbmNoX0RlbnZlcl9oaS1yZXMucG5n.webp" medium="image"/>
 </item>
 </channel></rss>

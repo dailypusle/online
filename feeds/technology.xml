@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Google’s AlphaGenome 2 zooms in on the cellular roots of disease</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</link>
+<guid isPermaLink="false">943bd9ebdd36c5629d76e70282e54a6aa5927d181f927f4efacdc48897591f0b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+<description>A graphic representing Google’s AlphaGenome Atlas. | Image: Google Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor to DeepMind's genome-predicting AI model AlphaGenome, which was released last year . While nearly every cell in the human body carries the same DNA, different types of cells - from heart muscle cells and skin cells to immune cells fighting an infection - switch different genes on and off, and those patterns can change d … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Europe wants to ban 'dark patterns' in apps and loot boxes for minors</title>
+<link>https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors</link>
+<guid isPermaLink="false">a80267a513b276e9916c2e155afad8bce1737a62b8952faaa2b2d3a0faf19267</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 14:29:03 +0000</pubDate>
+<description>Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.</description>
+<enclosure url="https://www.engadget.com/img/gallery/europe-wants-to-ban-addictive-design-loot-boxes-and-dark-patterns-in-apps/l-intro-1794406701.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/europe-wants-to-ban-addictive-design-loot-boxes-and-dark-patterns-in-apps/l-intro-1794406701.jpg" medium="image"/>
+</item>
+<item>
+<title>Google DeepMind just mathematically verified key parts of Signal</title>
+<link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup</link>
+<guid isPermaLink="false">7db3dbf05615c3ed65084a4f7b0a8fb9189fc19916fe0d6660be167eca67929a</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 14:08:57 +0000</pubDate>
+<description>Google DeepMind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees—a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two ways. It serves as further independent validation of the cryptography that protects massive quantities of the world's communications on platforms like the Signal app , Google Messages, and WhatsApp. And it demonstrates Google DeepMind's formal verification capabilities using a new AI framework called AlphaProof Code. More broadly, AI-aided formal verification is having a moment, but it is unclear how practical it will be for widespread use and how effective it can be at securing large amounts of code. Proponents of formal verification have long referred to it as a sort of holy grail in software security, because it uses math to check and validate that software is functioning as intended—in other words, that it doesn't have critical vulnerabilities. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price</title>
+<link>https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on</link>
+<guid isPermaLink="false">2b73307335ce5d8ba58a7252fdac7a7e68989f0b8a7b7e40bd2f844730a32bb3</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
+<description>It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth considering. It has very good sound and just enough extras, even if you use more gadgets than just your PlayStation 5. Inside the Pulse's nondescript ear cup shells are custom planar magnetic drivers, which deliver clean, detailed sound whether you're gaming, listening to music, or both. They aren't bass-heavy or too shrill; their default equalizer is pleasing and pun … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Adobe’s AI experiments let you walk around in photos and interview your characters</title>
+<link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
+<guid isPermaLink="false">1251f00274bede43be17fe09fe5f9e8dd6c6d24fbd9015e18d8a9f61880dae70</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
+<description>Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. The first (and weirdest, in my opinion) is Project Screen Test, which is designed to make AI-generated characters easier to develop and use for video content. Instead of just describing how the character should sound and behave in text prompts, the tool lets you talk to the character and direct them in an a … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Streaming is still trying to be TikTok</title>
+<link>https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video</link>
+<guid isPermaLink="false">af06ecd48e5436f8d1830a82ca1c14de5fb1a2e8eff1ab1cfda9de12ba814241</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 13:30:00 +0000</pubDate>
+<description>At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Months earlier, he'd singled out a way to get viewers to spend more time with Paramount's programming. A feed of short vertical videos, he said, was " critical to our future ." On Skydance's earnings call Monday, Ellison put a name to the competition. Add up all of Paramount's and Warner Bros. Discovery's broadcast, cable, and streaming properties, he said, and they still trail YouTube in … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>I asked every TV manufacturer 17 questions about how they spy on you</title>
 <link>https://www.theverge.com/tech/1012372/tv-privacy-acr-questions</link>
 <guid isPermaLink="false">53cf43c23ca1eb5e1c4b84c82ac7cfa54d06953bb3dee5cb7d097865eb366e99</guid>
@@ -433,17 +499,6 @@
 <media:content url="https://image.theregister.com/?imageId=5308936&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Oura is acquiring medical AI chatbot startup Counsel Health</title>
-<link>https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</link>
-<guid isPermaLink="false">daf7e9e96e7de529337a2313285db8c7de54f27cdbdbb52bc31a120a3b651c8f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 21:40:31 +0000</pubDate>
-<description>Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year . Counsel Health calls itself an "AI-native primary care company," using the app to deliver AI-generated responses and insights based on users' health data reported from their wearables that can then proceed to a conversation with one of its in-house physicians. Oura says it expects the deal to close before the end of the year. Oura CEO Tom Hale said in an interview with Bloomberg that the acquisition is part of a plan to connect wearables, clinical AI, and access to do … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI</title>
 <link>https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi</link>
 <guid isPermaLink="false">80500b1292cc170c8e32784d657cf231b10ce1c395a57b1777d7f0eaefb6ef58</guid>
@@ -455,24 +510,13 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp" medium="image"/>
 </item>
 <item>
-<title>Sony cancels live-service shooter Fairgames</title>
-<link>https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled</link>
-<guid isPermaLink="false">24d30a68df26da8bfcf72b561d29b8a5064b505d5b097425a16b12de269d95d2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 21:06:12 +0000</pubDate>
-<description>Sony has canceled Fairgames , a heist game announced in 2023 , according to Bloomberg . Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down Concord shortly after its failed launch . The Fairgames cancellation won't result in job cuts, and developer Haven Studios will now support other PlayStation studios, Bloomberg reports. The game was canceled following a recent test where "player feedback and retention results were mixed and fell short of the goals we had set, … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>New Windows 11 update fixes File Explorer menu mess – and patches an exploited flaw</title>
+<title>Microsoft fixes over 1,000 Windows flaws – and one is being exploited</title>
 <link>https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu</link>
 <guid isPermaLink="false">08438d071d0c5e843823b433b6dd92c8babf200197a066f56f96f2e351bc913e</guid>
 <source>ZDNET</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 21:00:31 +0000</pubDate>
-<description>With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.</description>
+<description>With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. But don’t skip these security fixes.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg" medium="image"/>
 </item>
@@ -521,17 +565,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>The PlayStation Plus PC app is shutting down next month</title>
-<link>https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down</link>
-<guid isPermaLink="false">18bbaebc5689f4c97e5c02dabfdec0fcc7a9f5bb9e5a13b5e51821f75bbd805d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:40:52 +0000</pubDate>
-<description>Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a very small number of eligible PlayStation Plus Premium members (less than 0.4%) using the PlayStation Plus app on PC, making this change allows us to focus on enhancing high-quality experiences that more of our members want to use. As a result, the PlayStation Plus cloud streaming app on PC will no longer be available. PlayStation Plus Premium subscribers can still … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Google Fi adds support for a second 5G network, won't say which one</title>
 <link>https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one</link>
 <guid isPermaLink="false">b9a299766787053c45667aca75f406520a21b499574b21bbc9f70d927218393b</guid>
@@ -565,17 +598,6 @@
 <media:content url="https://www.engadget.com/img/gallery/new-york-will-independently-test-ai-models/l-intro-1794338220.jpg" medium="image"/>
 </item>
 <item>
-<title>Starlink Mini 2 adds a swappable battery</title>
-<link>https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery</link>
-<guid isPermaLink="false">b1f37d94439e8570e9c9b0765ab4ca3cfda6338caa3ae2daf0280ead6bfe4e39</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:19:12 +0000</pubDate>
-<description>SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes a full year of Roam Unlimited service that SpaceX values at $2,100. The Starlink Mini 2 will run for up to 4.5 hours on a full charge, SpaceX claims, but that can be expanded by hot-swapping in additional batteries that will be sold separately, or by connecting the dish to a 60W power source over USB-C. Despite the addition of … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/starlinkmini2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/starlinkmini2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop</title>
 <link>https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family</link>
 <guid isPermaLink="false">67bf860f7b2f0b4d56da189852be7cb783fe43e54cd32917d26197f7050593b3</guid>
@@ -596,17 +618,6 @@
 <description>You've adjusted for inflation, but the math isn't mathing. We can explain why you may be feeling sticker shock over the cost of a ASUS ROG Zephyrus G14.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-much-did-the-asus-rog-zephyrus-g14-cost-in-2020-vs-2026/l-intro-1793737272.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-much-did-the-asus-rog-zephyrus-g14-cost-in-2020-vs-2026/l-intro-1793737272.jpg" medium="image"/>
-</item>
-<item>
-<title>Google's impressive Rambler dictation tech is now available on Pixel 10 devices too</title>
-<link>https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates</link>
-<guid isPermaLink="false">ce31b5ffa69c03059adc58f4e834f17848e035fa4cc66faaf2cfc28f379d2fc1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
-<description>November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages.</description>
-<enclosure url="https://www.engadget.com/img/gallery/googles-impressive-rambler-dictation-tech-is-now-available-on-pixel-10-devices-too/l-intro-1794327349.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/googles-impressive-rambler-dictation-tech-is-now-available-on-pixel-10-devices-too/l-intro-1794327349.jpg" medium="image"/>
 </item>
 <item>
 <title>Barracuda’s email security gateways bitten by make-me-root vulns</title>
@@ -1146,17 +1157,6 @@
 <description>It's barely been two months since the controversial Paramount and Warner Bros. merger, and we've already got a shockingly unexpected ouster : Co-CEOs of the rebooted DC Universe, James Gunn and Peter Safran, are stepping down from that role despite the Hollywood rumor mill assuming that the duo would be safe. It's unclear whether the pair chose to resign or were forced out, or what will happen to their planned slate of projects beyond 2028's Superman: Man of Tomorrow , which is in post-production. Producer Jeremy Latcham—a protege of Marvel's Kevin Feige who worked with Gunn on Guardians of the Galaxy among other MCU films—will replace them. Per Gunn and Safran's joint statement : Four years ago, we set out to unite DC under one creative vision. In that time, we helped restore Superman to the heart of DC, while opening new doors and telling new stories in film and television with Peacemaker , Creature Commandos, Lanterns and Clayface. We’re immensely proud of the team that turned that ambition into something real, including the actors, crews and executives we had the opportunity to collaborate with. We’ve shared a creative history with Jeremy going back to Marvel, and we’re eager to see the perspective he brings to DC’s next chapter. We’re excited to return to what drew us to this job in the first place, which is telling the stories we love, including the next chapter of Clark and Lex’s journey in Man of Tomorrow . DCU fans are mourning the news and what it could mean for the franchise. My feelings are mixed. On the one hand, I'm on record that I’ve found the rebooted DC Universe films released thus far to be enjoyable but rather forgettable, even when the positives outweigh the negatives . (I have yet to see Clayface , which debuted to good reviews and a solid box office showing.) But HBO has done right by the DCU: I loved both seasons of Peacemaker ; Lanterns is a shining beacon of what is possible when someone is allowed to get really creative within the genre; and I'm very much looking forward to next year's Jimmy Olsen (Skylar Gisondo) series The People v. Gorilla Grodd —described as a “mockumentary crime comedy superhero series.” Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling</title>
-<link>https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling</link>
-<guid isPermaLink="false">589f666fa05c054a3c85ed8efce69ee438f152388cb21a71cf7d2c66ada2a75c</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 21:13:39 +0000</pubDate>
-<description>A man who lost over $308,000 making sports wagers on Kalshi is suing the prediction market for violating the state of Washington's ban on online gambling. He's trying to turn those losses into an overall victory with a lawsuit seeking a payment of over $580,000. Bellevue, Washington, resident Scott Bright's "wagering occurred at a time when it was unlawful in Washington and when the Washington Attorney General had already sued KalshiEX LLC in this Court alleging precisely that," said the gambler's lawsuit filed on September 24 in King County Superior Court. Kalshi has since filed a motion to dismiss the lawsuit. While state attorneys general throughout the US are trying to shut down Kalshi for allegedly violating state gambling laws, Bright's case tests whether unsuccessful gamblers can obtain restitution from the company through individual lawsuits. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?</title>

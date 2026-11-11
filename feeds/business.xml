@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch</title>
+<link>https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history</link>
+<guid isPermaLink="false">30cd91a4cfbab90576757727bffadfcc9ff90bfe38a68e4e6253b87cbbfff652</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 17:56:02 +0000</pubDate>
+<description>Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana</title>
+<link>https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana</link>
+<guid isPermaLink="false">bfc735d5ef2c50219bdc916f1a70d4b12a85cb741ab978cfcefc3580fc9df139</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 17:09:18 +0000</pubDate>
+<description>Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png" medium="image"/>
+</item>
+<item>
+<title>MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted</title>
+<link>https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted</link>
+<guid isPermaLink="false">f7117711ef6151b4dc3980d8b54b9dddd16f2a059a03d5889da0693b5864f692</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 17:05:00 +0000</pubDate>
+<description>Bitcoin Magazine MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted MSCI will say Wednesday evening whether Strategy stays in its global stock indexes, after its own potential list already marked the largest corporate bitcoin holder as Deleted. The index provider publishes its November 2026 Index Review shortly after 5 p.m. ET. MSCI said on Oct. 15 that the review would carry the final list of current constituents hit by the new screen, with any deletions taking effect at the close of Nov. 30. MSCI’s list of potentially impacted securities, published with the Oct. 15 decision and built on Sept. 30 financial data and Oct. 9 market values, already marks five companies as Deleted: Strategy (MSTR), uranium holder Yellow Cake, Japan’s Metaplanet, Iceland’s Skel Fjárfestingafélag and micro-cap Upexi. Strategy is the only large-cap name in the group and by float-adjusted market value accounts for more than 90% of the five. The company held 850,364 bitcoin as of Nov. 8, acquired at an average price of $75,456 a coin. How the MSCI screen works The rule does not mention bitcoin. MSCI first checks whether a company’s operating assets exceed 50% of total assets. Issuers that fail face five financial ratios, and a company flagged on four or more of them is ineligible for the MSCI Global Investable Market Indexes. Buffers limit turnover. A company outside the indexes cannot be added if it fails the screen in either of its two most recent annual filing periods, but a current constituent is removed only if it fails in each of them. MSCI said it may also use the most recent interim filing. That two-filing test is the question hanging over Strategy. It adopted fair-value accounting for its bitcoin at the start of 2025, so its fiscal 2024 statements carried the coins at cost less impairment, and MSCI has not said how it treats that earlier year. A Deleted mark implies MSCI’s draft reading is that Strategy already failed both periods, but it has not published the inputs behind that placement. Strategy has argued that it reports its bitcoin treasury as an operating segment and books related gains and losses in operating expenses. The screen replaces an approach aimed squarely at crypto. MSCI first proposed in late 2025 to exclude companies whose digital assets made up 50% or more of total assets, then dropped that plan in January and opened a broader consultation in August. The new rule also ends the interim measures MSCI placed on those companies in October 2025, including a freeze on share-count increases and a deferral of additions. JUST IN: MSCI decides this afternoon whether to keep Strategy and Metaplanet in its global indexes. JPMorgan estimates removal could trigger up to $2.8 billion in forced selling from passive funds pic.twitter.com/dp7R47U35W — Bitcoin Magazine (@BitcoinMagazine) November 11, 2026 What a deletion would and would not do Funds that track an MSCI index have to hold what the index holds, so a del</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/MSCI-Strategy-Index-Decision.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/MSCI-Strategy-Index-Decision.jpg" medium="image"/>
+</item>
+<item>
 <title>A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix</title>
 <link>https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining</link>
 <guid isPermaLink="false">dd3d90efe88c49dcdea42e9fd324dd031d97fa27b6ae0bbd1d0218aaf16d7131</guid>
@@ -79,17 +112,6 @@
 <description>Bitcoin Magazine Deutsche Bank Switches On Bitcoin Custody for Paying Clients Deutsche Bank has switched on its digital asset custody service for paying clients, the German lender said Wednesday, letting institutions and corporations in Europe hold bitcoin with the country’s largest bank less than two months after it first unveiled the plan. The bank announced the service on Sept. 16, saying it would go live with first clients this year once regulators signed off. It now supports bitcoin and ether, along with the USDC, EURC and EURAU stablecoins, according to its product page . Under the setup, Deutsche Bank manages the wallets and private keys on behalf of clients, who can store the assets and transfer them to third parties. The bank pitched that as a way for clients to skip building and maintaining their own custody infrastructure. “In the medium term we aim to deliver a fully integrated, regulated ecosystem that supports the custody, tokenisation, and settlement of digital assets,” said Paul Maley, global head of trust and securities services at Deutsche Bank. The bank did not name its first clients, say how many have signed up or disclose what it charges to hold the coins. The service is aimed at institutional and corporate clients, not retail customers. What Deutsche Bank is offering The product page describes private keys stored in hardware security modules, a choice of warm and cold storage, multi-factor authentication, segregation of client assets and a customizable approval process for client transfers. Clients reach the service through Autobahn, Deutsche Bank’s multi-channel gateway, or its Corporate Bank portal. The service is booked out of Deutsche Bank AG in Frankfurt and is available in Germany, with cross-border servicing across Europe through passporting. The bank lists institutional investors, multinationals and corporates, governments and sovereigns, and wealth managers as target clients, and it describes the offering as compliant with the European Union’s MiCA crypto rules. For now the menu is narrow. Deutsche lists custody, transfers and internal moves between warm and cold storage as its initial services, with “further capabilities planned.” The September release said the asset list may grow with client demand and that tokenized financial instruments are on the roadmap. It also carried a warning familiar to anyone in bitcoin: crypto assets held this way are not covered by a deposit-guarantee scheme like the one that protects eligible bank deposits. A tie-up with Deutsche Asset Management Alongside the launch, Deutsche Bank signed a memorandum of understanding with Deutsche Asset Management, the money manager it mostly owns that was known until recently as DWS. The agreement is meant “to explore comprehensive commercial and technical collaboration opportunities in the digital asset space,” the bank said. The firms plan to look at tokenized money market funds, crypto exchange-traded commodities and stablecoins built around the</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Deutsche-Bank-Switches-On-Bitcoin-Custody-for-Paying-Clients.jpg" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Deutsche-Bank-Switches-On-Bitcoin-Custody-for-Paying-Clients.jpg" medium="image"/>
-</item>
-<item>
-<title>North Dakota bank to buy Texas lender</title>
-<link>https://www.bankingdive.com/news/north-dakota-first-international-bank-buy-trust-dominion-dallas-texas-7-billion-assets-stenehjem/874368</link>
-<guid isPermaLink="false">bc3fea1ea48f0c5f5fa7b342e37d255afa2da0b09f70c5d72d841849b8a711b2</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 14:46:19 +0000</pubDate>
-<description>The deal will bring family-owned First International Bank &amp; Trust, which started in 1910 with $15,000, to roughly $7 billion in assets.</description>
-<enclosure url="https://imgproxy.divecdn.com/dPel-EhfBJpfwA3G7iwkBy5W9NttS5euLh8ZkiJ_CFc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GSUJUUnVnYnktMTAyMy5qcGc=.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/dPel-EhfBJpfwA3G7iwkBy5W9NttS5euLh8ZkiJ_CFc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GSUJUUnVnYnktMTAyMy5qcGc=.webp" medium="image"/>
 </item>
 <item>
 <title>Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix</title>
@@ -213,15 +235,15 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Northern Trust leans on Microsoft engineers to boost agentic buildout</title>
+<title>Northern Trust leans on Microsoft FDEs to boost agentic buildout</title>
 <link>https://www.bankingdive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874362</link>
 <guid isPermaLink="false">90a5e84efcd2a272c466bc9528c880357f474981ce0af9972624a55184172732</guid>
 <source>Banking Dive</source>
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
-<description>The financial services firm cut analyst data preparation time by 83% with the use of an onboarding agent, the companies said.</description>
-<enclosure url="https://imgproxy.divecdn.com/BHGADPxOZR23ubwcZbw8z_uTUZk4vq1HOtEMnze9IOc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NTEwMzQxNi5qcGc=.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/BHGADPxOZR23ubwcZbw8z_uTUZk4vq1HOtEMnze9IOc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NTEwMzQxNi5qcGc=.webp" medium="image"/>
+<description>The financial services firm cut analyst’s data preparation time by 83% with the use of an onboarding agent, the companies said.</description>
+<enclosure url="https://imgproxy.divecdn.com/s0ZwDUmYuYfeX56NgGxEsKoSS5G_dW310CU-3OnX0hA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY3MzkzMjM5LmpwZw==.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/s0ZwDUmYuYfeX56NgGxEsKoSS5G_dW310CU-3OnX0hA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY3MzkzMjM5LmpwZw==.webp" medium="image"/>
 </item>
 <item>
 <title>Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings</title>
@@ -774,17 +796,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7321EC4JJA90DW6KN2X8639/us-inflation-1-960x640.webp" medium="image"/>
 </item>
 <item>
-<title>Miami-Dade County Now Accepts Bitcoin for Property Taxes</title>
-<link>https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes</link>
-<guid isPermaLink="false">086f6dca973039a80523e5a10d3693fd6331ec0b16479c20c87b93ffe3d78b25</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 16:15:58 +0000</pubDate>
-<description>Bitcoin Magazine Miami-Dade County Now Accepts Bitcoin for Property Taxes Miami-Dade County Tax Collector Dariel Fernandez said Monday his office has begun accepting bitcoin for property tax payments, both online and in person, while converting every transaction into dollars before the money reaches the county. Fernandez announced the change in a statement on the Tax Collector’s website, calling it a way to give property owners another option without putting public funds into the asset. Payers can select a cryptocurrency option during online checkout or request it at the counter, then connect a supported exchange account or digital wallet and authorize the payment. A third-party system converts the bitcoin into U.S. dollars at the time of payment, the office said, so it never holds, invests in or manages any cryptocurrency. The office said it still receives the full dollar amount owed and records the transactions in its standard payment reports, without county workers maintaining digital wallets. “Government must keep up with the times and the needs of the people we serve,” Fernandez said. “By accepting Bitcoin as a payment option, we are giving property owners another way to pay their taxes, whether online or in person, while continuing to offer the traditional payment methods they already know and trust.” He added that the office is “embracing new technology without compromising our responsibility to protect taxpayer dollars.” Whether someone pays with bitcoin or a conventional method, he said, “our office receives the full amount owed in U.S. dollars.” The office did not name the payment processor or say whether bitcoin payments carry a convenience fee. Card and mobile-wallet payments already carry a nonrefundable 2.50% fee online, with a $2.50 minimum, the office’s payment-methods page shows. Traditional options, including checks, cards, cash and fee-free eChecks, remain available. The announcement covers property taxes, and the option is voluntary. JUST IN: Miami-Dade now accepts Bitcoin for property taxes and can be paid both online and in person pic.twitter.com/lI285z4B79 — Bitcoin Magazine (@BitcoinMagazine) November 10, 2026 A 4% discount is still on the clock The change landed in the middle of Florida’s property tax collection season. Miami-Dade opened the 2026 tax roll on Oct. 30 and is urging owners to pay by Nov. 30 to lock in a 4% early-payment discount under Florida law . The discount falls to 3% in December, 2% in January and 1% in February, with the full amount due in March. Unpaid bills generally become delinquent April 1. Under the office’s existing rules, discounts are based on the date a payment is submitted online or in person. Fernandez has been promoting a “Save the Max” campaign around that calendar, noting that an eligible $5,000 tax bill would save $200 if paid in November. Payments can be made at the office’s 13 locations, through T-Connect mobile units or online around the clock at mdctaxcollector.gov . Miami’s long c</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Miami-Dade-Takes-Bitcoin-Property-Taxes-County-Holds-None.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Miami-Dade-Takes-Bitcoin-Property-Taxes-County-Holds-None.jpg" medium="image"/>
-</item>
-<item>
 <title>Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio</title>
 <link>https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio</link>
 <guid isPermaLink="false">0a671cd705da782fedcb58cbe064ce1f17d57a9bc8db378f836adff7d7704935</guid>
@@ -1038,14 +1049,14 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC</title>
-<link>https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc</link>
-<guid isPermaLink="false">cfd35b2cdc4380c4e7a803b36c00e91801b364a53de626fc3a4f0091e35210d5</guid>
-<source>Decrypt</source>
+<title>Dive Deposits: Goldman named new partners but left other details out</title>
+<link>https://www.bankingdive.com/news/goldman-109-new-partners-women-gender-race-diversity-trump-solomon/874018</link>
+<guid isPermaLink="false">2500d72858aa74f691c754bcec20d02bbf4f9721ebd39a1a93d088c884126473</guid>
+<source>Banking Dive</source>
 <category>business</category>
-<pubDate>Mon, 09 Nov 2026 13:24:29 +0000</pubDate>
-<description>The Bitcoin treasury firm sold $284 million of MSTR stock to fund the moves, days before MSCI names companies facing index removal.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png" medium="image"/>
+<pubDate>Fri, 06 Nov 2026 17:28:31 +0000</pubDate>
+<description>The bank did not give a gender or racial breakdown for its largest partner class since 2010. That doesn’t necessarily mean it’s shelving diversity; it may be staying purposefully quiet.</description>
+<enclosure url="https://imgproxy.divecdn.com/8uYw98b7-rAHdn78JuE5uNBFZBJa5p46cWyI7wZQDR8/g:nowe:8:1/c:1013:572/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5MzU5NDQyLmpwZw==.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/8uYw98b7-rAHdn78JuE5uNBFZBJa5p46cWyI7wZQDR8/g:nowe:8:1/c:1013:572/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5MzU5NDQyLmpwZw==.webp" medium="image"/>
 </item>
 </channel></rss>

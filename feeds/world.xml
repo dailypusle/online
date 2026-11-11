@@ -4,15 +4,92 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>LIVE: President Trump delivers remarks on Veterans Day: ABC News Live</title>
+<title>Treasury Secretary Scott Bessent moved to a military base: Sources</title>
+<link>https://abcnews.com/Politics/treasury-secretary-scott-bessent-moved-military-base-sources/story?id=138044885</link>
+<guid isPermaLink="false">9e4fadda300f75effb533fd5c859b96dd5b4ea4f74bbbbe87d9c3c38944734e7</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 17:39:22 +0000</pubDate>
+<description>Bessent is the latest administration official to move to a military base.</description>
+<enclosure url="https://s.abcnews.com/images/US/bessent-rt-gmh-261111_1794405816650_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/bessent-rt-gmh-261111_1794405816650_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Greetings from Senegal, where breakdancers are competing in the Youth Olympics</title>
+<link>https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing</link>
+<guid isPermaLink="false">bc2c22441dea50e034ed09a3db14da21b577f5208c47d572ae0c7dcaee9a9c60</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 17:23:10 +0000</pubDate>
+<description>Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2Fdc%2F0abbbb464785bfcf43a99355caab%2Ffarflungpostcard-s.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2Fdc%2F0abbbb464785bfcf43a99355caab%2Ffarflungpostcard-s.jpg" medium="image"/>
+</item>
+<item>
+<title>LIVE: ABC News Live</title>
 <link>https://abcnews.com/video/41463246</link>
 <guid isPermaLink="false">c4dde2f9d4430a48432ef223ef2dea7731f9a2b9448e21ee003bf7e7734a1e77</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Wed, 11 Nov 2026 16:54:15 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 17:21:34 +0000</pubDate>
 <description>24/7 coverage of breaking news and live events</description>
 <enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Biden says he wouldn't have run for a second term in 2024 if he knew he had cancer</title>
+<link>https://abcnews.com/US/wireStory/biden-run-term-2024-knew-cancer-138047956</link>
+<guid isPermaLink="false">5a15ad610777e0efe86101020f07288b68802be548920307501d61ba224216bd</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 17:15:26 +0000</pubDate>
+<description>Joe Biden says he didn't know he had cancer while he was president and wouldn't have sought a second term if he'd already been diagnosed</description>
+<enclosure url="https://s.abcnews.com/images/US/wirestory_f0f3e8dc07cee2463e1f8501461dda12_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/wirestory_f0f3e8dc07cee2463e1f8501461dda12_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Teen charged in murder of Javits Frimpong, 15-year-old immigrant shot in the Bronx</title>
+<link>https://abcnews.com/US/teen-arrested-connection-death-javits-frimpong-15-year/story?id=138047522</link>
+<guid isPermaLink="false">d9beb5dec2183a6eeb7eee2914dea555cbea5c1f2a3f7d1a4d5d96e8fd5c9599</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 17:12:12 +0000</pubDate>
+<description>The NYPD is looking for others possibly connected to the shooting.</description>
+<enclosure url="https://s.abcnews.com/images/US/javits-frimpong-ht-jef-261111_1794414743940_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/javits-frimpong-ht-jef-261111_1794414743940_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>The most hacked country in Europe? Why is France the target of so many cyberattacks</title>
+<link>https://www.france24.com/en/france/20261111-the-most-hacked-country-in-europe-why-is-france-the-target-of-so-many-cyberattacks</link>
+<guid isPermaLink="false">b6425f1872a500c5d2784089014ea157c08c1ff984985dc05186a5eaec32a726</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 17:09:03 +0000</pubDate>
+<description>The “unprecedented” hacks of French supermarket refrigerators were the latest in a series of major cyberattacks that have made the country the most hacked in Europe, according to some analysts. Cyberattacks are on the rise globally, but why is France such a ready target?</description>
+<enclosure url="https://s.france24.com/media/display/bfa44840-dde7-11f1-9104-695cb59fade5/w:1024/p:16x9/2026-10-29T100233Z-802993939-RC282OALI9O2-RTRMADP-3-USA-MILITARY-FREEZERS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/bfa44840-dde7-11f1-9104-695cb59fade5/w:1024/p:16x9/2026-10-29T100233Z-802993939-RC282OALI9O2-RTRMADP-3-USA-MILITARY-FREEZERS.jpg" medium="image"/>
+</item>
+<item>
+<title>Tens of thousands attend Polish nationalist march days afer shootings</title>
+<link>https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings</link>
+<guid isPermaLink="false">f224bca0510d3592b44f7fdca3e6014665a599039a02befef689da3f53f40f03</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 17:08:32 +0000</pubDate>
+<description>Tens of thousands of Polish nationalist sympathisers gathered in Warsaw Wednesday for an annual Independence Day March, just days after a deadly shooting spree in Krakow that shook the country. The event is held each November 11 to commemorate the ending in 1918 of 123 years of partition by Russia, Prussia and Austria. While generally peaceful, some rallies in the pasthave been marred by clashes with police or counter-demonstrators. Philip Turle gives us his take.</description>
+<enclosure url="https://s.france24.com/media/display/632a3764-ddf1-11f1-a19a-3f371022a770/w:1024/p:16x9/EN-20261111-171020-171438-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/632a3764-ddf1-11f1-a19a-3f371022a770/w:1024/p:16x9/EN-20261111-171020-171438-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave</title>
+<link>https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery</link>
+<guid isPermaLink="false">a4d5b660789a8e8b53a0649dfc13dd7ff82bfb2010fffab647f33a94dda98f9e</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 16:59:32 +0000</pubDate>
+<description>Nine members of the Kennedy family have joined the legal fight against Trump's D.C. arch, arguing it would disrupt views and cast shadows over their ancestors' graves at Arlington National Cemetery. (Image credit: Jewel Samad)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4928x3280+0+0/resize/4928x3280!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F43%2F12c339b145589ddeb9b1b1023327%2Fgettyimages-186224659.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4928x3280+0+0/resize/4928x3280!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F43%2F12c339b145589ddeb9b1b1023327%2Fgettyimages-186224659.jpg" medium="image"/>
 </item>
 <item>
 <title>Tehran will strike US bases in Europe if used to attack Iran, security chief says</title>
@@ -26,7 +103,7 @@
 <media:content url="https://s.france24.com/media/display/f8c593d6-ddec-11f1-8f0b-3f371022a770/w:1024/p:16x9/AP26234800648076.jpg" medium="image"/>
 </item>
 <item>
-<title>Bukele says Salvadoran troops destroyed gang HQ in Haiti</title>
+<title>Haiti: 'We need to know the truth, but so far, it’s totally dark'</title>
 <link>https://www.france24.com/en/bukele-says-salvadoran-troops-destroyed-gang-hq-in-haiti</link>
 <guid isPermaLink="false">a7661e77071fd9865732d5b71d3b13b0c0e2fb50fa499173317c9235f6d0d5e4</guid>
 <source>France 24</source>
@@ -37,17 +114,6 @@
 <media:content url="https://s.france24.com/media/display/2f6655d8-dded-11f1-926e-f71d22e7fea9/w:1024/p:16x9/EN-20261111-151842-152903-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Teen arrested in connection with death of Javits Frimpong, 15-year-old shot in Bronx</title>
-<link>https://abcnews.com/US/teen-arrested-connection-death-javits-frimpong-15-year/story?id=138047522</link>
-<guid isPermaLink="false">d9beb5dec2183a6eeb7eee2914dea555cbea5c1f2a3f7d1a4d5d96e8fd5c9599</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 16:38:51 +0000</pubDate>
-<description>The NYPD are looking for others possibly connected to the shooting.</description>
-<enclosure url="https://s.abcnews.com/images/US/javits-frimpong-ht-jef-261111_1794414743940_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/javits-frimpong-ht-jef-261111_1794414743940_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Violent incidents in schools as French students vow to maintain protest pressure</title>
 <link>https://www.france24.com/en/violent-incidents-in-schools-as-french-students-vow-to-maintain-protest-pressure</link>
 <guid isPermaLink="false">54d6bee3daefb6c6401f9738671401901e59df3ec516693f8668b2194eecbd30</guid>
@@ -55,8 +121,8 @@
 <category>world</category>
 <pubDate>Wed, 11 Nov 2026 16:35:05 +0000</pubDate>
 <description>French President Emmanuel Macron on Tuesday condemned violence against teachers andgovernment officials during nationwide street protests after an official was hit by a gasoline-filled bottle outside ​a high school ‌near Paris.</description>
-<enclosure url="https://s.france24.com/media/display/5c0b250c-ddeb-11f1-aef2-3f371022a770/w:1024/p:16x9/EN-20261111-140724-140933-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/5c0b250c-ddeb-11f1-aef2-3f371022a770/w:1024/p:16x9/EN-20261111-140724-140933-CS.jpg" medium="image"/>
+<enclosure url="https://s.france24.com/media/display/09a5a02c-ddf4-11f1-b670-f71d22e7fea9/w:1024/p:16x9/capture-2c78d2b9.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/09a5a02c-ddf4-11f1-b670-f71d22e7fea9/w:1024/p:16x9/capture-2c78d2b9.jpg" medium="image"/>
 </item>
 <item>
 <title>Brazil electoral court fines Meta $1.3 MN, sees no deliberate election bias</title>
@@ -70,7 +136,7 @@
 <media:content url="https://s.france24.com/media/display/c4a5b334-dde6-11f1-9c6b-695cb59fade5/w:1024/p:16x9/EN-20261111-161101-161439-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>COP31 talks in Turkey: Leeaders from US, China and India skip summit</title>
+<title>COP31 talks in Turkey: Leaders from US, China and India skip summit</title>
 <link>https://www.france24.com/en/cop31-talks-in-turkey-leeaders-from-us-china-and-india-skip-summit</link>
 <guid isPermaLink="false">1f44812cc45579a92aaa93f00268018b2f30c4ecc8346dfa2048116f05530e94</guid>
 <source>France 24</source>
@@ -103,13 +169,13 @@
 <media:content url="https://s.france24.com/media/display/6c44c21c-dde5-11f1-a8d2-29048b396e03/w:1024/p:16x9/000-D72D264.jpg" medium="image"/>
 </item>
 <item>
-<title>Armistice Day in France: Commemorating the end of World War I</title>
+<title>Armistice Day in France: Macron honors the End of World War I</title>
 <link>https://www.france24.com/en/video/20261111-armistice-day-in-france-commemorating-the-end-of-world-war-i</link>
 <guid isPermaLink="false">1302880ba7fe96e6bad868e00184830756f10bed93d5d4f105b695e85f536d96</guid>
 <source>France 24</source>
 <category>world</category>
 <pubDate>Wed, 11 Nov 2026 15:57:54 +0000</pubDate>
-<description>With less than six months to go before the presidential election, the 11 November commemorations have taken on a political hue. On Wednesday, Emmanuel Macron presided over his final ceremony in Paris, whilst the candidates vying to succeed him made their positions clear.</description>
+<description>With less than six months to go before the presidential election, the 11 November commemorations have taken on a political hue. On Wednesday, Emmanuel Macron presided over his final ceremony in Paris.</description>
 <enclosure url="https://s.france24.com/media/display/4e1342ca-dde8-11f1-8f2e-5f54d898a954/w:1024/p:16x9/2026-11-11T144944Z-1574455219-RC2OLOAGKZUY-RTRMADP-3-REMEMBRANCE-DAY-FRANCE-MACRON.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/4e1342ca-dde8-11f1-8f2e-5f54d898a954/w:1024/p:16x9/2026-11-11T144944Z-1574455219-RC2OLOAGKZUY-RTRMADP-3-REMEMBRANCE-DAY-FRANCE-MACRON.jpg" medium="image"/>
 </item>
@@ -123,6 +189,17 @@
 <description>Millions of Spanish workers shut down businesses and public transportation in a protest on Wednesday over housing costs that the government hopes to leverage before a national election later this month. The walkout — under the slogan “Salaries. Housing. Prices.” — was the first general strike in Spain in 14 years.</description>
 <enclosure url="https://s.france24.com/media/display/e2694a56-dde7-11f1-b92c-3f371022a770/w:1024/p:16x9/2026-11-11T135107Z-1475091229-RC2OLOAL1V8D-RTRMADP-3-SPAIN-STRIKE-MADRID-1.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/e2694a56-dde7-11f1-b92c-3f371022a770/w:1024/p:16x9/2026-11-11T135107Z-1475091229-RC2OLOAL1V8D-RTRMADP-3-SPAIN-STRIKE-MADRID-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Poundland directors to meet tonight to decide future, Sky News told</title>
+<link>https://news.sky.com/story/poundland-directors-to-meet-tonight-to-decide-companys-future-sky-news-told-13610213</link>
+<guid isPermaLink="false">c5c9ba10efce00df5ad875fa2613f606f11c0fd34d2f2f0a450b56f5206f27d3</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 15:47:00 +0000</pubDate>
+<description>The directors of Poundland will hold a meeting tonight to decide the company's future, Sky News has been told.</description>
+<enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" medium="image"/>
 </item>
 <item>
 <title>WATCH: Little girl rescued after sneaker wave pulls her into Pacific</title>
@@ -213,17 +290,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fcb%2Fbe76a06e4e18b09c5d3ff76cdaf8%2Fswing-shift-midterm.jpg" medium="image"/>
 </item>
 <item>
-<title>Top WH lawyer warns Democrats that threats of oversight could be criminally probed</title>
-<link>https://abcnews.com/Politics/top-white-house-lawyer-warns-democrats-threats-oversight/story?id=138044143</link>
-<guid isPermaLink="false">b170d220392551ee48367526571ae8aa0b8132f9cd53b17b6705aa0283a1b166</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 14:12:31 +0000</pubDate>
-<description>The warning came in a Monday letter from White House counsel Will Scharf.</description>
-<enclosure url="https://s.abcnews.com/images/US/robert-garcia-1-gty-gmh-261111_1794406002973_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/robert-garcia-1-gty-gmh-261111_1794406002973_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>British DJ named as one of six people killed in Krakow shooting</title>
 <link>https://news.sky.com/story/british-dj-named-as-one-of-six-people-killed-in-krakow-shooting-13611042</link>
 <guid isPermaLink="false">97813fd0736799b04654d81c8a0ae6336216c297ebe5666741a9611f126e0b65</guid>
@@ -246,7 +312,7 @@
 <media:content url="https://s.france24.com/media/display/eb9e2f64-ddd4-11f1-a7f6-3f371022a770/w:1024/p:16x9/capture-274a931e.jpg" medium="image"/>
 </item>
 <item>
-<title>Russia and Ukraine agree to a large exchange of prisoners of war, officials say</title>
+<title>Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough</title>
 <link>https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks</link>
 <guid isPermaLink="false">c50afb97023828d196875b257c59157a97d71b793b3e475e4cf4cd4007d3163e</guid>
 <source>NPR News</source>
@@ -279,6 +345,17 @@
 <media:content url="https://s.abcnews.com/images/US/jordan-2-ap-gmh-261110_1794338536370_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
+<title>House tables Hegseth impeachment, effectively killing it in current Congress</title>
+<link>https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466</link>
+<guid isPermaLink="false">eddb4b34e3e838e607518116d02719a271f43d3c02a2360cf94e4bb97a940d36</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 12:34:27 +0000</pubDate>
+<description>Hegseth framed the effort as being directed at U.S. service members.</description>
+<enclosure url="https://s.abcnews.com/images/US/hegseth-9-gty-gmh-261110_1794318527060_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/hegseth-9-gty-gmh-261110_1794318527060_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>House Republicans consider issuing subpoena to Nvidia CEO Jensen Huang</title>
 <link>https://abcnews.com/Politics/house-republicans-issuing-subpoena-nvidia-ceo-jensen-huang/story?id=138022782</link>
 <guid isPermaLink="false">b5935b2c95686a67adba9751f3e14e9f5ca10445dd0b1a4ad135ac32d054b9e8</guid>
@@ -299,17 +376,6 @@
 <description>Within a decade, one of the largest glaciers in southern Europe will have disappeared. Aneto, the highest peak of the Spanish Pyrenees, is melting at a spectacular rate. Its demise is another sign of global warming and has much to teach glaciologists. FRANCE 24's Maude Petit-Jové, Mathilde Lopinski and Sarah Morris report.</description>
 <enclosure url="https://s.france24.com/media/display/563bdc52-dd28-11f1-836f-29048b396e03/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-SPAIN-ANETO-GLACIER-BAIN-Lauren-Sub.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/563bdc52-dd28-11f1-836f-29048b396e03/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-SPAIN-ANETO-GLACIER-BAIN-Lauren-Sub.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Biden book details 'very generous' letter from Trump</title>
-<link>https://abcnews.com/video/138040848</link>
-<guid isPermaLink="false">38882a0dce2053ec87b32cb7d6ecb178d679c3bb5036cd3aa5bd50a872498015</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 12:32:39 +0000</pubDate>
-<description>In his upcoming memoir, "Promise Me, America," former President Joe Biden reflects on a letter his predecessor, President Donald Trump, left him in the Oval Office in 2021.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/261111_gmafl_biden_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/261111_gmafl_biden_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Patrick Bury: 'It’s going to cost a lot of money to repair the systems.'</title>
@@ -411,17 +477,6 @@
 <media:content url="https://s.france24.com/media/display/be4cb28e-ddb0-11f1-b909-695cb59fade5/w:1024/p:16x9/EN-20261111-081243-081432-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>'France has some of the cleanest electricity in the world, but we're not using enough of it'</title>
-<link>https://www.france24.com/en/france-has-some-of-the-cleanest-electricity-in-the-world-but-we-re-not-using-enough-of-it</link>
-<guid isPermaLink="false">1cd5ed26d44a9bf1e2e043c644868fec5f78aec06b32f060587fb162b2f90c0b</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 11:12:15 +0000</pubDate>
-<description>Eve Irvine is pleased to welcome Thierry Bros, energy &amp; climate expert and Professor of Science and Economics at Sciences Po. As geopolitical conflicts unsettle global energy markets and governments struggle to reconcile climate commitments with economic and security imperatives, the answer lies in a fundamental reconsideration of the sequence of climate policy. "Electrification first," he argues, acknowledging that this "doesn't necessarily mean clean electricity." His argument is grounded in a critical assessment of international climate diplomacy and European energy policy. "We've seen many COPs, and they've all failed," he contends, questioning the effectiveness of ambitious targets that have yet to deliver the necessary structural transformation. In his view, electrification offers a more pragmatic route than some of the technological priorities previously championed by European policymakers.</description>
-<enclosure url="https://s.france24.com/media/display/f1e4adc8-dd50-11f1-af77-29048b396e03/w:1024/p:16x9/EN-20261110-080851-081548-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/f1e4adc8-dd50-11f1-af77-29048b396e03/w:1024/p:16x9/EN-20261110-080851-081548-CS.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: These NFL cheerleaders balance life in the military</title>
 <link>https://abcnews.com/video/138039492</link>
 <guid isPermaLink="false">b89dae5b5cdb560e60942b4bc7582a58197bea9e630a816a6697a35ce2866638</guid>
@@ -442,17 +497,6 @@
 <description>Threatening emails sent to thousands of schools across the UK, Ireland and Italy are being treated as hoaxes.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-italy-rome-school_7403911.jpg?20261111133007" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-italy-rome-school_7403911.jpg?20261111133007" medium="image"/>
-</item>
-<item>
-<title>London Stock Exchange owner eyes multimillion pound pay hike for boss</title>
-<link>https://news.sky.com/story/london-stock-exchange-owner-eyes-multimillion-pound-pay-hike-for-boss-13610895</link>
-<guid isPermaLink="false">c23caf4a4100c014ecd92268efd240c59637b963de6fcde9f54f7a605993c10e</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 10:11:00 +0000</pubDate>
-<description>The owner of the London Stock Exchange (LSE) is plotting a multimillion pound boost to its chief executive's pay package amid warnings by Britain's blue-chip companies that boardroom compensation risks falling further behind US peers.</description>
-<enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-london-stock-exchange_7114203.jpg?20251218155600" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/25/12/1920x1080/skynews-london-stock-exchange_7114203.jpg?20251218155600" medium="image"/>
 </item>
 <item>
 <title>An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets</title>
@@ -488,17 +532,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7495x4997+0+0/resize/7495x4997!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F53%2F3a%2F418c464b4264b79506fdcb0b8c92%2Fgettyimages-2254848439.jpg" medium="image"/>
 </item>
 <item>
-<title>Volunteer musicians play songs for veterans who are hospitalized</title>
-<link>https://www.npr.org/2026/11/11/nx-s1-6005263/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized</link>
-<guid isPermaLink="false">7f0f4550ae055aa23ca2dbacf2fb8760c0465b75ff29298a519c89cd89ebe01a</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
-<description>Volunteer musicians play for veterans and others who are hospitalized. They're part of Musicians On Call, a group that spreads the healing power of music. (Image credit: Tyrone Turner/WAMU for NPR)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F7e%2F5762f59f40d38a88921e5f575d79%2F261020-musicians-hospital-turner-28.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F7e%2F5762f59f40d38a88921e5f575d79%2F261020-musicians-hospital-turner-28.jpg" medium="image"/>
-</item>
-<item>
 <title>Body mass index may have misclassified millions of people in UK, researchers say</title>
 <link>https://news.sky.com/story/body-mass-index-may-have-misclassified-millions-of-people-in-uk-researchers-say-13610879</link>
 <guid isPermaLink="false">7d7ad15cf59c5df0474bb488e363cc84e0fbf24d5c5f3008c5751312cb4b83e8</guid>
@@ -519,17 +552,6 @@
 <description>Police have addressed an alleged "violent incident" involving Russell Brand after claims made his then-girlfriend Jemima Goldsmith.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-russell-brand-jemima-khan_7402834.jpg?20261110092646" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-russell-brand-jemima-khan_7402834.jpg?20261110092646" medium="image"/>
-</item>
-<item>
-<title>Temperatures set to fall to -7C as first cold weather health alert of the winter issued</title>
-<link>https://news.sky.com/story/uk-weather-temperatures-set-to-fall-to-7c-as-cold-health-alert-issued-13610849</link>
-<guid isPermaLink="false">2290894e5f5ee7490aa18e10000bd94be5e3ea21ff6c499b71f278d780335033</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 08:01:00 +0000</pubDate>
-<description>Temperatures in parts of the UK could fall to -7C this week, as health chiefs issue the first cold weather alert for the season.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-primrosehill-london_7403620.jpg?20261111081225" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-primrosehill-london_7403620.jpg?20261111081225" medium="image"/>
 </item>
 <item>
 <title>Trump's lawsuit against BBC can go ahead, judge rules</title>
@@ -607,17 +629,6 @@
 <description>A former senior investigating officer for the Royal Military Police has admitted depriving a war crimes investigation of potentially valuable information.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-afghanistan-inquiry_7403391.jpg?20261110193008" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-afghanistan-inquiry_7403391.jpg?20261110193008" medium="image"/>
-</item>
-<item>
-<title>Iran live updates: Hegseth says Trump 'kicked their teeth in'</title>
-<link>https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi?id=137967256</link>
-<guid isPermaLink="false">4727bff5af62f0b71f7e8cf793978204fdaf806a50b1ddbdbe3c74d8434bbb88</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 10 Nov 2026 17:10:39 +0000</pubDate>
-<description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
-<enclosure url="https://s.abcnews.com/images/US/hegseth-6-gty-gmh-261110_1794316865494_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/hegseth-6-gty-gmh-261110_1794316865494_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: What first responders want you to know about surviving rising waters</title>

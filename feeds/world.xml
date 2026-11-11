@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>WATCH: Little girl rescued after sneaker wave pulls her into Pacific</title>
+<link>https://abcnews.com/video/138041374</link>
+<guid isPermaLink="false">b509bbcefb5ae71d2c33910a2914e5632393d22e011f78ad8b20e57da8b707d9</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 15:40:37 +0000</pubDate>
+<description>The rescue was caught on camera after a child was nearly swept out to sea by a sneaker wave along the Pacific coast.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261111_gma_champion_wave1_715_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261111_gma_champion_wave1_715_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Exclusive: EU's Kallas says US 'can't negotiate on our behalf' on lifting Russia sanctions</title>
+<link>https://www.france24.com/en/tv-shows/talking-europe/20261111-exclusive-eu-s-kallas-says-us-can-t-negotiate-on-our-behalf-on-lifting-russia-sanctions</link>
+<guid isPermaLink="false">7f31e05dcc4d401ef2dabe60b9d0aef134939fb228f6815f5aaff822e72a6817</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 15:15:40 +0000</pubDate>
+<description>In an exclusive interview with FRANCE 24, the EU's top diplomat Kaja Kallas discusses the war in Ukraine, the situation in the Middle East and a possible change in US President Donald Trump's foreign policy following the US midterm elections. The former Estonian prime minister, who is now the European Union's High Representative for Foreign Affairs and Security Policy, also reaffirms the EU's position as a major player on the global geopolitical stage.</description>
+<enclosure url="https://s.france24.com/media/display/f35d22fe-dd08-11f1-828d-5f54d898a954/w:1024/p:16x9/PHOTO-KAJA-KALLAS.png" type="image/png"/>
+<media:content url="https://s.france24.com/media/display/f35d22fe-dd08-11f1-828d-5f54d898a954/w:1024/p:16x9/PHOTO-KAJA-KALLAS.png" medium="image"/>
+</item>
+<item>
+<title>Charlotte Gainsbourg brings pioneering French lawyer Gisèle Halimi to the screen</title>
+<link>https://www.france24.com/en/tv-shows/arts24/20261111-charlotte-gainsbourg-brings-pioneering-french-lawyer-gis%C3%A8le-halimi-to-the-screen</link>
+<guid isPermaLink="false">15609dd4243d2f43731c4d2a8c9b75453ee06fe84404692cf6accddc71ea4173</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 15:13:34 +0000</pubDate>
+<description>New French film "Women on trial" revisits the landmark case in 1972 that paved the way for abortion legislation in France. Critic Manon Kerjean tells us why performances from Charlotte Gainsbourg and Cécile de France carry this powerful courtroom drama and how its directors recreated the tension of a high-profile social and legal battle.</description>
+<enclosure url="https://s.france24.com/media/display/3adb4488-dde2-11f1-8927-f71d22e7fea9/w:1024/p:16x9/capture-5a1d0f2e.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/3adb4488-dde2-11f1-8927-f71d22e7fea9/w:1024/p:16x9/capture-5a1d0f2e.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Blockbuster NFL trades</title>
+<link>https://abcnews.com/video/138041468</link>
+<guid isPermaLink="false">f685d0e9e90f61bf075dc4f503fed384d04f8b90f3a535eb54a6a535822d1e6a</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 14:43:27 +0000</pubDate>
+<description>ABC News’ Lara Spencer has details on the big trades, including Kirk Cousins heading to the Minnesota Vikings.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261111_gma_spencer_nfl1_716_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261111_gma_spencer_nfl1_716_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>WATCH: Superhero window washers make children’s day at Omaha hospital</title>
 <link>https://abcnews.com/video/138041563</link>
 <guid isPermaLink="false">9da053d7560e37ee474ceaf474d42bb40e89c5a81d3b2087fc53a82ee15ecc77</guid>
@@ -178,6 +222,17 @@
 <description>A strike by consultant doctors in England has been paused following meetings with the government, the British Medical Association (BMA) announced.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-residentdoctors-bma_7403859.jpg?20261111123000" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-residentdoctors-bma_7403859.jpg?20261111123000" medium="image"/>
+</item>
+<item>
+<title>WATCH: NYC tour helicopter makes hard landing in New Jersey</title>
+<link>https://abcnews.com/video/138029014</link>
+<guid isPermaLink="false">e059f81b91c6e83c448b40a18bdea330606a42f1383b21fac7c81dffc921e611</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 12:10:09 +0000</pubDate>
+<description>The pilot of a New York City sightseeing helicopter is being praised for pulling off a remarkable emergency landing in Bayonne, New Jersey, after the chopper’s tail rotor broke off.</description>
+<enclosure url="https://s.abcnews.com/images/WNT/261110_wn_rivers_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/WNT/261110_wn_rivers_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Violent clashes near the Sudanese border: At least 65 dead in western Ethiopia</title>
@@ -444,39 +499,6 @@
 <media:content url="https://s.france24.com/media/display/713ff9f8-ddb3-11f1-9a34-5f54d898a954/w:1024/p:16x9/EN-20261111-102134-102304-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>House Republicans quash effort to impeach Defense Secretary Hegseth</title>
-<link>https://www.france24.com/en/house-republicans-quash-effort-to-impeach-defense-secretary-hegseth</link>
-<guid isPermaLink="false">ff1ba7de638a8fdfdced65b0785ded3ab789cba6e042ab6d9ddec2f761bccdb6</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 09:55:04 +0000</pubDate>
-<description>Rochelle Ferguson Bouyahi, our international affairs editor, has more.</description>
-<enclosure url="https://s.france24.com/media/display/d94bf444-ddb2-11f1-ad88-695cb59fade5/w:1024/p:16x9/EN-20261111-100134-100727-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/d94bf444-ddb2-11f1-ad88-695cb59fade5/w:1024/p:16x9/EN-20261111-100134-100727-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Africa: Ghana waste dump poses health, environmental 'crisis'</title>
-<link>https://www.france24.com/en/africa-ghana-waste-dump-poses-health-environmental-crisis</link>
-<guid isPermaLink="false">0d839c9497adbb2eabdd9bf2ff91d58e39d2dd34ce94708ab924cee02eb1f47a</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 09:46:14 +0000</pubDate>
-<description>An acrid haze hung over a sprawling dump in Ghana's capital, Accra, as excavators gouged into mounds of smouldering rubbish. Thin plumes of black smoke curled from burning plastic and rubber, mingling with the rank odour of stagnant lagoon water.</description>
-<enclosure url="https://s.france24.com/media/display/75aca4fa-ddb3-11f1-9181-695cb59fade5/w:1024/p:16x9/EN-20261111-102346-102540-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/75aca4fa-ddb3-11f1-9181-695cb59fade5/w:1024/p:16x9/EN-20261111-102346-102540-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Four children among those in hospital after car collides with pedestrian</title>
-<link>https://news.sky.com/story/four-children-among-those-injured-after-car-collides-with-pedestrians-in-glasgow-13610878</link>
-<guid isPermaLink="false">4eea0ec875cca71d41e896c5a01ff294c55eff54f8e951ed84a7db56944d2925</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 09:36:00 +0000</pubDate>
-<description>Four children were among those injured after a car collided with pedestrians in Glasgow.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-glasgow-collision-hyndland-road_7403392.jpg?20261111095158" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-glasgow-collision-hyndland-road_7403392.jpg?20261111095158" medium="image"/>
-</item>
-<item>
 <title>Police address 'violent incident' claim against Russell Brand made by Jemima Goldsmith</title>
 <link>https://news.sky.com/story/police-made-russell-brand-leave-home-of-his-then-girlfriend-after-violent-incident-13610872</link>
 <guid isPermaLink="false">3b7ef4aa003bc5a5427462d91a364f0ccaecc17222c8dbdd7dd6f28687139681</guid>
@@ -508,6 +530,17 @@
 <description>The BBC's attempt to have Donald Trump's $10bn (£7.5bn) defamation claim thrown out has been dismissed by a Florida court.</description>
 <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-bbc-donald-trump_7163251.jpg?20260212143757" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/02/1920x1080/skynews-bbc-donald-trump_7163251.jpg?20260212143757" medium="image"/>
+</item>
+<item>
+<title>US accuses three men of 'campaign of terror' against Jewish targets and plot against RAF Fairford</title>
+<link>https://news.sky.com/story/us-charges-three-men-allegedly-linked-to-raf-fairford-incident-13610779</link>
+<guid isPermaLink="false">505f83006c2d830bca743fabdc396dbffbb33b557bc307e8842dcb8ba59bf6cc</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 02:45:00 +0000</pubDate>
+<description>The US has accused three men linked to Iran of masterminding a "campaign of terror" against Jewish targets in the UK and Europe, as well as a thwarted plot at RAF Fairford.</description>
+<enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-b1b-lancer-fairford_7364019.jpg?20261111150954" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-b1b-lancer-fairford_7364019.jpg?20261111150954" medium="image"/>
 </item>
 <item>
 <title>Four grizzly bears killed mother and daughter in Canada</title>
@@ -719,17 +752,6 @@
 <media:content url="https://s.abcnews.com/images/US/261109_abcnl_2p_costa_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>WATCH: Vikings' Aaron Jones shaped by military service</title>
-<link>https://abcnews.com/video/137970523</link>
-<guid isPermaLink="false">8d2bfba8be34786110efe6598b8f93e5910bda2c5e3d6b69e9533f6675585916</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 09 Nov 2026 18:26:56 +0000</pubDate>
-<description>ABC News' Rebecca Jarvis reports ahead of the Vikings' Salute to Service game as running back Aaron Jones earns a nomination for the NFL's Salute to Service Award.</description>
-<enclosure url="https://s.abcnews.com/images/GMA/261109_gma_jarvis_vikings_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261109_gma_jarvis_vikings_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Disney launches 'Make the Holidays Magic' campaign</title>
 <link>https://abcnews.com/video/137971217</link>
 <guid isPermaLink="false">aa251c376e337bc66db5f1710de79908e207a874c0b394bc37f150595d46e770</guid>
@@ -752,17 +774,6 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-cyber-attack-freezer_7394827.jpg?20261109172457" medium="image"/>
 </item>
 <item>
-<title>WATCH: Vikings superfan has only missed 2 home games in 25 seasons</title>
-<link>https://abcnews.com/video/137970320</link>
-<guid isPermaLink="false">1dddab61e30d18291b1d2442b3800ed3febf74ac1097f0797c61f5435620bc5f</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 09 Nov 2026 16:07:31 +0000</pubDate>
-<description>“GMA” is outside U.S. Bank Stadium with Minnesota Vikings “Fan of the Year,” Lindsey Lorenston, as she is surprised with a pair of tickets to Super Bowl LXI.</description>
-<enclosure url="https://s.abcnews.com/images/GMA/261109_gma_play_vikings2_0747_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261109_gma_play_vikings2_0747_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Trump now showing 'great level of political acumen,' former staffer says</title>
 <link>https://abcnews.com/video/137974118</link>
 <guid isPermaLink="false">969147a59f5a31f417c577ff7b46b6eae38c56a3dc915f809428d216d159ef26</guid>
@@ -783,16 +794,5 @@
 <description>At least 14 people have died after a boat carrying migrants was found near Crete, Greek authorities have said.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-crete-migrant-crisis_7401963.jpg?20261109103131" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-crete-migrant-crisis_7401963.jpg?20261109103131" medium="image"/>
-</item>
-<item>
-<title>WATCH: NASA recruiting next generation of astronauts</title>
-<link>https://abcnews.com/video/137962656</link>
-<guid isPermaLink="false">78ea450352dc9ddf4685f37ccee7f6ebc93c2563381ecf954d5b37c8c2b0a634</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 09 Nov 2026 03:03:14 +0000</pubDate>
-<description>NASA has released a new recruitment video, looking for new space explorers as it works to create a permanent base on the moon and someday possibly launching humans to Mars.</description>
-<enclosure url="https://s.abcnews.com/images/WNT/261108_ntl_NASA_recruitment_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/WNT/261108_ntl_NASA_recruitment_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>

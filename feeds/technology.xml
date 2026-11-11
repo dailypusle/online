@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>I asked every TV manufacturer 17 questions about how they spy on you</title>
+<link>https://www.theverge.com/tech/1012372/tv-privacy-acr-questions</link>
+<guid isPermaLink="false">53cf43c23ca1eb5e1c4b84c82ac7cfa54d06953bb3dee5cb7d097865eb366e99</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
+<description>Every TV company is spying on you , not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be spying: listening to what you say, taking screenshots of everything you watch, storing sensitive information on your TV, and sharing your data with the cloud. To find out what TV and streaming device companies are doing, I decided to ask every one to explain itself. I put together 17 yes-or-no questions, like " Do your TVs store any record … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Not everyone is loving their new iPhone Duo</title>
+<link>https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps</link>
+<guid isPermaLink="false">b12bf270b7caed37350aa5dbf5f5b170301a04f01850df621780ae810d5e54d3</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
+<description>An open-and-shut case. For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers who aren't loving the phone to make a decision: It's time to end things. Also, they wanted their $2,000 back. This is to be expected, to an extent; the Duo just isn't a phone for everyone. It's an early adopter device - we called it "a messy, expensive good time" - and on top of that, the hinge appears to be suffering some first-gen growing pains . Despite all that, Appl … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0018.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X</title>
+<link>https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x</link>
+<guid isPermaLink="false">714047b8340d78157a97f247cc00656c69477650eabae5719e8309941f16bfbc</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 12:59:44 +0000</pubDate>
+<description>Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.</description>
+<enclosure url="https://www.engadget.com/img/gallery/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x/l-intro-1794401662.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x/l-intro-1794401662.jpg" medium="image"/>
+</item>
+<item>
+<title>A Grok vibe-coding agent leaked sensitive SpaceXSI data</title>
+<link>https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data</link>
+<guid isPermaLink="false">be4a9abe6306f31efef7fe0e87c7196fdbbc25aed7a4860f2c9dc89e8106adfe</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 12:35:10 +0000</pubDate>
+<description>A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI.</description>
+<enclosure url="https://www.engadget.com/img/gallery/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data/l-intro-1794400413.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data/l-intro-1794400413.jpg" medium="image"/>
+</item>
+<item>
+<title>Serve Robotics wants to democratize sidewalk delivery robots</title>
+<link>https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery</link>
+<guid isPermaLink="false">09b2f13e17bd69498e6e8fff6905242781101af96a6c577833a5b28dec1f9727</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 12:30:00 +0000</pubDate>
+<description>A delivery robot rolls down a pedestrian walkway in Miami. | Photo: Universal Images Group via Getty Images Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, third-party developers and interested small businesses can use Serve's software tools to dispatch robots directly without relying on major food delivery companies, like Uber Eats. Now, anyone who lives in one of the 150 neighborhoods where the company currently operates can employ a si … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple is killing its Support Community forum next week</title>
+<link>https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down</link>
+<guid isPermaLink="false">aca7e140819e8d80d9bdfdf34581192e0d42f1f58e4891f790e192ef7727b471</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 12:19:10 +0000</pubDate>
+<description>It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November 20th. Here's the full banner notice that's currently displayed on the website: "The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state. You can continue to find trusted guidance and support on t … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals</title>
+<link>https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations</link>
+<guid isPermaLink="false">e754224b043f5de8867de21626a14cd5a564f94a656b9723a435088995525a8c</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 12:00:48 +0000</pubDate>
+<description>181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report Developers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals. Datacentres planned across the US, the UK and mainland Europe have proposals to build fossil fuel plants on-site to create 181GW of gas-fired capacity because of delays to connect to national grids, according to the findings. This is almost four times the total peak electricity demand of Great Britain. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=322b19ad42076fd992822216d1a7312a" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=322b19ad42076fd992822216d1a7312a" medium="image"/>
+</item>
+<item>
 <title>2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring</title>
 <link>https://www.engadget.com/2312913/2027-chevrolet-bolt-review</link>
 <guid isPermaLink="false">73e923b0798152fd5c0008b8262ffdd5c76b062f0ca4e89cf3508d5a515859b1</guid>
@@ -499,17 +576,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/starlinkmini2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>The US is winning the AI race. Jensen Huang could have blown it</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</link>
-<guid isPermaLink="false">38f7683430bac08520af0957ff75418447a89b6e3ad00ee490b40a3d54937221</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:04:05 +0000</pubDate>
-<description>As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes Huang's admission that he had an affair with a woman suspected of being a Chinese spy - reportedly while her spying was known to US intelligence and even President Donald Trump - all the more shocking. The fallout goes well beyond his marriage, his reputation, or Nvidia itself. Experts tell The Verge the incident threate … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop</title>
 <link>https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family</link>
 <guid isPermaLink="false">67bf860f7b2f0b4d56da189852be7cb783fe43e54cd32917d26197f7050593b3</guid>
@@ -519,28 +585,6 @@
 <description>Google's Pixel phones get an update every month, but most are just security patches and bug fixes. The bigger changes are bundled into quarterly Pixel Drops, and one is rolling out today . The update brings a few new things, and many of the Gemini features previously exclusive to the latest Pixel phones will also expand to Google's Pixel 10 lineup. The Pixel 11 was Google's first foray into "Gemini Intelligence" branding, something we'll see a lot more of going forward. Some of the features under that heading were limited to Google's newest phones (and in some cases, Samsung's phones). The November Pixel Drop will expand these AI features to the Pixel 10 lineup, but importantly, that doesn't include the budget-oriented Pixel 10a . For starters, the Pixel 10 series will get the improved personalized suggestions (previously known as Magic Cue) that debuted on the Pixel 11 . This enables things like sending grocery lists to Google Keep from other apps and generating summaries from the context menu. Rambler, Google's AI-assisted voice input system, is also coming to the 2025 phones. Likewise, Gemini app automation will roll out on Pixel 10 with this update. This feature is still limited to select apps in rideshare, food delivery, travel, and a few other categories. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Google’s Pixel Tag tracker is now available</title>
-<link>https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding</link>
-<guid isPermaLink="false">d12124814ce5ad1e67393b4b77162ee8bc9e1518f809009252b4b1be1bc920f9</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
-<description>After years of third-party Android trackers from companies like Samsung , Motorola , and Pebblebee , Google's Pixel Tag is now available for purchase . First announced in August , the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag 2 . A single tracker costs $29.99 while a four-pack is discounted to $99.99. At 0.4 ounces, the Pixel Tag is slightly lighter than the AirTag 2 and while its oblong design is longer than Apple's tracker, Google's is a bit thinner. It doesn't include a hole to attach it to keys, luggage, or other items you wan … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pixeltag2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Google is making Pixel HiLight slightly more useful</title>
-<link>https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight</link>
-<guid isPermaLink="false">2246c342d21277f67af74ad36a544a7fbbae2537136187c964b90cb36386f56e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
-<description>Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight at the Pixel 11 Pro's August launch , which included glowing when you used Gemini and lighting up for calls from your favorite contacts. But it's something! Fortunately, that's not everything included in the Pixel Drop , as a bunch of other new features are coming to a wider range of Pixel devices. The "Create My Widget" feature to build a cu … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>How much did the ASUS ROG Zephyrus G14 cost in 2020 vs 2026?</title>
@@ -576,17 +620,6 @@
 <media:content url="https://image.theregister.com/?imageId=233273&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>One of our favorite multi-filament 3D printers is $100 off</title>
-<link>https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale</link>
-<guid isPermaLink="false">a75beb164fcefead7897cd459bdfbcc53683cb36a8c67cdea3d68e3c4be7c42d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 18:42:03 +0000</pubDate>
-<description>The Bambu P2S Combo. | Image: Bambu If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo , currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu Lab . That’s $100 off the list price for the bundle, which includes the Bambu P2S printer and the AMS 2 Pro multi-filament handler for multicolor prints. Bambu Lab P2S Combo Bambu Lab’s P2S Combo is a 3D printer that can print in multiple colors and automatically dry its materials to help improve print quality. It also features a 5-inch touchscreen, a built-in camera for monitoring prints remotely, and AI-powered tools that can detect printing problems. Where to Buy: $779 at Amazon $749.99 $649.99 at Best Buy $749 $649 at Bambu Lab My colleague Sean Hollister praised the P2S printer for its consistency and hands-off approach to 3D printing. Automatic bed leveling, including a warning if you forget to reinstall the plate, and a bevy of sensors helps ensure every print goes smoothly. There’s a live camera feed, too, so you can check in on your prints or share a timelapse. On its own, the P2S printer is usually $549, but is also currently $100 off. The AMS 2 Pro’s filament handler’s fully enclosed setup saves your filament from absorbing moisture and clogging the nozzle or tubes. As a result, you can go weeks between prints and fire one off from your computer without checking on colors or manually swapping filaments. The AMS 2 Pro itself is typically $299, but is currently on sale for $229, and the P2S printer supports up to four AMS 2 Pro units simultaneously. Read our Bambu P2S review .</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bambu-p2s.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Free video-streaming service Tubi lets users share curated watchlists now</title>
 <link>https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now</link>
 <guid isPermaLink="false">28625d11221f1e7f923003a4d95421503b1db7537477c817e0d4f3fb560b73a3</guid>
@@ -618,28 +651,6 @@
 <description>The Mozilla-backed Thunderbird project is getting closer to a wider launch of a hosted email service designed to complement its desktop mail app. Now known as Thundermail (what else?), the service was originally developed under the Thunderbird Pro banner, which encompassed paid email, appointment scheduling, and file-sharing services designed to generate additional revenue for the organization. The org has been inviting people from its Thundermail waitlist to try the service through an early-access program, and this writer just happened to be among them. Thundermail offers a web-based email interface and can also be accessed through the Thunderbird desktop app, the Thunderbird mobile app for Android, or other compatible email clients. The Thunderbird apps remain free. Users get an inbox with up to 15 email addresses and three custom domains, plus 30 GB of mail storage and 60 GB of send storage for Thunderbird Send, an end-to-end encrypted file-sharing and large-attachment service. That’s for starters – the org intends to offer those extra features and services at different price points. Yes, Thundermail is a paid service, which may put off some users who are used to free email accounts offered via Gmail, Outlook.com and Proton Mail, but with the first two of those you do get served ads along with your messages. The sign-up screens for Thundermail suggest the basic service will cost $6 per month, billed annually. This is roughly equivalent to the £55 we paid for a year on the early access program. We asked Thunderbird when we can expect to see Thundermail officially launched and open to all comers. We will update if we get an answer. It previously said that a full launch is expected sometime in 2026. The web-based user interface of Thundermail presents a fairly clean and uncluttered look, and could be likened to Gmail with the screen partitioned into a pane with folders on the left and a larger one to the right displaying messages. A welcome screen introduces you to the features of Thundermail, which include the ability to work on several drafts at once, schedule delivery times for emails, create folders to arrange messages, contact lists and identities – all pretty much standard for an email system. We haven’t really had the time to test out Thundermail a great deal since signing up, but there are no great surprises so far, and everything works pretty much the way you would expect it to. Firefox and the Thunderbird mail client both recently moved to a fortnightly release schedule in line with Mozilla’s plans, and Thunderbird itself gained support for Microsoft’s Exchange late last year. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=238201&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=238201&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Here's what to look for so you don't get scammed by a fake GPU</title>
-<link>https://www.engadget.com/2307801/fake-gpu-scam-what-to-look-for</link>
-<guid isPermaLink="false">8c51148d720f8c8903f1b0b02bb361a0cd8d59dcfcc8006c903cf05672ac1857</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
-<description>From tracking number heists to missing memory dies, don't waste your precious time and money on a bogus GPU bargain.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-what-to-look-for-so-you-dont-get-scammed-by-a-fake-gpu/l-intro-1793725928.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-what-to-look-for-so-you-dont-get-scammed-by-a-fake-gpu/l-intro-1793725928.jpg" medium="image"/>
-</item>
-<item>
-<title>NVIDIA DLSS 4.5 has presets you should know about</title>
-<link>https://www.engadget.com/2307797/nvidia-dlss-4-5-presets-should-know</link>
-<guid isPermaLink="false">b1a6e2530c03a995eb4b608348605c7c6de95b59a3c60d5f038eb24b8ecb469d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:45:00 +0000</pubDate>
-<description>These tweaks can help you squeeze better performance and cleaner visuals from your favorite PC gaming titles on multiple types of hardware.</description>
-<enclosure url="https://www.engadget.com/img/gallery/nvidia-dlss-4-5-has-presets-you-should-know-about/l-intro-1793721583.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/nvidia-dlss-4-5-has-presets-you-should-know-about/l-intro-1793721583.jpg" medium="image"/>
 </item>
 <item>
 <title>UK social media ban expansion for under-16s could cover YouTube Kids</title>
@@ -1102,17 +1113,6 @@
 <description>Cisco will no longer create products that don’t integrate with Cloud Control, its SaaS-y management platform that offers netadmins a single tool to manage all of the networking giant’s devices and much of its software portfolio. The networking giant announced Cloud Control in June 2025 and only made it available to customers in the USA. Cisco has previously told The Register that slow rollout reflects the fact that Cisco needs to nail privacy and other regulatory niceties, and deploy infrastructure, before introducing the service to other markets. It appears Cisco is now satisfied it has sorted out those issues. Jeff Schultz, Cisco’s senior vice president for portfolio strategy and marketing, today told the company’s Live conference in Australia that Cloud Control will come online in the European Union, UK, and Down Under in February 2027. Japan, India, and Canada will get their turn in May. Schultz said Cisco is “working tirelessly” to deploy Cloud Control across the world as soon as possible. He also revealed that, starting next year, Cisco will no longer ship products that don’t integrate with Cloud Control. That doesn’t mean those products will be manageable only if they can connect to Cloud Control. Instead, the decision reflects Cisco’s belief that the main thing stopping its customers buying more of its products is the complexity of operating them in concert. Schultz also feels that Cloud Control represents “platform advantage” for Cisco, because when users integrate networking, security, and observability the result is better manageability and resilience. Schultz also told the conference that Cisco will bundle its Thousand Eyes observability and security tool with the “Essentials” and “Advantage” licenses. “We admit it was hard to license and deploy,” he said during his keynote speech, adding that the tool will be deployed automatically with Wi‑Fi 6E and Wi‑Fi 7 hardware. Another product Cisco plans to bring to more customers is Live Protect, a tool that implements compensating controls for flaws that organizations can’t immediately patch. The product has become particularly useful since Anthropic's Mythos model, and similar AI offerings, made it possible to quickly find more software bugs and flaws and overwhelmed tech teams whose patching apparatus was not set up to handle hundreds of montly CVEs. Live Protect currently works on some of Cisco's datacenter switches, plus SD-WAN and WLAN controllers. From December, Cisco will extend it to 8000 series routers, secure firewalls, campus gateway, and to Cloud Control itself. From May 2027, Live Protect will work with Cisco’s ASR 9000 series service aggregation routers and Network Convergence System. "Expect this to be a major investment area," Schultz added. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=244176&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=244176&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video</title>
-<link>https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang</link>
-<guid isPermaLink="false">f3957bc9f46278e8e5d9a7c97eb4453804fbda1751d8485b754d11b4bae2d9c2</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 01:40:32 +0000</pubDate>
-<description>Donald Trump defended defense secretary Pete Hegseth, who is facing an impeachment resolution from Republican senator Thomas Massie, saying Hegseth 'won two wars'. The president, who said he had spoken to Nvidia CEO Jensen Huang, said he was 'amazed' by claims Huang conducted an affair with an alleged Chinese spy, and that the FBI was now looking into the issue Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? Republican Thomas Massie moves to force vote to impeach Pete Hegseth Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/ab7c6bd313bc788fbe0af23bacc93090ccecb010/243_0_3462_2770/master/3462.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95d4d8ed83c990a53c88e65c8bde0fd7" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ab7c6bd313bc788fbe0af23bacc93090ccecb010/243_0_3462_2770/master/3462.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95d4d8ed83c990a53c88e65c8bde0fd7" medium="image"/>
 </item>
 <item>
 <title>Anthropic's super bug-finding Mythos model is going into Cisco and IBM products</title>

@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple is shutting down its online Support Community on November 20</title>
+<link>https://www.engadget.com/2313147/apple-shuts-down-support-community-forum</link>
+<guid isPermaLink="false">65c8593bec07c1968b49700f5cbeff8daecb91abf070ac5686ec0213fc288cdd</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 10:52:59 +0000</pubDate>
+<description>Apple's Support Community is permanently closing in a few days.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apple-is-shutting-down-its-online-support-community-on-november-20/l-intro-1794394269.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-is-shutting-down-its-online-support-community-on-november-20/l-intro-1794394269.jpg" medium="image"/>
+</item>
+<item>
+<title>Linux joins Heathrow's grounded fleet of information screens</title>
+<link>https://www.theregister.com/offbeat/2026/11/11/linux-joins-heathrows-grounded-fleet-of-information-screens/5308738</link>
+<guid isPermaLink="false">0b48d573eda52b08a949c7886193b4c8fb3a25254b48a34ebe3efee42b15b561</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 10:44:00 +0000</pubDate>
+<description>UK travelers had more than fog to contend with this week, as Linux proved that if Windows could bork anything, it could bork it better. Spotted by Andy Hinks at Heathrow Airport's Terminal 2, this information display has seen better days. While its neighbors offer walking times and terminal maps, it presents a sideways Linux boot log – useful only if your next connection involves mounting a filesystem. There aren't many clues to what has befallen the machine behind the screen. The boot messages mention systemd , an Intel PRO/1000 network adapter, and an EXT4 filesystem on what appears to be a logical volume named LV_ROOT . Whether mounting that filesystem is the problem, or simply the last thing displayed before something else went wrong, isn't clear. Heathrow's information displays clearly accommodate a mixture of technologies. Recent examples ran Microsoft Windows, which had - naturally - suffered a moment of its own. Linux can evidently be just as unreliable in the right hands. The question is which Linux distribution is having its moment in the sun. Heathrow has been rolling out Raspberry Pi-based signage, although the Intel PRO/1000 adapter leaves the hardware behind this particular display something of a mystery. Pi hardware makes sense for signage: it's relatively cheap – at least until AI ate all the RAM – and low-powered compared with a full-fat Windows PC. Heathrow's senior product owner for displays described the approach as a "reliable, secure solution that has a significantly lower hardware cost and are 30-40% more energy efficient than our previous hardware." Readers might be interested to know that Heathrow has spent years working on its new screens. The product owner again: "We've completely re-engineered our content distribution system to be flexible and device-agnostic." So Windows in one place, and Linux somewhere else. All rubbing along famously. Assuming, of course, the displays can show more than a virtual cough and splutter during boot. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5308754&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5308754&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>AMD: Where we're going we don't need (as much) DRAM</title>
 <link>https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953</link>
 <guid isPermaLink="false">98cdae1f7442dea17c20417a683385b559e2c73195b6a1bd36ff2fc52f4ae40a</guid>
@@ -22,8 +44,8 @@
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 09:56:03 +0000</pubDate>
 <description>Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.</description>
-<enclosure url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794391297.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794391297.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg" medium="image"/>
 </item>
 <item>
 <title>UK's 'buy British' tech ambitions hit reality as less than £1 in £6 stays at home</title>
@@ -44,8 +66,8 @@
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 07:00:33 +0000</pubDate>
 <description>Office for Students says institutions in England should return to traditional exams and in-person presentations Universities should go back to traditional exams and in-person presentations to grade students after lecturers complained that AI has made it “close to impossible” to assess coursework, according to an investigation by England’s higher education regulator. The Office for Students (OfS) said the credibility of degrees from England’s universities was under threat from the prolific use of AI in essays, dissertations and “open book” exams, with students reporting that their peers boasted of using AI undetected by staff. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/adf4bd3cb57d52970211ffdea378ea9dcaa5036c/901_0_4886_3910/master/4886.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f35cc41f5d62af49e43694cd745428a" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/adf4bd3cb57d52970211ffdea378ea9dcaa5036c/901_0_4886_3910/master/4886.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f35cc41f5d62af49e43694cd745428a" medium="image"/>
+<enclosure url="https://i.guim.co.uk/img/media/d3a1271d3a03313b67f28cd9ca99f9f80e115ce7/671_0_5849_4679/master/5849.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2928282549d40797eb311108156f1331" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/d3a1271d3a03313b67f28cd9ca99f9f80e115ce7/671_0_5849_4679/master/5849.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2928282549d40797eb311108156f1331" medium="image"/>
 </item>
 <item>
 <title>Samsung Gallery now syncs with Google to back up your photos</title>
@@ -596,17 +618,6 @@
 <description>The Formula 2030 has inflatable seats, a pop-up LiDAR sensor and physical buttons.</description>
 <enclosure url="https://www.engadget.com/img/gallery/polestar-is-banned-in-the-us-but-we-still-want-its-latest-concept-car/l-intro-1794332275.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/polestar-is-banned-in-the-us-but-we-still-want-its-latest-concept-car/l-intro-1794332275.jpg" medium="image"/>
-</item>
-<item>
-<title>Google turns Gemini towards medical paperwork</title>
-<link>https://www.engadget.com/2312279/google-turns-gemini-towards-medical-paperwork</link>
-<guid isPermaLink="false">789cba37203370193520f1476ab5c365ad16449f6d7da9f0ff3435360cc40b43</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:35:46 +0000</pubDate>
-<description>Gemini for healthcare is in preview now, with some big-name partners already on board.</description>
-<enclosure url="https://www.engadget.com/img/gallery/google-turns-gemini-towards-medical-paperwork/l-intro-1794331979.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/google-turns-gemini-towards-medical-paperwork/l-intro-1794331979.jpg" medium="image"/>
 </item>
 <item>
 <title>UK social media ban expansion for under-16s could cover YouTube Kids</title>
@@ -1443,17 +1454,6 @@
 <description>The worst of the patchpocalypse may be behind us, according to Linus Torvalds. Writing in his weekly kernel update post , the Linux kernel dev leader delivered Linux 7.4 rc2 – the second rough cut of the next kernel – which he rated as a big release for two reasons. One is that he left some code out of rc1, because he was busy and because it was already the largest such release in the history of the kernel. The other is what Torvalds described as “various AI fixes.” Such fixes are necessary because ever since Anthropic launched its Mythos bug-finding model in April , developers have been able to find more software flaws than was previously possible. Microsoft, for example, addressed a record 974 flaws in September – its third record fixing spree this year after it whacked 622 flaws in July and 206 in June. Oracle addressed 1,449 flaws in a single month. That’s many more patches than IT teams are set up to handle, yet they must find ways to deal with bugs more quickly because attackers are increasingly targeting flaws found by AI . Torvalds’ post suggests that, perhaps, the worst of this is behind us. “This time around Alexei claims that on the bpf side at least the fixes are now coming in faster than the new reports, and that sounds lovely if true,” he wrote. That’s a reference to Alexei Starovoitov, co-creator and lead dev on the Extended Berkeley Packet Filter (eBPF), the project that makes it possible to run sandboxed programs within the Linux kernel. “I think most other areas haven't reached that point yet, but it's at least a sign that we _may_ be starting to see the tide starting to turn,” he added. “Don't hold your breath, but maybe cross your fingers we'll be getting there in the not entirely distant future.” If Torvalds is correct, that’s welcome news. The Linux kernel’s 40-million-plus lines of code makes it one of the world’s bigger software projects. If AI soon stops finding flaws in other parts of the kernel beyond eBPF, perhaps the deluge of fixes developers and users alike will need to handle has peaked. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5241522&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5241522&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Huawei says it’s made a 100 percent Chinese PC</title>
-<link>https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335</link>
-<guid isPermaLink="false">ae25d23a57ace606f15f2c1d1fc3db26b3e8809fc498ca81a52454f9ab4ca6a0</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 02:14:17 +0000</pubDate>
-<description>Huawei claims it’s built a desktop PC that uses only parts made in CHina. The company launched the Qingyun HM650 last week and said it uses Huawei’s own Kirin X90 processor, a ten-core 20-thread machine with a clock speed of 2.3 GHz. The machine runs a newly developed enterprise version of HarmonyOS, the OS Huawei developed to end its dependence on Android and which it intends to run on most of the devices it makes. A single Chinese government agency has reportedly signed up for 600 of the machines. That’s not an indication this machine is a curiosity, because Beijing has ordered all government entities to shift from Wintel boxes to local alternatives. While Huawei has reportedly claimed local companies manufactured 100 percent of the components in the machine, it is unclear if all those components use Chinese designs. The Register mentions that uncertainty as many non-Chinese companies continue to operate factories in China. Even if Huawei is using some parts that aren’t entirely Chinese, the debut of the Qingyun HM650 is bad news for Intel, AMD, and Qualcomm, as all are suffering as the PC market shrinks due to the rising cost of memory. China’s government is an enormous buyer, and losing the chance to bid for its business is unlikely to be helpful. Japan announces emergency response package after wave of cyberattacks Japan’s government last Friday announced emergency funding to help local organizations strengthen the nation's cyber-defences. The ¥10 billion ($63 million) package follows a wave of cyberattacks that have disrupted railways, retailers, KFC’s logistics provider , and cloud computing operators . The emergency package aims to help Japanese government agencies to use AI to nail infosec basics, and to build tools that let the National Cybersecurity Office aggregate information about cyberattacks. Some funds will also go towards supporting victims. Lenovo’s APAC boss shifts to lead Motorola Lenovo is looking for a new leader of its Asia-Pacific operations after shifting the boss, Amar Babu, to a role as mobile business group general manager and global president at Motorola. Amar led Lenovo in the region for over five years and the company credited him with turning it into “a more balanced and diversified business and a key growth engine.” “Across the portfolio, AP maintained its #1 PC position, while our mobile business achieved notable growth, with Motorola reaching nearly 9 percent market share in India and the #2 smartphone OEM in Japan,” according to a company announcement . “Our infrastructure business achieved profitable growth and nearly double-digit market share, while Solutions &amp; Services continued to strengthen its best-of-breed industry position and significantly increased its advanced services business mix to over 50 percent.” Lenovo has not named a new leader for its APAC outpost. Vietnam hails homegrown USB storage chip Vietnam’s government last week announced the nation’s first domestically-designed security chip - a 28-</description>
-<enclosure url="https://image.theregister.com/?imageId=5308342&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5308342&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Gotta buy ’em all: how Pokémon card collecting became race against scalpers</title>

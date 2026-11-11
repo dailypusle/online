@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix</title>
+<link>https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining</link>
+<guid isPermaLink="false">dd3d90efe88c49dcdea42e9fd324dd031d97fa27b6ae0bbd1d0218aaf16d7131</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 16:58:57 +0000</pubDate>
+<description>Three bugs—spanning denial-of-service and privacy issues rather than coin theft—have all been patched, with the most serious capable of halting a miner’s ability to build new blocks.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Bitcoin hovers near $74K as stocks rise despite US bond yield rebound</title>
+<link>https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi</link>
+<guid isPermaLink="false">4c6fb4f31e4eb3bdcf341a8360afc7481432bb0388a3a3f08731c18475d929ad</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 16:26:00 +0000</pubDate>
+<description>Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp" type="image/webp"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp" medium="image"/>
+</item>
+<item>
+<title>Black-owned M&amp;F shareholders opt overwhelmingly to stay the course</title>
+<link>https://www.bankingdive.com/news/mf-optus-merger-black-owned-bank-shareholder-vote-triad-proposal-carolina/874393</link>
+<guid isPermaLink="false">4af3b883fd65f3fd040af37aeed339669ca00f8e07272daf3c7f587b10752d7f</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 16:21:49 +0000</pubDate>
+<description>Roughly 98.6% of voting investors supported a tie-up with fellow Black-owned Optus Bank despite a series of counterproposals. The deal, which needs regulator sign-off, is on track for a fourth-quarter close, M&amp;F said.</description>
+<enclosure url="https://imgproxy.divecdn.com/LJ1BLV0Ucv4HpmAFLTBtvi8ClIQR-xZ6pJfS-sub79Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TQ19TdGF0ZV9Ib3VzZV9hdF9ldmVuaW5nX1QzemM3bzIuanBn.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/LJ1BLV0Ucv4HpmAFLTBtvi8ClIQR-xZ6pJfS-sub79Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TQ19TdGF0ZV9Ib3VzZV9hdF9ldmVuaW5nX1QzemM3bzIuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out</title>
+<link>https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out</link>
+<guid isPermaLink="false">4da29d5e85a407ab296e0d42cd1ac20c86ed26489430e32eb19ae8ded5ccdf53</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 16:14:01 +0000</pubDate>
+<description>OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strategy, after 67 companies objected to having their shares listed.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Russia’s Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22</title>
 <link>https://bitcoinmagazine.com/news/russia-clears-exchange-crypto-trading</link>
 <guid isPermaLink="false">fc1bfa1597cc8af089f3dc71f9b386a1f3d47af8987cbd741df75ec2716303b0</guid>
@@ -35,6 +79,17 @@
 <description>Bitcoin Magazine Deutsche Bank Switches On Bitcoin Custody for Paying Clients Deutsche Bank has switched on its digital asset custody service for paying clients, the German lender said Wednesday, letting institutions and corporations in Europe hold bitcoin with the country’s largest bank less than two months after it first unveiled the plan. The bank announced the service on Sept. 16, saying it would go live with first clients this year once regulators signed off. It now supports bitcoin and ether, along with the USDC, EURC and EURAU stablecoins, according to its product page . Under the setup, Deutsche Bank manages the wallets and private keys on behalf of clients, who can store the assets and transfer them to third parties. The bank pitched that as a way for clients to skip building and maintaining their own custody infrastructure. “In the medium term we aim to deliver a fully integrated, regulated ecosystem that supports the custody, tokenisation, and settlement of digital assets,” said Paul Maley, global head of trust and securities services at Deutsche Bank. The bank did not name its first clients, say how many have signed up or disclose what it charges to hold the coins. The service is aimed at institutional and corporate clients, not retail customers. What Deutsche Bank is offering The product page describes private keys stored in hardware security modules, a choice of warm and cold storage, multi-factor authentication, segregation of client assets and a customizable approval process for client transfers. Clients reach the service through Autobahn, Deutsche Bank’s multi-channel gateway, or its Corporate Bank portal. The service is booked out of Deutsche Bank AG in Frankfurt and is available in Germany, with cross-border servicing across Europe through passporting. The bank lists institutional investors, multinationals and corporates, governments and sovereigns, and wealth managers as target clients, and it describes the offering as compliant with the European Union’s MiCA crypto rules. For now the menu is narrow. Deutsche lists custody, transfers and internal moves between warm and cold storage as its initial services, with “further capabilities planned.” The September release said the asset list may grow with client demand and that tokenized financial instruments are on the roadmap. It also carried a warning familiar to anyone in bitcoin: crypto assets held this way are not covered by a deposit-guarantee scheme like the one that protects eligible bank deposits. A tie-up with Deutsche Asset Management Alongside the launch, Deutsche Bank signed a memorandum of understanding with Deutsche Asset Management, the money manager it mostly owns that was known until recently as DWS. The agreement is meant “to explore comprehensive commercial and technical collaboration opportunities in the digital asset space,” the bank said. The firms plan to look at tokenized money market funds, crypto exchange-traded commodities and stablecoins built around the</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Deutsche-Bank-Switches-On-Bitcoin-Custody-for-Paying-Clients.jpg" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Deutsche-Bank-Switches-On-Bitcoin-Custody-for-Paying-Clients.jpg" medium="image"/>
+</item>
+<item>
+<title>North Dakota bank to buy Texas lender</title>
+<link>https://www.bankingdive.com/news/north-dakota-first-international-bank-buy-trust-dominion-dallas-texas-7-billion-assets-stenehjem/874368</link>
+<guid isPermaLink="false">bc3fea1ea48f0c5f5fa7b342e37d255afa2da0b09f70c5d72d841849b8a711b2</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 14:46:19 +0000</pubDate>
+<description>The deal will bring family-owned First International Bank &amp; Trust, which started in 1910 with $15,000, to roughly $7 billion in assets.</description>
+<enclosure url="https://imgproxy.divecdn.com/dPel-EhfBJpfwA3G7iwkBy5W9NttS5euLh8ZkiJ_CFc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GSUJUUnVnYnktMTAyMy5qcGc=.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/dPel-EhfBJpfwA3G7iwkBy5W9NttS5euLh8ZkiJ_CFc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GSUJUUnVnYnktMTAyMy5qcGc=.webp" medium="image"/>
 </item>
 <item>
 <title>Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix</title>
@@ -156,6 +211,17 @@
 <description>Nvidia's independent directors have hired Wachtell Lipton to investigate its CEO's ties to an alleged Chinese spy, as pressure mounts.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Northern Trust leans on Microsoft engineers to boost agentic buildout</title>
+<link>https://www.bankingdive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874362</link>
+<guid isPermaLink="false">90a5e84efcd2a272c466bc9528c880357f474981ce0af9972624a55184172732</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+<description>The financial services firm cut analyst data preparation time by 83% with the use of an onboarding agent, the companies said.</description>
+<enclosure url="https://imgproxy.divecdn.com/BHGADPxOZR23ubwcZbw8z_uTUZk4vq1HOtEMnze9IOc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NTEwMzQxNi5qcGc=.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/BHGADPxOZR23ubwcZbw8z_uTUZk4vq1HOtEMnze9IOc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NTEwMzQxNi5qcGc=.webp" medium="image"/>
 </item>
 <item>
 <title>Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings</title>
@@ -763,17 +829,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Poland’s lower house backs sanctions bill covering crypto freezes</title>
-<link>https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets</link>
-<guid isPermaLink="false">3d717ec9bedaaa198b3ca9f401fa1f88c707b03ca22b8fdcc4c055066f194018</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 13:40:39 +0000</pubDate>
-<description>The bill is now before the Senate and would broaden the grounds for adding people and companies to Poland’s national sanctions list.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png" medium="image"/>
-</item>
-<item>
 <title>Morning Minute: Vitalik Recasts ETH as a Store of Value</title>
 <link>https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value</link>
 <guid isPermaLink="false">ae7a81f0aa0dede9ebbfec78f05b08a8591658f8d72adaf3b825190d3866a74e</guid>
@@ -992,49 +1047,5 @@
 <description>The Bitcoin treasury firm sold $284 million of MSTR stock to fund the moves, days before MSCI names companies facing index removal.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Microsoft-Backed Space and Time Launches Platform to Let AI Agents Verify Private Data</title>
-<link>https://decrypt.co/382697/microsoft-backed-space-and-time-launches-platform-to-let-ai-agents-verify-private-data</link>
-<guid isPermaLink="false">36d66f7aa4886955ed372bd6184970d6e9dbc9100c955d8b2126165acc9f5319</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 13:01:02 +0000</pubDate>
-<description>Space and Time Enterprise uses Proof of SQL to prove calculations on private business data without exposing the records to AI agents.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter</title>
-<link>https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter</link>
-<guid isPermaLink="false">8460535fca6bfe7f56e1cc77ca37a144bf889c47f66ed7258a506fe83d017957</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 11:50:36 +0000</pubDate>
-<description>The exchange will move its institutional crypto custody business under federal oversight, building on its 2018 New York trust charter.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Dive Deposits: Goldman named new partners but left other details out</title>
-<link>https://www.bankingdive.com/news/goldman-109-new-partners-women-gender-race-diversity-trump-solomon/874018</link>
-<guid isPermaLink="false">2500d72858aa74f691c754bcec20d02bbf4f9721ebd39a1a93d088c884126473</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 17:28:31 +0000</pubDate>
-<description>The bank did not give a gender or racial breakdown for its largest partner class since 2010. That doesn’t necessarily mean it’s shelving diversity; it may be staying purposefully quiet.</description>
-<enclosure url="https://imgproxy.divecdn.com/8uYw98b7-rAHdn78JuE5uNBFZBJa5p46cWyI7wZQDR8/g:nowe:8:1/c:1013:572/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5MzU5NDQyLmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/8uYw98b7-rAHdn78JuE5uNBFZBJa5p46cWyI7wZQDR8/g:nowe:8:1/c:1013:572/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5MzU5NDQyLmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>California takes CoinFlip to task</title>
-<link>https://www.bankingdive.com/news/california-coinflip-crypto-atm-enforcement-fraud/874015</link>
-<guid isPermaLink="false">6aad16641c3c5f56a363ba21d4e89379c0917349e252a34c181137a89d07f940</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 15:55:00 +0000</pubDate>
-<description>The state ordered the crypto ATM company to pay $4.8 million to scam victims, and bashed federal regulators over failing to police for fraud.</description>
-<enclosure url="https://imgproxy.divecdn.com/m89vHtziBkSz1Pnmiz-i3P2ejhpTG22nGJcUufXy0D4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODI2NjQ2MjIuanBn.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/m89vHtziBkSz1Pnmiz-i3P2ejhpTG22nGJcUufXy0D4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODI2NjQ2MjIuanBn.webp" medium="image"/>
 </item>
 </channel></rss>

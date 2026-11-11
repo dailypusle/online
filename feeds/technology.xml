@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Scientists check their work and confirm it with update on iconic black hole image</title>
+<link>https://www.theregister.com/science/2026/11/11/scientists-check-their-work-and-confirm-it-with-update-on-iconic-black-hole-image/5309183</link>
+<guid isPermaLink="false">b1c218139ce149ee8f7758a42d7282d1058888f64ace9d3e9adf49b326d901c3</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 17:02:00 +0000</pubDate>
+<description>The image of the red ring around the black hole M87, produced by the Event Horizon Telescope (EHT) array, made front-page news around the world in 2019. There was one problem: there was a slim chance the depiction might be wrong. This week, a small team of four Australian researchers have published their work confirming the result based on a new machine learning algorithm using the same base data. The 2019 Event Horizon Telescope (EHT) image came from hundreds of scientists working together to capture the first direct view of a black hole's shadow. The measurements were taken at eight telescopes around the world, at locations including Chile, the US, and Antarctica. Reconstructing the image from the data so geographically distant meant instrument and environment errors could influence the accuracy of the resulting image. Potentially, alternative analyses of the data could have reconstructed an image without the iconic ring shape. Samuel Lai – a postdoctoral fellow at the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Western Australia – and his team created an independent imaging algorithm to process the historic dataset to validate the result. The new approach used closed triplets (using three telescopes for error correction) rather than station pairs in an effort to reduce error. To the relief of the EHT team, the new image recreated the iconic ring-like image seen in the original, according to a paper published in Nature today . In a prepared statement, Lai said taking pictures of black holes was not easy. "It is like standing in your backyard and trying to take a photo of a doughnut on the Moon," he said. He explained that when his team applied new advanced machine learning and artificial intelligence techniques to the original Event Horizon Telescope dataset, they found a black hole almost identical in size and shape to the historic EHT image. "Importantly, our model had no idea what a black hole looked like when we applied it to the M87 data. This is the first truly independent validation of the EHT image, an important step in the scientific process," he said. Event Horizon Telescope director Laurent Loinard welcomed the new study. "It is extremely gratifying to see that an elegant, entirely independent method recovers the ring structure of M87 across several years, in excellent agreement with the EHT Collaboration's published results," he said. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5309197&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309197&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Claude can collaborate in your team meetings soon – like an intern</title>
+<link>https://www.zdnet.com/innovation/claude-meetings-workplace-features</link>
+<guid isPermaLink="false">698cb2754e0f6f53a96daece21e10e90641a032c52656238fe72c5475168a3d9</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 16:46:09 +0000</pubDate>
+<description>Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropic launches two more new features that are available now.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Claude-Meetings.png" type="image/png"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Claude-Meetings.png" medium="image"/>
+</item>
+<item>
+<title>Canonical web services get stage fright ahead of Ubuntu Summit</title>
+<link>https://www.theregister.com/os-platforms/2026/11/11/canonical-web-services-get-stage-fright-ahead-of-ubuntu-summit/5309186</link>
+<guid isPermaLink="false">9b9f26d9b9911c6378e9cf5c76e1351f6a37d7b8867076619f3feba892d4c91c</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 16:38:00 +0000</pubDate>
+<description>A swathe of Canonical's web services has been offline for hours, an awkward warm-up for tomorrow's Ubuntu Summit. Canonical's status page lists widespread disruption beginning at approximately 1100 UTC, affecting gopkg.in, Ubuntu cloud images and mailing lists, jaas.ai, the Ubuntu keyserver, Launchpad PPAs, the Livepatch API, canonical.com, Ubuntu login, maas.io, and 16 other services. Landscape is also affected. Email and the company's Discourse forums remain available. The Register has asked Canonical for more information but had received no response at publication time. The company suffered a DDoS attack last month , although the cause of this outage has not been confirmed. The timing is unfortunate. As the banner across the top of the Discourse forum page says: "The Ubuntu Summit starts tomorrow – join from anywhere!" The online event runs on November 12-13. For the first time since the 2022 Summit in Prague, The Reg FOSS desk won't be attending in person. Canonical is still experimenting with the format of the event, and the last few have been primarily online, with just a small in-person audience in its London offices. This is the second of two Summits this year, labeled 26.04 and 26.10 to mirror Ubuntu's release cycle. The timetable , hosted on the Discourse site, lists several talks on AI and agentic coding. The AI-heavy program we reported from June's event appears to be continuing. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5237217&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5237217&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Google’s Tabletop AI experiment lets you build custom collaboration apps</title>
+<link>https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</link>
+<guid isPermaLink="false">ccd519173ba2f65ad7a8e16ca7fe8e94491cd4511a24f75dfae3f0d18c55d02b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+<description>Tabletop isn’t anything to do with D&amp;D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more. "Just add in your links, files and ideas, then prompt @tabletop - or pick a starter template - to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets," Google … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>The best early Black Friday deals you can already shop</title>
 <link>https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026</link>
 <guid isPermaLink="false">41ae633c6584dee9d5b17bb95344d72396bc2b1c4a82242507937d389ea50215</guid>
@@ -46,6 +90,17 @@
 <description>Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the 67W version for $19.90 ($30 off) or the 100W version for $59.90 ($16 off). Sharge Pixel 140 GaN Charger Where to Buy: $90.9 $69.88 at Amazon $90.9 $69.9 at Sharge The Pixel 140 delivers up to 140W of power when using only one of its three USB-C ports, which Sharge says is capable of taking a 16-inch MacBook Pro from a flat battery to 50 percent charge in just 25 minutes. It’s 47 percent smaller than the MacBook’s included charging brick as well, which is great if you’re tight on bag space or travel frequently. The pixel display on the side has configurable brightness and orientation, and displays your current charging wattage. Other deals to consider Halo fans looking for a fun weeknight project can grab Mattel’s Brick Shop Warthog on Amazon for $62.99 ($12 off), which is the lowest price we’ve seen on the brick-ified UNSC replica. The 935-piece set lets you recreate a 1:22 scale model of the iconic land vehicle, and includes a 1:64 scale metal version as well. Windows users with Mac Mini envy might consider the Lenovo Yoga Mini , which is currently discounted to $599.99 ($460 off) at Best Buy as part of the retailer’s early Black Friday promo. The compact desktop PC features an Intel Core Ultra 5 processor, 16GB of LPDDR5X memory, and 512GB of storage; it also has several fun features, including automated lighting around the system and Wi-Fi presence sensing. While modern smartphone camera stabilization has improved dramatically, there are still plenty of situations where a motorized gimbal can help you capture a smoother shot. Fortunately, the DJI Osmo Mobile 8 is currently on sale at Amazon for $89 ($20 off), nearly matching its best price to date. It features 360-degree horizontal panning and over 10 hours of battery life on a single charge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/sharge-pixel-140-charger-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/sharge-pixel-140-charger-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Trump wanted little Kei trucks for America, Toyota makes it happen</title>
+<link>https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks</link>
+<guid isPermaLink="false">d61ec68bd10a4611fd5e2138b0b6eb947c4058f931dac5ecdedb8912f803d440</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 15:25:44 +0000</pubDate>
+<description>The idea that Americans should be offered a greater choice of smaller cars has support from strange bedfellows indeed. After all, who could forget President Trump—usually one to take a maximalist approach to any problem— announcing last year that he wanted the Department of Transportation to make Japan’s diminutive “Kei” cars legal here in the US. Ars’ attempts to get DoT to tell us more about the potential influx of little vehicles have mostly fallen on deaf ears. But this week, there has been movement on the topic, with Toyota announcing that it will bring back the Scion brand with the KEI-01. What’s a Kei car? Here in the US, the preponderance of humongous SUVs is a consequence largely of government policies, specifically corporate average fuel economy standards that made it less profitable to sell smaller, efficient cars. Japan’s Kei cars are what happens if the government instead restricts the size, engine capacity, and power output. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds</title>
@@ -235,17 +290,6 @@
 <media:content url="https://www.engadget.com/img/gallery/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data/l-intro-1794400413.jpg" medium="image"/>
 </item>
 <item>
-<title>Serve Robotics wants to democratize sidewalk delivery robots</title>
-<link>https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery</link>
-<guid isPermaLink="false">09b2f13e17bd69498e6e8fff6905242781101af96a6c577833a5b28dec1f9727</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 12:30:00 +0000</pubDate>
-<description>A delivery robot rolls down a pedestrian walkway in Miami. | Photo: Universal Images Group via Getty Images Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, third-party developers and interested small businesses can use Serve's software tools to dispatch robots directly without relying on major food delivery companies, like Uber Eats. Now, anyone who lives in one of the 150 neighborhoods where the company currently operates can employ a si … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Shipping giant Maersk probes 'IT security incident,' data theft</title>
 <link>https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096</link>
 <guid isPermaLink="false">bbcce8b284c7c5adb13c99157328dd1334b91f2764cfb6e8086df8639c66903a</guid>
@@ -330,8 +374,8 @@
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 09:56:03 +0000</pubDate>
 <description>Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.</description>
-<enclosure url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794414335.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794414335.jpg" medium="image"/>
 </item>
 <item>
 <title>Germany reportedly bans Chinese drones at military bases over security concerns</title>
@@ -1247,17 +1291,6 @@
 <media:content url="https://image.theregister.com/?imageId=258036&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>DCU shake-up: James Gunn and Peter Safran out post-merger</title>
-<link>https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger</link>
-<guid isPermaLink="false">c68b5e526d0c8a3460ee0c8a4a8837677af0c6a09925d569ea5768de1ae99d13</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 21:55:35 +0000</pubDate>
-<description>It's barely been two months since the controversial Paramount and Warner Bros. merger, and we've already got a shockingly unexpected ouster : Co-CEOs of the rebooted DC Universe, James Gunn and Peter Safran, are stepping down from that role despite the Hollywood rumor mill assuming that the duo would be safe. It's unclear whether the pair chose to resign or were forced out, or what will happen to their planned slate of projects beyond 2028's Superman: Man of Tomorrow , which is in post-production. Producer Jeremy Latcham—a protege of Marvel's Kevin Feige who worked with Gunn on Guardians of the Galaxy among other MCU films—will replace them. Per Gunn and Safran's joint statement : Four years ago, we set out to unite DC under one creative vision. In that time, we helped restore Superman to the heart of DC, while opening new doors and telling new stories in film and television with Peacemaker , Creature Commandos, Lanterns and Clayface. We’re immensely proud of the team that turned that ambition into something real, including the actors, crews and executives we had the opportunity to collaborate with. We’ve shared a creative history with Jeremy going back to Marvel, and we’re eager to see the perspective he brings to DC’s next chapter. We’re excited to return to what drew us to this job in the first place, which is telling the stories we love, including the next chapter of Clark and Lex’s journey in Man of Tomorrow . DCU fans are mourning the news and what it could mean for the franchise. My feelings are mixed. On the one hand, I'm on record that I’ve found the rebooted DC Universe films released thus far to be enjoyable but rather forgettable, even when the positives outweigh the negatives . (I have yet to see Clayface , which debuted to good reviews and a solid box office showing.) But HBO has done right by the DCU: I loved both seasons of Peacemaker ; Lanterns is a shining beacon of what is possible when someone is allowed to get really creative within the genre; and I'm very much looking forward to next year's Jimmy Olsen (Skylar Gisondo) series The People v. Gorilla Grodd —described as a “mockumentary crime comedy superhero series.” Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?</title>
 <link>https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia</link>
 <guid isPermaLink="false">a03f51e0c78eaaddc62ae242bfae83c4489b9c6a6124ea2e7969c572734da767</guid>
@@ -1445,28 +1478,6 @@
 <media:content url="https://image.theregister.com/?imageId=249757&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Who can still open your files after they've left?</title>
-<link>https://www.theregister.com/storage/2026/11/09/sponsored-who-can-still-open-your-files-after-theyve-left/5306418</link>
-<guid isPermaLink="false">2c51c487d2c577724009582d29f44de08c1a42eedeadd651bc1314ea69d0497f</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
-<description>Someone left your organisation in the spring. Can they still open the project share? Most infrastructure leads would want to check before answering, and that pause is the subject of a dinner The Register and LucidLink are hosting for senior technology, infrastructure, and data leaders at the Covent Garden Hotel on Tuesday 24 November. Joe Fay of The Register is in the chair. Request a place The trouble is the copies. A busy folder lives on the file server, in a sync client, on a couple of laptops and in the share set up for an agency last year, and each copy carries its own permissions. Locking down one leaves the others as they were. Then there's the tool a team built for itself because the approved one was too slow, which IT may not know exists. The evening runs under the Chatham House Rule, and that's what makes it worth going. People say what actually happened in their own shop and how they caught it. Alan Marshall, Strategic Director, EMEA at LucidLink, joins a small group of peers round the table. Nobody presents. The talk moves on to unstructured data that keeps growing, the duplicate storage that comes with it, and how to get access back under control without throwing out the storage and governance you've already paid for. Drinks are at 6.30pm and dinner around one table runs until 9pm. Places are limited. Request a place at the 24 November dinner Places go by invitation and each one is confirmed personally. Sponsored by LucidLink.</description>
-<enclosure url="https://image.theregister.com/?imageId=5306422&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5306422&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Japanese homeware giant pulls online store after cloud breach puts 7.7M records at risk</title>
-<link>https://www.theregister.com/cyber-crime/2026/11/09/japanese-homeware-giant-pulls-online-store-after-cloud-breach-puts-77m-records-at-risk/5308377</link>
-<guid isPermaLink="false">ccfef6010c46f64533db67fe5b704e871f10337b1d18dbf777cfc18346084340</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 12:47:00 +0000</pubDate>
-<description>Japanese electronics giant Iris Ohyama has taken down its online store after discovering that attackers may have accessed the personal information of 7.7 million customers, leaving shoppers unable to place orders. The retailer, which sells everything from home appliances and furniture to pet supplies, first disclosed the incident on October 29 , a day after discovering a suspicious file on a third-party cloud service used by its Iris Plaza ecommerce operation. Iris Plaza immediately suspended its website and associated systems and began investigating, subsequently confirming unauthorized access. Iris Ohyama has since revealed that the potentially compromised cloud environment contained personal information belonging to approximately 5.8 million registered customers, including former members, and another 1.9 million people who had purchased products without creating an account or participated in promotional campaigns. The potentially exposed information includes names, addresses, phone numbers, email addresses, dates of birth, gender, and passwords, although the company says the exact information at risk varies between customers. Some of that data, including passwords, was encrypted, but Iris Ohyama hasn't explained what protection was used. It has advised customers who reused their Iris Plaza passwords elsewhere to change them, presumably before someone else gets the opportunity. There is some good news for anyone who has handed over their credit card details, as the retailer says it didn't store payment information in the affected cloud service and that it hasn't been compromised. It remains unclear whether the attackers actually made off with any personal information. In its FAQ , Iris Plaza says it is still investigating the possibility of a data leak and has yet to establish the full extent of the intrusion. Meanwhile, Iris Plaza's website is still down, and the company isn't saying when it'll be back. Orders are also taking longer to ship, while customers trying to cancel a purchase have been told they may have to turn the delivery driver away if their parcel arrives before the cancellation is processed. Fortunately for anyone desperate to buy a new rice cooker, Iris Plaza's stores on Rakuten, Yahoo! Shopping, and auPAY Market are still operating. The company says it has found no evidence that those stores were affected. Iris Ohyama has reported the incident to Japanese authorities and says it will contact potentially affected customers individually. It has also warned shoppers to watch out for phishing emails, fraudulent calls, and fake websites impersonating the retailer. The company has yet to identify the cloud provider involved, explain how the attackers got in, or establish whether any of those 7.7 million records actually left its systems. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5308391&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5308391&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Crime pays: how Grand Theft Auto became a cultural colossus</title>
 <link>https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta</link>
 <guid isPermaLink="false">a0035f40303191c8462e4ebab3baf7ad957d010b4a02a1586801bd2cf293bea5</guid>
@@ -1531,17 +1542,6 @@
 <description>When our writer found himself among the hundreds on Oxford Street hoping to get their hands on early copies and collectibles, it was a heartwarming reminder of the shared experience of fandom • The Legend of Zelda: Ocarina of Time review – a dream come true It is Thursday night and I am sat blurry-eyed and runny nosed outside the Argos on Oxford Street. Incredibly, I am far from alone. This is not some strange protest against the popular retailer. When the clock strikes midnight, the lavish 4K Switch 2 remake of beloved N64 classic The Legend of Zelda: Ocarina of Time will be released, and I have joined a lengthy queue of about 500 fans desperate to snag early copies. There are similar events taking place across the world, from Melbourne to Mexico City; at key locations, Nintendo has senior executives waiting at the tills. These days, of course, most video games are bought as digital copies that download straight to your PC or console on the day of release. You don’t even have to get out of bed to start playing. But in a bygone era, when we used to go to shops to buy games, midnight launches offered a space for likeminded enthusiasts to gather and celebrate their fandom. Every Call of Duty, Halo or Grand Theft Auto release would have fans queueing outside branches of Game or Electronics Boutique, many dressed as favourite characters. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/250_238_7202_5762/master/7202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e37b4863ba9469d2fe393175d8770203" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/250_238_7202_5762/master/7202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e37b4863ba9469d2fe393175d8770203" medium="image"/>
-</item>
-<item>
-<title>6 default Pixel 11 settings I changed that made a big difference – and why</title>
-<link>https://www.zdnet.com/tech/pixel-11-settings-to-change</link>
-<guid isPermaLink="false">e06e93d60262f87441f1a86d65eb3011263e41845e63c6ab8231b8978460d307</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 18:18:16 +0000</pubDate>
-<description>If you’re a new Pixel 11 user, here are six things I recommend changing right away to get the most from your phone.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/PXL_20261105_154231218.PORTRAIT.ORIGINAL.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/PXL_20261105_154231218.PORTRAIT.ORIGINAL.jpg" medium="image"/>
 </item>
 <item>
 <title>‘It’s so glossy and sexy!’: 10 movies (and one TV show) that inspired Grand Theft Auto</title>

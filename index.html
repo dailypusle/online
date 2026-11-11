@@ -500,7 +500,7 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
         if (category !== selectedCategory) return;
 
         // Near me: also refresh the local feed so its stories can be pinned on top.
-        if (category === "top" && localOn && localCategory && localCategory !== category) {
+        if (localOn && localCategory && localCategory !== category) {
           try {
             writeCache(localCategory, (await fetchCategory(localCategory)).slice(0, MAX_STORIES));
           } catch (localError) {
@@ -580,7 +580,7 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
 
     // Puts the saved local stories above the selected category's stories.
     function withLocal(stories, category) {
-      if (category !== "top" || !localOn || !localCategory || localCategory === category) return stories;
+      if (!localOn || !localCategory || localCategory === category) return stories;
       const entry = readCache()[localCategory];
       if (!entry || !Array.isArray(entry.stories)) return stories;
       const local = entry.stories.slice(0, LOCAL_PIN_COUNT).map(s => ({ ...s, local: true }));

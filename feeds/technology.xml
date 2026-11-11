@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>New York is forcing T-Mobile to stop putting data caps on low-income home internet plans</title>
+<link>https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans</link>
+<guid isPermaLink="false">c0be713c66472f0b10e715cc25c9255d7c22fd51a3314712aec0eef681f346ac</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 22:46:07 +0000</pubDate>
+<description>The company was throttling speeds for plans offered under the Affordable Broadband Act.</description>
+<enclosure url="https://www.engadget.com/img/gallery/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/l-intro-1794437085.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/l-intro-1794437085.jpg" medium="image"/>
+</item>
+<item>
+<title>Hands on with Home Assistant’s new ‘smart home multi-tool’</title>
+<link>https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on</link>
+<guid isPermaLink="false">3ddc5cc5a5b08ed60436e8bf10c359e2d99e3d2802a246767fd2000614ccd103</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
+<description>The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge Nabu Casa - the commercial side of the Open Home Foundation , which runs Home Assistant - just launched the Home Assistant Connect Aux-2 , a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly . And it's working. I've been testing the Aux-2 for a couple days and I've found it unsurprisingly useful and surprisingly easy to set up. The Aux-2 is a $69 box about the size of a deck of cards. It has 2.4GHz Wi-Fi, Bluetooth, Ethernet, USB-A, USB-C, a digital/analog audio jack, a Grove port for interfacing with peripherals like sensors, buttons, and … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>United won’t let your AI agent book your flight</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</link>
 <guid isPermaLink="false">3c4a130ff1dbafc38dee6b28c18e9582e36c07dec78116be1df03232579c9c7a</guid>
@@ -15,13 +37,13 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says</title>
+<title>T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says</title>
 <link>https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says</link>
 <guid isPermaLink="false">e8ecb6b75613dd7c5cd4d269ca2b75df0cd7acbd4755ab4a8cf9d8d9273958e9</guid>
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 20:32:21 +0000</pubDate>
-<description>T-Mobile violated a New York state law by imposing a 50 GB-per-month data cap and reducing speeds to less than a megabit per second on home Internet plans it is required to offer people with low incomes, New York government officials alleged. T-Mobile agreed to a settlement requiring it to scrap the data and speed limits, to offer the required low-income plans to more parts of the state, and to make it easier for customers to find information about the plans. The settlement requires T-Mobile to eliminate the speed limits and expand availability of the plans within 120 days. The alleged legal violation and the settlement are related to T-Mobile's wireless home Internet service, not the company's mobile plans. Governor Kathy Hochul and New York Attorney General Letitia James announced the settlement on Monday, saying that a state investigation found T-Mobile violated the New York Affordable Broadband Act (ABA). Read full article Comments</description>
+<description>T-Mobile violated a New York state law by imposing a 50GB-per-month data cap and reducing speeds to less than a megabit per second on home Internet plans it is required to offer people with low incomes, New York government officials alleged. T-Mobile agreed to a settlement requiring it to scrap the data and speed limits, to offer the required low-income plans to more parts of the state, and to make it easier for customers to find information about the plans. The settlement requires T-Mobile to eliminate the speed limits and expand availability of the plans within 120 days. The alleged legal violation and the settlement are related to T-Mobile's wireless home Internet service, not the company's mobile plans. Governor Kathy Hochul and New York Attorney General Letitia James announced the settlement on Monday, saying that a state investigation found T-Mobile violated the New York Affordable Broadband Act (ABA). Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg" medium="image"/>
 </item>
@@ -444,28 +466,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price</title>
-<link>https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on</link>
-<guid isPermaLink="false">2b73307335ce5d8ba58a7252fdac7a7e68989f0b8a7b7e40bd2f844730a32bb3</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-<description>It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth considering. It has very good sound and just enough extras, even if you use more gadgets than just your PlayStation 5. Inside the Pulse's nondescript ear cup shells are custom planar magnetic drivers, which deliver clean, detailed sound whether you're gaming, listening to music, or both. They aren't bass-heavy or too shrill; their default equalizer is pleasing and pun … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Adobe’s AI experiments let you walk around in photos and interview your characters</title>
-<link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
-<guid isPermaLink="false">1251f00274bede43be17fe09fe5f9e8dd6c6d24fbd9015e18d8a9f61880dae70</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-<description>Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. The first (and weirdest, in my opinion) is Project Screen Test, which is designed to make AI-generated characters easier to develop and use for video content. Instead of just describing how the character should sound and behave in text prompts, the tool lets you talk to the character and direct them in an a … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials</title>
 <link>https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065</link>
 <guid isPermaLink="false">8a10cd2ae4417da883faaa53da213bac3dd35c2f28684b8cf6bd0503655f5df1</guid>
@@ -739,17 +739,6 @@
 <description>Seagate doesn't think hybrid drives are done just yet. On Tuesday, the company announced the launch of the new FireCuda Forge line of storage drives. The new drives combine the high capacity of a traditional plattered HDD with the speed and responsiveness of a user-supplied solid-state drive (SSD). The new hybrid storage solution is Seagate's first to be powered and managed by the new Alkemi intelligent storage platform. The FireCuda Forge is available right now through Seagate's web store , and comes in 8TB ($699) or 20TB ($899) HDD configurations—neither of which includes the required SSD. Users will have to bring their own SSD, with some specific restrictions. The FireCuda Forge is compatible with M.2 2280 NVMe drives that are PCIe Gen3 or higher. The maximum supported NVMe capacity is 1TB, which means that's as much data as you'll be able to dedicate to storage on the "fast side" of the hybrid setup. The NVMe will require minimum speeds of 2,400MB/s read and 2,000MB/s write, and a unit with DRAM cache is recommended. Seagate claims 2,500MB/s read and 2,000MB/s write speeds for the combined system, along with USB4 and support for Windows 11 and macOS 26+. Credit: Seagate Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg" medium="image"/>
-</item>
-<item>
-<title>How SCSKiller is trying to fix shader stuttering in PC games</title>
-<link>https://www.engadget.com/2307815/scskiller-fix-shader-stuttering-pc-games</link>
-<guid isPermaLink="false">67a76955759de8fbd8091f37f5bb1ba15cc770e2aa449695aaf92131659388a2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 23:30:00 +0000</pubDate>
-<description>This free app claims to defeat shader compilation in modern PC titles, but does it deliver? We tested it on games that are notorious for stuttering,</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-scskiller-is-trying-to-fix-shader-stuttering-in-pc-games/l-intro-1793806351.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-scskiller-is-trying-to-fix-shader-stuttering-in-pc-games/l-intro-1793806351.jpg" medium="image"/>
 </item>
 <item>
 <title>Ye olde server consolidation has made Cisco push top-of-rack switching to 100G</title>

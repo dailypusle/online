@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Trump administration moves to drop millions from SNAP food assistance under proposal</title>
+<link>https://abcnews.com/Politics/trump-administration-moves-drop-millions-snap-proposal/story?id=138031618</link>
+<guid isPermaLink="false">bfa435c37d94ebde7cb0f00a18c1711b10ce4aa45ab380f013c6ea4f690e2442</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 18:57:47 +0000</pubDate>
+<description>An analysis by USDA estimates that over 6 million people could lose benefits.</description>
+<enclosure url="https://s.abcnews.com/images/US/snap-1-ap-gmh-251103_1762193146768_hpMain_3_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/snap-1-ap-gmh-251103_1762193146768_hpMain_3_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Teen charged in killing of Javits Frimpong, 15-year-old immigrant shot in the Bronx</title>
+<link>https://abcnews.com/US/teen-arrested-connection-death-javits-frimpong-15-year/story?id=138047522</link>
+<guid isPermaLink="false">d9beb5dec2183a6eeb7eee2914dea555cbea5c1f2a3f7d1a4d5d96e8fd5c9599</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 18:44:12 +0000</pubDate>
+<description>The 15-year-old from Ghana was shot on his way to school last month.</description>
+<enclosure url="https://s.abcnews.com/images/US/javits-frimpong-ht-jef-261111_1794414743940_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/javits-frimpong-ht-jef-261111_1794414743940_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Iran live updates: Hegseth says Trump 'kicked their teeth in'</title>
+<link>https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi?id=137967256</link>
+<guid isPermaLink="false">4727bff5af62f0b71f7e8cf793978204fdaf806a50b1ddbdbe3c74d8434bbb88</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 18:32:48 +0000</pubDate>
+<description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
+<enclosure url="https://s.abcnews.com/images/US/hegseth-6-gty-gmh-261110_1794316865494_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/hegseth-6-gty-gmh-261110_1794316865494_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: President Trump pays tribute to veterans</title>
+<link>https://abcnews.com/video/138051810</link>
+<guid isPermaLink="false">cc2adc4415901fc992f97ae49487e8af576e450ebbe047ccaf49a6ec02f6eec0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 18:04:03 +0000</pubDate>
+<description>President Donald Trump spoke at a Veterans Day ceremony at Arlington National Cemetery honoring fallen soldiers and addressed the war with Iran.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/261111_abcnl_12p_trump_post_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/261111_abcnl_12p_trump_post_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Treasury Secretary Scott Bessent moved to a military base: Sources</title>
 <link>https://abcnews.com/Politics/treasury-secretary-scott-bessent-moved-military-base-sources/story?id=138044885</link>
 <guid isPermaLink="false">9e4fadda300f75effb533fd5c859b96dd5b4ea4f74bbbbe87d9c3c38944734e7</guid>
@@ -46,17 +90,6 @@
 <description>Joe Biden says he didn't know he had cancer while he was president and wouldn't have sought a second term if he'd already been diagnosed</description>
 <enclosure url="https://s.abcnews.com/images/US/wirestory_f0f3e8dc07cee2463e1f8501461dda12_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/wirestory_f0f3e8dc07cee2463e1f8501461dda12_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Teen charged in murder of Javits Frimpong, 15-year-old immigrant shot in the Bronx</title>
-<link>https://abcnews.com/US/teen-arrested-connection-death-javits-frimpong-15-year/story?id=138047522</link>
-<guid isPermaLink="false">d9beb5dec2183a6eeb7eee2914dea555cbea5c1f2a3f7d1a4d5d96e8fd5c9599</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 17:12:12 +0000</pubDate>
-<description>The NYPD is looking for others possibly connected to the shooting.</description>
-<enclosure url="https://s.abcnews.com/images/US/javits-frimpong-ht-jef-261111_1794414743940_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/javits-frimpong-ht-jef-261111_1794414743940_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>The most hacked country in Europe? Why is France the target of so many cyberattacks</title>
@@ -125,6 +158,28 @@
 <media:content url="https://s.france24.com/media/display/09a5a02c-ddf4-11f1-b670-f71d22e7fea9/w:1024/p:16x9/capture-2c78d2b9.jpg" medium="image"/>
 </item>
 <item>
+<title>No 'certainty' man sexually touched wife advertised for sex, court told</title>
+<link>https://news.sky.com/story/no-certainty-man-sexually-touched-wife-advertised-for-sex-court-told-13611161</link>
+<guid isPermaLink="false">fb3a47950fa3db5264970309b624e9c77d38d7cb459bbe0144d410b9d2f1fd61</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 16:26:00 +0000</pubDate>
+<description>A lack of evidence means it is not possible to prove that a defendant is guilty of abusing a woman advertised for sex by her husband, his lawyer has told a court.</description>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-mohammed-hassan-sexual-offences_7388657.jpg?20261027115602" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-mohammed-hassan-sexual-offences_7388657.jpg?20261027115602" medium="image"/>
+</item>
+<item>
+<title>British soldier charged with rape of woman in Cyprus</title>
+<link>https://news.sky.com/story/british-soldier-charged-with-rape-of-woman-in-cyprus-13611160</link>
+<guid isPermaLink="false">bd23f6e428cf6ea6850cb29d55e4e257b7eac0da6d2147cff2dc5e3989aa4777</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 16:16:00 +0000</pubDate>
+<description>A British soldier has been charged with the rape of a woman serving with UK forces in Cyprus.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-akrotiri-raf-cyprus_7404235.jpg?20261111163234" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-akrotiri-raf-cyprus_7404235.jpg?20261111163234" medium="image"/>
+</item>
+<item>
 <title>Brazil electoral court fines Meta $1.3 MN, sees no deliberate election bias</title>
 <link>https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias</link>
 <guid isPermaLink="false">81c14c584e591b09bbe6547f3a21760a1fb2f325fde17524b58611bd06da714a</guid>
@@ -191,15 +246,15 @@
 <media:content url="https://s.france24.com/media/display/e2694a56-dde7-11f1-b92c-3f371022a770/w:1024/p:16x9/2026-11-11T135107Z-1475091229-RC2OLOAL1V8D-RTRMADP-3-SPAIN-STRIKE-MADRID-1.jpg" medium="image"/>
 </item>
 <item>
-<title>Poundland directors to meet tonight to decide future, Sky News told</title>
+<title>Poundland bosses meeting tonight to decide firm's future, Sky News told</title>
 <link>https://news.sky.com/story/poundland-directors-to-meet-tonight-to-decide-companys-future-sky-news-told-13610213</link>
 <guid isPermaLink="false">c5c9ba10efce00df5ad875fa2613f606f11c0fd34d2f2f0a450b56f5206f27d3</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Wed, 11 Nov 2026 15:47:00 +0000</pubDate>
-<description>The directors of Poundland will hold a meeting tonight to decide the company's future, Sky News has been told.</description>
-<enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" medium="image"/>
+<description>The directors of Poundland are holding a board meeting this evening to decide the company's future, Sky News has been told.</description>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" medium="image"/>
 </item>
 <item>
 <title>WATCH: Little girl rescued after sneaker wave pulls her into Pacific</title>
@@ -268,17 +323,6 @@
 <media:content url="https://s.abcnews.com/images/GMA/261111_gma_potd1_749_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump administration moves to drop millions from SNAP under proposal</title>
-<link>https://abcnews.com/Politics/trump-administration-moves-drop-millions-snap-proposal/story?id=138031618</link>
-<guid isPermaLink="false">bfa435c37d94ebde7cb0f00a18c1711b10ce4aa45ab380f013c6ea4f690e2442</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 14:23:10 +0000</pubDate>
-<description>An analysis by USDA estimates that over 6 million people could lose benefits.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/AP26267587244617_1794406668172_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/AP26267587244617_1794406668172_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Following big Democratic wins, these swing voters are looking for results</title>
 <link>https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress</link>
 <guid isPermaLink="false">f9fa81a972dc84539e0f2d2ad9f7b18386d16d2ddbc9a04e78f01018aa52df54</guid>
@@ -288,17 +332,6 @@
 <description>For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress. (Image credit: Tara Anand for NPR)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fcb%2Fbe76a06e4e18b09c5d3ff76cdaf8%2Fswing-shift-midterm.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fcb%2Fbe76a06e4e18b09c5d3ff76cdaf8%2Fswing-shift-midterm.jpg" medium="image"/>
-</item>
-<item>
-<title>British DJ named as one of six people killed in Krakow shooting</title>
-<link>https://news.sky.com/story/british-dj-named-as-one-of-six-people-killed-in-krakow-shooting-13611042</link>
-<guid isPermaLink="false">97813fd0736799b04654d81c8a0ae6336216c297ebe5666741a9611f126e0b65</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 14:07:00 +0000</pubDate>
-<description>A British DJ has been named as one of six people killed in a shooting in Krakow.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-james-thomas-campbell_7403952.jpg?20261111141012" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-james-thomas-campbell_7403952.jpg?20261111141012" medium="image"/>
 </item>
 <item>
 <title>Behind Georges Larnicol's creative spin on Breton specialty kouign-amann</title>
@@ -499,6 +532,17 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-italy-rome-school_7403911.jpg?20261111133007" medium="image"/>
 </item>
 <item>
+<title>Lewandowski ordered to preserve records related to his time at DHS by key Democrat</title>
+<link>https://abcnews.com/Politics/former-dhs-adviser-corey-lewandowski-ordered-preserve-records/story?id=138027976</link>
+<guid isPermaLink="false">16c200e8dac363e9069131abc9e2a341ab26f6220e390e730a4eb927fde01fd0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 10:12:10 +0000</pubDate>
+<description>Former DHS advisor Corey Lewandowski ordered to preserve all records related to his time at DHS by incoming Senate Committee Chair</description>
+<enclosure url="https://s.abcnews.com/images/US/corey-gty-er-261110_1794353035600_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/corey-gty-er-261110_1794353035600_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets</title>
 <link>https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy</link>
 <guid isPermaLink="false">72e18398fe696b791d82a3e280c29fe19e142bd0d792dd9661f25575505838a9</guid>
@@ -587,17 +631,6 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-bear-victims_7397544.jpg?20261105041629" medium="image"/>
 </item>
 <item>
-<title>Democratic lawmakers want answers on 8-year-old Haitian boy taken into ICE custody</title>
-<link>https://abcnews.com/US/democratic-lawmakers-answers-8-year-haitian-boy-ice/story?id=138019026</link>
-<guid isPermaLink="false">f53ea0d81866bd3a6819deee4d979d9c74740fbf686bd2bccd727fb17ba38448</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 00:21:32 +0000</pubDate>
-<description>A group of Democratic lawmakers is seeking information from the Trump administration after an 8-year-old Haitian boy was taken into government custody last week.</description>
-<enclosure url="https://s.abcnews.com/images/International/ice-agent-gty-jt-260204_1771533708132_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/ice-agent-gty-jt-260204_1771533708132_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Jimmy Carter's family farm to be preserved and opened to the public</title>
 <link>https://abcnews.com/Politics/wireStory/jimmy-carters-family-farm-preserved-opened-public-138027036</link>
 <guid isPermaLink="false">636057c9dfdb5c6f67a29ec66ad6ed196fa8479d7f4701977528d6fa431acce5</guid>
@@ -607,17 +640,6 @@
 <description>The family farm where President Jimmy Carter tended peanuts, corn and sugarcane as a boy and returned throughout his life will be preserved and opened to the public</description>
 <enclosure url="https://s.abcnews.com/images/Weird/wirestory_fc9492016ab5fc77765a576839a24c9a_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Weird/wirestory_fc9492016ab5fc77765a576839a24c9a_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>House panel rebukes DOJ's handling of Epstein case</title>
-<link>https://abcnews.com/US/house-oversight-panel-recommends-doj-renew-probe-jeffrey/story?id=138015976</link>
-<guid isPermaLink="false">a2718af1430b747690fbdb27afd34fc9b5c62a2a866edfc2afd7034992181b22</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 10 Nov 2026 19:06:45 +0000</pubDate>
-<description>The House Oversight Committee, in a report summarizing its 15-month Jeffrey Epstein probe, rebuked the Justice Department's handling of the Epstein case.</description>
-<enclosure url="https://s.abcnews.com/images/US/jeffrey-epstien-mugshot-ht-gmh-260827_1787839515799_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/jeffrey-epstien-mugshot-ht-gmh-260827_1787839515799_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Ex-investigator admits depriving war crimes probe of potentially valuable information</title>
@@ -761,17 +783,6 @@
 <description>International Spy Museum's executive director Col. Chris Costa discusses the possible tactics the suspected Chinese spy used in the Nvidia scandal.</description>
 <enclosure url="https://s.abcnews.com/images/US/261109_abcnl_2p_costa_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261109_abcnl_2p_costa_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Disney launches 'Make the Holidays Magic' campaign</title>
-<link>https://abcnews.com/video/137971217</link>
-<guid isPermaLink="false">aa251c376e337bc66db5f1710de79908e207a874c0b394bc37f150595d46e770</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 09 Nov 2026 17:37:07 +0000</pubDate>
-<description>Disney kicks off the holiday season with a new short film called, “A Disney Holiday Short: The Invisible Horse.”</description>
-<enclosure url="https://s.abcnews.com/images/GMA/261109_gma_disney1_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261109_gma_disney1_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>France blames Iran for massive cyber attack on supermarket fridges</title>

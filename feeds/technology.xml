@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Cash App founder's killer gets 16 years to life in prison</title>
+<link>https://www.engadget.com/2313991/cash-app-founders-killer-gets-16-years-to-life-in-prison</link>
+<guid isPermaLink="false">d1b1bbe76bbd5dd8442ab235a62ce5c7f7c4a4c8f37ada2bd22aec0d66e64b0a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 18:57:37 +0000</pubDate>
+<description>Bob Lee died from multiple stab wounds in 2023.</description>
+<enclosure url="https://www.engadget.com/img/gallery/cash-app-founders-killer-gets-16-years-to-life-in-prison/l-intro-1794423509.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/cash-app-founders-killer-gets-16-years-to-life-in-prison/l-intro-1794423509.jpg" medium="image"/>
+</item>
+<item>
+<title>Peacock is redesigning its mobile app to focus more on vertical videos</title>
+<link>https://www.engadget.com/2313912/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos</link>
+<guid isPermaLink="false">3d05aecba2f5d302cc68146da181db19365785c5c32cfb9da39eb7a6645b04ed</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 18:24:40 +0000</pubDate>
+<description>This is an attempt to "win another hour per user, per month."</description>
+<enclosure url="https://www.engadget.com/img/gallery/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/l-intro-1794421435.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/l-intro-1794421435.jpg" medium="image"/>
+</item>
+<item>
+<title>Loot boxes, influencers, and addictive features face an EU crackdown</title>
+<link>https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection</link>
+<guid isPermaLink="false">92bde755004877b47691e28ced9a27ee77cba98496fc28ca49295165d46de57a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 18:13:52 +0000</pubDate>
+<description>Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make "your online experience fairer." The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, including misleading prices or availability, addictive design features like gaming loot boxes, undisclosed influencer marketing, and more. "The Act will protect consumers of all ages shopping and browsing for goods or services online," the EU Commission said in a news bulletin . "It will also mean … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Oura Ring users may get in-app access to real doctors soon – what we know</title>
 <link>https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know</link>
 <guid isPermaLink="false">fb705544c2c86c4cd1b43b0420f0d79f7563e0c4f4847049ac8eed6eedc967ce</guid>
@@ -310,17 +343,6 @@
 <description>A 2013 breach of Russian-language cybercrime forum YouHack exposed its members' login details – and millions of credentials they had posted about other victims, according to newly cataloged data. Have I Been Pwned (HIBP) added the breach on Wednesday, recording 7.2 million unique email addresses. Around 107,000 belonged to forum members, whose exposed data included usernames, IP addresses, and mostly unsalted MD5 password hashes. Unsalted MD5 is a poor choice for protecting passwords. It's fast to compute, allowing attackers to test guesses at speed, and identical passwords produce identical hashes. Hardly good hygiene for a hacking forum. You might expect members of a cybercrime forum to know better than to reuse passwords or register with an email address tied to their real identity. Expectations and reality are not always on speaking terms, as AlphaBay founder Alexandre Cazes demonstrated. YouHack, a longtime cybercrime forum, moved to a different domain after the 2013 breach and remains active, giving cybercrims a place to trade stolen credentials and financial data. The data collated from that digital burglary was eventually bundled into 2024's so-called Mother of all Breaches – a 12TB, 26 billion-record mega-dump of files taken from myriad data security lapses. Millions more HIBP separately published its findings concerning another Russian data breach today. It said the 2023 breach of Russian bank Sberbank's loyalty program (SberSpasibo) contained records belonging to 48 million users. The dataset included 3.3 million unique email addresses, alongside phone numbers and dates of birth. Bank card numbers were stored as unsalted SHA-1 hashes, which could let attackers test possible numbers against the leaked hashes for a match. Reporting on the SberSpasibo breach at the time suggested the records were dated between April 2017 and February 2022, and the attack was claimed by the pro-Ukraine hacktivist outfit NLB. NLB also claimed responsibility for an attack on Sberbank's internal systems at the same time, and later took partial credit for an attack on Alfa-Bank , Russia's largest private bank. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=252194&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=252194&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>I asked every TV manufacturer 17 questions about how they spy on you</title>
-<link>https://www.theverge.com/tech/1012372/tv-privacy-acr-questions</link>
-<guid isPermaLink="false">53cf43c23ca1eb5e1c4b84c82ac7cfa54d06953bb3dee5cb7d097865eb366e99</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
-<description>Every TV company is spying on you , not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be spying: listening to what you say, taking screenshots of everything you watch, storing sensitive information on your TV, and sharing your data with the cloud. To find out what TV and streaming device companies are doing, I decided to ask every one to explain itself. I put together 17 yes-or-no questions, like " Do your TVs store any record … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X</title>
@@ -783,28 +805,6 @@
 <description>Google has announced a " super network " upgrade for its Fi cell service. For the past few years, Google Fi has operated exclusively on the T-Mobile network, but now it's adding support for a second 5G network. Oddly, Google refuses to say which one. Google's MVNO (mobile virtual network operator) launched in 2015 as Project Fi with support for both T-Mobile and Sprint service. The service initially only worked on Google's Nexus phones, which would switch between networks based on signal strength. After T-Mobile absorbed Sprint, Fi switched to being a single-network service in the US while continuing to hop between networks for international travel. With the super network, Google Fi is again a dual-carrier service stateside. Phones connected to Fi will be able to hop between T-Mobile 5G and a different 5G network to provide the best possible connectivity. Google's blog post announcing the change conspicuously doesn't mention either network, saying only that it supports "two of America’s best 5G cellular networks." Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Google-Fi-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Google-Fi-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>The best-selling game console of all time is over 25 years old</title>
-<link>https://www.engadget.com/2307802/the-best-selling-game-console-of-all-time-is-over-25-years-old</link>
-<guid isPermaLink="false">e117306b8e384d554ee6851993ba949380524022249acdae755274084fa36bad</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:30:00 +0000</pubDate>
-<description>Sony shipped over 160 million PlayStation 2 units over its 13-year run.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-best-selling-game-console-of-all-time-is-over-25-years-old/l-intro-1793731008.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-best-selling-game-console-of-all-time-is-over-25-years-old/l-intro-1793731008.jpg" medium="image"/>
-</item>
-<item>
-<title>New York will independently test AI models</title>
-<link>https://www.engadget.com/2312487/new-york-will-independently-test-ai-models</link>
-<guid isPermaLink="false">f0efa7acffc5bcaa90dad10640c4727fa96498751183589f6211a5cac78d25dc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:19:20 +0000</pubDate>
-<description>The state's research center will check AI companies' work instead of taking their word.</description>
-<enclosure url="https://www.engadget.com/img/gallery/new-york-will-independently-test-ai-models/l-intro-1794338220.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/new-york-will-independently-test-ai-models/l-intro-1794338220.jpg" medium="image"/>
 </item>
 <item>
 <title>Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop</title>

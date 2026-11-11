@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>CEO Jensen Huang's job is suddenly on the line at Nvidia</title>
+<link>https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia</link>
+<guid isPermaLink="false">57364581a5052ad006a2bc2979636e995e785890dd3671be7913c30607d7e524</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 23:10:17 +0000</pubDate>
+<description>Nvidia’s board is set to hold urgent talks about the future of its founder Jensen Huang after revelations that he had an affair with a top executive at the company, according to people familiar with the matter. The meeting on Wednesday comes amid a deepening scandal at the $4.2 trillion group, after Donald Trump said the FBI was investigating allegations that Huang was romantically involved with an alleged Chinese spy. The Nvidia chief executive had a romantic relationship with Kimberly Powell, the chipmaker’s vice-president of healthcare, according to two people familiar with the matter. Powell, a more than 18-year veteran at Nvidia, is among the company’s more prominent public figures. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" medium="image"/>
+</item>
+<item>
 <title>New York is forcing T-Mobile to stop putting data caps on low-income home internet plans</title>
 <link>https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans</link>
 <guid isPermaLink="false">c0be713c66472f0b10e715cc25c9255d7c22fd51a3314712aec0eef681f346ac</guid>
@@ -21,7 +32,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
-<description>The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge Nabu Casa - the commercial side of the Open Home Foundation , which runs Home Assistant - just launched the Home Assistant Connect Aux-2 , a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly . And it's working. I've been testing the Aux-2 for a couple days and I've found it unsurprisingly useful and surprisingly easy to set up. The Aux-2 is a $69 box about the size of a deck of cards. It has 2.4GHz Wi-Fi, Bluetooth, Ethernet, USB-A, USB-C, a digital/analog audio jack, a Grove port for interfacing with peripherals like sensors, buttons, and … Read the full story at The Verge.</description>
+<description>The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge Nabu Casa - the commercial side of the Open Home Foundation , which runs Home Assistant - just launched the Home Assistant Connect Aux-2 , a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly . And it's working. I've been testing the Aux-2 for a couple days and I've found it unsurprisingly useful and surprisingly easy to set up. The Aux-2 is a $69 box about the size of a deck of cards. It has 2.4GHz Wi-Fi, Bluetooth, Ethernet, USB-A, USB-C, a digital/analog audio jack, a Grove port for interfacing with peripherals like sensors, bu … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -774,9 +785,9 @@
 <media:content url="https://image.theregister.com/?imageId=256634&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far</title>
-<link>https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946</link>
-<guid isPermaLink="false">cc35f0764c7eeee39117e4767ea3d88469519c3358d85be76456eb9ee443cf92</guid>
+<title>November Patch Tuesday boasts over 1,000 bugs, one already under attack</title>
+<link>https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-one-already-under-attack/5308946</link>
+<guid isPermaLink="false">0294f744fc7b189ed0ff34c8d8cb2f0ee88dbc7c96ed34c6a4b5fe231b00757c</guid>
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 22:37:01 +0000</pubDate>
@@ -948,17 +959,6 @@
 <description>Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources say A substantial expansion of the social media ban for under-16s could inadvertently lead to a ban on YouTube Kids and other sites that had been thought exempt, sources briefed on the government’s proposals have said. One source close to the talks said the regulations now under consideration meant up to 150 platforms, including games platforms such as Lego Play, could be covered by the ban, which is set to come into force in March. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/3485bd630744777adf8bb553b08a61e0182f1eda/485_101_2808_2247/master/2808.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d9f6bf27d086f4183d1aa4b8659a7df" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/3485bd630744777adf8bb553b08a61e0182f1eda/485_101_2808_2247/master/2808.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d9f6bf27d086f4183d1aa4b8659a7df" medium="image"/>
-</item>
-<item>
-<title>Steam Deck performance gets a reality check with Valve's new FPS data</title>
-<link>https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data</link>
-<guid isPermaLink="false">cb4a4c3d3113105c77d02723f9da973e4aa1e326979c55cb6ffdcfb38f6a6c09</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:26:44 +0000</pubDate>
-<description>Since Valve announced its Steam Deck Verified program in 2021 , players have found that a game's "Verified" status doesn't always match how well it actually runs on the handheld. Now, new Steam Deck frame rate data being shared by Valve itself can help players dig deeper into the performance they can expect from many Steam Deck games. Valve has been collecting anonymized frame rate data from Steam players who opt in since February . Yesterday evening, the company announced it has started sharing that data on many Steam Store pages as averages and histograms for both the Steam Deck and Steam Deck OLED. Valve acknowledges that players enabling VSync or frame rate limits can bias the collected data somewhat and that the measurements don't account for custom in-game settings that Steam Deck users may tinker with to get a game running. Regardless, Valve says it has nonetheless "found that the framerate data consolidates around relatively narrow ranges." Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg" medium="image"/>
 </item>
 <item>
 <title>AMD winds up Zen 6 cores for faster clock speeds</title>

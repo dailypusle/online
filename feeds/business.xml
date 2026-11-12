@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>MSCI confirms Strategy’s removal from indexes at end of November</title>
+<link>https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november</link>
+<guid isPermaLink="false">4eb9ce5be421c197545bb67722f3eb5cdaab63c1824396f2b2ab4df33b66cfdb</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 00:09:13 +0000</pubDate>
+<description>Strategy, Metaplanet and Upexi are marked for deletion in MSCI’s final list, with changes taking effect after the Nov. 30 close.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg" medium="image"/>
+</item>
+<item>
 <title>MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30</title>
 <link>https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index</link>
 <guid isPermaLink="false">c91aec6665ecf187d0afd98267df803ef061b25c4fcb2685f0ba491ac8f5e3ed</guid>
@@ -32,7 +43,7 @@
 <source>Cointelegraph</source>
 <category>business</category>
 <pubDate>Wed, 11 Nov 2026 22:44:47 +0000</pubDate>
-<description>Nvidia’s board could meet as soon as today to decide Jensen Huang’s future, WSJ reports.</description>
+<description>The report about Huang’s possible departure came after the New York Times reported that he had a second extramarital affair.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76CF387681Y1K94VQ7BS0CN/nvidia.jpg" medium="image"/>
 </item>
@@ -761,17 +772,6 @@
 <description>Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M737F90C6VC7KHFB6CAJGABZ/hi-bank-of-international-settlements-and-crypto.png" type="image/png"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M737F90C6VC7KHFB6CAJGABZ/hi-bank-of-international-settlements-and-crypto.png" medium="image"/>
-</item>
-<item>
-<title>Across Protocol warns users to avoid app amid reports of drained wallets</title>
-<link>https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets</link>
-<guid isPermaLink="false">434c16f2d3fcb40763c2bbfb6647fbdb571d86d8dcfe797337f6034fdc723611</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 21:24:36 +0000</pubDate>
-<description>The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73K15YFN3A2NRTYKWZDD5KZ/hi-company-hits-vulnerability-1.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73K15YFN3A2NRTYKWZDD5KZ/hi-company-hits-vulnerability-1.png" medium="image"/>
 </item>
 <item>
 <title>Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena</title>

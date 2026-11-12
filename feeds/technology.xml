@@ -1346,6 +1346,17 @@
 <media:content url="https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c43d891d33ec85172cf8efa28232145" medium="image"/>
 </item>
 <item>
+<title>The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security</title>
+<link>https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security</link>
+<guid isPermaLink="false">ecb334382b3d5b66bd57a180822df7650e66ede387f5607ab0559d7d4af5d2b4</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 20:01:05 +0000</pubDate>
+<description>Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is under intense scrutiny A hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei venue last year does not seem particularly remarkable at first glance. But the Nvidia chief executive’s revelation on Sunday that he had an affair with Ms Huang has given it new significance. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b54d147c7ce2afb86e53877e38bfb348" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b54d147c7ce2afb86e53877e38bfb348" medium="image"/>
+</item>
+<item>
 <title>Attackers backdoor trusted AWS integrations to steal secrets</title>
 <link>https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553</link>
 <guid isPermaLink="false">4c2a67455f0d60b1795a5e01db20aea4d9a24d93491dfd4e9874374812bb80f1</guid>
@@ -1509,17 +1520,6 @@
 <description>The AI bubble isn't about to burst, Forrester reckons, although businesses should prepare for a correction that could upend their suppliers, contracts, and prices. Spending on infrastructure has raced ahead of measurable returns, the analyst says, yet the financial strength of the companies funding the build-out is what keep Forrester from predicting an imminent crash. "Fears that an AI bubble is about to burst are premature," said Forrester emerging technology veep Brian Hopkins. "About nine-tenths of the money building today's AI computing infrastructure comes from large, healthy technology companies paying out of their own cash flow. The risk is concentrated in a few places: a small number of builders under real financial strain, and circular financing deals with the AI labs." Conveniently, Forrester has developed an AI Bubble Model to help technology leaders monitor the risks and prepare. Its latest report, " An AI Bubble Burst Is Not Imminent ," notes what many in the IT industry, including The Register , have been saying for a while: that the hyperscale operators are committing a record share of revenue into capital expenditure to bring online more infrastructure to support AI development and use. At the same time, the boost in productivity doesn't justify this supplier capacity build-out. Forrester calculates that the infrastructure investments break even only if AI raises US GDP by 5 percent by 2035. Published estimates suggest productivity improvements could provide about two percentage points of that uplift, leaving roughly $1.3 trillion to come from other sources of value. A recent report from management consultants Bain &amp; Company came to similar conclusions, estimating the AI industry needs to generate $6 trillion in annual revenue by 2031 to keep funding all the infrastructure it needs, and this will require new uses beyond simply enhancing employee productivity. Forrester also claims that the forces making AI abundant also make parts of the market unstable, and says that enterprise users should take heed of how prices collapsed as major providers like Anthropic slashed token costs in response to competition from open source models. If demand disappoints as new capacity comes online, suppliers could cut investment, merge, change prices, or discontinue products. Customers could find themselves rebuilding AI plans around suppliers and services that no longer exist. Forrester advises businesses to track whether their AI projects deliver measurable value and limit their exposure to vulnerable suppliers – with its help, of course. Companies can judge how things are going by looking at the gap between suppliers' contracted business and revenue actually recognized, along with how they fund their build-outs. If a vendor leans more on outside investment and customer prepayments, as Oracle and CoreWeave have, this is a red flag to cut back dependencies on them, Forrester says. Enterprises should also stress-test AI plans against scenarios such</description>
 <enclosure url="https://image.theregister.com/?imageId=5220460&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5220460&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’</title>
-<link>https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai</link>
-<guid isPermaLink="false">c1b3a32ffab2200b4b7d11532a8153f83f7dfaec5b822f7cb7e406674afe5eaa</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 14:00:11 +0000</pubDate>
-<description>Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and administrators to restrict their use. The company said schools should have control over whether students use AI in the classroom, but that schools that choose to block Google’s AI tools will also lose access to its search engine. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c27aaad8c7131492c6fdf41e1e56736f" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c27aaad8c7131492c6fdf41e1e56736f" medium="image"/>
 </item>
 <item>
 <title>Crime pays: how Grand Theft Auto became a cultural colossus</title>

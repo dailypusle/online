@@ -4,6 +4,237 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Nvidia CEO Jensen Huang has resigned. What happens next?</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
+<guid isPermaLink="false">38ea5b66d259522356b1fd73eab5aead985ba155990b27facb1d91bc6d476ec6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 15:01:31 +0000</pubDate>
+<description>After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that night ended with Huang’s resignation , and Nvidia CFO Colette Kress was installed as the new interim CEO. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. The second report focused on Huang and Nvidia vice president of healthcare Kimberly Powell, claiming that a bystander who recorded the two being “affectionate” at the hotel hosting Nvidia’s GTC developer conference in May was met by Huang’s security workers and asked to sign a non-disclosure agreement. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. Even Jensen Huang’s jackets aren’t safe from adulteration. AOC chimes in on the Nvidia CEO scandal. If Jensen Huang is done at Nvidia, who will be the next CEO? Johny Srouji? Nvidia is reportedly preparing to fire Jensen Huang When I asked who else Jensen Huang was fucking, I did not expect to get answers so quickly. Jensen Huang’s affair reportedly has Taiwan and US cabinet officials rattled. Nvidia hires the same law firm that investigated the Clippers to look into Jensen Huang’s spy. The US is winning the AI race. Jensen Huang could have blown it What could China get from Jensen Huang? Here’s what Trump said he knew about Jensen Huang The future of AI hinges on… Jensen Huang’s sex life? Here’s the full text of Jensen Huang’s memo to Nvidia Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era</title>
+<link>https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401</link>
+<guid isPermaLink="false">32286257af419a7fae3d24c31599dfa16d336a3e5185ee3ed50b2fd58206d4e6</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:55:00 +0000</pubDate>
+<description>Microsoft has warned customers still clinging to Exchange Server 2016 and 2019 to consider the software "permanently vulnerable" as November's security fixes arrive for Subscription Edition (SE) alone. The warning appears in the release documentation for November's Exchange Server SE security update. Looking for Exchange 2016 and 2019 information? Tough. Microsoft stated: "Exchange Server 2016 and 2019 are no longer tested for vulnerabilities and there are no updates released. If you are using those versions of Exchange, you should consider them permanently vulnerable [Microsoft's emphasis] and should upgrade your organization immediately." You have been warned. Support for Exchange Server 2016 and 2019 ended on October 14, 2025, but the company announced an Extended Security Updates (ESU) program in July 2025. The plan was that this program would end on April 14, 2026, by which time customers would surely have made the jump to a later or online version, right? The company said: "This period will not be extended past April 2026 (you do not need to ask)." And... of course it was. As April 2026 rolled around, and it became clear that some customers were still stubbornly sticking with the old versions, Microsoft did the equivalent of heaving an exasperated sigh and offered another six months of paid security updates. Those final weeks also brought a separate treat: a Windows Server update breaking Exchange Server . This time it was serious. Microsoft released the final Exchange Server 2016 and 2019 security updates on October 13. No more patches, no more vulnerability testing, and apparently no more reprieves. According to Microsoft's Security Update Guide , the November update fixed nine vulnerabilities in Exchange Server SE, including a critical remote code execution flaw, CVE-2026-118207. Microsoft isn't testing earlier versions of Exchange for the vulnerabilities. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=246612&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=246612&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395</title>
+<link>https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395</link>
+<guid isPermaLink="false">e730f1fd52f7736c70d170a7ee213913b4e98ded4ffeb0ca445e838de2316d11</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:50:17 +0000</pubDate>
+<description>Smartglasses have always faced an uphill road to acceptance. Not only is propping a computer up on your nose an uncomfortable proposition, but the privacy aspect has been vexing people since the Google Glass days . Now, Google is ready to take another swing at " intelligent eyewear " for the Gemini era after previewing its plans a couple of times. The first glasses are up for preorder today from Gentle Monster and Warby Parker, but they're no impulse buy. These devices are a collaboration between Google, Samsung, and the aforementioned eyewear designers. Gentle Monster and Warby Parker have each designed a few different frames, with options for transparent and tinted lenses. Samsung is providing the computing hardware that fits inside them, and Google has the software covered. Warby Parker has designed three frames for Google eyewear, called Alden, Reid, and Wren (see above). They are available with both standard optical and sun lenses in Pine, Saddle, and Jet Black colors at $395 and higher. Warby Parker is only selling devices in the US. Gentle Monster has gone a bit further with six styles, but Google hasn't told us any names for those yet. They come in dark red, pink, gray, and yellow colors and are available with clear, tinted, blue, or brown lenses. The Gentle Monster styles start a little higher at $449, and they will be available in the US and South Korea. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang resigns as Nvidia chief executive</title>
+<link>https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411</link>
+<guid isPermaLink="false">e7bd45c0c14f39f03c097918f6fcc2b443e30b60222cc308e4b0a67f45fcb5a3</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:21:35 +0000</pubDate>
+<description>Nvidia's Jensen Huang has resigned as CEO of the company, following the revelation of his affair with a woman suspected of being a Chinese spy and reports of a relationhip another woman who was a company employee. In a Form 8-K [PDF] filed with the US Securities and Exchange Commission (SEC), the GPU maker disclosed that it accepted the resignation of Huang, whom it identified as Jen-Hsun Huang, on November 11, effective immediately. He is being replaced by chief financial officer Colette Kress, who will serve as interim leader while the board conducts a search for a new CEO. Huang, who founded Nvidia in 1993 and served as president, CEO, and a member of the board of directors ever since, led the GPU maker to become one of the most valuable companies in the world, hitting a hit peak of over $5.5 trillion earlier this year. His position became untenable following an investigation by the company's board after he admitted to an affair, amid allegations he had a romantic relationship with a woman the US authorities suspected as a Chinese spy. Reports later surfaced this week of a second alleged affair with an employee of the company itself, reported by the New York Times as being with Kimberly Powell, Nvidia's vice president of health care. This is a developing story which will be expanded as more detail emerges. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5309407&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309407&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’</title>
+<link>https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity</link>
+<guid isPermaLink="false">cf25b96ec5dedcb1991a2474ab92330f9983df6b23f58610f3b3856f39b23931</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:13:58 +0000</pubDate>
+<description>Bricklink, a popular online marketplace that Lego bought in 2019 where fans can buy and sell parts and sets, has been down for a week and the company doesn't know when it will return. The team who runs the site has been sharing updates over the past week including estimates of when it will be back up. It was last expected to return on November 11th, according to Jay's Brick Blog , but a statement Lego shared to the site yesterday says there's currently no estimate of when BrickLink will be back online. Lego hasn't explained exactly what happened with the marketplace, but says it "took BrickLink offline after identifying unusual activity on t … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bricklink1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bricklink1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>I reviewed the Apple HomeView, ask me anything</title>
+<link>https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything</link>
+<guid isPermaLink="false">412fd95eff74cad8ca5cd9cebb9caafc275750de73c5fca2b7c3c6a158e2809d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:10:00 +0000</pubDate>
+<description>Getting up close and personal with the Apple HomeView. | Photo: Hunter McRae for The Verge Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on my coffee table. I also mounted one as a smart home control panel in my entryway. I cooked with it, ran my smart home from it, took calls on it, and tested its new Siri AI capabilities. I also let my family loose on it, and my tech-averse husband was a big fan. My teenage daughter, less so. (Ask me why). View t … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE102.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE102.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Nvidia CEO Jensen Huang has resigned</title>
+<link>https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia</link>
+<guid isPermaLink="false">57364581a5052ad006a2bc2979636e995e785890dd3671be7913c30607d7e524</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:05:17 +0000</pubDate>
+<description>Nvidia chief executive Jensen Huang has resigned following revelations that he had two extramarital affairs, plunging the chipmaker at the heart of the global AI boom into crisis. The 63-year-old will be replaced by chief financial officer Colette Kress, who will serve as interim chief executive. His exit comes after he admitted to having a relationship with a woman that US authorities believe was a Chinese spy. It also emerged on Wednesday that Huang had an affair with a senior Nvidia executive. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang resigns as Nvidia CEO after alleged affairs</title>
+<link>https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns</link>
+<guid isPermaLink="false">88fe4d5c03655566937b4cda34ae230782ee1f14c123c3501efffda1f44512cb</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:04:50 +0000</pubDate>
+<description>Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee Business live – latest updates Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and a company employee. He will be replaced on an interim basis by Nvidia’s chief financial officer, Colette Kress, until a full-time successor is named. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang is out as NVIDIA CEO</title>
+<link>https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo</link>
+<guid isPermaLink="false">6b3e487dca76a1e4cff05a556944ac809c15f38fb655e164a27060178d71e494</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:04:30 +0000</pubDate>
+<description>He has held the position since the company's founding.</description>
+<enclosure url="https://www.engadget.com/img/gallery/jensen-huang-is-out-as-nvidia-ceo/l-intro-1794493123.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/jensen-huang-is-out-as-nvidia-ceo/l-intro-1794493123.jpg" medium="image"/>
+</item>
+<item>
+<title>‘To them, we’re just NPCs’: the artists and activists challenging Trump’s video game propaganda</title>
+<link>https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda</link>
+<guid isPermaLink="false">2f633754de41022021d90c397438a8f4c567e1c57bf5e141cbe8f56cdeaaae25</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:00:43 +0000</pubDate>
+<description>Order a Diet Coke or invade Iran – that’s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White House In early September, the Trump White House announced a surprising new addition to its official website. Named simply Arcade , it is a collection of browser games based on classic titles such as Flappy Bird, Snake, and Tetris, but re-tuned as flagrant works of political propaganda. Designed to court reactionary gamers, they push the administration’s policies on immigration and other hot-button issues, while dehumanising their targets. There have recently been some new additions: a Temple Run clone named Red Scare about crossing the “ration market” and escaping the Democratic Socialists of America, and another simple item-matching game about the threat of socialism. In the midst of increasing fuel, utility and grocery prices thanks to the Iran war, these were naked attempts to distract voters by appealing to their video game nostalgia. After an explosion of news coverage, Arcade caught the attention of the games industry. The Tetris Company warned on social media that it “took copyright infringement very seriously.” Days later, the game was removed from the White House site. However, aside from a March 2026 statement from the Pokémon Company condemning the White House for using its characters in Immigration and Customs Enforcement (ICE) propaganda, major video game companies have been relatively silent in the face of the administration’s widespread usage of their IP. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/b09085c7a1adecb3cce5e7177390560ee5b0951f/481_329_1024_819/master/1024.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c731d0db624342e5fb302f2eb912439b" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b09085c7a1adecb3cce5e7177390560ee5b0951f/481_329_1024_819/master/1024.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c731d0db624342e5fb302f2eb912439b" medium="image"/>
+</item>
+<item>
+<title>Hundreds of streaming services and nothing to watch</title>
+<link>https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch</link>
+<guid isPermaLink="false">749283487f691b6a0f7af4380772c35ad415bbfa1232f8a2b1620a9a3192bbf7</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:00:19 +0000</pubDate>
+<description>“Fifty-seven channels, and nothin’ on.” Bruce Springsteen famously said those words during a concert and later in a song in the 1990s about the number of TV channels seemingly growing disproportionately to the availability of enjoyable content. Within a few years, there would be hundreds of TV channels and still, some would argue in hyperbolic frustration, “ nothing to watch.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>The pricey new Apple TV 4K is still the best streamer around</title>
+<link>https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review</link>
+<guid isPermaLink="false">67bbb8643d0ee09a0ae4dc97c19b14ff1a35142b35cbc16b1469af3f10597ecb</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+<description>I'm sitting in front of my TV, puppy nuzzled up next to me, with four HomePods spread around my living room - two flanking my TV and one at either end of my couch - connected to the brand new Apple TV 4K. Young Anakin Skywalker hits the throttle and flies through the room. There hasn't been an Apple surround sound system until now, and since it was announced, I was excited to try it out. And let me tell you, watching a pod race with an all-Apple audio setup is a whole lot of fun. Surround sound across four HomePods is one of the flagship features of the fourth-gen Apple TV 4K, which is out tomorrow for $300. It's an expensive streaming box … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE30.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE30.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>I tried Google’s AI glasses and Meta’s finally got real competition</title>
+<link>https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on</link>
+<guid isPermaLink="false">260390733a01153c6964d62d559d09c1ac9820bf79045afcaeb53005027806cc</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+<description>It's a weird time to launch a new pair of smart glasses. These last few years, Meta has been the dominant player in pushing a fragile smart glasses resurgence. Unfortunately, its privacy reputation led to the "pervert glasses" moniker. Smart glasses have never been more unpopular. But in the past week, I've been demoing some new smart glasses from Samsung, Warby Parker, and Gentle Monster. Some are retro chic frames. Others have the same Y2K vibe as the Matrix films. All were made by Samsung and have Google's Gemini built in via Android XR, Google's platform for smart glasses and mixed-reality headsets. The AI demos are better than I expe … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/androidxr8.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/androidxr8.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple’s HomeView is my new favorite smart display — but not my daughter’s</title>
+<link>https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit</link>
+<guid isPermaLink="false">ab577112399d3b3f0bd7ef6dd229dec4a485cc574d37d0dafd8060fd3bc7d395</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+<description>Apple’s first smart display is finally here. And it’s good.﻿ | Photo: Hunter McRae for The Verge The HomeView nails everything I want from a smart display. It's superb at controlling my smart home; it's an excellent hands-free kitchen companion, a good speaker, and a gorgeous digital photo frame. It's also the first Apple smart speaker with Siri AI, which is an improvement, if still slow at times. But Apple has fallen into the trap that hampers other smart displays I've tested: not content with doing its core functions well, it tries to do more, and that's where the friction creeps in. . HomeView is both a smart display everyone in your home can use and an extension of your iPhone The special Apple sauce here is that HomeView is both … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE74.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE74.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google really needs you to know it cares about smart glasses privacy</title>
+<link>https://www.engadget.com/2314414/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy</link>
+<guid isPermaLink="false">659d087a5bc57416f65edd00b0b75227467a23ff1b577780839fca7b838b4afc</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+<description>Yes, it's a bit attention-seeking, but some of these policies are genuinely good.</description>
+<enclosure url="https://www.engadget.com/img/gallery/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy/l-intro-1794448673.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy/l-intro-1794448673.jpg" medium="image"/>
+</item>
+<item>
+<title>The first batch of Android XR smartglasses made me rethink my stance on specs without displays</title>
+<link>https://www.engadget.com/2314258/android-xr-smartglasses-hands-on</link>
+<guid isPermaLink="false">b4ae5a1b3c7ddde1981fa351a2347296be8502f2b5c01780de3181b8673b89f5</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+<description>Google's first run of intelligent eyewear has a lot to offer.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794430561.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794430561.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple HomeView review: A versatile smart display and Siri-powered home hub</title>
+<link>https://www.engadget.com/2313999/apple-homeview-review</link>
+<guid isPermaLink="false">b2f8fb0d7f9b5bb4ad34f2104df65de9121e5a335ce934527b64b43be25b57bf</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+<description>With its first smart display, Apple provides a lot of convenience for a variety of tasks in your home.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apple-homeview-review-a-versatile-smart-display-and-siri-powered-home-hub/l-intro-1794423451.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-homeview-review-a-versatile-smart-display-and-siri-powered-home-hub/l-intro-1794423451.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple TV 4K (4th gen) review: Still great, but drastically more expensive</title>
+<link>https://www.engadget.com/2314410/apple-tv-4k-4th-gen-review</link>
+<guid isPermaLink="false">2d3ff580fb498437852f48f173fd6045187fb5279bdaa32dadf638001d927634</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
+<description>The Apple TV 4K remains the best premium streaming box you can buy, but the higher price makes it harder to recommend.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apple-tv-4k-4th-gen-review-still-great-but-drastically-more-expensive/l-intro-1794447707.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-tv-4k-4th-gen-review-still-great-but-drastically-more-expensive/l-intro-1794447707.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia CEO Jensen Huang resigns amid spy, affair scandals</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns</link>
+<guid isPermaLink="false">40490d91d164baaf14f4504339cbd37865a1d3bee4f87cb9dd5b7e442971e4c3</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 13:53:16 +0000</pubDate>
+<description>Jensen Huang at GTC Berlin last month. | Photo: Soeren Stache / picture alliance via Getty Images Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang's letter of resignation as CEO, president, and board member, effective immediately, with current CFO Colette Kress appointed interim CEO. Kress has been with Nvidia since 2013, with previous stops at Cisco and Microsoft. Nvidia is also changing its corporate structure in Huang's absence, appointing former Synopsys CEO Harvey C. Jones as the fir … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Quantum leap: IBM plans to scale beyond 1,000 qubits in 2027 with Nighthawk r3 processor</title>
+<link>https://www.theregister.com/systems/2026/11/12/quantum-leap-ibm-plans-to-scale-beyond-1000-qubits-in-2027-with-nighthawk-r3-processor/5309357</link>
+<guid isPermaLink="false">a9c4b5995c30087e50daba8e2a9688635e0a5e92d22cc187eea693d425c0b36e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 13:37:02 +0000</pubDate>
+<description>IBM has unveiled the Nighthawk r3, an upcoming next-gen quantum processor that will feature 520 qubits, as another step towards a planned fault-tolerant quantum system it hopes to launch in 2029. Big Blue's current Nighthawk r2 was only made available in September and features 120 quantum bits (qubits) capable of handling circuits using 7,500 operations. Its successor, IBM claims, will have more than four times as many qubits and execute 10,000 quantum operations to tackle larger, more complex problems while maintaining the same speed and accuracy. Nighthawk r3 is slated to arrive in 2027, when Big Blue plans to link two of the quantum processors into a single system with more than 1,000 qubits. IBM said applications increasingly require circuits executing thousands of quantum operations on approximately 100 qubits or more, speeding up collection of the millions or billions of samples needed to perform complex computations. Speed determines whether such demanding workloads can be completed in practical timeframes and at a reasonable cost. The new quantum processor will feature 10 chip-to-chip interconnects, called l-couplers, designed for linking together processors that it will use to enable a single 1,040-qubit system. This tech was tested using Nighthawk r1 processors . IBM previously outlined its goal of reaching reliable error correcting territory in 2029 with a quantum processor codenamed Starling. Now it intends for this to be the world’s first fault-tolerant quantum computer , capable of running quantum circuits comprising 100 million quantum operations on 200 logical qubits. This is an ambitious goal, considering fault-tolerant quantum technology always seems to be at least a decade away, despite numerous breakthroughs and technology introductions. However, some in the technology industry believe the odds on a working system are shortening , given the increased activity around making encryption ready with support for quantum-resistant algorithms. Then again, a professor at the University of Auckland New Zealand famously claimed last year that quantum computers hadn't so far managed to factor any number greater than 21 without cheating. IBM presented a framework for Starling in a 2025 paper outlining hardware to implement the improbably named bivariate bicycle quantum low-density parity check (qLDPC) error correction codes. These significantly reduce the number of physical qubits needed to store and process quantum information, compared to existing surface codes. Using the architecture in the paper, Big Blue intends to assemble Starling from modules that each contain a quantum memory and logical processing unit (LPU), allowing logic operations on the memory. The modules will have universal adapters letting them connect using l-couplers. IBM is also preparing the way ahead by combining its quantum processors with classical high-performance compute (HPC) systems to research better quantum error correction. Last week, Oak Ridge National Labo</description>
+<enclosure url="https://image.theregister.com/?imageId=5309366&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309366&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story</title>
+<link>https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story</link>
+<guid isPermaLink="false">758208eaa2780f8645d307ac363fbc90c43152ba90b18165a6c3e741987a1056</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 13:14:38 +0000</pubDate>
+<description>After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation. Kundizeza’s story The Blue Fighter , which charts the declining fortunes of a family after the father invests in fish tanks, was announced as the winner of the £10,000 prize on 6 October. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_111_1078_862/master/1078.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bebe58f82a456965bcc289df2522f254" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_111_1078_862/master/1078.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bebe58f82a456965bcc289df2522f254" medium="image"/>
+</item>
+<item>
 <title>Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs</title>
 <link>https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361</link>
 <guid isPermaLink="false">6b45fe48c7904f34077adcc44100a5f032a0f0abfc632356ddfc092127c65982</guid>
@@ -169,17 +400,6 @@
 <media:content url="https://image.theregister.com/?imageId=5308471&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges</title>
-<link>https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair</link>
-<guid isPermaLink="false">08be873cd96fdb13dfe9f415be478c6c8924075ea01281a6d297cd38cf7eb406</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 07:43:13 +0000</pubDate>
-<description>Meeting comes after CEO admitted to having a relationship with a woman who is alleged to be a Chinese spy Business live – latest updates Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the world’s most valuable chip company, according to reports, after a tumultuous week in which the executive and co-founder of the company admitted to having a romantic relationship with a woman who is alleged to be a Chinese spy. The meeting marks ⁠a sharp shift from Sunday, when Nvidia’s board ​expressed confidence in Huang and his leadership team. However, Huang’s position became more tenuous late on Wednesday after it was reported by the New York Times that Huang had a separate extramarital affair with a company employee named Kimberly Powell. She was Nvidia’s president of healthcare and was reportedly captured on video being affectionate with Huang at a hotel during a company conference in March. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/934ceaf0a7aec362a381e5a51d389c5e68326269/300_0_4583_3668/master/4583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5fd535a105d743af7320a53b076ef44d" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/934ceaf0a7aec362a381e5a51d389c5e68326269/300_0_4583_3668/master/4583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5fd535a105d743af7320a53b076ef44d" medium="image"/>
-</item>
-<item>
 <title>Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI</title>
 <link>https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai</link>
 <guid isPermaLink="false">b9c79e7a2e9a6ed7ec0c8f3e8e8edfeb0ca2258a197ac3dc6a870380f60a370c</guid>
@@ -189,6 +409,17 @@
 <description>Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Get our daily political email , free app or daily news podcast Entry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and higher wages for ordinary workers – or make jobs tougher with more burnout and workplace surveillance – the government has warned employers. While major companies like Qantas and Canva slash their workforces in restructures spurred by AI changes, workplace relations minister Amanda Rishworth said employers must give workers “a clear plan” about how automation could affect their jobs, and the opportunity to move into new roles. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04bcc8930b4a3285d3852162417607a8" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04bcc8930b4a3285d3852162417607a8" medium="image"/>
+</item>
+<item>
+<title>Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair</title>
+<link>https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair</link>
+<guid isPermaLink="false">ce5e1fa823cbaec20cf97d98a0e7ad209b2a120ef339b739721980ed04149064</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 06:43:31 +0000</pubDate>
+<description>In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of America’s most powerful tech companies. Many questions have arisen since it emerged that US intelligence believes that Huang (no relation of Jensen’s) is an asset recruited by the Chinese intelligence services to spy on behalf of Beijing. This morning’s newsletter explains what we know about the story, and what it tells us about the effectiveness of Chinese espionage. That’s after the headlines. UK | Ministers are considering changing the law to force the entertainment industry to better protect women and children in the wake of the revelations over David Walliams and the conviction of Russell Brand. Climate | The UK government has appointed the world’s first special representative for climate security, in the strongest sign yet of fears that climate breakdown will bring chaos to the country. US midterms | Democrat Scott Colom has become the first Black senator in Mississippi to be elected since Reconstruction, in a stunning upset after more than a week of vote counting in one of the country’s most reliably red states. Europe | Millions of people across Spain have joined the country’s first general strike in 14 years , setting up picket lines to protest against soaring housing prices before an election in which the far right could be catapulted into power. Technology | Police officers risk arresting innocent people , especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c960a0216c5de7760bfadc810db2274f" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c960a0216c5de7760bfadc810db2274f" medium="image"/>
 </item>
 <item>
 <title>AWS distills its cloud into a local emulator that runs on your PC</title>
@@ -246,17 +477,6 @@
 <media:content url="https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5308fdec05d4d61e3572087bdd58f720" medium="image"/>
 </item>
 <item>
-<title>CEO Jensen Huang's job is suddenly on the line at Nvidia</title>
-<link>https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia</link>
-<guid isPermaLink="false">57364581a5052ad006a2bc2979636e995e785890dd3671be7913c30607d7e524</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 23:10:17 +0000</pubDate>
-<description>Nvidia’s board is set to decide the future of its founder Jensen Huang after revelations that he had a romantic relationship with a company executive, days after it emerged that he had an affair with a suspected Chinese spy. The board held urgent talks on Wednesday night after news broke of the Nvidia chief executive’s relationship with Kimberly Powell, the chipmaker’s vice-president of healthcare, according to people familiar with the matter. The relationship with an Nvidia employee deepens an already damaging scandal for the $4.2 trillion semiconductor group. Huang on Sunday admitted to having an affair, two days after the FT reported his romantic links to an executive at an Nvidia client, who US officials believe is a Chinese intelligence asset. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>New York is forcing T-Mobile to stop putting data caps on low-income home internet plans</title>
 <link>https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans</link>
 <guid isPermaLink="false">c0be713c66472f0b10e715cc25c9255d7c22fd51a3314712aec0eef681f346ac</guid>
@@ -277,17 +497,6 @@
 <description>The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge Nabu Casa - the commercial side of the Open Home Foundation , which runs Home Assistant - just launched the Home Assistant Connect Aux-2 , a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly . And it's working. I've been testing the Aux-2 for a couple days and I've found it unsurprisingly useful and surprisingly easy to set up. The Aux-2 is a $69 box about the size of a deck of cards. It has 2.4GHz Wi-Fi, Bluetooth, Ethernet, USB-A, USB-C, a digital/analog audio jack, a Grove port for interfacing with peripherals like sensors, bu … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>United won’t let your AI agent book your flight</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</link>
-<guid isPermaLink="false">3c4a130ff1dbafc38dee6b28c18e9582e36c07dec78116be1df03232579c9c7a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 21:54:21 +0000</pubDate>
-<description>United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports , in line with observations from other businesses like Doordash . But United is concerned that agents could expose customers' information or make purchases they didn't intend, and potentially skirt federal rules about the kind of information airlines need to share with customers - like having them attest that their bags don't have explosives. While agents can still show users United flights, they … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says</title>
@@ -422,17 +631,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Loot boxes, influencers, and addictive features face an EU crackdown</title>
-<link>https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection</link>
-<guid isPermaLink="false">92bde755004877b47691e28ced9a27ee77cba98496fc28ca49295165d46de57a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 18:13:52 +0000</pubDate>
-<description>Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make "your online experience fairer." The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, including misleading prices or availability, addictive design features like gaming loot boxes, undisclosed influencer marketing, and more. "The Act will protect consumers of all ages shopping and browsing for goods or services online," the EU Commission said in a news bulletin . "It will also mean … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Trump admin loses fight to spy on random journalists’ LinkedIn DMs</title>
 <link>https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms</link>
 <guid isPermaLink="false">f9f40f11a8068da6a829e854ae247b5e26340f5b497b032ed836fc5ba8bb110d</guid>
@@ -499,17 +697,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg" medium="image"/>
 </item>
 <item>
-<title>Toyota’s Scion is back, starting with an American-made, 25-mph kei truck</title>
-<link>https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival</link>
-<guid isPermaLink="false">6dfc46f5a8876bfd0f22e6fac41c176c251b17195fa41d932e25876aac9f2601</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 17:09:58 +0000</pubDate>
-<description>Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, "Scion by Toyota" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are enjoying surging popularity around the world, including here in the US. More than 30,000 used kei trucks have been imported into the US since 2020, with roughly 7,500 units entering the country each year. Even President Trump is a fan , telling reporters last year that he authorized the De … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Scion_Kei_Truck_2027-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Scion_Kei_Truck_2027-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Apple is shuttering its 28-year-old online community forum</title>
 <link>https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum</link>
 <guid isPermaLink="false">67907131c6ead6a0f214389a5591646a9a1699ae071bec618b1d3e8f41b33f0c</guid>
@@ -565,28 +752,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Google’s Tabletop AI experiment lets you build custom collaboration apps</title>
-<link>https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</link>
-<guid isPermaLink="false">ccd519173ba2f65ad7a8e16ca7fe8e94491cd4511a24f75dfae3f0d18c55d02b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
-<description>Tabletop isn’t anything to do with D&amp;D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more. "Just add in your links, files and ideas, then prompt @tabletop - or pick a starter template - to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets," Google … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The best early Black Friday deals you can already shop</title>
-<link>https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026</link>
-<guid isPermaLink="false">41ae633c6584dee9d5b17bb95344d72396bc2b1c4a82242507937d389ea50215</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 15:53:55 +0000</pubDate>
-<description>The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. But we’re still seeing worthwhile discounts on a host of tried-and-tested gear, with more expected in the coming weeks. Below, we’ve rounded up the best early Black Friday deals we’ve found so far. Prices could drop further as Black Friday approaches, as is always the case, but these deals are worth considering if you’d rather shop early and beat the holiday rush. We’ll continue to update this guide as more retailers launch their holiday sales, too, so be sure to check back regularly as we get closer to the main event. Ember Mug 3 (14-ounce) Ember’s latest smart mug is designed to keep your coffee at the ideal temperature for up to three hours, with five temp settings between 120 and 145 degrees Fahrenheit. The third-gen version is similar to prior models; however, you can now adjust the heat settings directly on the mug and throw it in the dishwasher, which wasn’t the case before. Where to Buy: $149.95 $99.99 at Amazon $149.95 $99.99 at Best Buy $149.95 $99.99 at Ember Hisense CanvasTV (2026) Hisense’s 2026 CanvasTV is a 4K QLED TV that doubles as wall art when you’re not watching. It features a matte, anti-glare display and runs on Google’s excellent TV software; it’s also a great pick for gamers thanks to its snappy 144Hz variable refresh rate and a pair of HDMI 2.1 ports. Where to Buy: $1499.99 $797.99 at Amazon (55-inch) $1499.99 $799.99 at Best Buy (55-inch) $1999.99 $997.99 at Amazon (65-inch) Elegoo Centauri Carbon 2 Combo The Elegoo Centauri Carbon 2 Combo is a beginner-friendly 3D printer that supports four filament spools. It features an enclosed build chamber, automatic bed leveling, and a large touchscreen, making it easy to produce reliable prints. Where to Buy: $449 $369 at Elegoo Moft Trackable Tripod Wallet Moft’s Trackable Tripod Wallet is a MagSafe-compatible wallet that holds two cards and folds into an adjustable phone stand or small tripod. It also supports both Apple’s Find My network and Google’s Find Hub, offers Qi wireless charging, and includes a detachable shutter remote for taking photos. Where to Buy: $59.99 $50.99 at Amazon Govee Christmas String Lights 2 Govee’s Christmas lights offer over 130 preset lighting effects, though you can also create your own custom light displays. The IP65-rated lights feature Matter support, so they’ll work with any major smart home platform, and are sold in lengths up to 328 feet with up to 1,000 LED beads. Where to Buy: $99.99 $74.99 at Amazon (66-foot) $129.99 $96.99 at Amazon (99-foot) $199.99 $149.99 at Amazon (164-foot) Govee Table Lamp 2 Govee’s Table Lamp 2 is way more fun than your average table lamp. The color-changing device</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Over Ubuntu? Fedora is the Linux distro I’d hop to next – here’s why</title>
 <link>https://www.zdnet.com/linux/ubuntu-fedora-migration-linux-distro-hopping</link>
 <guid isPermaLink="false">8b54b1900297f4653a21e3d9b058dc8b4ab49791c4f5856d3c7ec85da2b80f9e</guid>
@@ -607,17 +772,6 @@
 <description>Apple's first touchscreen MacBook got a mixed reception from iFixit's teardown specialists, who praised its easily replaced lid but found fans and USB-C ports buried beneath the logic board. The MacBook Pro with PROLED XDR display was unveiled at the end of October. It features a tandem OLED screen that stacks two layers of organic light-emitting pixels, eliminating the need for a backlight, and adds touch capability to the MacBook line for the first time. Although the vendor was patted on the back in recent years for improving the repairability of its famously locked-down products, this machine shows Apple still has some way to go. The good? The entire lid comes off relatively easily. Its three-screw hinges closely resemble those on the M6 14-inch MacBook Pro, while streamlined display cable brackets simplify removal. Apple's Repair Assistant tool also handled a full system board swap well. Despite concerns about Touch ID fingerprint authentication, everything went relatively smoothly when iFixit paired a touchscreen from one machine with a logic board from another. On the first boot, Repair Assistant recognized the battery, display, and Touch ID sensor, and touch control needed no separate calibration. The bad? Replacing the panel alone is not possible. When iFixit tried to separate it from the lid, the glass delaminated, cracking the OLED and touch-sensitive layers beneath. That could make for a costlier repair than bargained for. Under the bottom cover, the PROLED has a similar internal layout to the last few models of MacBook Pros, with the fans, board, speakers, and trackpad all in the same places. That means the same annoyances persist. The MagSafe power connector can be removed via two screws and a bracket, yet the USB-C ports can't be extracted the same way because the logic board is in the way. The headphone jack and the fans also require removing the system board first, and the HDMI port and SDXC card reader are soldered to the board itself, as is the storage and memory. Another gripe is that this MacBook's battery pack is hard to remove, though at least it is removable, unlike in many thin-and-light laptops. The tested Pro weighs 1.38 kg or about 3 pounds. For these reasons, the MacBook Pro with PROLED XDR display earns a 5 out of 10 repairability score from iFixit , but this is actually a one point increase over the score it gave the M5 MacBook Pro. The Apple logo has its own lighting. Older MacBooks with illuminated logos borrowed light from the LCD backlight shining through an apple-shaped window in the lid. This model uses a strip of LEDs along one edge of the logo, passing through a diffuser for an even glow. Because it sits behind the display panel, it would be nearly impossible to repair if it failed, especially if the panel is destroyed during removal. Under a microscope, the PROLED XDR display looks very different from earlier MacBooks: the blue subpixel is significantly larger than the green and red ones. The reason, we're t</description>
 <enclosure url="https://image.theregister.com/?imageId=263314&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=263314&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Sharge’s eye-catching MacBook charger is over 25 percent off</title>
-<link>https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale</link>
-<guid isPermaLink="false">56d14563c1c9200220bb2ba36045084374892004a77efb01d9efec7885cb7d0c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 15:30:00 +0000</pubDate>
-<description>Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the 67W version for $19.90 ($30 off) or the 100W version for $59.90 ($16 off). Sharge Pixel 140 GaN Charger Where to Buy: $90.9 $69.88 at Amazon $90.9 $69.9 at Sharge The Pixel 140 delivers up to 140W of power when using only one of its three USB-C ports, which Sharge says is capable of taking a 16-inch MacBook Pro from a flat battery to 50 percent charge in just 25 minutes. It’s 47 percent smaller than the MacBook’s included charging brick as well, which is great if you’re tight on bag space or travel frequently. The pixel display on the side has configurable brightness and orientation, and displays your current charging wattage. Other deals to consider Halo fans looking for a fun weeknight project can grab Mattel’s Brick Shop Warthog on Amazon for $62.99 ($12 off), which is the lowest price we’ve seen on the brick-ified UNSC replica. The 935-piece set lets you recreate a 1:22 scale model of the iconic land vehicle, and includes a 1:64 scale metal version as well. Windows users with Mac Mini envy might consider the Lenovo Yoga Mini , which is currently discounted to $599.99 ($460 off) at Best Buy as part of the retailer’s early Black Friday promo. The compact desktop PC features an Intel Core Ultra 5 processor, 16GB of LPDDR5X memory, and 512GB of storage; it also has several fun features, including automated lighting around the system and Wi-Fi presence sensing. While modern smartphone camera stabilization has improved dramatically, there are still plenty of situations where a motorized gimbal can help you capture a smoother shot. Fortunately, the DJI Osmo Mobile 8 is currently on sale at Amazon for $89 ($20 off), nearly matching its best price to date. It features 360-degree horizontal panning and over 10 hours of battery life on a single charge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/sharge-pixel-140-charger-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/sharge-pixel-140-charger-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Trump wanted little Kei trucks for America, Toyota makes it happen</title>
@@ -651,17 +805,6 @@
 <description>The developers behind its virtual Florida share how they built their most ambitious world so far • Don’t get Pushing Buttons delivered to your inbox? Sign up here In 2015, a group of Grand Theft Auto developers from Rockstar North took their first trips to Miami to do field research for the next game in the phenomenally popular crime series. “Before you’re doing hyper-organised research trips, you’re immersing yourself in the place and its history, the vibe of it,” Rob Nelson, one of the lead developers on GTA VI, tells me. “[You see] the physical places you want to move characters through, the experiences you want them to have, and the juxtaposition between the extremes of society that are in Miami.” I wondered: did people ever recognise them on any of their research trips? Did locals know what they were doing? This is the biggest game in the world, after all; I imagine it would be difficult to go entirely undercover. “We’re always semi-undercover,” he says. “But if you have a bunch of dorks going through a terrifying neighbourhood, you do stick out a bit.” Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/f9bf30fc1431ef6e783a0570dd352f24c3ddc240/302_0_1902_1522/master/1902.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e00695fec2d538c7e86f592406e46cd" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/f9bf30fc1431ef6e783a0570dd352f24c3ddc240/302_0_1902_1522/master/1902.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e00695fec2d538c7e86f592406e46cd" medium="image"/>
-</item>
-<item>
-<title>Ocarina of Time is even better if you use a smartphone app</title>
-<link>https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula</link>
-<guid isPermaLink="false">5b3e8a37b7e76f03f9a4474963e6a7fec7a446cb5684622e45f3b4675dd6cfd6</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
-<description>Hey there, buddy. I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time . The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into the Ocarina of Time remake , I expected to ignore the Golden Skulltulas once again. But while poking around Nintendo's Zelda Notes companion app, I discovered that its maps are a huge help to tracking down all of the elusive golden spiders - and pretty much every other collectible in the game - and now I find myself constantly opening up the app to make sure I haven't … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/20261110-01M74FRERRH793DQ734KTJM2FA-061DB0ED-ACA3-47E5-8CA3-6B3B776C2354.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/20261110-01M74FRERRH793DQ734KTJM2FA-061DB0ED-ACA3-47E5-8CA3-6B3B776C2354.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Microsoft's Patch Tuesday can't break stuff if it won't install</title>
@@ -873,17 +1016,6 @@
 <media:content url="https://i.guim.co.uk/img/media/d3a1271d3a03313b67f28cd9ca99f9f80e115ce7/671_0_5849_4679/master/5849.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2928282549d40797eb311108156f1331" medium="image"/>
 </item>
 <item>
-<title>Samsung Gallery now syncs with Google to back up your photos</title>
-<link>https://www.engadget.com/2313059/samsung-gallery-syncs-with-google</link>
-<guid isPermaLink="false">c24de559dbc1a2076d651a197c41e284baf0a63cb3d53c2869fca2cd307f17b1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 06:47:17 +0000</pubDate>
-<description>You can now sync your photos and videos on select Samsung devices to your Google account.</description>
-<enclosure url="https://www.engadget.com/img/gallery/samsung-gallery-now-syncs-with-google-to-back-up-your-photos/l-intro-1794379370.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/samsung-gallery-now-syncs-with-google-to-back-up-your-photos/l-intro-1794379370.jpg" medium="image"/>
-</item>
-<item>
 <title>OpenAI builds a kill switch for its research models</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006</link>
 <guid isPermaLink="false">26c159af1b945c2cb3963ff9b7343493dccb0df6ae19a756adfa5e5d45747841</guid>
@@ -904,50 +1036,6 @@
 <description>Australia’s government will consider creating a new criminal offense to punish AI companies which knowingly release harmful models. Canberra dangled that possibility yesterday when releasing the results of an investigation into OpenAI’s admission that its agents accessed non-public medical records – and that it didn’t disclose the incident for weeks. Security at the agency which held those records fell short of contemporary best practice but Canberra nonetheless ordered a rapid review into Australia’s ability to handle infosec incidents involving AI. That review landed yesterday, complete with 18 recommendations including one that would make it mandatory for AI companies to report misaligned behavior or security incidents involving their models, and perhaps impose criminal penalties for “egregious regulatory non-compliance.” Another recommendation calls for consideration of “A standalone ‘failure to prevent’ offence which would criminalize instances where the company is responsible for developing an AI model that engages in harmful conduct, and the company fails to take reasonable steps to prevent that harm.” The review suggests two ministries and Australia’s Federal Police consider those reforms, meaning this is not something that will happen in a hurry, if at all, for a couple of reasons. One is that Australia yesterday proposed a new regulator which will require AI players to do six things: Maintain security controls across all stages of development and deployment Identify and manage serious risks associated with their models Allow independent evaluation of their models Provide mandatory notification of incidents to the Australian Government rapidly Maintain and publish safety and security frameworks to ensure good governance, risk management and transparency Respond to updated standards and rules as technologies change. If AI companies straighten up and fly right, Canberra might not need to do more. The other reason Australia might not criminalize AI is economic pragmatism. Canberra wants to ensure leading AI companies invest in local datacenters, especially facilities where they train and run frontier models. Such investments would mean Australia scores some of the AI boom cash sloshing around the world, while also giving the government the ability to at least point to leading-edge AI running on local shores and therefore theoretically remaining accessible even if war or a diplomatic rupture makes it hard to access advanced AI hosted offshore. Other nations in Asia, such as South Korea and India, are addressing those risks by building substantial sovereign infrastructure and working to develop sovereign frontier-class models trained on local data and especially data in their local languages. Canberra can’t match that investment without pouring petrol on its raging inflation problem. Prime Minister Anthony Albanese is therefore instead trying to regulate AI without scaring away investment. Threatening to lock up AI executives is not likely to</description>
 <enclosure url="https://image.theregister.com/?imageId=5293744&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5293744&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>What is the average lifespan of recordable Blu-ray discs?</title>
-<link>https://www.engadget.com/2307784/average-lifespan-recordable-blu-ray-discs</link>
-<guid isPermaLink="false">40b8ec2ab94aa5eb5ffe5a3fa0f626030fd3cfe2b247fff677ef8156756e6aff</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 01:00:00 +0000</pubDate>
-<description>How long they will last depends on a few factors.</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-is-the-average-lifespan-of-recordable-blu-ray-discs/l-intro-1793384545.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-is-the-average-lifespan-of-recordable-blu-ray-discs/l-intro-1793384545.jpg" medium="image"/>
-</item>
-<item>
-<title>Why your Roku might be plugged into the wrong HDMI port</title>
-<link>https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port</link>
-<guid isPermaLink="false">abf8945bffee4b170f5a3b61fe307aa0602071b0aca852523c060511c05112ef</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 00:30:00 +0000</pubDate>
-<description>A Roku isn't as sensitive to the chosen HDMI port as a game console or sound bar, but you should still choose the right one for the job.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-roku-might-be-plugged-into-the-wrong-hdmi-port/l-intro-1793648756.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-roku-might-be-plugged-into-the-wrong-hdmi-port/l-intro-1793648756.jpg" medium="image"/>
-</item>
-<item>
-<title>iFixit teardown shows how Apple's glowing PROLED MacBook logo works</title>
-<link>https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works</link>
-<guid isPermaLink="false">695636bbe833447e76e9d126302661e0c45eb232e954329698223c9e1d3bc9dc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 00:03:54 +0000</pubDate>
-<description>The new laptop goes the extra mile to recreate the iconic feature.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/l-intro-1794354248.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/l-intro-1794354248.jpg" medium="image"/>
-</item>
-<item>
-<title>How to get this Siri camera upgrade for your iPad before its public release</title>
-<link>https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early</link>
-<guid isPermaLink="false">139be1b063e4c3089620dd03abb009857012fe589010a6697d8ca65737fc40e6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<description>You'll be able to access Visual Intelligence from a new tab in the tablet's Camera app.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-get-this-siri-camera-upgrade-for-your-ipad-before-its-public-release/l-intro-1794345704.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-get-this-siri-camera-upgrade-for-your-ipad-before-its-public-release/l-intro-1794345704.jpg" medium="image"/>
 </item>
 <item>
 <title>Anthropic tiptoes into MS Office territory</title>
@@ -1104,28 +1192,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Google Fi adds support for a second 5G network, won't say which one</title>
-<link>https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one</link>
-<guid isPermaLink="false">b9a299766787053c45667aca75f406520a21b499574b21bbc9f70d927218393b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:35:59 +0000</pubDate>
-<description>Google has announced a " super network " upgrade for its Fi cell service. For the past few years, Google Fi has operated exclusively on the T-Mobile network, but now it's adding support for a second 5G network. Oddly, Google refuses to say which one. Google's MVNO (mobile virtual network operator) launched in 2015 as Project Fi with support for both T-Mobile and Sprint service. The service initially only worked on Google's Nexus phones, which would switch between networks based on signal strength. After T-Mobile absorbed Sprint, Fi switched to being a single-network service in the US while continuing to hop between networks for international travel. With the super network, Google Fi is again a dual-carrier service stateside. Phones connected to Fi will be able to hop between T-Mobile 5G and a different 5G network to provide the best possible connectivity. Google's blog post announcing the change conspicuously doesn't mention either network, saying only that it supports "two of America’s best 5G cellular networks." Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Google-Fi-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Google-Fi-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop</title>
-<link>https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family</link>
-<guid isPermaLink="false">67bf860f7b2f0b4d56da189852be7cb783fe43e54cd32917d26197f7050593b3</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:00:26 +0000</pubDate>
-<description>Google's Pixel phones get an update every month, but most are just security patches and bug fixes. The bigger changes are bundled into quarterly Pixel Drops, and one is rolling out today . The update brings a few new things, and many of the Gemini features previously exclusive to the latest Pixel phones will also expand to Google's Pixel 10 lineup. The Pixel 11 was Google's first foray into "Gemini Intelligence" branding, something we'll see a lot more of going forward. Some of the features under that heading were limited to Google's newest phones (and in some cases, Samsung's phones). The November Pixel Drop will expand these AI features to the Pixel 10 lineup, but importantly, that doesn't include the budget-oriented Pixel 10a . For starters, the Pixel 10 series will get the improved personalized suggestions (previously known as Magic Cue) that debuted on the Pixel 11 . This enables things like sending grocery lists to Google Keep from other apps and generating summaries from the context menu. Rambler, Google's AI-assisted voice input system, is also coming to the 2025 phones. Likewise, Gemini app automation will roll out on Pixel 10 with this update. This feature is still limited to select apps in rideshare, food delivery, travel, and a few other categories. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Barracuda’s email security gateways bitten by make-me-root vulns</title>
 <link>https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883</link>
 <guid isPermaLink="false">0efffd6006918941584e1405e6064eb12c05d207c53872a804bfc3a3b814d741</guid>
@@ -1234,17 +1300,6 @@
 <description>President Donald Trump has nominated Palantir security chief Michael LoSapio to lead CISA, putting an executive from the controversial government supplier in line to run America's civilian cyber defense agency. The nomination , announced on Monday, could end CISA's nearly two-year wait for a Senate-confirmed director following Jen Easterly's departure in January 2025. LoSapio has served as Palantir's CISO since September 2024 , having previously led the company's infrastructure and network security team. He first joined the data analytics outfit in 2013, later spent a spell at database company SingleStore, and returned to Palantir in 2017. If confirmed, LoSapio would move from securing Palantir's systems to leading the federal government's main civilian cyber defense agency. CISA protects federal civilian networks and works with critical infrastructure operators, including power, water, and telecommunications providers. It's a substantial job, particularly given the state of the agency he would inherit. CISA has shed more than 1,000 staff, roughly a third of its workforce, since Trump returned to the White House, according to reports . It's now trying to plug the gaps, although acting director Nick Andersen said in September that around 250 would-be recruits were still waiting for security clearance before they could get to work. Andersen has been running CISA since February. With fewer people to go around, CISA is also rethinking where to spend its time. A strategy published last month emphasizes infrastructure whose failure would do the most damage, raising questions about what gets less attention as the agency operates with fewer staff. LoSapio would be the second person Trump has put forward for the role. His previous pick, Sean Plankey, withdrew in April after spending more than a year awaiting confirmation, with his nomination becoming caught up in a dispute involving Republican Senator Rick Scott over Coast Guard contracting. The nomination arrives late in the congressional calendar. If the Senate does not confirm LoSapio before the current Congress ends, Trump would have to nominate him again for consideration by the incoming Democratic-controlled Senate. Palantir, co-founded by billionaire Peter Thiel, has become a major supplier of technology to US government agencies, including the Department of Homeland Security and Immigration and Customs Enforcement (ICE). Its work with immigration authorities has attracted criticism from civil liberties groups and Democratic lawmakers concerned about surveillance and the handling of sensitive personal information. The controversy isn't confined to the US either. In the UK, WhatsApp messages obtained by campaign group Foxglove this week indicate that Palantir privately lobbied a health minister to consider extending its software into GP patient records, despite that data being expressly excluded from its £330 million NHS England contract for the Federated Data Platform. That revelation follows news</description>
 <enclosure url="https://image.theregister.com/?imageId=5219759&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5219759&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Anthropic targets valuation of up to $1.4tn in stock market flotation</title>
-<link>https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai</link>
-<guid isPermaLink="false">d3a0388562c166c7c812bfaf0b2248e509f8b7082e3b854e4cd55773da493c20</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 16:13:13 +0000</pubDate>
-<description>Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.1tn) in its imminent stock market flotation , short of the $2tn that had been expected before investors started to question the durability of the AI boom. The developer of the Claude chatbot was widely reported to be targeting a $2tn initial public offering on Wall Street but its sights have been set lower, according to a US regulatory filing on Tuesday. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3586ac777991f2da7b10a4c3f68514ec" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3586ac777991f2da7b10a4c3f68514ec" medium="image"/>
 </item>
 <item>
 <title>Your FitBit Versa and Sense smartwatches will lose some features this month – what to know</title>
@@ -1390,39 +1445,6 @@
 <media:content url="https://image.theregister.com/?imageId=5308629&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Microsoft is giving Claude the keys to UK Copilot tenants by default</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693</link>
-<guid isPermaLink="false">1c1ca554e9c4e5746e15d87ef5203fe34f92d763017f15c8b8a02fdb58b6de22</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 11:30:00 +0000</pubDate>
-<description>Microsoft will enable access to Anthropic's Claude models by default for UK Copilot tenants next month, giving administrators a deadline to decide whether US-based processing fits their compliance requirements. From December 9, UK tenants whose administrators have not already chosen a setting will have Claude access enabled. Administrators can disable it, but leaving the setting untouched means opting in. In this instance, Anthropic operates as a Microsoft subprocessor , and Claude models are already on by default for most customers in the Windows giant's commercial cloud. The exceptions, notably, include the European Union, the European Free Trade Association, and the UK. However, UK tenants aren't in scope for Microsoft's EU Data Boundary - launched at the start of 2023 - and so Redmond is flipping the switch for the country. Anthropic processes the relevant data in the United States, Microsoft's documentation states . Administrators therefore have until December 9 to review whether that meets their organization's data-handling requirements and set access accordingly. Microsoft is also retiring the setting that restricts Claude access to Microsoft 365 alone. "This affirms Microsoft's commitment to offering choice between leading AI models while maintaining enterprise-grade security and compliance," the Redmond-based biz said. So long as you don't mind processing happening in the US. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5247969&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5247969&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>EU's €212M border IT project lands IBM and Atos in legal water</title>
-<link>https://www.theregister.com/public-sector/2026/11/10/eus-212m-border-it-project-lands-ibm-and-atos-in-legal-water/5308669</link>
-<guid isPermaLink="false">34d7a20f160d12d12f3ac14913a3f30f5e8a4278b2cbe738a690e758cdf1ba50</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 11:01:00 +0000</pubDate>
-<description>The European Union has dragged IBM, Atos, and Leonardo into court over years of delays to its troubled €212 million smart border system, which finally went live after missing a string of deadlines and leaving travelers stuck in airport queues. The lawsuit dates back to December 22, 2025, when eu-LISA, the agency behind the EU's fingerprint-and-facial-image border checks for non-EU travelers, filed its claim in an Estonian court. The lawsuit was buried in eu-LISA's 2025 financial accounts , published in July, with no mention of who was being sued. The Financial Times has since named the three companies after obtaining letters exchanged with the agency. In a statement to The Register , eu-LISA confirmed it had initiated proceedings "in line with the Agency’s responsibility to protect the EU’s financial interests." "The proceedings concern the system’s development phase and have no impact on its current operation. EES (entry exit system) is fully operational," the agency said, declining to discuss the ongoing case. The EES was supposed to be ready in 2022 yet wasn't live until October 2025 and was only fully operational from April. Travelers have since had to contend with hours-long airport queues and fingerprint scanners that reportedly struggle with sweaty fingers. Behind the scenes, things weren't going much better, with the consortium and eu-LISA spending years arguing over missed deadlines, financial penalties and who was to blame. IBM Belgium and Atos Belgium were already arguing over penalties back in October 2021, when they disputed a fine from eu-LISA and pointed to the COVID-19 pandemic and other factors beyond their control as reasons for the delays. By February 2022, the consortium was pushing back against another set of deadlines, warning that the agency's timetable was unrealistic. "Ignoring reality is not prudent and will not help to achieve the plan," the companies wrote, according to the FT. "On the contrary, working with an unrealistic plan will cause frustration for all stakeholders." The consortium also criticized eu-LISA's "overall governance," suggesting relations between the two sides had become rather frosty. The fallout wasn't cheap. The contract had already grown from €142 million to €212 million in 2021, and the delays kept adding to the bill. In its 2022 accounts [PDF], eu-LISA acknowledged difficulties with the consortium and warned of additional costs, with the setbacks also holding up other EU IT projects. By 2023, it had nearly doubled its annual EES budget to €40 million by diverting funds from elsewhere, partly to cover rising hardware and software maintenance costs. The FT also reported that IBM agreed in March 2022 to let eu-LISA withhold certain payments while the dispute over damages was resolved. The original contract expired last year, with a new consortium taking over implementation, although IBM, Atos, and Leonardo remained responsible until August. The project has attracted scrutiny for more than its balloo</description>
-<enclosure url="https://image.theregister.com/?imageId=5308676&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5308676&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Royal Navy stands up first autonomous boat squadron</title>
-<link>https://www.theregister.com/offbeat/2026/11/10/royal-navy-stands-up-first-autonomous-boat-squadron/5308494</link>
-<guid isPermaLink="false">e2efa7231c37b8d530ff8b25e11416c54605b941cb74c9a1d289a8ed5e87bbf5</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 10:15:00 +0000</pubDate>
-<description>Britain’s Royal Navy has formally commissioned its first uncrewed boat squadron, operating seaborne drones on front-line operations as part of its “Hybrid Navy” strategy. The force says the 1 st Autonomous Squadron officially entered active service on November 5 at a ceremony in Portsmouth Naval Base. It comprises around 180 personnel, about the same as a Type 23 frigate, split into two watches to enable operations around the clock. This active squadron replaces Project Beehive, the navy’s experimental program to build a fleet of autonomous and remotely operated vessels, through which it obtained 20 uncrewed boats from UK-based Kraken Technology Group. The force is understood to be using both Kraken’s K3 Scout, and the SM400 from SYOS Aerospace, known by the Royal Navy as the Rattler. The K3 Scout is an 8.4 m boat capable of 55 knots and can carry a payload of up to 600 kg. It has a range of up to 650 nautical miles and endurance of up to 7 days. The maker describes it as capable of a range of missions, including anti-ship and anti-submarine to detecting and countering other drones and even casualty evacuation. The Rattler boat is 7.2 m and has a 500 kg modular bay, with a range of up to 950 nautical miles. It was used last year in a demonstration during which 5 of the uncrewed boats were remotely-piloted to escort patrol ship HMS Tyne and mine countermeasures mothership HMS Stirling Castle Part of the new squadron’s mission will be to act as pathfinder for drone operations, working on bringing additional types of uncrewed surface vessel (USVs) into fleet service and conducting a range of operations alongside other organizations – both as single vessels and as part of a task group. The “Hybrid Navy” concept was outlined by First Sea Lord General Sir Gwyn Jenkins earlier this year, who made the case that uncrewed vessels would be vital in filling the gaps left by the Royal Navy’s much depleted surface fleet. Speaking at the launch of the autonomous squadron, Fleet Commander Vice-Admiral Steve Moorhouse hailed it as an historic occasion, but warned that the seas are becoming more contested, more dangerous and harder to operate in. “A hybrid navy is about giving our people better tools. It means more reach, more striking power and more options,” he stated. Last week, the force also launched strike drones from one of its aircraft carriers for the first time. Nyan one-way drones made by BAE Systems were launched from the deck, as well as a Tekever AR5 fixed-wing uncrewed aircraft, the same kind the British Army has selected to replace its troublesome Watchkeeper fleet. Elsewhere, the Ministry of Defence (MoD) says it has launched a British-built satellite called Titania into orbit, claiming it “gives the Armed Forces a new pair of eyes in space.” However, the original purpose of the orbiter was understood to be to test high-speed optical communications from low Earth orbit directly to Earth, using laser beams that are harder to intercept than radio li</description>
-<enclosure url="https://image.theregister.com/?imageId=5308508&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5308508&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Are walking pads worth it? We put the best under-desk treadmills to the test</title>
 <link>https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk</link>
 <guid isPermaLink="false">8d1a91462dfea28cf4f760249877ed9fecdc1ff8491ced27f7a41eb233bbdd7a</guid>
@@ -1443,17 +1465,6 @@
 <description>Redesigned flagship laptop has a fantastic display, killer performance and the first touchscreen on a Mac, but comes with a serious price tag Apple’s MacBook Pro has been redesigned for the first time in five years, getting slightly slimmer, significantly lighter and adding a fantastic new OLED display with the first touchscreen on a Mac. The new MacBook Pro with PROLED XDR display comes in two sizes, 14in and 16in, but rather than replacing the standard MacBook Pro they sit alongside them as an even more expensive option. The OLED machines start at £2,899 (€3,299/$2,899/A$4,599) – a £400 or equivalent upgrade on the matching spec LCD models – serious prices for serious work machines, not helped by significant cost increases driven by RAMageddon . Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/abd5c56938865bdcf057db1f7ad7940c8a0e34c2/1203_642_4461_3570/master/4461.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa0737540c4cb8cf0a992abd945c7d34" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/abd5c56938865bdcf057db1f7ad7940c8a0e34c2/1203_642_4461_3570/master/4461.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa0737540c4cb8cf0a992abd945c7d34" medium="image"/>
-</item>
-<item>
-<title>Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’</title>
-<link>https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack</link>
-<guid isPermaLink="false">bf679c28a6a5a75d27f0de840edfcb2d9d0619021671ecb5075367da7f128bd7</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:52 +0000</pubDate>
-<description>Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’ Get our daily political email , free app or daily news podcast OpenAI will not face criminal penalties over the Medicare data breach , but the prime minister has flagged changes to Australia’s criminal law to crack down on future breaches by artificial intelligence companies. Anthony Albanese on Tuesday released the recommendations of a “rapid review” into the June breach of a Medicare statistics reporting service portal administered by Services Australia, but not the findings or the report itself, which he committed to releasing in the future. Maintaining security controls across all stages of development and deployment. Identifying and managing serious risks associated with their models. Providing mandatory notification of incidents to the Australian government rapidly. Allowing independent evaluation of their models. Maintaining and publishing safety and security frameworks to ensure good governance, risk management and transparency. Responding to updated standards and rules as technologies change. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4bc1c8dc3414293d139b9507b77e95d" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4bc1c8dc3414293d139b9507b77e95d" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?</title>
@@ -1553,17 +1564,6 @@
 <description>Fans trying to access latest releases are being priced out in a cut-throat market driven by crypto-like hype The runaway demand for Pokemon cards is because they are being hyped “like crypto”, according to one young fan who had spent the night queueing outside a London store to make sure he did not miss out on the latest card release. Before its 10am opening on Friday, the line outside the pop culture store Forbidden Planet in central London snaked past five others and, despite its strict sales policy, was probably “50/50” fans and resellers, said Kai, who had been there since 3am. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/add3efa623b78699ceac7a663e4ab615f38fb13d/378_0_3378_2704/master/3378.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27a8624634150e7c14686231ad1d92af" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/add3efa623b78699ceac7a663e4ab615f38fb13d/378_0_3378_2704/master/3378.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27a8624634150e7c14686231ad1d92af" medium="image"/>
-</item>
-<item>
-<title>The Legend of Zelda: Ocarina of Time has revived the midnight game launch – but was it worth the wait?</title>
-<link>https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch</link>
-<guid isPermaLink="false">bec2e1d6fcd9236269778eb0c235d1a5a30912560eb15edd7144f43a9d9ee640</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 13:00:43 +0000</pubDate>
-<description>When our writer found himself among the hundreds on Oxford Street hoping to get their hands on early copies and collectibles, it was a heartwarming reminder of the shared experience of fandom • The Legend of Zelda: Ocarina of Time review – a dream come true It is Thursday night and I am sat blurry-eyed and runny nosed outside the Argos on Oxford Street. Incredibly, I am far from alone. This is not some strange protest against the popular retailer. When the clock strikes midnight, the lavish 4K Switch 2 remake of beloved N64 classic The Legend of Zelda: Ocarina of Time will be released, and I have joined a lengthy queue of about 500 fans desperate to snag early copies. There are similar events taking place across the world, from Melbourne to Mexico City; at key locations, Nintendo has senior executives waiting at the tills. These days, of course, most video games are bought as digital copies that download straight to your PC or console on the day of release. You don’t even have to get out of bed to start playing. But in a bygone era, when we used to go to shops to buy games, midnight launches offered a space for likeminded enthusiasts to gather and celebrate their fandom. Every Call of Duty, Halo or Grand Theft Auto release would have fans queueing outside branches of Game or Electronics Boutique, many dressed as favourite characters. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/250_238_7202_5762/master/7202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e37b4863ba9469d2fe393175d8770203" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/250_238_7202_5762/master/7202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e37b4863ba9469d2fe393175d8770203" medium="image"/>
 </item>
 <item>
 <title>Tech barons cozied up to Trump. What will they do in newly blue America?</title>

@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft Outlook is down</title>
+<link>https://www.theverge.com/tech/1032226/microsoft-outlook-is-down</link>
+<guid isPermaLink="false">a487e36889862acfd354c53b852f2fdde6adaf452954ae1bfe079f6788e8f882</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 20:43:02 +0000</pubDate>
+<description>Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account , saying that "We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors." There were also some reports of problems with Teams, but some of the people reporting issues say Teams is still working now. Now, as of 3:30PM ET, Microsoft says : While we haven't identified any recent changes that correlate with the start of impact, … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week</title>
+<link>https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425</link>
+<guid isPermaLink="false">f28ee7a6b5a7b8bf3f8f79b42100688a29a15cbf2b1734b4d4229218fa123afc</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 20:08:08 +0000</pubDate>
+<description>Lego-owned marketplace BrickLink has been offline for almost a week after identifying "unusual activity on the platform," leaving fans unable to buy and sell spare bricks and minifigures. The company initially described the outage as "necessary work" and said the site would return on November 9. That deadline has come and gone. Visiting BrickLink's domain automatically serves the platform's maintenance page, which was last updated on November 11. "We took BrickLink offline after identifying unusual activity on the platform," the website states. "Our immediate priority was to secure the site, protect our members and ensure the integrity of BrickLink. "Before bringing the site back online, we need to fully understand what has happened. That means containing the issue, investigating how it happened and checking for related issues. "This work is still ongoing and we appreciate your patience while we work to get things back online as soon as possible." The references to security, containment, and investigation suggest something beyond routine maintenance, although BrickLink has not confirmed whether it suffered a cyberattack. The Register asked Lego for more information, but it did not immediately respond. Some adult fans of Lego (AFOL) have criticized the lack of information since the outage began on Friday, November 6. "Imagine how much better this would have been received if they were transparent from day one instead of pretending they have control over something they clearly don't," said one disgruntled Legohead via Reddit. "They don't even need to say what went wrong," said another. "Just an email acknowledging the issue would be appropriate. The entire site is down, and has been for days. That warrants more than a splash page." BrickLink was launched by Dan Jezek in June 2000 as an independent marketplace for enthusiasts to buy and sell Lego sets and individual pieces, including discontinued parts and rare minifigures. The Lego Group acquired BrickLink and Sohobricks from investment outfit NXMH in 2019 for an undisclosed sum. NXMH had bought BrickLink in 2013 and also owned Sohobricks, a South Korean manufacturer of unofficial but Lego-compatible bricks. Lego shuttered Sohobricks in 2020. At the time of Lego's acquisition, BrickLink had more than 10,000 storefronts on its marketplace selling Lego sets, parts, and minifigures. The AFOL community was initially concerned about Big Brick's intention with the acquisition, fearing that it would lead to high prices closer to those on Lego's own Pick a Brick parts-ordering service. For now, buyers and sellers would probably settle for a marketplace that's actually online. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=252955&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=252955&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang's self-sabotage sends Nvidia into a midlife crisis</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/12/jensen-huangs-self-sabotage-sends-nvidia-into-a-midlife-crisis/5309480</link>
+<guid isPermaLink="false">2ed954e989bb0d4ea5e140c9989e02405240e8aa2b353d4a3138d61c7219261d</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 20:06:29 +0000</pubDate>
+<description>Nvidia CEO and founder Jensen Huang has been ousted after nearly two weeks of controversy that, at times, felt more like a soap opera than reality: a wealthy businessman, reported affairs, and an alleged Chinese spy and GPU smuggler. For Nvidia’s board, it seems there was no question Huang had to go. The man behind what was recently the most valuable company in the world proved too big a liability to retain in any capacity. He was too toxic even for a demotion from CEO to chairman, a vantage point that would have retained Huang as the face of the company even if he could no longer be trusted to run it. Replacing him won’t be so easy. Nvidia now faces an identity crisis. Huang, who has led the company for more than three decades, has no clear successor. The GPU slinger has no shortage of brilliant engineers, but executives capable of wrangling one of the biggest and most influential brands in the world, not so much. Ian Buck, father of CUDA and Nvidia’s VP of hyperscale and HPC is currently favored by many to be Huang’s successor. Buck has taken on a more public role within Nvidia in recent years headlining keynotes at events like Supercomputing and the AI Infra Summit. CFO Colette Kress, a bean counter who’s kept Jensen’s ambitions grounded for more than a decade, now takes the reins as interim CEO while the board searches for its next figurehead. And while Kress fights to contain the chaos, others will no doubt capitalize on Huang’s controversial choice of consorts to advance their own agendas. A marred reputation One need only ask a few inconvenient questions to cast doubt on Nvidia’s loyalties. How deep does China’s influence in Nvidia go? Can Nvidia’s hardware still be trusted? You get the idea. It certainly wouldn’t be the first time Nvidia’s and, by extension, Huang’s loyalties have been called into question. In late 2023, Cerebras CEO Andrew Feldman blasted rival Nvidia for supplying GPUs to China in spite of US export controls, calling the behavior “ un-American ” and likening the graphics titan to an AI arms dealer. Nvidia has also faced criticism from US government officials, including former commerce secretary Gina Raimondo, for failing to take a hint and trying instead to limbo under US export controls in order to continue selling chips to the Middle Kingdom. After the Trump administration's short lived blockade of H20 sales early last year cost the company some $10.5 billion, Huang spent much of the 2025 lobbying the Trump administration to reverse export bans on the sales of older Hopper generation GPUs to China, an endeavor which ultimately proved successful . One could make the case that Huang’s ongoing efforts to sell Nvidia’s chips to China were financially motivated. But that argument is undermined by Huang admitting to having an extramarital affair with Megaspeed exec Alice Huang (no relation), a woman that US intelligence has accused of moonlighting as a Chinese spy and helping to smuggle GPUs into the country. The consequenc</description>
+<enclosure url="https://image.theregister.com/?imageId=236933&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=236933&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Meet the people who want peptides to be made in America</title>
+<link>https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha</link>
+<guid isPermaLink="false">4f2e18fc2dc8c3dd12fd795bfbfcb495d71b7d32dc522b0e7108a0ca3d87f357</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
+<description>The SS Jeremiah O’Brien, a WWII ship/peptide party location. | Photo: Haus Fund﻿ This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Opt in for Optimizer here . The SS Jeremiah O'Brien is a World War II Liberty ship. The hulking vessel was built in 56 days. It made 11 trips to Normandy, France, to supply the Allied powers in the fight against German U-boats. Last week, it was the site of a black-tie peptide party thrown by a trio of Gen Z venture capitalists. Roughly 150 people attended the event, where four types of … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SS-Jeremiah-3.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SS-Jeremiah-3.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Ars Live: What drone attacks on data centers mean for modern life in the cloud</title>
+<link>https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers</link>
+<guid isPermaLink="false">0838bef2edd27f9fd5f0938638dfb6f742e526227a18f7e007696945bad327f5</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 19:59:59 +0000</pubDate>
+<description>Drone and missile strikes have inflicted unprecedented damage on data centers in Eastern Europe and the Middle East this year, disrupting cloud services for millions of people and permanently deleting some Amazon Web Services customer data. This trend represents a new concern for Big Tech companies—but also for governments and everyone else who depends on common digital services in modern life. To explore what this all means for modern society’s reliance on cloud resilience, I will be hosting a live conversation titled "Drone attacks and data centers: New Risks for Big Tech" on Tuesday, November 17 at 1 pm ET with Joseph Jarnecki , a senior research fellow at the Royal United Services Institute (RUSI), a UK defense and security think tank. He leads RUSI’s work on how cloud services factor into national security and defense, along with tech sovereignty efforts. Jarnecki has done extensive research on how Ukraine strengthened its cloud resilience with Western partners despite facing both cyberattacks and kinetic attacks at the start of the full-scale Russian invasion, and explored what that means for NATO and European governments’ cloud adoption plans. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>The Elder Scrolls' most obscure adventure gets a 4K PC makeover</title>
 <link>https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover</link>
 <guid isPermaLink="false">b0167a6877b13f31397b1733e29d6b22cbd0a7247bd6325c7d755dd13e3f2eb4</guid>
@@ -21,7 +76,7 @@
 <source>ZDNET</source>
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 19:45:52 +0000</pubDate>
-<description>Microsoft said it resolved the issue earlier today, but reports of the outage are still rolling in as the status page remains down.</description>
+<description>Reports of the outage are beginning to drop as Microsoft restarts affected servers.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304396071.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304396071.jpg" medium="image"/>
 </item>
@@ -79,17 +134,6 @@
 <description>Ukraine President Volodymyr Zelenskyy said today that Starshield has again been disabled on fast-moving drones in Ukrainian territory occupied by Russian forces, and that the US has provided "very little" information about the return of the restriction. "We have detected speed restrictions on Starshield on our Ukrainian territory again, in the temporarily occupied parts of Ukraine," Zelenskyy said in a speech at the 9th European Political Community Summit in Ireland. "The speed limit is back at 161 kilometers per hour—that’s 100 miles per hour." Zelenskyy's allegation is that Starshield—the military variant of SpaceX's Starlink satellite service—stops working on Ukrainian military drones when they travel above 161 kilometers per hour. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft Outlook is down</title>
-<link>https://www.theverge.com/tech/1032226/microsoft-outlook-is-down</link>
-<guid isPermaLink="false">a487e36889862acfd354c53b852f2fdde6adaf452954ae1bfe079f6788e8f882</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 19:07:21 +0000</pubDate>
-<description>Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account , saying that "We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors." There were also some reports of problems with Teams, but most of the people reporting issues say Teams is still working now. Now Microsoft says : We've completed redistributing connection traffic across our worldwide infrastructure, and we're moving ad … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Google faces calls for AI moratoriums in schools after Gemini pilot backlash</title>
@@ -340,7 +384,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 16:57:34 +0000</pubDate>
-<description>Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee Business live – latest updates From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and a company employee. He will be replaced on an interim basis by Nvidia’s chief financial officer, Colette Kress, until a full-time successor is named. Continue reading...</description>
+<description>Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and a company employee. He will be replaced on an interim basis by Nvidia’s chief financial officer, Colette Kress, until a full-time successor is named. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" medium="image"/>
 </item>
@@ -376,17 +420,6 @@
 <description>Printing with Windows has always been something of a choose-your-own-adventure, and November's security update has added another unwelcome plot twist: documents containing certain images might not print. The issue affects images rendered with a height or width of zero at the selected printing resolution. These might not be visible to users, but can form part of a document's watermarking or layout. After the update, those invisible objects can apparently make the printed document disappear too. Microsoft said: "The issue was observed when printing Microsoft Word documents using the Windows Graphics Device Interface (GDI), but printing from other applications might also be affected." According to the notification (WI1549472), most versions of Windows are affected, from the latest Windows 11 26H2 through Windows 10 Enterprise LTSC 2016. Windows Server from 2025 to 2016 is also affected. Users need not have added these objects themselves. Microsoft says document-generation tools can insert them even when no graphic is visible. Printer problems aren't the only issue requiring attention. After installation of the November 2026 security update, Microsoft warned that "certain Windows activation and licensing operations performed using the Software Licensing Management Tool (SLMGR) might fail." This one is a little more niche, but it could be a headache for affected administrators. It primarily affects organizations that use command-line tools or automated processes to manage Windows activation and licensing. "Affected devices might encounter error 0x80041008 , Invalid parameter ( SWbemObjectEx ), when running commands to activate Windows, configure Key Management Service (KMS), or manage product keys," Microsoft said. "The failure has been observed while executing the command ' slmgr.vbs /skms-domain ' and ' slmgr.vbs /ipk '." The notice (WI1549486) currently lists Windows 11 23H2, Windows 10 22H2 and 21H2, and Windows Server 2025, 2022, and 2019 as affected. The printing problem remains under investigation, but Microsoft says a fix for the activation issue is due in the coming days. Administrators needing an interim workaround must contact Microsoft Support for Business. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5244931&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5244931&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Jensen Huang is out. What did China want from him?</title>
-<link>https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump</link>
-<guid isPermaLink="false">d533790e4d2bd7ed50cfc6e2be354ad99fa58d52f331d94355c16991500d1a5c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 16:30:00 +0000</pubDate>
-<description>Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf the company. We’ll have more on that story as things develop and we learn how Nvidia will restructure itself after Jensen — he had something like 60 direct reports, after all, and the entire AI financial ecosystem flows through the company. This is pure Decoder bait. But just two days ago I talked to Kyle Chan, a foreign policy fellow at the Brookings Institution’s John L. Thornton China Center, about the real heart of the scandal: What would China even seek to accomplish by having a spy so close to Jensen? And what does the real state of the US-China AI conflict really looks like, particularly from the Chinese point of view? Kyle’s answers about chips and how China is perceiving the so-called AI “race” were very illuminating, but maybe even more interesting was his observation on Jensen Huang’s relationship with Trump was the most important thing of all — because maybe what China most stood to gain was someone who could whisper in the right ears. Let’s just dive right into it. But keep in mind that when we were talking, we still didn’t know what would happen with Jensen. Okay: Kyle Chan on Nvidia, China, and the future of AI export controls. Here we go. This interview has been lightly edited for length and clarity. Kyle Chan, you are a fellow at the John L. Thornton China Center at the Brookings Institution. Welcome to Decoder . Great to be here. What on earth could we be talking about as it relates to your expertise about China today? I have a lot to ask you about Nvidia, about our relationship to China as a country, as an economy, and about national security. Let’s start at the very beginning. From all the reporting we have today, it seems like the United States government has been very worried about a company called Megaspeed and Alice Huang, the alleged Chinese spy at the center of the swirling scandal around Jensen Huang, the CEO of Nvidia. What do we know about Alice Huang and Megaspeed? We have to be careful about what we know and what we don’t know. So far, there are allegations that the US intelligence community believes that Alice Huang may be an asset of the Chinese intelligence services. Megaspeed itself is a customer of Nvidia’s and they built a data center in Malaysia. They also seem to potentially have ties with Chinese companies and could — and this is where we’re getting into what we do know and what we don’t know — potentially be a conduit for Chinese AI companies accessing cutting-edge Nvidia chips like Blackwells. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . I want to rewind way back. The noti</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_1112_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_1112_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>United Airlines wants you to check in, not your chatbot</title>
@@ -1060,17 +1093,6 @@
 <media:content url="https://image.theregister.com/?imageId=5237217&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>IBM to offer access to a dual-processor quantum system in 2027</title>
-<link>https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027</link>
-<guid isPermaLink="false">2fef5385720a31d4afe64a9fd9874e01c04d7c545cb25ed71f0693b019aebb9e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 16:33:08 +0000</pubDate>
-<description>IBM's Quantum Developer's Conference is being held this week, and the company is using the gathering to provide an update to its roadmap: It is aiming to make error-corrected quantum computers before the decade is out. The changes greatly expand the scope of its next-generation Nighthawk general-use processors by adding a version with over 500 programmable qubits. At the same time, it's stepping back a bit on its plan to link multiple Nighthawk processors together, dropping the intended number of linked systems from nine to two. The total number of qubits planned for next year will remain the same; how the company is getting there, however, will be different. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Over Ubuntu? Fedora is the Linux distro I’d hop to next – here’s why</title>
 <link>https://www.zdnet.com/linux/ubuntu-fedora-migration-linux-distro-hopping</link>
 <guid isPermaLink="false">8b54b1900297f4653a21e3d9b058dc8b4ab49791c4f5856d3c7ec85da2b80f9e</guid>
@@ -1489,17 +1511,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/gnomelaptophero.jpg" medium="image"/>
 </item>
 <item>
-<title>Another contract extension for Fujitsu on the Post Office's Horizon</title>
-<link>https://www.theregister.com/public-sector/2026/11/10/another-contract-extension-for-fujitsu-on-the-post-offices-horizon/5308793</link>
-<guid isPermaLink="false">d0f9b79a806f521e10fe0c4b7d87936927d678df2f3099e4a673af8024a0acb9</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 14:45:11 +0000</pubDate>
-<description>The UK Post Office is extending its contract with Fujitsu to give it time to move services to a new supplier, after a scandal that has long marred the relationship between the two. The current contract runs until March 2027, and the publicly owned company has announced a short, time-limited contract extension to cover the transition. Accenture will take over running the Horizon system, which was at the center of a string of miscarriages of justice, from September 2027, after winning a £410 million contract in May this year. Meanwhile, the Post Office is developing a replacement for the aging system to serve its network of 11,500 branches. The Post Office began rolling out the legacy Horizon IT system for accounting in 1999, along with two subsequent upgrades. The electronic point-of-sale (EPOS) and back-end finance system was first implemented by ICL, a UK tech firm majority-owned by Fujitsu in the 1990s and which it fully acquired in 1998 . From 1999 until 2015, around 736 subpostmasters were wrongfully prosecuted and convicted over Horizon errors, devastating lives in the process. The Post Office, Accenture, and Fujitsu have agreed that Fujitsu will hand over the operation of Horizon to Accenture between 1 June and 1 September 2027, with the final date set to be confirmed in March 2027. Accenture is set to "walk in and take over" the current Horizon system by assuming day-to-day operations from Fujitsu, as well as developing the back-end of the new system to replace Horizon. Post Office CEO Neil Brocklehurst said: "Ending our contract with Fujitsu is a critical milestone in Post Office's transformation, and today's agreement secures the transition away from Fujitsu and over to Accenture safely and responsibly to achieve our target of summer 2027. "In addition to ending our contract with Fujitsu, we are also working at pace with our leading technology suppliers, Accenture, OneView Commerce, and Escher, to build a modern, resilient platform able to make everyday life easier for customers and postmasters for years to come." Fujitsu has also been awarded a contract extension to run the UK Government's Emergency Alerts platform until October 2029. The contract is worth £9.6 million ($12.8 million). The company committed to not bid for new public sector contracts while the inquiry into the Horizon scandal continues. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=228064&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=228064&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>5 apps I need Siri AI to work with now that it’s open to third-party developers</title>
 <link>https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration</link>
 <guid isPermaLink="false">2cad6d84b7df6432786bd595ff0f5b85e31a1ee7fd5a37718e33d977dabc33bc</guid>
@@ -1509,17 +1520,6 @@
 <description>With the latest betas for iOS and other platforms, Siri AI is now available to all developers for full integration into their apps. Here are the ones I hope will jump on board.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Libby-app-on-iPhone.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Libby-app-on-iPhone.jpg" medium="image"/>
-</item>
-<item>
-<title>Stanford's century-long AI study admits it's already out of date</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/10/stanfords-century-long-ai-study-admits-its-already-out-of-date/5308574</link>
-<guid isPermaLink="false">f436fabb6ae18ecfdd7aa2ebe493ad3d2714841162ee9936f66a2ff74e509878</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-<description>Twelve years into Stanford's 100-year study of artificial intelligence, the project's third report raises more questions than it answers. The 2026 AI100 Study Panel report acknowledges its limitations in its twelfth takeaway: "This report will be out of date by the time you read it." But it's nonetheless a worthwhile exercise for those who haven't been paying close attention to the development of machine learning over the past few years and for policymakers who may benefit from a review of AI's metastatic growth. "The last five years constitute a watershed moment in the history of AI," said Professor Sheila McIlraith, chair of the AI100 Standing Committee, in a statement. " This report examines what led to the extraordinary capabilities of today's AI systems, and how they are reshaping society. As we look ahead, we anticipate continued increase in AI capabilities alongside transformative advances in science and medicine. "Rapid change will challenge governments and industry to support and safeguard our people, our institutions, and our critical infrastructure. Both the benefits and the risks of AI technologies require the same clear-eyed scrutiny." Established in 2014, the One Hundred Year Study on Artificial Intelligence (AI100) is overseen by a Standing Committee of AI experts and administered by Stanford's Institute for Human-Centered Artificial Intelligence (HAI). It's charged with producing reports every five years, the first of which debuted in 2016. The 2026 report's other key points highlight the transformation brought about by increasingly capable machine learning software. It identifies scaling as the engine of AI's advance, but also points to the growing cost and difficulty of obtaining training data as constraints on further progress. The report likens AI's disruptive potential to that of the World Wide Web – without dwelling on the irony that the web itself is among the things being disrupted. It points to creative industries, computer programming, and mathematics as fields once deemed beyond the reach of automation that are now being upended. Science, the report says, is being transformed by AI as it accelerates research timelines and opens up novel challenges. At the same time, the report cautions that "we will need to understand how AI-mediated information environments reshape collective cognition and moral behavior." The recent retraction of some 1,400 scholarly papers for failure to meet academic standards highlights the urgency of that message. Then there's the AI investment boom and "fears of a financial bubble, " which won't be assuaged by recent NASDAQ volatility and revelations about Nvidia CEO Jensen Huang's relationship with an alleged intelligence operative for China. Concerns about the concentration of frontier AI development, the pressure AI puts on cybersecurity, and the active use of AI for military applications are also noted in the report. So too are worries about what AI-generated media does to trust. Item nine on</description>
-<enclosure url="https://image.theregister.com/?imageId=5308673&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5308673&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Ring’s new drone patrols your home to keep an eye on things – even upstairs</title>

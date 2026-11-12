@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers</title>
+<link>https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet</link>
+<guid isPermaLink="false">fffe7bfbe682267dc412855a91a54c7d0fef11974f77c6c1cb8f80039567f0b2</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 20:36:03 +0000</pubDate>
+<description>Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>DTCC Plans Solana Expansion as Wallet Rules Limit Access</title>
+<link>https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access</link>
+<guid isPermaLink="false">d8ce31275f6dc8b42852dcd824c426002fb1388af5c0f86b0964bba62197e62a</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 20:07:41 +0000</pubDate>
+<description>The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png" medium="image"/>
+</item>
+<item>
+<title>Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold</title>
+<link>https://bitcoinmagazine.com/videos/simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold</link>
+<guid isPermaLink="false">3359d7475a823731d169a8a43f49b228b02f9c66aed05ee15011c405e00a8d1d</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 19:19:08 +0000</pubDate>
+<description>▶ Bitcoin Magazine Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold Simon Dixon, CEO and co-founder of BnkToTheFuture, tells BMTV there are only three things that would make him sell all of his Bitcoin and buy gold. Since 2011, he says Bitcoin has done three things incredibly well: you can earn and hold it in self-custody, spend it peer-to-peer without a government in the middle, and rely on a fixed supply of 21 million as a hedge against long-term debasement. If any of those three is ever called into question, he would sell immediately. The real battle, in his view, is not whether Bitcoin gets adopted — he says institutional adoption is on a trajectory we have never seen — but whether custodians, Wall Street-owned miners, and treasury companies end up centralizing the network. SALT Lending: Don’t sell your Bitcoin. Borrow against it. BMTV viewers borrow from 6.99% APR, a half point below SALT’s standard 7.49%. No credit check, no origination fees, no prepayment fees. The original Bitcoin-backed lender, lending against BTC since 2016. GET YOUR BMTV OFFER: https://saltlending.com/bmtv/?utm_source=bmtv&amp;utm_medium=youtube&amp;utm_campaign=bmtv_offer SALT is the official Liquidity Sponsor of BMTV. SALT loans are originated by SALT Lending LLC (f/k/a SALT Master Fund II, LLC), NMLS 1711910. Borrowing against collateral involves risk. Not available in all jurisdictions. Digital currency is not legal tender and is not FDIC or SIPC insured. Terms: https://saltlending.com/terms-of-use/ Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 When He Would Sell Bitcoin and Buy Gold 01:21 The Battle Is the Cost of Institutional Adoption 02:34 Bitcoin, M2, and the AI Correction Cycle 03:45 They’re Not Going to Let the AI Trade Fail 05:52 Playing Roulette With the World Economy 06:37 A Global AI Control Grid and a K-Shaped Economy 07:48 Owning Your Key Is Resistance 09:06 Who Really Owns the Money in a Bank Account 10:53 You Need Money Outside the System 13:44 Why Central Banks Are Buying Gold, Not Bitcoin 15:24 The Setup That Has Never Been Compromised 18:10 If Everybody Gives Their Keys to BlackRock, Bitcoin Fails DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold first appeared on Bitcoin</description>
+<enclosure url="https://img.youtube.com/vi/QthZS6fDFh0/hqdefault.jpg" type="image/jpeg"/>
+<media:content url="https://img.youtube.com/vi/QthZS6fDFh0/hqdefault.jpg" medium="image"/>
+</item>
+<item>
 <title>Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds</title>
 <link>https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack</link>
 <guid isPermaLink="false">c6580cf76d6b317d68c1087e222b7cf917557737841e665dd773bdb7fc4c1e73</guid>
@@ -554,17 +587,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg" medium="image"/>
 </item>
 <item>
-<title>MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30</title>
-<link>https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index</link>
-<guid isPermaLink="false">c91aec6665ecf187d0afd98267df803ef061b25c4fcb2685f0ba491ac8f5e3ed</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 23:36:56 +0000</pubDate>
-<description>Bitcoin Magazine MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30 MSCI will remove Strategy, the largest corporate bitcoin holder, from the MSCI USA Index as of the close of Nov. 30, the index provider said Wednesday, after a new screen classified the company as a non-operating issuer. The decision is part of MSCI’s November 2026 Index Review , posted shortly after 5 p.m. ET. Official additions and deletions lists show Strategy (MSTR) out of its USA Index, which also takes it out of the broader MSCI World and ACWI indexes. The same review deletes Japan’s Metaplanet from the MSCI Japan Small Cap Index and uranium holder Yellow Cake from the MSCI United Kingdom Small Cap Index, and it removes Iceland’s Skel Fjárfestingafélag from the MSCI Iceland Frontier Markets Small Cap Index and micro-cap Upexi from the USA Micro Cap Index. All five had already been marked Deleted on MSCI’s potential-impact list , built on Sept. 30 financial data and Oct. 9 market values. Strategy is the only large-cap name in the group and, on that October list, accounted for more than 90% of the five companies’ combined float-adjusted market value. The company held 850,364 bitcoin as of Nov. 8, acquired at an average price of $75,456 a coin, or $64.16 billion in aggregate. Strategy shares closed at $122.35, up 1.06%, then slipped 1.51% to $120.50 in after-hours trading as of 5:34 p.m. ET. How the MSCI screen works The rule does not mention bitcoin. The index first checks whether a company’s operating assets equal at least 50% of total assets. Issuers that fail that core screen face five financial ratios, and a company flagged on four or more of them is ineligible for the MSCI Global Investable Market Indexes. Buffers limit turnover. A company outside the indexes cannot be added if it fails the ineligibility screen in either of its two most recent annual filing periods, but a current constituent is removed only if it fails in each of them. The index said it may also use the most recent interim filing. MSCI also said Wednesday that the same non-operating treatment will apply to the MSCI US Index Series. The screen replaces an approach aimed squarely at crypto. The index first proposed in late 2025 to exclude companies whose digital assets made up 50% or more of total assets, then dropped that plan in January and opened a broader consultation in August. It adopted the new methodology on Oct. 15, with minor modifications, and said it would end the interim measures it had placed on those companies in October 2025, including a freeze on share-count increases and a deferral of additions. What the deletion does and does not do Funds that track an MSCI index have to hold what the index holds, so they will have to sell the deleted stocks by the Nov. 30 close. JPMorgan analysts estimated last November that an exclusion could drive about $2.8 billion of outflows from Strategy, and as much as $8.8 billion more if other index providers followed. That</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg" medium="image"/>
-</item>
-<item>
 <title>Suiet wallet to shut down in latest exit from Sui ecosystem</title>
 <link>https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem</link>
 <guid isPermaLink="false">dbfdeedca23cb18d82e1ff1bf4539fe98d11295244b66f8d910ec9ce3e2cddfe</guid>
@@ -928,17 +950,6 @@
 <media:content url="https://imgproxy.divecdn.com/BHGADPxOZR23ubwcZbw8z_uTUZk4vq1HOtEMnze9IOc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NTEwMzQxNi5qcGc=.webp" medium="image"/>
 </item>
 <item>
-<title>Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings</title>
-<link>https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings</link>
-<guid isPermaLink="false">b4b01bf3a8c1235de8e7f6d43a855627a566a6551511f73773254a57962e1264</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 11:56:23 +0000</pubDate>
-<description>Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M750XDAB96KNY5BNHMGJV4GV/2222222-1.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M750XDAB96KNY5BNHMGJV4GV/2222222-1.png" medium="image"/>
-</item>
-<item>
 <title>Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX</title>
 <link>https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax</link>
 <guid isPermaLink="false">da9dfd258316f835ffc0146f121741ad7deb3f5bca68c14ed88ac720a2eaaeec</guid>
@@ -1058,16 +1069,5 @@
 <description>Wells Fargo’s AI Teammate has had hundreds of thousands of interactions, according to Andre Mansour, and “things that used to take hours now are down to minutes.”</description>
 <enclosure url="https://imgproxy.divecdn.com/JEKh7PHJJI9YFVmLrb0NoVuB7ZR7beWvyh5UoxCGkik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NzgwNTcyLmpwZw==.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/JEKh7PHJJI9YFVmLrb0NoVuB7ZR7beWvyh5UoxCGkik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NzgwNTcyLmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike</title>
-<link>https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike</link>
-<guid isPermaLink="false">bbfff8dc3f379cf2b20aed170f250cced695021d62aa3f06d27dbf6b7b1a8ad2</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 16:27:57 +0000</pubDate>
-<description>Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png" medium="image"/>
 </item>
 </channel></rss>

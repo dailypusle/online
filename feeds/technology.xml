@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Your AI agent is only as good as your endpoint data</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469</link>
+<guid isPermaLink="false">c7a278e5286830e2e4c0d123613270bd15e62fff90f1fea7e9aae78f62a01982</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
+<description>Every so often a flaw comes along that shows how fast the ground can shift under IT and security teams. PHP2Shell, a pair of critical flaws in PHP, was one of them. Details leaked before the planned disclosure, frontier AI helped researchers find the flaws, and PHP shipped fixes the next day. For many teams, though, the patch was the easy part. So what does it take to respond at that speed, and where should teams begin? What does governed autonomous IT look like in practice? Picture a loop. Software finds where a risk lives and ranks what matters most. It proposes a fix, then, inside limits people define, carries it out and checks that it worked. Routine, low-risk actions can run on their own. Higher-impact ones wait for a person to approve. A few are never handed over at all. Each step leaves a record that someone can review and reverse. What challenges do IT and security teams face today? Three problems keep coming up. The first is visibility. PHP2Shell reportedly sat undetected for more than a decade. For these two flaws, the fix was a version upgrade. The hard part was finding every copy of PHP, including copies bundled inside other software or extracted by hand onto Windows machines that never registered as installed applications. Then teams had to work out which copies the internet could reach and check for signs of earlier attack. An inventory built from a periodic snapshot can't answer those questions on the day they matter. The second is tool-hopping. Answering "where does this run, and can the internet reach it?" often means pivoting across an asset inventory, a vulnerability scanner and an external attack surface tool, each with its own view. Every hop adds delay. Every console is another chance to disagree with the last. The third is pace. Several security firms reported exploitation attempts before PHP released its fixes, and Cloudflare reported early attacks hours ahead of the patch. Frontier AI models helped find PHP2Shell, and in April Anthropic said its Claude Mythos Preview model had found thousands of previously unknown flaws across every major operating system and browser. With models like these in the picture, the old rhythm of disclose, patch and verify assumes a gap that keeps shrinking. Put an AI agent on top of stale, fragmented data and these problems don't go away. They scale. Why does real-time endpoint data make autonomy trustworthy? Endpoints are where work happens and where many attacks end up, so they are the ground truth for any decision about the estate. Four qualities make that data a sound foundation for autonomous action: Accuracy: Live data from the endpoints themselves, not a snapshot that was true last week. Speed: A short path from question to action, with no hopping between tools to reconcile answers. Control: Approvals and an audit trail, plus the ability to roll back, so any automated action can be reviewed and reversed. Shared truth: IT operations, security and the system of record working from one vie</description>
+<enclosure url="https://image.theregister.com/?imageId=5308471&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5308471&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges</title>
+<link>https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair</link>
+<guid isPermaLink="false">08be873cd96fdb13dfe9f415be478c6c8924075ea01281a6d297cd38cf7eb406</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 07:43:13 +0000</pubDate>
+<description>Meeting comes after CEO admitted to having a relationship with a woman who is alleged to be a Chinese spy Business live – latest updates Nvidia’s board of directors met on Wednesday to decide whether to oust Jensen Huang as CEO of the world’s most valuable chip company, according to multiple reports, after a tumultuous week in which the executive and co-founder of the company admitted to having a romantic relationship with a woman who is alleged to be a Chinese spy. The meeting marks ⁠a sharp shift from Sunday, when Nvidia’s board ​expressed confidence in Huang and his leadership team. However, Huang’s position became more tenuous late on Wednesday after it was reported by the New York Times that Huang had a separate extramarital affair with a company employee named Kimberly Powell. She was Nvidia’s president of healthcare and was reportedly captured on video being affectionate with Huang at a hotel during a company conference in March. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/934ceaf0a7aec362a381e5a51d389c5e68326269/300_0_4583_3668/master/4583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5fd535a105d743af7320a53b076ef44d" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/934ceaf0a7aec362a381e5a51d389c5e68326269/300_0_4583_3668/master/4583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5fd535a105d743af7320a53b076ef44d" medium="image"/>
+</item>
+<item>
 <title>Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI</title>
 <link>https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai</link>
 <guid isPermaLink="false">b9c79e7a2e9a6ed7ec0c8f3e8e8edfeb0ca2258a197ac3dc6a870380f60a370c</guid>
@@ -24,17 +46,6 @@
 <description>AWS has released an emulator that kind-of-almost lets you use its cloud on a PC. As explained in the GitHub repository for the prosaically named “AWS Emulator,” the tool “is a local program that serves an AWS API endpoint.” The emulator doesn’t replicate the whole AWS cloud, instead offering its APIs. “You use it to test your software without calling AWS, on your own machine, on a development server, or in continuous integration (CI),” the repo explains. Because those tests never touch the AWS cloud, the tool is free to use. AWS wrote the emulator in Rust, a choice that senior specialist solutions architect Daniel Abib wrote helps to ensure the tool “stays light on CPU and memory on a laptop.” The emulator tool doesn’t replicate the entire AWS cloud. Abib said it supports the APIs of AWS services that have an API model in the AWS API models repository on GitHub . The Register found over 1,300 items on that page. While the tool lets developers test APIs, it doesn’t replicate anywhere near all the features of the Amazonian cloud. “It doesn’t evaluate IAM [Identity and Access Management] policies the way AWS does, and each emulator acts as a single account, with no cross-account or cross-Region behavior,” Abib wrote, adding “How closely it matches AWS varies by service and feature.” AWS publishes “fidelity scores” that detail how closely the emulator works on different AWS services. Amazon tries to achieve full fidelity, so the emulator produces the same results as AWS for valid API calls, and the same errors for invalid ones. Coding agents can also drive the Emulator, an option The Register mentions because AWS advises the easiest way to check if a project will work with the tool is to use the aws-emulator skill for AI coding agents. “With the skill, your agent finds the AWS operations and resources that your project depends on. It checks them against the fidelity tests and fidelity scores for the emulator. It then tells you which parts of your project you can rely on the emulator for, and which ones might behave differently from AWS,” according to AWS documentation. AWS has made the emulator available as an RPM or Debian package. Mac and PC users will need to run Docker and an image of the Emulator. “You install the emulator, start it, and point your tools at the local endpoint,” Abib instructed. “When AWS Emulator starts, it generates its own credentials, a config file, and a certificate, and writes them to ~/.aws/emulator/9297/ . You set environment variables so the AWS SDK talks to your laptop instead of AWS, and your application code stays unchanged.” “From there, your existing tests, CLI scripts, and coding agents keep working the way they already do. A unit test that creates an Amazon DynamoDB table, writes an item, and reads it back is the same test, and it runs on your machine without a deployment.” The cloud colossus’s intent appears, as ever, to encourage more use of its cloud – in this case by satisfying developers their code will run w</description>
 <enclosure url="https://image.theregister.com/?imageId=5309256&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309256&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>You had me at LOL: some notes for the You’ve Got Mail reboot</title>
-<link>https://www.theguardian.com/film/2026/nov/12/youve-got-mail-reboot-email</link>
-<guid isPermaLink="false">62739605962a31f1f4f5842542b4e2408a7d22b8e46e00a9fc7a573b6eebed7e</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 05:00:10 +0000</pubDate>
-<description>Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches Assuming you have already heard about the You’ve Got Mail reboot, you are probably in one of two states. You are either excited that the news might be a signal of a long overdue romcom resurgence, or you are embittered because it’s another sign that Hollywood has run out of original ideas. I hold absolutely no truck with the latter view. Quite frankly, if there was ever a film in dire need of a reboot, then it’s You’ve Got Mail. The film is almost 28 years old, and it shows every single day of its age. You’ve seen it, you know how it goes. It’s about two people who use the futuristic new technology of email (email is no longer new) to communicate, despite being rival booksellers ( nobody reads books any more ), and eventually begin a relationship ( nobody wants to be in a relationship any more ). The whole thing is preposterous. Of course they should try again. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/d4876fbb6e84518f1d6e3c49077a93e7c33549ad/171_0_1500_1200/master/1500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=358740e6ba584d2a6a534853ad614a51" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/d4876fbb6e84518f1d6e3c49077a93e7c33549ad/171_0_1500_1200/master/1500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=358740e6ba584d2a6a534853ad614a51" medium="image"/>
 </item>
 <item>
 <title>Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates</title>
@@ -1093,17 +1104,6 @@
 <media:content url="https://image.theregister.com/?imageId=5219759&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>‘Flying cars’ could launch in China next summer, maker of two-seat model says</title>
-<link>https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng</link>
-<guid isPermaLink="false">a0a19dee53bf45e236c6b4666461711ee4f1f1739c0e477fe741f20be23f88f7</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 16:14:50 +0000</pubDate>
-<description>XPeng says its $300k low-altitude device will soon be ready for emergency services and recreational use in rural areas People could start taking trips in so-called flying cars in China as soon as next summer, the manufacturer of a two-seater vehicle with autopilot model has said. Deli Zhao, the chief executive of the Chinese flying car company XPeng, said the $300,000 (£225,000) low-altitude device would be ready for use by recreational users in rural locations and by emergency services in the second half of 2027. After 10 years of development including trials of flying motorbikes at the company’s Guangzhou base, it has been approved by China’s civil aviation authorities for limited use. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/8df726b5a5310c3a6db89297bbc9ba32d8cfa244/279_0_3938_3150/master/3938.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63e1843676a253bdc473da5b8c2ef10d" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/8df726b5a5310c3a6db89297bbc9ba32d8cfa244/279_0_3938_3150/master/3938.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63e1843676a253bdc473da5b8c2ef10d" medium="image"/>
-</item>
-<item>
 <title>Anthropic targets valuation of up to $1.4tn in stock market flotation</title>
 <link>https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai</link>
 <guid isPermaLink="false">d3a0388562c166c7c812bfaf0b2248e509f8b7082e3b854e4cd55773da493c20</guid>
@@ -1225,17 +1225,6 @@
 <media:content url="https://image.theregister.com/?imageId=5303385&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy</title>
-<link>https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi</link>
-<guid isPermaLink="false">8661eee6a6e893bab665d6f6cda210b851b46b89c20303f5a64bc32975013dea</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 12:45:54 +0000</pubDate>
-<description>California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice Huang Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen Huang, have been accused of misleading shareholders in a lawsuit over the Chinese spying scandal engulfing the $4.3tn (£3.2tn) company. The legal action came as Donald Trump said the FBI was investigating Huang’s affair with an alleged Chinese spy. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/4bb2aea3a751225099085e5a566972be04e8a7e5/0_0_6941_5553/master/6941.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff38f439abdb7b039bae5e4ce9fb2738" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/4bb2aea3a751225099085e5a566972be04e8a7e5/0_0_6941_5553/master/6941.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff38f439abdb7b039bae5e4ce9fb2738" medium="image"/>
-</item>
-<item>
 <title>Smart meters to cost the UK billions: 2G switch-off means replacing 12-13 million</title>
 <link>https://www.theregister.com/networks/2026/11/10/smart-meters-to-cost-the-uk-billions-2g-switch-off-means-replacing-12-13-million/5308728</link>
 <guid isPermaLink="false">48f9dcdb671e611eb389f19a5ba0e2c0c306045f7821313f7ae5837ea55bb5de</guid>
@@ -1346,6 +1335,17 @@
 <media:content url="https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4bc1c8dc3414293d139b9507b77e95d" medium="image"/>
 </item>
 <item>
+<title>Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video</title>
+<link>https://www.theguardian.com/australia-news/video/2026/nov/10/mandatory-ai-safety-and-security-protections-announced-after-openai-breach-of-medicare-video</link>
+<guid isPermaLink="false">e492c134981293039aa9de9641ba24b43c3c0d3b63387549e4d041a6779da460</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 05:29:32 +0000</pubDate>
+<description>Australia's prime minister said its government would set up a new AI safety regulator and Labor would consider six key obligations on AI companies. The review made 18 recommendations. Anthony Albanese said: 'We accept all of the recommendations, and we’ve commenced work to implement them.' Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/0e9dca7c9e94446383a80bbc5d2065a6fe806b55/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f85bcc77ef5c88fb60eefbb5842cd8d" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/0e9dca7c9e94446383a80bbc5d2065a6fe806b55/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f85bcc77ef5c88fb60eefbb5842cd8d" medium="image"/>
+</item>
+<item>
 <title>Cisco to link all future products to its SaaS-y Cloud Control management tool</title>
 <link>https://www.theregister.com/networks/2026/11/10/cisco-to-link-all-future-products-to-its-saas-y-cloud-control-management-tool/5308660</link>
 <guid isPermaLink="false">8965eccb1e423b3474fd3e3b0deee68ef456ffe8a8699b2bf6450137dcaa47fc</guid>
@@ -1388,6 +1388,17 @@
 <description>Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decision For more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia. He co-founded the company as a young engineer in 1993 and oversaw its growth into a multitrillion dollar chipmaker and bellwether of the AI industry at large. He’s also made it a family business. His children, Madison and Spencer, have taken leadership roles at the firm. While not a company executive, his wife, Lori Mills Huang, leads the family foundation which, as of 2024, controls over 60m Nvidia shares. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c43d891d33ec85172cf8efa28232145" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c43d891d33ec85172cf8efa28232145" medium="image"/>
+</item>
+<item>
+<title>The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security</title>
+<link>https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security</link>
+<guid isPermaLink="false">ecb334382b3d5b66bd57a180822df7650e66ede387f5607ab0559d7d4af5d2b4</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 20:01:05 +0000</pubDate>
+<description>Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is under intense scrutiny A hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei venue last year does not seem particularly remarkable at first glance. But the Nvidia chief executive’s revelation on Sunday that he had an affair with Ms Huang has given it new significance. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b54d147c7ce2afb86e53877e38bfb348" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b54d147c7ce2afb86e53877e38bfb348" medium="image"/>
 </item>
 <item>
 <title>Attackers backdoor trusted AWS integrations to steal secrets</title>
@@ -1509,17 +1520,6 @@
 <description>Windows testers are getting a new option in the Sticky Keys and Filter Keys dialogs – one to banish the pop-ups without needing to venture deep into Settings. It's only taken several decades for Microsoft to put the off switch where the interruption actually happens. The accessibility features themselves are useful, though triggering their activation prompts by accident is another matter. Once enabled, Sticky Keys let users press modifier keys (such as Control) one at a time instead of holding them down together. For example, rather than holding Control and pressing C to copy, a user can press and release Control, then press C. Filter Keys, meanwhile, ignores brief or repeated keystrokes and adjusts the keyboard's repeat behavior. However, the dialogs are of little use to people who don't need the features, and they can pop up at the most inconvenient moments. Tap Shift five times, and you'll see what we mean: Windows chimes and shows a dialog asking whether you'd like to turn on Sticky Keys. Dismiss it, hit Shift five times, and there it is again. Or hold down the right Shift key for eight seconds to be treated to the Filter Keys pop-up. You can stop this behavior elsewhere in the system, but it requires a trek through Windows settings. The change, introduced in the Experimental Windows Insider Build 26340.9882, adds an option to the Sticky Keys or Filter Keys dialogs to dismiss the prompts permanently. It's a small change, but one that should spare users an irritating interruption. Better late than never – even if "never ask me again" has taken roughly three decades to reach the dialog. Former Microsoft engineer Charles Opperman said he wrote the dialog in early 1995 "after @bradsilverberg kids kept activating StickeyKeys [sic] while playing Space Cadet pinball." Opperman added that a link to Settings was added in Windows 98 or what would become Windows 2000, and a checkbox was considered even then, but it wasn't deemed a priority. Users could turn off the prompt via settings. Now the option is front and center. The option is also rolling out in the Windows Insider Beta channel , although Microsoft has not announced a general release date. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=257647&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=257647&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>NASA keeps its PROMISE to raid Mars testbeds for parts</title>
-<link>https://www.theregister.com/science/2026/11/09/nasa-keeps-its-promise-to-raid-mars-testbeds-for-parts/5308475</link>
-<guid isPermaLink="false">e420dcf57529a6d51c9f6b1deac5e3b2319948f5d584bfe5447d234534e13e15</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 15:45:00 +0000</pubDate>
-<description>NASA is moving ahead with its plan to repurpose a Mars rover engineering model as a lunar trundlebot for less than $400 million. The robot, dubbed PROMISE (Polar Rover for Observation, Mapping, and In-Situ Exploration), is a cut-and-shut of engineering test articles used for the Perseverance and Curiosity rovers, currently rolling around the Red Planet. During a weekend briefing , NASA outlined the plan for PROMISE: to land the robot on the lunar surface by late 2028 for an 18-month mission. PROMISE will be preceded by NASA's VIPER trundlebot, which is expected to survive only 100 days on the Moon's surface. PROMISE will carry copies of VIPER's science instruments, including a drill capable of boring 1 meter into the lunar regolith. Power will come from a Radioisotope Thermoelectric Generator (RTG) left over from the Cassini mission. NASA acknowledged the fuel was processed some time ago – the Cassini mission to Saturn was launched in 1997 – but anticipates there will be plenty of heat and power for PROMISE's components. Blue Origin is to deposit the rover on the Moon. NASA awarded the company a $94 million base contract, "with an option period worth an additional $140 million based on performance to deliver PROMISE to the lunar South Pole." The figures make it difficult to ascertain the exact cost of the PROMISE mission. However, during the briefing, NASA said it had "a pretty firm agreement with JPL to basically deliver the rover to the surface under $400 million." The $400 million includes the lander, which will be Blue Origin's Mark 1. Earlier this year, The Planetary Society's chief of space policy, Casey Drier, estimated that the mission (including repurposing the hardware developed for Mars and landing it on the Moon) would cost at least $723 million. At the time, NASA Administrator Jared Isaacman said: "if PROMISE costs even 20 percent of your low-end estimate, we simply will not fly it." Assuming Isaacman was only talking about the rover, Drier's figure drops to $489 million without launch and landing costs. 20 percent of that is… not going to be enough. That also doesn't account for the impact of taking away the hardware built for the Mars program. During the briefing, NASA said it was "pretty comfortable" with how the Mars rovers were going and so was happy about repurposing the hardware or, as one speaker put it, "can we give it a new paint job?" A source told The Register that morale at the agency's Jet Propulsion Laboratory (JPL) was not high at present. Raiding successful programs to fulfill the administration's whims is unlikely to have improved the mood of engineers. Still. Another trundlebot on the Moon. Far better than using that spare RTG for yet another deep space mission, right? ®</description>
-<enclosure url="https://image.theregister.com/?imageId=1684260&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1684260&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Crime pays: how Grand Theft Auto became a cultural colossus</title>

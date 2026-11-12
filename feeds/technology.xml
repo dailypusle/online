@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Whoop launched a social network where every user has a ‘verified heartbeat’</title>
+<link>https://www.theverge.com/gadgets/1032630/whoop-humans-social-network</link>
+<guid isPermaLink="false">dd62360cdb55684548b933d3167392023265ac357145129d43f04a3f64bbaa9a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 23:43:22 +0000</pubDate>
+<description>Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like "Moments" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is "entirely human," unlike other social media platforms that are "saturated with artificial intelligence, automated accounts and bots, and manufactured content." Whoop CEO Will Ahmed says Humans is "the most verifiably human network ever launched. Every account represents a real person with a verified … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Meta's Muse can now make calls on your behalf (if you have a paid subscription)</title>
+<link>https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription</link>
+<guid isPermaLink="false">3737f013bc02f6fab52d2fc1ded162807ce62f92a4a712d38e99b887c3a95ba5</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 23:32:00 +0000</pubDate>
+<description>The AI agent can schedule appointments, make reservations and wait on hold for you.</description>
+<enclosure url="https://www.engadget.com/img/gallery/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/l-intro-1794526142.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/l-intro-1794526142.jpg" medium="image"/>
+</item>
+<item>
+<title>Humble Bundle redesign removes two-factor verification from settings</title>
+<link>https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings</link>
+<guid isPermaLink="false">ecab0e7e397b310858703dd127ac2b30c5fa48d4a9750f474c4a50a8215ec86f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 23:30:52 +0000</pubDate>
+<description>The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku . PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification , and the writer for the publication said that they had set up two-factor verification on the old version of the site. However, it does appear that, at least as of now, there is some form of two-factor verification. When I tried logging into my Humble Bundle account while writing this article, I was prompted to check my email for … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,88.092261904762" type="image/png"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,88.092261904762" medium="image"/>
+</item>
+<item>
+<title>Microsoft Outlook is still down</title>
+<link>https://www.theverge.com/tech/1032226/microsoft-outlook-is-down</link>
+<guid isPermaLink="false">a487e36889862acfd354c53b852f2fdde6adaf452954ae1bfe079f6788e8f882</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 23:24:13 +0000</pubDate>
+<description>Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account , saying that "We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors." There were also some reports of problems with Teams, but not to the same extent, while Microsoft's official updates said customers may experience issues across its suite of 365 business services. Microsoft comms director Ben Hope said in … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft struggling to fix massive cloud outage that's taken down email and Intune</title>
+<link>https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531</link>
+<guid isPermaLink="false">40799bbe98237bf03e8edfe7391350d18ed345b50bd9edb44bf4929fde7edab4</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 23:06:06 +0000</pubDate>
+<description>Microsoft is struggling to restore many of its cloud services after a core process running on some servers became “overwhelmed” and its attempts to fix the problem failed. The incident started at around 18:00 UTC on November 12, and meant services including Exchange Online, Teams, Copilot 365, and Defender for Office 365 became unavailable. Admins trying to figure out what was wrong couldn’t access tools like Intune or the Microsoft 365 Apps Admin Center – they went down, too. On its X feed, Microsoft blamed “a problem that's causing servers to fail automated health checks and become unavailable.” The company said it hasn’t spotted any changes to its systems that might have sparked the incident, but its early investigation “indicates the failed health checks may originate from a specific component that's responsible for processing server health.” The company’s status page offers contradictory information, saying Microsoft’s people are “assessing whether reverting the small number of recent configuration updates we identified could help accelerate recovery.” According to a Xeet published at around 22:00 UTC, Microsoft said it found and validated an alternative service health check method, “which allowed a subset of affected servers to successfully return to service.” “We're continuing to work through restarting and validating the affected servers to safely return them to service, and we're exploring opportunities to expedite this process,” the company wrote. But those efforts may not be working. “We’re continuing to pursue all available pathways to restore service, as our actions taken thus far have not provided the anticipated relief,” the status page advises. “Our investigation has found that a core process on the affected servers is becoming overwhelmed, which causes the servers to stop responding and contributes to the capacity loss.” The incident means email is not flowing for many Microsoft customers: friends and family of Reg writers tell us their working days are severely disrupted. Microsoft’s most recent Xeet on the matter, published about an hour before this story went live, says it's trying to validate a potential recovery by “isolating a portion of infrastructure, restarting affected components, and reintroducing traffic to confirm the services remain stable before applying the change more broadly.” But the software giant hasn’t offered any timeline for full service restoration. This is a developing situation and The Reg will update this story as more information becomes available. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5237217&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5237217&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Xbox owners are getting more customizations for backgrounds and the Guide menu</title>
+<link>https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature</link>
+<guid isPermaLink="false">d5cc30ce1b8a71cb5403e861691c5722f96ff5d51ef0a208a59cacdc76a4b3de</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 23:00:00 +0000</pubDate>
+<description>Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. "Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically," says Eden Marie , principal software engineering lead at Xbox. "You can also choose Shuffle at the start of any background category. Have your background change each time you sign in, or set it to change hourly, daily, or weekly." Microsoft is also improving how you organize disc-to-digital … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>In reversal, American Cancer Society urges prostate cancer tests for all men</title>
+<link>https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men</link>
+<guid isPermaLink="false">1e92392f513239f5b557f3e574e9b7a271dba51a88f2f2b8bcddde441e3703f5</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 22:59:51 +0000</pubDate>
+<description>In a significant update to its guidelines for prostate cancer screening, the American Cancer Society is now recommending that all men get routinely screened for prostate cancer with a PSA test. Men at average risk should get a PSA test every two years from age 50 to 69, according to the new guidelines released Thursday. Men considered at high risk due to race and family history should start testing earlier, at 45, and most are recommended to get tested every year. Specifically, yearly testing starting at age 45 is recommended for all Black men, who have higher rates of prostate cancer. Non-Black men should also get yearly testing starting at 45 if a close relative was diagnosed with prostate cancer before age 65, or if more than one of their relatives has had prostate cancer. On the other hand, if only one close relative was diagnosed with prostate cancer and it was diagnosed at age 65 or older, non-Black men in this case should start PSA screening at 45, but are recommended to get testing only every two years. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer-500x500.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer-500x500.jpg" medium="image"/>
+</item>
+<item>
 <title>FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
 <link>https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace</link>
 <guid isPermaLink="false">6a0b530a1c16bbaf1bc5d3ae6c57079f9a4b0ac9867368de3ddf512f9e113b4d</guid>
@@ -13,6 +90,17 @@
 <description>The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Google promises its new smart specs won't give creeps their ideal view</title>
+<link>https://www.theregister.com/personal-tech/2026/11/12/google-promises-its-new-smart-specs-wont-give-creeps-their-ideal-view/5309497</link>
+<guid isPermaLink="false">9d9e33776d563fda725d3431fbce5b92a3ff9a82f1da3a5bc4b5ed7c0045fcb5</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 22:17:08 +0000</pubDate>
+<description>It’s been nearly a decade since Google ditched its ill-fated "Glass" product, an early attempt at making smart glasses. Now, as rivals like Meta enter the market with arguably more stylish kit, the Chocolate Factory has returned to the market and this time promises it won't invade your privacy. As announced Thursday, Google has decided not to make wearables itself, instead turning Samsung and eyeglass makers Warby Parker and Gentle Monster. Like most of the rest of this generation of smart glasses, none of the nine styles available feature heads-up displays, just cameras and audio feedback from Gemini. Google suggests its smart specs give users a chance to ask its Gemini chatbot questions about what they see, or have the AI speak turn-by-turn directions. Wearers of the device can also push a button or speak a command to activate the built-in 12MP camera and shoot snaps or video. Warby Parker's version of the glasses will come in three styles, with prescription and sunglass lenses available. Prices start at $395. The same lens options are available in the six frames from Gentle Monster, which will start at $449. Both manufacturers promise nine hours of battery life, boosted by charging cases that can refresh the glasses up to seven times. Preorders for both are available now, with shipments arriving, and sales beginning, on December 10. Google promises privacy The Chocolate Factory, not exactly known for being reliable with its privacy claims, is insisting that this latest generation of smart glasses won’t produce another generation of “glassholes,” folk whose focus on wearable devices became synonymous with being creepy and rude to those around them. Google has some catchup to do to that end, given Meta’s smart glasses have already landed it in hot water over privacy concerns that have led to some calling the devices “ pervert glasses .” Unsurprisingly, at around the same time it announced its new "intelligent eyeware," Google published a blog post detailing how it intends to mitigate privacy concerns. As with similar headsets, there’s a little light that comes on whenever the camera is activated. In Google’s case, it claims that light is tamper-resistant and designed to disable recording if something as small and simple as a bit of hair blocks a view of the light. It’s not clear how the tamper proofing works from Google’s statements, but a spokesperson told us a combination of hardware and software is used to detect attempts to disable or disrupt privacy features. “We're committed to continuously improving the effectiveness of these solutions as new attack vectors are identified,” Google told us. The glasses don't save images or video captured by the camera into a user’s Gemini history, Google said, nor are visuals used to train the company’s AI models or target advertisements. Google told us it does save audio recordings and transcripts of conversations with Gemini that users create while wearing the glasses but again insists that those aren’t</description>
+<enclosure url="https://image.theregister.com/?imageId=5309515&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309515&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang resigns as Nvidia CEO after alleged affairs</title>
@@ -90,17 +178,6 @@
 <description>OpenAI has launched two new security products, one for penetration testing and another for defense, and warned organizations that their businesses are only safe if they use tools like these. “We're now at a point where companies will be secure only to the extent of the frontier model that they use to defend themselves and how well they utilize that,” OpenAI President Greg Brockman said during a Thursday keynote address. The co-founder of the company that broke security did admit that security “fundamentals are important, and not to be discounted.” However, “you need to really reorient your security practice around what these models can do,” Brockman said, with zero irony, and presumably talking about using AI models for defense - not for hacking other organizations . “Also very important is product.” This product, of course, should come from OpenAI, and, to that end, the company rolled out Daybreak Red Team and Daybreak Defense Factory, which are both part of OpenAI’s Daybreak security platform. Red Team , which is available in early access, uses OpenAI models to test companies’ web applications for vulnerabilities. Nancy Wang, who leads cyber-applied AI, described it as “superhuman pen-test at the scale of automated continuous scanning,” with a fleet of agents using source code and app context to investigate and test attack paths. It also helps security teams validate reported vulnerabilities - from code scanners, bug bounty programs, and disclosure reports - and then test the patches for these flaws. The second product, Daybreak Defense Factory , automates the “defensive loop” by “finding, validating, and fixing vulnerabilities at scale.” This one also uses agents built on OpenAI’s latest cyber models - currently, that’s GPT-6 Cyber . The agents scan organizations’ codebases, hunting for vulnerabilities and developing patches. Engineers review and approve the proposed fixes before they go into production. “This way engineers get a merge-ready pull request with the patch and a test that shows that it works,” Wang said. Meanwhile, as OpenAI execs touted the new security products, a coalition of nonprofits filed a lawsuit in San Francisco Superior Court asking a judge to stop OpenAI, Anthropic, Google, Meta, and SpaceX's AI businesses from developing or deploying AI systems more capable than their most advanced existing models. The lawsuit , filed by Irreplaceable Education Fund, Public Citizen, Heat Initiative, and The Alliance for Secure AI, cites incidents involving OpenAI agents accessing Hugging Face , gaining unauthorized access to an Australian government portal containing Medicare statistics , and other AI-related cybersecurity incidents . “Defendants tell us that the AI technology they are developing poses catastrophic risks to the public, including by enabling AI-driven cyberattacks and bioweapons,” the court documents allege, adding that the AI companies “are not wrong.” ®</description>
 <enclosure url="https://image.theregister.com/?imageId=241526&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=241526&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Microsoft Outlook is down</title>
-<link>https://www.theverge.com/tech/1032226/microsoft-outlook-is-down</link>
-<guid isPermaLink="false">a487e36889862acfd354c53b852f2fdde6adaf452954ae1bfe079f6788e8f882</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 20:43:02 +0000</pubDate>
-<description>Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account , saying that "We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors." There were also some reports of problems with Teams, but some of the people reporting issues say Teams is still working now. Now, as of 3:30PM ET, Microsoft says : While we haven't identified any recent changes that correlate with the start of impact, … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week</title>
@@ -209,8 +286,8 @@
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 19:17:32 +0000</pubDate>
 <description>Outlook and Teams are among the platforms impacted by "elevated load" issues.</description>
-<enclosure url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794511005.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794511005.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" medium="image"/>
 </item>
 <item>
 <title>Ukraine says it can’t stop Russian strikes because Starshield is limited again</title>
@@ -312,17 +389,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/essentialshero.jpg" medium="image"/>
 </item>
 <item>
-<title>Oh, Palantir is ‘progressive’ now, is it?</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video</link>
-<guid isPermaLink="false">648ab3e5a06f7ebf2df3816ebb776c9667531721f33fbde6e8e0d5c150095880</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 18:06:54 +0000</pubDate>
-<description>The future’s so bright, he’s gotta wear sunglasses. | Photo by Scott Olson/Getty Images I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a "vibe shift" that enabled a glorious 100-year Trumpenreich. That freed up a lot of assholes to say what they actually thought. Except Donald Trump's victory was, in fact, narrow, and two years of his corrupt policies have enraged Americans. "I've been a Democrat my whole life. I grew up in a far left environment. I know more about being a progressive than almost anybody … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Software Samaritan revamps borked Indian certs to block smart TV ads</title>
 <link>https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467</link>
 <guid isPermaLink="false">4e12b553994bd3ebade211b01d9de0d343c08b9d880e2173a502efc1c7e13643</guid>
@@ -378,17 +444,6 @@
 <media:content url="https://www.engadget.com/img/gallery/zelenskyy-says-starshield-has-been-slowed-again-endangering-ukraines-defense/l-intro-1794505439.jpg" medium="image"/>
 </item>
 <item>
-<title>The Jensen Huang scandal is hardly over</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling</link>
-<guid isPermaLink="false">ce1eab2bbb5c79a9e4f64049805318cfa038d60c4c8f0852ef6aae47c4892660</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 17:44:33 +0000</pubDate>
-<description>I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then two stories were published nearly back to back on Wednesday: one alleging Huang had an affair with his subordinate Kimberly Powell, another that the board was meeting to consider his ouster. First thing Thursday morning, Nvidia announced Huang had resigned. One of the most powerful men in Silicon Valley was out. Why throw Huang under … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>The amazing disappearing exoplanet</title>
 <link>https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet</link>
 <guid isPermaLink="false">38d32834f94f250af411019d7f23f35e91e3a7cc17e40851e7931042fb4c29b1</guid>
@@ -409,17 +464,6 @@
 <description>Several of the tracker’s best features require Bluetooth 6.0-compatible device.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/fe1b30ad-195d-42f2-8903-ef1bbf5ec547-1-201-a_33806e.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/fe1b30ad-195d-42f2-8903-ef1bbf5ec547-1-201-a_33806e.jpg" medium="image"/>
-</item>
-<item>
-<title>‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug</title>
-<link>https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash</link>
-<guid isPermaLink="false">c8f7b66ce849889b18b7a6ad9161b1cdc47fb425d58bfc9d362900ea08cc26a1</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 17:00:17 +0000</pubDate>
-<description>The Cybertruck is heading to that shiny cyber-dumpster in the sky , leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's demise has sparked rare backlash within the Tesla community - aimed squarely at the guy who signed its death warrant. Troy Meekhof, who posts on numerous social platforms under the moniker "The Cybertruck Guy," has been vocal about his disappointment in Musk's decision to wind down Cybertruck production by the end of summer 2027. (The original plan was to start windin … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS493_CYBERTRUCK_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS493_CYBERTRUCK_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Apple Sports adds live UFC updates</title>
@@ -1049,28 +1093,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png" medium="image"/>
 </item>
 <item>
-<title>Roku will stop selling smart home devices and refocus on streaming</title>
-<link>https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming</link>
-<guid isPermaLink="false">6bbd05410d91168075d65591c52509cb234b771b306be269746a17e7ec5f9d6d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 17:44:53 +0000</pubDate>
-<description>The company will stop selling video doorbells, its home monitoring system and other products.</description>
-<enclosure url="https://www.engadget.com/img/gallery/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/l-intro-1794419052.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/l-intro-1794419052.jpg" medium="image"/>
-</item>
-<item>
-<title>Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.</title>
-<link>https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning</link>
-<guid isPermaLink="false">1e2d7b9998cc9ff155f78cb47f817b57933fc0bb4f93656de6c0949652158911</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 17:37:32 +0000</pubDate>
-<description>The last few years have seen significant debate over the widespread use of AI-powered tools in game development and the responsible disclosure of that usage to players. That debate has exploded into a full-blown controversy in the indie game development space this week, as Big Walk developer House House has publicly and belatedly disclosed minimal AI use in its popular co-operative puzzle exploration game. This particular controversy has been brewing behind the scenes for months, as judges and jury members for the prestigious Independent Games Festival Awards discussed the issue in private discussion groups. But the debate started to break into public view on Monday when 19 members of the 50-plus-member jury released a signed statement outlining a stance "declining to vote for any game that uses generative AI in any capacity." Noting "a significant increase in the number of submitted games developer with generative AI tools," the group of jurors called out AI's ecological, economic, psychological, and labor harms in rejecting tools whose use, they said, is still "not a foregone conclusion in our industry." Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png" type="image/png"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png" medium="image"/>
-</item>
-<item>
 <title>Pixel users are getting a major Android Auto update – and it rivals Siri AI</title>
 <link>https://www.zdnet.com/tech/android-auto-gemini-intelligence-update</link>
 <guid isPermaLink="false">43ff2a0f0cb790baebf1de27e35ffa6503f3b7f5304ef9eefe277b188c6cfaf6</guid>
@@ -1454,28 +1476,6 @@
 <description>When the print on your Android display is too small to read, and the pinch-to-zoom feature isn’t working as expected, try this.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/maghero.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/maghero.jpg" medium="image"/>
-</item>
-<item>
-<title>AMD's Epyc X-chips are back after a three-year hiatus</title>
-<link>https://www.theregister.com/systems/2026/11/10/amds-epyc-x-chips-are-back-after-a-three-year-hiatus/5308269</link>
-<guid isPermaLink="false">0ee573baf06e8dd886869eed7f4ae8a8d1058fc37f8884bcf486289d9755c9da</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:10:00 +0000</pubDate>
-<description>AMD's cache-packed Epyc X chips are officially making a comeback. Based on the House of Zen's frequency-optimized SKUs we looked at back in September , its HPC-optimized Venice-X parts will offer up to 96 cores and use the company's 3D V-Cache chip stack tech to triple the L3 cache density to more than a gigabyte. But before you get too excited about another cache-packed Epyc, it'll be a little while before they actually ship. AMD expects the Venice-X to begin trickling out in the second half of 2027. First teased at CES earlier this year, the chips are primarily aimed at latency-sensitive technical and scientific computing workloads like computational fluid dynamics and electronic design automation (EDA). AMD itself relies heavily on its X-series Epycs for EDA workloads like functional verification testing, which is used to simulate silicon in order to ensure it behaves as it's intended to. According to AMD Fellow Phil Steinke, by keeping more of the model in cache, the CPU cores don't have to wait as long for data to move in and out of system memory. Normally, boosting L3 capacity would have required larger chiplets with lower yields, but that's not how AMD has gone about it for the past four years. Instead, it used advanced packaging to give its existing CPU dies a little SRAM backpack. This tech has been around for several generations now, having first debuted in the Ryzen 7 5800X3D back in 2022. That consumer desktop chip stacked a 64 MB SRAM tile on top of an 8-core chiplet, boosting L3 capacity to 96 MB. The extra cache made the chip one of the most potent gaming CPUs of the time. Later that year, AMD brought the same technology to its Milan generation of Epycs as the company expanded its portfolio to address a wider range of workloads. The extra cache was popular enough to justify a second generation of X-series Epycs, which launched in 2023. But then, nothing. When AMD unveiled its 5th-gen Epycs in late 2024, there was no Turin-X on the roadmap. According to Madhu Rangarajan, who runs AMD's compute and enterprise AI products biz, this was intentional. "We are not doing the X every generation.... The enterprise HPC kind of market tends to have a cadence that's a little bit slower, so that's what drives our cadence." Venice-X marks the return of AMD's X-chips, and for the most part, the processor largely follows the same recipe as its predecessors. Each of the chip's up to eight CPU dies is now bonded to a 96 MB SRAM tile using advanced packaging, for a total of 144 MB of L3 per chiplet or 1,152 MB per socket, which you might have noticed is the same as in the Genoa-X parts they replace. But while core count and cache capacity haven't increased, clock speeds certainly have, with Venice now hitting 5.3 GHz compared to Genoa-X at just 3.7 GHz. "In Milan and Genoa, there was one trade-off. You either had to choose something that was high frequency or you chose something with 3D V-Cache." HPC likes both, Rangarajan told El Reg . The method for</description>
-<enclosure url="https://image.theregister.com/?imageId=250546&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=250546&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin</title>
-<link>https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523</link>
-<guid isPermaLink="false">b484ce188f49530b48dffe92bfe50934868cf787d50fe73669ce7fa7d0b1637b</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
-<description>AMD's upcoming Verano processors aren't like any Epyc CPUs we've seen before. Rather than general-purpose workloads, Verano is designed specifically to power AMD's next generation of GPU servers. In an interview with The Register during a press event in Las Vegas last week, Madhu Rangarajan, corporate VP of AMD's compute and enterprise AI products business, described Verano as being the first step towards building something that more closely resembles Nvidia's Vera Rubin superchips. "Verano is really designed for an integrated CPU+GPU rack scale solution," he said. "From that perspective, I wouldn't say the CPU is a competitor to Vera. In a head note, I'd say the Verano+GPU solution is a competitor to Vera+Rubin." For reference, Vera Rubin and the GB200 and GB300 that came before it aren't your typical server platforms. Instead they're more like an enormous single-board computer combining CPUs and GPUs into a tightly-integrated package. Each of Nvidia's superchips joins a single 88-core Vera CPU and 1.5 TB of LPDDR5X memory to a pair of Rubin GPUs via Nvidia's speedy NVLink-C2C interconnect. Rangarajan tells us Verano will be the host CPU for a similar class of product using AMD GPUs, and much like Nvidia's superchips, the CPU will also use notebook memory rather than conventional RDIMMS. However, unlike Vera, which is also being deployed as a standalone CPU in storage servers and agent sandboxes, Verano has a singular purpose: keeping its GPUs fed. (We assume they'll be MI500X GPUs.) This design choice reflects AMD's philosophy of one SKU per workload. As such, Verano's core count, clock speeds, memory bandwidth, power, and I/O have been rebalanced to keep its GPUs fed and not much else. Under the hood If we were to peel back Verano's heat spreader, the chip looks a lot like the Venice Epycs we looked at back in September. It features either six of AMD's core complex dies (CCDs) for a total of 72 high-frequency cores clocking to 5.3 GHz, or 192 density-optimized cores clocking to 4.1 GHz, depending on whether the customer's workloads prefer core density or faster clocks. But that's about where the visual similarities end. Much of the chip has been reworked to eliminate data flow bottlenecks between the CPU and the GPUs it is responsible for feeding. The chip features an entirely custom pair of I/O dies through which four LPDDR5X memory controllers are attached. Those memory controllers are currently being validated for use with 24 channels of memory at up to 8,533 MT/s. We're told that we may see that creep up a bit depending on how much headroom AMD has when the part starts shipping next year, but for now that's what AMD is validating against. That means the platform not only has fewer cores, but also slower memory. Peak theoretical memory bandwidth tops out at around 800 GB/s, which you might have noticed is half of what AMD's top-specced Venice parts can do and about 66 percent of Nvidia's Vera. What LPDDR seems to buy AMD is a 30 to 40 perce</description>
-<enclosure url="https://image.theregister.com/?imageId=161325&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=161325&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Google’s new AI tool just proved Signal encryption really works – here’s how</title>

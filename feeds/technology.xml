@@ -4,15 +4,92 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang</link>
+<guid isPermaLink="false">4c2abdf66c9c702a8d7de3e20b9322750f4c2967d7d929354e579c719ec4b8fd</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 15:48:12 +0000</pubDate>
+<description>Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation with the company in an email, which also announced CFO Colette Kress as interim CEO. You can read the full text of the board's internal memo and Kress's first message to employees as interim CEO below. Subject: Statement from NVIDIA Board Chair Dear NVIDIA Employees, I am writing to share an impo … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>United Airlines wants you to check in, not your chatbot</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373</link>
+<guid isPermaLink="false">ef5044ca14923e7e14e72ab7247a712db6f9c0a4d1cf8db47cc46b04a8fa8139</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 15:37:00 +0000</pubDate>
+<description>United Airlines has become the latest company to slap restrictions on unauthorized third-party AI agents, warning that the bots could make unintended purchases, expose customer data, or bypass checks requiring human acknowledgment. The airline announced restrictions covering both its own digital platforms and indirect access through travel agencies and aggregators, with changes to its booking, ticketing, and distribution policies. United says automated actions could violate aviation regulations, citing the requirement for a human acknowledgment during check-in that bags contain no banned substances. A bot cheerfully ticking the box isn't quite the passenger confirmation it has in mind. And then there is the worry that "sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles." United would also rather customers use its own app than turn third-party assistants loose on its systems. AI agents are pitched as a way to outsource life's minutiae, and it's difficult to navigate the web without tripping over a breathless influencer explaining why you need one, or dozens, or hundreds of virtual personal assistants. The thing is that operating these assistants requires care and thought. Earlier this year, British mathematician Professor Hannah Fry conducted a cautionary experiment in which she gave an AI agent a bank card, and a bit too much agency, to see what it would do. Passwords were coughed up, and some ill-considered purchases were made. Still, as Fry said of the agent, dubbed Cassandra, "don't let her incompetence fool you, because these things are getting better fast." Last month, reports emerged of major US banks blocking third-party AI agents from operating inside accounts and taking actions on behalf of the customer. This month, several UK banks were reported to have followed suit. United stated: "Corporate leaders in the banking and retail industries have taken similar actions regarding AI agents and we encourage others to consider measures that preserve the data and security of their customers and strengthen safety." The Register asked United Airlines how it planned to implement the blocking. There are a few options, including physical biometric confirmation for actions or checking for signs of automated browser driving. Amazon has also moved against unauthorized AI agents, blocking Meta's Muse (the "AI that gets it done," according to Meta's marketing) in September . The airline has yet to respond. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=259076&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=259076&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang resigns as Nvidia CEO after alleged affairs</title>
+<link>https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns</link>
+<guid isPermaLink="false">88fe4d5c03655566937b4cda34ae230782ee1f14c123c3501efffda1f44512cb</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 15:31:10 +0000</pubDate>
+<description>Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee Business live – latest updates Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and a company employee. He will be replaced on an interim basis by Nvidia’s chief financial officer, Colette Kress, until a full-time successor is named. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" medium="image"/>
+</item>
+<item>
+<title>A power bank that can quickly charge three gadgets is just $49</title>
+<link>https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale</link>
+<guid isPermaLink="false">3c7a92d131549a588a2f3ad4d8f3ac33108f5a81c822c5cc3fa761a3cf3bbb4a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 15:19:58 +0000</pubDate>
+<description>Amazon Prime subscribers can jump on a pretty nice deal happening on Ecoflow’s laptop power bank that can deliver up to 140W of power through either of its two USB-C ports. You can snag the limited-time deal happening on the black or silver-colored models for $48.99 (originally $85.79) at Amazon . The 25,000mAh / 90Wh battery is TSA-approved, and can supply a total of 170W to up to three devices sipping from it at once. Ecoflow Laptop Power Bank Where to Buy: $85.79 $49 at Amazon (for Prime subscribers) Based on specs alone, this is a fantastic value. It’d be a great fit if you own a USB-C chargeable MacBook or Windows laptop, along with a tablet, gaming handheld, or other devices you use every day. We like to recommend laptop-class power banks whenever prices drop, though they often don’t go below $80 or so for this combination of power, ports, battery capacity, and a built-in screen to monitor output. Compared to something like Anker’s popular Laptop Power Bank, the Ecoflow model is missing on really just one nicetie: built-in cables. Also, it doesn’t seem to include a USB cable, so you’ll need to provide your own. Other great Verge-approved deals Director Curry Barker’s hit horror film, Obsession , has sunk to the low price of $12.99 at Amazon , Walmart , and Gruv for the 4K Blu-ray. In addition to the 4K disc, the set includes a 1080p standard Blu-ray disc of the film, as well as a digital version. The 54 percent off deal arrives just before the film leaves Peacock on November 17th. It will then likely become more affordable to rent digitally, but snagging Obsession on disc will make for a great stocking stuffer for the horror lover in your life. If you’re a first-time customer at Gruv, you can enter the code FIRSTGRUV15 at checkout to save 15 percent off the order. Your mileage may vary depending on what you want to shop for, but Amazon’s Resale section (where it displays returned products) is knocking up to 20 percent off at checkout through November 18th. Used goods don’t exactly make for the best gifts, but it’s a savvy way to save some money if you want some accessories. Belkin’s basic, but slim Nintendo Switch 2 case is $23 in like-new condition (originally $29.99), with an extra 10 percent off at checkout. Asus’ promising ROG Kithara open-back gaming headset with Hifiman planar magnetic drivers is 20 percent off its already-discounted $179.33 price at checkout. The best price you can get on 007 First Light is at Newegg , where the Steam PC edition costs $37.99 without the need for an offer code. IO Interactive’s third-person action game was recently discounted to around $45, but has since returned to its original $69.99 price. With the developer’s lineage in making fun, immersive spy sandboxes with the Hitman franchise, expectations were high that it’d deliver the 007 title that gamers have been craving. Our review didn’t bury the lede, proclaiming right at the top that First Light “captured the franchise’s signature spectacle,” and it</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Pre-orders for some Apple Home Collection devices will open November 13</title>
+<link>https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13</link>
+<guid isPermaLink="false">371a17a04014928cd24efacb26c2ce040c4a4f63537283b9d741eb6a217e5d0d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 15:16:55 +0000</pubDate>
+<description>You can lock in orders for two LG cameras and a video doorbell.</description>
+<enclosure url="https://www.engadget.com/img/gallery/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/l-intro-1794496577.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/l-intro-1794496577.jpg" medium="image"/>
+</item>
+<item>
+<title>If the November Windows update fails to install on your PC, here’s what to do</title>
+<link>https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs</link>
+<guid isPermaLink="false">068e79cb0ad01477c1858436a70efa052ea59e7a0060354494379ded9cce7e4b</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 15:11:08 +0000</pubDate>
+<description>This month’s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-update-failure.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-update-failure.jpg" medium="image"/>
+</item>
+<item>
 <title>Nvidia CEO Jensen Huang has resigned. What happens next?</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
 <guid isPermaLink="false">38ea5b66d259522356b1fd73eab5aead985ba155990b27facb1d91bc6d476ec6</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 15:01:31 +0000</pubDate>
-<description>After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that night ended with Huang’s resignation , and Nvidia CFO Colette Kress was installed as the new interim CEO. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. The second report focused on Huang and Nvidia vice president of healthcare Kimberly Powell, claiming that a bystander who recorded the two being “affectionate” at the hotel hosting Nvidia’s GTC developer conference in May was met by Huang’s security workers and asked to sign a non-disclosure agreement. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. Even Jensen Huang’s jackets aren’t safe from adulteration. AOC chimes in on the Nvidia CEO scandal. If Jensen Huang is done at Nvidia, who will be the next CEO? Johny Srouji? Nvidia is reportedly preparing to fire Jensen Huang When I asked who else Jensen Huang was fucking, I did not expect to get answers so quickly. Jensen Huang’s affair reportedly has Taiwan and US cabinet officials rattled. Nvidia hires the same law firm that investigated the Clippers to look into Jensen Huang’s spy. The US is winning the AI race. Jensen Huang could have blown it What could China get from Jensen Huang? Here’s what Trump said he knew about Jensen Huang The future of AI hinges on… Jensen Huang’s sex life? Here’s the full text of Jensen Huang’s memo to Nvidia Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy</description>
+<description>After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that night ended with Huang’s resignation , and Nvidia CFO Colette Kress was installed as the new interim CEO. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. The second report focused on Huang and Nvidia vice president of healthcare Kimberly Powell, claiming that a bystander who recorded the two being “affectionate” at the hotel hosting Nvidia’s GTC developer conference in May was met by Huang’s security workers and asked to sign a non-disclosure agreement. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead Even Jensen Huang’s jackets aren’t safe from adulteration. AOC chimes in on the Nvidia CEO scandal. If Jensen Huang is done at Nvidia, who will be the next CEO? Johny Srouji? Nvidia is reportedly preparing to fire Jensen Huang When I asked who else Jensen Huang was fucking, I did not expect to get answers so quickly. Jensen Huang’s affair reportedly has Taiwan and US cabinet officials rattled. Nvidia hires the same law firm that investigated the Clippers to look into Jensen Huang’s spy. The US is winning the AI race. Jensen Huang could have blown it What could China get from Jensen Huang? Here’s what Trump said he knew about Jensen Huang The future of AI hinges on… Jensen Huang’s sex life? Here’s the full text of Jensen Huang’s memo to Nvidia Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>US workers are fighting to protect their jobs from AI – and winning</title>
+<link>https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai</link>
+<guid isPermaLink="false">67995f7cc430892b7825b95f9765bd388db9294d6b2a11a849ebfc963c610a40</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 15:00:44 +0000</pubDate>
+<description>As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmingly voted on 22 October to authorize a strike, with 94.1% in favor. “We just want the city administration to really be intentional about how it’s engaging with AI products,” said Julian Ware, an Oakland spatial data administrator and member of International Federation of Professional and Technical Engineers Local 21. “Sometimes with a fancy new toy, it actually costs more, it’s more difficult to implement and the results are not as good.” Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/56480260b7bf656d9742122815f5137a16b1a1e8/329_0_1706_1365/master/1706.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2bee522da49f0a876b9d87b06c2d4bbc" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/56480260b7bf656d9742122815f5137a16b1a1e8/329_0_1706_1365/master/1706.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2bee522da49f0a876b9d87b06c2d4bbc" medium="image"/>
 </item>
 <item>
 <title>Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era</title>
@@ -43,7 +120,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 14:21:35 +0000</pubDate>
-<description>Nvidia's Jensen Huang has resigned as CEO of the company, following the revelation of his affair with a woman suspected of being a Chinese spy and reports of a relationhip another woman who was a company employee. In a Form 8-K [PDF] filed with the US Securities and Exchange Commission (SEC), the GPU maker disclosed that it accepted the resignation of Huang, whom it identified as Jen-Hsun Huang, on November 11, effective immediately. He is being replaced by chief financial officer Colette Kress, who will serve as interim leader while the board conducts a search for a new CEO. Huang, who founded Nvidia in 1993 and served as president, CEO, and a member of the board of directors ever since, led the GPU maker to become one of the most valuable companies in the world, hitting a hit peak of over $5.5 trillion earlier this year. His position became untenable following an investigation by the company's board after he admitted to an affair, amid allegations he had a romantic relationship with a woman the US authorities suspected as a Chinese spy. Reports later surfaced this week of a second alleged affair with an employee of the company itself, reported by the New York Times as being with Kimberly Powell, Nvidia's vice president of health care. This is a developing story which will be expanded as more detail emerges. ®</description>
+<description>Nvidia's Jensen Huang has resigned as CEO of the company, following the revelation of his affair with a woman suspected of being a Chinese spy and reports of a relationhip another woman who was a company employee. In a Form 8-K [PDF] filed with the US Securities and Exchange Commission (SEC), the GPU maker disclosed that it accepted the resignation of Huang, whom it identified as Jen-Hsun Huang, on November 11, effective immediately. He is being replaced by chief financial officer Colette Kress, who will serve as interim leader while the board conducts a search for a new CEO. Huang, who founded Nvidia in 1993 and served as president, CEO, and a member of the board of directors ever since, led the GPU maker to become one of the most valuable companies in the world, hitting a hit peak of over $5.5 trillion earlier this year. His position became untenable following an investigation by the company's board after he admitted to an affair, amid allegations he had a romantic relationship with a woman the US authorities suspected as a Chinese spy. Reports later surfaced this week of a second alleged affair with an employee of the company itself, reported by the New York Times as being with Kimberly Powell, Nvidia's vice president of health care. A two-week downfall News of the scandal first broke barely a couple of weeks ago, on October 29, when claims surfaced that Huang had been the target of an espionage plot involving a Chinese businesswoman working for a Singapore-based company called Megaspeed which was a customer of Nvidia. According to the New York Times , US intelligence had reason to believe the woman, Alice Huang, was recruited to gather information about Nvidia and its operations for the Beijing government. Megaspeed also faces claims it was illicitly shipping Nvidia products to China, in violation of US export controls. Any relationship between Huang and a Chinese operative would be enormously concerning, as the US has been trying to keep advanced technology for AI out of the hands of the country, allegedly for security reasons, fearing it might be used for military purposes. For its part, Beijing rejects the spying allegations, saying they are part of a smear campaign against China. Shortly after Nvidia’s board announced it was investigating Huang, he sent an email to Nvidia staff apologizing and confessing to having an affair, though he did not explicitly name Alice Huang in his public apology. It seemed like the leather-jacketed leader might just hang on, since it was difficult to imagine anyone other than him leading the company after all this time. But Nvidia’s shares fell 4.3 percent on November 9 and a further 5.5 percent the following day, wiping around $430 billion off its market value, amid all the speculation. Then the claim emerged regarding a second affair, with an employee at Nvidia who reported to him, and many commentators took it as a sign the game was up. Huang resigned the same day the news broke. Indecision ahead Now the s</description>
 <enclosure url="https://image.theregister.com/?imageId=5309407&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309407&amp;width=800" medium="image"/>
 </item>
@@ -81,24 +158,13 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Jensen Huang resigns as Nvidia CEO after alleged affairs</title>
-<link>https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns</link>
-<guid isPermaLink="false">88fe4d5c03655566937b4cda34ae230782ee1f14c123c3501efffda1f44512cb</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 14:04:50 +0000</pubDate>
-<description>Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employee Business live – latest updates Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and a company employee. He will be replaced on an interim basis by Nvidia’s chief financial officer, Colette Kress, until a full-time successor is named. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" medium="image"/>
-</item>
-<item>
 <title>Jensen Huang is out as NVIDIA CEO</title>
 <link>https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo</link>
 <guid isPermaLink="false">6b3e487dca76a1e4cff05a556944ac809c15f38fb655e164a27060178d71e494</guid>
 <source>Engadget</source>
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 14:04:30 +0000</pubDate>
-<description>He has held the position since the company's founding.</description>
+<description>He has held the position since the company's founding in 1993, but has recently been embroiled in an international scandal.</description>
 <enclosure url="https://www.engadget.com/img/gallery/jensen-huang-is-out-as-nvidia-ceo/l-intro-1794493123.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/jensen-huang-is-out-as-nvidia-ceo/l-intro-1794493123.jpg" medium="image"/>
 </item>
@@ -176,8 +242,8 @@
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
 <description>Google's first run of intelligent eyewear has a lot to offer.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794430561.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794430561.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794495834.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794495834.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple HomeView review: A versatile smart display and Siri-powered home hub</title>
@@ -230,7 +296,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 13:14:38 +0000</pubDate>
-<description>After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation. Kundizeza’s story The Blue Fighter , which charts the declining fortunes of a family after the father invests in fish tanks, was announced as the winner of the £10,000 prize on 6 October. Continue reading...</description>
+<description>After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation. Kundizeza’s story The Blue Fighter , which charts the declining fortunes of a family after the father invests in fish tanks, was announced as the winner of the £10,000 prize on 6 October. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_111_1078_862/master/1078.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bebe58f82a456965bcc289df2522f254" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_111_1078_862/master/1078.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bebe58f82a456965bcc289df2522f254" medium="image"/>
 </item>
@@ -486,17 +552,6 @@
 <description>The company was throttling speeds for plans offered under the Affordable Broadband Act.</description>
 <enclosure url="https://www.engadget.com/img/gallery/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/l-intro-1794437085.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/l-intro-1794437085.jpg" medium="image"/>
-</item>
-<item>
-<title>Hands on with Home Assistant’s new ‘smart home multi-tool’</title>
-<link>https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on</link>
-<guid isPermaLink="false">3ddc5cc5a5b08ed60436e8bf10c359e2d99e3d2802a246767fd2000614ccd103</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
-<description>The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge Nabu Casa - the commercial side of the Open Home Foundation , which runs Home Assistant - just launched the Home Assistant Connect Aux-2 , a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly . And it's working. I've been testing the Aux-2 for a couple days and I've found it unsurprisingly useful and surprisingly easy to set up. The Aux-2 is a $69 box about the size of a deck of cards. It has 2.4GHz Wi-Fi, Bluetooth, Ethernet, USB-A, USB-C, a digital/analog audio jack, a Grove port for interfacing with peripherals like sensors, bu … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says</title>
@@ -972,17 +1027,6 @@
 <media:content url="https://image.theregister.com/?imageId=5259665&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Lucid CEO says the company didn't know where its own cars were</title>
-<link>https://www.engadget.com/2313113/lucid-q3-2026-losing-cars</link>
-<guid isPermaLink="false">9bd5b7d6f18c4d1d88a9c9cab5cc871db615a5c0827c0f33a3f5740aabcb63a0</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 09:56:03 +0000</pubDate>
-<description>Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.</description>
-<enclosure url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794414335.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794414335.jpg" medium="image"/>
-</item>
-<item>
 <title>Germany reportedly bans Chinese drones at military bases over security concerns</title>
 <link>https://www.theguardian.com/world/2026/nov/11/germany-bans-chinese-drones-military-bases-spying-security</link>
 <guid isPermaLink="false">0965b7b55b280e8fcfd3132ded403cec8707ccff3bc685aadc329f9ae0dd8288</guid>
@@ -1225,17 +1269,6 @@
 <media:content url="https://image.theregister.com/?imageId=238201&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>UK social media ban expansion for under-16s could cover YouTube Kids</title>
-<link>https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids</link>
-<guid isPermaLink="false">e4f6ecf548c7cf59f41dc3e9a6d0e73c85be1e325aad9dbc0251983bcdd6a69a</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:30:15 +0000</pubDate>
-<description>Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources say A substantial expansion of the social media ban for under-16s could inadvertently lead to a ban on YouTube Kids and other sites that had been thought exempt, sources briefed on the government’s proposals have said. One source close to the talks said the regulations now under consideration meant up to 150 platforms, including games platforms such as Lego Play, could be covered by the ban, which is set to come into force in March. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/3485bd630744777adf8bb553b08a61e0182f1eda/485_101_2808_2247/master/2808.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d9f6bf27d086f4183d1aa4b8659a7df" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/3485bd630744777adf8bb553b08a61e0182f1eda/485_101_2808_2247/master/2808.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d9f6bf27d086f4183d1aa4b8659a7df" medium="image"/>
-</item>
-<item>
 <title>AMD winds up Zen 6 cores for faster clock speeds</title>
 <link>https://www.theregister.com/systems/2026/11/10/amd-winds-up-zen-6-cores-for-faster-clock-speeds/5308603</link>
 <guid isPermaLink="false">e5d103d7c2b20a1f3e4328c6ea0c6988b7919091d0671170e2d2056a27998523</guid>
@@ -1432,17 +1465,6 @@
 <description>The Swiss software company has built its reputation on a commitment to privacy. Did its CEO just destroy the trust of its customer base?</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271478863.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271478863.jpg" medium="image"/>
-</item>
-<item>
-<title>Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625</link>
-<guid isPermaLink="false">d1877aa0483bd0a9e5fdf5e7ba876a4fd58702d62a564c0d31060365fd60017b</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-<description>Google DeepMind researchers have completed a formal verification of Signal's messaging security, marking what they claim is the first time AI has helped devise a proof that links protocol-level security guarantees to a widely used cryptographic implementation. They did so using AlphaProof Code, a multi-agent framework for formal software specification and verification. AlphaProof Code relies on a human-guided agent that writes a Lean specification, assesses machine code semantics, and crafts an agent-authored proof that the Lean kernel checks against the specification. In this instance, AlphaProof Code verified Signal’s post-quantum PQXDH handshake and Triple Ratchet , thereby validating the design of libsignal 's forward secrecy, authentication, post-compromise security, and handshake secrecy. In so doing, the Google/DeepMind team – Swarat Chaudhuri, Andrew Ferraiuolo, Anton Kovsharov, Tej Chajed, Sam Schlesinger, Karn Seth, Jonathan Katz, Charles Sutton, and Pushmeet Kohli – has taken a step toward a challenge the Beneficial AI Foundation issued in April to formally verify the Signal protocol and Signal app with Lean. The AlphaProof Code process involves working with various models to turn Signal's security goals into a human-reviewed mathematical specification. Based on this spec, the researchers assigned Gemini Carbon agents to generate Lean code proving the correctness of the libsignal implementation. After the agents generated 6.5 million lines of Lean code, they undertook an auditing pass and flagged bits that required human review. The result is theoretical in that it assumes perfect cryptography and doesn't guarantee the computational secrecy of bytes. But it's still a meaningful assertion of correctness. "It's a system that is fundamentally built for human AI collaboration," said Swarat Chaudhuri, research scientist at Google DeepMind and a professor at the University of Texas at Austin, in an interview with The Register . Traditionally, said Chaudhuri, you start proving theorems with well-defined problems formulated by a mathematician that get submitted to an AI agent for proof. In this case, the researchers had to figure out what to prove. "In formal methods, we always had this belief that verification is the hard bit," he said. "There's thirty or forty years of work on how to scale up verification. Now we are able to do that. So now the question is what are we verifying? … That process is fundamentally human-in-the-loop, but we devised a process of trying to scale it up to the extent possible with AI." As Chaudhuri and his colleagues note in their research paper, "AlphaProof Code: Verifying Signal’s Security at the Machine-Code Level," formal verification used to require heroic efforts. Formally verifying the seL4 microkernel took 20 person-years, while developing the verified CompCert C compiler took six years. AlphaProof Code, they believe, can drastically reduce the cost of formal verification, though their Signal work still took</description>
-<enclosure url="https://image.theregister.com/?imageId=5308629&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5308629&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Are walking pads worth it? We put the best under-desk treadmills to the test</title>

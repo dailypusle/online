@@ -4,26 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>At least 2 dead, multiple injured after building collapses in Brooklyn: Mayor</title>
-<link>https://abcnews.com/US/rescue-operations-underway-after-building-collapses-brooklyn-new/story?id=138059620</link>
-<guid isPermaLink="false">c507c4ee5e0e750cbec0239c7c3280a804cc29e471a946ed18d29f77d57d75de</guid>
+<title>Nvidia board reportedly preparing to oust CEO Jensen Huang after alleged affairs</title>
+<link>https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059</link>
+<guid isPermaLink="false">a27233d83c2b9c8c59354507447a5f39f122e273decb077f8b907604c349b196</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Thu, 12 Nov 2026 01:20:46 +0000</pubDate>
-<description>Multiple firefighters responded to the scene.</description>
-<enclosure url="https://s.abcnews.com/images/US/brooklyn-7-rt-er-261111_1794437225160_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/brooklyn-7-rt-er-261111_1794437225160_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Thu, 12 Nov 2026 02:42:23 +0000</pubDate>
+<description>The Nvidia board is reportedly planning to oust CEO Jensen Huang amid reports he engaged in two extramarital affairs.</description>
+<enclosure url="https://s.abcnews.com/images/Business/jensen-huang-1-gty-gmh-261109_1794230526211_hpMain_2_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Business/jensen-huang-1-gty-gmh-261109_1794230526211_hpMain_2_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Democrat Colom flips Mississippi Senate seat</title>
-<link>https://abcnews.com/Politics/democrat-colom-mississippis-black-senator-100-years-ap/story?id=137984057</link>
-<guid isPermaLink="false">2a0cb966daf6126353142f9290bfc0156fe926554c434a9069db1bde88cd9a48</guid>
-<source>ABC News Top Stories</source>
+<title>Live: US envoys to meet Putin and Zelensky after Abu Dhabi talks</title>
+<link>https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks</link>
+<guid isPermaLink="false">eb0f3638159453ae46245d572435310879a3def4a3d44c3ba7b820df97f40218</guid>
+<source>France 24</source>
 <category>world</category>
-<pubDate>Thu, 12 Nov 2026 01:19:40 +0000</pubDate>
-<description>Democrat Scott Colom will win the election for U.S. Senate in Mississippi, The Associated Press projects.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/colom-speech_1793878849575_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/colom-speech_1793878849575_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Thu, 12 Nov 2026 02:31:55 +0000</pubDate>
+<description>US envoys Steve Witkoff and Jared Kushner will meet Russian President Vladimir Putin in Moscow and Ukrainian leader Volodymyr Zelensky in Dublin on Thursday, seeking to build on two days of talks in Abu Dhabi. Zelensky said a window of opportunity could emerge to end the war before 2027, as Europe pushes for a role in negotiations. Follow our liveblog for the latest updates.</description>
+<enclosure url="https://s.france24.com/media/display/9ee76ba2-de3f-11f1-879b-3f371022a770/w:1024/p:16x9/AP26315756326943.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/9ee76ba2-de3f-11f1-879b-3f371022a770/w:1024/p:16x9/AP26315756326943.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: ABC's Bob Woodruff's foundation honors wounded soldiers and their families</title>
@@ -31,10 +31,21 @@
 <guid isPermaLink="false">cb4be992f89a4ceb13a109913b033135705c79986f2aefee55aed80f2b418102</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Thu, 12 Nov 2026 01:10:18 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 02:21:40 +0000</pubDate>
 <description>David Muir speaks with "The Resilient" – a band made up of wounded soldiers – backstage at Bob Woodruff's annual Stand Up for Heroes, raising millions for veterans and military families.</description>
 <enclosure url="https://s.abcnews.com/images/WNT/261111_wn_muir_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/WNT/261111_wn_muir_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Democrat Colom flips Mississippi Senate seat</title>
+<link>https://abcnews.com/Politics/democrat-colom-mississippis-black-senator-100-years-ap/story?id=137984057</link>
+<guid isPermaLink="false">2a0cb966daf6126353142f9290bfc0156fe926554c434a9069db1bde88cd9a48</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 01:22:13 +0000</pubDate>
+<description>Democrat Scott Colom will win the election for U.S. Senate in Mississippi, The Associated Press projects.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/colom-speech_1793878849575_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/colom-speech_1793878849575_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Democrat Scott Colom wins historic Senate race in Mississippi</title>
@@ -59,13 +70,13 @@
 <media:content url="https://s.france24.com/media/display/0c7939ee-de21-11f1-adfe-29048b396e03/w:1024/p:16x9/2026-11-11T224025Z-451595732-RC2YLOAKZZON-RTRMADP-3-POPE-LATAM-PERU.jpg" medium="image"/>
 </item>
 <item>
-<title>People feared trapped after building collapses in New York</title>
+<title>Two killed in 'devastating' New York building collapse</title>
 <link>https://news.sky.com/story/people-feared-trapped-after-building-collapses-in-new-york-13611256</link>
 <guid isPermaLink="false">4852a53aed44d4ae9a1c3ff3bc1114b825404d976f3a3df840080a70ec89b964</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Wed, 11 Nov 2026 23:23:00 +0000</pubDate>
-<description>Firefighters say people are trapped under rubble after a three-storey building in Brooklyn collapsed.</description>
+<description>At least two people have been killed after a "devastating" building collapse in Brooklyn, New York City's mayor has said.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-nypd-brooklyn_7404458.jpg?20261111232818" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-nypd-brooklyn_7404458.jpg?20261111232818" medium="image"/>
 </item>
@@ -244,6 +255,17 @@
 <description>Former NFL head coach Rex Ryan surrendered in Nashville on Wednesday on six outstanding misdemeanor warrants, police said.</description>
 <enclosure url="https://s.abcnews.com/images/US/rex-ryan-1-ap-gmh-261111_1794417369577_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/rex-ryan-1-ap-gmh-261111_1794417369577_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Treasury Secretary Scott Bessent moved to a military base: Sources</title>
+<link>https://abcnews.com/Politics/treasury-secretary-scott-bessent-moved-military-base-sources/story?id=138044885</link>
+<guid isPermaLink="false">9e4fadda300f75effb533fd5c859b96dd5b4ea4f74bbbbe87d9c3c38944734e7</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 20:33:27 +0000</pubDate>
+<description>Bessent is the latest administration official to move to a military base.</description>
+<enclosure url="https://s.abcnews.com/images/US/bessent-rt-gmh-261111_1794405816650_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/bessent-rt-gmh-261111_1794405816650_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Biden says he wouldn't have run for a second term in 2024 if he knew he had cancer</title>
@@ -466,17 +488,6 @@
 <media:content url="https://s.france24.com/media/display/c4a5b334-dde6-11f1-9c6b-695cb59fade5/w:1024/p:16x9/EN-20261111-161101-161439-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>COP31 talks in Turkey: Leaders from US, China and India skip summit</title>
-<link>https://www.france24.com/en/cop31-talks-in-turkey-leeaders-from-us-china-and-india-skip-summit</link>
-<guid isPermaLink="false">1f44812cc45579a92aaa93f00268018b2f30c4ecc8346dfa2048116f05530e94</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 16:06:28 +0000</pubDate>
-<description>Valérie Dekimpe, our environment editor, has more.</description>
-<enclosure url="https://s.france24.com/media/display/b79c40a6-dde9-11f1-8740-3f371022a770/w:1024/p:16x9/2026-11-11T104543Z-717228215-RC2MLOA7Z4YD-RTRMADP-3-CLIMATE-COP31.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/b79c40a6-dde9-11f1-8740-3f371022a770/w:1024/p:16x9/2026-11-11T104543Z-717228215-RC2MLOA7Z4YD-RTRMADP-3-CLIMATE-COP31.jpg" medium="image"/>
-</item>
-<item>
 <title>Poundland bosses meet to decide firm's future</title>
 <link>https://news.sky.com/story/poundland-directors-to-meet-tonight-to-decide-companys-future-sky-news-told-13610213</link>
 <guid isPermaLink="false">c5c9ba10efce00df5ad875fa2613f606f11c0fd34d2f2f0a450b56f5206f27d3</guid>
@@ -618,17 +629,6 @@
 <description>Four grizzly bears captured in Canada were responsible for killing a mother and daughter earlier this month, officials have said.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-bear-victims_7397544.jpg?20261105041629" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-bear-victims_7397544.jpg?20261105041629" medium="image"/>
-</item>
-<item>
-<title>Jimmy Carter's family farm to be preserved and opened to the public</title>
-<link>https://abcnews.com/Politics/wireStory/jimmy-carters-family-farm-preserved-opened-public-138027036</link>
-<guid isPermaLink="false">636057c9dfdb5c6f67a29ec66ad6ed196fa8479d7f4701977528d6fa431acce5</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 10 Nov 2026 22:13:41 +0000</pubDate>
-<description>The family farm where President Jimmy Carter tended peanuts, corn and sugarcane as a boy and returned throughout his life will be preserved and opened to the public</description>
-<enclosure url="https://s.abcnews.com/images/Weird/wirestory_fc9492016ab5fc77765a576839a24c9a_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Weird/wirestory_fc9492016ab5fc77765a576839a24c9a_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Ex-investigator admits depriving war crimes probe of potentially valuable information</title>

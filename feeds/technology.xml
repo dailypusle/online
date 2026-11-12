@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk</title>
+<link>https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk</link>
+<guid isPermaLink="false">d85e81aac2bdecb40108ed647d6ac1df814e24b13b4f7d6192dad2a82a5e894e</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 12:00:37 +0000</pubDate>
+<description>The Apple Silicon iMac got its fourth refresh this month. Every other Apple Silicon Mac has found a way to move forward over the last half-decade—we've gotten a more Pro design for the MacBook Pro, a mini-er design for the Mac mini, and a Mac Studio that has finally made Apple admit it doesn't want to make the Mac Pro anymore. But the Apple Silicon iMac has always been more interested in looking backward. It's the thin, screen-on-a-stand iMac design by way of the original Bondi Blue G3 iMac. It's a clean and pretty desktop computer, one I see all the time in small offices and on TV shows that depict small offices. We're long past the days when it was Apple's primary workstation computer. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg" medium="image"/>
+</item>
+<item>
+<title>European tech buyers add digital sovereignty to cyber shopping list</title>
+<link>https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216</link>
+<guid isPermaLink="false">16c097d321f419f1dc27839f0a72e82e3188c50b5790af847656806c37479bc6</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 11:31:00 +0000</pubDate>
+<description>European tech buyers are increasingly choosing cybersecurity vendors from their own continent in a bid to reduce their reliance on American technology. Digital sovereignty isn't only prompting enterprise customers to question their clouds of choice, it is also reshaping other parts of the industry too, and the shift is marked. According to sales figures compiled by Context, distributor sales in EMEA of cybersecurity products from EU-headquartered vendors jumped 35 percent in the two years to calendar Q3 2026. Total cybersecurity sales grew up 10 percent over the same period, and sales by US-run companies went up just 8 percent. That growth is from a relatively small base, though EU vendors gained nearly three percentage points to reach 15 percent of tracked sales by value. There is still a long way to go as US-headquartered vendors accounted for 62 percent. The trend coincides with a loss of trust in the Trump administration among customers outside of America, after it cosied up to autocratic rulers while criticizing and punishing allies with tariffs and more. Context stopped short of assigning blame. It said organizations are reviewing their reliance on third-party tech in light of EU compliance regimes: the NIS2 Directive and Digital Operational Resilience Act (DORA). NIS2, transposed into national law in October 2024 , requires organizations in the bloc to raise their common level of security in the face of digital threats and risks to critical infrastructure. DORA, introduced in January last year, is designed to strengthen cyber security in the financial sector. "Digital sovereignty is becoming a buying decision. As customers and resellers get clearer about what it means in practice, they're asking who holds the encryption keys, who can access sensitive logs and where that data is stored," said Context veep of research Joe Turner. "We're seeing a measurable shift in the EMEA channel. EU vendors gained nearly three points of sales share in two years. An organization can keep its existing identity platform and still choose a European supplier to manage its security logs. That's the kind of decision that gives European vendors an opening." The stats indicate that EU-HQd vendors comprised 92 percent of tracked sales in security awareness training, 82 percent in vulnerability management, and 52 percent for SIEM and log management. US-headquartered companies held into 74 percent of identity and access management sales and 54 percent of cloud security sales. The Reg has asked Context for UK-specific figures to see whether British customers are also voting with their wallets for European alternatives. That certainly isn’t the case for tech purchases in the British public sector, despite Prime Minister Andy Burnham’s professed desire to buy British. Data released yesterday by the Institute for Public Policy Research showed just £1 in every £6 spent by government with the biggest technology suppliers goes to Brit businesses. Still, Burnham only came to</description>
+<enclosure url="https://image.theregister.com/?imageId=5223019&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5223019&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Nintendo is ending Google and Apple sign-ins early next year</title>
+<link>https://www.engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year</link>
+<guid isPermaLink="false">8d1608bf97dc9598a5e42532ed226790e79b25a2e94c50974bba6579521c83c5</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 11:19:46 +0000</pubDate>
+<description>You'll soon no longer be able to use Google and Apple log-ins to access Nintendo.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/l-intro-1794482262.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/l-intro-1794482262.jpg" medium="image"/>
+</item>
+<item>
+<title>Ring confirms its camera drone won’t have manual controls after crashing on CBS News</title>
+<link>https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls</link>
+<guid isPermaLink="false">a73a18fdc817c1b6c509bfe42bd6782cc3b2cd5dfe9c2eaf7a3f2fe587c7642b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 11:12:32 +0000</pubDate>
+<description>When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an "AI Pilot" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS News might reveal why. The video, broadcast on CBS Mornings and published on Threads , shows Ring founder Jamie Siminoff allowing technology reporter Jo Ling Kent to manually fly an early version of the drone via a mobile app with integrated controls. Ling Kent: "Can I control it?" Siminoff: "Yeah, so … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Rockstar workers vote on union recognition as GTA VI launch looms</title>
 <link>https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319</link>
 <guid isPermaLink="false">c132081ab72fc09cc9e8573deb9033bf854a427f77af5a0da6cdc6094613d65c</guid>
@@ -13,6 +57,28 @@
 <description>More than 1,600 Rockstar Games employees in the UK will begin voting on union recognition on Thursday, with the ballot kicking off just a week before the long-awaited launch of Grand Theft Auto VI. The ballot, which opens on November 12 and runs until November 26, will determine whether Rockstar formally recognizes the Rockstar Game Workers Union, part of the Independent Workers Union of Great Britain (IWGB). Nearly all UK employees below director level are eligible to vote. If successful, the union would become the largest recognized union in the UK games industry, giving workers a collective voice. The proposed recognition agreement follows four months of negotiations between Rockstar management and employees. It would allow workers to negotiate over pay, overtime, pensions, bonuses, leave and other employment conditions, while securing consultation rights over HR policies and AI. The vote comes at a particularly busy time for Rockstar, with GTA VI finally due to arrive on November 19, more than 13 years after its predecessor. The game is expected to be one of the biggest entertainment launches in history, although the people responsible for making it have rather more immediate concerns than sales records. "I am incredibly proud of the work we've put into making this game. I'm also proud of the union we've built here. For me, those two things are connected," said Nestor Uriate, an animation programmer and Rockstar Game Workers Union representative. "We care deeply about the games we make, and we want to make sure we can continue doing that work in an environment where we're respected, have a meaningful say over our conditions and can feel secure about our futures." The vote follows a year of bad blood between Rockstar and the IWGB. The union accused the GTA developer of union busting after it fired 31 members in October 2025, claiming they had been singled out for taking part in a private Discord group. Rockstar denied the allegations, insisting the workers were dismissed for gross misconduct rather than their union activities. The dispute subsequently reached an employment tribunal, where Rockstar unsuccessfully attempted to have blacklisting allegations struck from the case . Closing submissions are expected on November 17 and 18, meaning the legal proceedings will reach their final stages just as GTA VI prepares to hit shelves. Despite the ongoing dispute, Rockstar's head of publishing, Jennifer Kolbe, recently indicated that management would respect the outcome of the recognition vote, telling Bloomberg : "We go where the team goes. So if they want a union, they will have a union." The union campaign has also attracted support from elsewhere in the games industry, including SAG-AFTRA and the Communications Workers of America (CWA), which represents workers at Blizzard. Alex Marshall, president of the IWGB, said the vote was an opportunity for Rockstar employees to take greater control over their working conditions. "What happens at Rockstar</description>
 <enclosure url="https://image.theregister.com/?imageId=5309343&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309343&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools</title>
+<link>https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools</link>
+<guid isPermaLink="false">e87aacabb74e4e98fb120a777d90d02b874e85bdacd527662b23a4eac8abd6c3</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 11:00:47 +0000</pubDate>
+<description>Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data tech NHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir’s AI health data system after the Guardian revealed 29 of them were not using all or most of the controversial technology. Health bosses had published a list of all the NHS bodies “live” with and “realising benefits” from the AI-powered federated data platform (FDP), a system set up to improve patient outcomes, boost operating theatre efficiency and speed up bed discharges. But after 29 trusts said it was either not live or they were not using any of its applications, the original list of hospitals appears to have been taken down. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/95c422c3f4ddb97d445e586e9da99aba18c88ab1/373_0_4131_3305/master/4131.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4bb3fca32b99b38d96e112328be7dea" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/95c422c3f4ddb97d445e586e9da99aba18c88ab1/373_0_4131_3305/master/4131.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4bb3fca32b99b38d96e112328be7dea" medium="image"/>
+</item>
+<item>
+<title>Datacentres are deeply unpopular. Has Sweden made one we can all love?</title>
+<link>https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun</link>
+<guid isPermaLink="false">3519de8795face3c22fca72465d951a8bf24afefa3e5d04f4cc0c0bca655d597</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 11:00:46 +0000</pubDate>
+<description>It is built of wood, resembles an Ikea and its power is totally renewable. Plus, it was built with the local community in mind. Is this facility in Falun the best datacentre in the world? ‘It was pretty cool, when they were building it. It looked like a very large Ikea,” says John Wernvik, of EcoDataCenter. He is giving me a tour of their facility in Falun, Sweden, which could lay claim to being the world’s greenest datacentre – although to many, that is a contradiction in terms. One difference is immediately visible: this datacentre is made out of wood. Huge panels of cross-laminated timber arrived at the site pre-cut, and were assembled by crane according to instructions, like flatpack furniture. Aesthetically, this section of the datacentre is more like an Ikea before the fit-out, a cavernous, echoey, immaculately clean hangar. The wood is not EcoDataCenter’s only claim to sustainability; it is more than just cosmetic, says Wernvik, the company’s chief external relations and sustainability officer. “Compared with a traditional datacentre built with steel and concrete, we lower the embodied carbon of the full structure by three times.” With a complex the size of a football pitch, that is a lot of wood, but, says Wernvik, “the amount of timber one of our datacentres uses takes the Swedish forest about 10 to 15 minutes to grow back”. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/6f4053626333cdd94adcb884ccef812b559854a9/247_0_2901_2321/master/2901.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd3868ffb1af3b77821a24c1ce90a417" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/6f4053626333cdd94adcb884ccef812b559854a9/247_0_2901_2321/master/2901.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd3868ffb1af3b77821a24c1ce90a417" medium="image"/>
 </item>
 <item>
 <title>Orbit Global Menu: A working global menu addon for GNOME</title>
@@ -554,17 +620,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/20261110-01M74FRERRH793DQ734KTJM2FA-061DB0ED-ACA3-47E5-8CA3-6B3B776C2354.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Google’s AlphaGenome 2 zooms in on the cellular roots of disease</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</link>
-<guid isPermaLink="false">943bd9ebdd36c5629d76e70282e54a6aa5927d181f927f4efacdc48897591f0b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
-<description>A graphic representing Google’s AlphaGenome Atlas. | Image: Google Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor to DeepMind's genome-predicting AI model AlphaGenome, which was released last year . While nearly every cell in the human body carries the same DNA, different types of cells - from heart muscle cells and skin cells to immune cells fighting an infection - switch different genes on and off, and those patterns can change d … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Microsoft's Patch Tuesday can't break stuff if it won't install</title>
 <link>https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059</link>
 <guid isPermaLink="false">4fe7fa6c08bf27def6ec369dc496e7a596c9a9438f3f24b7bebb03561f0c8c14</guid>
@@ -860,17 +915,6 @@
 <description>Anthropic has introduced three new types of artifacts that show the company tiptoeing into the office productivity market long dominated by Microsoft and Google. On Tuesday, the Claudefather announced Claude Sheets, Claude Whiteboards, and Claude Data, and promised the imminent arrival of Claude Meetings. These artifact types join existing ones – Docs, Slides, Design, and Motion – to form a nascent Claude-dependent productivity suite. Anthropic initially used the term artifacts to refer to shareable AI-based interactive tools, like dynamic charts. But the scope of the term has been stretched to cover specific artifact types, which refer to what traditionalists might take to mean files associated with specific hosted applications. "An artifact is anything Claude makes for you that you'd put in front of someone: a design, a deck, a document, a dashboard, or a small interactive tool," the company explains. The key thing that distinguishes an artifact from a file is that users are meant to interact with artifacts through Claude, rather than storing and transferring them independently. Think of it more as a container or managed object that opens in Claude (via a sharing URL), because artifacts in fact consist of various content types – .txt, .md, .html, .jsx, .svg, .pptx, .docx, .zip, .pdf, and .mp4, among others. Anthropic's vision of Claude as a container for other applications goes beyond artifacts. The AI biz has also expanded its interactive connectors , which turn Claude into a landlord for other software applications. Its own promotional video for the feature hammers that point home in its title: " Your apps have moved into Claude ." "Starting today, partners can embed their apps directly in Claude, so you can work in Adobe, Atlassian, and others without switching tabs," Anthropic said. "Plugins from Salesforce (beta), NetSuite, and Workday (beta) come with built-in skills, so sellers can prep for a call, accountants can analyze financial data, and HR teams can handle time off and expenses." In a prior era, those would be fighting words. Tech companies like Apple, Google, and Microsoft have worked for years to maintain their positions as platform landlords. Anthropic's invitation to become a Claude tenant ought to set off competition alarm bells. But perhaps with LLMs being able to re-create other people's apps on demand, there's less interest in defending app boundaries as if they were moats to keep out rivals. With AI, the call is coming from inside the house. Alongside the rollout of Claude Sheets, Whiteboards, and Data, Anthropic is pushing the notion that Claude is useful for people working outside of computation and mathematics, the occupational category that, according to the company's own data , accounts for a larger share of Claude usage than any other. "Inside Anthropic, non-technical teams are starting to get as much out of Claude as our engineers," the biz insists, hauling out canned testimonials from the likes of Accenture and Data</description>
 <enclosure url="https://image.theregister.com/?imageId=5308992&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5308992&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>NVIDIA shareholders are suing the company and CEO Jensen Huang</title>
-<link>https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang</link>
-<guid isPermaLink="false">a9dc56ead62e1aedede1330ac9e7049eb7bf4c85d38d20d38f8a434cc70ec74a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 23:42:04 +0000</pubDate>
-<description>The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.</description>
-<enclosure url="https://www.engadget.com/img/gallery/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/l-intro-1794353889.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/l-intro-1794353889.jpg" medium="image"/>
 </item>
 <item>
 <title>Seagate's new hybrid drive raises some old questions</title>
@@ -1390,17 +1434,6 @@
 <media:content url="https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4bc1c8dc3414293d139b9507b77e95d" medium="image"/>
 </item>
 <item>
-<title>Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video</title>
-<link>https://www.theguardian.com/australia-news/video/2026/nov/10/mandatory-ai-safety-and-security-protections-announced-after-openai-breach-of-medicare-video</link>
-<guid isPermaLink="false">e492c134981293039aa9de9641ba24b43c3c0d3b63387549e4d041a6779da460</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 05:29:32 +0000</pubDate>
-<description>Australia's prime minister said its government would set up a new AI safety regulator and Labor would consider six key obligations on AI companies. The review made 18 recommendations. Anthony Albanese said: 'We accept all of the recommendations, and we’ve commenced work to implement them.' Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/0e9dca7c9e94446383a80bbc5d2065a6fe806b55/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f85bcc77ef5c88fb60eefbb5842cd8d" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/0e9dca7c9e94446383a80bbc5d2065a6fe806b55/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f85bcc77ef5c88fb60eefbb5842cd8d" medium="image"/>
-</item>
-<item>
 <title>Cisco to link all future products to its SaaS-y Cloud Control management tool</title>
 <link>https://www.theregister.com/networks/2026/11/10/cisco-to-link-all-future-products-to-its-saas-y-cloud-control-management-tool/5308660</link>
 <guid isPermaLink="false">8965eccb1e423b3474fd3e3b0deee68ef456ffe8a8699b2bf6450137dcaa47fc</guid>
@@ -1421,17 +1454,6 @@
 <description>Anthropic has started extending access to its bug-finding Mythos model by allowing Cisco and IBM to make it part of their security products. Cisco announced its integration today at an event in Melbourne, Australia, where it revealed that the red teaming tools in its AI Defense suite, which looks for weaknesses and inappropriate activity in AI models, agents, and applications they power, will be able to call Mythos to test customers’ setups. “At a very high level, AI Defense has the ability to look at models and break them,” said Jeff Schultz, Cisco’s senior vice president for portfolio strategy and marketing. He said the tool is now “super-charged by Mythos” and will identify more danger that AI Defense will then address. AI Defense already uses AI-powered red teaming to find flaws. Mythos will become another option. Cisco will make it available under users’ existing licenses, without additional cost. Natalie Mead, Anthropic’s head of applied AI for the Asia-Pacific, said the company has a long queue of buyers who want to use Mythos, and working with Cisco will make it easier to satisfy that demand. Anthropic initially made Mythos available under "Project Glasswing," a program that gave vetted organizations access to the model to test their codebases, but has since expanded access through other controlled programs, an arrangement that makes considerable sense because in the wrong hands Mythos could help attackers exploit software flaws. The Cisco deal exposes the functionality of Mythos to end-users, without letting them use the model itself. The Register asked Mead if Anthropic has similar deals with other third parties and she demurred. That may be because a few hours after Cisco told us about its use of Mythos, IBM announced that it will also integrate Anthropic’s model into a product – namely its Concert tool, which uses AI to scan applications for risks and weaknesses. IBM says it will use Mythos “to uncover weaknesses traditional scanners miss, determine which pose real risk and generate fixes for developer approval.” We have asked Anthropic if these integrations represent a decision to open Mythos to more users in more ways. We will update this story if we receive a substantial response. Also on Monday, Anthropic introduced version 5.2 of Mythos and Fable, which the company says generate outputs up to 30 percent faster than version 5.1 yet cost less: $8 per million input tokens and $40 per million output tokens. Users can choose to run both models in “fast mode,” which speeds up token generation by up to 2.5 times, and doubles prices to $16 per million input tokens and $80 per million output tokens. Anthropic says it “ran extensive prerelease safety testing on the model that underlies Fable 5.2 and Mythos 5.2. This included developing novel evaluations that give deeper insight into specific concerning behaviors like sandbox escapes.” After those tests, the company concluded “high-stakes risks from misalignment remain low, and the model pe</description>
 <enclosure url="https://image.theregister.com/?imageId=245983&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=245983&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>France blames Iran for supermarket hack meltdowns</title>
-<link>https://www.theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591</link>
-<guid isPermaLink="false">c0fdc668be12f084eba09952075243c3e46cc7d34b1e8845c2ec4bff325c15f0</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 22:45:21 +0000</pubDate>
-<description>France has turned up the heat on Iran over destructive cyberattacks targeting refrigeration controllers at more than 700 grocery stores in October, spoiling food and sparking fires. The country vowed to take action using “all available means of response.” The supermarket attacks , which affected Casino, Leclerc, Coopérative U, Metro, Carrefour, and Intermarché groups, started at least 15 fires and caused food losses in the tens of millions of euros, according to a Monday report by France’s Cyber Crisis Coordination Centre (C4). The C4 includes the National Cybersecurity Agency of France, the Directorate General for External Security, the Directorate General for Internal Security, the Directorate General for Armament, and the Cyber Defence Command. “This is an unprecedented campaign in terms of its scale and level of aggressiveness, thus constituting the first cyber offensive campaign carried out purely for the purpose of sabotage on national territory,” France’s Ministry for Europe and Foreign Affairs said in a statement . All signs point to CyberAv3ngers Both the report and the statement attributed the refrigeration controller hacks to the Iranian Islamic Revolutionary Guard Corps’ (IRGC) Shahid Kaveh cyber unit. The Shahid Kaveh unit, which French national security officials say is led by Reza Salarvand and Mahdi Lashgarian, is better known by its hacktivist personas, including CyberAv3ngers . This is the same crew suspected of involvement in the July attacks that targeted more than 100 internet-exposed water systems in America. While the US government hasn’t attributed the intrusions to any country or group, private-sector security analysts blamed Iran , and specifically CyberAv3ngers . The IRGC-affiliated hacking crew has been breaking into industrial controllers for years , and in 2023, American national security and law enforcement agencies attributed a series of cyberattacks against "multiple" US water facilities to CyberAv3ngers. “The Iranian cyber threat against French interests is not new,” according to the Ministry for Europe and Foreign Affairs. “Iran has already carried out several destabilizing acts against us, notably targeting the weekly magazine Charlie Hebdo in 2023 and the organization of the Paris Olympic Games in 2024.” Since at least June 2024, the Shahid Kaveh unit has had the ability to scan, access, and control industrial control equipment from Schneider Electric, Siemens, and Rockwell, the French government said in its report. It pins the refrigeration controller hacks on this particular Iranian crew for a couple of reasons. Making the case for attribution First: the infrastructure used to carry out the October supermarket attacks was also used during this timeframe to conduct reconnaissance on Schneider Electric equipment, zeroing in on small- and medium-sized energy and water production units. “The techniques used during these actions are known to have been used by the Shahid Kaveh unit since at least April 2026,” the</description>
-<enclosure url="https://image.theregister.com/?imageId=258036&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=258036&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?</title>
@@ -1476,17 +1498,6 @@
 <description>The latest Windows 11 Insiders Preview enhances the Search feature so that you can access specific settings right from a search window.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg" medium="image"/>
-</item>
-<item>
-<title>Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records</title>
-<link>https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records</link>
-<guid isPermaLink="false">6e711ee81d8445b2aa43e77b05d1978127484a59d892f68dc8ff6444b0b46917</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 17:58:05 +0000</pubDate>
-<description>Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platform Palantir lobbied a health minister to consider extending its AI technology into GP records, stretching its reach into the NHS in a way doctors fear could undermine trust with patients. The US company, co-founded by the Trump-supporting billionaire Peter Thiel, used a direct WhatsApp channel to argue that “the logic of joining up primary and secondary [care] data is unarguable” and said its software was “ideal” for the job. The push came in February this year despite GP data being expressly ruled out of the scope of Palantir’s existing £330m contract with NHS England to run its federated data platform (FDP), which it says has helped cut surgery waiting times and discharge delays. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90b00d99c5f668e22df0929eb12a9dee" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90b00d99c5f668e22df0929eb12a9dee" medium="image"/>
 </item>
 <item>
 <title>Android Auto requires Android 11 or higher now – check your compatibility</title>

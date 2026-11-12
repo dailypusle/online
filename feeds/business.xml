@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?</title>
+<link>https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo</link>
+<guid isPermaLink="false">b4c9738824f50e5e304c2ebe071e5162b142d9f406247c39a03070fe8e013102</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 18:55:03 +0000</pubDate>
+<description>Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting</title>
+<link>https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang</link>
+<guid isPermaLink="false">82669f40e831025b9e3cf22cc9c89a6e741924855cf6b76407d2bbbc2cea1f73</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 18:06:03 +0000</pubDate>
+<description>Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping up.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi</title>
 <link>https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi</link>
 <guid isPermaLink="false">1433ee36bbce91d09e989f6b57ed20ec3d2344a470d94d08e4ac8774bd2de768</guid>
@@ -286,8 +308,8 @@
 <category>business</category>
 <pubDate>Thu, 12 Nov 2026 13:59:02 +0000</pubDate>
 <description>Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M785KXG5GM8BJPMV5VPKY9SA/breaking-news-no-banner.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M785KXG5GM8BJPMV5VPKY9SA/breaking-news-no-banner.png" medium="image"/>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78FFGSYBN954VJZWS39264X/jensen-with-exact-cointelegraph-branding-1.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78FFGSYBN954VJZWS39264X/jensen-with-exact-cointelegraph-branding-1.png" medium="image"/>
 </item>
 <item>
 <title>Bit Digital stock falls 5% in pre-market after Q3 revenue miss</title>
@@ -1047,27 +1069,5 @@
 <description>Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio</title>
-<link>https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio</link>
-<guid isPermaLink="false">0a671cd705da782fedcb58cbe064ce1f17d57a9bc8db378f836adff7d7704935</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 15:01:02 +0000</pubDate>
-<description>The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius</title>
-<link>https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius</link>
-<guid isPermaLink="false">0bb7b8eb5ddfec5837f5e225e92d3534a7a1e8278ede88c787be942452f462af</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 14:32:48 +0000</pubDate>
-<description>Helius' Solana Privacy Rings will let Decrypt users send funds without broadcasting amounts, as it grows out The Information Exchange.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/decrypt-the-information-exchange-helius-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/decrypt-the-information-exchange-helius-gID_7.png" medium="image"/>
 </item>
 </channel></rss>

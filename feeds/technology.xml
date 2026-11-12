@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI</title>
+<link>https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai</link>
+<guid isPermaLink="false">b9c79e7a2e9a6ed7ec0c8f3e8e8edfeb0ca2258a197ac3dc6a870380f60a370c</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 06:55:44 +0000</pubDate>
+<description>Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Get our daily political email , free app or daily news podcast Entry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and higher wages for ordinary workers – or make jobs tougher with more burnout and workplace surveillance – the government has warned employers. While major companies like Qantas and Canva slash their workforces in restructures spurred by AI changes, workplace relations minister Amanda Rishworth said employers must give workers “a clear plan” about how automation could affect their jobs, and the opportunity to move into new roles. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04bcc8930b4a3285d3852162417607a8" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04bcc8930b4a3285d3852162417607a8" medium="image"/>
+</item>
+<item>
 <title>AWS distills its cloud into a local emulator that runs on your PC</title>
 <link>https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251</link>
 <guid isPermaLink="false">8e891bacf51bdd23aa4c1d78c2960aa26f3fbae69709a55dd4617952ff14d203</guid>
@@ -13,6 +24,17 @@
 <description>AWS has released an emulator that kind-of-almost lets you use its cloud on a PC. As explained in the GitHub repository for the prosaically named “AWS Emulator,” the tool “is a local program that serves an AWS API endpoint.” The emulator doesn’t replicate the whole AWS cloud, instead offering its APIs. “You use it to test your software without calling AWS, on your own machine, on a development server, or in continuous integration (CI),” the repo explains. Because those tests never touch the AWS cloud, the tool is free to use. AWS wrote the emulator in Rust, a choice that senior specialist solutions architect Daniel Abib wrote helps to ensure the tool “stays light on CPU and memory on a laptop.” The emulator tool doesn’t replicate the entire AWS cloud. Abib said it supports the APIs of AWS services that have an API model in the AWS API models repository on GitHub . The Register found over 1,300 items on that page. While the tool lets developers test APIs, it doesn’t replicate anywhere near all the features of the Amazonian cloud. “It doesn’t evaluate IAM [Identity and Access Management] policies the way AWS does, and each emulator acts as a single account, with no cross-account or cross-Region behavior,” Abib wrote, adding “How closely it matches AWS varies by service and feature.” AWS publishes “fidelity scores” that detail how closely the emulator works on different AWS services. Amazon tries to achieve full fidelity, so the emulator produces the same results as AWS for valid API calls, and the same errors for invalid ones. Coding agents can also drive the Emulator, an option The Register mentions because AWS advises the easiest way to check if a project will work with the tool is to use the aws-emulator skill for AI coding agents. “With the skill, your agent finds the AWS operations and resources that your project depends on. It checks them against the fidelity tests and fidelity scores for the emulator. It then tells you which parts of your project you can rely on the emulator for, and which ones might behave differently from AWS,” according to AWS documentation. AWS has made the emulator available as an RPM or Debian package. Mac and PC users will need to run Docker and an image of the Emulator. “You install the emulator, start it, and point your tools at the local endpoint,” Abib instructed. “When AWS Emulator starts, it generates its own credentials, a config file, and a certificate, and writes them to ~/.aws/emulator/9297/ . You set environment variables so the AWS SDK talks to your laptop instead of AWS, and your application code stays unchanged.” “From there, your existing tests, CLI scripts, and coding agents keep working the way they already do. A unit test that creates an Amazon DynamoDB table, writes an item, and reads it back is the same test, and it runs on your machine without a deployment.” The cloud colossus’s intent appears, as ever, to encourage more use of its cloud – in this case by satisfying developers their code will run w</description>
 <enclosure url="https://image.theregister.com/?imageId=5309256&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309256&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>You had me at LOL: some notes for the You’ve Got Mail reboot</title>
+<link>https://www.theguardian.com/film/2026/nov/12/youve-got-mail-reboot-email</link>
+<guid isPermaLink="false">62739605962a31f1f4f5842542b4e2408a7d22b8e46e00a9fc7a573b6eebed7e</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 05:00:10 +0000</pubDate>
+<description>Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches Assuming you have already heard about the You’ve Got Mail reboot, you are probably in one of two states. You are either excited that the news might be a signal of a long overdue romcom resurgence, or you are embittered because it’s another sign that Hollywood has run out of original ideas. I hold absolutely no truck with the latter view. Quite frankly, if there was ever a film in dire need of a reboot, then it’s You’ve Got Mail. The film is almost 28 years old, and it shows every single day of its age. You’ve seen it, you know how it goes. It’s about two people who use the futuristic new technology of email (email is no longer new) to communicate, despite being rival booksellers ( nobody reads books any more ), and eventually begin a relationship ( nobody wants to be in a relationship any more ). The whole thing is preposterous. Of course they should try again. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/d4876fbb6e84518f1d6e3c49077a93e7c33549ad/171_0_1500_1200/master/1500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=358740e6ba584d2a6a534853ad614a51" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/d4876fbb6e84518f1d6e3c49077a93e7c33549ad/171_0_1500_1200/master/1500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=358740e6ba584d2a6a534853ad614a51" medium="image"/>
 </item>
 <item>
 <title>Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates</title>
@@ -1324,17 +1346,6 @@
 <media:content url="https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4bc1c8dc3414293d139b9507b77e95d" medium="image"/>
 </item>
 <item>
-<title>Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video</title>
-<link>https://www.theguardian.com/australia-news/video/2026/nov/10/mandatory-ai-safety-and-security-protections-announced-after-openai-breach-of-medicare-video</link>
-<guid isPermaLink="false">e492c134981293039aa9de9641ba24b43c3c0d3b63387549e4d041a6779da460</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 05:29:32 +0000</pubDate>
-<description>Australia's prime minister said its government would set up a new AI safety regulator and Labor would consider six key obligations on AI companies. The review made 18 recommendations. Anthony Albanese said: 'We accept all of the recommendations, and we’ve commenced work to implement them.' Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/0e9dca7c9e94446383a80bbc5d2065a6fe806b55/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f85bcc77ef5c88fb60eefbb5842cd8d" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/0e9dca7c9e94446383a80bbc5d2065a6fe806b55/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f85bcc77ef5c88fb60eefbb5842cd8d" medium="image"/>
-</item>
-<item>
 <title>Cisco to link all future products to its SaaS-y Cloud Control management tool</title>
 <link>https://www.theregister.com/networks/2026/11/10/cisco-to-link-all-future-products-to-its-saas-y-cloud-control-management-tool/5308660</link>
 <guid isPermaLink="false">8965eccb1e423b3474fd3e3b0deee68ef456ffe8a8699b2bf6450137dcaa47fc</guid>
@@ -1377,17 +1388,6 @@
 <description>Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decision For more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia. He co-founded the company as a young engineer in 1993 and oversaw its growth into a multitrillion dollar chipmaker and bellwether of the AI industry at large. He’s also made it a family business. His children, Madison and Spencer, have taken leadership roles at the firm. While not a company executive, his wife, Lori Mills Huang, leads the family foundation which, as of 2024, controls over 60m Nvidia shares. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c43d891d33ec85172cf8efa28232145" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c43d891d33ec85172cf8efa28232145" medium="image"/>
-</item>
-<item>
-<title>The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security</title>
-<link>https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security</link>
-<guid isPermaLink="false">ecb334382b3d5b66bd57a180822df7650e66ede387f5607ab0559d7d4af5d2b4</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 20:01:05 +0000</pubDate>
-<description>Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is under intense scrutiny A hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei venue last year does not seem particularly remarkable at first glance. But the Nvidia chief executive’s revelation on Sunday that he had an affair with Ms Huang has given it new significance. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b54d147c7ce2afb86e53877e38bfb348" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b54d147c7ce2afb86e53877e38bfb348" medium="image"/>
 </item>
 <item>
 <title>Attackers backdoor trusted AWS integrations to steal secrets</title>

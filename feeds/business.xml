@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval</title>
+<link>https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval</link>
+<guid isPermaLink="false">87c440a18c87c57032cc44813ae2dca6f7c4513b6086095f189b3d00991ce017</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 13:06:24 +0000</pubDate>
+<description>Plus, a second Jensen Huang affair is rocking markets while MSCI’s MSTR removal decision sends crypto lower.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/03/okx-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/okx-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>EU DeFi proposals could push users to riskier platforms, says Coinbase exec</title>
+<link>https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec</link>
+<guid isPermaLink="false">6c904fbc56308c722efea11cce5b20e584c7bc263364eb344dbbd281ddc791be</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 12:21:43 +0000</pubDate>
+<description>Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg" medium="image"/>
+</item>
+<item>
 <title>India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades</title>
 <link>https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades</link>
 <guid isPermaLink="false">39f031947aa7a0eb3463dce965e2d3f2b1ce4b4e13bc087c06ef2255076c4d96</guid>
@@ -785,17 +807,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74RCY03VD26P3VVM8SW3SGD/tracking-supervision-security-people.jpg" medium="image"/>
 </item>
 <item>
-<title>Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack</title>
-<link>https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks</link>
-<guid isPermaLink="false">2153253b627445cd9cebae5495340c9682af6182064878796c330817111e4d71</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 05:52:14 +0000</pubDate>
-<description>Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on its halted network.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg" medium="image"/>
-</item>
-<item>
 <title>Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin</title>
 <link>https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel</link>
 <guid isPermaLink="false">1dbf8fce75385e47e9319be4210d8a0b90d05e17780138cc6b4d8a1b63c92cf7</guid>
@@ -1025,17 +1036,6 @@
 <description>An aide said Trump family crypto businesses should "preserve their documents" as Warren prepares to take over the Senate Banking Committee.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/senator-elizabeth-warren-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/senator-elizabeth-warren-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them</title>
-<link>https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive</link>
-<guid isPermaLink="false">51f4600a62553734d0ea51f398b949d4e52b82aaa582994c4166bc5606c2c8b9</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 22:36:02 +0000</pubDate>
-<description>Anthropic's latest AI can build complex software and even design physical objects. Users are producing impressive results, and estimated bills large enough to make developers wince.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Binance CFO departs one week after $6B hack</title>

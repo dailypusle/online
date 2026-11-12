@@ -4,7 +4,40 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>‘It&amp;#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation</title>
+<title>FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
+<link>https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace</link>
+<guid isPermaLink="false">6a0b530a1c16bbaf1bc5d3ae6c57079f9a4b0ac9867368de3ddf512f9e113b4d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 22:28:47 +0000</pubDate>
+<description>The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang resigns as Nvidia CEO after alleged affairs</title>
+<link>https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns</link>
+<guid isPermaLink="false">88fe4d5c03655566937b4cda34ae230782ee1f14c123c3501efffda1f44512cb</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 22:05:28 +0000</pubDate>
+<description>Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and two company employees. He will be replaced on an interim basis by Nvidia’s chief financial officer, Colette Kress, until a full-time successor is named. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" medium="image"/>
+</item>
+<item>
+<title>Google’s new Gemini model is better at understanding complicated questions</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen</link>
+<guid isPermaLink="false">a3e1afb4a33deb1bb631451a45d8fdfb08bde4f0c9c5460efe356e0b7f30baa6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 21:55:32 +0000</pubDate>
+<description>Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including "questions with multiple parts, hard-to-understand typos, or highly specific requests." The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it's "now the new default model in AI Mode &amp; being used for your hardest questions in AI Overviews." Google says Gemini 4 Hydrog … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation</title>
 <link>https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions</link>
 <guid isPermaLink="false">7c88fba49af3393002592f2a268748113da34512114cc0c000347b10f6a0137d</guid>
 <source>The Verge</source>
@@ -389,17 +422,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS493_CYBERTRUCK_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>25 years later, Xbox is trying to reinvent itself again</title>
-<link>https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad</link>
-<guid isPermaLink="false">a254a2067feb6687a46833b3e703ad664e75782748405aaea61a73fc0339d615</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
-<description>Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. It's not starting from scratch this time around, but to reach another 25-year milestone, it needs to do something radically different. The original Xbox was radically different. Born out of a fear of Sony putting a PC in the living room, Microsoft built its first game console around familiar PC technology. A custom Intel Pentium III processor powered the original Xbox, alongside an Nvi … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_4_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_4_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Apple Sports adds live UFC updates</title>
 <link>https://www.engadget.com/2313383/apple-sports-adds-live-ufc-updates</link>
 <guid isPermaLink="false">278862bf9ac243fe2edebd6c40d05cefc4614693d0fa273c2065af24b26fbae4</guid>
@@ -409,17 +431,6 @@
 <description>The app can deliver real-time stats for each fight on a UFC card.</description>
 <enclosure url="https://www.engadget.com/img/gallery/apple-sports-adds-live-ufc-updates/l-intro-1794409173.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/apple-sports-adds-live-ufc-updates/l-intro-1794409173.jpg" medium="image"/>
-</item>
-<item>
-<title>Jensen Huang resigns as Nvidia CEO after alleged affairs</title>
-<link>https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns</link>
-<guid isPermaLink="false">88fe4d5c03655566937b4cda34ae230782ee1f14c123c3501efffda1f44512cb</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 16:57:33 +0000</pubDate>
-<description>Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang Jensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and two company employees. He will be replaced on an interim basis by Nvidia’s chief financial officer, Colette Kress, until a full-time successor is named. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3b7990484306ac31165365ed9d87857" medium="image"/>
 </item>
 <item>
 <title>Fitbit users can’t see Google Health metrics after update – how to fix it</title>
@@ -1069,17 +1080,6 @@
 <description>More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple is shuttering its 28-year-old online community forum</title>
-<link>https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum</link>
-<guid isPermaLink="false">67907131c6ead6a0f214389a5591646a9a1699ae071bec618b1d3e8f41b33f0c</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 17:04:26 +0000</pubDate>
-<description>Apple’s online community forum will close on November 20. On Tuesday night, Apple posted a message to the Apple Support Community announcing the forum's closure: The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state. You can continue to find trusted guidance and support on the official Apple Support site . We want to thank the community members who have contributed their time and expertise to help others with their Apple products. For 28 years, the forum has provided Apple users with a way to get quick technical advice about their products. That advice usually came from fellow users, though Apple employees occasionally chimed in. As with any community forum, the helpfulness and accuracy of the advice varied. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-966x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-966x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Scientists check their work and confirm it with update on iconic black hole image</title>

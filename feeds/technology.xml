@@ -4,7 +4,95 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks</title>
+<title>The Elder Scrolls' most obscure adventure gets a 4K PC makeover</title>
+<link>https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover</link>
+<guid isPermaLink="false">b0167a6877b13f31397b1733e29d6b22cbd0a7247bd6325c7d755dd13e3f2eb4</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 19:49:11 +0000</pubDate>
+<description>So, you think you're an Elder Scrolls superfan? You say you've been there since The Elder Scrolls Arena on MS-DOS and have logged hundreds of hours in The Elder Scrolls Online ? You say you've bought all of the roughly 5,000 re-releases and remasters of Skyrim that have been made available in the last 15 years? Tell me, then: What do you think of The Elder Scrolls Travels: Shadowkey ? What's that? You've never played Shadowkey ? You weren't there day one back in 2004, Nokia N-Gage in hand , ready to experience the game's 176 x 208 resolution mobile hack-and-slash RPG combat for yourself? And you call yourself a real Elder Scrolls fan? Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp" type="image/webp"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp" medium="image"/>
+</item>
+<item>
+<title>Several Microsoft services appear to be down – what we know</title>
+<link>https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot</link>
+<guid isPermaLink="false">11f7ed8de9f18ad627bf167484b9a4161818280f0f75f78ff0d5a50927325a77</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 19:45:52 +0000</pubDate>
+<description>Microsoft said it resolved the issue earlier today, but reports of the outage are still rolling in as the status page remains down.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304396071.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304396071.jpg" medium="image"/>
+</item>
+<item>
+<title>No, AI agents did not discover a previously unknown Maya site</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</link>
+<guid isPermaLink="false">a20d1e6a0e529bc1715f1ee0290468c4e3bee8fa17c4e8cf898e45d70bf9a9c0</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 19:42:40 +0000</pubDate>
+<description>“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Miotti Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a growing tension in science as amateurs wielding increasingly powerful AI tools parachute into specialist fields, often without the expertise needed to understand what they are looking at. Local communities are often already well aware of sites in their area. Miotti said the idea to use AI to sea … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Who is Collette Kress, NVIDIA's interim CEO?</title>
+<link>https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo</link>
+<guid isPermaLink="false">be053eee0b45b0ed1baf91ce69d813869220b67e946cc1eb9822c23e2db90dd9</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 19:26:47 +0000</pubDate>
+<description>Kress spent 25 years in various finance roles before joining NVIDIA in 2013</description>
+<enclosure url="https://www.engadget.com/img/gallery/who-is-collette-kress-nvidias-interim-ceo/l-intro-1794511529.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/who-is-collette-kress-nvidias-interim-ceo/l-intro-1794511529.jpg" medium="image"/>
+</item>
+<item>
+<title>Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash</title>
+<link>https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash</link>
+<guid isPermaLink="false">d458704933992cfaa859e7954ec013e8a8cb5b9f83a742af4f81f49f5fb5b182</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 19:23:03 +0000</pubDate>
+<description>Google is continuing its elemental AI naming scheme with the new Gemini 4 Hydrogen . These names are less descriptive than the Pro/Flash monikers of earlier releases, but Hydrogen's purpose is clear: It replaces the faster, more economical Flash models most people in Google's ecosystem use. With Google's recent Argon and Carbon releases, the rollout was staged and began with cybersecurity researchers. Even when general availability began, Google restricted access to users paying for its most expensive AI subscription. The limits for Hydrogen are much more relaxed, with access beginning immediately. This model has replaced Gemini 3.8 Flash across the company's products. Google claims that Hydrogen represents a major improvement versus the previous Flash model. It runs in one of four thinking levels (low, medium, high, and the new xhigh), and even in high mode, it's 2.5 times faster than Flash 3.8. Plus, it reduces "fabricated claims" by more than 5x, according to Google's analysis. Users will also see gains in code generation, with Hydrogen more than tripling 3.8 Flash's score in Terminal-Bench. In some cases, Hydrogen even trades blows with Argon. It managed a score of 54 in the popular Artificial Analysis Intelligence Index with xhigh mode versus 50 for Argon. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Multiple Microsoft 365 services are experiencing an outage</title>
+<link>https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage</link>
+<guid isPermaLink="false">3ec9b1a18cb29c72165c69b88b5846da72115021413d895535409e494c7aa4e3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 19:17:32 +0000</pubDate>
+<description>Outlook and Teams are among the platforms impacted by "elevated load" issues.</description>
+<enclosure url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794511005.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794511005.jpg" medium="image"/>
+</item>
+<item>
+<title>Ukraine says it can’t stop Russian strikes because Starshield is limited again</title>
+<link>https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt</link>
+<guid isPermaLink="false">d8abbf5e7fce6b401a5d70d71101c983ca29848702f13c114ff70d27b31c10d1</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 19:09:57 +0000</pubDate>
+<description>Ukraine President Volodymyr Zelenskyy said today that Starshield has again been disabled on fast-moving drones in Ukrainian territory occupied by Russian forces, and that the US has provided "very little" information about the return of the restriction. "We have detected speed restrictions on Starshield on our Ukrainian territory again, in the temporarily occupied parts of Ukraine," Zelenskyy said in a speech at the 9th European Political Community Summit in Ireland. "The speed limit is back at 161 kilometers per hour—that’s 100 miles per hour." Zelenskyy's allegation is that Starshield—the military variant of SpaceX's Starlink satellite service—stops working on Ukrainian military drones when they travel above 161 kilometers per hour. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft Outlook is down</title>
+<link>https://www.theverge.com/tech/1032226/microsoft-outlook-is-down</link>
+<guid isPermaLink="false">a487e36889862acfd354c53b852f2fdde6adaf452954ae1bfe079f6788e8f882</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 19:07:21 +0000</pubDate>
+<description>Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account , saying that "We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors." There were also some reports of problems with Teams, but most of the people reporting issues say Teams is still working now. Now Microsoft says : We've completed redistributing connection traffic across our worldwide infrastructure, and we're moving ad … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google faces calls for AI moratoriums in schools after Gemini pilot backlash</title>
 <link>https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks</link>
 <guid isPermaLink="false">acfb8ed23481a99f369e840ddf831f00e4b1dc0b6d6fa485fcdec2336d147ac0</guid>
 <source>Ars Technica</source>
@@ -37,13 +125,24 @@
 <media:content url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/125_0_4666_3734/master/4666.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37c8cf3c696dd03224405955df058682" medium="image"/>
 </item>
 <item>
+<title>Roku drops smart home products to focus on streaming – what that means for your devices</title>
+<link>https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products</link>
+<guid isPermaLink="false">ebe1254542c574c0e7a70132790d80e9feb4ba7d87718fee387c20344564b855</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 18:43:08 +0000</pubDate>
+<description>Roku is winding down its smart home business following its sale to Fox. Here’s what to know.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg" medium="image"/>
+</item>
+<item>
 <title>Netflix releases new trailer for Ray Gunn</title>
 <link>https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn</link>
 <guid isPermaLink="false">a4f466bdc33f926679ff669a16719e77d1a436daddefabe62d1879dd325bcc88</guid>
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 18:38:38 +0000</pubDate>
-<description>We caught the first trailer for the upcoming Netflix animated film Ray Gunn in September and were charmed by director Brad Bird's blend of a Jetsons-like future with classic 1930s noir detective thrillers. Bird has described it as a mashup of The Maltese Falcon and Buck Rogers , and the latest trailer definitely gives off that energy. As previously reported , Bird has directed some of our all-time favorite animated films: The Iron Giant (1999), The Incredibles (2004), and Ratatouille (2007), with the latter two snagging well-deserved Oscar wins. He's been kicking around the idea for Ray Gunn for the last 30 years, working on his many other film projects while the Ray Gunn script—co-written by Matthew Robbins, who also co-wrote 1987’s Batteries Not Included with Bird—“stayed in a filing cabinet at Warner Brothers,” the director said earlier this year. The film’s inspiration came when Bird heard the opening of the B-52s’ “ Planet Claire ” (a personal favorite that also provides the soundtrack to the new trailer) and initially thought it was a cover of Henry Mancini’s theme music from the classic TV show Peter Gunn . Bird is a longtime fan of film noir and hard-boiled detectives, and he came up with the idea of a futuristic detective named Ray Gunn (a pun on " raygun ," of course). “It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action than the average film noir,” said Bird . Read full article Comments</description>
+<description>We caught the first trailer for the upcoming Netflix animated film Ray Gunn in September and were charmed by director Brad Bird's blend of a Jetsons-like future with classic 1930s noir detective thrillers. Bird has described it as a mashup of The Maltese Falcon and Buck Rogers , and the latest trailer definitely gives off that energy. As previously reported , Bird has directed some of our all-time favorite animated films: The Iron Giant (1999), The Incredibles (2004), and Ratatouille (2007), with the latter two snagging well-deserved Oscar wins. He's been kicking around the idea for Ray Gunn for the last 30 years, working on his many other film projects while the Ray Gunn script—co-written by Matthew Robbins, who also co-wrote 1987’s Batteries Not Included with Bird—“stayed in a filing cabinet at Warner Brothers,” the director said earlier this year. The film’s inspiration came when Bird heard the opening of the B-52s’ “ Planet Claire ” (a personal favorite that also provides the soundtrack to the new trailer) and initially thought it was a cover of Henry Mancini’s theme music from the classic TV show Peter Gunn . Bird is a longtime fan of film noir and hard-boiled detectives, and he came up with the idea of a futuristic detective named Ray Gunn (a play on " raygun ," of course). “It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action than the average film noir,” said Bird . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg" medium="image"/>
 </item>
@@ -290,17 +389,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_1112_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang</link>
-<guid isPermaLink="false">4c2abdf66c9c702a8d7de3e20b9322750f4c2967d7d929354e579c719ec4b8fd</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 15:48:12 +0000</pubDate>
-<description>Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation with the company in an email, which also announced CFO Colette Kress as interim CEO. You can read the full text of the board's internal memo and Kress's first message to employees as interim CEO below. Subject: Statement from NVIDIA Board Chair Dear NVIDIA Employees, I am writing to share an impo … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>United Airlines wants you to check in, not your chatbot</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373</link>
 <guid isPermaLink="false">ef5044ca14923e7e14e72ab7247a712db6f9c0a4d1cf8db47cc46b04a8fa8139</guid>
@@ -310,17 +398,6 @@
 <description>United Airlines has become the latest company to slap restrictions on unauthorized third-party AI agents, warning that the bots could make unintended purchases, expose customer data, or bypass checks requiring human acknowledgment. The airline announced restrictions covering both its own digital platforms and indirect access through travel agencies and aggregators, with changes to its booking, ticketing, and distribution policies. United says automated actions could violate aviation regulations, citing the requirement for a human acknowledgment during check-in that bags contain no banned substances. A bot cheerfully ticking the box isn't quite the passenger confirmation it has in mind. And then there is the worry that "sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles." United would also rather customers use its own app than turn third-party assistants loose on its systems. AI agents are pitched as a way to outsource life's minutiae, and it's difficult to navigate the web without tripping over a breathless influencer explaining why you need one, or dozens, or hundreds of virtual personal assistants. The thing is that operating these assistants requires care and thought. Earlier this year, British mathematician Professor Hannah Fry conducted a cautionary experiment in which she gave an AI agent a bank card, and a bit too much agency, to see what it would do. Passwords were coughed up, and some ill-considered purchases were made. Still, as Fry said of the agent, dubbed Cassandra, "don't let her incompetence fool you, because these things are getting better fast." Last month, reports emerged of major US banks blocking third-party AI agents from operating inside accounts and taking actions on behalf of the customer. This month, several UK banks were reported to have followed suit. United stated: "Corporate leaders in the banking and retail industries have taken similar actions regarding AI agents and we encourage others to consider measures that preserve the data and security of their customers and strengthen safety." The Register asked United Airlines how it planned to implement the blocking. There are a few options, including physical biometric confirmation for actions or checking for signs of automated browser driving. Amazon has also moved against unauthorized AI agents, blocking Meta's Muse (the "AI that gets it done," according to Meta's marketing) in September . The airline has yet to respond. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=259076&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=259076&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>A power bank that can quickly charge three gadgets is just $49</title>
-<link>https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale</link>
-<guid isPermaLink="false">3c7a92d131549a588a2f3ad4d8f3ac33108f5a81c822c5cc3fa761a3cf3bbb4a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 15:19:58 +0000</pubDate>
-<description>Amazon Prime subscribers can jump on a pretty nice deal happening on Ecoflow’s laptop power bank that can deliver up to 140W of power through either of its two USB-C ports. You can snag the limited-time deal happening on the black or silver-colored models for $48.99 (originally $85.79) at Amazon . The 25,000mAh / 90Wh battery is TSA-approved, and can supply a total of 170W to up to three devices sipping from it at once. Ecoflow Laptop Power Bank Where to Buy: $85.79 $49 at Amazon (for Prime subscribers) Based on specs alone, this is a fantastic value. It’d be a great fit if you own a USB-C chargeable MacBook or Windows laptop, along with a tablet, gaming handheld, or other devices you use every day. We like to recommend laptop-class power banks whenever prices drop, though they often don’t go below $80 or so for this combination of power, ports, battery capacity, and a built-in screen to monitor output. Compared to something like Anker’s popular Laptop Power Bank, the Ecoflow model is missing on really just one nicetie: built-in cables. Also, it doesn’t seem to include a USB cable, so you’ll need to provide your own. Other great Verge-approved deals Director Curry Barker’s hit horror film, Obsession , has sunk to the low price of $12.99 at Amazon , Walmart , and Gruv for the 4K Blu-ray. In addition to the 4K disc, the set includes a 1080p standard Blu-ray disc of the film, as well as a digital version. The 54 percent off deal arrives just before the film leaves Peacock on November 17th. It will then likely become more affordable to rent digitally, but snagging Obsession on disc will make for a great stocking stuffer for the horror lover in your life. If you’re a first-time customer at Gruv, you can enter the code FIRSTGRUV15 at checkout to save 15 percent off the order. Your mileage may vary depending on what you want to shop for, but Amazon’s Resale section (where it displays returned products) is knocking up to 20 percent off at checkout through November 18th. Used goods don’t exactly make for the best gifts, but it’s a savvy way to save some money if you want some accessories. Belkin’s basic, but slim Nintendo Switch 2 case is $23 in like-new condition (originally $29.99), with an extra 10 percent off at checkout. Asus’ promising ROG Kithara open-back gaming headset with Hifiman planar magnetic drivers is 20 percent off its already-discounted $179.33 price at checkout. The best price you can get on 007 First Light is at Newegg , where the Steam PC edition costs $37.99 without the need for an offer code. IO Interactive’s third-person action game was recently discounted to around $45, but has since returned to its original $69.99 price. With the developer’s lineage in making fun, immersive spy sandboxes with the Hitman franchise, expectations were high that it’d deliver the 007 title that gamers have been craving. Our review didn’t bury the lede, proclaiming right at the top that First Light “captured the franchise’s signature spectacle,” and it</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Pre-orders for some Apple Home Collection devices will open November 13</title>
@@ -1016,17 +1093,6 @@
 <media:content url="https://image.theregister.com/?imageId=263314&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Trump wanted little Kei trucks for America, Toyota makes it happen</title>
-<link>https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks</link>
-<guid isPermaLink="false">d61ec68bd10a4611fd5e2138b0b6eb947c4058f931dac5ecdedb8912f803d440</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 15:25:44 +0000</pubDate>
-<description>The idea that Americans should be offered a greater choice of smaller cars has support from strange bedfellows indeed. After all, who could forget President Trump—usually one to take a maximalist approach to any problem— announcing last year that he wanted the Department of Transportation to make Japan’s diminutive “Kei” cars legal here in the US. Ars’ attempts to get DoT to tell us more about the potential influx of little vehicles have mostly fallen on deaf ears. But this week, there has been movement on the topic, with Toyota announcing that it will bring back the Scion brand with the KEI-01. What’s a Kei car? In the US, the preponderance of humongous SUVs is a consequence largely of government policies, specifically corporate average fuel economy standards that made it less profitable to sell smaller, efficient cars. Japan’s Kei cars are what happens if the government instead restricts the size, engine capacity, and power output. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds</title>
 <link>https://www.theguardian.com/thefilter/2026/nov/11/best-christmas-gifts-ideas-tweens-uk</link>
 <guid isPermaLink="false">5b7b324595a60f0b1c2783b606a3b87a8f4dc9b71f3b8d269d4a5b7694abbabc</guid>
@@ -1060,17 +1126,6 @@
 <media:content url="https://image.theregister.com/?imageId=5309156&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Europe wants to ban 'dark patterns' in apps and loot boxes for minors</title>
-<link>https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors</link>
-<guid isPermaLink="false">a80267a513b276e9916c2e155afad8bce1737a62b8952faaa2b2d3a0faf19267</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 14:29:03 +0000</pubDate>
-<description>Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.</description>
-<enclosure url="https://www.engadget.com/img/gallery/europe-wants-to-ban-addictive-design-loot-boxes-and-dark-patterns-in-apps/l-intro-1794406701.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/europe-wants-to-ban-addictive-design-loot-boxes-and-dark-patterns-in-apps/l-intro-1794406701.jpg" medium="image"/>
-</item>
-<item>
 <title>NASA asks Earthlings to wave as Voyager 1 reaches a light-day away</title>
 <link>https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127</link>
 <guid isPermaLink="false">ec54244ebd0facf146f145e44ff2dad9df3612cbc343db9b55441bec74345039</guid>
@@ -1082,17 +1137,6 @@
 <media:content url="https://image.theregister.com/?imageId=249462&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Google DeepMind just mathematically verified key parts of Signal</title>
-<link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup</link>
-<guid isPermaLink="false">7db3dbf05615c3ed65084a4f7b0a8fb9189fc19916fe0d6660be167eca67929a</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 14:08:57 +0000</pubDate>
-<description>Google DeepMind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees—a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two ways. It serves as further independent validation of the cryptography that protects massive quantities of the world's communications on platforms like the Signal app , Google Messages, and WhatsApp. And it demonstrates Google DeepMind's formal verification capabilities using a new AI framework called AlphaProof Code. More broadly, AI-aided formal verification is having a moment, but it is unclear how practical it will be for widespread use and how effective it can be at securing large amounts of code. Proponents of formal verification have long referred to it as a sort of holy grail in software security, because it uses math to check and validate that software is functioning as intended—in other words, that it doesn't have critical vulnerabilities. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials</title>
 <link>https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065</link>
 <guid isPermaLink="false">8a10cd2ae4417da883faaa53da213bac3dd35c2f28684b8cf6bd0503655f5df1</guid>
@@ -1102,17 +1146,6 @@
 <description>A 2013 breach of Russian-language cybercrime forum YouHack exposed its members' login details – and millions of credentials they had posted about other victims, according to newly cataloged data. Have I Been Pwned (HIBP) added the breach on Wednesday, recording 7.2 million unique email addresses. Around 107,000 belonged to forum members, whose exposed data included usernames, IP addresses, and mostly unsalted MD5 password hashes. Unsalted MD5 is a poor choice for protecting passwords. It's fast to compute, allowing attackers to test guesses at speed, and identical passwords produce identical hashes. Hardly good hygiene for a hacking forum. You might expect members of a cybercrime forum to know better than to reuse passwords or register with an email address tied to their real identity. Expectations and reality are not always on speaking terms, as AlphaBay founder Alexandre Cazes demonstrated. YouHack, a longtime cybercrime forum, moved to a different domain after the 2013 breach and remains active, giving cybercrims a place to trade stolen credentials and financial data. The data collated from that digital burglary was eventually bundled into 2024's so-called Mother of all Breaches – a 12TB, 26 billion-record mega-dump of files taken from myriad data security lapses. Millions more HIBP separately published its findings concerning another Russian data breach today. It said the 2023 breach of Russian bank Sberbank's loyalty program (SberSpasibo) contained records belonging to 48 million users. The dataset included 3.3 million unique email addresses, alongside phone numbers and dates of birth. Bank card numbers were stored as unsalted SHA-1 hashes, which could let attackers test possible numbers against the leaked hashes for a match. Reporting on the SberSpasibo breach at the time suggested the records were dated between April 2017 and February 2022, and the attack was claimed by the pro-Ukraine hacktivist outfit NLB. NLB also claimed responsibility for an attack on Sberbank's internal systems at the same time, and later took partial credit for an attack on Alfa-Bank , Russia's largest private bank. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=252194&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=252194&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X</title>
-<link>https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x</link>
-<guid isPermaLink="false">714047b8340d78157a97f247cc00656c69477650eabae5719e8309941f16bfbc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 12:59:44 +0000</pubDate>
-<description>Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.</description>
-<enclosure url="https://www.engadget.com/img/gallery/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x/l-intro-1794401662.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/microsofts-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x/l-intro-1794401662.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple tells its Support Community to STFU</title>
@@ -1245,17 +1278,6 @@
 <description>Anthropic has introduced three new types of artifacts that show the company tiptoeing into the office productivity market long dominated by Microsoft and Google. On Tuesday, the Claudefather announced Claude Sheets, Claude Whiteboards, and Claude Data, and promised the imminent arrival of Claude Meetings. These artifact types join existing ones – Docs, Slides, Design, and Motion – to form a nascent Claude-dependent productivity suite. Anthropic initially used the term artifacts to refer to shareable AI-based interactive tools, like dynamic charts. But the scope of the term has been stretched to cover specific artifact types, which refer to what traditionalists might take to mean files associated with specific hosted applications. "An artifact is anything Claude makes for you that you'd put in front of someone: a design, a deck, a document, a dashboard, or a small interactive tool," the company explains. The key thing that distinguishes an artifact from a file is that users are meant to interact with artifacts through Claude, rather than storing and transferring them independently. Think of it more as a container or managed object that opens in Claude (via a sharing URL), because artifacts in fact consist of various content types – .txt, .md, .html, .jsx, .svg, .pptx, .docx, .zip, .pdf, and .mp4, among others. Anthropic's vision of Claude as a container for other applications goes beyond artifacts. The AI biz has also expanded its interactive connectors , which turn Claude into a landlord for other software applications. Its own promotional video for the feature hammers that point home in its title: " Your apps have moved into Claude ." "Starting today, partners can embed their apps directly in Claude, so you can work in Adobe, Atlassian, and others without switching tabs," Anthropic said. "Plugins from Salesforce (beta), NetSuite, and Workday (beta) come with built-in skills, so sellers can prep for a call, accountants can analyze financial data, and HR teams can handle time off and expenses." In a prior era, those would be fighting words. Tech companies like Apple, Google, and Microsoft have worked for years to maintain their positions as platform landlords. Anthropic's invitation to become a Claude tenant ought to set off competition alarm bells. But perhaps with LLMs being able to re-create other people's apps on demand, there's less interest in defending app boundaries as if they were moats to keep out rivals. With AI, the call is coming from inside the house. Alongside the rollout of Claude Sheets, Whiteboards, and Data, Anthropic is pushing the notion that Claude is useful for people working outside of computation and mathematics, the occupational category that, according to the company's own data , accounts for a larger share of Claude usage than any other. "Inside Anthropic, non-technical teams are starting to get as much out of Claude as our engineers," the biz insists, hauling out canned testimonials from the likes of Accenture and Data</description>
 <enclosure url="https://image.theregister.com/?imageId=5308992&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5308992&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Seagate's new hybrid drive raises some old questions</title>
-<link>https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive</link>
-<guid isPermaLink="false">3485621c12ab9987cff651e19f24153f8db3d25061948e33261331f4cd94513f</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 23:30:56 +0000</pubDate>
-<description>Seagate doesn't think hybrid drives are done just yet. On Tuesday, the company announced the launch of the new FireCuda Forge line of storage drives. The new drives combine the high capacity of a traditional plattered HDD with the speed and responsiveness of a user-supplied solid-state drive (SSD). The new hybrid storage solution is Seagate's first to be powered and managed by the new Alkemi intelligent storage platform. The FireCuda Forge is available right now through Seagate's web store , and comes in 8TB ($699) or 20TB ($899) HDD configurations—neither of which includes the required SSD. Users will have to bring their own SSD, with some specific restrictions. The FireCuda Forge is compatible with M.2 2280 NVMe drives that are PCIe Gen3 or higher. The maximum supported NVMe capacity is 1TB, which means that's as much data as you'll be able to dedicate to storage on the "fast side" of the hybrid setup. The NVMe will require minimum speeds of 2,400MB/s read and 2,000MB/s write, and a unit with DRAM cache is recommended. Seagate claims 2,500MB/s read and 2,000MB/s write speeds for the combined system, along with USB4 and support for Windows 11 and macOS 26+. Credit: Seagate Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Ye olde server consolidation has made Cisco push top-of-rack switching to 100G</title>
@@ -1522,17 +1544,6 @@
 <media:content url="https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/58_263_5069_4056/master/5069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b939d72a993d8dbf3cd59fc55a77f63" medium="image"/>
 </item>
 <item>
-<title>Can you still trust Proton?</title>
-<link>https://www.zdnet.com/tech/can-you-still-trust-proton</link>
-<guid isPermaLink="false">90b34bb009929d2a069c5ac75124075e0fadcd9e6ee30ed0b4f34a23b88bfed5</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 12:17:11 +0000</pubDate>
-<description>The Swiss software company has built its reputation on a commitment to privacy. Did its CEO just destroy the trust of its customer base?</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271478863.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271478863.jpg" medium="image"/>
-</item>
-<item>
 <title>Are walking pads worth it? We put the best under-desk treadmills to the test</title>
 <link>https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk</link>
 <guid isPermaLink="false">8d1a91462dfea28cf4f760249877ed9fecdc1ff8491ced27f7a41eb233bbdd7a</guid>
@@ -1575,17 +1586,6 @@
 <description>‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on the screens of water-control equipment made by an Israeli firm. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbbf673c92cc02d5cc5b7d630a066fe9" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbbf673c92cc02d5cc5b7d630a066fe9" medium="image"/>
-</item>
-<item>
-<title>You can change Windows settings directly from a search now – how to try it</title>
-<link>https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview</link>
-<guid isPermaLink="false">32ed12b73c12e0b23c7203157c19d9984ec6d04bc92f6561a617f8248b25f00c</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 19:33:24 +0000</pubDate>
-<description>The latest Windows 11 Insiders Preview enhances the Search feature so that you can access specific settings right from a search window.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg" medium="image"/>
 </item>
 <item>
 <title>Nvidia’s board needs to do some succession planning – sharpish | Nils Pratley</title>

@@ -4,12 +4,23 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Outlook outage: Microsoft reports 'issues' with Teams and email</title>
+<link>https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203</link>
+<guid isPermaLink="false">a85d5673103c75ab9e97c07ca815e97fdbe41008609c3a68a77805043ca46ce3</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 20:00:05 +0000</pubDate>
+<description>Microsoft is reporting "issues" with users accessing Outlook and Teams.</description>
+<enclosure url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Nvidia CEO Jensen Huang resigns amid alleged affair with reported spy</title>
 <link>https://abcnews.com/Business/nvidia-ceo-jensen-huang-resigns-amid-alleged-affair/story?id=138076256</link>
 <guid isPermaLink="false">273a041ce05ff163f8c83db9b0f0ee9f4415d215465bb4b90e76310710282629</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Thu, 12 Nov 2026 18:59:11 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 19:20:58 +0000</pubDate>
 <description>CFO Colette Kress will serve as interim chief executive, Nvidia said.</description>
 <enclosure url="https://s.abcnews.com/images/US/jensen-huang-3-rt-gmh-261112_1794495668417_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/jensen-huang-3-rt-gmh-261112_1794495668417_hpMain_16x9_1600.jpg" medium="image"/>
@@ -33,8 +44,8 @@
 <category>world</category>
 <pubDate>Thu, 12 Nov 2026 18:02:00 +0000</pubDate>
 <description>Harry Kane has become England's most-capped men's footballer.</description>
-<enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" medium="image"/>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-harry-kane-england_7405363.jpg?20261112192100" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-harry-kane-england_7405363.jpg?20261112192100" medium="image"/>
 </item>
 <item>
 <title>Israel to ban far-left French politician Jean-Luc Mélenchon from entry</title>
@@ -147,7 +158,7 @@
 <media:content url="https://s.france24.com/media/display/2915f31c-dead-11f1-ba4a-695cb59fade5/w:1024/p:16x9/2026-11-12T043325Z-1772503551-RC23MOA2UKYO-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg" medium="image"/>
 </item>
 <item>
-<title>D.C. shooting leaves 1 person killed, 4 injured. Gunman dead</title>
+<title>Witnesses describe the D.C. shooting that left 1 dead, 4 injured</title>
 <link>https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting</link>
 <guid isPermaLink="false">105c849e7977853cbf37d7d90a99d156ce9c24bafd1f5c1f437d3fb9bf88260e</guid>
 <source>NPR News</source>
@@ -156,6 +167,17 @@
 <description>A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police. (Image credit: Tom Brenner)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2617x1745+0+0/resize/2617x1745!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F8b%2F7e225de64a2d86828ffdb414d762%2Fap26316527860423.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2617x1745+0+0/resize/2617x1745!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F8b%2F7e225de64a2d86828ffdb414d762%2Fap26316527860423.jpg" medium="image"/>
+</item>
+<item>
+<title>Teenage girl who stabbed love rival to death pleads guilty to murder</title>
+<link>https://news.sky.com/story/teenage-girl-who-stabbed-love-rival-to-death-in-fight-over-boy-pleads-guilty-to-murder-13611634</link>
+<guid isPermaLink="false">718a03161c1900b97d0239c72821e2ea88d886d05758da2a49d9397aa845c7d5</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 16:12:00 +0000</pubDate>
+<description>A teenager who stabbed another girl to death during a pre-planned fight over a boy has pleaded guilty to murder.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-kayla-smith-yorkshire-police_7405094.jpg?20261112165340" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-kayla-smith-yorkshire-police_7405094.jpg?20261112165340" medium="image"/>
 </item>
 <item>
 <title>ICE reports record immigration arrests, deportations since Trump White House return</title>
@@ -246,6 +268,28 @@
 <media:content url="https://s.france24.com/media/display/010d6538-deaf-11f1-901c-695cb59fade5/w:1024/p:16x9/EN-20261112-161451-162018-CS.jpg" medium="image"/>
 </item>
 <item>
+<title>WATCH: United Airlines banning AI bots from booking flights</title>
+<link>https://abcnews.com/video/138074238</link>
+<guid isPermaLink="false">879dea5d9394ce231d761e29bdc27257886140e78d3845f17bcab55cca9a8d95</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 15:28:24 +0000</pubDate>
+<description>The airline says customers who give their personal and credit card information to AI businesses run the risk of having their sensitive data exposed.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261112_gma_champion_united2_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261112_gma_champion_united2_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Pope Leo returns to Peru for historic visit</title>
+<link>https://abcnews.com/video/138074243</link>
+<guid isPermaLink="false">602a224799919e7e5b987f0436b62a63a7f5c77c91fd006586fabbb8415ebb31</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 15:27:55 +0000</pubDate>
+<description>The visit marks Pope Leo’s first return to the country where he served as a missionary and bishop for nearly two decades.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261112_gma_pope1_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261112_gma_pope1_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi</title>
 <link>https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks</link>
 <guid isPermaLink="false">6b73f0b62348ddebd0db5e47f03e2ceb56efe951d7d9ba359ea564e9daca5d2e</guid>
@@ -266,6 +310,17 @@
 <description>A 17-year-old Australian has been found alive and well after spending six days missing in bushland east of Melbourne. After being spotted by helicopter, the teen was winched to safety before an emotional reunion with his mother who joked that “he’s never leaving the house again”.</description>
 <enclosure url="https://s.france24.com/media/display/04a17a12-deab-11f1-ba23-695cb59fade5/w:1024/p:16x9/Australia-bush-rescue-vignette.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/04a17a12-deab-11f1-ba23-695cb59fade5/w:1024/p:16x9/Australia-bush-rescue-vignette.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: SS United States intentionally sunk off the Gulf Coast of Florida</title>
+<link>https://abcnews.com/video/138074239</link>
+<guid isPermaLink="false">3bbef03a5d8b79d70c5527f8fe9a707e658256ae35498af1af0f595714f0b1b0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 15:10:07 +0000</pubDate>
+<description>The SS United States was lowered to its final resting place off the Florida Panhandle and will now serve as a diving destination and habitat for marine life.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261112_gma_spencer_ship3_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261112_gma_spencer_ship3_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>For the love of French butter: 'Le beurre' spreading joy globally</title>
@@ -422,17 +477,6 @@
 <media:content url="https://s.france24.com/media/display/9ba23e7c-de80-11f1-a496-5f54d898a954/w:1024/p:16x9/PnP-SUE-DUKE-GREEN-ECONOMY.png" medium="image"/>
 </item>
 <item>
-<title>US jobless claims tick up to 200,000 but remain low by historic standards</title>
-<link>https://abcnews.com/US/wireStory/us-jobless-claims-tick-200000-remain-low-historic-138076988</link>
-<guid isPermaLink="false">3a62b034f30efc2b1c14e25d4e66c5520cba45a397095bd7c6f1c32fec562fab</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 13:50:09 +0000</pubDate>
-<description>More Americans applied for unemployed benefits last week, but jobless claims remain at historically low levels, layoffs are rare and most workers enjoy unusual job security</description>
-<enclosure url="https://s.abcnews.com/images/US/wirestory_7a08c78cfc6af1aff2ac8652bd532336_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wirestory_7a08c78cfc6af1aff2ac8652bd532336_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: ABC's Bob Woodruff's foundation honors wounded soldiers and their families</title>
 <link>https://abcnews.com/video/138062712</link>
 <guid isPermaLink="false">cb4be992f89a4ceb13a109913b033135705c79986f2aefee55aed80f2b418102</guid>
@@ -442,17 +486,6 @@
 <description>David Muir speaks with "The Resilient" – a band made up of wounded soldiers – backstage at Bob Woodruff's annual Stand Up for Heroes, raising millions for veterans and military families.</description>
 <enclosure url="https://s.abcnews.com/images/WNT/261111_wn_muir_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/WNT/261111_wn_muir_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Historic ocean liner sunk to become artificial reef</title>
-<link>https://abcnews.com/video/138073213</link>
-<guid isPermaLink="false">ddaf70278ebcaee20de353175738f77db36d932a6155443459adfc10162d88f1</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 11:44:34 +0000</pubDate>
-<description>The historic SS United States, once the fastest ship on the seas, made a slow final journey beneath the waters Wednesday.</description>
-<enclosure url="https://s.abcnews.com/images/US/261112_gmafl_ship_sunk_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261112_gmafl_ship_sunk_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Israeli strike on Gaza hospital kills six, health ministry says</title>
@@ -477,15 +510,15 @@
 <media:content url="https://s.abcnews.com/images/International/261112_gmafl_ultrarunnerr_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>At least 23 states considered laws governing ICE and schools this year</title>
-<link>https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration</link>
-<guid isPermaLink="false">3cb7e061d13733b477bebeb04ca305b94ec10386c973244ba35a704a5badc4ee</guid>
+<title>A blue wave helped offset for now a falling tally of Black members in the U.S. House</title>
+<link>https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting</link>
+<guid isPermaLink="false">ed195859e7a2dfa19d17b3f7081075ca59fa8739f6f14f1d2d13dc962252651a</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
-<description>When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg" medium="image"/>
+<description>A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now. (Image credit: Jake Crandall)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1328+0+0/resize/2000x1328!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F6a%2F353ed641433c848011d9892cde0a%2F2026-05-16t221611z-364652352-mt1usatoday28978004-rtrmadp-3-u-s-rep-terri-sewell-and-u-s-rep-shomari-figures-speak.JPG" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1328+0+0/resize/2000x1328!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F6a%2F353ed641433c848011d9892cde0a%2F2026-05-16t221611z-364652352-mt1usatoday28978004-rtrmadp-3-u-s-rep-terri-sewell-and-u-s-rep-shomari-figures-speak.JPG" medium="image"/>
 </item>
 <item>
 <title>Bomb alert at Calais train station disrupts Eurostar</title>
@@ -653,6 +686,17 @@
 <media:content url="https://s.abcnews.com/images/US/261111_gmafl_cheerleader_vets_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
+<title>Economy grows 0.7% in third quarter but slowdown looms</title>
+<link>https://news.sky.com/story/ai-rollout-boosts-economy-as-slowdown-fears-mount-13610911</link>
+<guid isPermaLink="false">df414c643958c3a1d8d6c1176db931518dda6f3edf7b4ce7584fe2002d5e1e21</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 10:26:00 +0000</pubDate>
+<description>The UK economy grew 0.7% in the third quarter of the year, according to early official figures confirming a boost from AI investment.</description>
+<enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-istock-data-centre_7336678.jpg?20260831155822" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-istock-data-centre_7336678.jpg?20260831155822" medium="image"/>
+</item>
+<item>
 <title>Four grizzly bears killed mother and daughter in Canada</title>
 <link>https://news.sky.com/story/four-grizzly-bears-killed-mother-and-daughter-in-canada-officials-say-13610812</link>
 <guid isPermaLink="false">39c289b4a804f576c92ee46c8eda0d12e12762bf2d250957686798afc07113d0</guid>
@@ -673,27 +717,5 @@
 <description>ABC News’ Chief Meteorologist Ginger Zee has some eye-opening demonstrations she hopes can help save lives during flash floods.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261110_gma_zee_floods_740_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261110_gma_zee_floods_740_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Officer shot 6 times celebrates wedding</title>
-<link>https://abcnews.com/video/138004494</link>
-<guid isPermaLink="false">3f6ed742cf8ee8b078face536fbfe3490d360714e53edaee514d3c65f971f193</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 10 Nov 2026 11:50:14 +0000</pubDate>
-<description>Five months after Buffalo Police Officer Marc Hurst was shot six times while on duty, he celebrated a moment that once seemed far from certain: marrying his fiancee, Haley.</description>
-<enclosure url="https://s.abcnews.com/images/US/261110_gmafl_cop_wedding_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261110_gmafl_cop_wedding_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Woman living the 'dream' to save foxes in need</title>
-<link>https://abcnews.com/video/138004318</link>
-<guid isPermaLink="false">e1a06f21edef456cbffa5df282f3850ffcf9b8fde3670ab5a0df9d4a4a22c89e</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 10 Nov 2026 11:31:23 +0000</pubDate>
-<description>ABC News' Danny New talks to a woman who's on a mission to save foxes at a sanctuary in upstate New York.</description>
-<enclosure url="https://s.abcnews.com/images/US/261110_gmafl_foxes_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261110_gmafl_foxes_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds</title>
+<link>https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack</link>
+<guid isPermaLink="false">c6580cf76d6b317d68c1087e222b7cf917557737841e665dd773bdb7fc4c1e73</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 19:12:14 +0000</pubDate>
+<description>Bitcoin Magazine Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds Binance said Thursday it has completed coverage of the $6.34 billion Oct. 29 hack from company funds, two weeks after the largest crypto theft on record, even as withdrawals continue to reopen in phases. In a Thursday announcement, the exchange wrote that it “has completed coverage of assets impacted in the security incident” and published a new proof-of-reserves snapshot. It repeated the same message on X. That wording matters. Coverage means Binance has replaced the affected tokens from its own books, not that it has recovered the stolen coins from the attackers. The exchange said it committed more than $6.34 billion in company funds and bought the affected tokens through market and over-the-counter channels, drawing on a partial deployment of its Secure Asset Fund for Users (SAFU), a portion of its futures insurance fund above the level required under its risk-management framework, and its corporate treasury. Binance has also committed to replenishing SAFU to about $1 billion after that partial draw, a step it said would keep the fund fully resourced as an emergency user-protection reserve. A very small number of tokens the exchange no longer lists were also affected. Binance said those holdings will be handled under its delisting process and that users who hold them will be covered. A wider proof-of-reserves snapshot, but no independent check yet Binance took a new proof-of-reserves snapshot at 00:00 UTC on Nov. 12, or 7 p.m. Eastern on Wednesday, covering 198 tokens. That is a sharp jump from the 10 tokens included in the Oct. 31 snapshot published in the days after the breach. The new figures are now posted on the exchange’s proof-of-reserves website. The snapshot, Binance said, “provides an updated view of assets that are fully accounted for.” Users cannot yet check that claim themselves. The exchange said the full zero-knowledge proof will take about 40 to 50 hours to generate because of the computational workload. After that, users holding the affected tokens “will be able to independently verify that their assets are backed at a minimum of 1:1.” Until the proof is ready, the 1:1 backing is Binance’s statement, not something customers can confirm on their own. Withdrawals are still coming back in phases Thursday’s update does not reopen the platform all at once. Binance said it continues to reopen withdrawals in phases and will share further details once they are confirmed. The exchange first reopened withdrawals on Nov. 1, starting with bitcoin and then expanding to other networks, and has kept the restart on a phased timetable since then. The announcement also does not say how much of the stolen assets have been retrieved, and it does not name an attacker. Covering customer balances leaves that recovery question unanswered. The theft, which Binance first detailed in a Nov. 3 incident report, began with a fake job interview and a poisoned develo</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Covers-6.34-Billion-Hack-Company-Funds.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Covers-6.34-Billion-Hack-Company-Funds.jpg" medium="image"/>
+</item>
+<item>
 <title>Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?</title>
 <link>https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo</link>
 <guid isPermaLink="false">b4c9738824f50e5e304c2ebe071e5162b142d9f406247c39a03070fe8e013102</guid>
@@ -24,6 +35,28 @@
 <description>Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping up.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>I’ve Worked With 131,201 Entrepreneurs — and 95% of Them Make These 2 Mistakes</title>
+<link>https://www.entrepreneur.com/building-a-business/entrepreneurs-make-2-common-mistakes</link>
+<guid isPermaLink="false">85aeebb804a84efe47448ddbe361dcbf2dde718c8905e657602648cc0ca1e1e0</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
+<description>After helping more than 131,000 business owners, I’ve learned that sustainable growth usually comes down to avoiding two surprisingly common mistakes.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/entrepreneur-mistakes-1126-g-1086104586.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/entrepreneur-mistakes-1126-g-1086104586.jpg" medium="image"/>
+</item>
+<item>
+<title>What Changing College Enrollment Trends Reveal About the Future of Work</title>
+<link>https://www.entrepreneur.com/building-a-business/what-changing-college-enrollment-trends-reveal-about-the-future-of-work</link>
+<guid isPermaLink="false">aeb8adebd483477fc25a0cec1a8da91e8258713834fef5a7ee40032f43b3aaf6</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
+<description>Here is what's driving changes in student preferences and how universities can adapt academic programs and align curricula with workforce needs to help students make better career choices.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/college-enrollment-1126-g-2193883549.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/college-enrollment-1126-g-2193883549.jpg" medium="image"/>
 </item>
 <item>
 <title>Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi</title>
@@ -598,17 +631,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M763TD8E1ZBRMPTMFSD5YQ3A/bithumb-acquisition-deal-off-2.png" medium="image"/>
 </item>
 <item>
-<title>How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry</title>
-<link>https://bitcoinmagazine.com/videos/how-sam-altman-backed-meanwhile-is-disrupting-the-20t-life-insurance-industry</link>
-<guid isPermaLink="false">94b8cc18db6c12a47facf86957ef83d2420225ddadf94957369eb672d9562aff</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:30:35 +0000</pubDate>
-<description>▶ Bitcoin Magazine How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry Danny Baer, Head of Revenue &amp; Investments at Meanwhile, explains how his Bermuda-based company built the world’s first fully licensed life insurance carrier that runs entirely on Bitcoin, holding its regulatory capital in Bitcoin and paying out policies in Bitcoin. He breaks down why traditional insurers can’t compete with this model, why backers like Apollo, Bain Capital Crypto, Northwestern Mutual and Sam Altman joined the cap table, and how a policy works: pay 10 bitcoin in premium and your family could receive 15 or 20 bitcoin, tax-free. He also explains how a Bitcoin-denominated yield of about 2% compounds inside the policy, and why life insurers’ decades-long horizon makes them a source of permanent capital for the Bitcoin economy. Cash App: For a limited time, new customers can get $21 added to their balance. Just use the code BMTV21 when you sign up, and send at least $5 to a friend in the first two weeks. Terms apply. Bitcoin services by Block, Inc. See the Bitcoin disclosures at cash.app/legal/podcast. Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Why Families Should Protect Themselves in Bitcoin 01:35 Passing Wealth in a More Durable Currency 03:12 A Balance Sheet Denominated Entirely in Bitcoin 04:40 It Doesn’t Matter If Bitcoin Is $10,000 or $10 Million 05:17 Bermuda and the First Bitcoin Life Insurance License 08:13 Why Bain, Apollo and Northwestern Mutual Invested 10:18 Life Insurance as 3% of a Bitcoin Economy 12:06 The Risk-Free Rate of Bitcoin Is Zero 13:23 Secured Bitcoin Lending and First-Loss Capital 16:50 What Bitcoiners Miss About Life Insurance Capital 18:29 A 42-Year Liability and Permanent Capital 21:51 Loved Ones Won’t Have to Hunt for a Seed Phrase DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
-<enclosure url="https://img.youtube.com/vi/_0kypyaaW4A/hqdefault.jpg" type="image/jpeg"/>
-<media:content url="https://img.youtube.com/vi/_0kypyaaW4A/hqdefault.jpg" medium="image"/>
-</item>
-<item>
 <title>I Looked Beyond Silicon Valley and Found a New Playbook For Building Startups</title>
 <link>https://www.entrepreneur.com/business-news/i-looked-beyond-silicon-valley-found-new-playbook-building-startups</link>
 <guid isPermaLink="false">ed9a4a5eb1b423cd9c28629571d41370a685b28c68e6a09710cc2ea791974cea</guid>
@@ -662,28 +684,6 @@
 <description>It is possible to be too honest in the workplace.</description>
 <enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/argument-1126-g-2201954976.jpg" type="image/jpeg"/>
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/argument-1126-g-2201954976.jpg" medium="image"/>
-</item>
-<item>
-<title>This 28-Year-Old Started a Caffeinated Side Hustle. It Made $125K in Year 1 — So She Quit Corporate to Work on It Full-Time.</title>
-<link>https://www.entrepreneur.com/building-a-business/this-28-year-old-started-a-caffeinated-side-hustle-it-made-125k-in-year-1</link>
-<guid isPermaLink="false">4b4753847650cc31ba12caf88e1cde06f5aae0017188e24d447054d15ae733d6</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:06:11 +0000</pubDate>
-<description>Rosie Goldwasser wanted to create a product delivering calm, focused energy without the crash.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/HEADSHOT-1-e1794342233471.png" type="image/png"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/HEADSHOT-1-e1794342233471.png" medium="image"/>
-</item>
-<item>
-<title>How to Make Money on Social Media Without a Huge Following</title>
-<link>https://www.entrepreneur.com/side-hustle/how-to-make-money/how-to-make-money-on-social-media-without-a-huge-following</link>
-<guid isPermaLink="false">714b4ec85a59abc0a0b0185808a28d27ab8b14cf8b6706b3cbfc1f7a4bcff2bf</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 20:00:00 +0000</pubDate>
-<description>Creator-business expert Shana Davis-Ross explains what actually turns a social audience into revenue.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/2000x1334-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/2000x1334-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone</title>

@@ -4,6 +4,127 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Mozilla leaves Solo website owners to go it alone as hosting shuts down</title>
+<link>https://www.theregister.com/software/2026/11/13/mozilla-leaves-solo-website-owners-to-go-it-alone-as-hosting-shuts-down/5309632</link>
+<guid isPermaLink="false">354c3234708920a06e6a1bde07595a554b780d541cde91709650f72bd4f163a2</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:59:00 +0000</pubDate>
+<description>Solo, Mozilla's LLM-powered website builder and hosting service, is shutting down. All sites and data will be deleted on November 30. Mozilla launched Solo in December 2023 as a "Mozilla Innovation Project," aimed at helping sole traders to build themselves a webpage for their services. S ome 54,000 people used its LLM to build pages, and relied on Mozilla to host them – complete with custom domain names. Well, not any more. Now the Soloist.ai homepage says: "We've made the difficult decision to close Solo. We have appreciated all of your support building and growing this product, and the feedback we've received from all of you. Solo will cease operations on Nov 30, 2026." Users now have just over two weeks left to find a new home for their pages, although Mozilla says it first notified them on October 1. According to the support FAQ , users can download a ZIP containing an HTML export, contact form and newsletter submissions, and a CSV linking to their images. The images themselves must be downloaded separately. Domains purchased through Solo Domains must also be moved to Name.com , with Mozilla handling the transfer after users create an account and supply its code. So much for having the fiddly bits taken care of. It also points at a couple of other bot-based site-generating services – in case all this feels like a bit too much. We suspect that for the sort of technophobes that this was aimed at, it very probably will. Mozilla told The Register : "Experimentation is an important part of Mozilla's mission to make the internet better and give people more choice and control online. Sometimes, that means making the decision to bring a product to an end. Solo will officially shut down on November 30, 2026. We initially notified customers on October 1, providing a 60-day transition period, and have been offering support to help them download their website data and migrate their domains purchased via Solo Domains to another hosting provider." It seems that some 54,000 users were not enough to keep it going, and we can see that this would cost money to keep running. An HTML export is a start, though the FAQ doesn't explain how much work it will take to get a complete, functioning site running elsewhere. Buried in the dark recesses of the web is this vulture's own nearly 30-year-old homepage, created using a mixture of Claris Home Page (which was excellent) and Microsoft FrontPage (ever so slightly less so). We saw what a mess machine-generated web content was back then, and thanks to LLMs, we suspect it is almost infinitely worse now. Mozilla might have made a few bucks by finding a commercial partner to take on its users, and perhaps through them offer a paid site-and-domain transfer service. As we noted last year, it seems not to have negotiated anything with KaiOSTech, which maintains and sells what used to be the formerly FOSS FirefoxOS for use on low-end smartphones.</description>
+<enclosure url="https://image.theregister.com/?imageId=260756&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=260756&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>The new Apple TV has a YouTube problem</title>
+<link>https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error</link>
+<guid isPermaLink="false">28efe7b8e0b347ab559bae5b3611e64f520be95964062587177a650542fc6e0d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:55:57 +0000</pubDate>
+<description>People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying "YouTube is not yet available on this device." In some cases the app was functional, but had a transparent red bar stuck at the bottom of the screen saying, "YouTube app is approved for device testing only and not for production use." Installing the new tvOS 27.2 update and rebooting wasn't enough to resolve the issue for The Verge 's Tom Warren , he also had to uninstall and reinstall the app. The Ve … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Email addresses used in European school bomb hoaxes spotted in old infostealer logs</title>
+<link>https://www.theregister.com/cyber-crime/2026/11/13/email-addresses-used-in-european-school-bomb-hoaxes-spotted-in-old-infostealer-logs/5309765</link>
+<guid isPermaLink="false">52e52c3eeb7ed5819776bb94ba72d9457974970bcb21160526f3709763289e4a</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:41:00 +0000</pubDate>
+<description>Two email addresses used to send bomb threats that disrupted thousands of Italian schools this week were found exposed in infostealer logs for over a year, experts say. Researchers at Hudson Rock looked into the two university email addresses used to send the bomb threats. One, from Egypt’s Kafrelsheikh University, was scooped up by Vidar – a cybercrime tool that steals saved account credentials and passwords from an infected computer and leaks them to attackers – as far back as October 2021. The other, from Taiwan's Dayeh University, was found among the 284 million addresses included in the massive AlienTXTBASE infostealer dump , dated February 2025. The experts said that the two addresses in infostealer logs do not strictly mean that those behind the bomb threats gained access to the accounts using the previous infostealer compromise. However, it suggests that there was ample time for the universities and Microsoft, which both universities used for authentication, to take action against the accounts that they should have been aware were appearing in infostealer logs. Modern threat intelligence has made infostealer logs highly visible. "Both findings place credential exposure well before the disruption, creating a substantial window in which exposed access could have been investigated and secured," Hudson Rock said . The researchers said that they would need access to details such as the email headers, and data from email providers, including sign-in events and audit records, that could show them more about who sent the email and from what session. Understanding whether the sender authenticated into the account could rule out spoofing, but would not in itself provide proof that the sender used a corresponding password taken from an infostealer log, Hudson Rock noted. There are many ways to get around password-based authentication . The researchers said that in any case where a credential is detected among infostealer logs, the organizations responsible for those accounts must contain them, revoke their access, rotate secrets, and go looking for suspicious activity. "The disruption illustrates why credential exposure deserves attention beyond fraud and data theft," the researchers said. "An account associated with an ordinary university user can become a means of reaching schools, frightening families, and consuming emergency resources." The threats Around 6,300 of Italy's 7,476 state schools received fake bomb threat emails between November 11-12, although only around 390 of them evacuated their respective buildings. The emails contained messaging such as "we will annihilate you," and "we will carry out genocide against Italians," and mention of a "powerful explosive device… with a remote trigger." Early reports suggested that the emails came from a Taiwanese email address and were signed by a "Mikhail Andropov, leader of the Vilayat of Misoginistan" – a fictitious state or region roughly mapping to "the land of Misogyny," with "vilayat" meaning</description>
+<enclosure url="https://image.theregister.com/?imageId=5269514&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5269514&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Microsoft services are returning after an outage took down Outlook, Teams and more</title>
+<link>https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more</link>
+<guid isPermaLink="false">866bc7ba8f0a82bdf4c7d46e5040942582ed8e12fd85a8aa051bb7505de5b0de</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:35:36 +0000</pubDate>
+<description>The House of Representatives, health care providers, schools and many other organizations were affected.</description>
+<enclosure url="https://www.engadget.com/img/gallery/microsoft-services-are-gradually-returning-after-an-outage-took-down-outlook-teams-and-more/l-intro-1794587621.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/microsoft-services-are-gradually-returning-after-an-outage-took-down-outlook-teams-and-more/l-intro-1794587621.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft outage live: millions still affected as disruption stretches beyond 18 hours</title>
+<link>https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news</link>
+<guid isPermaLink="false">cf8d6db662d1ba559978b7ae7655a0994a645125517912fa31c9d18b413509a8</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:32:21 +0000</pubDate>
+<description>Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has so far not received any reports that hospitals or clinics are impacted. Impact is largely restricted to the sending and receiving of email. Western Australia, along with jurisdictions around the world, is being impacted by a global Microsoft outage. We are receiving updates from the Commonwealth who are working with Microsoft at the most senior levels to resolve. Microsoft are prioritising life, safety and Government services. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df85051cceb44ee69fff379851687628" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df85051cceb44ee69fff379851687628" medium="image"/>
+</item>
+<item>
+<title>Windows 0-day dropped by disgruntled researcher hands hackers System rights</title>
+<link>https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights</link>
+<guid isPermaLink="false">728d91208d49dea51a0f8fd719247b69c0a73204ced98114633b521243907b32</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:26:32 +0000</pubDate>
+<description>Nightmare Eclipse, the pseudonym of a researcher with an ongoing, very public beef with Microsoft, has dropped yet another Windows zero-day. On Tuesday, Nightmare Eclipse disclosed SignDrop, a vulnerability that gives local users full System rights on some versions of Windows. The vulnerability resides in the Common Log File System , which Microsoft describes as a “general-purpose logging service used by software clients running in user-mode or kernel-mode.” By forcing a privileged process such as Windows Defender to open a crafted CLFS container, an attacker with ordinary user rights can abuse the privileged file creation to elevate privileges to System. Turning a Windows defense against itself The attack exploits the interaction of CLFS, Windows Defender, and Windows file permissions. The exploit uses Windows Defender to open a log file created by a standard user by calling ServerMpUpdateEngineSignature, a legitimate Defender function for processing antivirus signature updates. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft&amp;#8217;s massive Outlook outage continues</title>
+<link>https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage</link>
+<guid isPermaLink="false">6c41593b576c3b0795c4e7fdcbab96cd1de4ae82e1f6b959dff9c4f8cba99da6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:17:11 +0000</pubDate>
+<description>Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook mail might be delayed while efforts to fully fix the outage continue. Charles Lamanna, Copilot, agents, and platform leader at Microsoft said in a statement to The Verge that the situation is continuing to improve: "We're seeing encouraging recovery progress, with service availability and email deliver … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>HPE debuts hybrid storage configs: Rising SSD costs hit supercomputing</title>
+<link>https://www.theregister.com/storage/2026/11/13/hpe-debuts-hybrid-storage-configs-rising-ssd-costs-hit-supercomputing/5309679</link>
+<guid isPermaLink="false">854c1b137575ce624e0bdd63b05f45c41258a18114aab4b96eb75710e1204ebc</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:15:00 +0000</pubDate>
+<description>HPE is pitching high performance compute customers with hybrid configurations of its Cray Supercomputing Storage Systems built for faster throughput, along with a Rack Management Controller that monitors cooling systems. The hardware giant already supplies its Cray Supercomputing Storage Systems E2000 in all-flash, all-disk, tiered and hybrid configurations, but - we're told - the latest combination offers up to 41 percent more data throughput per storage rack. The E2000 line embeds the Lustre open-source parallel file system, and is generally intended to fit NVMe Gen 5 solid-state drive (SSD) building blocks. For the refreshed hybrid configurations, HPE is combining SSDs with new 32 TB SAS-4 (24 Gb/s SAS) HDDs and new enclosures supporting 74 or 100 drives. HPE says it'll deliver up to 116 GB/s of read throughput and 92 GB/s of write throughput per rack, with up to 32 percent more usable storage capacity per rack for expansion to support the growing size of datasets in HPC, especially where sites are mixing AI and traditional simulation-style workloads. One of the reasons behind these new hybrid configurations could be the ballooning cost of storage, caused by the relentless demand for AI infrastructure skewing the price of components such as memory and many other things. But prices for silicon-based NAND flash SSDs are growing faster than those of good old hard drives , as our colleagues at Blocks &amp; Files reported. HPE says that as demand for data-intensive workloads grows, prices for large SSDs have soared. The company claims the new hybrid configurations let research institutions and national laboratories spend less on storage and put that money toward compute node purchases, without giving up on the performance they need. “When making long-term investments in environments where advanced workloads are rapidly evolving, our customers want scalable, dense, and flexible systems to help them address dynamic shifts in requirements," said Trish Damkroger, HPE senior veep for HPC and AI Infrastructure Solutions. The latest hybrid configurations are expected to go on sale in early 2027. HPE's other introduction is a Rack Management Controller, providing what HPE calls "intelligent liquid cooling” via real-time monitoring, leak detection and automated control features. It integrates with HPE Supercomputing Management Software to gather telemetry and provide control. Several platform-specific versions will be offered, each tailored to different rack-scale systems. Support will launch with HPE's own Cray Supercomputing GX5000 infrastructure, naturally, with versions for Nvidia’s NVL72 and AMD’s Helion and Helios kit to follow. The Rack Management Controller will be available for HPE’s kit in March 2027, with support for AMD and Nvidia expected to follow in June. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5309743&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309743&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>The Verge’s 2026 gift guide for dads</title>
+<link>https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026</link>
+<guid isPermaLink="false">508b4d65dc568ac7499f3b0c7b70418512b1d747a6653daac1a72f069e44b9f9</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:00:00 +0000</pubDate>
+<description>Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this year's gift list with the modern father in mind, whether he's a gamer, creator, chef, or simply a gadget lover. There's a lot in here we think he'll like, from noise-canceling headphones like the Sonos Ace Ultra and an autonomous drone to a brilliant QD-OLED monitor and a nifty light that's perfect for illuminating his next campsite. Whatev … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>My favorite recipe app just got a big upgrade — and a subscription fee</title>
+<link>https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on</link>
+<guid isPermaLink="false">73c354b0b3f2c1cbcccee5cdfa9b84d789e60495e6beab1b9c3626d3036b7e54</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:00:00 +0000</pubDate>
+<description>Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for several weeks while it was in open beta, and the update recently launched across Android (the version I've been using), iOS , Windows , and macOS . Where Paprika 3 was a one-time purchase per platform, accessing most of the new features in Paprika 4 requires an annual subscription fee of $14.99 (it can also be gifted ). With the subscription, you can access the app on any supported platform. New users, as well as those … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/paprikalead.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/paprikalead.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft outage gives customers a crash course in dependence on Redmond</title>
+<link>https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805</link>
+<guid isPermaLink="false">094807ea04cf59e2f47563d463c48334d2976dc178bae6c52576e0d1bfd80248</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 15:59:20 +0000</pubDate>
+<description>Microsoft 365 services are slowly recovering from a prolonged outage that has handed critics of single-vendor dependence a particularly unwelcome case study. Ever wondered what it would be like if your IT supplier abruptly pulled the plug? Perhaps the result of a mood swing by an unpredictable political leader? For affected Microsoft customers, the disruption has offered an unwelcome preview. Email? Gone. Messaging with Teams? Iffy. Collaboration? Nope. The list of problems in what Microsoft delicately called a "Service Degradation" is breathtaking. The company put the incident's start at 1826 GMT on November 12. Exchange Online fell over. Viewing recently used files in the Microsoft 365 application was problematic. Copilot threw a wobbly. Microsoft 365 Education was affected (unfortunate, considering the changes the company has made ), and so on. At 1401 GMT on November 13, Microsoft reported: "We're continuing to see improvements in service availability," but the damage has surely been done. If the outage halted work at your organization, then questions will have to be asked. Even Microsoft's rivals had some sympathy for the engineers and administrators dealing with the problems. Jos Poortvliet, co-founder of Nextcloud, told The Register : "Mistakes happen in the IT industry. This holds true for companies of all sizes, including us. Our heart goes out to all the admins today. "This incident shows how dependent organizations are on a single ecosystem. Especially in critical infrastructure, monopolies are increasing the risk of stalling businesses globally if an incident occurs. "When everything is hanging on a single vendor, companies can't switch providers quickly to get back up and running, or have a second setup as backup, or pull the plug when under attack and keep working air-gapped." Similarly, Civo CEO Mark Boost noted that IT whoopsies were a way of life. "Every technology provider will experience failures," he said. "The real concern isn't that Microsoft has suffered an outage. It's that we've allowed so much of our critical infrastructure to become concentrated in the hands of so few companies, creating enormous single points of failure." Dame Chi Onwurah, chair of the Commons Science and Technology Committee, also commented: "The global Microsoft outage only serves to highlight once again the lack of resilience in the UK's digital infrastructure, and the dangers that this dependency can pose to our security, economy and public services." This week, Microsoft warned users to treat its unsupported Exchange Server 2016 and 2019 as " permanently vulnerable ." Moving to Exchange Online brings its own dependencies, however. Beyond any compensation claims, Microsoft may face awkward conversations about those dependencies when contracts come up for renewal. And there are alternatives. Although perhaps not so extreme as the measures overheard by one vulture in a German shared workspace: "Germany's love of the fax machine – we are finally getti</description>
+<enclosure url="https://image.theregister.com/?imageId=259120&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=259120&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>The best early Black Friday deals you can already shop</title>
 <link>https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026</link>
 <guid isPermaLink="false">41ae633c6584dee9d5b17bb95344d72396bc2b1c4a82242507937d389ea50215</guid>
@@ -13,28 +134,6 @@
 <description>The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. But we’re still seeing worthwhile discounts on a host of tried-and-tested gear, with more expected in the coming weeks. Below, we’ve rounded up the best early Black Friday deals we’ve found so far. Prices could drop further as Black Friday approaches, as is always the case, but these deals are worth considering if you’d rather shop early and beat the holiday rush. We’ll continue to update this guide as more retailers launch their holiday sales, too, so be sure to check back regularly as we get closer to the main event. WD_Black SN850P 2TB M.2 SSD with heatsink The SN850P M.2 SSD with a heatsink is a great, competitively-priced option for PlayStation 5 and PC owners alike. It offers fast performance and a bunch of extra storage at a price we don’t commonly see these days. Where to Buy: $599.99 $299.99 at Best Buy Nothing Ear 3A earbuds You likely won’t find wireless earbuds with a more striking appearance than Nothing’s Ear 3A. Additionally, these sound fantastic, and boast active noise cancellation. Read our review . Where to Buy: $99 $69 at Amazon $99 $69 at Walmart $99 $69 at Best Buy Meta Quest 3S The Quest 3S is a standalone VR headset with the same chipset as the pricier Quest 3, but with the same lenses and screen resolution as the Quest 2. There are plenty of great Meta Store VR games, and it can also be connected to a gaming PC to play demanding games like Half-Life Alyx. Read our review . Where to Buy: $349.99 $297.99 at Amazon (128GB) $349 $297.99 at Best Buy (128GB, w/ $50 gift card) Bose SoundLink Max SE speaker This more affordable, more streamlined version of the Max has a slightly smaller battery (16 hours versus 20), and lacks external power bank functionality, but is otherwise the same as the pricier Max, and just as good at delivering excellent audio. Where to Buy: $349 $229 at Best Buy LG B6E OLED TV Despite being an entry-level variant of the B6 OLED, this model features four HDMI 2.1 ports, a 120Hz refresh rate, a capable processor, and pixel-perfect image quality and contrast for any content you want to watch. Lower brightness is likely the biggest compromise with getting a cheaper OLED. Where to Buy: $1399.99 $699.99 at Best Buy (55-inch) Ember Mug 3 (14-ounce) Ember’s latest smart mug is designed to keep your coffee at the ideal temperature for up to three hours, with five temp settings between 120 and 145 degrees Fahrenheit. The third-gen version is similar to prior models; however, you can now adjust the heat settings directly on the mug and throw it in the dishwasher, which wasn’t the case before. Where to Buy: $149.95 $99.99 at Amazon $149.95 $99.99 at Best Buy $149.95 $99.99</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Microsoft outage live: millions still affected as disruption stretches beyond 18 hours</title>
-<link>https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news</link>
-<guid isPermaLink="false">cf8d6db662d1ba559978b7ae7655a0994a645125517912fa31c9d18b413509a8</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 15:32:09 +0000</pubDate>
-<description>Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has so far not received any reports that hospitals or clinics are impacted. Impact is largely restricted to the sending and receiving of email. Western Australia, along with jurisdictions around the world, is being impacted by a global Microsoft outage. We are receiving updates from the Commonwealth who are working with Microsoft at the most senior levels to resolve. Microsoft are prioritising life, safety and Government services. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df85051cceb44ee69fff379851687628" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df85051cceb44ee69fff379851687628" medium="image"/>
-</item>
-<item>
-<title>Microsoft&amp;#8217;s massive Outlook outage continues</title>
-<link>https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage</link>
-<guid isPermaLink="false">6c41593b576c3b0795c4e7fdcbab96cd1de4ae82e1f6b959dff9c4f8cba99da6</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 15:29:21 +0000</pubDate>
-<description>Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook mail might be delayed while efforts to fully fix the outage continue. Senior Verge correspondent Tom Warren reports that according to his sources, the outage is linked to Azure VNet config changes. Microsoft has said that it hasn't found any evidence of the outage being connected to "malicious activity," … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Another Linux kernel developer steps back from some duties due to overload</title>
@@ -279,17 +378,6 @@
 <media:content url="https://i.guim.co.uk/img/media/7f571bba7cd9bc06e27cf2a4ab996e1f11d17244/258_0_3574_2859/master/3574.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=64cf591ef1df00b435d622e4ec262450" medium="image"/>
 </item>
 <item>
-<title>Let’s talk about Jensen Huang’s many affairs!</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow</link>
-<guid isPermaLink="false">b790ef257fc3d1721f2b1f333776088dd30c0c26fbcf944edd315686a965a3f6</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
-<description>Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity . If things don't decelerate soon, we may be looking at existential risk. Maybe the future of AI really does depend on Jensen's sex life , but not in the way I was thinking ! As much fun (?) as we are having with all the assorted ladies, it's important to stay focused on what's really important : Chips and China. President Donald Trump was repor … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride</title>
 <link>https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride</link>
 <guid isPermaLink="false">01a45cf099fe530158819c070c7db676fd3c29c9ce44cee0fc0d14d4973588da</guid>
@@ -442,28 +530,6 @@
 <description>An American AI lab has re-educated Qwen3.8-27B, a popular open-weight large language model from Alibaba, so the software forgets its Chinese ancestry. Nous Research, an Austin, Texas-based AI lab, has subjected the model to re-education through training, not to be confused with China's " Re-education Through Labor " system. With the help of a post-training process, Qwen3.8-27B has been reborn under the name Arete "to reinforce Western values on a Chinese-trained model." What qualifies as a "Western value" remains open to interpretation. "Open-weight Chinese models are among the strongest available, but they ship with state-aligned behavior baked into the weights," Nous Research wrote in a blog post . Your correspondent tested this with a variant model, Qwen3.8-27B-MLX-6bit, locally. Asked about events during 1989 in Tiananmen Square, the model either refused to discuss the topic or provided euphemistic response. What's perhaps more surprising is that Anthropic claims operators affiliated with Alibaba's Qwen lab used outputs from its Claude models to train competing AI models via distillation . Nous Research, maker of the Hermes Agent , cites that sort of censorship as a risk for users of AI models trained in China. The concern comes amid broader scrutiny of Chinese influence in the tech industry, heightened by Nvidia CEO Jensen Huang's resignation following controversy involving a woman US intelligence has accused of spying for China. Nous says the risk posed by Chinese-made AI models go beyond promoting Beijing's worldview. Some Middle Kingdom models have been found to produce more vulnerable code under certain conditions, according to a study by Booz Allen Hamilton, which does a lot of business with the US government. Hirundo, a vendor which says it is building "the first Machine Unlearning Platform to ensure that AI models only know what they should," makes the same argument . The company also notes that its efforts to apply "unlearning" to Qwen3.6-35B-A3B saw a dramatic drop in output that reflects Communist Party of China's preferred censorship, propaganda messaging, or bias. 89.8 percent of the model's output reflected those values before unlearning reduced the incidence to 2.8 percent. Nous Research did not achieve such dramatic results, but did see an overall reduction in viewpoints deemed to be propaganda. "On our evaluation, Arete-27B raised its fact score from 2.32 to 2.98 out of 5 and cut answers containing propaganda from 22 percent to 1 percent, in line with the Western models we tested," the company said. To handle Arete's unlearning, Nous Research says it briefly considered Nvidia's Nemotron 3 Ultra , "but had found evidence that it too had a checkered record on China-related topics." "We don't know definitively, but theorize that the bias imparted to Nemotron came from working with Chinese open models during the training process," the company said. "We have experienced similar contamination, because the vast majority of high qual</description>
 <enclosure url="https://image.theregister.com/?imageId=5305565&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5305565&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Donald Trump really wants Tim Cook to run Nvidia</title>
-<link>https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang</link>
-<guid isPermaLink="false">a33c16c8e7593e792b508ad5e5dbbd0e35f93b438f41545258aba088c27eec14</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 00:46:07 +0000</pubDate>
-<description>Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim Cook, who stepped down from leading the company on September 1st and moved into an executive chairman role. Shortly after Huang's resignation was announced today, Trump posted his idea about Cook on Truth Social: "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Xbox announces Wolfenstein 3</title>
-<link>https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3</link>
-<guid isPermaLink="false">371ebe6d794efd4ac5bf52e11f4ec07217748e07f53547038384bb03d71a9127</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 00:11:44 +0000</pubDate>
-<description>A screenshot from Wolfenstein II: The New Colossus. It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel . In a post, Xbox CEO Asha Sharma announced the name and a photo of a script. "Looking forward to sharing more," she said . MachineGames also announced the game in a post , saying the game is "in production" and sharing a photo from a motion-capture session. IGN reports that Brian Bloom (who plays protagonist William … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam</title>
@@ -972,17 +1038,6 @@
 <media:content url="https://i.guim.co.uk/img/media/b09085c7a1adecb3cce5e7177390560ee5b0951f/481_329_1024_819/master/1024.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c731d0db624342e5fb302f2eb912439b" medium="image"/>
 </item>
 <item>
-<title>Hundreds of streaming services and nothing to watch</title>
-<link>https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch</link>
-<guid isPermaLink="false">749283487f691b6a0f7af4380772c35ad415bbfa1232f8a2b1620a9a3192bbf7</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 14:00:19 +0000</pubDate>
-<description>“Fifty-seven channels, and nothin’ on.” Bruce Springsteen famously said those words during a concert and later in a song in the 1990s about the number of TV channels seemingly growing disproportionately to the availability of enjoyable content. Within a few years, there would be hundreds of TV channels and still, some would argue in hyperbolic frustration, “ nothing to watch.” Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Google really needs you to know it cares about smart glasses privacy</title>
 <link>https://www.engadget.com/2314414/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy</link>
 <guid isPermaLink="false">659d087a5bc57416f65edd00b0b75227467a23ff1b577780839fca7b838b4afc</guid>
@@ -1269,17 +1324,6 @@
 <media:content url="https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5308fdec05d4d61e3572087bdd58f720" medium="image"/>
 </item>
 <item>
-<title>New York is forcing T-Mobile to stop putting data caps on low-income home internet plans</title>
-<link>https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans</link>
-<guid isPermaLink="false">c0be713c66472f0b10e715cc25c9255d7c22fd51a3314712aec0eef681f346ac</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 22:46:07 +0000</pubDate>
-<description>The company was throttling speeds for plans offered under the Affordable Broadband Act.</description>
-<enclosure url="https://www.engadget.com/img/gallery/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/l-intro-1794437085.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/l-intro-1794437085.jpg" medium="image"/>
-</item>
-<item>
 <title>This tiny box gives your older tech smart home superpowers – and it’s only $69</title>
 <link>https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart</link>
 <guid isPermaLink="false">3318cfb474f686b5d6a19f4ee6a43bb2b01b9886aac053e760ae4762e1d5c1bf</guid>
@@ -1421,50 +1465,6 @@
 <description>Voyager 1 will become the first human-made object to reach one light-day from Earth next week, and NASA wants us to mark the occasion by flashing our lights at the sky. The spacecraft, which suffered a communications hiccup last month, is traveling at approximately 38,000 mph (61,000 kph) and will mark the 50th anniversary of its launch next year. Before then, it has another distance record to set. "Light-day" is a bit snappier than 16,094,799,096 miles (25,902,068,356 kilometers). NASA puts the crossing at 05:16:07 EST (10:16:07 UTC) on Wednesday, November 18. For "Shine Bright for Voyager's Light-Day," participants are invited to flash the mission's three-letter designation – VGR – in Morse code after sunset on November 17, using a flashlight or NASA's website. According to the space agency, this will create "a symbolic wave of golden light encircling the planet after sunset." It is also a nice way to mark the achievement – Voyager 1 is the most distant human-made object from Earth, and its extraordinary longevity remains a testament to the skill of engineers past and present. Not that Voyager 1 will be able to detect any flashlights on Earth. Its cameras were turned off decades ago, after the famous Pale Blue Dot image was captured. NASA has invited the public to join in a spacecraft photo opportunity before. On July 19, 2013, Cassini photographed Earth and the Moon from its orbit around Saturn for "The Day the Earth Smiled," while people back home were encouraged to look up and "just smile at the sheer joy of being alive on a Pale Blue Dot." Voyager 2, the spacecraft's sibling, is not expected to reach the same milestone for another nine years. It took a different path through the solar system to swing past Uranus and Neptune. It will, however, be uncertain as to whether Voyager 2 will still be able to communicate by then – even with recent efforts to eke out the probe's dwindling power supply, margins are razor thin. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=249462&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=249462&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials</title>
-<link>https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065</link>
-<guid isPermaLink="false">8a10cd2ae4417da883faaa53da213bac3dd35c2f28684b8cf6bd0503655f5df1</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 13:28:00 +0000</pubDate>
-<description>A 2013 breach of Russian-language cybercrime forum YouHack exposed its members' login details – and millions of credentials they had posted about other victims, according to newly cataloged data. Have I Been Pwned (HIBP) added the breach on Wednesday, recording 7.2 million unique email addresses. Around 107,000 belonged to forum members, whose exposed data included usernames, IP addresses, and mostly unsalted MD5 password hashes. Unsalted MD5 is a poor choice for protecting passwords. It's fast to compute, allowing attackers to test guesses at speed, and identical passwords produce identical hashes. Hardly good hygiene for a hacking forum. You might expect members of a cybercrime forum to know better than to reuse passwords or register with an email address tied to their real identity. Expectations and reality are not always on speaking terms, as AlphaBay founder Alexandre Cazes demonstrated. YouHack, a longtime cybercrime forum, moved to a different domain after the 2013 breach and remains active, giving cybercrims a place to trade stolen credentials and financial data. The data collated from that digital burglary was eventually bundled into 2024's so-called Mother of all Breaches – a 12TB, 26 billion-record mega-dump of files taken from myriad data security lapses. Millions more HIBP separately published its findings concerning another Russian data breach today. It said the 2023 breach of Russian bank Sberbank's loyalty program (SberSpasibo) contained records belonging to 48 million users. The dataset included 3.3 million unique email addresses, alongside phone numbers and dates of birth. Bank card numbers were stored as unsalted SHA-1 hashes, which could let attackers test possible numbers against the leaked hashes for a match. Reporting on the SberSpasibo breach at the time suggested the records were dated between April 2017 and February 2022, and the attack was claimed by the pro-Ukraine hacktivist outfit NLB. NLB also claimed responsibility for an attack on Sberbank's internal systems at the same time, and later took partial credit for an attack on Alfa-Bank , Russia's largest private bank. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=252194&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=252194&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Apple tells its Support Community to STFU</title>
-<link>https://www.theregister.com/personal-tech/2026/11/11/apple-tells-its-support-community-to-stfu/5309090</link>
-<guid isPermaLink="false">6cff4ce23922367b980eaf0c6362e9a59c6c15f8c5d96911aaec8d4380ad8e72</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 12:43:00 +0000</pubDate>
-<description>Apple has abruptly stopped accepting new posts on its Support Community, putting the forum into read-only mode ahead of permanent closure on November 20, 2026. Users seeking help with their gizmos from other Apple customers were greeted with the message : "The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state. "We want to thank the community members who have contributed their time and expertise to help others with their Apple products." Need help? Head to the official Apple Support site. Want to see if your fellow Apple users have an answer to what ails your device? This is no longer the forum for you. Some reports date the site's origins to 1998, when Apple was busy killing off the Newton platform and launching Mac OS 8.5. Technology has come a long way since then, and recent AI developments have made user-to-user forums like Apple's Support Community less popular. Other places to seek advice remain, and useful answers were never guaranteed. As one user put it on X : "rip to every thread that ended with 'same problem here' and zero solutions." Still, it's an abrupt end to almost three decades of accumulated advice, troubleshooting, and unanswered questions. Apple hasn't said whether that archive will remain accessible after the closure. The Register asked Apple for the reasoning behind the termination. The company has yet to respond. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5242280&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5242280&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Shipping giant Maersk probes 'IT security incident,' data theft</title>
-<link>https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096</link>
-<guid isPermaLink="false">bbcce8b284c7c5adb13c99157328dd1334b91f2764cfb6e8086df8639c66903a</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 12:05:34 +0000</pubDate>
-<description>Shipping behemoth A.P. Moller-Maersk says it is investigating "an IT security incident" involving the potential theft of data from a legacy system. In a statement issued on Wednesday, the Denmark-based shipping, cargo, and logistics giant confirmed it immediately launched an investigation into the attack and the affected system was secured. "Our findings so far strongly suggest no sensitive data has been disclosed," the company said . "The incident is isolated to a local system, and we have found no indication that there has been any impact on other Maersk systems or customer and partner systems that connect to Maersk through integrations such as APIs and EDI." Maersk described the legacy local system as one "from a previous acquisition," and said it does not expect the attack to have an effect on operations. Customers were reassured that they can continue to use Maersk platforms to manage their shipments as usual, and to expect updates from the company as and when they're available. "Cybersecurity remains a constant, ongoing priority for Maersk," it added. "We have rigorous processes in place to identify and prevent incidents and minimize customer impact. "As always, please treat any unexpected communications claiming to relate to this matter with caution and verify them through your usual Maersk contact. "Thank you for your patience as we continue to investigate the incident." Fortunately for those who immediately feel uneasy after hearing "Maersk" and "IT security" mentioned in the same breath, the wording of the shipping giant's disclosure suggests this intrusion won't be as calamitous as the NotPetya disaster in 2017. Mimicking the Petya ransomware strain, NotPetya was an infamous destructive wiper malware strain that wormed its way across the global economy. Western intelligence agencies attributed the malware to Russia's Sandworm group, an outfit believed to be part of the country's military intelligence service (GRU). Maersk said at the time that it expected the attack to result in a circa $300 million bill , owing to remediation and rebuild costs. Offering a sense of scale, Jim Hagemann Snabe, then chair of Maersk, told World Economic Forum delegates in 2018 that the company's rebuild encompassed 4,000 new servers, 45,000 new PCs, and 2,500 applications – which he said had been completed over just ten days. In 2020, as exclusively revealed by The Register , Maersk went on to lay off around 150 staffers from its command and control center in Maidenhead, England. The staffers who lost their jobs had played key roles in the recovery. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5293966&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5293966&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Google gooses Python AI performance by... removing Python</title>
-<link>https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995</link>
-<guid isPermaLink="false">ca248e99183dbbe18820ae852d0da16c8f1460bd9a9d72b595853c579f475c0d</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 11:30:00 +0000</pubDate>
-<description>"Train in Python, serve in C++" might as well be Google's motto when it comes to much of its ML work. Python is easy for data scientists to wield, but keeping its interpreter in the serving pipeline can add overhead and deployment headaches. The industry-backed OpenXLA Project provides tools for compiling machine learning computations into native code for different processors. The latest component of this setup to be open sourced is XSE , short for the XLA Serving Engine. One-shot inference XSE is not so much suited for large-scale LLM inference (which would be better served by vLLM or SGLang ), but rather for smaller, more sharply task-oriented models, of which there are plenty at Google. "LLM serving gets most of the attention right now, but a significant amount of production inference is still ranking, recommendation, embedding, and vision models. These tend to be short requests with very high [queries-per-second] and tight latency budgets," Nathan Beach , Google director of product management, wrote in a LinkedIn missive Tuesday. At Google, XSE already handles more than six million queries per second across services including YouTube Shorts, Google Ads, and Search. These models aren't there for a leisurely chat. They rank results, recommend videos, and make other decisions on the fly, often without users noticing. A Python interpreter mulling each request would be a bottleneck, if not the end of Google itself. In Google's tests on short requests, XSE delivered two to five times the throughput of its best optimized Python server, using a quarter of the memory. No Python here In this setup, the ML boffins write their model code in Python, using Google's JAX to help with the sums. Google also plans integration with TorchTPU so PyTorch users can export models for C++ serving on TPUs. An export tool packages the model's computations in StableHLO, a portable intermediate representation, alongside its trained weights in an "XLA SavedModel." Ready to precognate, the C++ serving runtime uses XLA to compile those computations into native code for the target silicon. No Python interpreter to see here. XLA SavedModels can run on GPUs and CPUs – Google partnered with both Arm and Intel to develop the XLA ecosystem. But Google obviously thinks it'd be a lot cooler if you ran your models on its own line of TPU accelerators . Python's sluggishness continues to be an issue for the ML community. Beyond XSE, other approaches have been taken, many of which involve jettisoning the Python code as quickly as possible. PyTorch offers a native C++ runtime called LibTorch . Also, Microsoft and its collaborators offer the ONNX Runtime , which supports an open graph format with Python bindings. Even Python's own reference implementation relies heavily on C, with Rust now getting a foot in the door. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=1682491&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1682491&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Microsoft fixes over 1,000 Windows flaws – and one is being exploited</title>

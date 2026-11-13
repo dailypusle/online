@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft outage live: ‘positive results for server stability’ reported, amid global disruption</title>
+<link>https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news</link>
+<guid isPermaLink="false">cf8d6db662d1ba559978b7ae7655a0994a645125517912fa31c9d18b413509a8</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 08:41:56 +0000</pubDate>
+<description>Microsoft reports it is seeing some ‘positive results’ in its efforts to get its services back online for millions of customers around the world. Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has so far not received any reports that hospitals or clinics are impacted. Impact is largely restricted to the sending and receiving of email. Western Australia, along with jurisdictions around the world, is being impacted by a global Microsoft outage. We are receiving updates from the Commonwealth who are working with Microsoft at the most senior levels to resolve. Microsoft are prioritising life, safety and Government services. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/d1c853790f13f2c449fd86914a709aa0d50098b7/482_0_4490_3592/master/4490.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c72352e1c4e6ae5c098fad60c4e87c7b" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/d1c853790f13f2c449fd86914a709aa0d50098b7/482_0_4490_3592/master/4490.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c72352e1c4e6ae5c098fad60c4e87c7b" medium="image"/>
+</item>
+<item>
+<title>BYD admits wheel assembly error on its flagship electric SUV</title>
+<link>https://www.engadget.com/2315638/byd-wheel-assembly-error-great-tang-electric-suv</link>
+<guid isPermaLink="false">5facff41dbd2364a85d4aceafea6076a629825e8de387762911288ff353f4e48</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 08:12:48 +0000</pubDate>
+<description>The electric automaker has apologized and said it will fix the issue for affected vehicles.</description>
+<enclosure url="https://www.engadget.com/img/gallery/byd-admits-wheel-assembly-error-on-its-flagship-electric-suv/l-intro-1794557448.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/byd-admits-wheel-assembly-error-on-its-flagship-electric-suv/l-intro-1794557448.jpg" medium="image"/>
+</item>
+<item>
+<title>C++26 stumbles at finish line over Contracts dispute</title>
+<link>https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526</link>
+<guid isPermaLink="false">459ab94dc83d6bb8830d64beae45ddfc448b4cfba3646b5e792eeb387629e79e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 07:31:00 +0000</pubDate>
+<description>The next version of the C++ programming language may be delayed at the last minute due to a dispute over a security-enhancing Contracts feature. Contracts have deeply split C++ technical maintainers. One group backs the C++ creator Bjarne Stroustrup , who is against the technology in its present form in grounds it was hastily implemented. But others are eager to see Contracts implemented, even arguing the tech's detractors are poisoning the C++ development process itself. The disagreement boiled over just before a vote to ratify the new version of the language. In October, the Draft International Standard (DIS) of C++26 failed its ISO ballot — the next-to-last stage in the International Organization for Standardization’s approval process during which a standard's technical details are formally ratified by a set of national standards bodies. The ballot saw 13 votes cast in favor, 9 against, and 12 abstentions, failing to meet the ISO requirement of having no more than 25 percent negative votes. Contracts was the major sticking point for those voting nay. Contracts dispute Contracts allow developers to add preconditions and postconditions to code, as well as assertions that check whether specified conditions hold. Such checks can help catch programming errors that might otherwise lead to undefined behavior. Design by Contract has long been a feature of languages like Ada and Eiffel . Developers have proposed adding Contracts to C++ for at least a decade, after when they were abruptly yanked from C++20 owing to concerns over dangerous defaults. But Stroustrup roasted the revised proposal ( P2900 ) that made it into C++26. “The P2900 contracts and extensions aim to change the nature of C++ and are an existential threat to C++, adding complexity and bloat,” Stroustrup and his colleagues wrote in a paper last August. They noted that the implementation is messy, outdated, not sufficiently tested , and could be more effectively implemented as a library. Not everyone agrees. Andreas Fertig , a member of the C++ standardization committee, feels that the criticisms have already been vetted and that vetoing the proposal this late in the C++ release process is damaging to C++ itself. “The topic has been worked on for years and has received a majority vote multiple times in its current form. By voting ‘no,’ an established system, one based primarily on trust and respectful collaboration, has been shaken,” Fertig wrote in a blog post . The elephant in the room is, of course, the ongoing criticism of how easy it is for developers to accidentally create security holes in C++, leading more than a few projects to adpot Rust . Adding controls might, as Stroustrup notes, hamper C++’s chief attribute of being a blazing-fast language . Sore losers Fertig accused Stroustrup and Co. of being sore losers. “Every ISO standard is simply a set of compromises. Everyone loses sometimes, and everyone wins sometimes,” he wrote. But in this case, “the losing parties refused to ac</description>
+<enclosure url="https://image.theregister.com/?imageId=5309559&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309559&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Microsoft's massive M365 outage stretches past 12 hours as its fixes keep failing</title>
+<link>https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-12-hours-as-its-fixes-keep-failing/5309609</link>
+<guid isPermaLink="false">ed29e5b22b81c5877c746b85eed6f6e1bb8a9f21cc4cc5741861d8f1e99f2461</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 06:40:06 +0000</pubDate>
+<description>In Australia, they’re calling it the “Microsoft long weekend” – an outage so pervasive it’s just about made Friday a write-off at organizations which rely on Redmond’s online services, especially Exchange Online. As The Register reported yesterday , the outage started on Thursday at around 18:00 UTC and saw Microsoft 365 users unable to access email, attend Teams meetings, use cloud PCs, consult Copilot, or enjoy full access to another 15 hosted services. The software giant says the outage impacts Microsoft 365 services “that interact with Exchange Online and email services.” Services that don’t need Exchange Online remain functional. The software giant initially blamed the outage on a mysterious “problem that's causing servers to fail automated health checks and become unavailable.” Microsoft thought it found a fix but quickly admitted “Actions taken thus far have not provided the anticipated relief.” In the hours since, the situation has not improved markedly, and Microsoft is still struggling to restore service. It’s also using changed the language it uses when discussing the possibility a cyberattack is the reason for the outage. As of 04:11 UTC, the company said it could find “no indication this is the result of malicious activity.” An update time-stamped 05:46 UTC stated “As of now, we are not aware of any malicious activity that is causing this incident.” Microsoft’s status page preserves only the company’s most recent update, but its RSS feed preserves each missive. That feed tells a tale of woe that we have distilled into lowlights and present in chronological order: We’re applying infrastructure capacity improvements where possible in an effort to help support traffic in regions coming online; We’ve monitored the status of the changes applied to improve serviceability and confirmed that change is not taking as expected; We’re reviewing traffic flows and affected infrastructure to identify opportunities to optimize routing. This includes verifying the reasons for service failures so we can develop specific actions to improve stability; We’re identifying alternate workstreams that can be applied to increase capacity in the face of sustained traffic management imbalances; We're observing partial recovery across regions in which we've applied these adjustments; however, these actions aren't resulting in sustained recovery; Current actions we are taking include scaling up virtual machines to increase capacity and reduce load. However, we are encountering issues with the machines being stuck in a bad state, preventing our changes from syncing as expected. Microsoft’s latest status update doesn’t suggest this will be over any time soon. “We’re continuing to pursue multiple workstreams to pinpoint the underlying cause of the traffic influx and advance the recoverability of the backend servers,” Microsoft wrote. “We’re taking a measured approach to identify and repair affected infrastructure to improve the ability to confirm the developed change</description>
+<enclosure url="https://image.theregister.com/?imageId=5309614&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309614&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Nvidia scandal sparks US national security furore and calls to take tough line on China</title>
 <link>https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china</link>
 <guid isPermaLink="false">50ed42af2146ca4cb51603f268386b1acf535f8495ad36bb172c0eb747e77673</guid>
@@ -917,6 +961,17 @@
 <media:content url="https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04bcc8930b4a3285d3852162417607a8" medium="image"/>
 </item>
 <item>
+<title>Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair</title>
+<link>https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair</link>
+<guid isPermaLink="false">ce5e1fa823cbaec20cf97d98a0e7ad209b2a120ef339b739721980ed04149064</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 06:43:31 +0000</pubDate>
+<description>In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of America’s most powerful tech companies. Many questions have arisen since it emerged that US intelligence believes that Huang (no relation of Jensen’s) is an asset recruited by the Chinese intelligence services to spy on behalf of Beijing. This morning’s newsletter explains what we know about the story, and what it tells us about the effectiveness of Chinese espionage. That’s after the headlines. UK | Ministers are considering changing the law to force the entertainment industry to better protect women and children in the wake of the revelations over David Walliams and the conviction of Russell Brand. Climate | The UK government has appointed the world’s first special representative for climate security, in the strongest sign yet of fears that climate breakdown will bring chaos to the country. US midterms | Democrat Scott Colom has become the first Black senator in Mississippi to be elected since Reconstruction, in a stunning upset after more than a week of vote counting in one of the country’s most reliably red states. Europe | Millions of people across Spain have joined the country’s first general strike in 14 years , setting up picket lines to protest against soaring housing prices before an election in which the far right could be catapulted into power. Technology | Police officers risk arresting innocent people , especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c960a0216c5de7760bfadc810db2274f" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c960a0216c5de7760bfadc810db2274f" medium="image"/>
+</item>
+<item>
 <title>AWS distills its cloud into a local emulator that runs on your PC</title>
 <link>https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251</link>
 <guid isPermaLink="false">8e891bacf51bdd23aa4c1d78c2960aa26f3fbae69709a55dd4617952ff14d203</guid>
@@ -1091,17 +1146,6 @@
 <description>Bob Lee died from multiple stab wounds in 2023.</description>
 <enclosure url="https://www.engadget.com/img/gallery/cash-app-founders-killer-gets-16-years-to-life-in-prison/l-intro-1794423509.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/cash-app-founders-killer-gets-16-years-to-life-in-prison/l-intro-1794423509.jpg" medium="image"/>
-</item>
-<item>
-<title>Peacock is redesigning its mobile app to focus more on vertical videos</title>
-<link>https://www.engadget.com/2313912/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos</link>
-<guid isPermaLink="false">3d05aecba2f5d302cc68146da181db19365785c5c32cfb9da39eb7a6645b04ed</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 18:24:40 +0000</pubDate>
-<description>This is an attempt to "win another hour per user, per month."</description>
-<enclosure url="https://www.engadget.com/img/gallery/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/l-intro-1794421435.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/l-intro-1794421435.jpg" medium="image"/>
 </item>
 <item>
 <title>Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI</title>
@@ -1291,17 +1335,6 @@
 <media:content url="https://image.theregister.com/?imageId=5293966&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals</title>
-<link>https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations</link>
-<guid isPermaLink="false">e754224b043f5de8867de21626a14cd5a564f94a656b9723a435088995525a8c</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 12:00:48 +0000</pubDate>
-<description>181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report Developers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals. Datacentres planned across the US, the UK and mainland Europe have proposals to build fossil fuel plants on-site to create 181GW of gas-fired capacity because of delays to connect to national grids, according to the findings. This is almost four times the total peak electricity demand of Great Britain. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=322b19ad42076fd992822216d1a7312a" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=322b19ad42076fd992822216d1a7312a" medium="image"/>
-</item>
-<item>
 <title>Google gooses Python AI performance by... removing Python</title>
 <link>https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995</link>
 <guid isPermaLink="false">ca248e99183dbbe18820ae852d0da16c8f1460bd9a9d72b595853c579f475c0d</guid>
@@ -1333,17 +1366,6 @@
 <description>AMD's latest sales pitch: Up to 99 percent of the performance with half the DRAM, provided you're willing to buy a Mext license alongside your shiny new Epyc server. This is made possible by using AI models to load memory pages in and out of cheaper NVMe storage before your operating system or apps ever know they need it — kind of like SWAP or a Windows page file, but smarter. AMD acquired the tech from Mext back in June, and according to former CEO Gary Smerdon — now CVP of business development at AMD — the tech could cut enterprise server costs by as much as 83 percent by replacing costly RDIMMs with flash storage. Of the initial 145 systems the software has been deployed on so far, he estimates customers have already saved $5 million in avoided DRAM costs. "Conservatively, 60, 70, even 80 or 90 percent for very large memory systems, of the cost of a server can be in memory," he explained. Everyone's favorite buzzword to the rescue Even in systems with high memory utilization, where (say) 95 percent of the memory is "in use," a lot of it isn't actively being used, he explained. He cited a Meta research paper that showed that between 50 and 80 percent of memory pages hadn't been touched in five minutes, ten minutes, or even longer. "Five minutes to Epyc is an eternity." Mext technology aims to offload those infrequently accessed pages to flash. The challenge, Smerdon explains, is that while flash may be 50x cheaper per bit, 30x lower power per bit, it's also 500x slower. This is why most folks, when provisioning VPCs or servers, generally avoid swapping out to disk wherever possible: it kills application performance and sends service level agreements out the window. So for Mext's tech to work, it needed to ensure that any pages offloaded to storage were back in DRAM before they're needed. Kind of like running an errand in the middle of the workday – so long as you're back before your boss needs you again, they'll never know you left your desk. The problem was that the "R" in DRAM stands for random. Predicting which pages the system was going to need at which time isn't exactly trivial. The solution? (Brace for it.) "We realized we could use AI to monitor the system and proactively push those pages back into DRAM, so that as far as the application or the operating system knew, they were there the whole time," Smerdon said. In other words: "We transparently make flash appear as DRAM." So, "instead of buying two terabytes of DRAM for your Epyc-based server, you could buy one terabyte of DRAM, and then the next terabyte comes with Mext." To do this, AMD’s Mext employs a number of machine learning algorithms. "The workhorse model is a transformer derivative model, just like ChatGPT or Claude or the other famous models, but instead of predicting, for example, in the case of text, what word is next, what we're doing is predicting what page of memory is going to be required next," Smerdon explained. So long as the pages are in DRAM before they're needed</description>
 <enclosure url="https://image.theregister.com/?imageId=5259665&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5259665&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Germany reportedly bans Chinese drones at military bases over security concerns</title>
-<link>https://www.theguardian.com/world/2026/nov/11/germany-bans-chinese-drones-military-bases-spying-security</link>
-<guid isPermaLink="false">0965b7b55b280e8fcfd3132ded403cec8707ccff3bc685aadc329f9ae0dd8288</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 09:41:05 +0000</pubDate>
-<description>Western military forces increasingly worried Chinese-made technology ⁠could send ‌sensitive information to Beijing Germany has banned commercially available Chinese-made drones ⁠from its military bases and training grounds due to security concerns, ⁠according to reports. Western military forces have grown increasingly concerned that Chinese-made technology ⁠could pose a security risk and may be ​used to transmit ‌sensitive information to Beijing. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/cd544b4eda9c6644bc1f2a607c6d84915015d8c7/614_0_5179_4144/master/5179.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4174b0fdb51f5432425eaa5e34b51c00" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/cd544b4eda9c6644bc1f2a607c6d84915015d8c7/614_0_5179_4144/master/5179.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4174b0fdb51f5432425eaa5e34b51c00" medium="image"/>
 </item>
 <item>
 <title>UK's 'buy British' tech ambitions hit reality as less than £1 in £6 stays at home</title>
@@ -1423,17 +1445,6 @@
 <media:content url="https://image.theregister.com/?imageId=5308965&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Ring robots ready to patrol paranoids’ pads</title>
-<link>https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932</link>
-<guid isPermaLink="false">40566ba9ca9f9355dfb22396f5185d8d01b423f5d162cc384e1f66492d8a8c66</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 21:45:45 +0000</pubDate>
-<description>If you didn't have any privacy concerns about slapping a Ring doorbell on your front door or putting Ring cameras inside, you'll love Amazon's newest offerings, which move around homes and businesses to capture views stationary cameras might miss. The house of Bezos announced the launch of Ring Robotics on Tuesday along with its first two products: a drone designed for indoor home security, and a wheeled robot with a telescoping camera mast for automated after-hours business patrols. Both are designed to proactively patrol spaces as well as respond to alerts from connected alarm systems and Ring-connected devices. According to Ring founder Jamie Siminoff, this is something customers actually want, as those stationary cameras just can’t quite see everywhere. “It’s not just a new category of security; it’s the beginning of a future where proactive, autonomous protection is something every home and every business can have,” Siminoff said. The consumer-focused Ring Drone Cam launches from its own charging dock that Amazon says keeps the thing “out of sight” when not in use, and when in flight is able to patrol a home by flying around pre-programmed routes to take in the sights with its 148-degree FOV, 2K camera that includes LED illumination for night patrols. Amazon says it can also respond to alerts from cameras, sensors, and alarm systems. The Ring Rover Cam, designed with businesses in mind, is sort of like a security Roomba that sports a camera on a telescoping mast that Amazon says can be programmed to certain heights to let it see over counters, shelves, and other workplace obstacles. The Rover can also perform 360-degree scans and includes a siren, lights, and two-way audio so you can yell at intruders who aren't dissuaded by its presence. The Rover streams and records video in up to 4K while moving or patrolling and is designed to make regular patrols of businesses during off hours. It can also detect people and respond to alerts from connected Ring devices. Of course, given that this is Ring we're talking about, these flying and free-wheeling cameras use Amazon's cloud for some processing, likely inviting privacy concerns about what footage and mapping data the company can access and retain. The Amazon-owned security tech firm has faced a number of privacy complaints over the years, some of which have resulted in multimillion-dollar settlements. Ring agreed to pay $5.8 million in a 2023 settlement with the FTC over allegations that employees and contractors improperly accessed customers' private videos and that the company failed to adequately protect accounts against unauthorized access – just imagine the privacy concerns raised by flying robots. More recently, the company took heat for partnering with surveillance outfit Flock Safety, a relationship which it has since canceled . Amazon/Ring also invited criticism for a Super Bowl ad earlier this year promoting a new feature called Search Party, which would remotely activate Ring cameras t</description>
-<enclosure url="https://image.theregister.com/?imageId=5308936&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5308936&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Microsoft fixes over 1,000 Windows flaws – and one is being exploited</title>
 <link>https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu</link>
 <guid isPermaLink="false">08438d071d0c5e843823b433b6dd92c8babf200197a066f56f96f2e351bc913e</guid>
@@ -1454,17 +1465,6 @@
 <description>With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/b8127718-8775-4c05-9d18-89836e0dbde2.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/b8127718-8775-4c05-9d18-89836e0dbde2.jpg" medium="image"/>
-</item>
-<item>
-<title>To thwart reverse engineering by agents, dev proposes blinding them</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/10/to-thwart-reverse-engineering-by-agents-dev-proposes-blinding-them/5308897</link>
-<guid isPermaLink="false">f509c1dcbdc30dd917bd23d5cd97de4db8033ff3194650cbf480cfa2bee48466</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 20:35:11 +0000</pubDate>
-<description>Now that LLMs can help analyze commercial software binaries and recreate their functionality, one software developer and student has created a project designed to make this process more difficult. Timo Zhang's project is called Blind LLM Agents (BLA), and as its name suggests, it attempts to interfere with efforts by AI agents to scrutinize app code. "Coding agents can reverse-engineer shipped packages, CLIs, and WASM in minutes," Zhang told The Register in an email. "Classic obfuscation was built for humans and static tools, not LLMs that reason about meaning. Blind LLM Agents is a protection layer for that threat model." Such agents can also help developers build alternatives to existing commercial software. Last month, Artcraft , a two-person development shop, released seven open-source apps that aim to be replacements for Adobe's commercial apps Photoshop, Illustrator, Premiere Pro, Lightroom, After Effects, InDesign, and Acrobat Pro. Artcraft claims these apps are "clean-room reimplementations" written from scratch in Rust using Anthropic Opus 5.5. Setting aside the question of whether enlisting an AI model to reimplement an app really immunizes the creator from legal risk, those making apps face the possibility that someone will have an LLM probe published app binaries and reconstruct them through reverse engineering. There's in fact a framework for this, Reverse Engineer Anything (REA). Zhang has faced some criticism on social media for creating a limited barrier to copying other people's work (which at this point might simply be the work of another LLM). But not everyone accepts that all publicly accessible binaries should be easily available for review and reuse. BLA cannot prevent committed reverse engineering efforts, but it may add a bit of friction to the process when LLMs are involved. "It doesn't write app code — it hardens what you've already built," Zhang said. "A transform pipeline (plus MCP tools / an agent Skill) applies renaming, lane splitting, seed-derived string encryption, build polymorphism, WASM export renaming, decoys, self-seal integrity checks, and a coverage matrix that won't claim protection it can't prove. Behavior stays equivalent; recovery cost goes up." Zhang said various evaluations like red teaming and CrackMe challenges to recover keys or flags from hardened artifacts show that BLA is effective. "We also drive REA (a reverse-engineering agent) against those builds," he said. "Fail-to-break is the pass. CI tracks defense score, self-verifies integrity coverage, and checks functional equivalence. We raise the cost — we don't claim it is unbreakable." The project website says as much, noting that it raises the effort for analysis and adds decoy code, but doesn't promise protection against traditional interactive reverse engineering tools like Ghidra or Frida. Zhang said he's aware of other software projects that aim to interfere with AI, such as Poison Fountain for poisoning training data and Anubis for deterri</description>
-<enclosure url="https://image.theregister.com/?imageId=5308929&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5308929&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>I found a hidden Android tool that solves all my tiny text troubles</title>

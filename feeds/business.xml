@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft 365 outage hits Outlook email and Teams calendars worldwide</title>
+<link>https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services</link>
+<guid isPermaLink="false">02b9effb8fd48795551f1d8fe031b023d13acc18aa67ae7e1a0276f5fbd2d0e2</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 13 Nov 2026 08:26:01 +0000</pubDate>
+<description>Microsoft began a wider patch rollout Friday as the outage disrupted government email and Microsoft 365 connectors in ChatGPT and Claude.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79XNS0NYCVT2FWE48H7WKBH/hi-microsoft-windows-data-blackout-downs.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79XNS0NYCVT2FWE48H7WKBH/hi-microsoft-windows-data-blackout-downs.jpg" medium="image"/>
+</item>
+<item>
 <title>Here’s what happened in crypto today</title>
 <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
 <guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
@@ -805,17 +816,6 @@
 <description>Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Nomura explores sale of crypto unit Laser Digital: Bloomberg</title>
-<link>https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital</link>
-<guid isPermaLink="false">efbb685f4ba75b179c03bcbcb88d6f5022f11f47efb7d525dfab67d429683ce8</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:36:01 +0000</pubDate>
-<description>The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European operations.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M763TD8E1ZBRMPTMFSD5YQ3A/bithumb-acquisition-deal-off-2.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M763TD8E1ZBRMPTMFSD5YQ3A/bithumb-acquisition-deal-off-2.png" medium="image"/>
 </item>
 <item>
 <title>Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss</title>

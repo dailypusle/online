@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>SpaceX Aims for Starship Launch on Friday. Here’s What to Know.</title>
+<link>https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html</link>
+<guid isPermaLink="false">6f5ae386265596f3bea2f1d43fcf14261a8ce9b88ba1b4f3bbed0ca355d895a1</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Fri, 13 Nov 2026 14:30:31 +0000</pubDate>
+<description>The Super Heavy booster for Starship preparing for launch ahead of Flight 15 at SpaceX’s Starbase in Texas on Wednesday.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/13/multimedia/13SCI-STARSHIP-CATCH-01-vkmg/13SCI-STARSHIP-CATCH-01-vkmg-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/13/multimedia/13SCI-STARSHIP-CATCH-01-vkmg/13SCI-STARSHIP-CATCH-01-vkmg-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>Think you know science? Try our quiz set by Nobel laureates</title>
 <link>https://www.newscientist.com/article/2594152-think-you-know-science-try-our-quiz-set-by-nobel-laureates</link>
 <guid isPermaLink="false">c5971b3ea549fa9aa58ed6289b3d717c61757832c9f3db308d94f53464dd983d</guid>
@@ -180,17 +191,6 @@
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/11/JOW-S5-E12-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp" medium="image"/>
 </item>
 <item>
-<title>Heart in the Sky at NASA Kennedy</title>
-<link>https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy</link>
-<guid isPermaLink="false">0e414f6d88aa72b3ae0f412f1b2fc29a0923c41550d9237805d9fceaaf46563d</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 12 Nov 2026 19:12:49 +0000</pubDate>
-<description>NASA/Amber Jean Notvest The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’s 250th anniversary. Image credit: NASA/Amber Jean Notvest</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg?w=2048" medium="image"/>
-</item>
-<item>
 <title>A robot has assembled a structure in space for the first time</title>
 <link>https://www.newscientist.com/article/2598576-a-robot-has-assembled-a-structure-in-space-for-the-first-time</link>
 <guid isPermaLink="false">e9755bd1cb6983f92ea2a02b02206aceaf10775e3d71e6638cff5077bc52fa44</guid>
@@ -233,17 +233,6 @@
 <description>Letters sent by two key House committees tell companies and officials not to destroy documents.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/12/multimedia/12cli-letters-02b-bhpw/12cli-letters-02b-bhpw-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/12/multimedia/12cli-letters-02b-bhpw/12cli-letters-02b-bhpw-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA Ames Stars of the Month: November 2026</title>
-<link>https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026</link>
-<guid isPermaLink="false">f20d6cfc2c4e59afd8f45d121ae0a19ed7c24e2da0b6c8fa66363b23f06fe0fa</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 12 Nov 2026 17:54:32 +0000</pubDate>
-<description>The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer at Blue Marble in the Space Biosciences Division on the LEIA (Lunar Explorer Instrument for space biology Applications) team. Alyssa is recognized for technical excellence, dedication and boundless support to the rest of the team. She goes above and beyond in contributing to LEIA every day and has been essential in all the test efforts, in particular with preparation and execution of engineering validation testing. Astrophysics Star: Steve Howell Steve Howell is recognized for his leadership of scientific teams for numerous international space missions. His pioneering work in astronomical instrumentation have significantly advanced both space- and ground-based telescope imaging. In kind, the Astronomical society has recently recognized Steve’s lifetime of major contributions to the field with the prestigious Catherine Wolfe Bruce Gold Medal from the Astronomical Society of the Pacific. Earth Science Star: Samuel LeBlanc Samuel LeBlanc is a research scientist for the Bay Area Environmental Research Institute in the Earth Science Division. Sam is recognized for exceptional technical leadership and innovative thinking in advancing Ames’ flight planning capabilities for NASA airborne science missions. Sam’s contributions have placed Ames at the forefront of airborne science flight planning within and outside the Agency, enabling successful and cost-effective missions that maximize scientific returns.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/som-november-2026-banner.jpg?w=1920" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/som-november-2026-banner.jpg?w=1920" medium="image"/>
 </item>
 <item>
 <title>Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)</title>
@@ -719,15 +708,15 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/bjMtjykJX37Cgb3FkxFbu5-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>SpaceX Starship Flight 15 live updates: T-1 day to SpaceX's 1st-ever double Starship landing attempt</title>
-<link>https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt</link>
-<guid isPermaLink="false">1c91e659bccfced590255af03e0c8c4141853c37f37d2213c557e8402d921eed</guid>
+<title>SpaceX Starship Flight 15 live updates: Giant Starship stacked for launch and 1st-ever double catch landing</title>
+<link>https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt</link>
+<guid isPermaLink="false">b0769511b371a4f362c88dd94dbe2f384e262e654fdefee1e13fdac86970afa3</guid>
 <source>Space.com</source>
 <category>science</category>
 <pubDate>Tue, 10 Nov 2026 19:46:21 +0000</pubDate>
 <description>&lt;p&gt;Tariq is the Editor-in-Chief of Space.com based out of our New York City office and joined the team in 2001, first as an intern and staff writer, and later as an editor. He covers human spaceflight, exploration and space science, as well as skywatching and entertainment. He became Space.com's Managing Editor in 2009 and Editor-in-Chief in 2019. In October 2022, &lt;a href="https://www.nscfl.org/kolcum-award/" target="_blank"&gt;Tariq received the Harry Kolcum Award&lt;/a&gt; for excellence in space reporting from the National Space Club Florida Committee. In June 2025, the National Space Society awarded him the Space Pioneer Award for Excellence in Mass Media at the International Space Development Conference in Orlando, Florida.&lt;/p&gt;&lt;p&gt;Hailing from Stockton, California (where he attended the same high school as NASA astronaut Jose Hernandez), Tariq studied print journalism and astronomy at the University of Southern California in Los Angeles, earning a bachelor's degree in journalism in 1999 along with a minor in astronomy. He then served as a staff reporter for The Los Angeles Times covering education and city beats in La Habra and Fullerton in Orange County for the Our Times sections. &lt;/p&gt;&lt;p&gt;In 2000, Tariq became the city reporter for the Huntington Beach Independent, a weekly publication of the Los Angeles Times, covering local politics and events, crime, business and environmental issues. He left the Los Angeles Times in 2001 to study science journalism at New York University, where he earned a master's degree in 2002 from NYU's Science and Environmental Reporting Program (now the Science, Health and Environmental Reporting Program) under the direction of space reporter William Burrows.&lt;/p&gt;&lt;p&gt;Tariq first joined Space.com as an intern in September 2001 while also serving as a research assistant for nutrition writer Gary Taubes and writing freelance projects, where his work appeared in The Scientist and Laboratory Equipment Magazine. He became a full-time reporter covering spaceflight in 2004, with this first launch being NASA's STS-114 Return to Flight mission in July 2005.&lt;/p&gt;&lt;p&gt;Tariq is also an Eagle Scout (yes, he has the Space Exploration merit badge) and went to Space Camp four times as a kid and a fifth time as an adult. When not writing about space, you can find Tariq watching the latest Star Trek TV series, sci-fi movies and reading about hippos, his favorite animal. You can find Tariq at Space.com and as the co-host to the &lt;a href="https://twit.tv/shows/this-week-in-space"&gt;This Week In Space podcast&lt;/a&gt; with space historian Rod Pyle on the &lt;a href="https://twit.tv/"&gt;TWiT network&lt;/a&gt;. To see his latest project, you can follow Tariq on Twitter &lt;a href="https://twitter.com/tariqjmalik"&gt;@tariqjmalik&lt;/a&gt;.&lt;/p&gt; SpaceX is counting down to make history with the launch of its Starship Flight 15 mission on Friday, Nov. 13 , with liftoff scheduled for 5:45 p.m. EDT (2245 GMT) at Starbase, Texas. Starship Flight 15 will attempt to land both Starship Ship an</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/eKkegi3q7cuhqgmtgMrZ6U-1920-80.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/eKkegi3q7cuhqgmtgMrZ6U-1920-80.jpg" medium="image"/>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/2fNABsUbgKPo4vjvsuDM9C-1920-80.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/2fNABsUbgKPo4vjvsuDM9C-1920-80.jpg" medium="image"/>
 </item>
 <item>
 <title>Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why</title>
@@ -761,17 +750,6 @@
 <description>null A robot just played Tinkertoys in space, assembling the first satellite structure ever made without a human touching the controls. The DARPA-funded project saw a robotic "truss builder" create a reflective antenna using Kapton film, composite fiber tubes and aluminum joints. The implications are huge for future missions, potentially opening up new possibilities to build — or fix — satellites in the final frontier. "This is the first time that a structure has been autonomously constructed in space ," Sergio Pellegrino, an aerospace and civil engineering professor at the California Institute of Technology (Caltech), said in a statement on Nov. 5 . The need for such spacecraft will likely rise substantially in the future, as companies assemble giant megaconstellations for cell-phone communications, AI compute and other purposes. Indeed, the ball is already rolling on such ambitious projects, generating enough hype for space startups around the globe to raise a record $20.8 billion in the third quarter of 2026 alone. Anything that launches aboard a rocket is limited by the size of that vehicle's fairing — the nose cone that protects payloads during their ride to space. In space, however, the ability to stretch out is practically infinite — after taking into account, of course, engineering and financing constraints. Assembling structures robotically off Earth could therefore be revolutionary, advocates say. And the recent milestone was a step in that direction. "This work could be useful not only for astronomy and astrophysics, but also for communications and other areas, such as building very large solar arrays for space solar power ," said Pellegrino, who's team leader of the truss-building project, a Caltech demonstration mission called Autonomous In-Space Tensioned Reflector Assembly (ASTRA). ASTRA built a 1.4-meter-wide (4.5-foot) structure in orbit. That's an impressive achievement, but it just scratches the surface of what DARPA wants to accomplish via a program it calls Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design, or NOM4D for short. "NOM4D's objective is to enable efficient, scalable construction of very large structures in space," NOM4D Program Manager Andrew Detor said in a Nov. 5 DARPA statement . "By 'very large,' I mean hundreds of meters or kilometers in scale. Nothing approaching that scale can be achieved today," Detor added. Concept art for a space-based antenna autonomously assembled by a device that DARPA seeks to develop and operate via its NOM4D program. (Image credit: DARPA/Colie Wertz) ASTRA was a demonstration, allowing researchers to check boxes and identify obstacles before shooting for a bigger goal. And the team did run into issues — specifically, time limitations, which prevented them from building additional sections of the antenna. Still, the researchers were able to prove out the third phase of a larger DARPA project. Pellegrino's team completed the two previous phases — defining the</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/B4UQ62ei7LkPj3KWJ8TYTP-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/B4UQ62ei7LkPj3KWJ8TYTP-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>CHAPEA Crew Leaves a Mark</title>
-<link>https://www.nasa.gov/image-detail/photos-from-chapea-mission-2-arranged-around-boot-print</link>
-<guid isPermaLink="false">4aaf3c7658589f19d2dee4ec970584be5edab1f285f7c4d5a37b6a5344da7b61</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 10 Nov 2026 15:39:00 +0000</pubDate>
-<description>Photos of the CHAPEA Mission 2 crew are arranged around a boot print in the simulated Martian sand outside their habitat.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg" medium="image"/>
 </item>
 <item>
 <title>The Case for a Bubble at Life’s Start</title>
@@ -1071,28 +1049,6 @@
 <media:content url="https://static01.nyt.com/images/2026/11/05/science/05SCI-PHAGE-01/05SCI-PHAGE-01-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
-<title>M30's Sparkling Stars</title>
-<link>https://www.nasa.gov/image-detail/hubble-m30-potm2610a</link>
-<guid isPermaLink="false">2311f7a0466139caae28a2c78adcc6011a4e94be0a488211072769e9f8e6e7f5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 06 Nov 2026 16:28:00 +0000</pubDate>
-<description>This NASA/ESA Hubble Space Telescope image features the globular star cluster called Messier 30 (M30), also called NGC 7099.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg" medium="image"/>
-</item>
-<item>
-<title>Midwestern City Lights</title>
-<link>https://www.nasa.gov/image-detail/iss075e0227352</link>
-<guid isPermaLink="false">24d5ee144c92ac09a7214cbf060670586f0131f45d709ccb59b218bdeac99199</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 05 Nov 2026 15:23:00 +0000</pubDate>
-<description>City lights from the midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg" medium="image"/>
-</item>
-<item>
 <title>Astronaut and Earth</title>
 <link>https://www.nasa.gov/image-detail/iss075e0253663</link>
 <guid isPermaLink="false">c70a42f810f4215f1a0926ddb5ebabe98002153767b51deb9e952ed05c095161</guid>
@@ -1115,116 +1071,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg" medium="image"/>
 </item>
 <item>
-<title>NASA's Hubble Marks Way for Roman Space Telescope</title>
-<link>https://www.nasa.gov/image-detail/55606049603-e8822462fe-o</link>
-<guid isPermaLink="false">656e56dd2f4e91c03cb3395552356bd88145dfb2641d6fca3fbb9302293a39ba</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 15:02:00 +0000</pubDate>
-<description>A sinuous spiral galaxy (center) appears in the same field of view as a vivid gravitational lens (right corner) in this Hubble image.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Neo Surveyor Sunshade</title>
-<link>https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2</link>
-<guid isPermaLink="false">cf751a4f21cc8f2a408e578da6f3d5566eeb5f311096e7331341b290ffeebddd</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 18:02:00 +0000</pubDate>
-<description>The large sunshade of NASA’s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space &amp; Mission Systems in Boulder, Colorado, in late July.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's X-59 Aircraft and Test Pilot</title>
-<link>https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3</link>
-<guid isPermaLink="false">3fcf708f42313da9f2d09e1bf0d096a52fa472691c3107c45ca491fc3362bd5e</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 15:29:00 +0000</pubDate>
-<description>NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency's X-59 quiet supersonic research aircraft on Oct. 21, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" medium="image"/>
-</item>
-<item>
-<title>RS-25 Engine Tests at NASA Stennis</title>
-<link>https://www.nasa.gov/image-detail/ssc-20261021-s00947horig</link>
-<guid isPermaLink="false">6ff1a31b150a0efae57f1969eaecfc62a4a321cc21b34e948f7b124cb2916ba6</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 18:59:00 +0000</pubDate>
-<description>Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg" medium="image"/>
-</item>
-<item>
-<title>Science on the Space Station with NASA Astronaut Jessica Watkins</title>
-<link>https://www.nasa.gov/image-detail/iss075e0190239</link>
-<guid isPermaLink="false">5f00aca8df46e2506f7a6e916ebae327aae0b38872c55b91a38e55bcd1b78305</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 21 Oct 2026 15:07:00 +0000</pubDate>
-<description>NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module's Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Martian Dawn</title>
-<link>https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2</link>
-<guid isPermaLink="false">a6a14a28737ed87a3ef14e8e321b7b22b3c69cc19fd97312aab882cf347f0342</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 19 Oct 2026 16:05:00 +0000</pubDate>
-<description>The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" type="image/webp"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" medium="image"/>
-</item>
-<item>
-<title>Artemis II Heat Shield After Splashdown</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1320</link>
-<guid isPermaLink="false">bd7ea775e6f02cf018151963e6bbeb538b0eff8129c915bf68bebb3980d24ec5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 16:33:00 +0000</pubDate>
-<description>Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>Transporter-18 SmallSats Encapsulation</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1315</link>
-<guid isPermaLink="false">e4159da664528188a8fd82ed2613bde89d53f23fb96e15a19a83328717fae347</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 13 Oct 2026 17:52:00 +0000</pubDate>
-<description>Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Cosmic House of Mirrors</title>
-<link>https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors</link>
-<guid isPermaLink="false">942a9466c8b66c4e8c29e583bdaf0d3fa330eb489b6ebd292424f136c2cc8766</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 09 Oct 2026 14:28:00 +0000</pubDate>
-<description>This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they’ve stepped into a house of mirrors.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Crew-12 Returns to Earth</title>
-<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2</link>
-<guid isPermaLink="false">c79d542c7c7391869593bec89004ddafe4f5a8d981ea0e2fefded1f3d28f9d4f</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 08 Oct 2026 18:53:00 +0000</pubDate>
-<description>The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Los Angeles, Calif., Thursday, Oct. 8, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg" medium="image"/>
-</item>
-<item>
 <title>Artemis II Crew Moon Photo Annotations</title>
 <link>https://www.nasa.gov/image-detail/fd07_impact-flashes</link>
 <guid isPermaLink="false">aca9374dc368026f5a67eed2b725e5ae423457f3699ddc7ef6f63711a8f42c0c</guid>
@@ -1236,83 +1082,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
 </item>
 <item>
-<title>Astronomers Solve Cosmic Cold Case with NASA Hubble Data</title>
-<link>https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9</link>
-<guid isPermaLink="false">e7acee45febf783e11665c7d291d8b2a40f8aba5f5607b9b460e19e507ca7a75</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 06 Oct 2026 16:17:00 +0000</pubDate>
-<description>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA Astronaut Christina Koch at Eagles vs. Rams</title>
-<link>https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field</link>
-<guid isPermaLink="false">578734c1fe8df2e9efa4b83a532b1ddf9a63a7e7b36defe815c606d85de22c40</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 05 Oct 2026 17:45:00 +0000</pubDate>
-<description>NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA’s SpaceX Crew-13 Launches</title>
-<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3</link>
-<guid isPermaLink="false">07f5c690e45e94633737ffc40a00e6a269a635b19c6024bf14b670f62bc26804</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 01 Oct 2026 18:07:00 +0000</pubDate>
-<description>A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Star Trails</title>
-<link>https://www.nasa.gov/image-detail/iss075e0144232</link>
-<guid isPermaLink="false">2f9c821724c6cf311138939fbf5d114d76dd53bcf1741a4ef170f481e93f4cad</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 30 Sep 2026 17:51:00 +0000</pubDate>
-<description>This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Crew-13 Rocket and Spacecraft at Launch Pad</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1312</link>
-<guid isPermaLink="false">47cd5f055f779d2d1de59b29bc2e3358cc9091b0da2f013985ec259eda8dc622</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 29 Sep 2026 15:33:00 +0000</pubDate>
-<description>Ahead of launch of NASA’s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova</title>
-<link>https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207</link>
-<guid isPermaLink="false">26ec5e4da7e213b5df4096c233fdfa86e32cf848c1db76707ae23292412979a7</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 23 Sep 2026 18:45:00 +0000</pubDate>
-<description>An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" medium="image"/>
-</item>
-<item>
-<title>COSI Telescope Comes Together</title>
-<link>https://www.nasa.gov/image-detail/cosi-2026july-01</link>
-<guid isPermaLink="false">39bb98da64415a1cb91f491c728ba0e6148bff3c25fb06bce87abe66040713a5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 18 Sep 2026 15:46:00 +0000</pubDate>
-<description>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" medium="image"/>
-</item>
-<item>
 <title>Artemis III Crew Visits NASA Kennedy's Vehicle Assembly Building</title>
 <link>https://www.nasa.gov/image-detail/afs-8-101-1307</link>
 <guid isPermaLink="false">9212a1e9d8662e960c7092f49c3e8b12a15c44ebb4cd2f3f279df26d2a5b6c07</guid>
@@ -1322,28 +1091,6 @@
 <description>NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Chandra Spots Galactic Gem</title>
-<link>https://www.nasa.gov/image-detail/galaxies-iizw096</link>
-<guid isPermaLink="false">6a1d948744d290016a0617c18261d449a216e52c846e957efd5a8ea82c6a5c5e</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 11 Sep 2026 17:22:00 +0000</pubDate>
-<description>Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" medium="image"/>
-</item>
-<item>
-<title>Superbubble in the Large Magellanic Cloud</title>
-<link>https://www.nasa.gov/image-detail/hubble-n44-wfc3-large</link>
-<guid isPermaLink="false">026a0bc93661a13b3d9350ebebc36e78a1b5937b2f4ba3b195ce5ec192fb29e3</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 08 Sep 2026 16:49:00 +0000</pubDate>
-<description>N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" medium="image"/>
 </item>
 <item>
 <title>Lunar Occultation of Venus</title>
@@ -1401,17 +1148,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg" medium="image"/>
 </item>
 <item>
-<title>NASA's Artemis II Crew Receives Congressional Space Medal of Honor</title>
-<link>https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2</link>
-<guid isPermaLink="false">08be272fa996fab8e77bfebf01d8fbf7812eb1fd6446482c175fdaf2d2edd0f3</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 28 Aug 2026 22:24:00 +0000</pubDate>
-<description>President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Astronauts Anil Menon and Sophie Adenot on Spacewalk</title>
 <link>https://www.nasa.gov/image-detail/gmt230_ehdc1-2</link>
 <guid isPermaLink="false">cb37876c1de0f8b8a2938843104fc756be99199e420ad39c37d3cd812a56a61c</guid>
@@ -1421,16 +1157,5 @@
 <description>From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's B777 Gets New Coat of Paint</title>
-<link>https://www.nasa.gov/image-detail/jsc2026e407303</link>
-<guid isPermaLink="false">f7e995f8c8d6b7d64d5dd5dd7a6d8bf253d7dce8ba4d40d6757ad8a159fd3895</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 18 Aug 2026 15:16:00 +0000</pubDate>
-<description>NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" medium="image"/>
 </item>
 </channel></rss>

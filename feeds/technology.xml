@@ -4,15 +4,125 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>What&amp;#8217;s really at stake in the Jensen Huang saga</title>
+<link>https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast</link>
+<guid isPermaLink="false">4815b0b06c4331032395d356fc0c0842095b4d32c35fbb0281a9e6f248164888</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:47:16 +0000</pubDate>
+<description>One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness to turn a lot of blind eyes to protect a powerful ally, and about the very stability of the AI industry as a whole. It's a lot. On this episode of The Vergecast , David and Nilay start by trying to unpack the many parts of the story. We're all going to learn a lot more about Megaspeed than we ever planned or wanted, and we're goin … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Screenless GPS: Slate Auto says, "Remember the road atlas"</title>
+<link>https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas</link>
+<guid isPermaLink="false">2e6c8fd3389553985d6a899752692954a3cdafc6f80c2964cfd069d10bfe1726</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:45:04 +0000</pubDate>
+<description>Whether it's nostalgia or a sense that technology has gotten a bit too pervasive, there’s no denying that Slate Auto appears to be tuned into the particular moment. The startup has a simple pitch : an affordable electric truck with just the basics , leaving owners to DIY and BYOD for everything else, all for a sub-$25,000 starting price. Among the things Slate does without is an embedded infotainment system. The small digital display on the dashboard that shows your speed and range is also where the backup camera appears if you engage reverse, and there are two USB-C ports that provide power but not connectivity, and that’s that. But there is a solution to getting lost, and it's called “Screenless GPS.” Even though we don’t have a Slate truck to test it with, the OEM sent us a unit to review. That’s right, it’s a good old spiral-bound road atlas! “We believe you should use the devices you know and love,” Slate says, and it reckons that maps worked just fine for past generations, so they should still work now. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Most affairs don't matter except to the people involved. Ex- Nvidia CEO Jensen's blunder will rock the world</title>
+<link>https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649</link>
+<guid isPermaLink="false">eea2f0bc6d0e4bcd39d82147cb54e63d2bc062de2f752d272af65d8419704ded</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:45:00 +0000</pubDate>
+<description>It's a story as old as time. Billionaire nerd boy meets girl. Girl is later suspected of being a spy. News at 11. Oh, and it's also been reported that he was having an affair with one of his direct-report employees. When Nvidia CEO Jensen Huang makes a "romantic" blunder, he doesn't do it halfway. The boss of the world's most valuable company – well, it was until recently, anyway – publicly resigned yesterday, November 12, as CEO, president, and board member, effective immediately. We don't know if he jumped or if he was pushed. He left after admitting to having an affair. Although he never named an affair partner, one of the affairs was reported to be with Alice Huang, AKA Huang Le. She's head of the Chinese company Megaspeed, which was an Nvidia partner. Megaspeed is accused of being a front for China's government that was used to transfer Nvidia chips to China, although this hasn't been proven. Some US officials also suspect [PDF] she's working for Chinese intelligence, although the DoJ said it hasn't yet reached a conclusion about this. The final nail in Jensen's coffin came when The New York Times reported he had also allegedly had an affair with Nvidia's VP of health care, Kimberly Powell. Jeeze, guy! In the aftermath, Nvidia's CFO, Colette Kress, was appointed interim CEO. She won't, I suspect, be in the job for long. CFOs are not CEOs. The jobs aren't remotely the same. In most companies, Huang would be replaced by the COO. That can't happen here. Nvidia doesn't have a COO. Both inside and outside of Nvidia, Huang is seen as Nvidia, and Nvidia as Huang. These days, billionaire CEOs are perceived as God-kings who know all and rule all. Much more often than not, that's BS. That isn't the case with Nvidia. Huang co-founded Nvidia on April 5, 1993. He was appointed CEO on day one, and he never left the job. At first, the company staggered forward. When it released the GeForce 256 in 1999 , which it marketed as the first GPU, it started on its path to becoming the chip manufacturer of choice for PC gamers. It still is today. That's a great niche, but it doesn't make a company a trillion-dollar business. No, the path to that dizzying height came when, in 2006, Nvidia unveiled CUDA . This programming architecture opened its GPUs' parallel-processing capabilities to scientific and other non-graphics workloads. From there, CUDA would become the foundation for most high-performance and AI computing. Huang was at the center of it all. He still was until now. At KubeCon North America , the trade show for Kubernetes, used in well over half of all AI projects, I spoke to many Nvidia employees. There were two things they all mentioned. First, they were in a state of shock. Maybe the top brass and government officials both in China and the US knew Huang was fooling with fire; the developer rank-and-file folks I spoke to hadn't had a clue. The second was that every month, Huang held an all-hands meeting where, instead of a per-forma corporate pep rally, h</description>
+<enclosure url="https://image.theregister.com/?imageId=5309407&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309407&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Microsoft outage live: millions still affected as disruption stretches beyond 18 hours</title>
 <link>https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news</link>
 <guid isPermaLink="false">cf8d6db662d1ba559978b7ae7655a0994a645125517912fa31c9d18b413509a8</guid>
 <source>The Guardian Technology</source>
 <category>technology</category>
-<pubDate>Fri, 13 Nov 2026 13:14:18 +0000</pubDate>
-<description>Microsoft reports it is seeing some ‘positive results’ in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has so far not received any reports that hospitals or clinics are impacted. Impact is largely restricted to the sending and receiving of email. Western Australia, along with jurisdictions around the world, is being impacted by a global Microsoft outage. We are receiving updates from the Commonwealth who are working with Microsoft at the most senior levels to resolve. Microsoft are prioritising life, safety and Government services. Continue reading...</description>
+<pubDate>Fri, 13 Nov 2026 14:41:13 +0000</pubDate>
+<description>Microsoft reports it is “continuing to see improvements in service availability”, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has so far not received any reports that hospitals or clinics are impacted. Impact is largely restricted to the sending and receiving of email. Western Australia, along with jurisdictions around the world, is being impacted by a global Microsoft outage. We are receiving updates from the Commonwealth who are working with Microsoft at the most senior levels to resolve. Microsoft are prioritising life, safety and Government services. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df85051cceb44ee69fff379851687628" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df85051cceb44ee69fff379851687628" medium="image"/>
+</item>
+<item>
+<title>Meta discussed attacking Jonathan Haidt — now even his haters are annoyed</title>
+<link>https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta</link>
+<guid isPermaLink="false">43f859a8adc558331ed84f82e4704b9c94c69db04dc586b0c5685489544ba79d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:30:00 +0000</pubDate>
+<description>Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's one thing Anxious Generation author Haidt and his critics can agree on, it's being mad at Meta. Recent court filings in California revealed that Meta employees had discussed in 2023 a " Whisper strategy " to "turn academics against Haidt," who would soon publish a bestselling book arguing that platforms like Meta's were hurting kids. Haidt had spent years popularizing his theory that social media and smartpho … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_F.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_F.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Scientists warn 1.5°C climate change threshold could arrive by 2029</title>
+<link>https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029</link>
+<guid isPermaLink="false">9072a5ad3b0a42fdac6b5df787b2df11dfe01b2f8c9bfa25e5f700ce79fe8242</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:29:15 +0000</pubDate>
+<description>ANTALYA, Turkey—Amid upbeat green-tech pep talks and notices for happy hours at the annual United Nations COP31 climate change conference on Thursday, two new reports offered a stark reminder of how far the world remains from containing global warming. Climate Action Tracker , a nonprofit group that analyzes climate policies, found that the planet is still on track to warm nearly 5 degrees Fahrenheit by 2100, a rise that would devastate coral reefs, disrupt agriculture and forests and melt most of the world’s ice. In a separate bulletin, the European Union’s Copernicus climate change service reported that global warming has accelerated significantly since the 2015 Paris climate agreement . When the Paris agreement was adopted, the average global temperature was projected to surpass the pact’s long-term threshold of 2.7 degrees Fahrenheit above the preindustrial average around 2045. After another decade of global climate summits, warming is now projected to cross that benchmark as soon as 2029, according to Copernicus. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme</title>
+<link>https://www.theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia</link>
+<guid isPermaLink="false">bae18bea92e3af539137485f1a581a66f63646dd55a83eb46c098c7b93f9c8be</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:17:09 +0000</pubDate>
+<description>Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief’s signature look is now being mocked as a midlife crisis cliche For nearly two decades a black leather jacket has been a key part of Jensen Huang’s look. Now it has become a punchline. As the founder and chief executive of Nvidia resigned this week after reports of multiple affairs, his affinity for a leather jacket, an item of clothing typically associated with a man in midlife crisis mode, has become widely mocked. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ceb8d0c2e30a973c8dfa3940f4e5216c833fc9b5/0_577_4069_3255/master/4069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f63e9605e29b54549e85f136d04f1f6" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ceb8d0c2e30a973c8dfa3940f4e5216c833fc9b5/0_577_4069_3255/master/4069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f63e9605e29b54549e85f136d04f1f6" medium="image"/>
+</item>
+<item>
+<title>Claude’s Duet agent is a little neurotic and surprisingly helpful</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
+<guid isPermaLink="false">0acc674430dfd202ca5a420ecc9e95b9e298e0fae8a88be07e7fd89edd12f879</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+<description>Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant , Meta offered us its cute little guy, Muse, to help us buy things , and OpenAI gave us the more work-oriented Dots . Claude Duet is even more focused on work than those. It's also more consumer-friendly than Claude Cowork , which was more consumer-friendly than Claude Code - the co … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The Motorola Signature 27 is a beast</title>
+<link>https://www.engadget.com/2315452/motorola-signature-27-hands-on</link>
+<guid isPermaLink="false">73a47b60664705416303e7a7bc2f9b9e3e724491bf706d6c39eb97bfb6592894</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+<description>Motorola's latest phone has a monstrous tandem OLED display, a huge 7,000mah battery, fancy cameras and a massive $1,600 price tag.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-motorola-signature-27-is-a-beast/l-intro-1794519502.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-motorola-signature-27-is-a-beast/l-intro-1794519502.jpg" medium="image"/>
+</item>
+<item>
+<title>Why Apple's HomeView relies so heavily on your iPhone</title>
+<link>https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone</link>
+<guid isPermaLink="false">1825ce0dc55bfd1d6a988300dd91854c498405edfc488da93d89e77118b3c9e0</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+<description>To make the HomeView both personal and communal, there was only one place to go.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-apples-homeview-relies-so-heavily-on-your-iphone/l-intro-1794513145.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-apples-homeview-relies-so-heavily-on-your-iphone/l-intro-1794513145.jpg" medium="image"/>
+</item>
+<item>
+<title>Oh my Word! Microsoft retires compatibility options, because who needs layouts to stay put</title>
+<link>https://www.theregister.com/applications/2026/11/13/oh-my-word-microsoft-retires-compatibility-options-because-who-needs-layouts-to-stay-put/5309664</link>
+<guid isPermaLink="false">87c217961cb9c7f36ac1f9c43e6244d863c341f2600c845b7c12900e77de4703</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+<description>Microsoft is retiring some legacy layout settings in Word, potentially rearranging documents created or last saved in Word 2010 or earlier. "Affected documents may show layout differences, such as text reflow, changes in spacing or page count, or images and shapes moving to another page," the Windows biz said . The advice, if silly little things like page layout in a document matter, is to "consider exporting it to PDF before the change." Compatibility Mode lets a newer version of Word open a document created in an older version, such as Word 2010, without changing its layout. Newer features are switched off while the document is open this way. Users can convert the document to unlock newer features, although people using older versions of Word may then have difficulty editing parts of it. Microsoft has not identified the individual settings being retired, saying only: "We are retiring a set of compatibility options in Microsoft Word (desktop app) for documents in Compatibility Mode." The reason? "To simplify how Word handles document layout and provide a more consistent experience across platforms." Administrators may therefore want to check older templates, forms, and other documents whose pagination needs to stay put. The change is due to begin rolling out in the Windows version of Word from December 2026 and be completed by January 2027. The Mac version will follow in early 2027. Microsoft Word is more than 40 years old, and its first Windows version was released as the 1980s drew to a close. The word processor has evolved over the decades and is a mainstay of Microsoft's productivity suite. Compatibility Mode helps keep older documents from having their layouts abruptly borked the way Word does so well . Losing some of those safeguards could give administrators a fresh batch of "what the heck has happened to this document?" tickets as the change rolls out. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5309698&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309698&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Quantum Systems drones back in the air after malware scare</title>
@@ -65,7 +175,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Fri, 13 Nov 2026 12:48:03 +0000</pubDate>
-<description>Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook mail might be delayed while efforts to fully fix the outage continue. In its latest status page update , dated at 7AM ET on Friday, Microsoft said recovery efforts are going well: We're seeing encouraging recovery progress in Europe, with service availability and email delivery performance improving a … Read the full story at The Verge.</description>
+<description>Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook mail might be delayed while efforts to fully fix the outage continue. In its latest status page update , dated at 8AM ET on Friday, Microsoft said recovery efforts are going well: We're seeing continued recovery progress across affected regions, with broader improvements now observed in North America … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -90,6 +200,17 @@
 <description>Welcome to Edition 9.19 of the Rocket Report! Will something historic happen this weekend? No orbital rocket has ever been fully recovered with the intent of reusing all of its components. But that's just what SpaceX is going to try to do with a Starship launch on Friday, and an upper stage landing attempt 22.5 hours later on Saturday afternoon, local time. Ars will be on hand in Starbase, Texas, to provide coverage of it all. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Electron set for milestone launch . The next launch of Rocket Lab’s Electron vehicle is due to lift off from the Mahia Peninsula in New Zealand on November 14 at 5:30 UTC. This mission will serve as Electron’s 100th overall mission—a notable milestone for the small rocket that first flew in 2017, NASASpaceflight.com reports . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg" medium="image"/>
+</item>
+<item>
+<title>US university students tell surveillance cameras to Flock off</title>
+<link>https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts</link>
+<guid isPermaLink="false">bf67df2231e9735815f5fd05a154ad4346f2906323e85165aea7ad9bae4acbb3</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 12:00:18 +0000</pubDate>
+<description>The privacy issues over the company’s surveillance cameras have caused protests in schools all over the country Angela Nguyen, a senior at Stanford University, has been on a mission to make sure her school doesn’t use automated license plate readers, like those made by Flock Safety, for mass surveillance. The 21-year-old computer science major helped collect hundreds of signatures earlier this year from students, faculty, alumni and residents to demand that Stanford drop its current Flock contract and codify safeguards for similar tech tools the school may use in the future. The fear, Nguyen says, is that these cameras, which show where a vehicle was at a certain point in time, can be exploited to victimize vulnerable people. Stanford cut ties with Flock this summer, and it’s not alone. The privacy reckoning over the company’s surveillance cameras is gaining momentum at schools nationwide. Since April, at least ten university campuses across seven states, have scrapped contracts with Flock. That includes Cornell University , Penn State University , Elgin Community College , Emory University , Binghamton University , Kent State University and the University of Wisconsin’s Madison , Milwaukee and Oshkosh branches. Last week, the University of Buffalo announced an indefinite pause on its plans for a 60-day pilot program. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/07a6c4559866de14de7f2016c808aef3574e0c2c/23_622_4031_3223/master/4031.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69f778700f8fc063e42ded1d07bb99d4" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/07a6c4559866de14de7f2016c808aef3574e0c2c/23_622_4031_3223/master/4031.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69f778700f8fc063e42ded1d07bb99d4" medium="image"/>
 </item>
 <item>
 <title>Why the Nvidia cheating scandal is bad for Trump | Politics Weekly America</title>
@@ -219,14 +340,14 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Fri, 13 Nov 2026 07:31:00 +0000</pubDate>
-<description>The next version of the C++ programming language may be delayed at the last minute due to a dispute over a security-enhancing Contracts feature. Contracts have deeply split C++ technical maintainers. One group backs the C++ creator Bjarne Stroustrup , who is against the technology in its present form in grounds it was hastily implemented. But others are eager to see Contracts implemented, even arguing the tech's detractors are poisoning the C++ development process itself. The disagreement boiled over just before a vote to ratify the new version of the language. In October, the Draft International Standard (DIS) of C++26 failed its ISO ballot — the next-to-last stage in the International Organization for Standardization’s approval process during which a standard's technical details are formally ratified by a set of national standards bodies. The ballot saw 13 votes cast in favor, 9 against, and 12 abstentions, failing to meet the ISO requirement of having no more than 25 percent negative votes. Contracts was the major sticking point for those voting nay. Contracts dispute Contracts allow developers to add preconditions and postconditions to code, as well as assertions that check whether specified conditions hold. Such checks can help catch programming errors that might otherwise lead to undefined behavior. Design by Contract has long been a feature of languages like Ada and Eiffel . Developers have proposed adding Contracts to C++ for at least a decade, after when they were abruptly yanked from C++20 owing to concerns over dangerous defaults. But Stroustrup roasted the revised proposal ( P2900 ) that made it into C++26. “The P2900 contracts and extensions aim to change the nature of C++ and are an existential threat to C++, adding complexity and bloat,” Stroustrup and his colleagues wrote in a paper last August. They noted that the implementation is messy, outdated, not sufficiently tested , and could be more effectively implemented as a library. Not everyone agrees. Andreas Fertig , a member of the C++ standardization committee, feels that the criticisms have already been vetted and that vetoing the proposal this late in the C++ release process is damaging to C++ itself. “The topic has been worked on for years and has received a majority vote multiple times in its current form. By voting ‘no,’ an established system, one based primarily on trust and respectful collaboration, has been shaken,” Fertig wrote in a blog post . The elephant in the room is, of course, the ongoing criticism of how easy it is for developers to accidentally create security holes in C++, leading more than a few projects to adpot Rust . Adding controls might, as Stroustrup notes, hamper C++’s chief attribute of being a blazing-fast language . Sore losers Fertig accused Stroustrup and Co. of being sore losers. “Every ISO standard is simply a set of compromises. Everyone loses sometimes, and everyone wins sometimes,” he wrote. But in this case, “the losing parties refused to ac</description>
+<description>The next version of the C++ programming language may be delayed at the last minute due to a dispute over a security-enhancing Contracts feature. Contracts have deeply split C++ technical maintainers. One group backs the C++ creator Bjarne Stroustrup , who is against the technology in its present form in grounds it was hastily implemented. But others are eager to see Contracts implemented, even arguing the tech's detractors are poisoning the C++ development process itself. The disagreement boiled over just before a vote to ratify the new version of the language. In October, the Draft International Standard (DIS) of C++26 failed its ISO ballot — the next-to-last stage in the International Organization for Standardization’s approval process during which a standard's technical details are formally ratified by a set of national standards bodies. The ballot saw 13 votes cast in favor, 9 against, and 12 abstentions, failing to meet the ISO requirement of having no more than 25 percent negative votes. Contracts was the major sticking point for those voting nay. Contracts dispute Contracts allow developers to add preconditions and postconditions to code, as well as assertions that check whether specified conditions hold. Such checks can help catch programming errors that might otherwise lead to undefined behavior. Design by Contract has long been a feature of languages like Ada and Eiffel . Developers have proposed adding Contracts to C++ for at least a decade, after when they were abruptly yanked from C++20 owing to concerns over dangerous defaults. But Stroustrup roasted the revised proposal ( P2900 ) that made it into C++26. “The P2900 contracts and extensions aim to change the nature of C++ and are an existential threat to C++, adding complexity and bloat,” Stroustrup and his colleagues wrote in a paper last August. They noted that the implementation is messy, outdated, not sufficiently tested , and could be more effectively implemented as a library. Not everyone agrees. Andreas Fertig , a member of the C++ standardization committee, feels that the criticisms have already been vetted and that vetoing the proposal this late in the C++ release process is damaging to C++ itself. “The topic has been worked on for years and has received a majority vote multiple times in its current form. By voting ‘no,’ an established system, one based primarily on trust and respectful collaboration, has been shaken,” Fertig wrote in a blog post . The elephant in the room is, of course, the ongoing criticism of how easy it is for developers to accidentally create security holes in C++, leading more than a few projects to adopt Rust . Adding controls might, as Stroustrup notes, hamper C++’s chief attribute of being a blazing-fast language . Sore losers Fertig accused Stroustrup and Co. of being sore losers. “Every ISO standard is simply a set of compromises. Everyone loses sometimes, and everyone wins sometimes,” he wrote. But in this case, “the losing parties refused to ac</description>
 <enclosure url="https://image.theregister.com/?imageId=5309559&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309559&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Microsoft's massive M365 outage stretches past 18 hours as its fixes keep failing</title>
-<link>https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-18-hours-as-its-fixes-keep-failing/5309609</link>
-<guid isPermaLink="false">5c0bc4a53a6b04e27575ac65cd7762507dd596a11c96f2a9add609fcc9535ded</guid>
+<title>Microsoft's massive M365 outage stretches past 20 hours as its fixes keep failing</title>
+<link>https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-20-hours-as-its-fixes-keep-failing/5309609</link>
+<guid isPermaLink="false">aa602ed731787246d72ed8f402fe45f5534be9b4fe8e640e961b32cfdb08b1b7</guid>
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Fri, 13 Nov 2026 06:40:06 +0000</pubDate>
@@ -334,17 +455,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,88.092261904762" medium="image"/>
 </item>
 <item>
-<title>Microsoft Outlook is still down</title>
-<link>https://www.theverge.com/tech/1032226/microsoft-outlook-is-down</link>
-<guid isPermaLink="false">a487e36889862acfd354c53b852f2fdde6adaf452954ae1bfe079f6788e8f882</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 23:24:13 +0000</pubDate>
-<description>Microsoft Outlook continues to be unavailable for people, businesses, and public services across the globe, leaving people unable to access their email, either through the web or apps. Reports around the issue starting rolling in at around 1PM ET on Thursday, with Microsoft since confirming that the outage is impacting Microsoft 365 features that interact with Exchange Online and email services, including SharePoint Online, Teams, Copilot AI, and other 365 business services. When the outage issues were first identified on Thursday, Microsoft acknowledged from its Microsoft 365 Status account that "We've determined a portion of infrastruct … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Microsoft struggling to fix massive cloud outage that's taken down email and Intune</title>
 <link>https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531</link>
 <guid isPermaLink="false">40799bbe98237bf03e8edfe7391350d18ed345b50bd9edb44bf4929fde7edab4</guid>
@@ -356,24 +466,13 @@
 <media:content url="https://image.theregister.com/?imageId=5237217&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Xbox owners are getting more customizations for backgrounds and the Guide menu</title>
-<link>https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature</link>
-<guid isPermaLink="false">d5cc30ce1b8a71cb5403e861691c5722f96ff5d51ef0a208a59cacdc76a4b3de</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 23:00:00 +0000</pubDate>
-<description>Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. "Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically," says Eden Marie , principal software engineering lead at Xbox. "You can also choose Shuffle at the start of any background category. Have your background change each time you sign in, or set it to change hourly, daily, or weekly." Microsoft is also improving how you organize disc-to-digital … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>In reversal, American Cancer Society urges routine prostate cancer screening</title>
 <link>https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men</link>
 <guid isPermaLink="false">1e92392f513239f5b557f3e574e9b7a271dba51a88f2f2b8bcddde441e3703f5</guid>
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 22:59:51 +0000</pubDate>
-<description>In a significant update to its guidelines for prostate cancer screening, the American Cancer Society is now recommending that men get routinely screened for prostate cancer with a PSA test. Men at average risk should get a PSA test every two years from age 50 to 69, according to the new guidelines released Thursday. Men considered at high risk due to race and family history should start testing earlier, at 45, and most are recommended to get tested every year. Specifically, yearly testing starting at age 45 is recommended for all Black men, who have higher rates of prostate cancer. Non-Black men should also get yearly testing starting at 45 if a close relative was diagnosed with prostate cancer before age 65, or if more than one of their relatives has had prostate cancer. On the other hand, if only one close relative was diagnosed with prostate cancer and it was diagnosed at age 65 or older, non-Black men in this case should start PSA screening at 45, but are recommended to get testing only every two years. Read full article Comments</description>
+<description>In a significant update to its guidelines for prostate cancer screening, the American Cancer Society is now recommending that men get routinely screened for prostate cancer with a PSA (prostate-specific antigen) test. Men at average risk should get a PSA test every two years from age 50 to 69, according to the new guidelines released Thursday. Men considered at high risk due to race and family history should start testing earlier, at 45, and most are recommended to get tested every year. Specifically, yearly testing starting at age 45 is recommended for all Black men, who have higher rates of prostate cancer. Non-Black men should also get yearly testing starting at 45 if a close relative was diagnosed with prostate cancer before age 65, or if more than one of their relatives has had prostate cancer. On the other hand, if only one close relative was diagnosed with prostate cancer and it was diagnosed at age 65 or older, non-Black men in this case should start PSA screening at 45, but are recommended to get testing only every two years. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer-500x500.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer-500x500.jpg" medium="image"/>
 </item>
@@ -398,17 +497,6 @@
 <description>It’s been nearly a decade since Google ditched its ill-fated "Glass" product, an early attempt at making smart glasses. Now, as rivals like Meta enter the market with arguably more stylish kit, the Chocolate Factory has returned to the market and this time promises it won't invade your privacy. As announced Thursday, Google has decided not to make wearables itself, instead turning Samsung and eyeglass makers Warby Parker and Gentle Monster. Like most of the rest of this generation of smart glasses, none of the nine styles available feature heads-up displays, just cameras and audio feedback from Gemini. Google suggests its smart specs give users a chance to ask its Gemini chatbot questions about what they see, or have the AI speak turn-by-turn directions. Wearers of the device can also push a button or speak a command to activate the built-in 12MP camera and shoot snaps or video. Warby Parker's version of the glasses will come in three styles, with prescription and sunglass lenses available. Prices start at $395. The same lens options are available in the six frames from Gentle Monster, which will start at $449. Both manufacturers promise nine hours of battery life, boosted by charging cases that can refresh the glasses up to seven times. Preorders for both are available now, with shipments arriving, and sales beginning, on December 10. Google promises privacy The Chocolate Factory, not exactly known for being reliable with its privacy claims, is insisting that this latest generation of smart glasses won’t produce another generation of “glassholes,” folk whose focus on wearable devices became synonymous with being creepy and rude to those around them. Google has some catchup to do to that end, given Meta’s smart glasses have already landed it in hot water over privacy concerns that have led to some calling the devices “ pervert glasses .” Unsurprisingly, at around the same time it announced its new "intelligent eyeware," Google published a blog post detailing how it intends to mitigate privacy concerns. As with similar headsets, there’s a little light that comes on whenever the camera is activated. In Google’s case, it claims that light is tamper-resistant and designed to disable recording if something as small and simple as a bit of hair blocks a view of the light. It’s not clear how the tamper proofing works from Google’s statements, but a spokesperson told us a combination of hardware and software is used to detect attempts to disable or disrupt privacy features. “We're committed to continuously improving the effectiveness of these solutions as new attack vectors are identified,” Google told us. The glasses don't save images or video captured by the camera into a user’s Gemini history, Google said, nor are visuals used to train the company’s AI models or target advertisements. Google told us it does save audio recordings and transcripts of conversations with Gemini that users create while wearing the glasses but again insists that those aren’t</description>
 <enclosure url="https://image.theregister.com/?imageId=5309522&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309522&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Google’s new Gemini model is better at understanding complicated questions</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen</link>
-<guid isPermaLink="false">a3e1afb4a33deb1bb631451a45d8fdfb08bde4f0c9c5460efe356e0b7f30baa6</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 21:55:32 +0000</pubDate>
-<description>Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including "questions with multiple parts, hard-to-understand typos, or highly specific requests." The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it's "now the new default model in AI Mode &amp; being used for your hardest questions in AI Overviews." Google says Gemini 4 Hydrog … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>A third of US AI chatters are hot at bots, hurling insults at LLMs</title>
@@ -439,7 +527,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 20:08:08 +0000</pubDate>
-<description>Lego-owned marketplace BrickLink has been offline for almost a week after identifying "unusual activity on the platform," leaving fans unable to buy and sell spare bricks and minifigures. The company initially described the outage as "necessary work" and said the site would return on November 9. That deadline has come and gone. Visiting BrickLink's domain automatically serves the platform's maintenance page, which was last updated on November 11. "We took BrickLink offline after identifying unusual activity on the platform," the website states. "Our immediate priority was to secure the site, protect our members and ensure the integrity of BrickLink. "Before bringing the site back online, we need to fully understand what has happened. That means containing the issue, investigating how it happened and checking for related issues. "This work is still ongoing and we appreciate your patience while we work to get things back online as soon as possible." The references to security, containment, and investigation suggest something beyond routine maintenance, although BrickLink has not confirmed whether it suffered a cyberattack. The Register asked Lego for more information, but it did not immediately respond. Some adult fans of Lego (AFOL) have criticized the lack of information since the outage began on Friday, November 6. "Imagine how much better this would have been received if they were transparent from day one instead of pretending they have control over something they clearly don't," said one disgruntled Legohead via Reddit. "They don't even need to say what went wrong," said another. "Just an email acknowledging the issue would be appropriate. The entire site is down, and has been for days. That warrants more than a splash page." BrickLink was launched by Dan Jezek in June 2000 as an independent marketplace for enthusiasts to buy and sell Lego sets and individual pieces, including discontinued parts and rare minifigures. The Lego Group acquired BrickLink and Sohobricks from investment outfit NXMH in 2019 for an undisclosed sum. NXMH had bought BrickLink in 2013 and also owned Sohobricks, a South Korean manufacturer of unofficial but Lego-compatible bricks. Lego shuttered Sohobricks in 2020. At the time of Lego's acquisition, BrickLink had more than 10,000 storefronts on its marketplace selling Lego sets, parts, and minifigures. The AFOL community was initially concerned about Big Brick's intention with the acquisition, fearing that it would lead to high prices closer to those on Lego's own Pick a Brick parts-ordering service. For now, buyers and sellers would probably settle for a marketplace that's actually online. ® Updated to add on November 31: Lego said on Friday that BrickLink is back online after acknowledging the "confusion and uncertainty" the downtime caused among Lego fans. A statement made via the BrickLink website confirmed that "some" usernames and IP addresses were accessed, as were "a very small number" of email addresses. "We have</description>
+<description>Lego-owned marketplace BrickLink has been offline for almost a week after identifying "unusual activity on the platform," leaving fans unable to buy and sell spare bricks and minifigures. The company initially described the outage as "necessary work" and said the site would return on November 9. That deadline has come and gone. Visiting BrickLink's domain automatically serves the platform's maintenance page, which was last updated on November 11. "We took BrickLink offline after identifying unusual activity on the platform," the website states. "Our immediate priority was to secure the site, protect our members and ensure the integrity of BrickLink. "Before bringing the site back online, we need to fully understand what has happened. That means containing the issue, investigating how it happened and checking for related issues. "This work is still ongoing and we appreciate your patience while we work to get things back online as soon as possible." The references to security, containment, and investigation suggest something beyond routine maintenance, although BrickLink has not confirmed whether it suffered a cyberattack. The Register asked Lego for more information, but it did not immediately respond. Some adult fans of Lego (AFOL) have criticized the lack of information since the outage began on Friday, November 6. "Imagine how much better this would have been received if they were transparent from day one instead of pretending they have control over something they clearly don't," said one disgruntled Legohead via Reddit. "They don't even need to say what went wrong," said another. "Just an email acknowledging the issue would be appropriate. The entire site is down, and has been for days. That warrants more than a splash page." BrickLink was launched by Dan Jezek in June 2000 as an independent marketplace for enthusiasts to buy and sell Lego sets and individual pieces, including discontinued parts and rare minifigures. The Lego Group acquired BrickLink and Sohobricks from investment outfit NXMH in 2019 for an undisclosed sum. NXMH had bought BrickLink in 2013 and also owned Sohobricks, a South Korean manufacturer of unofficial but Lego-compatible bricks. Lego shuttered Sohobricks in 2020. At the time of Lego's acquisition, BrickLink had more than 10,000 storefronts on its marketplace selling Lego sets, parts, and minifigures. The AFOL community was initially concerned about Big Brick's intention with the acquisition, fearing that it would lead to high prices closer to those on Lego's own Pick a Brick parts-ordering service. For now, buyers and sellers would probably settle for a marketplace that's actually online. ® Updated to add on November 13: Lego said on Friday that BrickLink is back online after acknowledging the "confusion and uncertainty" the downtime caused among Lego fans. A statement made via the BrickLink website confirmed that "some" usernames and IP addresses were accessed, as were "a very small number" of email addresses. "We have</description>
 <enclosure url="https://image.theregister.com/?imageId=252955&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=252955&amp;width=800" medium="image"/>
 </item>
@@ -477,18 +565,18 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp" medium="image"/>
 </item>
 <item>
-<title>Several Microsoft services appear to be down – what we know</title>
+<title>Microsoft outage continues into Friday – what we know</title>
 <link>https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot</link>
 <guid isPermaLink="false">11f7ed8de9f18ad627bf167484b9a4161818280f0f75f78ff0d5a50927325a77</guid>
 <source>ZDNET</source>
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 19:45:52 +0000</pubDate>
-<description>Reports of the outage are beginning to drop as Microsoft restarts affected servers.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304396071.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304396071.jpg" medium="image"/>
+<description>The company is steadily restoring service and thinks a software update may be to blame.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg" medium="image"/>
 </item>
 <item>
-<title>Who is Collette Kress, NVIDIA's interim CEO?</title>
+<title>Who is Colette Kress, NVIDIA's interim CEO?</title>
 <link>https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo</link>
 <guid isPermaLink="false">be053eee0b45b0ed1baf91ce69d813869220b67e946cc1eb9822c23e2db90dd9</guid>
 <source>Engadget</source>
@@ -517,8 +605,8 @@
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 19:17:32 +0000</pubDate>
 <description>Outlook and Teams are among the platforms impacted by "elevated load" issues.</description>
-<enclosure url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794579008.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794579008.jpg" medium="image"/>
 </item>
 <item>
 <title>Ukraine says it can’t stop Russian strikes because Starshield is limited again</title>
@@ -1192,39 +1280,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/image-1.jpeg" medium="image"/>
 </item>
 <item>
-<title>Anduril says its first satellite can see adversaries maneuver in orbital night</title>
-<link>https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness</link>
-<guid isPermaLink="false">78c34c8f8ab330b8f6fc6d2df2e9a37615709f8bcaed29b9338377a5df89f0e3</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 20:22:03 +0000</pubDate>
-<description>Anduril Industries has announced the successful demonstration of a new satellite-based sensor designed to track other spacecraft that may be hiding their maneuvers in Earth's shadow. Funded with Anduril's internal capital, the company's oven-sized satellite launched on a SpaceX rideshare mission in July with a package of tech demo payloads: an edge-compute processor, a power-management system adaptable to different mission types, and a long-wave infrared space sensor capable of detecting other objects in orbit. Anduril reported on the success of the tech demo mission Tuesday. The company's satellite, named Anduril-216, flies about 590 km (366 mi) above Earth, spending about one-third of each orbit in darkness. Anduril-216's night passes allow its infrared imager to shine. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>United is restricting AI agents from booking flights</title>
-<link>https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights</link>
-<guid isPermaLink="false">dbb2cd951b1601b5fb1c78789fdc6ef654c42f2f1d2e89ecc86f5d78e8eedaf7</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 20:09:44 +0000</pubDate>
-<description>The airline believes AI poses security risks and may violate DOT and FAA rules.</description>
-<enclosure url="https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg" medium="image"/>
-</item>
-<item>
-<title>Google brings the Gemini app to Apple CarPlay</title>
-<link>https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay</link>
-<guid isPermaLink="false">c68ebfc0893a8d69ab749d3d7cd20e2aebdb5fccee2b992fed7b91a814b05d08</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 19:54:55 +0000</pubDate>
-<description>The chatbot was already available through the Google Maps app.</description>
-<enclosure url="https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg" medium="image"/>
-</item>
-<item>
 <title>Google Fi now switches between the best mobile networks automatically – how it works</title>
 <link>https://www.zdnet.com/home-and-office/google-fi-super-network-pixel</link>
 <guid isPermaLink="false">3acc851e2082ce38a0add319845deb9895ff74fc61b6428326fafcfce88869af</guid>
@@ -1234,17 +1289,6 @@
 <description>Pixel users also get a bonus Wi-Fi upgrade. Here’s what to know.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's secret weapon in the lunar space race may be ... procurement reform?</title>
-<link>https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon</link>
-<guid isPermaLink="false">2cbe99d1755e50d93b52af7e055d690ff7f3273ca3acfda0342b145bdd967f03</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 19:00:26 +0000</pubDate>
-<description>Senior NASA officials held a lengthy news conference last weekend, laying out a series of lunar contract awards, new contract opportunities, and mission decisions. They followed one after the other: landers, nuclear-powered rovers, scouting drones, power generation, storage, and communication satellites. It never seemed to end. "Hopefully, we're keeping industry on their toes trying to catch up to all the solicitations we're doing," said Carlos García-Galán, manager of the Moon Base Program, more than 90 minutes into the news conference. "This is what it takes to do the Moon Base in the timeline we have set forth." Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-1152x648.webp" type="image/webp"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-1152x648.webp" medium="image"/>
 </item>
 <item>
 <title>US bit barn boom sees energy needs grow 10x as fast as grid capacity</title>
@@ -1335,17 +1379,6 @@
 <media:content url="https://image.theregister.com/?imageId=263314&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds</title>
-<link>https://www.theguardian.com/thefilter/2026/nov/11/best-christmas-gifts-ideas-tweens-uk</link>
-<guid isPermaLink="false">5b7b324595a60f0b1c2783b606a3b87a8f4dc9b71f3b8d269d4a5b7694abbabc</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 15:00:52 +0000</pubDate>
-<description>We asked 20 tweenagers what they already own, love and think would make great gifts. Turns out it’s Lego, dance mats and plenty of lotions and potions • The best Christmas gifts for teenagers Buying for someone in the tweenage years can be a balancing act: while some kids are still crafting, enjoying board games and deep into Lego, others have moved on to skincare and guitars. So, in an effort to cover the whole range, I spoke to 20 tweens (from 10 to 12 years old) from across the country. But instead of asking what they want, I quizzed them on the things they already have, truly love and use regularly. Here are their tried and tested gift ideas for a range of prices. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/0a8d13968f6d03da339850dda67e6e26b25e731a/0_0_4000_3200/master/4000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c32febe5d3982f9aa15f6efb61213eca" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/0a8d13968f6d03da339850dda67e6e26b25e731a/0_0_4000_3200/master/4000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c32febe5d3982f9aa15f6efb61213eca" medium="image"/>
-</item>
-<item>
 <title>How years of research built Grand Theft Auto VI’s obsessively detailed world</title>
 <link>https://www.theguardian.com/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet</link>
 <guid isPermaLink="false">18901bd334b387ef90b43e628e6b9b36eadbf48671ecc372a606e525915a2aad</guid>
@@ -1434,28 +1467,6 @@
 <media:content url="https://image.theregister.com/?imageId=5308754&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>AMD: Where we're going we don't need (as much) DRAM</title>
-<link>https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953</link>
-<guid isPermaLink="false">98cdae1f7442dea17c20417a683385b559e2c73195b6a1bd36ff2fc52f4ae40a</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 09:59:00 +0000</pubDate>
-<description>AMD's latest sales pitch: Up to 99 percent of the performance with half the DRAM, provided you're willing to buy a Mext license alongside your shiny new Epyc server. This is made possible by using AI models to load memory pages in and out of cheaper NVMe storage before your operating system or apps ever know they need it — kind of like SWAP or a Windows page file, but smarter. AMD acquired the tech from Mext back in June, and according to former CEO Gary Smerdon — now CVP of business development at AMD — the tech could cut enterprise server costs by as much as 83 percent by replacing costly RDIMMs with flash storage. Of the initial 145 systems the software has been deployed on so far, he estimates customers have already saved $5 million in avoided DRAM costs. "Conservatively, 60, 70, even 80 or 90 percent for very large memory systems, of the cost of a server can be in memory," he explained. Everyone's favorite buzzword to the rescue Even in systems with high memory utilization, where (say) 95 percent of the memory is "in use," a lot of it isn't actively being used, he explained. He cited a Meta research paper that showed that between 50 and 80 percent of memory pages hadn't been touched in five minutes, ten minutes, or even longer. "Five minutes to Epyc is an eternity." Mext technology aims to offload those infrequently accessed pages to flash. The challenge, Smerdon explains, is that while flash may be 50x cheaper per bit, 30x lower power per bit, it's also 500x slower. This is why most folks, when provisioning VPCs or servers, generally avoid swapping out to disk wherever possible: it kills application performance and sends service level agreements out the window. So for Mext's tech to work, it needed to ensure that any pages offloaded to storage were back in DRAM before they're needed. Kind of like running an errand in the middle of the workday – so long as you're back before your boss needs you again, they'll never know you left your desk. The problem was that the "R" in DRAM stands for random. Predicting which pages the system was going to need at which time isn't exactly trivial. The solution? (Brace for it.) "We realized we could use AI to monitor the system and proactively push those pages back into DRAM, so that as far as the application or the operating system knew, they were there the whole time," Smerdon said. In other words: "We transparently make flash appear as DRAM." So, "instead of buying two terabytes of DRAM for your Epyc-based server, you could buy one terabyte of DRAM, and then the next terabyte comes with Mext." To do this, AMD’s Mext employs a number of machine learning algorithms. "The workhorse model is a transformer derivative model, just like ChatGPT or Claude or the other famous models, but instead of predicting, for example, in the case of text, what word is next, what we're doing is predicting what page of memory is going to be required next," Smerdon explained. So long as the pages are in DRAM before they're needed</description>
-<enclosure url="https://image.theregister.com/?imageId=5259665&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5259665&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>UK's 'buy British' tech ambitions hit reality as less than £1 in £6 stays at home</title>
-<link>https://www.theregister.com/public-sector/2026/11/11/uks-buy-british-tech-ambitions-hit-reality-as-less-than-1-in-6-stays-at-home/5308814</link>
-<guid isPermaLink="false">62cf54b722fa54527692ac3d96dc00fe5bd473ec0e45a263393c0453b181598f</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 09:15:00 +0000</pubDate>
-<description>The UK government talks a good game about buying British, but less than £1 in every £6 spent with its biggest technology suppliers goes to British firms, according to research exposing how much Whitehall relies on foreign tech. A report from the Institute for Public Policy Research (IPPR) found that while 42.5 percent of spending with the public sector's 150 largest technology suppliers appears to go to UK companies, that figure collapses to just 15.4 percent once you look beyond where those businesses happen to be headquartered. A UK headquarters doesn't necessarily make a company British. Some are owned from overseas, others have most of their staff abroad, and many simply resell technology from US giants such as Microsoft. In fact, 43 percent of the spending attributed to UK-headquartered suppliers goes to resellers. Bytes and Softcat alone account for around £2 billion, making them two of the three biggest recipients of public sector technology spending. Once researchers traced reseller contracts back to the companies behind the products, the US emerged as the biggest beneficiary, accounting for £9.2 billion of the £19.2 billion spent with the largest suppliers. And the money isn't exactly being spread around. Just 150 companies receive 83 percent of public sector technology spending, with the largest 15 accounting for almost half. Smaller suppliers aren't getting much of a look-in either, receiving just 12 percent of government technology spending compared with 27 percent of spending across government as a whole. Competition is another concern. According to IPPR, 89.9 percent of government IT contracts over the past 12 months had no published record of how many suppliers bid for the work, making it difficult to assess how competitive those procurements were. Things get murkier when AI enters the picture, naturally. Government spending records show relatively little money going directly to the likes of OpenAI and Anthropic, but that doesn't mean Whitehall isn't buying their technology. Much of it is bundled into existing cloud agreements, enterprise software licenses, and partnerships. One example is NHS England's rollout of Microsoft 365 Copilot to 505,000 staff , which IPPR says was carried out under a national licensing agreement signed in June 2023, before Copilot was even generally available. That means AI tools can reach hundreds of thousands of public sector workers through deals negotiated before those products were on the market, potentially leaving rival suppliers without an opportunity to compete. The report, Locked In: A Realist's Agenda for Digital Sovereignty, warns that Britain's dependence on American technology could become particularly troublesome if Washington restricts access to advanced AI systems. It points to recent US restrictions on Anthropic models and limits on early access for Britain's AI Security Institute as evidence that such concerns are no longer entirely hypothetical. The government has already committed £50</description>
-<enclosure url="https://image.theregister.com/?imageId=5282252&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5282252&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Microsoft fixes over 1,000 Windows flaws – and one is being exploited</title>
 <link>https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu</link>
 <guid isPermaLink="false">08438d071d0c5e843823b433b6dd92c8babf200197a066f56f96f2e351bc913e</guid>
@@ -1542,17 +1553,6 @@
 <description>Alongside the Ring Drone Cam, Ring introduced the Rover Cam for businesses. It investigates disturbances and streams 4K footage.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/CNET-Group-Amazon-Ring-Event-13.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/CNET-Group-Amazon-Ring-Event-13.jpg" medium="image"/>
-</item>
-<item>
-<title>Even Martin Scorsese uses AI for storyboards. Can the art survive?</title>
-<link>https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai</link>
-<guid isPermaLink="false">41a0f772447991ae2cb1646380bbd03bc58946a82d3e71c657bc7b7b286ee0e9</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 13:00:24 +0000</pubDate>
-<description>As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lost A film industry dominated by AI is a dystopian prospect: stories and dialogue generated by large language models, populated by reincarnated screen icons and uncanny humanoids . That is in the future, but the real-world impact of AI is already directly affecting jobs behind the scenes, as Hollywood’s biggest film-makers begin to adopt the technology. James Cameron – long an advocate for emerging technologies in film-making – is on the board of a gen AI firm , citing his interest in how AI will intersect with CGI; Steven Soderbergh used Meta-powered tech to create animations for his recent documentary about John Lennon ; even Christopher Nolan, while dismissing the idea that AI will replace humans as “nonsense”, conceded that it will create some useful “imaging tools”. The current canary in the coalmine however is the storyboard artist, whose work gen AI appears to have directly in its sights. Storyboard artists are the illustrators who draw the panels of images with notes and diagrams that map out scenes before they are filmed. Storyboards are used to work out how a film will look, and as a blueprint to communicate a director’s vision to cast and crew , and are one of the first steps in bringing a script off the page. Now they appear on the verge of replacement by programmes that use text prompts to create illustrations instead. Even an old-school diehard like Martin Scorsese has got on board; in June he announced a partnership with an AI firm whose text-to-image model he used in the storyboarding process for his next movie. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/58_263_5069_4056/master/5069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b939d72a993d8dbf3cd59fc55a77f63" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/58_263_5069_4056/master/5069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b939d72a993d8dbf3cd59fc55a77f63" medium="image"/>
 </item>
 <item>
 <title>Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen</title>

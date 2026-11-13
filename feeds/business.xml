@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China</title>
+<link>https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china</link>
+<guid isPermaLink="false">bc114cb111d416d489d3477aa6ca7e67e1f0dfa6ceaf516e54d3d65178e84e1c</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Fri, 13 Nov 2026 10:55:54 +0000</pubDate>
+<description>House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Unocoin keeps deposits and withdrawals halted over suspect transfers</title>
 <link>https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe</link>
 <guid isPermaLink="false">5d7624cdcd8ebd3d41f1e92dfe1592408ab8ec910a75f4a39bf0c2a00b5ae0ca</guid>
@@ -1047,17 +1058,6 @@
 <description>The chipmaker has erased its 2026 gains as a suspected Chinese espionage case brings fresh scrutiny of CEO Jensen Huang.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Near AI Breach Exposes User Details and Data From 18 AI Agents</title>
-<link>https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents</link>
-<guid isPermaLink="false">24a34f57078f6d81445e7f2a566e6cf433252b40a7ad71c38a6a6534da2032a6</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 20:16:03 +0000</pubDate>
-<description>An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>Alabama credit union to buy in-state bank</title>

@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft suffers global outage - as fix not going 'as expected'</title>
+<link>https://news.sky.com/story/microsoft-suffers-global-outage-as-fix-not-going-as-expected-13611760</link>
+<guid isPermaLink="false">1e45473a9d18c617a33c8335d20f8af6d6e750da2b4ebda842a18852870915c2</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 04:33:00 +0000</pubDate>
+<description>A widespread outage has hit Microsoft platforms, with a fix "not taking as expected".</description>
+<enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-microsoft-oxford-circus_7248660.jpg?20260514153445" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/05/1920x1080/skynews-microsoft-oxford-circus_7248660.jpg?20260514153445" medium="image"/>
+</item>
+<item>
+<title>Microsoft Outlook outage stretches on for hours</title>
+<link>https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203</link>
+<guid isPermaLink="false">a85d5673103c75ab9e97c07ca815e97fdbe41008609c3a68a77805043ca46ce3</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 04:27:03 +0000</pubDate>
+<description>Microsoft is reporting "issues" with users accessing Outlook and Teams.</description>
+<enclosure url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>What we know about victims of deadly Brooklyn building collapse</title>
 <link>https://abcnews.com/US/victims-deadly-brooklyn-building-collapse/story?id=138098954</link>
 <guid isPermaLink="false">af311d84e09a1a26c3974f0b789078672fe5d8169023b95871865940aeedf0ed</guid>
@@ -46,17 +68,6 @@
 <description>Pope Leo XIV met six victims of clerical abuse in Peru on Thursday, including people linked to the disbanded Sodalitium Christianae Vitae. The US-born pontiff also urged the Catholic Church to make amends to survivors and strengthen protections against abuse as he returned to the country where he served for nearly two decades.</description>
 <enclosure url="https://s.france24.com/media/display/74ed1b6a-ded2-11f1-a1e7-695cb59fade5/w:1024/p:16x9/e508fb7b23659b4d2a2f46189ca72db15c5d2dbc.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/74ed1b6a-ded2-11f1-a1e7-695cb59fade5/w:1024/p:16x9/e508fb7b23659b4d2a2f46189ca72db15c5d2dbc.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft Outlook outage stretches on for hours</title>
-<link>https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203</link>
-<guid isPermaLink="false">a85d5673103c75ab9e97c07ca815e97fdbe41008609c3a68a77805043ca46ce3</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 02:16:45 +0000</pubDate>
-<description>Microsoft is reporting "issues" with users accessing Outlook and Teams.</description>
-<enclosure url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Haitian police retake national stadium from gangs after two years</title>

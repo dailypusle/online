@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft Outlook outage stretches on for hours</title>
+<link>https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203</link>
+<guid isPermaLink="false">a85d5673103c75ab9e97c07ca815e97fdbe41008609c3a68a77805043ca46ce3</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 00:40:53 +0000</pubDate>
+<description>Microsoft is reporting "issues" with users accessing Outlook and Teams.</description>
+<enclosure url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Father accused of burying 11-month-old son alive denied bond</title>
+<link>https://abcnews.com/US/father-accused-burying-11-month-son-alive-denied/story?id=138090587</link>
+<guid isPermaLink="false">0cea21aaf658236656356a9b0b0c8b6b54819261796e7c667109cbf60ee09c89</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 00:14:27 +0000</pubDate>
+<description>After spending what is believed to be 24 hours underground, the baby was found by first responders Tuesday inside a dog crate buried in the woods, authorities said.</description>
+<enclosure url="https://s.abcnews.com/images/US/arrest-ht-er-261110_1794352739039_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/arrest-ht-er-261110_1794352739039_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Cindy Holscher wins in Kansas, holding governor's office for Democrats</title>
 <link>https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson</link>
 <guid isPermaLink="false">a641096b78c7e0ff99f36e0bfcd56a04f1c1180ff115ef7c3f6d682b9ef4f8e9</guid>
@@ -24,17 +46,6 @@
 <description>US officer who was arrested in the UK on suspicion of spying for Russia is 41-year-old Lt. Col. Brandon Tyner, according to a source familiar with the investigation.</description>
 <enclosure url="https://s.abcnews.com/images/Politics/allied-rapid-reaction-corp-gty-jt-261112_1794522855592_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Politics/allied-rapid-reaction-corp-gty-jt-261112_1794522855592_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Timeline of the stunning fall of Nvidia CEO Jensen Huang</title>
-<link>https://abcnews.com/Business/timeline-stunning-fall-powerful-nvidia-ceo-jensen-huang/story?id=138041659</link>
-<guid isPermaLink="false">aa92661fcf4f2ad7a1843c00a02ed0713fc7049b80a4cf97ce3efc6780d99c80</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 23:19:56 +0000</pubDate>
-<description>While the depths of the scandal have yet to be disclosed, here is a timeline indicating who knew what and when about Jensen Huang's affair with an alleged Chinese spy.</description>
-<enclosure url="https://s.abcnews.com/images/International/Alice-Huang-3-gty-gmh-261109_1794234738805_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/Alice-Huang-3-gty-gmh-261109_1794234738805_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Eight killed, including two children, in New York building collapse</title>
@@ -134,17 +145,6 @@
 <description>This week: A new report says more than 1,400 Africans have been recruited to fight for Russia in Ukraine since 2023. Also, as South Africa races to become Africa's digital gateway, a growing backlash is emerging in Cape Town. And music, dance and theatre lit up Abéché as the city's arts festival in Chad drew crowds of young spectators.</description>
 <enclosure url="https://s.france24.com/media/display/0fa95d74-deb7-11f1-91b4-3f371022a770/w:1024/p:16x9/MG00000333-VOD-00010414-01.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/0fa95d74-deb7-11f1-91b4-3f371022a770/w:1024/p:16x9/MG00000333-VOD-00010414-01.jpg" medium="image"/>
-</item>
-<item>
-<title>Outlook outage: Microsoft reports 'issues' with Teams and email</title>
-<link>https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203</link>
-<guid isPermaLink="false">a85d5673103c75ab9e97c07ca815e97fdbe41008609c3a68a77805043ca46ce3</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 21:21:22 +0000</pubDate>
-<description>Microsoft is reporting "issues" with users accessing Outlook and Teams.</description>
-<enclosure url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Ngo criticizes UN's response to massacre in South Sudan</title>

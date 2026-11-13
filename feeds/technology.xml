@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Jensen Huang was reckless with the environment, too</title>
+<link>https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution</link>
+<guid isPermaLink="false">a0496c5bf3e13becfa77bc15cf5e884ae0edce5e3221442341351daf7244af9d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 17:44:22 +0000</pubDate>
+<description>Jensen Huang gives a keynote address at the Berlin GPU Technology Conference on October 21st in Berlin. | Photo: Getty Images Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories , drained power grids from inside massive data centers , and set the stage for a looming e-waste problem . Under Huang's leadership, Nvidia clashed with environmental groups seeking to hold the company accountable for its so-called " hidden " emissions. Huang has talked up the idea of using AI to fight climate change while his company's supply chain emissions ballooned. Nvidia's investments, meanwhile, have support … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’</title>
+<link>https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news</link>
+<guid isPermaLink="false">cf8d6db662d1ba559978b7ae7655a0994a645125517912fa31c9d18b413509a8</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 17:37:35 +0000</pubDate>
+<description>Microsoft says services are improving after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has so far not received any reports that hospitals or clinics are impacted. Impact is largely restricted to the sending and receiving of email. Western Australia, along with jurisdictions around the world, is being impacted by a global Microsoft outage. We are receiving updates from the Commonwealth who are working with Microsoft at the most senior levels to resolve. Microsoft are prioritising life, safety and Government services. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f6f893e7c5d71be5e6f6352042ae972" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f6f893e7c5d71be5e6f6352042ae972" medium="image"/>
+</item>
+<item>
+<title>OpenAI board member worries an AI "takeover" of society could be months away</title>
+<link>https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns</link>
+<guid isPermaLink="false">4513c6ea6021e8f29c3821c0eaadcf6fcb7d5c9606746aa3485fcbc080294108</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 17:25:45 +0000</pubDate>
+<description>How do you think you're going to die? If you go by the current statistics for deaths in the US , it's reasonable to expect that cancer or heart disease will eventually get you. But OpenAI Foundation board member and Alignment Research Center Executive Director Paul Cristiano thinks we should all be worried about another major mortality risk. Speaking at a lecture series this week , Cristiano bluntly told the audience in a Toronto Convention Center, "I think for most people in this room, the most likely reason they will die is because of an AI accident." In the opening lecture of a three-part series , Cristiano outlined his worries about the risk of an impending "AI takeover." He defined that as a situation where goal-pursuing AI systems "call the shots in the same sense that humans today call the shots and what happens on Earth" and where any human trying to stop them "would be as ineffective as if you or me was trying to stop the US military." Such a situation would likely lead to mass death and perhaps uninhabitable environments for humans, Cristiano said. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>You can now tempt fate and give your banking information to ChatGPT</title>
+<link>https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt</link>
+<guid isPermaLink="false">c42f14bcd545ec2cd1ec83d10cc226df45897c4e5318fd67a25455df5136730f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 17:17:51 +0000</pubDate>
+<description>The new Wallet feature will allow its AI agents to make purchases on your behalf.</description>
+<enclosure url="https://www.engadget.com/img/gallery/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/l-intro-1794590211.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/l-intro-1794590211.jpg" medium="image"/>
+</item>
+<item>
+<title>The smallest version of Camp Snap’s retro digital camcorder fits on your keychain</title>
+<link>https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain</link>
+<guid isPermaLink="false">17f616ec71adfcbc5f9467026596e112234837212eb453706e7cf7ad05ba3562</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 17:12:56 +0000</pubDate>
+<description>Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the CS-8 Mini. It's around three inches long and weighs just 1.5 ounces so you can hang it from your keys and, like its larger predecessors, it can capture video using one of five built-in filters. The CS-8 Micro is now available through Camp Snap's online store and Urban Outfitters for $39.99 , and similar to the collectible Kodak Charmera , the … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnapA.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnapA.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Mozilla leaves Solo website owners to go it alone as hosting shuts down</title>
 <link>https://www.theregister.com/software/2026/11/13/mozilla-leaves-solo-website-owners-to-go-it-alone-as-hosting-shuts-down/5309632</link>
 <guid isPermaLink="false">354c3234708920a06e6a1bde07595a554b780d541cde91709650f72bd4f163a2</guid>
@@ -37,6 +92,17 @@
 <media:content url="https://image.theregister.com/?imageId=5269514&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths</title>
+<link>https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</link>
+<guid isPermaLink="false">12990af15e181ab96cfcd59af6eb8fe359a02784c42db964df77ea8b1b569aeb</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 16:38:27 +0000</pubDate>
+<description>Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleteness theorems , published in 1931, transformed mathematics and paved the way for the digital age. After his seminal results of the 1930s, Gödel published only a few papers. His unpublished work, however, runs to tens of thousands of pages, and is of great interest to historians of science. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b797ff9c0dff69a4ff54e8710b2790de" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b797ff9c0dff69a4ff54e8710b2790de" medium="image"/>
+</item>
+<item>
 <title>Microsoft services are returning after an outage took down Outlook, Teams and more</title>
 <link>https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more</link>
 <guid isPermaLink="false">866bc7ba8f0a82bdf4c7d46e5040942582ed8e12fd85a8aa051bb7505de5b0de</guid>
@@ -46,17 +112,6 @@
 <description>The House of Representatives, health care providers, schools and many other organizations were affected.</description>
 <enclosure url="https://www.engadget.com/img/gallery/microsoft-services-are-gradually-returning-after-an-outage-took-down-outlook-teams-and-more/l-intro-1794587621.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/microsoft-services-are-gradually-returning-after-an-outage-took-down-outlook-teams-and-more/l-intro-1794587621.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft outage live: millions still affected as disruption stretches beyond 18 hours</title>
-<link>https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news</link>
-<guid isPermaLink="false">cf8d6db662d1ba559978b7ae7655a0994a645125517912fa31c9d18b413509a8</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 16:32:21 +0000</pubDate>
-<description>Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has so far not received any reports that hospitals or clinics are impacted. Impact is largely restricted to the sending and receiving of email. Western Australia, along with jurisdictions around the world, is being impacted by a global Microsoft outage. We are receiving updates from the Commonwealth who are working with Microsoft at the most senior levels to resolve. Microsoft are prioritising life, safety and Government services. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df85051cceb44ee69fff379851687628" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df85051cceb44ee69fff379851687628" medium="image"/>
 </item>
 <item>
 <title>Windows 0-day dropped by disgruntled researcher hands hackers System rights</title>
@@ -230,7 +285,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 13 Nov 2026 14:29:15 +0000</pubDate>
-<description>ANTALYA, Turkey—Amid upbeat green-tech pep talks and notices for happy hours at the annual United Nations COP31 climate change conference on Thursday, two new reports offered a stark reminder of how far the world remains from containing global warming. Climate Action Tracker , a nonprofit group that analyzes climate policies, found that the planet is still on track to warm nearly 5 degrees Fahrenheit by 2100, a rise that would devastate coral reefs, disrupt agriculture and forests and melt most of the world’s ice. In a separate bulletin, the European Union’s Copernicus climate change service reported that global warming has accelerated significantly since the 2015 Paris climate agreement . When the Paris agreement was adopted, the average global temperature was projected to surpass the pact’s long-term threshold of 2.7 degrees Fahrenheit above the preindustrial average around 2045. After another decade of global climate summits, warming is now projected to cross that benchmark as soon as 2029, according to Copernicus. Read full article Comments</description>
+<description>ANTALYA, Turkey—Amid upbeat green-tech pep talks and notices for happy hours at the annual United Nations COP31 climate change conference on Thursday, two new reports offered a stark reminder of how far the world remains from containing global warming. Climate Action Tracker , a nonprofit group that analyzes climate policies, found that the planet is still on track to warm nearly 5° Fahrenheit by 2100, a rise that would devastate coral reefs, disrupt agriculture and forests and melt most of the world’s ice. In a separate bulletin, the European Union’s Copernicus climate change service reported that global warming has accelerated significantly since the 2015 Paris climate agreement . When the Paris agreement was adopted, the average global temperature was projected to surpass the pact’s long-term threshold of 2.7° Fahrenheit above the preindustrial average around 2045. After another decade of global climate summits, warming is now projected to cross that benchmark as soon as 2029, according to Copernicus. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg" medium="image"/>
 </item>
@@ -244,17 +299,6 @@
 <description>Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief’s signature look is now being mocked as a midlife crisis cliche For nearly two decades a black leather jacket has been a key part of Jensen Huang’s look. Now it has become a punchline. As the founder and chief executive of Nvidia resigned this week after reports of multiple affairs, his affinity for a leather jacket, an item of clothing typically associated with a man in midlife crisis mode, has become widely mocked. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ceb8d0c2e30a973c8dfa3940f4e5216c833fc9b5/0_577_4069_3255/master/4069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f63e9605e29b54549e85f136d04f1f6" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ceb8d0c2e30a973c8dfa3940f4e5216c833fc9b5/0_577_4069_3255/master/4069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f63e9605e29b54549e85f136d04f1f6" medium="image"/>
-</item>
-<item>
-<title>Claude’s Duet agent is a little neurotic and surprisingly helpful</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
-<guid isPermaLink="false">0acc674430dfd202ca5a420ecc9e95b9e298e0fae8a88be07e7fd89edd12f879</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
-<description>Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant , Meta offered us its cute little guy, Muse, to help us buy things , and OpenAI gave us the more work-oriented Dots . Claude Duet is even more focused on work than those. It's also more consumer-friendly than Claude Cowork , which was more consumer-friendly than Claude Code - the co … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The Motorola Signature 27 is a beast</title>
@@ -301,17 +345,6 @@
 <media:content url="https://image.theregister.com/?imageId=246156&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Apple should have made the MacBook logo RGB</title>
-<link>https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors</link>
-<guid isPermaLink="false">5b81173ace7b8649a7c1b1fb36d4b4ba9486588bd896ca6a15f81b437c033f4f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 13:00:00 +0000</pubDate>
-<description>Get that apple back to its rainbow roots, but for a new generation. | Image: The Verge When Apple CEO John Ternus announced the first touchscreen Mac last month, the biggest reaction in the room wasn't for the PROLED MacBook Pro 's OLED touchscreen or the thinner and lighter chassis; it was for the illuminated lid logo. It's a throwback to the light-up logos on the old MacBooks, which Apple started phasing out in 2015 , and which were completely gone by the 2018 MacBook Air redesign . It's a nostalgia play, but boy did it work. It's fun! Just like in the old days, the new logo's brightness is linked to the screen's: The brighter or dimmer the screen, the brighter or dimmer the logo. But the light-up logo on the old MacBooks was … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268868_Apple_added_LEDs_to_its_logo_on_the_MacBook_Pro_and_now_I_want_RGB_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268868_Apple_added_LEDs_to_its_logo_on_the_MacBook_Pro_and_now_I_want_RGB_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple</title>
 <link>https://www.engadget.com/2314873/surface-laptop-ultra-review</link>
 <guid isPermaLink="false">f3c0c58cf1043e5721cfa57a44b06f5bf9b21d3f6ca3bf7c90e17ba64591fc5e</guid>
@@ -332,6 +365,17 @@
 <description>Bloomberg found evidence of a network of Chinese companies smuggling NVIDIA chips with Alice Huang at the center.</description>
 <enclosure url="https://www.engadget.com/img/gallery/companies-linked-to-alice-huang-reportedly-smuggled-nvidia-chips-installed-at-shanghai-data-center/l-intro-1794574510.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/companies-linked-to-alice-huang-reportedly-smuggled-nvidia-chips-installed-at-shanghai-data-center/l-intro-1794574510.jpg" medium="image"/>
+</item>
+<item>
+<title>The dark side of reselling apps: ‘If you include your pants, I’ll pay more’</title>
+<link>https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection</link>
+<guid isPermaLink="false">7fffd49f765e68a7006530ab0782f2c915150bc941ae19885b5761c5c06a6173</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 12:54:16 +0000</pubDate>
+<description>Ministers consider banning under-16s from online marketplaces amid reported misuse of messaging functions and users’ photos In June, Hannah* listed her seven-year-old daughter’s pink swimming costume for sale on Vinted, hoping other parents surfing the reselling site would snap up the £1 offer. Her inbox pinged. “So a little girl wore this yh [yeah]?” wrote a user with a male handle. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/511023e145af02db32408f6e5b7af4f569939599/339_0_3505_2804/master/3505.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59d023785abf2393e4744206bea23cf2" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/511023e145af02db32408f6e5b7af4f569939599/339_0_3505_2804/master/3505.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59d023785abf2393e4744206bea23cf2" medium="image"/>
 </item>
 <item>
 <title>Palantir adds three UK police forces to its beat with £10.1M deal</title>
@@ -664,7 +708,7 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp" medium="image"/>
 </item>
 <item>
-<title>Microsoft outage continues into Friday – what we know</title>
+<title>Microsoft is repairing Thursday’s global outage – what we know</title>
 <link>https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot</link>
 <guid isPermaLink="false">11f7ed8de9f18ad627bf167484b9a4161818280f0f75f78ff0d5a50927325a77</guid>
 <source>ZDNET</source>
@@ -1005,17 +1049,6 @@
 <media:content url="https://image.theregister.com/?imageId=5309407&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Nvidia CEO Jensen Huang has resigned</title>
-<link>https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia</link>
-<guid isPermaLink="false">57364581a5052ad006a2bc2979636e995e785890dd3671be7913c30607d7e524</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 14:05:17 +0000</pubDate>
-<description>Nvidia chief executive Jensen Huang has resigned following revelations that he had two extramarital affairs, plunging the chipmaker at the heart of the global AI boom into crisis. The 63-year-old will be replaced by chief financial officer Colette Kress, who will serve as interim chief executive. His exit comes after he admitted to having a relationship with a woman that US authorities believe was a Chinese spy. It also emerged on Wednesday that Huang had an affair with a senior Nvidia executive. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Jensen Huang is out as NVIDIA CEO</title>
 <link>https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo</link>
 <guid isPermaLink="false">6b3e487dca76a1e4cff05a556944ac809c15f38fb655e164a27060178d71e494</guid>
@@ -1148,17 +1181,6 @@
 <media:content url="https://image.theregister.com/?imageId=5223019&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Nintendo is ending Google and Apple sign-ins early next year</title>
-<link>https://www.engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year</link>
-<guid isPermaLink="false">8d1608bf97dc9598a5e42532ed226790e79b25a2e94c50974bba6579521c83c5</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 11:19:46 +0000</pubDate>
-<description>You'll soon no longer be able to use Google and Apple log-ins to access Nintendo.</description>
-<enclosure url="https://www.engadget.com/img/gallery/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/l-intro-1794482262.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/l-intro-1794482262.jpg" medium="image"/>
-</item>
-<item>
 <title>Rockstar workers vote on union recognition as GTA VI launch looms</title>
 <link>https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319</link>
 <guid isPermaLink="false">c132081ab72fc09cc9e8573deb9033bf854a427f77af5a0da6cdc6094613d65c</guid>
@@ -1258,17 +1280,6 @@
 <media:content url="https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04bcc8930b4a3285d3852162417607a8" medium="image"/>
 </item>
 <item>
-<title>Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair</title>
-<link>https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair</link>
-<guid isPermaLink="false">ce5e1fa823cbaec20cf97d98a0e7ad209b2a120ef339b739721980ed04149064</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 06:43:31 +0000</pubDate>
-<description>In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of America’s most powerful tech companies. Many questions have arisen since it emerged that US intelligence believes that Huang (no relation of Jensen’s) is an asset recruited by the Chinese intelligence services to spy on behalf of Beijing. This morning’s newsletter explains what we know about the story, and what it tells us about the effectiveness of Chinese espionage. That’s after the headlines. UK | Ministers are considering changing the law to force the entertainment industry to better protect women and children in the wake of the revelations over David Walliams and the conviction of Russell Brand. Climate | The UK government has appointed the world’s first special representative for climate security, in the strongest sign yet of fears that climate breakdown will bring chaos to the country. US midterms | Democrat Scott Colom has become the first Black senator in Mississippi to be elected since Reconstruction, in a stunning upset after more than a week of vote counting in one of the country’s most reliably red states. Europe | Millions of people across Spain have joined the country’s first general strike in 14 years , setting up picket lines to protest against soaring housing prices before an election in which the far right could be catapulted into power. Technology | Police officers risk arresting innocent people , especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c960a0216c5de7760bfadc810db2274f" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c960a0216c5de7760bfadc810db2274f" medium="image"/>
-</item>
-<item>
 <title>AWS distills its cloud into a local emulator that runs on your PC</title>
 <link>https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251</link>
 <guid isPermaLink="false">8e891bacf51bdd23aa4c1d78c2960aa26f3fbae69709a55dd4617952ff14d203</guid>
@@ -1278,17 +1289,6 @@
 <description>AWS has released an emulator that kind-of-almost lets you use its cloud on a PC. As explained in the GitHub repository for the prosaically named “AWS Emulator,” the tool “is a local program that serves an AWS API endpoint.” The emulator doesn’t replicate the whole AWS cloud, instead offering its APIs. “You use it to test your software without calling AWS, on your own machine, on a development server, or in continuous integration (CI),” the repo explains. Because those tests never touch the AWS cloud, the tool is free to use. AWS wrote the emulator in Rust, a choice that senior specialist solutions architect Daniel Abib wrote helps to ensure the tool “stays light on CPU and memory on a laptop.” The emulator tool doesn’t replicate the entire AWS cloud. Abib said it supports the APIs of AWS services that have an API model in the AWS API models repository on GitHub . The Register found over 1,300 items on that page. While the tool lets developers test APIs, it doesn’t replicate anywhere near all the features of the Amazonian cloud. “It doesn’t evaluate IAM [Identity and Access Management] policies the way AWS does, and each emulator acts as a single account, with no cross-account or cross-Region behavior,” Abib wrote, adding “How closely it matches AWS varies by service and feature.” AWS publishes “fidelity scores” that detail how closely the emulator works on different AWS services. Amazon tries to achieve full fidelity, so the emulator produces the same results as AWS for valid API calls, and the same errors for invalid ones. Coding agents can also drive the Emulator, an option The Register mentions because AWS advises the easiest way to check if a project will work with the tool is to use the aws-emulator skill for AI coding agents. “With the skill, your agent finds the AWS operations and resources that your project depends on. It checks them against the fidelity tests and fidelity scores for the emulator. It then tells you which parts of your project you can rely on the emulator for, and which ones might behave differently from AWS,” according to AWS documentation. AWS has made the emulator available as an RPM or Debian package. Mac and PC users will need to run Docker and an image of the Emulator. “You install the emulator, start it, and point your tools at the local endpoint,” Abib instructed. “When AWS Emulator starts, it generates its own credentials, a config file, and a certificate, and writes them to ~/.aws/emulator/9297/ . You set environment variables so the AWS SDK talks to your laptop instead of AWS, and your application code stays unchanged.” “From there, your existing tests, CLI scripts, and coding agents keep working the way they already do. A unit test that creates an Amazon DynamoDB table, writes an item, and reads it back is the same test, and it runs on your machine without a deployment.” The cloud colossus’s intent appears, as ever, to encourage more use of its cloud – in this case by satisfying developers their code will run w</description>
 <enclosure url="https://image.theregister.com/?imageId=5309256&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309256&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>You had me at LOL: some notes for the You’ve Got Mail reboot</title>
-<link>https://www.theguardian.com/film/2026/nov/12/youve-got-mail-reboot-email</link>
-<guid isPermaLink="false">62739605962a31f1f4f5842542b4e2408a7d22b8e46e00a9fc7a573b6eebed7e</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 05:00:10 +0000</pubDate>
-<description>Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches Assuming you have already heard about the You’ve Got Mail reboot, you are probably in one of two states. You are either excited that the news might be a signal of a long overdue romcom resurgence, or you are embittered because it’s another sign that Hollywood has run out of original ideas. I hold absolutely no truck with the latter view. Quite frankly, if there was ever a film in dire need of a reboot, then it’s You’ve Got Mail. The film is almost 28 years old, and it shows every single day of its age. You’ve seen it, you know how it goes. It’s about two people who use the futuristic new technology of email (email is no longer new) to communicate, despite being rival booksellers ( nobody reads books any more ), and eventually begin a relationship ( nobody wants to be in a relationship any more ). The whole thing is preposterous. Of course they should try again. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/d4876fbb6e84518f1d6e3c49077a93e7c33549ad/171_0_1500_1200/master/1500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=358740e6ba584d2a6a534853ad614a51" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/d4876fbb6e84518f1d6e3c49077a93e7c33549ad/171_0_1500_1200/master/1500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=358740e6ba584d2a6a534853ad614a51" medium="image"/>
 </item>
 <item>
 <title>Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates</title>

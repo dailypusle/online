@@ -4,15 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Maryland Sen. Van Hollen says he will challenge Sen. Schumer for Democratic leader</title>
-<link>https://abcnews.com/Politics/maryland-sen-chris-van-hollen-challenge-sen-chuck/story?id=138097994</link>
-<guid isPermaLink="false">e6eef2c71fc5fde4e3427222d3283bfd606cba26ff18b2a6f675900ad39585d4</guid>
+<title>What we know about victims of deadly Brooklyn building collapse</title>
+<link>https://abcnews.com/US/victims-deadly-brooklyn-building-collapse/story?id=138098954</link>
+<guid isPermaLink="false">af311d84e09a1a26c3974f0b789078672fe5d8169023b95871865940aeedf0ed</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 13 Nov 2026 02:42:15 +0000</pubDate>
-<description>Van Hollen said the party needs "new leadership" in social media post.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/AP26132772766200_1794536044314_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/AP26132772766200_1794536044314_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Fri, 13 Nov 2026 03:53:41 +0000</pubDate>
+<description>Two children, ages 9 and 10, were among those killed, according to authorities.</description>
+<enclosure url="https://s.abcnews.com/images/US/2304318268_1794541308058_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/2304318268_1794541308058_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader</title>
+<link>https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader</link>
+<guid isPermaLink="false">1eb2fc1e8377f321a8e922a95a3e9d856ab7ae9a57c06e92e404312410f60019</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 03:52:25 +0000</pubDate>
+<description>Van Hollen, a progressive from Maryland, said voters sent a clear message in the midterm elections — that they want "change from the status quo." (Image credit: Stephen Maturen)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4811x3289+0+0/resize/4811x3289!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2Fdd%2F332d58b44e4e9507fa1047877405%2Fgettyimages-2288943476.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4811x3289+0+0/resize/4811x3289!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2Fdd%2F332d58b44e4e9507fa1047877405%2Fgettyimages-2288943476.jpg" medium="image"/>
+</item>
+<item>
+<title>Major Microsoft Outlook outage disrupts services in 74 countries</title>
+<link>https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries</link>
+<guid isPermaLink="false">c62f0aa5462b18bf992df32c18182437b7aaf3553685e43e4799884dc46d9c1b</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 03:44:22 +0000</pubDate>
+<description>Microsoft services including Outlook, Teams and Copilot suffered a worldwide outage on Thursday, disrupting access for tens of thousands of users across 74 countries and territories. The company blamed elevated infrastructure loads and said it was working to restore services, but recovery remained limited hours later.</description>
+<enclosure url="https://s.france24.com/media/display/70b604ac-deec-11f1-93fd-3f371022a770/w:1024/p:16x9/edca650364d04128c2ba1180b1d2b3e7b3ececc7.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/70b604ac-deec-11f1-93fd-3f371022a770/w:1024/p:16x9/edca650364d04128c2ba1180b1d2b3e7b3ececc7.jpg" medium="image"/>
+</item>
+<item>
+<title>Pope Leo XIV meets abuse victims in Peru, says Church must make 'amends'</title>
+<link>https://www.france24.com/en/americas/20261113-pope-leo-xiv-meets-abuse-victims-in-peru-says-church-must-make-amends</link>
+<guid isPermaLink="false">e6391118a16846244bb001bc23701718f6e4fab274f5ee0260c010a6a4b1d9f6</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 02:58:33 +0000</pubDate>
+<description>Pope Leo XIV met six victims of clerical abuse in Peru on Thursday, including people linked to the disbanded Sodalitium Christianae Vitae. The US-born pontiff also urged the Catholic Church to make amends to survivors and strengthen protections against abuse as he returned to the country where he served for nearly two decades.</description>
+<enclosure url="https://s.france24.com/media/display/74ed1b6a-ded2-11f1-a1e7-695cb59fade5/w:1024/p:16x9/e508fb7b23659b4d2a2f46189ca72db15c5d2dbc.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/74ed1b6a-ded2-11f1-a1e7-695cb59fade5/w:1024/p:16x9/e508fb7b23659b4d2a2f46189ca72db15c5d2dbc.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft Outlook outage stretches on for hours</title>
@@ -90,6 +123,17 @@
 <description>A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts. (Image credit: Lindsey Wasson)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4799x3199+0+0/resize/4799x3199!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2F97%2Fb2168dc9402c9b30f325585f85b5%2Fap26316685909733.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4799x3199+0+0/resize/4799x3199!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2F97%2Fb2168dc9402c9b30f325585f85b5%2Fap26316685909733.jpg" medium="image"/>
+</item>
+<item>
+<title>FBI seizes $1.2bn stolen in Binance cryptocurrency hack</title>
+<link>https://news.sky.com/story/fbi-seizes-12bn-stolen-in-binance-cryptocurrency-hack-13611753</link>
+<guid isPermaLink="false">03de5a6c01951d4a1dc22a5bf66d96479a725b3cfc321ac10631e03d9051d5e9</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 00:50:00 +0000</pubDate>
+<description>The FBI has seized more than $1.2bn (£910m) of cryptocurrency stolen from Binance last month.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-binance-cryptocurrencies_7405526.jpg?20261113014837" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-binance-cryptocurrencies_7405526.jpg?20261113014837" medium="image"/>
 </item>
 <item>
 <title>Cindy Holscher wins in Kansas, holding governor's office for Democrats</title>
@@ -477,28 +521,6 @@
 <media:content url="https://s.abcnews.com/images/US/wirestory_2e8f9b619c009ddc183d1a80eb21629a_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran</title>
-<link>https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan</link>
-<guid isPermaLink="false">13c8bcd20e3ad90b3813c94ef1e9868c81cb17fddcdbf05ded495f1110434c99</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 16:03:26 +0000</pubDate>
-<description>Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar al-Assad’s government in Syria in 2024. FRANCE 24 used "martyrdom” announcements and the geolocation of videos shared on social media to trace their presence.</description>
-<enclosure url="https://s.france24.com/media/display/84498144-dea4-11f1-ad4b-3f371022a770/w:1024/p:16x9/fat-main-photo.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/84498144-dea4-11f1-ad4b-3f371022a770/w:1024/p:16x9/fat-main-photo.jpg" medium="image"/>
-</item>
-<item>
-<title>At least five people shot in DC neighbourhood near the White House</title>
-<link>https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house</link>
-<guid isPermaLink="false">c1ab95e70108a470adb94694142814eca22d986f6f1d31fc239214e910e64043</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 16:01:57 +0000</pubDate>
-<description>At least one person died after five people were shot early Thursday in a Washington, DC neighbourhood near the White House, police said. A swarm of officers responded to a nearby apartment building where a suspect was barricaded and later shot himself.</description>
-<enclosure url="https://s.france24.com/media/display/e0e7178a-deaa-11f1-a92b-5f54d898a954/w:1024/p:16x9/AP26316527860423.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/e0e7178a-deaa-11f1-a92b-5f54d898a954/w:1024/p:16x9/AP26316527860423.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: United Airlines banning AI bots from booking flights</title>
 <link>https://abcnews.com/video/138074238</link>
 <guid isPermaLink="false">879dea5d9394ce231d761e29bdc27257886140e78d3845f17bcab55cca9a8d95</guid>
@@ -519,17 +541,6 @@
 <description>The visit marks Pope Leo’s first return to the country where he served as a missionary and bishop for nearly two decades.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261112_gma_pope1_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261112_gma_pope1_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi</title>
-<link>https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks</link>
-<guid isPermaLink="false">6b73f0b62348ddebd0db5e47f03e2ceb56efe951d7d9ba359ea564e9daca5d2e</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 15:26:34 +0000</pubDate>
-<description>Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy. (Image credit: Vyacheslav Prokofyev)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4300x2867+0+0/resize/4300x2867!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2F97%2F6f0afe7d4fec85c8bfe4b77d0164%2Fap26316483363429.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4300x2867+0+0/resize/4300x2867!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2F97%2F6f0afe7d4fec85c8bfe4b77d0164%2Fap26316483363429.jpg" medium="image"/>
 </item>
 <item>
 <title>Witkoff and Kushner arrive in Moscow to meet with Putin, discuss Ukraine peace talks</title>

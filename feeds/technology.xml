@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>FAA orders third nationwide ground stop in its history</title>
+<link>https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history</link>
+<guid isPermaLink="false">bc782e87585c2bc12d9bf570144fbac77008736ba88351dfa8b41f78d7e21a88</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 23:17:38 +0000</pubDate>
+<description>On Friday afternoon, days after expanding use of an AI tool , the Federal Aviation Administration issued a nationwide ground stop, halting departures from all US airports. Secretary of Transportation Sean Duffy announced the ground stop on X , citing a "communication issue impacting all Air Route Traffic Control Centers." Duffy promised updates as more information is known and said FAA staff were troubleshooting the problem. Department of Homeland Security Secretary Markwayne Mullin said that the ground stop was not prompted by a security threat. "This is a telecommunications outage out of the FAA. Out of an abundance of caution, we have grounded all of the flights," Mullin said . "There's no indication as of yet that this is a nefarious attack against us." Mullin said the FAA would handle incoming international flights on a case-by-case basis. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Some international physical copies of GTA VI can allegedly be redeemed without opening the box</title>
+<link>https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box</link>
+<guid isPermaLink="false">091262ae80f8cd598858f2f785e164d985aa1a2b7da7bf608e1af9e95bbf21f3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 22:50:13 +0000</pubDate>
+<description>The box was already for decoration, and now maybe more so.</description>
+<enclosure url="https://www.engadget.com/img/gallery/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/l-intro-1794609739.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/l-intro-1794609739.jpg" medium="image"/>
+</item>
+<item>
 <title>Millions of Americans are not taking their GLP-1 drugs as prescribed</title>
 <link>https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways</link>
 <guid isPermaLink="false">b90e5ec0cd5c8a7a2ebce801d7a41661ce4602490e12c934d2a25a624c22a509</guid>
@@ -70,7 +92,7 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Microsoft outage: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened</title>
+<title>Microsoft ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened</title>
 <link>https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news</link>
 <guid isPermaLink="false">cf8d6db662d1ba559978b7ae7655a0994a645125517912fa31c9d18b413509a8</guid>
 <source>The Guardian Technology</source>
@@ -895,17 +917,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Building a rocket is hard. AST SpaceMobile thinks it's "simple."</title>
-<link>https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple</link>
-<guid isPermaLink="false">e893122854f76a0a204c1474d92ff12719526d1ee1eedaa820a3688ba857cd7b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 18:28:22 +0000</pubDate>
-<description>During an hour-long event on Thursday, Abel Avellan, the founder and chief executive of the telecommunications company AST SpaceMobile, laid out his vision for developing a large rocket to launch his Bluebird satellites into orbit. Avellan emphasized, over and over again, that AST plans to build a "simple" rocket. He paraphrased SpaceX founder Elon Musk several times, saying, "the best part is no part." Avellan emphasized that AST has already procured engines for its proposed Blacklift rocket, asserting that engine development accounts for 80 percent of a typical rocket's development cycle. "Of course rocket engineers are going to get mad with me, but you can simplify it as a big tank feeding engines," he said of the rocket. "So big tanks—we know how to do them. We know how to do them. We know how to do them in composite." Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift-500x500.webp" type="image/webp"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift-500x500.webp" medium="image"/>
-</item>
-<item>
 <title>Attention, Android power users: This app unlocks 30+ features you won’t find in Settings</title>
 <link>https://www.zdnet.com/tech/essentials-android-app-power-user-settings</link>
 <guid isPermaLink="false">140fea6844c0938bcd8b895bca11e8228604e669f77a42b1f4e9b630ff554c51</guid>
@@ -1124,17 +1135,6 @@
 <description>Yes, it's a bit attention-seeking, but some of these policies are genuinely good.</description>
 <enclosure url="https://www.engadget.com/img/gallery/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy/l-intro-1794448673.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy/l-intro-1794448673.jpg" medium="image"/>
-</item>
-<item>
-<title>The first batch of Android XR smartglasses made me rethink my stance on specs without displays</title>
-<link>https://www.engadget.com/2314258/android-xr-smartglasses-hands-on</link>
-<guid isPermaLink="false">b4ae5a1b3c7ddde1981fa351a2347296be8502f2b5c01780de3181b8673b89f5</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
-<description>Google's first run of intelligent eyewear has a lot to offer.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794495834.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794495834.jpg" medium="image"/>
 </item>
 <item>
 <title>Quantum leap: IBM plans to scale beyond 1,000 qubits in 2027 with Nighthawk r3 processor</title>

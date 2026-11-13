@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Nakamoto shares fall 6% premarket after Q3 revenue turns negative</title>
+<link>https://cointelegraph.com/news/nakamoto-shares-fall-after-negative-q3-revenue</link>
+<guid isPermaLink="false">a42e351b149ed0ad11917f2c1477e6650cd9df5e0a29507169ebb2dd55db8398</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 13 Nov 2026 13:04:19 +0000</pubDate>
+<description>A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y8ZNSF5WMPGFQ1661WSGAG/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y8ZNSF5WMPGFQ1661WSGAG/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-2.jpg" medium="image"/>
+</item>
+<item>
+<title>Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia</title>
+<link>https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia</link>
+<guid isPermaLink="false">6802f61084d46e4cf458ffd4bba61963c780019463b74ac09f3ce49b9c9b8efd</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Fri, 13 Nov 2026 13:03:40 +0000</pubDate>
+<description>Bitcoin fell all the way to $68,000 overnight and hit a new three-month low. But are there reasons for hope?</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Israeli police arrest five in $5M WhatsApp crypto trading probe</title>
+<link>https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme</link>
+<guid isPermaLink="false">1ee6652bc65925579e7cd0eb673c371f38cde58b7f3daa80d5f3fdf4eed045fe</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 13 Nov 2026 12:19:01 +0000</pubDate>
+<description>Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7A9KC13WNDH9B0FYB99Y1X5/hi-fundraising-101-a-beginners-guide-on-raising-funds-using-cryptocurrencies-israel.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7A9KC13WNDH9B0FYB99Y1X5/hi-fundraising-101-a-beginners-guide-on-raising-funds-using-cryptocurrencies-israel.jpg" medium="image"/>
+</item>
+<item>
 <title>Digital Credit: Comparing The Six Bitcoin Preferred Stocks</title>
 <link>https://bitcoinmagazine.com/bitcoin-for-corporations/digital-credit-comparing-the-six-bitcoin-preferred-stocks</link>
 <guid isPermaLink="false">cfffca45732efbb02086650c041915f1484728ca356dc3f22d04ebaaee96d502</guid>
@@ -54,7 +87,7 @@
 <source>Cointelegraph</source>
 <category>business</category>
 <pubDate>Fri, 13 Nov 2026 09:58:21 +0000</pubDate>
-<description>Unocoin said the transfers were signed outside BitGo’s platform while its account was frozen, possibly via a wallet recovery feature.</description>
+<description>Unocoin said the transfers were signed and broadcast outside BitGo’s platform, and BitGo said the account freeze worked as intended.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27X18G5K0AARQBBJ0SYKFK0/regulations-india-crypto.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27X18G5K0AARQBBJ0SYKFK0/regulations-india-crypto.jpg" medium="image"/>
 </item>
@@ -807,28 +840,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77BC08M1JK1359QWDPVF1FQ/blackrock-2-billion.png" medium="image"/>
 </item>
 <item>
-<title>South Korea to permit crypto withdrawal freezes during hacking threats</title>
-<link>https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks</link>
-<guid isPermaLink="false">2ef352086db2139d8909a3db27ad720f1c1cf87e216deadf97a53a13a51df842</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 05:54:48 +0000</pubDate>
-<description>The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack</title>
-<link>https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack</link>
-<guid isPermaLink="false">c3de32095d9c6a9a278fbea3aeeb10658640d226377285cf64128faa3d95f7dd</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 05:07:11 +0000</pubDate>
-<description>In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M772C3WKZ2V15SYTV41CF4T1/hi-a-fake-crypto-job-interview-nearly-installed-malware-on-my-computer.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M772C3WKZ2V15SYTV41CF4T1/hi-a-fake-crypto-job-interview-nearly-installed-malware-on-my-computer.jpg" medium="image"/>
-</item>
-<item>
 <title>Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom</title>
 <link>https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom</link>
 <guid isPermaLink="false">93a522a4cfac323c940d88f6a5ccfdd569d71949128fdd05121f994cae0c1cb5</guid>
@@ -1047,17 +1058,6 @@
 <description>Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal</title>
-<link>https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center</link>
-<guid isPermaLink="false">30234a21dc2f294616b985ca62ea916041e5a7e0f027dced7a3f366791a5c4bb</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 22:46:02 +0000</pubDate>
-<description>The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-mining-decrypt-style-03-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-mining-decrypt-style-03-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Alabama credit union to buy in-state bank</title>

@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Millions of Americans are not taking their GLP-1 drugs as prescribed</title>
+<link>https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways</link>
+<guid isPermaLink="false">b90e5ec0cd5c8a7a2ebce801d7a41661ce4602490e12c934d2a25a624c22a509</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 21:59:01 +0000</pubDate>
+<description>GLP-1 medications are everywhere these days. The peptide-based drugs are both highly effective and wildly popular for diabetes, weight loss and a growing range of connected chronic health conditions, including cardiovascular disease and obstructive sleep apnea. But, amid the boom, the latest data suggests millions of Americans have turned to unapproved versions and are using the potent drugs in ways doctors never intended, raising questions about what that real-world use means for safety and efficacy. In a study published this week , researchers at the Centers for Disease Control and Prevention broke down survey data of GLP-1 use collected between July and August of 2025. Based on responses from over 8,000 US adults, the researchers estimate that about one in 10 US adults (9.8 percent) used a glucagon-like peptide-1 receptor agonist, aka GLP-1 medication, in 2025. That's around 27 million adults. The study was published in the CDC's Morbidity and Mortality Weekly Report. Among GLP-1 users, nearly half (44 percent) reported using their GLP-1 in a way that was different from how it was prescribed. Users skipped doses, delayed getting refills, and used smaller doses than prescribed, among other changes. More than half of the people modifying how they used the drug said the changes were because of cost or availability reasons. Cost and access barriers were most pronounced among younger GLP-1 users. Fifty-eight percent of adults 14­–39 years old who modified their use cited cost as a barrier, compared with just 20 percent of adults 65 or older who said the same. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft doesn’t ‘have an ETA for full recovery’ on outage yet</title>
+<link>https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot</link>
+<guid isPermaLink="false">11f7ed8de9f18ad627bf167484b9a4161818280f0f75f78ff0d5a50927325a77</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 21:43:32 +0000</pubDate>
+<description>One think tank’s estimate puts the cost of the outage at $7 billion.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg" medium="image"/>
+</item>
+<item>
+<title>FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
+<link>https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace</link>
+<guid isPermaLink="false">05648108c87680dd8673b71ce65f542756e08e645419398729eb6402c7ad7053</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 21:20:47 +0000</pubDate>
+<description>The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891</link>
 <guid isPermaLink="false">1779e3b0ec0f17c1d89fd487726ed4b458fb8008e535d64ec7a1ac0b66af1614</guid>
@@ -159,8 +192,8 @@
 </item>
 <item>
 <title>OpenAI board member worries an AI "takeover" of society could be months away</title>
-<link>https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns</link>
-<guid isPermaLink="false">1d1e738fdbd05fab38e47bfc6b3077494bd58a164daa5380e04e1d3bb872739e</guid>
+<link>https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns</link>
+<guid isPermaLink="false">4513c6ea6021e8f29c3821c0eaadcf6fcb7d5c9606746aa3485fcbc080294108</guid>
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 13 Nov 2026 17:25:45 +0000</pubDate>
@@ -686,17 +719,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer-500x500.jpg" medium="image"/>
 </item>
 <item>
-<title>FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
-<link>https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace</link>
-<guid isPermaLink="false">6a0b530a1c16bbaf1bc5d3ae6c57079f9a4b0ac9867368de3ddf512f9e113b4d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 22:28:47 +0000</pubDate>
-<description>The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Google promises its new smart specs won't give creeps their ideal view</title>
 <link>https://www.theregister.com/personal-tech/2026/11/12/google-promises-its-new-smart-specs-wont-give-creeps-their-ideal-view/5309497</link>
 <guid isPermaLink="false">9d9e33776d563fda725d3431fbce5b92a3ff9a82f1da3a5bc4b5ed7c0045fcb5</guid>
@@ -772,17 +794,6 @@
 <description>So, you think you're an Elder Scrolls superfan? You say you've been there since The Elder Scrolls Arena on MS-DOS and have logged hundreds of hours in The Elder Scrolls Online ? You say you've bought all of the roughly 5,000 re-releases and remasters of Skyrim that have been made available in the last 15 years? Tell me, then: What do you think of The Elder Scrolls Travels: Shadowkey ? What's that? You've never played Shadowkey ? You weren't there day one back in 2004, Nokia N-Gage in hand , ready to experience the game's 176 x 208 resolution mobile hack-and-slash RPG combat for yourself? And you call yourself a real Elder Scrolls fan? Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp" type="image/webp"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp" medium="image"/>
-</item>
-<item>
-<title>Microsoft is repairing Thursday’s global outage – what we know</title>
-<link>https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot</link>
-<guid isPermaLink="false">11f7ed8de9f18ad627bf167484b9a4161818280f0f75f78ff0d5a50927325a77</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 19:45:52 +0000</pubDate>
-<description>The company is steadily restoring service and thinks a software update may be to blame.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg" medium="image"/>
 </item>
 <item>
 <title>Who is Colette Kress, NVIDIA's interim CEO?</title>
@@ -893,17 +904,6 @@
 <description>During an hour-long event on Thursday, Abel Avellan, the founder and chief executive of the telecommunications company AST SpaceMobile, laid out his vision for developing a large rocket to launch his Bluebird satellites into orbit. Avellan emphasized, over and over again, that AST plans to build a "simple" rocket. He paraphrased SpaceX founder Elon Musk several times, saying, "the best part is no part." Avellan emphasized that AST has already procured engines for its proposed Blacklift rocket, asserting that engine development accounts for 80 percent of a typical rocket's development cycle. "Of course rocket engineers are going to get mad with me, but you can simplify it as a big tank feeding engines," he said of the rocket. "So big tanks—we know how to do them. We know how to do them. We know how to do them in composite." Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift-500x500.webp" type="image/webp"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift-500x500.webp" medium="image"/>
-</item>
-<item>
-<title>Man's secret use of synthetic testosterone for cows nearly destroyed his heart</title>
-<link>https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart</link>
-<guid isPermaLink="false">7a5678a756d7a5d6c33abfc136a8ff7e0550a622d8f6a293bd04eb53376bd70e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 18:17:19 +0000</pubDate>
-<description>For 11 years, a Massachusetts man had an alarming array of health problems, most notably that his heart kept failing. He landed in the hospital over and over again, needed life support at one point, spent years going to specialists, and underwent a barrage of tests along the way. But through it all, he never revealed a key detail behind his ailments: He was taking powerful, illicit synthetic testosterone derivatives (aka anabolic-androgenic steroids, or AAS). One of the drugs he took was approved only for use in animals; it's primarily used to beef up cows. Left in the dark, his doctors had to puzzle this out on their own. In a case report in this week's issue of the New England Journal of Medicine, they explain how they did it. They also offer a warning: These cases will only become more common, and clinicians need to know what they look like. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Attention, Android power users: This app unlocks 30+ features you won’t find in Settings</title>

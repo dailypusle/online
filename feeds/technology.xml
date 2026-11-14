@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Starship flight 15 powers to orbit—setting up a possible catch on Saturday</title>
+<link>https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday</link>
+<guid isPermaLink="false">1b95d3d772c741e3eeb475a18eb03d28620dd52b0417d6d23c5dc867d1c96f3d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Sat, 14 Nov 2026 00:49:13 +0000</pubDate>
+<description>STARBASE, Texas—Starship lifted off right on schedule Friday from South Texas, making its 15th test flight in more than three years. The largely successful launch took place in the early evening; as the massive rocket rose into the atmosphere, the Sun sank toward the western horizon. Conditions were ideal for the launch, with the atmospheric winds so calm the rocket’s white plume did not dissipate for many minutes. The weather in South Texas is not always comfortable; summers are long and hot. Friday evening was perfect at Starbase. The first stage ascended toward space flawlessly, releasing the upper stage above the Gulf of Mexico. From there, the Starship upper stage ignited its Raptor engines and powered its way into a nominal orbit. This was the second time SpaceX has flown Starship into low-Earth orbit. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon has a plan to index the world’s online shopping data</title>
+<link>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</link>
+<guid isPermaLink="false">96048276e5de0ccf8cbe79a81bae4da5ea80b981a5cdccf2d6da1abf2b97079e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
+<description>Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters . The project, called the "World Product Graph," is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others, so even people shopping with bots will end … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>FAA orders third nationwide ground stop in its history</title>
 <link>https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history</link>
 <guid isPermaLink="false">bc782e87585c2bc12d9bf570144fbac77008736ba88351dfa8b41f78d7e21a88</guid>
@@ -24,6 +46,17 @@
 <description>The box was already for decoration, and now maybe more so.</description>
 <enclosure url="https://www.engadget.com/img/gallery/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/l-intro-1794609739.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/l-intro-1794609739.jpg" medium="image"/>
+</item>
+<item>
+<title>All US flights grounded by FAA</title>
+<link>https://www.theregister.com/offbeat/2026/11/13/all-us-flights-grounded-by-faa/5309912</link>
+<guid isPermaLink="false">47c4fbfe2cc082526b94026e71880f015e7a19fa0e91dfc8033e1def8fb9c40e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 22:42:28 +0000</pubDate>
+<description>The US Federal Aviation Administration on Friday issued an advisory that prevents the takeoff of flights in US airspace, creating chaos for travelers and airports. "The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers," said US Transportation Secretary Sean Duffy in a statement. "FAA technicians are investigating the issue. We will provide immediate updates as we have them." A spokesperson at the FAA press office reached by phone said he was unable to provide further information. And an email response from the agency repeated Duffy's statement. The FAA ATCSCC advisory halts departing flights and says international flights will be dealt with individually. The notice says, "Due to extraordinary circumstances and for reasons of safety. Attention all aircraft operators, by order of the Federal Aviation Command Center all airports are ground stopped. All departing traffic should remain stopped until further notice. Inbound international flights will be managed on a case by case basis." Doug Yakel, public information officer for San Francisco International Airport, said, "FAA confirms nationwide ground stop, other reporting indicates a communications issue between Air Route Traffic Control Centers (ARTCCs). Aircraft already enroute to SFO still landing here but departing aircraft not taking off right now." An update issued at 2:02 pm PT described the problem as "a temporary telecommunications outage." The FAA Telecommunications Infrastructure (FTI) is managed by L3Harris. The network provides secure communication between more than 4,400 facilities. The grounding follows on the heels of a major Microsoft outage that has affected many Microsoft-hosted services, particularly email, for more than 24 hours so far. There's no indication presently that the two incidents are related. We'll update this story as more information becomes available.® Updated to add at 2353 UTC CBS News reports that “an update to the private communications network that connects America’s air traffic control system caused the system to reboot. When the FAA’s telecommunication infrastructure rebooted, it crashed, causing the communications outage. The system is operated by L3Harris.” L3Harris has not responded to a request for comment. Updated to add at 2340 UTC Air Space Intelligence (ASI), awarded the FAA’s $875 million, 12-year contract for its new Strategic Management of Airspace, Routes and Trajectories (SMART) system, has issued a statement asserting that its products played no role in the FAA’s flight suspension. “The current ground stop is not based on or a result of the SMART system, any product of ASI or our integration with FAA and ATC,” the company said.</description>
+<enclosure url="https://image.theregister.com/?imageId=5309916&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309916&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Millions of Americans are not taking their GLP-1 drugs as prescribed</title>
@@ -332,17 +365,6 @@
 <description>HPE is pitching high performance compute customers with hybrid configurations of its Cray Supercomputing Storage Systems built for faster throughput, along with a Rack Management Controller that monitors cooling systems. The hardware giant already supplies its Cray Supercomputing Storage Systems E2000 in all-flash, all-disk, tiered and hybrid configurations, but - we're told - the latest combination offers up to 41 percent more data throughput per storage rack. The E2000 line embeds the Lustre open-source parallel file system, and is generally intended to fit NVMe Gen 5 solid-state drive (SSD) building blocks. For the refreshed hybrid configurations, HPE is combining SSDs with new 32 TB SAS-4 (24 Gb/s SAS) HDDs and new enclosures supporting 74 or 100 drives. HPE says it'll deliver up to 116 GB/s of read throughput and 92 GB/s of write throughput per rack, with up to 32 percent more usable storage capacity per rack for expansion to support the growing size of datasets in HPC, especially where sites are mixing AI and traditional simulation-style workloads. One of the reasons behind these new hybrid configurations could be the ballooning cost of storage, caused by the relentless demand for AI infrastructure skewing the price of components such as memory and many other things. But prices for silicon-based NAND flash SSDs are growing faster than those of good old hard drives , as our colleagues at Blocks &amp; Files reported. HPE says that as demand for data-intensive workloads grows, prices for large SSDs have soared. The company claims the new hybrid configurations let research institutions and national laboratories spend less on storage and put that money toward compute node purchases, without giving up on the performance they need. “When making long-term investments in environments where advanced workloads are rapidly evolving, our customers want scalable, dense, and flexible systems to help them address dynamic shifts in requirements," said Trish Damkroger, HPE senior veep for HPC and AI Infrastructure Solutions. The latest hybrid configurations are expected to go on sale in early 2027. HPE's other introduction is a Rack Management Controller, providing what HPE calls "intelligent liquid cooling” via real-time monitoring, leak detection and automated control features. It integrates with HPE Supercomputing Management Software to gather telemetry and provide control. Several platform-specific versions will be offered, each tailored to different rack-scale systems. Support will launch with HPE's own Cray Supercomputing GX5000 infrastructure, naturally, with versions for Nvidia’s NVL72 and AMD’s Helion and Helios kit to follow. The Rack Management Controller will be available for HPE’s kit in March 2027, with support for AMD and Nvidia expected to follow in June. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5309743&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309743&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>The Verge’s 2026 gift guide for dads</title>
-<link>https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026</link>
-<guid isPermaLink="false">508b4d65dc568ac7499f3b0c7b70418512b1d747a6653daac1a72f069e44b9f9</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 16:00:00 +0000</pubDate>
-<description>Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this year's gift list with the modern father in mind, whether he's a gamer, creator, chef, or simply a gadget lover. There's a lot in here we think he'll like, from noise-canceling headphones like the Sonos Ace Ultra and an autonomous drone to a brilliant QD-OLED monitor and a nifty light that's perfect for illuminating his next campsite. Whatev … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Microsoft outage gives customers a crash course in dependence on Redmond</title>
@@ -906,17 +928,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg" medium="image"/>
 </item>
 <item>
-<title>Netflix releases new trailer for Ray Gunn</title>
-<link>https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn</link>
-<guid isPermaLink="false">a4f466bdc33f926679ff669a16719e77d1a436daddefabe62d1879dd325bcc88</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 18:38:38 +0000</pubDate>
-<description>We caught the first trailer for the upcoming Netflix animated film Ray Gunn in September and were charmed by director Brad Bird's blend of a Jetsons-like future with classic 1930s noir detective thrillers. Bird has described it as a mashup of The Maltese Falcon and Buck Rogers , and the latest trailer definitely gives off that energy. As previously reported , Bird has directed some of our all-time favorite animated films: The Iron Giant (1999), The Incredibles (2004), and Ratatouille (2007), with the latter two snagging well-deserved Oscar wins. He's been kicking around the idea for Ray Gunn for the last 30 years, working on his many other film projects while the Ray Gunn script—co-written by Matthew Robbins, who also co-wrote 1987’s Batteries Not Included with Bird—“stayed in a filing cabinet at Warner Brothers,” the director said earlier this year. The film’s inspiration came when Bird heard the opening of the B-52s’ “ Planet Claire ” (a personal favorite that also provides the soundtrack to the new trailer) and initially thought it was a cover of Henry Mancini’s theme music from the classic TV show Peter Gunn . Bird is a longtime fan of film noir and hard-boiled detectives, and he came up with the idea of a futuristic detective named Ray Gunn (a play on " raygun ," of course). “It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action than the average film noir,” said Bird . Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Attention, Android power users: This app unlocks 30+ features you won’t find in Settings</title>
 <link>https://www.zdnet.com/tech/essentials-android-app-power-user-settings</link>
 <guid isPermaLink="false">140fea6844c0938bcd8b895bca11e8228604e669f77a42b1f4e9b630ff554c51</guid>
@@ -1421,17 +1432,6 @@
 <description>Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropic launches two more new features that are available now.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2294192923.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2294192923.jpg" medium="image"/>
-</item>
-<item>
-<title>Canonical web services get stage fright ahead of Ubuntu Summit</title>
-<link>https://www.theregister.com/os-platforms/2026/11/11/canonical-web-services-get-stage-fright-ahead-of-ubuntu-summit/5309186</link>
-<guid isPermaLink="false">9b9f26d9b9911c6378e9cf5c76e1351f6a37d7b8867076619f3feba892d4c91c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 16:38:00 +0000</pubDate>
-<description>A swathe of Canonical's web services has been offline for hours, an awkward warm-up for tomorrow's Ubuntu Summit. Canonical's status page lists widespread disruption beginning at approximately 1100 UTC, affecting gopkg.in, Ubuntu cloud images and mailing lists, jaas.ai, the Ubuntu keyserver, Launchpad PPAs, the Livepatch API, canonical.com, Ubuntu login, maas.io, and 16 other services. Landscape is also affected. Email and the company's Discourse forums remain available. The Register has asked Canonical for more information but had received no response at publication time. The company suffered a DDoS attack last month , although the cause of this outage has not been confirmed. The timing is unfortunate. As the banner across the top of the Discourse forum page says: "The Ubuntu Summit starts tomorrow – join from anywhere!" The online event runs on November 12-13. For the first time since the 2022 Summit in Prague, The Reg FOSS desk won't be attending in person. Canonical is still experimenting with the format of the event, and the last few have been primarily online, with just a small in-person audience in its London offices. This is the second of two Summits this year, labeled 26.04 and 26.10 to mirror Ubuntu's release cycle. The timetable , hosted on the Discourse site, lists several talks on AI and agentic coding. The AI-heavy program we reported from June's event appears to be continuing. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5237217&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5237217&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Over Ubuntu? Fedora is the Linux distro I’d hop to next – here’s why</title>

@@ -4,15 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Evacuations underway after bomb found at plant</title>
+<title>Authorities investigate 'credible' bomb threat at Illinois plant</title>
 <link>https://abcnews.com/US/peoria-police-urge-evacuations-after-reported-bomb-threat/story?id=138137440</link>
 <guid isPermaLink="false">8f233a4675e80a468f39df17b0579727c64fdfbdfa69739db31ca1c07b1f7408</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Sat, 14 Nov 2026 19:33:47 +0000</pubDate>
-<description>Police in Peoria, Illinois, are investigating a "credible" bomb threat at a local plant and urged those within a one-mile radius of the facility to evacuate immediately.</description>
+<pubDate>Sat, 14 Nov 2026 20:27:46 +0000</pubDate>
+<description>No additional devices were found and the evacuation order has been lifted after investigators searched the facility for hours, Peoria police said Saturday.</description>
 <enclosure url="https://s.abcnews.com/images/US/illinois-bomb-threat-ht-jt-261114_1794668219374_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/illinois-bomb-threat-ht-jt-261114_1794668219374_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Macron says limiting Ukraine aid would pave way to 'another war'</title>
+<link>https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war</link>
+<guid isPermaLink="false">f4035bbf29fb41ba4e33a8d30792e6dc35e413732bd8eafdc30bf06e660ec871</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 14 Nov 2026 20:15:43 +0000</pubDate>
+<description>French President Emmanuel Macron on Saturday warned that limiting aid to Ukraine would force Kyiv into an "unjust peace" and risk another war. His statement comes as the United States pushes ahead with efforts to negotiate between Ukraine and Moscow.</description>
+<enclosure url="https://s.france24.com/media/display/b003a0ce-ce6b-11f1-a0f5-23d55109f116/w:1024/p:16x9/AP26295395173953-1.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/b003a0ce-ce6b-11f1-a0f5-23d55109f116/w:1024/p:16x9/AP26295395173953-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Meta fined $887M in Italy over Android gallery photos, videos on Facebook</title>
@@ -112,6 +123,17 @@
 <description>Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location. (Image credit: Adam Gray)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8091x5394+0+0/resize/8091x5394!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F96%2Fe23d590f45f8bbd605875a794fb7%2Fgettyimages-2304485779.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8091x5394+0+0/resize/8091x5394!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F96%2Fe23d590f45f8bbd605875a794fb7%2Fgettyimages-2304485779.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Elementary school named after beloved custodian</title>
+<link>https://abcnews.com/video/138140631</link>
+<guid isPermaLink="false">f22641b479720914b3694468c40e07c12b7a1d74251048c7f333793b620f2b4f</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 14 Nov 2026 16:38:38 +0000</pubDate>
+<description>Marilyn Hampton was a beloved custodian for the Aubrey Independent School District outside Dallas, Texas. She was surprised with a school named in her honor, Marilyn Hampton Elementary School.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261114_gma_ganss_school3_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261114_gma_ganss_school3_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>US: What exactly caused the longest nationwide ground stop in 25 years?</title>
@@ -398,17 +420,6 @@
 <description>Different causes are set to come together for one march in Paris this Saturday. Campaign groups, students and Yellow Vest protesters are due to join forces in the capital, bringing together demands on wages, education and civil liberties. But after weeks of demonstrations, union leaders warn that protest fatigue is setting in, while police officers are seeking better compensation for the risk of policing the protests. Story by Jack Pownall.</description>
 <enclosure url="https://s.france24.com/media/display/d23ba148-e011-11f1-8b8d-29048b396e03/w:1024/p:16x9/EN-20261114-100425-100557-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/d23ba148-e011-11f1-8b8d-29048b396e03/w:1024/p:16x9/EN-20261114-100425-100557-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>US nationwide flight ground stop: "Our routers got overloaded with data"</title>
-<link>https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data</link>
-<guid isPermaLink="false">86cafb111fce7a934f74e3985d0ff206bf1eb8e7ed111f315d68440839522a02</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Sat, 14 Nov 2026 10:14:09 +0000</pubDate>
-<description>On Friday, the Federal Aviation Administration issued a rare nationwide ground stop. More than 8,200 flights, or over 31% of those scheduled in the United States, were canceled. The ground stop lasted nearly five hours and was the longest in the country since September 11, 2001. Officials blamed outdated air traffic communications equipment, and said that there was no evidence of a cyber attack. The airspace is now reopened and flights have resumed.</description>
-<enclosure url="https://s.france24.com/media/display/a3b36d9c-e011-11f1-b125-f71d22e7fea9/w:1024/p:16x9/EN-20261114-100114-100358-CS-01.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/a3b36d9c-e011-11f1-b125-f71d22e7fea9/w:1024/p:16x9/EN-20261114-100114-100358-CS-01.jpg" medium="image"/>
 </item>
 <item>
 <title>Business secretary to hold further talks with Poundland owners amid rescue talks</title>
@@ -750,16 +761,5 @@
 <description>Patients at Children’s Nebraska were surprised by superheroes washing their windows as part of a special tradition.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261111_gma_potd1_749_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261111_gma_potd1_749_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: These NFL cheerleaders balance life in the military</title>
-<link>https://abcnews.com/video/138039492</link>
-<guid isPermaLink="false">b89dae5b5cdb560e60942b4bc7582a58197bea9e630a816a6697a35ce2866638</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 11:12:04 +0000</pubDate>
-<description>On Veterans Day, ABC News' Danny New talks to two cheerleaders for the Philadelphia Eagles who've also served their country.</description>
-<enclosure url="https://s.abcnews.com/images/US/261111_gmafl_cheerleader_vets_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261111_gmafl_cheerleader_vets_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>

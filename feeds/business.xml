@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sat, 14 Nov 2026 11:28:12 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
 <title>Microsoft confirms global outage resolved, rules out cyberattack</title>
 <link>https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out</link>
 <guid isPermaLink="false">b3f7ad2762ce13d06dfb561a1eca9d1b15568697be035e6cbdd2c4c880a58b6a</guid>
@@ -57,17 +68,6 @@
 <description>Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 22:08:37 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex</title>

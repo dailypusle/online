@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Samsung may be getting rid of another One UI feature</title>
+<link>https://www.engadget.com/2311763/samsung-one-ui-getting-rid-of-another-feature</link>
+<guid isPermaLink="false">1a09052d50f5233951f76f266a665f622c4cc6696d57603284214ea3444f94d8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 14 Nov 2026 17:30:00 +0000</pubDate>
+<description>Samsung has discontinued Samsung Messages in favor of Google Messages in the US, and it looks like another One UI feature may suffer the same fate.</description>
+<enclosure url="https://www.engadget.com/img/gallery/samsung-may-be-getting-rid-of-another-one-ui-feature/l-intro-1794202783.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/samsung-may-be-getting-rid-of-another-one-ui-feature/l-intro-1794202783.jpg" medium="image"/>
+</item>
+<item>
+<title>Is 1TB enough storage for your Xbox Series X? Here's what gamers should know</title>
+<link>https://www.engadget.com/2311827/1tb-storage-xbox-series-x-enough</link>
+<guid isPermaLink="false">d1afd215b22e5dc3f2e7f00760f75375fc6dbecea9de29c77faf1ad0e8ef5fde</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 14 Nov 2026 17:15:00 +0000</pubDate>
+<description>With games increasingly taking up valuable space on consoles, we take a look at whether going for the extra storage on the Xbox Series X is really worth it.</description>
+<enclosure url="https://www.engadget.com/img/gallery/is-1tb-enough-storage-for-your-xbox-series-x-heres-what-gamers-should-know/l-intro-1794300311.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/is-1tb-enough-storage-for-your-xbox-series-x-heres-what-gamers-should-know/l-intro-1794300311.jpg" medium="image"/>
+</item>
+<item>
+<title>Why is the NVIDIA RTX 3060 still the most popular GPU on Steam?</title>
+<link>https://www.engadget.com/2315651/why-nvidia-rtx-3060-most-popular-steam-gpu</link>
+<guid isPermaLink="false">f6c03a45172ce0e85c53a1f945202ec910916d1a77d0a2113f4628d808705fbb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 14 Nov 2026 17:00:00 +0000</pubDate>
+<description>You'd think that gamers would always run the latest and greatest GPUs in their rigs, but NVIDIA's RTX 3060 proves that isn't quite the case.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-is-the-nvidia-rtx-3060-still-the-most-popular-gpu-on-steam/l-intro-1794559902.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-is-the-nvidia-rtx-3060-still-the-most-popular-gpu-on-steam/l-intro-1794559902.jpg" medium="image"/>
+</item>
+<item>
+<title>Uber drivers' information stolen in a third-party hack</title>
+<link>https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack</link>
+<guid isPermaLink="false">7eb4134a6b480ccc237c79a9eaacf2125523b201c466c2ecb21774a13de44d57</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 14 Nov 2026 16:47:44 +0000</pubDate>
+<description>Uber sends warning to drivers whose information was stolen in a data breach.</description>
+<enclosure url="https://www.engadget.com/img/gallery/uber-drivers-information-stolen-in-a-third-party-hack/l-intro-1794674539.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/uber-drivers-information-stolen-in-a-third-party-hack/l-intro-1794674539.jpg" medium="image"/>
+</item>
+<item>
+<title>Your new tech is still stuck in the year 1970 — here's why</title>
+<link>https://www.engadget.com/2311725/new-tech-stick-in-year-1970-unix-time-explained</link>
+<guid isPermaLink="false">6c281ea8937ed379a1eacaab0e89e6a6bc21effb11a43db6853452513ecb65c2</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 14 Nov 2026 16:45:00 +0000</pubDate>
+<description>If you've ever seen an arbitrary date in 1970 on your non-Windows device, don't worry, it's not glitching. It was chosen during the development process.</description>
+<enclosure url="https://www.engadget.com/img/gallery/your-new-tech-is-still-stuck-in-the-year-1970-heres-why/l-intro-1794270610.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/your-new-tech-is-still-stuck-in-the-year-1970-heres-why/l-intro-1794270610.jpg" medium="image"/>
+</item>
+<item>
 <title>Here's how much Apple AirPods cost in 2016 vs. 2026</title>
 <link>https://www.engadget.com/2311715/apple-airpods-2016-vs-2026-how-much-they-cost</link>
 <guid isPermaLink="false">dc388cda491018909acbc1b0496fae5e60b5c42f305a55ed02bc3bf00c5e85e5</guid>
@@ -213,17 +268,6 @@
 <media:content url="https://www.engadget.com/img/gallery/5-tvs-with-deep-discounts-before-black-friday-even-started/l-intro-1794588739.jpg" medium="image"/>
 </item>
 <item>
-<title>One UI 9 is the final major update for these older Samsung Galaxy phones</title>
-<link>https://www.engadget.com/2310671/one-ui-9-samsung-galaxy-phones-last-major-update</link>
-<guid isPermaLink="false">d1ad6b128c916a7b4ed4300838cd4db900b42f0b762467419d3864aab520f4c2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 13:15:00 +0000</pubDate>
-<description>Some of Samsung's older Galaxy phones are reaching the end of their primary Android OS upgrades, with One UI 9 as the last update planned.</description>
-<enclosure url="https://www.engadget.com/img/gallery/one-ui-9-is-the-final-major-update-for-these-older-samsung-galaxy-phones/l-intro-1794233595.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/one-ui-9-is-the-final-major-update-for-these-older-samsung-galaxy-phones/l-intro-1794233595.jpg" medium="image"/>
-</item>
-<item>
 <title>AMD vs. Intel CPUs: Which is the better buy in 2026?</title>
 <link>https://www.engadget.com/2310528/amd-vs-intel-cpu-which-better-buy-2026</link>
 <guid isPermaLink="false">f29da8118363acf3cb78d1381cd43dc02a6e4a2e1a73fb030116796bd47d9f3f</guid>
@@ -301,17 +345,6 @@
 <media:content url="https://image.theregister.com/?imageId=222241&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Outage at HR platform Workday locks millions of employees out of their account</title>
-<link>https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account</link>
-<guid isPermaLink="false">18db7eb5c9f8ccabefe1ba98fa1a2582cdd55f6cf17333f50ab2c0a062a227fe</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 08:54:55 +0000</pubDate>
-<description>Workday outage leaves employees of thousands of businesses unable to access workplace tasks.</description>
-<enclosure url="https://www.engadget.com/img/gallery/outage-at-hr-platform-workday-locks-millions-of-employees-out-of-their-account/l-intro-1794646237.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/outage-at-hr-platform-workday-locks-millions-of-employees-out-of-their-account/l-intro-1794646237.jpg" medium="image"/>
-</item>
-<item>
 <title>Big Tech takes a beating as online safety experts accuse companies of doing bare minimum</title>
 <link>https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302</link>
 <guid isPermaLink="false">94f5aa86aac5ad2b594ac6fde9c88a7465a10e186d5d0c09ec464fd7ea3230c7</guid>
@@ -321,17 +354,6 @@
 <description>Technology companies are doing just enough to show a degree of compliance with the UK's Online Safety Act, but are failing to meet the needs of the individuals and young victims the legislation exists to protect, experts say. A panel of online safety pros assembled before Parliament's Communications and Digital Committee on Tuesday, taking aim at the likes of Google, Microsoft, Meta, and ByteDance for failing to act on important matters. Clare McGlynn, professor of law at Durham University and expert on violence against women and girls (VAWG), was especially critical of major search engine providers for their inconsistent downranking of harmful content search terms. "Rape porn," for example, is correctly downranked and no user sees any relevant links until the tenth page of results, although adjacent terms such as "unwilling porn" can be found as early as the third page, McGlynn said. "I just think if someone spent a little more time thinking 'I really want to minimize the risk of this material appearing,' I would take a systematic approach," she told the committee. "I would downrank 'unwilling' and 'unwanted,' and I would downrank 'asleep porn' as well… because it just means that it's easily findable. "So, they don't rank some of them, but just not systematically or wholly consistently." McGlynn went on to say that during her own research, "force porn" was rightly downranked heavily, although terms as similar as "forced porn" were not. "If you were trying to think of the words that would be similar to say rape, and rape porn is extreme porn and it's not supposed to be on those platforms anymore, you would think of words like unwilling and unwanted," she added. "And we know your algorithm would." Google inevitably took much of McGlynn's flak due to its dominance of the search engine market, although the professor said the same issues can be observed on Bing, too. Alexandra Whiston-Dew, partner at law firm Miscon de Raya, argued that search engines have such an important role in regulating the OSA, noting the limited resources at Ofcom's disposal. She said that more needs to be done from the tech side to ensure different parties in the chain of publication are detected early and downranked or blocked accordingly. There are publications, for example, that actively advertise themselves as websites that host illegal content, and these appear to be missing from the search engines' crosshairs. "So, they are spotlighting the fact that they are publishing illegal content, and this is going under the radar not only from the search engines but also the other platforms and the businesses in the chain of publication," said Whiston-Dew. "Also Ofcom needs to really pull all of their resources together and attack that receptacle of illegal content." Similarly, McGlynn raised the issue of porn sites continuing to host extreme porn, as they are legally allowed to do, to make it available to less regulated territories. With the harmful content still on the site, a</description>
 <enclosure url="https://image.theregister.com/?imageId=5254826&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5254826&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>FAA allows flights to resume after hours-long ground stop across the US</title>
-<link>https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment</link>
-<guid isPermaLink="false">788f9da26a5ff7b57b422afd818c4e06eaa6f022cf3d5e10249755cae8ff89ef</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 06:35:40 +0000</pubDate>
-<description>The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.</description>
-<enclosure url="https://www.engadget.com/img/gallery/faa-allows-flights-to-resume-after-hours-long-us-wide-ground-stop/l-intro-1794637444.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/faa-allows-flights-to-resume-after-hours-long-us-wide-ground-stop/l-intro-1794637444.jpg" medium="image"/>
 </item>
 <item>
 <title>FAA lifts nationwide ground stop that blocked takeoffs for hours</title>
@@ -387,17 +409,6 @@
 <description>The Federal Administration lifted its third-ever nationwide ground stop after several hours Friday evening. Domestic flights were cleared to begin taking off at 8:35 pm EST. FAA Transportation Secretary Sean Duffy cautioned that, barring massive system updates, there will be "more of these" ahead. "Today's nationwide ground stop happened because our air traffic control system is operating on DECADES-OLD analog equipment that simply cannot compete with the demands of the 21st century," Duffy posted on X . Over a million travelers have been affected by the delays, with some airlines cancelling flights for the remainder of Friday. "Due to the ongoing ground stop, Air Canada has cancelled all flights to and from the United States for the remainder of the evening," the airline said . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Some international physical copies of GTA VI can allegedly be redeemed without opening the box</title>
-<link>https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box</link>
-<guid isPermaLink="false">091262ae80f8cd598858f2f785e164d985aa1a2b7da7bf608e1af9e95bbf21f3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 22:50:13 +0000</pubDate>
-<description>The box was already for decoration, and now maybe more so.</description>
-<enclosure url="https://www.engadget.com/img/gallery/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/l-intro-1794609739.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/l-intro-1794609739.jpg" medium="image"/>
 </item>
 <item>
 <title>FAA lifts ground stop after hours-long delays snag travelers</title>
@@ -530,17 +541,6 @@
 <description>Donald Trump Jr. agreed to end his advisory role with the prediction market Kalshi shortly after Trump Jr.'s venture capital firm made a large investment in its competitor, Polymarket. “We have mutually agreed to end Don's advisory role after his firm's significant investment in a competitor this past summer. We are grateful for his contributions in helping us market Kalshi to more customers," Kalshi said in a statement provided to Ars and other news outlets this week. Trump Jr. may still have a financial interest in Kalshi, which has benefited from the Trump administration's legal and regulatory support for prediction markets. Trump Jr. "was handed about $300,000 worth of equity in Kalshi after joining the prediction market platform as a strategic adviser in early 2025," the Financial Times reported in June . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Google now lets people connect Gemini to their bank accounts</title>
-<link>https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts</link>
-<guid isPermaLink="false">37db2150abc29d58615b981ad3b3270ce0a7d12c05c48ed249a23383419dea1e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 19:15:32 +0000</pubDate>
-<description>This is for spending analysis and not for making purchases.</description>
-<enclosure url="https://www.engadget.com/img/gallery/google-now-lets-people-connect-gemini-to-their-bank-accounts/l-intro-1794596813.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/google-now-lets-people-connect-gemini-to-their-bank-accounts/l-intro-1794596813.jpg" medium="image"/>
 </item>
 <item>
 <title>OpenAI board member worries an AI "takeover" of society could be months away</title>
@@ -1036,17 +1036,6 @@
 <description>Roku is winding down its smart home business following its sale to Fox. Here’s what to know.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg" medium="image"/>
-</item>
-<item>
-<title>Attention, Android power users: This app unlocks 30+ features you won’t find in Settings</title>
-<link>https://www.zdnet.com/tech/essentials-android-app-power-user-settings</link>
-<guid isPermaLink="false">140fea6844c0938bcd8b895bca11e8228604e669f77a42b1f4e9b630ff554c51</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 18:15:00 +0000</pubDate>
-<description>Is Android Settings not delivering enough power? The Essentials app features 30+ mods and tweaks – but you won’t find it in the Play Store</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/essentialshero.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/essentialshero.jpg" medium="image"/>
 </item>
 <item>
 <title>Software Samaritan revamps borked Indian certs to block smart TV ads</title>

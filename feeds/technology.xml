@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft's school email bill gives rivals something to smile about</title>
+<link>https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296</link>
+<guid isPermaLink="false">82d4f8e1487b9eb78e5499835d3b5bc84ce1a3fe9c608f63ab3dac55f7b9cb7f</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sat, 14 Nov 2026 10:27:00 +0000</pubDate>
+<description>The fallout from Microsoft's education price rises and service cuts continues as institutions weigh the prospect of bigger bills, and the Windows maker's rivals struggle not to pull "I told you so" faces. The main takeaways are that free student email and collaboration services are being retired, and storage entitlements are changing. These changes generally apply at institutions' first renewal or extension on or after January 1, 2028. Microsoft announced the new plans last week, and the UK's Department for Education described itself as "disappointed" at the news. As well it might be, although the UK government has rarely seen a deal from Microsoft that it didn't like . Or, for that matter, other US tech giants . Exactly how much educational institutions will have to spend remains unclear. Mary Jo Foley of Directions on Microsoft put indicative student pricing at $2 per year for Microsoft 365 Education A2, $4 for A3, and $6 for A5, with Teams adding another dollar annually. Faculty licenses cost considerably more, while the new A7 student tier jumps to $385 a year before Teams. Foley cautioned that these were approximate figures, with actual prices set by Microsoft's partners. The new no-cost student tier, Microsoft 365 Education A0, is a poor replacement for Office 365 A1: it excludes Exchange Online, SharePoint Online, and Teams. Eligibility also requires full paid faculty coverage on A2 or higher and students who actively use Windows devices for education – potentially awkward for institutions running fleets of Chromebooks. A few dollars per student might not sound alarming. Multiply that across an institution, however, and something that used to be free becomes a recurring bill. Michael Meeks, CEO of Collabora Productivity, told The Register: "Free was the bait on the hook, and Microsoft spent years reeling in schools' email accounts, documents, identity management and classrooms onto its cloud." A poster on the edugeek.net forums commented: "This was always going to happen, I remember thinking this when we moved over to the MS free cloud solution. It will be free until they decide it isn't." The risk for Microsoft is that there are options. Meeks told us: "Schools now have a year to plan, and, in our experience with other large-scale educational projects, such as the University of Lille, that can be enough time to migrate properly." Other options include Nextcloud, which will be rolled out as part of Germany's Educational Cloud Infrastructure . Several Swiss universities also migrated to the service over an August weekend. According to Nextcloud, 39,500 students, teachers, and researchers, along with 585 terabytes of data, were shifted. Both Nextcloud and Collabora Productivity also highlight another factor that could drive educational institutions away from Microsoft: sovereignty. Dr Patrick Alberts, managing director of messaging provider Element, told The Register : "When an organization is locked to a vendor, it should be no surprise whe</description>
+<enclosure url="https://image.theregister.com/?imageId=222241&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=222241&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Outage at HR platform Workday locks millions of employees out of their account</title>
 <link>https://www.engadget.com/2316804/workday-outage-locks-millions-employees-out-of-account</link>
 <guid isPermaLink="false">18db7eb5c9f8ccabefe1ba98fa1a2582cdd55f6cf17333f50ab2c0a062a227fe</guid>
@@ -158,6 +169,17 @@
 <media:content url="https://image.theregister.com/?imageId=5309895&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>Microsoft outage shakes up companies, schools and local governments across US</title>
+<link>https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments</link>
+<guid isPermaLink="false">ccad5b837bef80468a1d032bb86b54cd5778a3b0c12f7e0c2d17c9bfc293ab36</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 21:13:59 +0000</pubDate>
+<description>Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing and cloud storage systems. Even as Outlook started to resume normal operations Friday morning, local leaders from across the country, including in Miami, Maryland and Los Angeles, warned residents that certain staff or services were still unavailable due to the outage that started around 1pm ET on Thursday. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7a70991cb9d7d5910a505eeb3458ee2" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7a70991cb9d7d5910a505eeb3458ee2" medium="image"/>
+</item>
+<item>
 <title>This year’s bug count just passed 100K</title>
 <link>https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882</link>
 <guid isPermaLink="false">9b8800b6b3791c6e9af180e9580ede08b006e65e5e76517ca30c61587fb6cdcf</guid>
@@ -178,17 +200,6 @@
 <description>After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and "eligible US-issued American Express, Chase, Mastercard and Visa cards." After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they'll check in with you each time before checking out. OpenAI's support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan. Now your dot c … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Microsoft ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened</title>
-<link>https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news</link>
-<guid isPermaLink="false">cf8d6db662d1ba559978b7ae7655a0994a645125517912fa31c9d18b413509a8</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 20:37:58 +0000</pubDate>
-<description>This live blog is now closed. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain unaffected by the outage, which is largely impacting email systems. The Australian Medical Association said it has so far not received any reports that hospitals or clinics are impacted. Impact is largely restricted to the sending and receiving of email. Western Australia, along with jurisdictions around the world, is being impacted by a global Microsoft outage. We are receiving updates from the Commonwealth who are working with Microsoft at the most senior levels to resolve. Microsoft are prioritising life, safety and Government services. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f6f893e7c5d71be5e6f6352042ae972" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f6f893e7c5d71be5e6f6352042ae972" medium="image"/>
 </item>
 <item>
 <title>CMF’s milk carton-shaped Bluetooth speaker is down to a new low price</title>
@@ -1410,17 +1421,6 @@
 <description>Pixel users also get a bonus Wi-Fi upgrade. Here’s what to know.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg" medium="image"/>
-</item>
-<item>
-<title>US bit barn boom sees energy needs grow 10x as fast as grid capacity</title>
-<link>https://www.theregister.com/systems/2026/11/11/us-bit-barn-boom-sees-energy-needs-grow-10x-as-fast-as-grid-capacity/5309191</link>
-<guid isPermaLink="false">24520a738c44c50bad7b4b181e94dd790df0ba5f513277e4824728bed1144c4c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 17:47:00 +0000</pubDate>
-<description>Datacenter power consumption in the US is growing roughly ten times faster than grid capacity, meaning facilities may soon need to find a large chunk of their own electricity from other sources. Surging demand for AI infrastructure is driving a wave of new server farms across America, but it is exposing long-term underinvestment in the grid networks required to deliver power where it's needed. Insurance broker Howden calculates that datacenters would need to source up to 58 percent of their power off the grid by 2030 just to keep their share of grid capacity from growing. Gartner warned in June that the energy consumed by AI datacenters is on track to grow 26 percent this year, and grid supply may be unable to keep pace with demand by the end of this decade. Howden's analysis of data from the US Energy Information Administration (EIA) and S&amp;P Global found that since the year 2000, power being fed to data campuses has risen 19 percent a year on average, while the electricity grid expanded capacity by just 2 percent per annum over the same period. Datacenters' share of US grid capacity was circa five percent in 2025, up from 0.1 percent in 2000 – a 50-fold increase. Management consultancy Bain &amp; Company issued a report two years ago warning that energy companies must switch gear and invest in building out grid capacity faster , as energy draw by server farms is expected to more than double by 2030. This doesn't mean that datacenters are in danger of eating all of America's electricity, at least not in the immediate future. The graph makes it appear that the two lines are about to cross, but the chart uses different scales: 1,400 gigawatts on the left axis for grid capacity, versus just 80 on the right for datacenters. Keeping datacenters at five percent of grid capacity requires 110 gigawatts of behind-the-meter capacity by 2030, Howden estimates – an expansion it considers unlikely. Instead, it expects a combination of greater reliance on the grid, slower development at power-constrained sites, and alternative supplies. For the largest, most power-constrained projects, Howden warns that grid delays of two to six years could mean $800 million to $2.4 billion in forgone revenue. "Power availability is becoming one of the defining challenges of the datacenter boom," says Howden head of Natural Resources Stuart Adam. "As demand for AI infrastructure accelerates, developers are increasingly looking beyond traditional grid connections to secure the electricity they need." Howden's business is insurance, and so Adam also notes that on-site generation introduces new operational and financial exposures, as operators take greater responsibility for their power infrastructure. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=259070&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=259070&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Oura Ring users may get in-app access to real doctors soon – what we know</title>

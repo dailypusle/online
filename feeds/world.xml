@@ -9,10 +9,21 @@
 <guid isPermaLink="false">0d667934dcad9ad1257264b0b3f732b1dae1ba892fc7913e7c02f4f91c1ca791</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Sat, 14 Nov 2026 02:04:08 +0000</pubDate>
-<description>DHS Secretary Markwayne Mullin said it was due to a "telecommunications outage."</description>
+<pubDate>Sat, 14 Nov 2026 02:55:33 +0000</pubDate>
+<description>The DHS secretary said there were no indications of a cyberattack.</description>
 <enclosure url="https://s.abcnews.com/images/US/plane-schedule-rt-jt-261113_1794609304473_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/plane-schedule-rt-jt-261113_1794609304473_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>FAA lifts nationwide ground stop on all US flights</title>
+<link>https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights</link>
+<guid isPermaLink="false">8fca9e8bb8359c24eaffdde42bdfab88e6762b82a28db8fe429bfa90e3e78a99</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 14 Nov 2026 02:50:21 +0000</pubDate>
+<description>The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.</description>
+<enclosure url="https://s.france24.com/media/display/b957cd96-dfd5-11f1-857f-f71d22e7fea9/w:1024/p:16x9/EN-20261114-030158-030311-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/b957cd96-dfd5-11f1-857f-f71d22e7fea9/w:1024/p:16x9/EN-20261114-030158-030311-CS.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump to meet with Putin and Xi in China next week, US officials say</title>
@@ -20,21 +31,32 @@
 <guid isPermaLink="false">0b6d8b330e7691f6102f27feead28ba3f8ce99aaec9bf0bb4dc880af556a72b0</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Sat, 14 Nov 2026 01:35:49 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 02:43:31 +0000</pubDate>
 <description>Trump will participate in the first-ever trilateral meeting between the leaders of the U.S., China, and Russia on the sidelines of the APEC Summit in China next week.</description>
 <enclosure url="https://s.abcnews.com/images/US/xi-trump-putin-rt-gmh-261113_1794616739738_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/xi-trump-putin-rt-gmh-261113_1794616739738_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>'Miracle': All rescued from capsized New Orleans riverboat in tanker collision</title>
-<link>https://abcnews.com/US/vessel-collision-port-new-orleans-emergency-crews-responding/story?id=138119847</link>
-<guid isPermaLink="false">0ecae623fc15333af7869f982aa0418cb15fd73729f1db7d2d82b53c72e793e2</guid>
+<title>US flights resume after nationwide ground stop lifted</title>
+<link>https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation</link>
+<guid isPermaLink="false">ee4c7a228fe5cb216eb1503f1451af856cc005b018bd5437a54f81d928a6edbf</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 14 Nov 2026 02:35:48 +0000</pubDate>
+<description>The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now "opened up," and blamed "old hardware" for the travel chaos.</description>
+<enclosure url="https://s.france24.com/media/display/de33210e-dfd2-11f1-8675-29048b396e03/w:1024/p:16x9/AP26317844187470.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/de33210e-dfd2-11f1-8675-29048b396e03/w:1024/p:16x9/AP26317844187470.jpg" medium="image"/>
+</item>
+<item>
+<title>LIVE: ABC News Live</title>
+<link>https://abcnews.com/video/41463246</link>
+<guid isPermaLink="false">c4dde2f9d4430a48432ef223ef2dea7731f9a2b9448e21ee003bf7e7734a1e77</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Sat, 14 Nov 2026 00:45:51 +0000</pubDate>
-<description>The incident occurred Friday on the Mississippi River.</description>
-<enclosure url="https://s.abcnews.com/images/US/new-orleans-3-ht-gmh-261113_1794600985971_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/new-orleans-3-ht-gmh-261113_1794600985971_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Sat, 14 Nov 2026 02:03:10 +0000</pubDate>
+<description>24/7 coverage of breaking news and live events</description>
+<enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Authorities say DC gunman held long-standing feud with building management</title>
@@ -246,17 +268,6 @@
 <media:content url="https://s.france24.com/media/display/419fc3dc-df4c-11f1-8b89-29048b396e03/w:1024/p:16x9/capture-5e8d4fca.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft apologizes for email disruption, says AI agents not responsible</title>
-<link>https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203</link>
-<guid isPermaLink="false">a85d5673103c75ab9e97c07ca815e97fdbe41008609c3a68a77805043ca46ce3</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 17:38:52 +0000</pubDate>
-<description>Microsoft is reporting "issues" with users accessing Outlook and Teams.</description>
-<enclosure url="https://s.abcnews.com/images/US/microsoft-1-rt-gmh-261113_1794577594921_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/microsoft-1-rt-gmh-261113_1794577594921_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal</title>
 <link>https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1</link>
 <guid isPermaLink="false">d418c75912c167b107be03aec5624e72e8de7b94a547b9f138cffae3624945fc</guid>
@@ -422,17 +433,6 @@
 <media:content url="https://s.france24.com/media/display/ac93ac9c-df76-11f1-8215-695cb59fade5/w:1024/p:16x9/capture-8765e4ad.jpg" medium="image"/>
 </item>
 <item>
-<title>How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front</title>
-<link>https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid</link>
-<guid isPermaLink="false">715dda4d1834df6b607de2aeb7159decfaaf98dbda7a9a07ba51d367b3fb23c7</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 15:46:35 +0000</pubDate>
-<description>He's the ranking member of the Senate Foreign Relations Subcommittee that oversees health aid and he's just announced he's running for Majority Leader. He spoke to NPR about his foreign aid vision. (Image credit: Nathan Posner/Anadolu)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fa3%2F631876c94a13ba74cf0090e78406%2Fchris-van-hollen.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fa3%2F631876c94a13ba74cf0090e78406%2Fchris-van-hollen.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Empire State Building climbers appear in court</title>
 <link>https://abcnews.com/video/138104770</link>
 <guid isPermaLink="false">8a127a8f96c9222d6f280d6fc0329159d3976d8fdfd3ed8a215f84189568db8e</guid>
@@ -475,28 +475,6 @@
 <description>Pink Floyd co-founder Roger Waters has always mixed art with activism. A long-standing supporter of the Palestinian cause, the star guitarist has now released a re-imagined version of the rock anthem "Comfortably Numb" with Palestinian American singer Mona Miari singing in Arabic. He tells FRANCE 24's Lyana Saleh why proceeds of the record are going to the Palestine Children's Relief Fund and why he can never become "Comfortably Numb" with the violence and suffering in Gaza.</description>
 <enclosure url="https://s.france24.com/media/display/c55988f8-df5a-11f1-b15d-3f371022a770/w:1024/p:16x9/capture-96a34f6a.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/c55988f8-df5a-11f1-b15d-3f371022a770/w:1024/p:16x9/capture-96a34f6a.jpg" medium="image"/>
-</item>
-<item>
-<title>'Devastated wasteland': Haitian security forces regain control of stadium from gangs</title>
-<link>https://www.france24.com/en/video/20261113-devastated-wasteland-haitian-security-forces-regain-control-of-stadium-from-gangs</link>
-<guid isPermaLink="false">b069dccdf1c707ef68479b7f4194ffd1c601f0ad6c781e34b5a6f43da9da2d08</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 14:37:07 +0000</pubDate>
-<description>Haitian security forces said they have regained control of the country's main stadium, wresting it back from the gangs that have been using it for the past two years. They were assisted by the Task Force, a private security group serving the government. The stadium is now under the guard of Salvadoran soldiers. FRANCE 24's senior reporter Catherine Norris Trent, who has covered Haiti extensively, said re-taking the stadium would be a significant step in an area of the city that had been a "devastated wasteland".</description>
-<enclosure url="https://s.france24.com/media/display/5666bbe6-df69-11f1-b17b-695cb59fade5/w:1024/p:16x9/capture-be5b4980.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/5666bbe6-df69-11f1-b17b-695cb59fade5/w:1024/p:16x9/capture-be5b4980.jpg" medium="image"/>
-</item>
-<item>
-<title>The truth about Douma: How Syria covered up a chemical attack</title>
-<link>https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack</link>
-<guid isPermaLink="false">8968af757dd658047752e52a456cd5d55b139777e1dc45fd0a563f88a7c46265</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 14:24:39 +0000</pubDate>
-<description>On April 7, 2018, the Syrian town of Douma, on the outskirts of the capital Damascus, was targeted by a chemical attack. Evidence pointed to the Syrian regime, yet proof vanished, and eyewitnesses went silent. Eight years later, FRANCE 24's Jenna Le Bras tracked down survivors and witnesses of the deadly attack. She also met representatives of some of the world's most powerful institutions to understand how a massive cover-up campaign had been orchestrated by the regime, with Russian support.</description>
-<enclosure url="https://s.france24.com/media/display/6393738e-df57-11f1-9809-29048b396e03/w:1024/p:16x9/vignette-douma-mensonge-d-etat-EN-1.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/6393738e-df57-11f1-9809-29048b396e03/w:1024/p:16x9/vignette-douma-mensonge-d-etat-EN-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Republicans dazed by midterm election defeats grapple with what went wrong</title>
@@ -574,6 +552,17 @@
 <description>US officer who was arrested in the UK on suspicion of spying for Russia is 41-year-old Lt. Col. Brandon Tyner, according to a source familiar with the investigation.</description>
 <enclosure url="https://s.abcnews.com/images/Politics/allied-rapid-reaction-corp-gty-jt-261112_1794522855592_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Politics/allied-rapid-reaction-corp-gty-jt-261112_1794522855592_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Colom’s historic Senate win could reshape Mississippi’s political future: Analysis</title>
+<link>https://abcnews.com/Politics/coloms-historic-senate-win-reshape-mississippis-political-future/story?id=138082817</link>
+<guid isPermaLink="false">dec259984c08a6a468ff9ef58299bef95eab82e1377351879a191b8357728ae0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 21:52:06 +0000</pubDate>
+<description>The question is whether his victory can establish a lasting realignment.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/2304690832_1794461284962_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/2304690832_1794461284962_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Republicans push for Jensen Huang's testimony following Nvidia CEO's resignation</title>

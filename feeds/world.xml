@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>2 Americans die in suspected drowning incident in the Bahamas</title>
+<link>https://abcnews.com/International/2-americans-die-suspected-drowning-incident-bahamas/story?id=138137434</link>
+<guid isPermaLink="false">cb93f9dfffa6329e75e0f43b031f00e442473517b8a01ea0ff28e38e10e10daf</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 14 Nov 2026 08:44:28 +0000</pubDate>
+<description>Two Americans died in a suspected drowning incident in the Bahamas on Friday afternoon after a group of swimmers was swept away by strong currents, police said.</description>
+<enclosure url="https://s.abcnews.com/images/US/GTY-emergency-ambulance-jt-161123_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/GTY-emergency-ambulance-jt-161123_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Live: France mobilises in fifth wave of student protests</title>
 <link>https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests</link>
 <guid isPermaLink="false">a833e80bca5a42a3aa9fadf6b92cc4cd84de5388f91319820754c7207720c12d</guid>
@@ -92,26 +103,26 @@
 <media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Authorities say DC gunman held long-standing feud with building management</title>
-<link>https://abcnews.com/US/authorities-dc-gunman-held-long-standing-feud-building/story?id=138109234</link>
-<guid isPermaLink="false">0fb9bfaedf334de2c6c4955ed26101ebdc9fc482ec6e7c0f56ac77a6b54d942c</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 14 Nov 2026 00:29:34 +0000</pubDate>
-<description>The 55-year-old medical doctor harbored a long-standing grievance with the building's condo association, according to court documents.</description>
-<enclosure url="https://s.abcnews.com/images/US/dc-shooting-5-rt-gmh-261112_1794492961870_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/dc-shooting-5-rt-gmh-261112_1794492961870_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>US flights resume amid gradual return to normal operations</title>
+<title>US flights resume gradually amid further cancellations</title>
 <link>https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop</link>
 <guid isPermaLink="false">a75173ff301574b41123797540e2e1d306fb3425eff941f429e0e57036185afd</guid>
 <source>France 24</source>
 <category>world</category>
 <pubDate>Fri, 13 Nov 2026 22:43:22 +0000</pubDate>
-<description>While flights in the United States started resuming on Saturday after all flights were grounded and nearly 6,000 flights were cancelled, authorities warned returning to normal operations would take time. The incident marked only the second time an alert to ground all flights had been issued in US airspace since the 9/11 attacks.</description>
+<description>While flights in the United States started resuming on Saturday following the longest nationwide ground stop in 25 years, more than 2,000 flights have been cancelled as airlines work to return to normal operations. Nearly 6,000 flights were cancelled on Friday, with the incident marking only the second time an alert to ground all flights had been issued in US airspace since the 9/11 attacks.</description>
 <enclosure url="https://s.france24.com/media/display/8070c46a-dff8-11f1-bbc8-f71d22e7fea9/w:1024/p:16x9/063-2304502550.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/8070c46a-dff8-11f1-bbc8-f71d22e7fea9/w:1024/p:16x9/063-2304502550.jpg" medium="image"/>
+</item>
+<item>
+<title>France secures thrilling Nations Championship victory over South Africa</title>
+<link>https://www.france24.com/en/sport/20261113-france-hold-on-for-thrilling-nations-championship-win-over-south-africa</link>
+<guid isPermaLink="false">23e546b71434b77c0ac2253c4d3a67380cba446ccfd4cbaa8000b6ac5d15f996</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 22:39:21 +0000</pubDate>
+<description>France smashed world ⁠champions South ​Africa's hopes of lifting the first Nations Championship trophy on Friday, in a ​21-19 defeat for Les Bleus.</description>
+<enclosure url="https://s.france24.com/media/display/94140e80-e004-11f1-8a16-5f54d898a954/w:1024/p:16x9/000-D7FG2BA.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/94140e80-e004-11f1-8a16-5f54d898a954/w:1024/p:16x9/000-D7FG2BA.jpg" medium="image"/>
 </item>
 <item>
 <title>Sarah Huckabee Sanders receives 2028 presidential encouragement</title>
@@ -431,17 +442,6 @@
 <description>France announced on Friday that it will ask the European Commission to "examine" Algeria's non-compliance with its EU association agreement. Earlier in July, Algiers imposed a near-blanket ban on French imports, and last month, Algeria suspended urea shipments to France.</description>
 <enclosure url="https://s.france24.com/media/display/04b022ae-df7a-11f1-af78-3f371022a770/w:1024/p:16x9/AP24214729582761.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/04b022ae-df7a-11f1-af78-3f371022a770/w:1024/p:16x9/AP24214729582761.jpg" medium="image"/>
-</item>
-<item>
-<title>Nvidia scandal: How close was ex-CEO to Trump?</title>
-<link>https://www.france24.com/en/video/20261113-nvidia-scandal-how-close-was-ex-ceo-to-trump</link>
-<guid isPermaLink="false">b0c156ec823cb83ff584f3268c32b572e45efad0bb2aeb11436b0337d0c388f4</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 15:50:41 +0000</pubDate>
-<description>US lawmakers have called Jensen Huang to face their questions in December after the Nvidia ex-CEO quit over extramarital affairs, including one with a suspected Chinese spy. The Taiwanese-born businessman was a close informal adviser to President Donald Trump on AI and had spent years lobbying against curbs on sales of advanced AI chips to China for national security reasons. Just how close Huang was to Trump and the extent of the influence tech giants have on his administration are some of the questions that still need answering, says France 24’s Douglas Herbert.</description>
-<enclosure url="https://s.france24.com/media/display/5fefb702-df79-11f1-8db1-695cb59fade5/w:1024/p:16x9/EN-20261113-160704-161114-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/5fefb702-df79-11f1-8db1-695cb59fade5/w:1024/p:16x9/EN-20261113-160704-161114-CS.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Empire State Building climbers appear in court</title>

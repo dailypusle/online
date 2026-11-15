@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How much electricity does your home sound system typically use?</title>
+<link>https://www.engadget.com/2313696/how-much-electricity-sound-system-uses</link>
+<guid isPermaLink="false">752af69bbfbe3994bfc42afd94168f798645d0a95bea4c0123bd67fe7b19628a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 15 Nov 2026 15:15:00 +0000</pubDate>
+<description>A home sound system is a great upgrade, but it does use electricity which means you're paying for the power. Here's how to measure how much power it's using.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-much-electricity-does-your-home-sound-system-typically-use/l-intro-1794263638.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-much-electricity-does-your-home-sound-system-typically-use/l-intro-1794263638.jpg" medium="image"/>
+</item>
+<item>
+<title>Why your laptop fans spin up even when you're not doing anything</title>
+<link>https://www.engadget.com/2313693/laptop-fans-spin-up-not-doing-anything-why</link>
+<guid isPermaLink="false">9a06c4b594d18d8a93aeaa8386b1b6e324ab5b1d993b2b1354fd85368ff6c383</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 15 Nov 2026 15:00:00 +0000</pubDate>
+<description>Laptop fans fulfill the important function of making sure your device doesn't overheat. But if they keep spinning and making noise, there might be a problem.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-your-laptop-fans-spin-up-even-when-youre-not-doing-anything/l-intro-1794215000.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-your-laptop-fans-spin-up-even-when-youre-not-doing-anything/l-intro-1794215000.jpg" medium="image"/>
+</item>
+<item>
+<title>How long will your NVIDIA GPU be supported?</title>
+<link>https://www.engadget.com/2313688/how-long-nvidia-gpu-supported</link>
+<guid isPermaLink="false">d262d49ef0372c7bb67739084cce1ae9cf4812b63f454e950556c67d3bb8af82</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 15 Nov 2026 14:45:00 +0000</pubDate>
+<description>Graphics cards do not have an expiration date on the box., but we can help you figure out which clicking tocks are most important to your system's performance.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-long-will-your-nvidia-gpu-be-supported/l-intro-1793999445.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-long-will-your-nvidia-gpu-be-supported/l-intro-1793999445.jpg" medium="image"/>
+</item>
+<item>
 <title>These are some of the strongest 3D printer filaments for durable parts</title>
 <link>https://www.engadget.com/2313687/strongest-3d-printer-filament-carbon-fiber-nylon-polycarbonate</link>
 <guid isPermaLink="false">33fbf4f16164f720fed9719cebee4468d5699a983f5a088b3e171114d6ceef60</guid>
@@ -323,28 +356,6 @@
 <media:content url="https://www.engadget.com/img/gallery/how-to-get-better-results-from-google-gemini/l-intro-1794346807.jpg" medium="image"/>
 </item>
 <item>
-<title>Honor Magic8 Pro vs. Magic9 Pro Max: What's been upgraded?</title>
-<link>https://www.engadget.com/2307825/honor-magic-8-pro-vs-9-pro-upgrade-comparison</link>
-<guid isPermaLink="false">36188c8efdd13df996a87cdfc50f5c61d24afc3f4650e80bbedd9d05077572c8</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 22:00:00 +0000</pubDate>
-<description>This Pro upgrade is messier than the typical year-over-year refresh, but the new flagship does give us a pretty good idea of where Honor put its priorities.</description>
-<enclosure url="https://www.engadget.com/img/gallery/honor-magic8-pro-vs-magic9-pro-max-whats-been-upgraded/l-intro-1793827245.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/honor-magic8-pro-vs-magic9-pro-max-whats-been-upgraded/l-intro-1793827245.jpg" medium="image"/>
-</item>
-<item>
-<title>Here's when a dedicated graphics card is worth it</title>
-<link>https://www.engadget.com/2312688/when-dedicated-graphics-card-worth-it</link>
-<guid isPermaLink="false">f715fb776cb135cd53330fbcbcccb86e7e24d8de6b7a41f152d9d8c614dd7c2a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 21:45:00 +0000</pubDate>
-<description>Modern iGPUs are surprisingly capable, but they aren't without limitations.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-when-a-dedicated-graphics-card-is-worth-it/l-intro-1794342731.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-when-a-dedicated-graphics-card-is-worth-it/l-intro-1794342731.jpg" medium="image"/>
-</item>
-<item>
 <title>Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship</title>
 <link>https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch</link>
 <guid isPermaLink="false">c319b12e1cc2fac305d4cfe6e48b75aa66041504b4434ef58e7c98feb0f4fd62</guid>
@@ -354,17 +365,6 @@
 <description>After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its "Mechazilla" launch and catch tower for the first time. The company has performed ' chopstick ' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon Musk said during the company's third-quarter earnings call that "success is not guaranteed on these first flights, but I'd say it's more likely than not that this succeeds next flight." While not a complete success, in that the company was unable to recover the entire launch vehicle, it sti … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The reasons why your TV soundbar has an audio delay</title>
-<link>https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay</link>
-<guid isPermaLink="false">20b9ab65b5ed5095b2baae0ddc7a2b86595084aacc78b164b519aba3c9d4249c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 21:30:00 +0000</pubDate>
-<description>Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-reasons-why-your-tv-soundbar-has-an-audio-delay/l-intro-1794341678.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-reasons-why-your-tv-soundbar-has-an-audio-delay/l-intro-1794341678.jpg" medium="image"/>
 </item>
 <item>
 <title>Magic: The Gathering is getting a Netflix animated series. For real this time.</title>

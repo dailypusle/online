@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Iran live updates: Bahrain issues safety alerts, IRGC claims drone attack</title>
+<link>https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi?id=137967256</link>
+<guid isPermaLink="false">4727bff5af62f0b71f7e8cf793978204fdaf806a50b1ddbdbe3c74d8434bbb88</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sun, 15 Nov 2026 08:04:30 +0000</pubDate>
+<description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
+<enclosure url="https://s.abcnews.com/images/International/Iran-funerals-DB-261115_1794727627196_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/Iran-funerals-DB-261115_1794727627196_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Cape Verde could make election history with first female president</title>
+<link>https://www.france24.com/en/africa/20261115-cape-verde-could-make-election-history-with-first-female-president</link>
+<guid isPermaLink="false">3cb625736ad13f7d12be729fc04ee7e2dbe5ee0a506fa4558a49038ecd556c70</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sun, 15 Nov 2026 07:56:14 +0000</pubDate>
+<description>Cape Verde goes to the polls on Sunday in an election that could see the African island nation appoint its first ever female leader. Justice Minister Joana Rosa challenges incumbent José Maria Neves, who is the country's fifth president since it became independent from Portugal in 1975.</description>
+<enclosure url="https://s.france24.com/media/display/5cd88e80-e0c9-11f1-9854-695cb59fade5/w:1024/p:16x9/000-D6X32G7.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/5cd88e80-e0c9-11f1-9854-695cb59fade5/w:1024/p:16x9/000-D6X32G7.jpg" medium="image"/>
+</item>
+<item>
 <title>'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears</title>
 <link>https://www.france24.com/en/technology/20261115-is-this-a-cyberattack-grounded-flights-a-microsoft-outage-and-ai-chaos-fuel-cybersecurity-fears</link>
 <guid isPermaLink="false">9df6f576bc184542dae9771b356f9501899192a317afa15f3f43d1bb7dabeeb5</guid>
@@ -24,6 +46,17 @@
 <description>Two people were treated on the scene for minor injuries, airport officials said.</description>
 <enclosure url="https://s.abcnews.com/images/US/miami-airport_1794717443700_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/miami-airport_1794717443700_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Hamas says senior commander killed in Israeli airstrike</title>
+<link>https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384</link>
+<guid isPermaLink="false">7a2cbc437957f5bcddaf1080a73ea98d5bbc161f54e2536328cb20cf3380d9ba</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Sun, 15 Nov 2026 05:16:00 +0000</pubDate>
+<description>A senior Hamas commander who helped plan and oversee the 7 October 2023 attack had been killed in an Israeli airstrike, according to the Palestinian militant group.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-khan-younis-gaza-israeli-airstrike_7406841.jpg?20261115074940" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-khan-younis-gaza-israeli-airstrike_7406841.jpg?20261115074940" medium="image"/>
 </item>
 <item>
 <title>Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment</title>
@@ -147,15 +180,15 @@
 <media:content url="https://s.france24.com/media/display/b003a0ce-ce6b-11f1-a0f5-23d55109f116/w:1024/p:16x9/AP26295395173953-1.jpg" medium="image"/>
 </item>
 <item>
-<title>New Orleans port officials sue owner of tanker that hit cruise ship</title>
+<title>New Orleans port officials sue owner of tanker that hit river cruise boat</title>
 <link>https://news.sky.com/story/new-orleans-port-officials-sue-owner-of-tanker-that-hit-cruise-ship-13612331</link>
 <guid isPermaLink="false">f0bfb156c7354d9ebd56aedcd42897dd59383ee2276c4fbb6bafc377847c08cc</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Sat, 14 Nov 2026 19:40:00 +0000</pubDate>
-<description>New Orleans port officials have sued the owner of a tanker that lost control and crashed into a cruise ship on the Mississippi River.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-neworleans-mississipi_7406089.jpg?20261113211957" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-neworleans-mississipi_7406089.jpg?20261113211957" medium="image"/>
+<description>The American Heritage river cruise paddleboat is seen on its side after being struck by the Atlantic Asphalt tanker ship in the Mississippi River, Friday. Pic: AP Photo/Gerald Herbert</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-mississippi-cruise-boat_7406846.jpg?20261115081011" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-mississippi-cruise-boat_7406846.jpg?20261115081011" medium="image"/>
 </item>
 <item>
 <title>Meta fined $887M in Italy over Android gallery photos, videos on Facebook</title>
@@ -466,17 +499,6 @@
 <media:content url="https://s.france24.com/media/display/0732732e-dfe8-11f1-801a-29048b396e03/w:1024/p:16x9/J24-France-celebrate.jpg" medium="image"/>
 </item>
 <item>
-<title>US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says</title>
-<link>https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership</link>
-<guid isPermaLink="false">b3597e97289d05aca4fa50cbc7fc31d8302fda4cd737ab75d0dc619b547a52ca</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Sat, 14 Nov 2026 10:30:04 +0000</pubDate>
-<description>President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and warned that the Kremlin's bid to change the continent's security architecture could lead to more wars.</description>
-<enclosure url="https://s.france24.com/media/display/70cfdcca-e012-11f1-8f8f-5f54d898a954/w:1024/p:16x9/AP26316802067115.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/70cfdcca-e012-11f1-8f8f-5f54d898a954/w:1024/p:16x9/AP26316802067115.jpg" medium="image"/>
-</item>
-<item>
 <title>Trump, Xi and Putin to hold unprecedented meeting, White House says</title>
 <link>https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124</link>
 <guid isPermaLink="false">509c714a90c1af6082dc3301a6daa26d9b87e92970c805df863da0c145c718f4</guid>
@@ -552,17 +574,6 @@
 <description>Within moments of Chris Van Hollen announcing his intent to challenge Chuck Schumer in a race to lead next year’s Senate Democratic majority, endorsements began flying.</description>
 <enclosure url="https://s.abcnews.com/images/Politics/schumer-hollen-1-gty-gmh-261113_1794591677951_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Politics/schumer-hollen-1-gty-gmh-261113_1794591677951_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Iran live updates: Bessent blasts Iranian threats</title>
-<link>https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi?id=137967256</link>
-<guid isPermaLink="false">4727bff5af62f0b71f7e8cf793978204fdaf806a50b1ddbdbe3c74d8434bbb88</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 18:04:55 +0000</pubDate>
-<description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
-<enclosure url="https://s.abcnews.com/images/US/bessent-3-ap-gmh-261113_1794585631634_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/bessent-3-ap-gmh-261113_1794585631634_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>EU leaders choose team for Ukraine peace talks after months of wavering</title>

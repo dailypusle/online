@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Coinone warns of phishing, identity theft after customer data breach</title>
+<link>https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information</link>
+<guid isPermaLink="false">41c0f4a89211da1b160082add7441b2e70513e06a98cfe51827e0e180dc65c8c</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 15 Nov 2026 08:07:58 +0000</pubDate>
+<description>The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png" medium="image"/>
+</item>
+<item>
 <title>RWA protocol stUSDT winds down three years after $2.3B TVL peak</title>
 <link>https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak</link>
 <guid isPermaLink="false">649acbe06a359430a257a7434a18ef991f87b98814ef9083eb6b253be6f4e493</guid>
@@ -904,17 +915,6 @@
 <description>KPMG counted every gold bar behind XAUT, making it Tether's second stablecoin to complete a full audit by a Big Four accounting firm.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Gold1-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Gold1-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down</title>
-<link>https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation</link>
-<guid isPermaLink="false">8f2b2151b3449e080d9f0f89a50fedc1facaff5930d61d11fe5da222d8eb1141</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 15:46:06 +0000</pubDate>
-<description>Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7859A9F3JFAC903AM8D1SAR/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-960x640.webp" type="image/webp"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7859A9F3JFAC903AM8D1SAR/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-960x640.webp" medium="image"/>
 </item>
 <item>
 <title>BofA to settle fake-accounts lawsuit</title>

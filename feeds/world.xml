@@ -4,12 +4,23 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Iran live updates: Bahrain issues safety alerts, IRGC claims drone attack</title>
+<title>Three sentenced to death over Jordan church attack</title>
+<link>https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack</link>
+<guid isPermaLink="false">cfdbddd0326efbe19db80ab80de855eb404b0d45e381d0fa5b266829bcf8fef8</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sun, 15 Nov 2026 08:53:39 +0000</pubDate>
+<description>A Jordian court on Sunday sentenced the three gunmen responsible for a terror attack on a church funeral procession in the village of Hammoud that killed nine and wounded others. The attack prompted retaliatory strikes on "terrorist organisations" in neighbouring Syria.</description>
+<enclosure url="https://s.france24.com/media/display/eb10e528-e0d1-11f1-ba89-695cb59fade5/w:1024/p:16x9/AP26299487770405.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/eb10e528-e0d1-11f1-ba89-695cb59fade5/w:1024/p:16x9/AP26299487770405.jpg" medium="image"/>
+</item>
+<item>
+<title>Iran live updates: Bahrain reports Iranian attack, IRGC says air base targeted</title>
 <link>https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi?id=137967256</link>
 <guid isPermaLink="false">4727bff5af62f0b71f7e8cf793978204fdaf806a50b1ddbdbe3c74d8434bbb88</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Sun, 15 Nov 2026 08:04:30 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 08:52:16 +0000</pubDate>
 <description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
 <enclosure url="https://s.abcnews.com/images/International/Iran-funerals-DB-261115_1794727627196_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/International/Iran-funerals-DB-261115_1794727627196_hpMain_16x9_1600.jpg" medium="image"/>
@@ -22,8 +33,8 @@
 <category>world</category>
 <pubDate>Sun, 15 Nov 2026 07:56:14 +0000</pubDate>
 <description>Cape Verde goes to the polls on Sunday in an election that could see the African island nation appoint its first ever female leader. Justice Minister Joana Rosa challenges incumbent José Maria Neves, who is the country's fifth president since it became independent from Portugal in 1975.</description>
-<enclosure url="https://s.france24.com/media/display/5cd88e80-e0c9-11f1-9854-695cb59fade5/w:1024/p:16x9/000-D6X32G7.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/5cd88e80-e0c9-11f1-9854-695cb59fade5/w:1024/p:16x9/000-D6X32G7.jpg" medium="image"/>
+<enclosure url="https://s.france24.com/media/display/59c62c6c-e0d2-11f1-93d1-695cb59fade5/w:1024/p:16x9/2026-11-13T064451Z-244678143-RC2WLOAZ7WLR-RTRMADP-3-CAPEVERDE-ELECTION-PREVIEW.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/59c62c6c-e0d2-11f1-93d1-695cb59fade5/w:1024/p:16x9/2026-11-13T064451Z-244678143-RC2WLOAZ7WLR-RTRMADP-3-CAPEVERDE-ELECTION-PREVIEW.jpg" medium="image"/>
 </item>
 <item>
 <title>'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears</title>
@@ -112,17 +123,6 @@
 <description>A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run. (Image credit: Alex Wong)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5035x3357+0+0/resize/5035x3357!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F0f%2F1063ea794a708c96e803c59414c7%2Fgettyimages-2301658899.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5035x3357+0+0/resize/5035x3357!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F0f%2F1063ea794a708c96e803c59414c7%2Fgettyimages-2301658899.jpg" medium="image"/>
-</item>
-<item>
-<title>Minister says 'changing age of consent deserves proper consideration' after Brand allegations</title>
-<link>https://news.sky.com/story/minister-says-changing-age-of-consent-deserves-proper-consideration-after-brand-allegations-13612375</link>
-<guid isPermaLink="false">858d8acf7609494cc6afdfbba96de9e2aacd75c52dee18057d9edc57e8946a67</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Sat, 14 Nov 2026 23:47:00 +0000</pubDate>
-<description>The government will consider changing the age of consent after a woman campaigning for a change in the law waived her right to anonymity to publicly claim she was raped by Russell Brand at 16.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-russell-brand-court_7398112.jpg?20261115065240" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-russell-brand-court_7398112.jpg?20261115065240" medium="image"/>
 </item>
 <item>
 <title>US has lost measles elimination status, global health authorities say</title>
@@ -370,7 +370,7 @@
 <title>Microsoft confirms all services are restored after global outage</title>
 <link>https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219</link>
 <guid isPermaLink="false">596f71582e628051d86cd8a87cffdf7b3af919c14c3e1b98f48428b9b5523fa2</guid>
-<source>Sky News World</source>
+<source>Sky News Home</source>
 <category>world</category>
 <pubDate>Sat, 14 Nov 2026 14:56:00 +0000</pubDate>
 <description>Microsoft has said that all services have been fully restored after a global outage which affected the NHS, police, schools and other services across the UK.</description>
@@ -486,17 +486,6 @@
 <description>Microsoft says it is seeing improvements in its service availability after an hours-long disruption knocked out its platforms including Outlook and Teams. The outage has affected hundreds of millions of people across the globe. The healthcare industry was among those impacted, as Ophelie Jacobson explains.</description>
 <enclosure url="https://s.france24.com/media/display/0281a17e-e01a-11f1-bec4-f71d22e7fea9/w:1024/p:16x9/EN-20261114-080413-080559-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/0281a17e-e01a-11f1-bec4-f71d22e7fea9/w:1024/p:16x9/EN-20261114-080413-080559-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>France fend off South African comeback to clinch long-awaited win in Paris</title>
-<link>https://www.france24.com/en/tv-shows/sports/20261114-france-fend-off-south-african-comeback-to-clinch-long-awaited-win-in-paris</link>
-<guid isPermaLink="false">eb24a1ccaa691a629dcc92db9a4119d3aea3d489de74fd8a8ec31a6a25393ab6</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Sat, 14 Nov 2026 10:58:10 +0000</pubDate>
-<description>Twenty-one years after last beating the Springboks in Paris, Les Bleus held out for a 21-19 win over the world champions on Friday after a nailbiting finale. Antoine Dupont and company are now one step away from reaching the Nations Championship final in London.</description>
-<enclosure url="https://s.france24.com/media/display/0732732e-dfe8-11f1-801a-29048b396e03/w:1024/p:16x9/J24-France-celebrate.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/0732732e-dfe8-11f1-801a-29048b396e03/w:1024/p:16x9/J24-France-celebrate.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump, Xi and Putin to hold unprecedented meeting, White House says</title>

@@ -55,8 +55,8 @@
 <category>technology</category>
 <pubDate>Sun, 15 Nov 2026 00:15:00 +0000</pubDate>
 <description>Lots of tech purchases run into the hundreds of dollars, but you don't have to spend a lot to make some upgrades.</description>
-<enclosure url="https://www.engadget.com/img/gallery/11-gadgets-under-10-that-solve-everyday-problems/intro-1793998678.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/11-gadgets-under-10-that-solve-everyday-problems/intro-1793998678.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/11-gadgets-under-10-that-solve-everyday-problems/l-intro-1793998678.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/11-gadgets-under-10-that-solve-everyday-problems/l-intro-1793998678.jpg" medium="image"/>
 </item>
 <item>
 <title>There's a hidden way you can check which services are running on your Android phone</title>
@@ -242,8 +242,8 @@
 <category>technology</category>
 <pubDate>Sat, 14 Nov 2026 20:00:00 +0000</pubDate>
 <description>The Fitbit Edge not only looks good, but packs plenty of features while remaining minimal. To get the most out of it, you only need to tweak a few settings.</description>
-<enclosure url="https://www.engadget.com/img/gallery/change-these-x-fitbit-edge-settings-for-a-better-experience/intro-1794309662.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/change-these-x-fitbit-edge-settings-for-a-better-experience/intro-1794309662.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/change-these-x-fitbit-edge-settings-for-a-better-experience/l-intro-1794309662.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/change-these-x-fitbit-edge-settings-for-a-better-experience/l-intro-1794309662.jpg" medium="image"/>
 </item>
 <item>
 <title>Magic: The Gathering is getting a Netflix animated series. For real this time.</title>
@@ -411,6 +411,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story</title>
+<link>https://www.zdnet.com/innovation/ai-bug-reports-linux-windows</link>
+<guid isPermaLink="false">0d5e3b580844072a742cab9d66b50527707c5d1361beca85b80dfceee4e417a4</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Sat, 14 Nov 2026 01:20:06 +0000</pubDate>
+<description>Some Linux maintainers are quitting under the crushing strain of AI bug reports, while others see signs for hope.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-10167204.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-10167204.jpg" medium="image"/>
+</item>
+<item>
 <title>Starship flight 15 powers to orbit—setting up a possible catch on Saturday</title>
 <link>https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday</link>
 <guid isPermaLink="false">1b95d3d772c741e3eeb475a18eb03d28620dd52b0417d6d23c5dc867d1c96f3d</guid>
@@ -433,6 +444,17 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg" medium="image"/>
 </item>
 <item>
+<title>FAA blames ground stop on faulty copper wiring</title>
+<link>https://www.theregister.com/offbeat/2026/11/13/faa-blames-ground-stop-on-faulty-copper-wiring/5309912</link>
+<guid isPermaLink="false">c7873d6e0c4cf1a45fc24d34aa47aaa5369ab66f40476dd7c12bfad72564625d</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 22:42:28 +0000</pubDate>
+<description>The US Federal Aviation Administration on Friday issued an advisory that prevented the takeoff of flights in US airspace for around five hours, creating chaos for travelers and airports. The stop was finally lifted around 8:30 PM Eastern Time, but only after thousands of flights were canceled or delayed, leaving travelers stranded. In a press conference Saturday, Transportation Secretary Duffy attributed the FAA ground stop to problems with copper wiring during an L3Harris network upgrade. Duffy said it has yet to be determined whether the issue was incompetence or a faulty router. In a statement provided to The Register on Saturday, a spokesperson for L3Harris said, “L3Harris has been modernizing the communications infrastructure supporting the National Airspace System in close coordination with the FAA. With safety and reliability as our highest priorities, L3Harris, together with its telco partners and the FAA, has completed more than 70 percent of the planned airspace communications conversion from legacy copper wires to a fiber optic system. We are supporting the FAA in its investigation to understand the conditions that led to the Nov. 13 ground stop of our nation’s air travel. L3Harris takes the nationwide ground stop and its impact on travelers, airlines and air traffic operations seriously.” The stop was issued on Friday around the middle of the day ET. "The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers," said US Transportation Secretary Sean Duffy in a statement on Friday. "FAA technicians are investigating the issue. We will provide immediate updates as we have them." A spokesperson at the FAA press office reached by phone at the time said he was unable to provide further information. And an email response from the agency repeated Duffy's statement. The FAA ATCSCC advisory halted departing flights and said international flights would be dealt with individually. The notice said, "Due to extraordinary circumstances and for reasons of safety. Attention all aircraft operators, by order of the Federal Aviation Command Center all airports are ground stopped. All departing traffic should remain stopped until further notice. Inbound international flights will be managed on a case by case basis." Doug Yakel, public information officer for San Francisco International Airport, said, "FAA confirms nationwide ground stop, other reporting indicates a communications issue between Air Route Traffic Control Centers (ARTCCs). Aircraft already enroute to SFO still landing here but departing aircraft not taking off right now." An update issued at 2:02 pm PT described the problem as "a temporary telecommunications outage." The FAA Telecommunications Infrastructure (FTI) is managed by L3Harris. The network provides secure communication between more than 4,400 facilities. ® Updated at 0039 UTC Sunday UTC with the administration's explanation for the stop. Updated at 0</description>
+<enclosure url="https://image.theregister.com/?imageId=5309916&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309916&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Millions of Americans are not taking their GLP-1 drugs as prescribed</title>
 <link>https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways</link>
 <guid isPermaLink="false">b90e5ec0cd5c8a7a2ebce801d7a41661ce4602490e12c934d2a25a624c22a509</guid>
@@ -444,6 +466,17 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg" medium="image"/>
 </item>
 <item>
+<title>Microsoft doesn’t ‘have an ETA for full recovery’ on outage yet</title>
+<link>https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot</link>
+<guid isPermaLink="false">11f7ed8de9f18ad627bf167484b9a4161818280f0f75f78ff0d5a50927325a77</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 21:43:32 +0000</pubDate>
+<description>One think tank’s estimate puts the cost of the outage at $7 billion.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg" medium="image"/>
+</item>
+<item>
 <title>FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
 <link>https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace</link>
 <guid isPermaLink="false">05648108c87680dd8673b71ce65f542756e08e645419398729eb6402c7ad7053</guid>
@@ -451,8 +484,8 @@
 <category>technology</category>
 <pubDate>Fri, 13 Nov 2026 21:20:47 +0000</pubDate>
 <description>The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-500x500.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-500x500.jpg" medium="image"/>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer</title>
@@ -851,6 +884,17 @@
 <media:content url="https://image.theregister.com/?imageId=236933&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>Alibaba's Qwen3.8 re-educated with a more Western worldview</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555</link>
+<guid isPermaLink="false">0c133eff3e9014212a4f50280ec5b6b85948db95e5411bf4beba3a42a5f8f17a</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 01:25:00 +0000</pubDate>
+<description>An American AI lab has re-educated Qwen3.8-27B, a popular open-weight large language model from Alibaba, so the software forgets its Chinese ancestry. Nous Research, an Austin, Texas-based AI lab, has subjected the model to re-education through training, not to be confused with China's " Re-education Through Labor " system. With the help of a post-training process, Qwen3.8-27B has been reborn under the name Arete "to reinforce Western values on a Chinese-trained model." What qualifies as a "Western value" remains open to interpretation. "Open-weight Chinese models are among the strongest available, but they ship with state-aligned behavior baked into the weights," Nous Research wrote in a blog post . Your correspondent tested this with a variant model, Qwen3.8-27B-MLX-6bit, locally. Asked about events during 1989 in Tiananmen Square, the model either refused to discuss the topic or provided euphemistic response. What's perhaps more surprising is that Anthropic claims operators affiliated with Alibaba's Qwen lab used outputs from its Claude models to train competing AI models via distillation . Nous Research, maker of the Hermes Agent , cites that sort of censorship as a risk for users of AI models trained in China. The concern comes amid broader scrutiny of Chinese influence in the tech industry, heightened by Nvidia CEO Jensen Huang's resignation following controversy involving a woman US intelligence has accused of spying for China. Nous says the risk posed by Chinese-made AI models go beyond promoting Beijing's worldview. Some Middle Kingdom models have been found to produce more vulnerable code under certain conditions, according to a study by Booz Allen Hamilton, which does a lot of business with the US government. Hirundo, a vendor which says it is building "the first Machine Unlearning Platform to ensure that AI models only know what they should," makes the same argument . The company also notes that its efforts to apply "unlearning" to Qwen3.6-35B-A3B saw a dramatic drop in output that reflects Communist Party of China's preferred censorship, propaganda messaging, or bias. 89.8 percent of the model's output reflected those values before unlearning reduced the incidence to 2.8 percent. Nous Research did not achieve such dramatic results, but did see an overall reduction in viewpoints deemed to be propaganda. "On our evaluation, Arete-27B raised its fact score from 2.32 to 2.98 out of 5 and cut answers containing propaganda from 22 percent to 1 percent, in line with the Western models we tested," the company said. To handle Arete's unlearning, Nous Research says it briefly considered Nvidia's Nemotron 3 Ultra , "but had found evidence that it too had a checkered record on China-related topics." "We don't know definitively, but theorize that the bias imparted to Nemotron came from working with Chinese open models during the training process," the company said. "We have experienced similar contamination, because the vast majority of high qual</description>
+<enclosure url="https://image.theregister.com/?imageId=5305565&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305565&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam</title>
 <link>https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523</link>
 <guid isPermaLink="false">10bbbe00f6860fea900369329956e5ffe43fd16a8557029799037dc6a59ae5a0</guid>
@@ -860,6 +904,17 @@
 <description>The US government on Thursday said it had obtained court authorization to seize or restrain use of over $1.2 billion stolen during last month's $6.3 billion Binance heist, as part of a larger effort to disrupt North Korea's ongoing cryptocurrency theft. The court also allowed the takedown of cloud-based infrastructure used in a Democratic People’s Republic of Korea (DPRK) social engineering scheme called “FaceStealer” that has amassed more than $400 million in the last 18 months. It’s called FaceStealer because it involved secretly recorded webcam videos. Victims are typically people working in the cryptocurrency and web3 industries, along with open source software developers and maintainers who DPRK hackers target in the hope of accessing the software repositories they control as the first step towards creating supply chain attacks. 900+ faces stolen The FBI said it had seized more than 900 webcam videos belonging to these tech workers. Here’s how the attack works. First, the North Koreans send targets an invitation to join a video meeting. Those invitations come from hijacked accounts that the next intended victim may find familiar or credible. “You're going to think it's real because it's going to be based on either conversations or interests you've expressed in the past with this actual person,” said special agent Jeremy Robertson, who oversees counterintelligence and cyber investigations at FBI Los Angeles. “They're going to then send you a link to catch up, and it's usually a calendar invite, and it's going to have some typo-squatted URLs in there,” he told reporters on Thursday. The URL directs the victim to a fake Zoom or Teams meeting, and the cybercriminals record the target’s webcam video while playing a phony, prerecorded video of the person who purportedly sent the meeting invite. Sometimes the hackers also use deepfake videos of well-known individuals in the cryptocurrency and web3 industries, we’re told. “When you log in, whoever invited you – your friend or business associate – is going to be on the screen, but you're not going to hear any audio,” Robertson said. “But you're going to see their face, you're going to see them looking around, you're going to see them mouthing some words, and then in the text box you're going to receive some instructions.” ‘You’re on mute’ as a social engineering vector The text box tells the victim that the person on the other end of the video call can’t hear them, they need to upgrade their software for the audio to work properly, and it sends a link to the supposed fix. Clicking to access the “fix” installs cryptocurrency-stealing malware on the victim’s computer and sends their contact list to the digital thieves to perpetuate the scam. The FBI attributes FaceStealer to a North Korea-linked group tracked as Sapphire Sleet , which is widely regarded as a Lazarus Group offshoot. Sapphire Sleet is also known as UNC1069, Stardust Chollima, APT38, and BlueNoroff. “The actors behind this activity, commo</description>
 <enclosure url="https://image.theregister.com/?imageId=5309552&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309552&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Microsoft struggling to fix massive cloud outage that's taken down email and Intune</title>
+<link>https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531</link>
+<guid isPermaLink="false">40799bbe98237bf03e8edfe7391350d18ed345b50bd9edb44bf4929fde7edab4</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 23:06:06 +0000</pubDate>
+<description>Microsoft is struggling to restore many of its cloud services after a core process running on some servers became “overwhelmed” and its attempts to fix the problem failed. The incident started at around 18:00 UTC on November 12, and meant services including Exchange Online, Teams, Copilot 365, and Defender for Office 365 became unavailable. Admins trying to figure out what was wrong couldn’t access tools like Intune or the Microsoft 365 Apps Admin Center – they went down, too. On its X feed, Microsoft blamed “a problem that's causing servers to fail automated health checks and become unavailable.” The company said it hasn’t spotted any changes to its systems that might have sparked the incident, but its early investigation “indicates the failed health checks may originate from a specific component that's responsible for processing server health.” The company’s status page offers contradictory information, saying Microsoft’s people are “assessing whether reverting the small number of recent configuration updates we identified could help accelerate recovery.” According to a Xeet published at around 22:00 UTC, Microsoft said it found and validated an alternative service health check method, “which allowed a subset of affected servers to successfully return to service.” “We're continuing to work through restarting and validating the affected servers to safely return them to service, and we're exploring opportunities to expedite this process,” the company wrote. But those efforts may not be working. “We’re continuing to pursue all available pathways to restore service, as our actions taken thus far have not provided the anticipated relief,” the status page advises. “Our investigation has found that a core process on the affected servers is becoming overwhelmed, which causes the servers to stop responding and contributes to the capacity loss.” The incident means email is not flowing for many Microsoft customers: friends and family of Reg writers tell us their working days are severely disrupted. Microsoft’s most recent Xeet on the matter, published about an hour before this story went live, says it's trying to validate a potential recovery by “isolating a portion of infrastructure, restarting affected components, and reintroducing traffic to confirm the services remain stable before applying the change more broadly.” But the software giant hasn’t offered any timeline for full service restoration. This is a developing situation and The Reg will update this story as more information becomes available. ® UPDATED AT 00:35 UTC November 13 to add news that Microsoft says it has brought some servers back online and that they " initially remain healthy" but "can become unresponsive again once they begin receiving traffic." So not usefully healthy at all, then. "We're analyzing diagnostic data from these servers with our networking and platform experts to determine what's triggering this behavior," the company advised.</description>
+<enclosure url="https://image.theregister.com/?imageId=5237217&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5237217&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>In reversal, American Cancer Society urges routine prostate cancer screening</title>
@@ -972,6 +1027,17 @@
 <media:content url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/125_0_4666_3734/master/4666.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37c8cf3c696dd03224405955df058682" medium="image"/>
 </item>
 <item>
+<title>Roku drops smart home products to focus on streaming – what that means for your devices</title>
+<link>https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products</link>
+<guid isPermaLink="false">ebe1254542c574c0e7a70132790d80e9feb4ba7d87718fee387c20344564b855</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 18:43:08 +0000</pubDate>
+<description>Roku is winding down its smart home business following its sale to Fox. Here’s what to know.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg" medium="image"/>
+</item>
+<item>
 <title>Software Samaritan revamps borked Indian certs to block smart TV ads</title>
 <link>https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467</link>
 <guid isPermaLink="false">4e12b553994bd3ebade211b01d9de0d343c08b9d880e2173a502efc1c7e13643</guid>
@@ -983,6 +1049,17 @@
 <media:content url="https://image.theregister.com/?imageId=5266492&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours</title>
+<link>https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control</link>
+<guid isPermaLink="false">662da08fdc08a01220bfd61b800632729f4ed607740b23eaaff32d3012734b76</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 17:58:52 +0000</pubDate>
+<description>A new option called Memory summary lets you see and control the things that Gemini AI knows about you.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Gemini-memory-summary.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Gemini-memory-summary.jpg" medium="image"/>
+</item>
+<item>
 <title>Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?</title>
 <link>https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached</link>
 <guid isPermaLink="false">0f7ce98817dbefb9e5c2ac895f9801fdbe45fa15f324609fbbf4c8372f076b5a</guid>
@@ -992,6 +1069,39 @@
 <description>CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips, called graphics processing units (GPUs), that underpin the AI economy. Without these, AI models such as ChatGPT and Claude could not be trained and would not run. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=287e74f5fd07843dfba6df498562a1ca" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=287e74f5fd07843dfba6df498562a1ca" medium="image"/>
+</item>
+<item>
+<title>Google Wallet just turned your Android phone into a digital house key – how it works</title>
+<link>https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks</link>
+<guid isPermaLink="false">6d2d05e369b514eebc6b54c007fb6ca94aa5c0730d9142256956d118ca1198bb</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 17:50:24 +0000</pubDate>
+<description>Google is moving digital keys out of individual smart lock apps and into the Google Wallet.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/ba7f9237-41e5-4240-a693-edb9be296376.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ba7f9237-41e5-4240-a693-edb9be296376.jpg" medium="image"/>
+</item>
+<item>
+<title>Google’s Pixel Tag tracker won’t work as well on older Android phones – check our list</title>
+<link>https://www.zdnet.com/tech/google-pixel-tag-android-tracker-bluetooth-6-0-older-phones</link>
+<guid isPermaLink="false">681d2b2b9c3aa04f3e5c796cbe097781485b8bf46a004a029035eaf097136720</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 17:11:16 +0000</pubDate>
+<description>Several of the tracker’s best features require Bluetooth 6.0-compatible device.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/fe1b30ad-195d-42f2-8903-ef1bbf5ec547-1-201-a_33806e.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/fe1b30ad-195d-42f2-8903-ef1bbf5ec547-1-201-a_33806e.jpg" medium="image"/>
+</item>
+<item>
+<title>Fitbit users can’t see Google Health metrics after update – how to fix it</title>
+<link>https://www.zdnet.com/tech/fitbit-health-metrics-missing-software-update-how-to-fix</link>
+<guid isPermaLink="false">8924e4f604d4855292cb5ae13c8e380abbcd357ed8e9e47d189657608cc6c3cb</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 16:41:38 +0000</pubDate>
+<description>Google says it’s working on a fix – meantime, users have found workarounds.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/fc1fdc1f-530e-47f1-8c1e-d0bc66191958-1-201-a.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/fc1fdc1f-530e-47f1-8c1e-d0bc66191958-1-201-a.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft has an image problem with November's Windows security update</title>
@@ -1014,6 +1124,17 @@
 <description>United Airlines has become the latest company to slap restrictions on unauthorized third-party AI agents, warning that the bots could make unintended purchases, expose customer data, or bypass checks requiring human acknowledgment. The airline announced restrictions covering both its own digital platforms and indirect access through travel agencies and aggregators, with changes to its booking, ticketing, and distribution policies. United says automated actions could violate aviation regulations, citing the requirement for a human acknowledgment during check-in that bags contain no banned substances. A bot cheerfully ticking the box isn't quite the passenger confirmation it has in mind. And then there is the worry that "sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles." United would also rather customers use its own app than turn third-party assistants loose on its systems. AI agents are pitched as a way to outsource life's minutiae, and it's difficult to navigate the web without tripping over a breathless influencer explaining why you need one, or dozens, or hundreds of virtual personal assistants. The thing is that operating these assistants requires care and thought. Earlier this year, British mathematician Professor Hannah Fry conducted a cautionary experiment in which she gave an AI agent a bank card, and a bit too much agency, to see what it would do. Passwords were coughed up, and some ill-considered purchases were made. Still, as Fry said of the agent, dubbed Cassandra, "don't let her incompetence fool you, because these things are getting better fast." Last month, reports emerged of major US banks blocking third-party AI agents from operating inside accounts and taking actions on behalf of the customer. This month, several UK banks were reported to have followed suit. United stated: "Corporate leaders in the banking and retail industries have taken similar actions regarding AI agents and we encourage others to consider measures that preserve the data and security of their customers and strengthen safety." The Register asked United Airlines how it planned to implement the blocking. There are a few options, including physical biometric confirmation for actions or checking for signs of automated browser driving. Amazon has also moved against unauthorized AI agents, blocking Meta's Muse (the "AI that gets it done," according to Meta's marketing) in September . The airline has yet to respond. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=259076&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=259076&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>If the November Windows update fails to install on your PC, here’s what to do</title>
+<link>https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs</link>
+<guid isPermaLink="false">068e79cb0ad01477c1858436a70efa052ea59e7a0060354494379ded9cce7e4b</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 15:11:08 +0000</pubDate>
+<description>This month’s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-update-failure.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-update-failure.jpg" medium="image"/>
 </item>
 <item>
 <title>US public workers are fighting to protect their jobs from AI – and some are winning</title>
@@ -1060,6 +1181,17 @@
 <media:content url="https://i.guim.co.uk/img/media/b09085c7a1adecb3cce5e7177390560ee5b0951f/481_329_1024_819/master/1024.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c731d0db624342e5fb302f2eb912439b" medium="image"/>
 </item>
 <item>
+<title>Quantum leap: IBM plans to scale beyond 1,000 qubits in 2027 with Nighthawk r3 processor</title>
+<link>https://www.theregister.com/systems/2026/11/12/quantum-leap-ibm-plans-to-scale-beyond-1000-qubits-in-2027-with-nighthawk-r3-processor/5309357</link>
+<guid isPermaLink="false">a9c4b5995c30087e50daba8e2a9688635e0a5e92d22cc187eea693d425c0b36e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 13:37:02 +0000</pubDate>
+<description>IBM has unveiled the Nighthawk r3, an upcoming next-gen quantum processor that will feature 520 qubits, as another step towards a planned fault-tolerant quantum system it hopes to launch in 2029. Big Blue's current Nighthawk r2 was only made available in September and features 120 quantum bits (qubits) capable of handling circuits using 7,500 operations. Its successor, IBM claims, will have more than four times as many qubits and execute 10,000 quantum operations to tackle larger, more complex problems while maintaining the same speed and accuracy. Nighthawk r3 is slated to arrive in 2027, when Big Blue plans to link two of the quantum processors into a single system with more than 1,000 qubits. IBM said applications increasingly require circuits executing thousands of quantum operations on approximately 100 qubits or more, speeding up collection of the millions or billions of samples needed to perform complex computations. Speed determines whether such demanding workloads can be completed in practical timeframes and at a reasonable cost. The new quantum processor will feature 10 chip-to-chip interconnects, called l-couplers, designed for linking together processors that it will use to enable a single 1,040-qubit system. This tech was tested using Nighthawk r1 processors . IBM previously outlined its goal of reaching reliable error correcting territory in 2029 with a quantum processor codenamed Starling. Now it intends for this to be the world’s first fault-tolerant quantum computer , capable of running quantum circuits comprising 100 million quantum operations on 200 logical qubits. This is an ambitious goal, considering fault-tolerant quantum technology always seems to be at least a decade away, despite numerous breakthroughs and technology introductions. However, some in the technology industry believe the odds on a working system are shortening , given the increased activity around making encryption ready with support for quantum-resistant algorithms. Then again, a professor at the University of Auckland New Zealand famously claimed last year that quantum computers hadn't so far managed to factor any number greater than 21 without cheating. IBM presented a framework for Starling in a 2025 paper outlining hardware to implement the improbably named bivariate bicycle quantum low-density parity check (qLDPC) error correction codes. These significantly reduce the number of physical qubits needed to store and process quantum information, compared to existing surface codes. Using the architecture in the paper, Big Blue intends to assemble Starling from modules that each contain a quantum memory and logical processing unit (LPU), allowing logic operations on the memory. The modules will have universal adapters letting them connect using l-couplers. IBM is also preparing the way ahead by combining its quantum processors with classical high-performance compute (HPC) systems to research better quantum error correction. Last week, Oak Ridge National Labo</description>
+<enclosure url="https://image.theregister.com/?imageId=5309366&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309366&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story</title>
 <link>https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story</link>
 <guid isPermaLink="false">758208eaa2780f8645d307ac363fbc90c43152ba90b18165a6c3e741987a1056</guid>
@@ -1091,6 +1223,17 @@
 <description>The FreeBSD project's status team has published FreeBSD's third status report of 2026, showing plenty of ambitious work underway and a community still undecided on how to treat code from AI coding assistants. The FreeBSD Status Report Third Quarter 2026 is a substantial document, with 51 entries from five teams covering 16 projects, plus six other sections with more detailed reports. There are updates on the progress of the Sylve project, which is an attempt to bring a smooth polished GUI for managing FreeBSD virtualization hosts – something akin to Proxmox for FreeBSD. We mentioned this when we looked at the new Daemonarchy project last month. Another covers the new AppJail effort – a containerized app distribution system for FreeBSD, including for GUI apps, which aims for something broadly comparable to Snap, Flatpak and AppImage on Linux. In other words, interesting and quite radical stuff is happening in the FreeBSD space. What this particular LLM-skeptical vulture was most interested to see, though, was an update on the internal discussion about how to handle code generated by AI coding assistants in the project. We first reported on this vexed subject back in September 2025 and no final answer has yet been published. NetBSD banned AI-generated code in 2024 and although the bot-boosters say this will doom it to irrelevance, as we reported last month, the project is thriving . Also back in October, we looked at OpenBSD 8.0 , whose launch materials are full of mockery for AI users. Under the FreeBSD Core Team section , there is a subsection headed "FreeBSD Developer AI survey." The survey was created by Baptiste Daroussin, and received 140 responses. Although the percentages show that there is some resistance to AI, there are hints here as to why it’s taking so long. Some project committers are against it, yet many more are proponents. Since there are only seven bullet points, we thought we would quote them in full: Policy: 88 percent want the Project to adopt a policy, either a formal, written policy (49 percent ) or light guidance and best practices (39 percent ). Six percent said that AI should be explicitly discouraged, and three percent that the existing contribution rules are sufficient. AI-assisted code: 35 percent said it must be disclosed, 25 percent that it must be reviewed more strictly than human code, 22 percent that it should be treated like any other contribution, and 16 percent that it should be rejected outright. Safeguards: mandatory human review (78 percent ) and mandatory disclosure (69 percent ) were requested most often, followed by provenance or licensing documentation (47 percent ) and mandatory testing (39 percent ). Disclosure: 84 percent want AI use disclosed, either always (48 percent ) or when its involvement is significant (36 percent ). 79 percent want AI-assisted commits marked in the commit log, and 56 percent prefer a tag that names the tool. Concerns: the main concerns about quality are correctness and subtle</description>
 <enclosure url="https://image.theregister.com/?imageId=258466&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=258466&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Microsoft admits SQL Servers might wobble after October update</title>
+<link>https://www.theregister.com/databases/2026/11/12/microsoft-admits-sql-servers-might-wobble-after-october-update/5309349</link>
+<guid isPermaLink="false">38ced3767f1ad989df40fcce640a8ff6e3dc97574ce933404dd68844e643fd0e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 12:06:04 +0000</pubDate>
+<description>Encountered some odd SQL Server connection behavior since the October update? There might be a culprit… Microsoft has admitted that a change has caused linked server queries to fail to close connections. Linked servers via OLE DB providers have been around for years and are a useful way of, for example, using additional data sources in queries. Once a provider is added, SQL Server can open a connection to grab data, and close it again when the query is complete. Or, at least, that's the theory. The problem is that after the October 13 (KB5126646) update, connections created by SQL Server linked server queries might remain open. According to Microsoft, "As additional queries are performed, connections to external databases can accumulate instead of closing as expected. "This can slow or degrade server performance after prolonged run time." You think? Administrators will likely have already noted a suspicious number of open connections to external databases on affected systems. Microsoft said the issue affects SQL Server linked server queries that use OLE DB providers to connect to external databases. It gave PostgreSQL and Oracle as examples of connections known to be affected. And the fix? "If idle connections can be identified, it is possible to manually close them to temporarily relieve server load. "It is also possible to temporarily restore system stability by restarting the SQL service." The Windows behemoth went on to state the obvious: "However, these steps can also interrupt active queries or transactions, and the problem can resurface again after sufficient operation time." Bouncing a SQL Server to deal with connection leakage is less than ideal, although it would at least be a good failover test and, let's face it, having to restart Microsoft services regularly is something many administrators will be all too familiar with. There is a mitigation available, although only through Microsoft support for business. Otherwise, an out-of-band update should be along within the next few days to deal with the problem. According to Microsoft, the technical glitch affects every version of Windows except Windows 11 26H2, stretching back to Windows 10 1809 and LTSC 2019, and Windows Server from 2025 back to 2012. Microsoft, or rather the unfortunate souls responsible for administering their server products, has not had the best time of late. The October 2026 Windows Server update left some Exchange Servers wobbling until either a Registry edit was made or a fix was applied as part of the November update. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=263244&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=263244&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>European tech buyers add digital sovereignty to cyber shopping list</title>
@@ -1225,6 +1368,17 @@
 <media:content url="https://image.theregister.com/?imageId=229817&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>Russian cloud Yandex says drone attacks on its datacenters caused data loss</title>
+<link>https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234</link>
+<guid isPermaLink="false">87800d9dfbf8d4a6f43781e2626503ea10f97fda708e15444c7d99ead5dcbde9</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 01:10:24 +0000</pubDate>
+<description>Russian cloud operator Yandex has admitted to data loss after a drone attack on one of its datacenters. The attack, which Ukrainian press said was ordered by Kyiv, happened in early October and caused a fire and subsequent outage at Yandex’s ru-central1-b availability zone. Subsequent strikes targeted more Yandex datacenters and disrupted more of the company’s cloud and payment services. On Tuesday, Yandex posted an update on its recovery efforts, which it spun as something of a triumph because it restored over 97 percent of customer data. Of course that also means the company lost 2.84 percent of customer data, which it blamed on “critical hardware damage and a lack of backups on the platform.” It’s unclear if Yandex’s use of the phrase “on the platform” indicates it doesn’t keep backups of its own cloud, if whatever resilience techniques it employs don’t create multiple copies of customer data, or if clients didn’t protect their data. Whatever happened, Yandex has decided to enable backups by default for all VMs customers create in its cloud. That decision will mean customers will consume and pay for more Yandex resources, unless they opt out of the automated backups. Given that drones damaged three Yandex locations, and the war with Ukraine continues, users have good reasons to consider alternatives to its services. Indeed, Yandex’s announcement of its recovery efforts links to a page extolling the virtues of a hybrid cloud when devising data protection strategies. That page also mentions Yandex’s own Stackland product, which brings its stack on-prem, as an example of a hybrid approach. On Wednesday the company also launched a new availability zone named ru-central1-f. Yandex didn’t say where it’s located, other than to say it’s in “a new location.” Interestingly, Yandex has imposed quotas that limit the amount of resources users can access in the new availability zone and says it can’t yet handle traffic to private endpoints at the new facility. Many nations have imposed sanctions that restrict sales of technology products to Russia. It’s therefore unsurprising that Yandex might struggle to provision enough infrastructure to allow untrammeled access to a new availability zone. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5309241&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309241&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns</title>
 <link>https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns</link>
 <guid isPermaLink="false">64cb458074bc19a852a2ea24a6775cac5f05514ee97983917e834cd11f82998b</guid>
@@ -1236,6 +1390,72 @@
 <media:content url="https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5308fdec05d4d61e3572087bdd58f720" medium="image"/>
 </item>
 <item>
+<title>This tiny box gives your older tech smart home superpowers – and it’s only $69</title>
+<link>https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart</link>
+<guid isPermaLink="false">3318cfb474f686b5d6a19f4ee6a43bb2b01b9886aac053e760ae4762e1d5c1bf</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 20:30:00 +0000</pubDate>
+<description>Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/image-1.jpeg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/image-1.jpeg" medium="image"/>
+</item>
+<item>
+<title>Google Fi now switches between the best mobile networks automatically – how it works</title>
+<link>https://www.zdnet.com/home-and-office/google-fi-super-network-pixel</link>
+<guid isPermaLink="false">3acc851e2082ce38a0add319845deb9895ff74fc61b6428326fafcfce88869af</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 19:41:41 +0000</pubDate>
+<description>Pixel users also get a bonus Wi-Fi upgrade. Here’s what to know.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg" medium="image"/>
+</item>
+<item>
+<title>Oura Ring users may get in-app access to real doctors soon – what we know</title>
+<link>https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know</link>
+<guid isPermaLink="false">fb705544c2c86c4cd1b43b0420f0d79f7563e0c4f4847049ac8eed6eedc967ce</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 17:45:55 +0000</pubDate>
+<description>Oura’s acquisition of Counsel Health could signal a new dawn for digital care.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png" type="image/png"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png" medium="image"/>
+</item>
+<item>
+<title>Pixel users are getting a major Android Auto update – and it rivals Siri AI</title>
+<link>https://www.zdnet.com/tech/android-auto-gemini-intelligence-update</link>
+<guid isPermaLink="false">43ff2a0f0cb790baebf1de27e35ffa6503f3b7f5304ef9eefe277b188c6cfaf6</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 17:11:19 +0000</pubDate>
+<description>More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg" medium="image"/>
+</item>
+<item>
+<title>Claude can collaborate in your team meetings soon – like an intern</title>
+<link>https://www.zdnet.com/innovation/claude-meetings-workplace-features</link>
+<guid isPermaLink="false">698cb2754e0f6f53a96daece21e10e90641a032c52656238fe72c5475168a3d9</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 16:46:09 +0000</pubDate>
+<description>Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropic launches two more new features that are available now.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2294192923.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2294192923.jpg" medium="image"/>
+</item>
+<item>
+<title>Over Ubuntu? Fedora is the Linux distro I’d hop to next – here’s why</title>
+<link>https://www.zdnet.com/linux/ubuntu-fedora-migration-linux-distro-hopping</link>
+<guid isPermaLink="false">8b54b1900297f4653a21e3d9b058dc8b4ab49791c4f5856d3c7ec85da2b80f9e</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 15:40:30 +0000</pubDate>
+<description>If you’re an Ubuntu user considering a leap to Fedora, but you’re hesitating, I explain why you should go ahead and just do it.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/ubuntufedora.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ubuntufedora.jpg" medium="image"/>
+</item>
+<item>
 <title>How years of research built Grand Theft Auto VI’s obsessively detailed world</title>
 <link>https://www.theguardian.com/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet</link>
 <guid isPermaLink="false">18901bd334b387ef90b43e628e6b9b36eadbf48671ecc372a606e525915a2aad</guid>
@@ -1245,6 +1465,94 @@
 <description>The developers behind its virtual Florida share how they built their most ambitious world so far • Don’t get Pushing Buttons delivered to your inbox? Sign up here In 2015, a group of Grand Theft Auto developers from Rockstar North took their first trips to Miami to do field research for the next game in the phenomenally popular crime series. “Before you’re doing hyper-organised research trips, you’re immersing yourself in the place and its history, the vibe of it,” Rob Nelson, one of the lead developers on GTA VI, tells me. “[You see] the physical places you want to move characters through, the experiences you want them to have, and the juxtaposition between the extremes of society that are in Miami.” I wondered: did people ever recognise them on any of their research trips? Did locals know what they were doing? This is the biggest game in the world, after all; I imagine it would be difficult to go entirely undercover. “We’re always semi-undercover,” he says. “But if you have a bunch of dorks going through a terrifying neighbourhood, you do stick out a bit.” Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/f9bf30fc1431ef6e783a0570dd352f24c3ddc240/302_0_1902_1522/master/1902.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e00695fec2d538c7e86f592406e46cd" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/f9bf30fc1431ef6e783a0570dd352f24c3ddc240/302_0_1902_1522/master/1902.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e00695fec2d538c7e86f592406e46cd" medium="image"/>
+</item>
+<item>
+<title>Microsoft fixes over 1,000 Windows flaws – and one is being exploited</title>
+<link>https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu</link>
+<guid isPermaLink="false">08438d071d0c5e843823b433b6dd92c8babf200197a066f56f96f2e351bc913e</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 21:00:31 +0000</pubDate>
+<description>With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. But don’t skip these security fixes.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg" medium="image"/>
+</item>
+<item>
+<title>Need more AI in Creator Studio? Apple may charge you for it</title>
+<link>https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee</link>
+<guid isPermaLink="false">a42c403c89d807872a98e81d0b301745d507a78dcf530362ce09a8d8c6649417</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 20:38:54 +0000</pubDate>
+<description>With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/b8127718-8775-4c05-9d18-89836e0dbde2.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/b8127718-8775-4c05-9d18-89836e0dbde2.jpg" medium="image"/>
+</item>
+<item>
+<title>I found a hidden Android tool that solves all my tiny text troubles</title>
+<link>https://www.zdnet.com/tech/android-display-help-magnification</link>
+<guid isPermaLink="false">7f3c41b6925a2b8bc4719eb67b0a3691ed6f829083336eb22a6f126ccbb32d74</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 17:17:21 +0000</pubDate>
+<description>When the print on your Android display is too small to read, and the pinch-to-zoom feature isn’t working as expected, try this.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/maghero.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/maghero.jpg" medium="image"/>
+</item>
+<item>
+<title>Google’s new AI tool just proved Signal encryption really works – here’s how</title>
+<link>https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works</link>
+<guid isPermaLink="false">20772dbda054f7d06b65ae1b7efcba6876c84b7eb23694330040cc04123753ac</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 16:31:47 +0000</pubDate>
+<description>With the aim of securing other vital systems, Google DeepMind plans to open-source its AlphaProof Code.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2206371598.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2206371598.jpg" medium="image"/>
+</item>
+<item>
+<title>Your FitBit Versa and Sense smartwatches will lose some features this month – what to know</title>
+<link>https://www.zdnet.com/tech/fitbit-versa-sense-smartwatches-third-party-apps</link>
+<guid isPermaLink="false">48b72e8c3b1650b35f2ba18383444e0deec7d00dc95c2a47c57edb6740fec1b6</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 15:55:35 +0000</pubDate>
+<description>Time’s running out for some Versa and Sense models. After Nov. 28, you can no longer install or update third-party apps or clockfaces on these Google smartwatches.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/fitbit-versa-2-3_287f7c.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/fitbit-versa-2-3_287f7c.jpg" medium="image"/>
+</item>
+<item>
+<title>Done with Debian Linux distros? Try Fedora next – 7 reasons why</title>
+<link>https://www.zdnet.com/linux/debian-fedora-linux-migration</link>
+<guid isPermaLink="false">00ab1fb2de4bd5acdff3b4553963d6ec88cd599c460b7c648aa703bb361dc209</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 15:16:47 +0000</pubDate>
+<description>After using a Debian-based distribution, you may find yourself longing for something different. I know exactly what you should try next.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/gnomelaptophero.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/gnomelaptophero.jpg" medium="image"/>
+</item>
+<item>
+<title>5 apps I need Siri AI to work with now that it’s open to third-party developers</title>
+<link>https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration</link>
+<guid isPermaLink="false">2cad6d84b7df6432786bd595ff0f5b85e31a1ee7fd5a37718e33d977dabc33bc</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:38:36 +0000</pubDate>
+<description>With the latest betas for iOS and other platforms, Siri AI is now available to all developers for full integration into their apps. Here are the ones I hope will jump on board.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Libby-app-on-iPhone.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Libby-app-on-iPhone.jpg" medium="image"/>
+</item>
+<item>
+<title>Ring’s new drone patrols your home to keep an eye on things – even upstairs</title>
+<link>https://www.zdnet.com/home-and-office/ring-drone-cam-rover-cam-security-robots</link>
+<guid isPermaLink="false">82646bf413f4a1f904b411ae2af61a88f0b85fb3e8881ccfb7e05374e2817101</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 13:30:00 +0000</pubDate>
+<description>Alongside the Ring Drone Cam, Ring introduced the Rover Cam for businesses. It investigates disturbances and streams 4K footage.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/CNET-Group-Amazon-Ring-Event-13.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/CNET-Group-Amazon-Ring-Event-13.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen</title>

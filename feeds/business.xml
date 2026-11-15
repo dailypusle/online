@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bitcoin falls to four-month low near $62K as crypto selloff deepens</title>
+<link>https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff</link>
+<guid isPermaLink="false">2b69ffbe9b0ba3500f782274387c56dacef2277897d8680c2f363d2710dc9afd</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 15 Nov 2026 10:23:17 +0000</pubDate>
+<description>The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg" medium="image"/>
+</item>
+<item>
 <title>Coinone warns of phishing, identity theft after customer data breach</title>
 <link>https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information</link>
 <guid isPermaLink="false">41c0f4a89211da1b160082add7441b2e70513e06a98cfe51827e0e180dc65c8c</guid>
@@ -794,17 +805,6 @@
 <description>Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>DTCC Plans Solana Expansion as Wallet Rules Limit Access</title>
-<link>https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access</link>
-<guid isPermaLink="false">d8ce31275f6dc8b42852dcd824c426002fb1388af5c0f86b0964bba62197e62a</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 20:07:41 +0000</pubDate>
-<description>The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png" medium="image"/>
 </item>
 <item>
 <title>Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?</title>

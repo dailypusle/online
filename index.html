@@ -235,6 +235,11 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.categories{display:f
 @media(max-width:760px){.story-heading-row{gap:9px}.story-heading-row h2{font-size:1.02rem}.story-ask-ai{padding:7px 10px;font-size:.78rem}.story-ask-ai svg{width:17px;height:17px}}
 @media(max-width:360px){.story-heading-row{flex-wrap:wrap}.story-ask-ai{margin-left:auto}}
 
+/* Ask AI button at the bottom right of the card */
+.story .text{position:relative}
+.story .story-ask-ai{position:absolute;right:20px;bottom:16px}
+@media(max-width:760px){.story .story-ask-ai{right:16px;bottom:13px}}
+
 
 /* Assistant response actions: copy and text-to-speech */
 .dp-chat-response-content{position:relative;flex:1;min-width:0;max-width:calc(100% - 43px)}

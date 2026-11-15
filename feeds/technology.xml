@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>LEO gets a birthday bash, 75 years after clocking in</title>
+<link>https://www.theregister.com/offbeat/2026/11/15/leo-gets-a-birthday-bash-75-years-after-clocking-in/5308806</link>
+<guid isPermaLink="false">f60cd14877247bff31f594c90e9603db2b1a2714ca44fe4f05cf5c2b10f38c5e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sun, 15 Nov 2026 09:03:00 +0000</pubDate>
+<description>Business computing turns 75 this month, and Cambridge's Centre for Computing History is throwing a party for LEO, the machine that helped start it all. The LEO@75 event takes place on Saturday, November 28, from 10am to 5pm, with film screenings, historical displays, and hands-on activities for children. The Register has written about the Centre for Computing History a few times. It's an interactive computer museum just off Coldhams Lane in Cambridge, and back in 2018 it won National Lottery funding to help it "preserve, archive and digitise a range of LEO Computers artefacts, documents and personal memories." Admission supports the museum charity, with student and concession tickets at £10 and family tickets starting at £15. As well as stuff for the grown-ups, including a film screening, it will include events for smaller children (5-7) and a Python coding event for older (12-16) kids. Regular readers might recall our story about the Lyons Electronic Office back in 2021, celebrating its 70th anniversary. The Reg also published an obituary for Mary Coombs, the first female commercial programmer the following year. Coombs started programming LEO in 1952. Both stories offer more on the machine and the people behind it. LEO was an early computer, but from three-quarters of a century away, it's easy to miss just how early. Its design was based on Cambridge University's EDSAC, developed by a team led by the late, great Sir Maurice Wilkes. The Reg mentioned EDSAC in our obituary for Wilkes, and went into more detail for his centenary in 2013 . It also crops up in our Geek's Guide to Cambridge . The design of EDSAC was directly inspired by John von Neumann's famous, and incomplete, "First Draft of a Report on the EDVAC" – which The Reg talked about in 2011 . The draft report was circulated in 1945, based on the proposal for EDVAC, four years before the hardware was delivered. That was also the year John Mauchly and J. Presper Eckert completed its predecessor, ENIAC. In its original form, ENIAC was programmed by setting switches and reconnecting cables; EDVAC, by contrast, was designed to store its instructions in memory. The report set out what's now called the "von Neumann architecture." Wilkes and Douglas Hartree drew on those ideas in developing EDSAC, LEO's immediate forerunner and one of the world's earliest practical stored-program computers. The first working electronic stored-program machine was the Manchester "Baby," the Small-Scale Experimental Machine, which ran its first program in 1948 . EDSAC ran its first program in May 1949 – a few months before the delivery of BINAC, Eckert and Mauchly's first stored-program machine. LEO ran its first commercial application in 1951. That was also the year the US Census Bureau took delivery of Eckert and Mauchly's UNIVAC I . ®</description>
+<enclosure url="https://image.theregister.com/?imageId=202529&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=202529&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating</title>
+<link>https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam</link>
+<guid isPermaLink="false">32b37ac6f0f1162d352a81a2b0faf94b33669ccf9acbaf5ad4660778cc2f9656</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sun, 15 Nov 2026 08:56:11 +0000</pubDate>
+<description>Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04991afc9bc44d07d242cab9279696eb" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04991afc9bc44d07d242cab9279696eb" medium="image"/>
+</item>
+<item>
+<title>‘Prove you are not a robot’: how the Captcha scam captures your computer</title>
+<link>https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software</link>
+<guid isPermaLink="false">27b9e2e4ae9a6095e4e74c2d078ab8c18b6e6188fc848deba442c229c84c3804</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sun, 15 Nov 2026 07:00:06 +0000</pubDate>
+<description>Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious software You are looking for some gifts for Christmas and want to support small businesses when you shop. When you visit the site of one you’ve heard good things about you are asked to verify that you are human. Instead of clicking on a series of images, or typing letters that appear, just as you have seen before, you are asked to press a series of keys and then press enter. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3489e0eb257b661fe4ffa6be810fee7" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3489e0eb257b661fe4ffa6be810fee7" medium="image"/>
+</item>
+<item>
+<title>‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick</title>
+<link>https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare</link>
+<guid isPermaLink="false">eb93c7394ac0d7c21028be7ef7ca4ab1c19ca20167856a4e99076833f6ce422a</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sun, 15 Nov 2026 06:00:06 +0000</pubDate>
+<description>Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, the saga may also become a milestone in the decades-long history of spies infiltrating the US tech industry. Huang admitted to being unfaithful to his wife of 41 years in a letter to employees this past weekend, following a report from the New York Times that the tech mogul had a close relationship with a woman US officials suspect of spying for China’s government. Huang resigned on Thursday after 33 years as CEO amid reports of two additional affairs with Nvidia employees, causing the world’s most valuable chip company’s stock to plummet. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de89b49e846011d0ae2daf5bbb4faa0f" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de89b49e846011d0ae2daf5bbb4faa0f" medium="image"/>
+</item>
+<item>
+<title>Italy fines Meta $887m for accessing Android users’ photos and videos</title>
+<link>https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos</link>
+<guid isPermaLink="false">c17e415c19c6cbb634ab625641fd0e14001a070b16b4ba7f9d8d48e93f076661</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sun, 15 Nov 2026 02:02:01 +0000</pubDate>
+<description>The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decision Italy’s data protection agency has fined Facebook parent company Meta €805m ($887m) for accessing users’ photos without their specific consent. Through the Facebook application for Android devices, Meta accessed photographs, videos and related metadata belonging to Italian users “without obtaining specific consent and without properly informing them”, the authority said in a statement. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9deec6720c02498442264c683373715e" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9deec6720c02498442264c683373715e" medium="image"/>
+</item>
+<item>
 <title>Which NVIDIA GPU is closest to the PS5? The answer isn't so simple</title>
 <link>https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple</link>
 <guid isPermaLink="false">44c0c4aa164dbe34cd6e293e0a963546df4c21873e88d555861999d76df16817</guid>
@@ -255,17 +310,6 @@
 <description>"It's really happening. I promise. For real." Those are the first words from Roy Graham, Head of Story at Magic: The Gathering , in a video posted yesterday announcing Planeswalker , the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at the helm. But that fell apart. In 2024, Netflix announced it still planned to make a series based on the game, but it decided to rework it from the ground up. Now fans are finally getting their first glimpse of the show, which will be called Planeswalker . According to the sneak peek, because each plane exists in its … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages</title>
-<link>https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan</link>
-<guid isPermaLink="false">c40b1f8c279a4e208f375ae3166a7c58873a66c17e4f5aea4a0fbc1ea0d6f5bf</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 19:00:52 +0000</pubDate>
-<description>Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, saying artists’ copyright must not be “sacrificed” for investment and building new datacentres must not be prioritised above environmental concerns. As Labor considers copyright changes in an AI policy suite including datacentres, online safety, energy resources and economic benefits, the South Australian backbencher added weight to mooted constitutional challenges as to whether watering down copyright law would be an illegal acquisition of property . Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e6ed8cf5dcd89e05a922708aaa86d51" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e6ed8cf5dcd89e05a922708aaa86d51" medium="image"/>
 </item>
 <item>
 <title>Work to replace old copper wire led to the FAA’s ground stop</title>
@@ -1148,17 +1192,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-update-failure.jpg" medium="image"/>
 </item>
 <item>
-<title>US public workers are fighting to protect their jobs from AI – and some are winning</title>
-<link>https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai</link>
-<guid isPermaLink="false">67995f7cc430892b7825b95f9765bd388db9294d6b2a11a849ebfc963c610a40</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 15:00:44 +0000</pubDate>
-<description>As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmingly voted on 22 October to authorize a strike, with 94.1% in favor. “We just want the city administration to really be intentional about how it’s engaging with AI products,” said Julian Ware, an Oakland spatial data administrator and member of International Federation of Professional and Technical Engineers Local 21. “Sometimes with a fancy new toy, it actually costs more, it’s more difficult to implement and the results are not as good.” Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/56480260b7bf656d9742122815f5137a16b1a1e8/329_0_1706_1365/master/1706.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2bee522da49f0a876b9d87b06c2d4bbc" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/56480260b7bf656d9742122815f5137a16b1a1e8/329_0_1706_1365/master/1706.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2bee522da49f0a876b9d87b06c2d4bbc" medium="image"/>
-</item>
-<item>
 <title>Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era</title>
 <link>https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401</link>
 <guid isPermaLink="false">32286257af419a7fae3d24c31599dfa16d336a3e5185ee3ed50b2fd58206d4e6</guid>
@@ -1280,17 +1313,6 @@
 <media:content url="https://i.guim.co.uk/img/media/95c422c3f4ddb97d445e586e9da99aba18c88ab1/373_0_4131_3305/master/4131.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4bb3fca32b99b38d96e112328be7dea" medium="image"/>
 </item>
 <item>
-<title>Datacentres are deeply unpopular. Has Sweden made one we can all love?</title>
-<link>https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun</link>
-<guid isPermaLink="false">3519de8795face3c22fca72465d951a8bf24afefa3e5d04f4cc0c0bca655d597</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 11:00:46 +0000</pubDate>
-<description>It is built of wood, resembles an Ikea and its power is totally renewable. Plus, it was built with the local community in mind. Is this facility in Falun the best datacentre in the world? ‘It was pretty cool, when they were building it. It looked like a very large Ikea,” says John Wernvik, of EcoDataCenter. He is giving me a tour of their facility in Falun, Sweden, which could lay claim to being the world’s greenest datacentre – although to many, that is a contradiction in terms. One difference is immediately visible: this datacentre is made out of wood. Huge panels of cross-laminated timber arrived at the site pre-cut, and were assembled by crane according to instructions, like flatpack furniture. Aesthetically, this section of the datacentre is more like an Ikea before the fit-out, a cavernous, echoey, immaculately clean hangar. The wood is not EcoDataCenter’s only claim to sustainability; it is more than just cosmetic, says Wernvik, the company’s chief external relations and sustainability officer. “Compared with a traditional datacentre built with steel and concrete, we lower the embodied carbon of the full structure by three times.” With a complex the size of a football pitch, that is a lot of wood, but, says Wernvik, “the amount of timber one of our datacentres uses takes the Swedish forest about 10 to 15 minutes to grow back”. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/6f4053626333cdd94adcb884ccef812b559854a9/247_0_2901_2321/master/2901.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd3868ffb1af3b77821a24c1ce90a417" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/6f4053626333cdd94adcb884ccef812b559854a9/247_0_2901_2321/master/2901.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd3868ffb1af3b77821a24c1ce90a417" medium="image"/>
-</item>
-<item>
 <title>Orbit Global Menu: A working global menu addon for GNOME</title>
 <link>https://www.theregister.com/os-platforms/2026/11/12/orbit-global-menu-a-working-global-menu-addon-for-gnome/5309134</link>
 <guid isPermaLink="false">71a04631df5e5903512d046b4db0783f5181223d3f00a70392b4129dda628fc5</guid>
@@ -1366,28 +1388,6 @@
 <description>Former certification authority eMudhra has claimed a buggy Python script is the main reason it issued laughably insecure digital certificates. The company posted its account of the matter on Bugzilla where a user with the handle “Naveen Kumar ML” wrote “During a single key‑generation ceremony on 30 April 2025, sixteen subordinate (issuing) CA key pairs in eMudhra’s ‘B’ and ‘C’ series were generated correctly on a hardware security module and then processed through an approved wrap/unwrap round‑trip using a custom python key‑handling script.” eMudhra aimed to create eight ECDSA P-384 private keys which should have been 48 bytes long. But the script contained what Kumar described as “a bug/defect in the import code [which] resulted in a read‑back from the unwrapped object that truncated the private value, so the certified public keys correspond to private scalars below the expected range and are recoverable from public information.” The truncation is the key problem here, because it appears that eMudhra ignored 47 of the 48 bytes, producing its infamously insecure single-byte keys such as the number four. Whatever the nature of the bug, Kumar asserts it was “a custom script run only on an isolated ceremony host and was not a function of the emCA software.” eMudhra needed that script because “global supply chain constraints” meant it couldn’t acquire the hardware security modules (HSMs), devices that generate and store cryptographic keys, that it wanted to use when creating a set of certificates for use in the USA. It therefore used HSMs made by a company called Utimaco to generate keys and planned to transfer the keys it produced to a different set of HSMs from a company called Crypto4A. Kumar explained that eMudhra decided on that move, which is unusual, because changes to policy about provenance of certificates meant it had to generate new certs by the end of May. The plan went sour when the company didn’t notice the errors in its script and didn’t test the keys it created. The rest is history: a Mozilla team member noticed that the company’s keys were woefully weak and pointed out that attackers could therefore issue fraudulent certificates that allowed them to impersonate servers, observe traffic, or even modify data in transit. Browser-makers quickly tweaked their software so it would not recognize certs from eMudhra. The Indian business then quit the SSL/TLS certification business, which it said was never a major source of revenue but had suddenly become a severe source of embarrassment. Kumar’s new post lists three steps eMudhra will take to wind up its certification business, one of which will see the company “Put in place improvements motivated by findings of [an] independent review to strengthen our general PKI operations.” Sounds like a plan. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=229817&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=229817&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Russian cloud Yandex says drone attacks on its datacenters caused data loss</title>
-<link>https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234</link>
-<guid isPermaLink="false">87800d9dfbf8d4a6f43781e2626503ea10f97fda708e15444c7d99ead5dcbde9</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 01:10:24 +0000</pubDate>
-<description>Russian cloud operator Yandex has admitted to data loss after a drone attack on one of its datacenters. The attack, which Ukrainian press said was ordered by Kyiv, happened in early October and caused a fire and subsequent outage at Yandex’s ru-central1-b availability zone. Subsequent strikes targeted more Yandex datacenters and disrupted more of the company’s cloud and payment services. On Tuesday, Yandex posted an update on its recovery efforts, which it spun as something of a triumph because it restored over 97 percent of customer data. Of course that also means the company lost 2.84 percent of customer data, which it blamed on “critical hardware damage and a lack of backups on the platform.” It’s unclear if Yandex’s use of the phrase “on the platform” indicates it doesn’t keep backups of its own cloud, if whatever resilience techniques it employs don’t create multiple copies of customer data, or if clients didn’t protect their data. Whatever happened, Yandex has decided to enable backups by default for all VMs customers create in its cloud. That decision will mean customers will consume and pay for more Yandex resources, unless they opt out of the automated backups. Given that drones damaged three Yandex locations, and the war with Ukraine continues, users have good reasons to consider alternatives to its services. Indeed, Yandex’s announcement of its recovery efforts links to a page extolling the virtues of a hybrid cloud when devising data protection strategies. That page also mentions Yandex’s own Stackland product, which brings its stack on-prem, as an example of a hybrid approach. On Wednesday the company also launched a new availability zone named ru-central1-f. Yandex didn’t say where it’s located, other than to say it’s in “a new location.” Interestingly, Yandex has imposed quotas that limit the amount of resources users can access in the new availability zone and says it can’t yet handle traffic to private endpoints at the new facility. Many nations have imposed sanctions that restrict sales of technology products to Russia. It’s therefore unsurprising that Yandex might struggle to provision enough infrastructure to allow untrammeled access to a new availability zone. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5309241&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5309241&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns</title>
-<link>https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns</link>
-<guid isPermaLink="false">64cb458074bc19a852a2ea24a6775cac5f05514ee97983917e834cd11f82998b</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 00:01:03 +0000</pubDate>
-<description>Inspectors find some officers acted on potential matches from retrospective searches without making enough checks Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found. Although the technology can help fight crime, the report found it is beset by errors and biases , and operators do not always realise they must make further inquiries to verify the data. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5308fdec05d4d61e3572087bdd58f720" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5308fdec05d4d61e3572087bdd58f720" medium="image"/>
 </item>
 <item>
 <title>This tiny box gives your older tech smart home superpowers – and it’s only $69</title>

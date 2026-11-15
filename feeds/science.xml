@@ -4,12 +4,23 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>SpaceX Makes History With Successful Rocket Landing in Texas</title>
+<title>SpaceX Makes History With Successful Rocket Catch in Texas</title>
+<link>https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html</link>
+<guid isPermaLink="false">c2a35fad501d61088ef14e1e649d50e616fa5b7071fc33717f930c85d5150e77</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Sun, 15 Nov 2026 00:36:32 +0000</pubDate>
+<description>The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>Highlights From the Starship Landing</title>
 <link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch</link>
 <guid isPermaLink="false">99ae00b514c0a5178428ca761e8b202025207c64d8065b445fd80e2f3094af88</guid>
 <source>New York Times Science</source>
 <category>science</category>
-<pubDate>Sat, 14 Nov 2026 22:35:23 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 00:15:27 +0000</pubDate>
 <description>The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" medium="image"/>
@@ -318,7 +329,7 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Fri, 13 Nov 2026 16:05:54 +0000</pubDate>
-<description>NASA astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. captured this image of the area surrounding the Red Sea and Nile river valley on November 14, 1966, during their four-day mission in space. Gemini XII was the final flight of NASA’s Gemini Program. NASA Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of a different field of exploration, observing Earth from space. The photos taken by Lovell, Aldrin, and other Gemini astronauts demonstrated the value of orbital imagery for studying Earth’s surface. Their images helped scientists make the case for a dedicated Earth observation satellite program. One of strongest advocates for accelerating the use of Earth-observing satellites was William T. Pecora, the director of the United States Geological Survey from 1965 to 1971. In a 1969 statement, Pecora noted that the Earth Resources Observation Satellite (EROS) program he championed, and which later paved the way for Landsat , was “conceived in 1966 largely as a direct result of the demonstrated utility of Mercury and Gemini orbital photography to Earth resource studies.” For more than five decades, Landsat and other Earth-observing satellites have provided invaluable data used around the world to monitor crops, wildfires, flooding, vegetation health, land use, and countless other changes to our planet. Explore More 3 min read Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA Article 2 days ago 3 min read Scotland’s Flow Country Blanket bogs in the Scottish Highlands store vast amounts of carbon. Article 3 days ago 4 min read Water Surges Into Navajo Reservoir Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s… Article 4 days ago</description>
+<description>NASA astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. captured this image of the area surrounding the Red Sea and Nile river valley on November 14, 1966, during their four-day mission in space. Gemini XII was the final flight of NASA’s Gemini Program. NASA Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of a different field of exploration, observing Earth from space. The photos taken by Lovell, Aldrin, and other Gemini astronauts demonstrated the value of orbital imagery for studying Earth’s surface. Their images helped scientists make the case for a dedicated Earth observation satellite program. One of strongest advocates for accelerating the use of Earth-observing satellites was William T. Pecora, the director of the United States Geological Survey from 1965 to 1971. In a 1969 statement, Pecora noted that the Earth Resources Observation Satellite (EROS) program he championed, and which later paved the way for Landsat , was “conceived in 1966 largely as a direct result of the demonstrated utility of Mercury and Gemini orbital photography to Earth resource studies.” For more than five decades, Landsat and other Earth-observing satellites have provided invaluable data used around the world to monitor crops, wildfires, flooding, vegetation health, land use, and countless other changes to our planet. Explore More 3 min read Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA Article 3 days ago 3 min read Scotland’s Flow Country Blanket bogs in the Scottish Highlands store vast amounts of carbon. Article 3 days ago 4 min read Water Surges Into Navajo Reservoir Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s… Article 4 days ago</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006" type="image/png"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006" medium="image"/>
 </item>

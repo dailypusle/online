@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>5 Funniest 'Peanuts' Comics About Dogs</title>
+<link>https://www.polygon.com/5-funniest-peanuts-comics-about-dogs</link>
+<guid isPermaLink="false">2b631d101bd8f018fd64659dea32c06c1e7774cc2ec59e15b23909b2ca86cd26</guid>
+<source>Polygon</source>
+<category>gaming</category>
+<pubDate>Mon, 16 Nov 2026 05:00:17 +0000</pubDate>
+<description>Broadly speaking, there are three types of Peanuts comics. There are the funny ones, the sweet ones, and ones that are both funny and sweet. (And, let’s be honest, there are a good number of boring ones too.) But, very generally speaking, those are the three types of good Peanuts comics : funny, sweet, and the ones that do both of those things.</description>
+<enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/snoopy-snoopys-reunion.jpg" type="image/jpeg"/>
+<media:content url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/snoopy-snoopys-reunion.jpg" medium="image"/>
+</item>
+<item>
 <title>Netflix's Award-winning Dark Sci-fi Series is Officially Returning</title>
 <link>https://www.polygon.com/black-mirror-season-8-update-netflix</link>
 <guid isPermaLink="false">943083c6d440e3da56ce17c1a578c7e267b00ee59ea0fe28dde75ca73ecede4e</guid>
@@ -101,16 +112,5 @@
 <description>There’s something about RPGs. These games tell amazing stories players want to experience time and time again, are populated by memorable characters, and often explore deep themes — even if their heroes do tend to have memory problems, spiky hair, and swords the size of New Jersey.</description>
 <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/trails-in-the-sky-first-chapter-demo.jpg" type="image/jpeg"/>
 <media:content url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/trails-in-the-sky-first-chapter-demo.jpg" medium="image"/>
-</item>
-<item>
-<title>5 Brilliant Books To Read Before Kicking the Bucket</title>
-<link>https://www.polygon.com/brilliant-books-read-before-you-die</link>
-<guid isPermaLink="false">ff874155722aa9047c713fe7fd2f27f2b972470ffb492cfb2e00c408aa362183</guid>
-<source>Polygon</source>
-<category>gaming</category>
-<pubDate>Mon, 16 Nov 2026 00:00:17 +0000</pubDate>
-<description>Also, tastes are subjective. Not everyone might jive with Great Expectations or Les Misérables despite their objective artistic merit. The definition of “must-read” has drastically changed over time. Keeping this in mind, Polygon has chosen five brilliant, indisputable books to read before kicking the bucket. Some are obvious picks, while others, not so much.</description>
-<enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/perfume-movie.jpg" type="image/jpeg"/>
-<media:content url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/perfume-movie.jpg" medium="image"/>
 </item>
 </channel></rss>

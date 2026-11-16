@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple's new research app is designed to make AI health tools more user-friendly</title>
+<link>https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly</link>
+<guid isPermaLink="false">32afeecbe28656cb0f4263009ccf4f172abd9ac0ac4af1cf1f23642a76363dd8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 06:06:05 +0000</pubDate>
+<description>Apple has unveiled a new research study with the aim of learning how people use AI health tools.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apples-new-research-app-is-designed-to-make-ai-health-tools-more-user-friendly/l-intro-1794809079.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apples-new-research-app-is-designed-to-make-ai-health-tools-more-user-friendly/l-intro-1794809079.jpg" medium="image"/>
+</item>
+<item>
+<title>ULA Vulcan rocket failure destroys 40 Amazon Leo satellites</title>
+<link>https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites</link>
+<guid isPermaLink="false">cd5c45d4a80f0663d7240ec78a598b44d06011b4b48edb19b91003fc95f9d28a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 04:56:53 +0000</pubDate>
+<description>United Launch Alliance is known for its ultra-dependable Atlas V, but its its latest rocket is off to a shaky start.</description>
+<enclosure url="https://www.engadget.com/img/gallery/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/l-intro-1794804851.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/l-intro-1794804851.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon loses first batch of broadband satellites launched on custom rocket</title>
+<link>https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000</link>
+<guid isPermaLink="false">60e03a6f650d07ec6f548b59019302a24234ac4f8201c9add67abb0971c9ffc3</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 01:32:57 +0000</pubDate>
+<description>Amazon’s ambition to operate a constellation of broadband satellites took a hit on Sunday, when 40 of its craft failed to make it into orbit. The failure is significant because it was the first Amazon launch to use a rocket designed especially for the job of carrying its broadband birds to low Earth orbit. The Lockheed/Boeing joint venture United Launch Alliance (ULA) created that rocket, a version of its Vulcan heavy lifter using a six-booster configuration and a Centaur V upper stage optimized to carry payloads into low Earth orbit. Last week, Amazon previewed the launch with a post that noted this mission, code-named LV-01, is the first of 38 planned missions with ULA, and that LV-02 would likely follow within weeks. The two companies planned to test new hardware on the first “several” flights using the custom rocket. Amazon put 40 satellites aboard the Sunday mission and said it is “already planning larger configurations for subsequent missions.” Those plans, and the LV-02 launch, are probably on hold after the rocket suffered an anomaly 10 minutes into the flight. The flight began well, with the Vulcan reaching an altitude of 95 miles (150 km) and completing the first phase of its flight. Six minutes into the mission, the main booster and payload fairing both separated as planned, and ULA lit up the Centaur V’s engines for the first planned firings needed to reach low Earth orbit. Then came the anomaly, which UAL’s live update stream states meant the mission “failed to deliver the Amazon mission to orbit.” “Every flight generates data, and every flight teaches us something,” UAL wrote. “Since the anomaly just occurred, we don’t have any specific data yet to understand what occurred today.” Amazon already has over 200 satellites in orbit, had hoped to launch its satellite broadband service this year, and plans 20 or more launches in 2027. It is unclear if this mission failure will change those ambitions. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5310005&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5310005&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>How to clear the application cache on your Mac</title>
 <link>https://www.engadget.com/2314079/how-to-clear-application-cache-mac</link>
 <guid isPermaLink="false">14161a9eeb75407db958b4e140075420eeacb7462266751bcc46228346898dfa</guid>
@@ -288,28 +321,6 @@
 <description>The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, and a statement from Megaspeed claiming that Alice Huang hasn't worked for the company since August of 2025, which raises more questions than it answers. Some big names, including Elon Musk and Epic Games CEO Tim Sweeney, have publicly thrown their support behind a public letter demanding Nvidia " bring Jensen back ." The pub … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>How to find your IP address</title>
-<link>https://www.engadget.com/2313878/how-to-find-ip-address</link>
-<guid isPermaLink="false">171ed3ac2b213b36dd076689157573b474f3e0ae20c7eae7e4975eacb13c510a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 20:30:00 +0000</pubDate>
-<description>You may need to find your IP address for network troubleshooting reasons or to remotely access your computer.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-find-your-ip-address/l-intro-1793996600.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-find-your-ip-address/l-intro-1793996600.jpg" medium="image"/>
-</item>
-<item>
-<title>Amazon is reportedly working on a database for 'virtually every item for sale on Earth'</title>
-<link>https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth</link>
-<guid isPermaLink="false">6cebf9a346b0d9af742cb89173b44d76b919041bc7a4e49711ec23d5d5df5a90</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 20:19:05 +0000</pubDate>
-<description>This would include products that the online commerce giant doesn't even sell.</description>
-<enclosure url="https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/l-intro-1794770193.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/l-intro-1794770193.jpg" medium="image"/>
 </item>
 <item>
 <title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
@@ -1399,17 +1410,6 @@
 <description>Every so often a flaw comes along that shows how fast the ground can shift under IT and security teams. PHP2Shell, a pair of critical flaws in PHP, was one of them. Details leaked before the planned disclosure, frontier AI helped researchers find the flaws, and PHP shipped fixes the next day. For many teams, though, the patch was the easy part. So what does it take to respond at that speed, and where should teams begin? What does governed autonomous IT look like in practice? Picture a loop. Software finds where a risk lives and ranks what matters most. It proposes a fix, then, inside limits people define, carries it out and checks that it worked. Routine, low-risk actions can run on their own. Higher-impact ones wait for a person to approve. A few are never handed over at all. Each step leaves a record that someone can review and reverse. What challenges do IT and security teams face today? Three problems keep coming up. The first is visibility. PHP2Shell reportedly sat undetected for more than a decade. For these two flaws, the fix was a version upgrade. The hard part was finding every copy of PHP, including copies bundled inside other software or extracted by hand onto Windows machines that never registered as installed applications. Then teams had to work out which copies the internet could reach and check for signs of earlier attack. An inventory built from a periodic snapshot can't answer those questions on the day they matter. The second is tool-hopping. Answering "where does this run, and can the internet reach it?" often means pivoting across an asset inventory, a vulnerability scanner and an external attack surface tool, each with its own view. Every hop adds delay. Every console is another chance to disagree with the last. The third is pace. Several security firms reported exploitation attempts before PHP released its fixes, and Cloudflare reported early attacks hours ahead of the patch. Frontier AI models helped find PHP2Shell, and in April Anthropic said its Claude Mythos Preview model had found thousands of previously unknown flaws across every major operating system and browser. With models like these in the picture, the old rhythm of disclose, patch and verify assumes a gap that keeps shrinking. Put an AI agent on top of stale, fragmented data and these problems don't go away. They scale. Why does real-time endpoint data make autonomy trustworthy? Endpoints are where work happens and where many attacks end up, so they are the ground truth for any decision about the estate. Four qualities make that data a sound foundation for autonomous action: Accuracy: Live data from the endpoints themselves, not a snapshot that was true last week. Speed: A short path from question to action, with no hopping between tools to reconcile answers. Control: Approvals and an audit trail, plus the ability to roll back, so any automated action can be reviewed and reversed. Shared truth: IT operations, security and the system of record working from one vie</description>
 <enclosure url="https://image.theregister.com/?imageId=5308471&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5308471&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>AWS distills its cloud into a local emulator that runs on your PC</title>
-<link>https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251</link>
-<guid isPermaLink="false">8e891bacf51bdd23aa4c1d78c2960aa26f3fbae69709a55dd4617952ff14d203</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 05:47:31 +0000</pubDate>
-<description>AWS has released an emulator that kind-of-almost lets you use its cloud on a PC. As explained in the GitHub repository for the prosaically named “AWS Emulator,” the tool “is a local program that serves an AWS API endpoint.” The emulator doesn’t replicate the whole AWS cloud, instead offering its APIs. “You use it to test your software without calling AWS, on your own machine, on a development server, or in continuous integration (CI),” the repo explains. Because those tests never touch the AWS cloud, the tool is free to use. AWS wrote the emulator in Rust, a choice that senior specialist solutions architect Daniel Abib wrote helps to ensure the tool “stays light on CPU and memory on a laptop.” The emulator tool doesn’t replicate the entire AWS cloud. Abib said it supports the APIs of AWS services that have an API model in the AWS API models repository on GitHub . The Register found over 1,300 items on that page. While the tool lets developers test APIs, it doesn’t replicate anywhere near all the features of the Amazonian cloud. “It doesn’t evaluate IAM [Identity and Access Management] policies the way AWS does, and each emulator acts as a single account, with no cross-account or cross-Region behavior,” Abib wrote, adding “How closely it matches AWS varies by service and feature.” AWS publishes “fidelity scores” that detail how closely the emulator works on different AWS services. Amazon tries to achieve full fidelity, so the emulator produces the same results as AWS for valid API calls, and the same errors for invalid ones. Coding agents can also drive the Emulator, an option The Register mentions because AWS advises the easiest way to check if a project will work with the tool is to use the aws-emulator skill for AI coding agents. “With the skill, your agent finds the AWS operations and resources that your project depends on. It checks them against the fidelity tests and fidelity scores for the emulator. It then tells you which parts of your project you can rely on the emulator for, and which ones might behave differently from AWS,” according to AWS documentation. AWS has made the emulator available as an RPM or Debian package. Mac and PC users will need to run Docker and an image of the Emulator. “You install the emulator, start it, and point your tools at the local endpoint,” Abib instructed. “When AWS Emulator starts, it generates its own credentials, a config file, and a certificate, and writes them to ~/.aws/emulator/9297/ . You set environment variables so the AWS SDK talks to your laptop instead of AWS, and your application code stays unchanged.” “From there, your existing tests, CLI scripts, and coding agents keep working the way they already do. A unit test that creates an Amazon DynamoDB table, writes an item, and reads it back is the same test, and it runs on your machine without a deployment.” The cloud colossus’s intent appears, as ever, to encourage more use of its cloud – in this case by satisfying developers their code will run w</description>
-<enclosure url="https://image.theregister.com/?imageId=5309256&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5309256&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>This tiny box gives your older tech smart home superpowers – and it’s only $69</title>

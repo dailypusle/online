@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>FAA ground stop live updates: Flight cancellations continue into Monday</title>
+<link>https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled?id=138125140</link>
+<guid isPermaLink="false">0d667934dcad9ad1257264b0b3f732b1dae1ba892fc7913e7c02f4f91c1ca791</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 05:16:17 +0000</pubDate>
+<description>The administrator said the ground stop was the result of equipment failure.</description>
+<enclosure url="https://s.abcnews.com/images/US/airport-14-ap-gmh-261113_1794622359046_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/airport-14-ap-gmh-261113_1794622359046_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>William and Kate land in Mumbai for Earthshot Prize trip</title>
+<link>https://news.sky.com/story/william-and-kate-land-in-mumbai-for-earthshot-prize-trip-13612656</link>
+<guid isPermaLink="false">6db6be3a2e3adc92045e944e3f12cae05803a11158b6e237b536a92316e5a13b</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 04:12:00 +0000</pubDate>
+<description>The Prince and Princess of Wales have arrived ‌in Mumbai for the Earthshot Prize awards, ‌marking the couple's first official trip overseas in nearly four years.</description>
+<enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-prince-william-prince-of-wales_7276163.jpg?20260617202540" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/06/1920x1080/skynews-prince-william-prince-of-wales_7276163.jpg?20260617202540" medium="image"/>
+</item>
+<item>
 <title>Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide</title>
 <link>https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office</link>
 <guid isPermaLink="false">9f48760f0aa340f136bab4074fd44e5b22dff8d34141d93011c32d57dad13863</guid>
@@ -37,17 +59,6 @@
 <media:content url="https://s.france24.com/media/display/d037ba6a-d0a0-11f1-8d05-4b25c96ec90e/w:1024/p:16x9/10affafaee5f28571633ca44da4bc7b0878ca790.jpg" medium="image"/>
 </item>
 <item>
-<title>FAA ground stop live updates: Flight cancellations continue into Monday</title>
-<link>https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled?id=138125140</link>
-<guid isPermaLink="false">0d667934dcad9ad1257264b0b3f732b1dae1ba892fc7913e7c02f4f91c1ca791</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 01:42:00 +0000</pubDate>
-<description>The administrator said the ground stop was the result of equipment failure.</description>
-<enclosure url="https://s.abcnews.com/images/US/airport-14-ap-gmh-261113_1794622359046_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/airport-14-ap-gmh-261113_1794622359046_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Passenger jet collides with UPS plane on taxiway at Miami International Airport</title>
 <link>https://abcnews.com/video/138162241</link>
 <guid isPermaLink="false">4051ef7387becaaab65d0b6c67a8f2a8b38df3e0a078c7a4109c35e77d1ad963</guid>
@@ -79,6 +90,17 @@
 <description>Andy Burnham's government appears "complacent" about the potential for "catastrophic risks" to the UK - and the country is underprepared, an influential committee of peers has warned.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-food-shop-supermarket_7407479.jpg?20261116035926" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-food-shop-supermarket_7407479.jpg?20261116035926" medium="image"/>
+</item>
+<item>
+<title>Sky News announces new hosts of Sunday Morning With…</title>
+<link>https://news.sky.com/story/sky-news-announces-new-hosts-of-sunday-morning-with-13611914</link>
+<guid isPermaLink="false">9c8a8b4f5d872f888853cef368ba1f148f976f15ba3e885b71ee0194d9b727cb</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 00:01:00 +0000</pubDate>
+<description>Sky News has announced its hosting line-up for the next four episodes of its flagship Sunday morning current affairs programme.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-michael-gove-matt-forde_7405909.jpg?20261113153631" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-michael-gove-matt-forde_7405909.jpg?20261113153631" medium="image"/>
 </item>
 <item>
 <title>Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief</title>
@@ -422,15 +444,15 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-a19-road_7406989.jpg?20261115130834" medium="image"/>
 </item>
 <item>
-<title>Two planes collide while taxiing at Miami airport - as two suffer minor injuries</title>
-<link>https://news.sky.com/story/two-planes-collide-while-taxiing-at-miami-airport-as-two-suffer-minor-injuries-13612429</link>
-<guid isPermaLink="false">6e49a60d19b596ff70556a4f1663a033ec58b5ff4072bdab590653fd2a4b18d4</guid>
-<source>Sky News Home</source>
+<title>New Mexico wanted free childcare for all. This is what's worked — and what hasn't</title>
+<link>https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families</link>
+<guid isPermaLink="false">83e71fd2cba0415387eed2de44202aa299451c9b74b4c2f420a6362aa7c4fb53</guid>
+<source>NPR News</source>
 <category>world</category>
-<pubDate>Sun, 15 Nov 2026 10:23:00 +0000</pubDate>
-<description>Two planes have collided while taxiing at Miami airport, with the wingtip of a passenger jet striking the nose of a cargo aircraft, the Federal Aviation Administration (FAA) has said.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-miami-plane-collision_7406924.jpg?20261115124316" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-miami-plane-collision_7406924.jpg?20261115124316" medium="image"/>
+<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+<description>A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income. (Image credit: Nina Alexandria Riggio for NPR)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7440x4962+0+0/resize/7440x4962!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Fe0%2F3d5979dc4a7ca8677703331dfaec%2Funiversalchildcare-npr-10-30-2026-177.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7440x4962+0+0/resize/7440x4962!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Fe0%2F3d5979dc4a7ca8677703331dfaec%2Funiversalchildcare-npr-10-30-2026-177.jpg" medium="image"/>
 </item>
 <item>
 <title>Midterm voters ended the long-running GOP dominance in state legislatures</title>
@@ -442,17 +464,6 @@
 <description>In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers. (Image credit: Sarah Kallis)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F9a%2Fbd6787154ee2b81abbbf783d0aec%2Fimg-6611.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F9a%2Fbd6787154ee2b81abbbf783d0aec%2Fimg-6611.jpg" medium="image"/>
-</item>
-<item>
-<title>New Mexico wanted free childcare for all. This is what's worked — and what hasn't</title>
-<link>https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families</link>
-<guid isPermaLink="false">83e71fd2cba0415387eed2de44202aa299451c9b74b4c2f420a6362aa7c4fb53</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
-<description>A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income. (Image credit: Nina Alexandria Riggio for NPR)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7440x4962+0+0/resize/7440x4962!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Fe0%2F3d5979dc4a7ca8677703331dfaec%2Funiversalchildcare-npr-10-30-2026-177.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7440x4962+0+0/resize/7440x4962!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Fe0%2F3d5979dc4a7ca8677703331dfaec%2Funiversalchildcare-npr-10-30-2026-177.jpg" medium="image"/>
 </item>
 <item>
 <title>A new generation of disability rights activists carry on Judy Heumann's legacy</title>

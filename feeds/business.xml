@@ -4,7 +4,40 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack</title>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Aster CEO suspects foul play after token plunges 32% in minutes</title>
+<link>https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes</link>
+<guid isPermaLink="false">4bb6016727d296a8f5bfd4e698b8f9e4cb88d28835499d8aef2ac830eebec010</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 16 Nov 2026 05:28:40 +0000</pubDate>
+<description>Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HCTKP0DY9SJ6Z1XG7SGW4T/aquapark-falling-market-red.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HCTKP0DY9SJ6Z1XG7SGW4T/aquapark-falling-market-red.jpg" medium="image"/>
+</item>
+<item>
+<title>Asian chip stocks tumble ahead of Nvidia Q3 earnings</title>
+<link>https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings</link>
+<guid isPermaLink="false">a162bb698faaf0d20ef1e10f95eae7115d1158de88de0c78a1fe334518440850</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 16 Nov 2026 04:42:07 +0000</pubDate>
+<description>The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HAG95YKRDAYZ26YFMBK4VQ/stocks-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HAG95YKRDAYZ26YFMBK4VQ/stocks-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack</title>
 <link>https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack</link>
 <guid isPermaLink="false">da20fa7bd69fe44aefd5372969e50acbb90afba4414fb8c06214b4951e501094</guid>
 <source>Cointelegraph</source>
@@ -81,18 +114,7 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 15 Nov 2026 11:18:48 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin falls to four-month low near $62K as crypto selloff deepens</title>
+<title>Bitcoin falls to 4-month low near $62K as crypto selloff deepens</title>
 <link>https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff</link>
 <guid isPermaLink="false">2b69ffbe9b0ba3500f782274387c56dacef2277897d8680c2f363d2710dc9afd</guid>
 <source>Cointelegraph</source>
@@ -114,7 +136,7 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png" medium="image"/>
 </item>
 <item>
-<title>RWA protocol stUSDT winds down three years after $2.3B TVL peak</title>
+<title>RWA protocol stUSDT winds down 3 years after $2.3B TVL peak</title>
 <link>https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak</link>
 <guid isPermaLink="false">649acbe06a359430a257a7434a18ef991f87b98814ef9083eb6b253be6f4e493</guid>
 <source>Cointelegraph</source>
@@ -761,28 +783,6 @@
 <description>Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg" medium="image"/>
-</item>
-<item>
-<title>Gemini’s quarterly retail trading volume sinks to 3-year low</title>
-<link>https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low</link>
-<guid isPermaLink="false">54e7cff5bfa7145a07eaf6fede5870a6d0d56e9b065fb14e2353621db0c2fc8a</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 00:52:42 +0000</pubDate>
-<description>Gemini’s third-quarter trading rebound masked a deepening retail slump.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg" medium="image"/>
-</item>
-<item>
-<title>Maple Finance’s strategy rift sends co-founder, COO to the exits</title>
-<link>https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit</link>
-<guid isPermaLink="false">721f5667aa1a63827e0ccccb25c57b6fc1a8d4e27bdc942a62f343e64d1455dd</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 23:12:55 +0000</pubDate>
-<description>Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png" medium="image"/>
 </item>
 <item>
 <title>Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It</title>

@@ -4,6 +4,105 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Improve your Amazon Kindle experience by doing these simple things</title>
+<link>https://www.engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things</link>
+<guid isPermaLink="false">a9d3071e061f34aacdf5303d961a7622505e2fedffaf8110d8f0606f30f6375f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:00:00 +0000</pubDate>
+<description>If you love the convenience of a Kindle but miss the feel of having a physical book in your hands, we have some tips for you.</description>
+<enclosure url="https://www.engadget.com/img/gallery/improve-your-amazon-kindle-experience-by-doing-these-simple-things/l-intro-1794497965.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/improve-your-amazon-kindle-experience-by-doing-these-simple-things/l-intro-1794497965.jpg" medium="image"/>
+</item>
+<item>
+<title>China’s grip on Top500 remains uncontested as US chases AI-HPC fusion</title>
+<link>https://www.theregister.com/systems/2026/11/16/chinas-grip-on-top500-remains-uncontested-as-us-chases-ai-hpc-fusion/5310205</link>
+<guid isPermaLink="false">6b2fe66b5663ccaad2f68efda8447804ceddb52900b4751ae385c14e523ca54b</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:00:00 +0000</pubDate>
+<description>A new Top500 list of supercomputers has dropped, but little has changed. China remains uncontested with the most powerful supercomputer on the biannual ranking, and the US is not even close behind. The Middle Kingdom's LineShine super tops the list, boasting 2.2 exaFLOPS as measured by the High Performance Linpack (HPL) benchmark. That's roughly 22 percent ahead of Uncle Sam’s biggest iron, Laurence Livermore National Laboratory’s El Capitan . But LineShine may not be the most efficient. Using 42.2 megawatts, LineShine’s lead comes at the expense of a noticeably higher power bill; not that that makes much of a difference. Number one is number one, and to add insult to injury, the National Supercomputing Centre in Shenzhen (NSCS) did it in spite of US export controls denying them access to American GPUs. The entire super is powered by 45,360 LingKun LX2 CPUs , each with 304 Arm v9.2 cores clocking to 1.5 GHz. The US is unlikely to reclaim the number one spot any time soon, though not for lack of trying. Under the Genesis Mission announced late last year, the Department of Energy is on track to deploy at least nine new supers. It just so happens that most of these will be smaller or AI-focused machines, with few truly large systems. Oak Ridge National Laboratory’s (ORNL) Lux supercomputer , built in collaboration with HPE and AMD, is one such example. Delivering 220 petaFLOPS of double-precision grunt in HPL, it’s certainly a potent system. Just two years ago it would have been a top 10 supercomputer, but it''l have to settle for number 14 on this fall’s Top500 ranking. Now, if you’re willing to turn the resolution slider down to FP4, peak performance jumps to somewhere north of 20 exaFLOPS. That’s fine for AI inference and even some training, but for running multi-physics sims on America's nuclear deterrent, the DoE has traditionally gone for something a bit bigger. ORNL’s upcoming Discovery system will certainly have enough grunt to give LineShine the boot. Details on the HPE Cray based system remain thin, but we do know it’ll be powered by a combination of AMD Venice CPUs and Instinct MI430X GPUs. Unlike most of the GPUs sold today, the MI430X hasn’t forsaken double-precision grunt for low-precision AI throughput. Each of these multi-die chips is estimated to deliver north of 200 teraFLOPS of FP64 matrix math. According to the DoE, Discovery will deliver somewhere between 3x to 5x the performance of Frontier, which would put its Rpeak somewhere between 5.1 and 8.5 exaFLOPS at FP64. As impressive as that might sound, China has proven that once you take power out of the equation, all it takes to claim the number one spot is scale. And if there is one thing LineShine does well, it’s scale. In GPU-accelerated systems like El Cap, you’re lucky to push HPL to within 70 percent of the system’s theoretical roofline. But LineShine isn’t GPU-accelerated. Sure, with 16 HBM stacks, the LX2 looks a lot like a GPU, but it's really just an enormous CPU with en</description>
+<enclosure url="https://image.theregister.com/?imageId=5309743&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309743&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>5 ways AI will change how you defend your business in 2027</title>
+<link>https://www.zdnet.com/innovation/google-cloud-ciso-perspectives-2027-ai-security-defenses</link>
+<guid isPermaLink="false">d7c4cff31a92c7ae4c0b2b161de767261184b50f2845f6861b45b12686db78df</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 18:58:52 +0000</pubDate>
+<description>Security leaders reveal the future consequences of AI outpacing human defenders.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/walldefenses-2026-11-16-130819.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/walldefenses-2026-11-16-130819.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple is adding face unlock to the iPhone Duo — without new hardware</title>
+<link>https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta</link>
+<guid isPermaLink="false">1b7523674cf2bf5da55a8268aaa371416605203dd295eb10f98da4c3d2b4c33c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 18:44:16 +0000</pubDate>
+<description>Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by MacRumors . Currently, the only way to unlock the iPhone Duo is by using Touch ID or entering a passcode, which might feel like a step back if you prefer face authentication using the Face ID feature available on other iPhones. The iPhone Duo's face unlock feature seemingly has a few caveats, however: it's only available for the lock screen, you can only use your face for an unlock if you have used Touch ID or input a passcode within 45 minutes … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0082.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back</title>
+<link>https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back</link>
+<guid isPermaLink="false">f43b098f1551916a0e0feaa5c4769f3d02e505c24124c8615491b05cf9d4e699</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 18:43:35 +0000</pubDate>
+<description>Nvidia's board of directors "isn't considering" having Jensen Huang return as CEO, according to a report from CNBC . A source tells the outlet the board "is focused on an investigation into Huang, and is not in discussions to bring him back." Since Huang's resignation last week , tech executives, along with current and former Nvidia employees, have called for his reinstatement. An online petition to bring Huang back as CEO has amassed more than 180,000 signatures , including from major figures like Epic Games CEO Tim Sweeney, SpaceX CEO Elon Musk, and Replit CEO Amjad Masad. President Donald Trump said on Monday that it "certainly isn't a b … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>‘123456’ has been the world’s most popular password for 7 out of the last 8 years</title>
+<link>https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189</link>
+<guid isPermaLink="false">4469b5abf2fefd9d0d41a9e0d45a1083f4820d4e8cda0c7770cf7009387b698d</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 18:33:03 +0000</pubDate>
+<description>It’s been eight years since NordPass released the first edition of its most common passwords of the year list, and the world has learned nothing about password security in the meantime. NordPass’ eighth edition of its most common passwords list, as culled from data breaches, was released Monday, and it looks suspiciously like the previous ones in the worst possible way. “Once again, ‘123456’ is the most commonly used password in the world,” NordPass said in the report. “That makes it seven out of eight years this password has stood at the top of the leaderboard.” Even when 123456 wasn’t number one, it was still near the top of the heap, as the top three passwords in the list remain unchanged in the eight years NordPass has published its list: 123456, admin, and 12345678. It’s not like the rest of the most common passwords are showing any variety either. According to NordPass, the only real shuffling among the 10 most popular passwords was the entry of the worryingly short 1234 into the top ten and the migration of the ever-popular password “password” down slightly in the top 10 from 6th to 7th place. “We still have a lot of work to do to spread awareness about password safety,” NordPass concluded of that data – and there’s no more pressing time than the present. AI adoption has made password cracking an easier exercise than ever, with more credentials being sucked up in more data breaches at a faster pace. AI has also made cracking hashed passwords a snap too. In other words, if you’re reusing a password that’s been exposed in a breach, even if it’s just a hash that was exposed, you’re more likely than ever before to have another account compromised. The best advice NordPass gives is to move away from passwords toward biometric authentication or passkeys and you're insane not to enable MFA. But for the places you still have to use passwords, there are a few things to avoid – like the 200 passwords in NordPass’ list, for example. Beyond that, NordPass also recommends steering clear of pop cultural trends. “Fandoms make for terrible passwords,” NordPass notes. There are several reasons for that – namely the fact that they follow trends, meaning that “minecraft” password in the early 2000s was a simple one to add to a password stuffing dictionary, just like “skibiditoilet” in recent years. The one thing that connects all those pop-culture passwords is that “they all could be cracked in seconds,” NordPass said. We’re sure our readers are conscientious about their online habits, carefully protecting their accounts with the proper security measures and ensuring each and every password is unique, long, complicated, and random. Unfortunately for you smarties reading El Reg , the person down the hall whose security you’re responsible for may not be so disciplined, so be sure you’re enforcing good practices – Nord knows the average user just isn’t doing it despite years of begging and reminders. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5228156&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5228156&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage</title>
+<link>https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning</link>
+<guid isPermaLink="false">80ed49a19a4ec8896582544edb59d549e5cc573d814c0618b3519f3410491287</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 18:29:55 +0000</pubDate>
+<description>Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliver a safety alert about elevated chlorine levels in the pool, as spotted earlier by NotebookCheck and TechRadar . A machine-translated Facebook post from a German fire department said it responded to a Phantasialand hotel after a "technical malfunction" caused an excessive amount of chlorine to enter a swimming pool, resulting in chlorine gas leaking … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A_332561.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A_332561.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making</title>
+<link>https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144</link>
+<guid isPermaLink="false">1b9af830c0e43c673cdf35f318a16a07a7f1ef5703916853c4491c42a5c7cea9</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 18:28:00 +0000</pubDate>
+<description>The researcher who sounded the alarm over Dirty Frag earlier this year has uncovered another Linux kernel flaw, and this one lets attackers crash entire servers remotely without so much as a password. The vulnerability, tracked as CVE-2026-99288 and dubbed NoisyTCP, was discovered by security researcher Hyunwoo Kim , who says it affects almost all Linux distributions. The flaw dates back to October 2015 and went unnoticed until this year, when Kim found and patched it. Attackers don't need to log in or get their hands on any credentials to cause trouble. They can simply knock the server over, although there's no evidence yet that the flaw can be used to steal data or hijack a machine. The bug is buried in Linux's TCP networking code. Two parts of the kernel can trip over each other while processing incoming traffic, leaving one trying to use memory that's already been freed. When that happens, Linux can panic and take the whole machine down with it. Kim says there's no need for any special server configuration either. Services such as Nginx, Apache, and SSH can be vulnerable straight out of the box. An attacker needs access to an open TCP port on a system that processes incoming network traffic across multiple receive queues or CPUs. Perhaps more concerning for administrators running containerized workloads, the damage isn't necessarily limited to the application being attacked. Because the flaw sits in the Linux kernel, crashing a web server inside a container can take down the underlying host and anything else running on it. Kim found that the attack was particularly effective against virtual machines. During testing, he managed to crash Nginx, Apache, and SSH servers running on QEMU/KVM virtual machines in between five seconds and two minutes. Physical hardware put up more of a fight. Even after tailoring his exploit to the target machine, Kim needed roughly 14 hours to crash a bare-metal server running Nginx. Kim has a knack for finding holes in Linux. Back in May, he uncovered Dirty Frag , a kernel bug that allowed local users to gain root privileges. That one caused headaches for administrators when a working exploit went public before patches were ready. His latest discovery, NoisyTCP, has another potentially nasty trick up its sleeve. Kim identified a second exploitation path involving a use-after-free condition, although pulling it off is considerably more difficult than simply crashing a server. In his advisory, Kim says he has developed a limited exploit targeting virtual machines in a lab environment but has yet to demonstrate a general-purpose remote code execution attack. For the moment, the confirmed impact is remote denial of service. A fix was committed to the upstream Linux kernel on November 3, but administrators will need to check whether their distribution has shipped an updated kernel. Red Hat has rated the vulnerability Important , assigning it a CVSS score of 7.5. For those unable to patch immediately, Kim suggests two tem</description>
+<enclosure url="https://image.theregister.com/?imageId=5310154&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5310154&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>You won't find Nothing phones at US carriers, but here's how you can still buy them</title>
+<link>https://www.engadget.com/2314632/nothing-phones-not-available-us-carriers-how-still-buy</link>
+<guid isPermaLink="false">b1879354794b3def4564658714d8ff9f1becf808c1df3d2cacf23b16a4bfd392</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 18:15:00 +0000</pubDate>
+<description>While you can't get one at an AT&amp;T or Verizon store, Nothing has partnered with Best Buy.</description>
+<enclosure url="https://www.engadget.com/img/gallery/you-wont-find-nothing-phones-at-us-carriers-but-heres-how-you-can-still-buy-them/l-intro-1794493958.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/you-wont-find-nothing-phones-at-us-carriers-but-heres-how-you-can-still-buy-them/l-intro-1794493958.jpg" medium="image"/>
+</item>
+<item>
 <title>Ubuntu gets AI-generated security fixes for those feeling brave</title>
 <link>https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139</link>
 <guid isPermaLink="false">e582aa48fb7c45e17d716900a64db0e66f980600d8d1ed50df9c94a9f1434db3</guid>
@@ -81,17 +180,6 @@
 <media:content url="https://image.theregister.com/?imageId=262937&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Instagram will let creators add Amazon affiliate links directly to their posts and Reels</title>
-<link>https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels</link>
-<guid isPermaLink="false">f5dd7c223e3be6a11bf024c3572511578ab25979a3201920dae660719baa258f</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-<description>The app will become even more of a shopping mall, just in time for Black Friday.</description>
-<enclosure url="https://www.engadget.com/img/gallery/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/l-intro-1794612310.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/l-intro-1794612310.jpg" medium="image"/>
-</item>
-<item>
 <title>Google adds 66 regional dialects to Gemini</title>
 <link>https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini</link>
 <guid isPermaLink="false">e6ab3fe5c0f7e7bae35a47239ba22e70c5b821da8c1f3c9abda1d1b82fd8ee45</guid>
@@ -101,6 +189,17 @@
 <description>From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate.</description>
 <enclosure url="https://www.engadget.com/img/gallery/google-adds-66-regional-dialects-to-gemini/l-intro-1794828173.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/google-adds-66-regional-dialects-to-gemini/l-intro-1794828173.jpg" medium="image"/>
+</item>
+<item>
+<title>Instagram will let creators add Amazon affiliate links directly to their posts and Reels</title>
+<link>https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels</link>
+<guid isPermaLink="false">f5dd7c223e3be6a11bf024c3572511578ab25979a3201920dae660719baa258f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+<description>The app will become even more of a shopping mall, just in time for Black Friday.</description>
+<enclosure url="https://www.engadget.com/img/gallery/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/l-intro-1794612310.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/l-intro-1794612310.jpg" medium="image"/>
 </item>
 <item>
 <title>Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday</title>
@@ -334,28 +433,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg" medium="image"/>
 </item>
 <item>
-<title>Audible is trying to make it easier to find audiobooks you’ll actually like</title>
-<link>https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability</link>
-<guid isPermaLink="false">4c34a0e3e605a03cc9992fa44dcd0fca0e423a0df0a26ff7c4ff80d4b9370358</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
-<description>Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook collections that are personalized to individual listening tastes. Audio discovery provides a soundbite synopsis, with the aim of preventing Audible users from having to research titles on other platforms. The feature plays users a snippet of the audiobook and a brief AI-ge … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Google Maps can now create trip itineraries for you</title>
-<link>https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning</link>
-<guid isPermaLink="false">2fdf48c7e9e85e8a89cb9ceb9aa13fd201fec321a6e1a75a86e251a47f943cc6</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
-<description>Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As an example, Google says you can use Ask Maps to plan a day trip for holiday shopping, or have it create a schedule for a three-day road trip with stops for coastal hikes and oceanfront dining. From there, Ask Maps will generate a day-by-day schedule with a list of stops, while also showing your route and numbered pins for each … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Hands-on (and off) with Mercedes-Benz's upcoming MB.Drive Assist Pro system</title>
 <link>https://www.engadget.com/2315999/hands-on-and-off-with-mercedes-benz-mbdrive-assist-pro</link>
 <guid isPermaLink="false">34b176319fd7c93f29dac99941f9d99e25218c30f90ae35c04919b0eafbc58ff</guid>
@@ -442,17 +519,6 @@
 <description>Rapidly advancing AI models are making it cheaper and easier to uncover critical vulnerabilities, but it’s a double-edged sword – and a gift to hackers.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1346600545.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1346600545.jpg" medium="image"/>
-</item>
-<item>
-<title>The Nvidia scandal isn’t slowing down</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down</link>
-<guid isPermaLink="false">a0243e3626ac649675869afc1629aacaaadf94fe1b3586e1ee1aa933306e69a0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 13:00:00 +0000</pubDate>
-<description>For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are "the bedrock upon which advanced AI technology in the US is being built." Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at Huang's feet as they vie for more compute ahead of their much-hyped IPOs. Nvidia also has a varied investment portfolio of up-and-coming AI companies from neoclouds to infrastructure firms, worth nearly $100 billion, and Huang has President Donald Trump's ear. He's even been called Trump's "most inf … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Sony 27-inch Gaming Monitor with DualSense Charging Hook review: A piece of PC history</title>
@@ -673,28 +739,6 @@
 <description>Clearing app caches don't necessarily make your Mac run faster.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-to-clear-the-application-cache-on-your-mac/l-intro-1794426299.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-to-clear-the-application-cache-on-your-mac/l-intro-1794426299.jpg" medium="image"/>
-</item>
-<item>
-<title>The oldest gadget in your house could be your home network's biggest security hole</title>
-<link>https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk</link>
-<guid isPermaLink="false">364bd59a5c87aa16aaa6800e6cda2b0f863e4a8b2bd79b14be14af0e6277ffd9</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 01:00:00 +0000</pubDate>
-<description>It may be more economical to hold onto gadgets for as long as possible, but you're putting your entire home network at risk with outdate hardware.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-oldest-gadget-in-your-house-could-be-your-home-networks-biggest-security-hole/l-intro-1794425398.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-oldest-gadget-in-your-house-could-be-your-home-networks-biggest-security-hole/l-intro-1794425398.jpg" medium="image"/>
-</item>
-<item>
-<title>The pros and cons of using your phone as a mobile hotspot</title>
-<link>https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot</link>
-<guid isPermaLink="false">59df134be111358138edbfbbdacdde3e90acb8cd06f85575b42cf8333cff90c5</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 00:45:00 +0000</pubDate>
-<description>Using your phone to help other devices connect to the internet is undeniably convenient, but it also comes with other perks – and a few downsides.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-your-phone-as-a-mobile-hotspot/l-intro-1794063254.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-your-phone-as-a-mobile-hotspot/l-intro-1794063254.jpg" medium="image"/>
 </item>
 <item>
 <title>Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows</title>
@@ -1324,39 +1368,6 @@
 <media:content url="https://image.theregister.com/?imageId=5305565&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam</title>
-<link>https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523</link>
-<guid isPermaLink="false">10bbbe00f6860fea900369329956e5ffe43fd16a8557029799037dc6a59ae5a0</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 23:51:00 +0000</pubDate>
-<description>The US government on Thursday said it had obtained court authorization to seize or restrain use of over $1.2 billion stolen during last month's $6.3 billion Binance heist, as part of a larger effort to disrupt North Korea's ongoing cryptocurrency theft. The court also allowed the takedown of cloud-based infrastructure used in a Democratic People’s Republic of Korea (DPRK) social engineering scheme called “FaceStealer” that has amassed more than $400 million in the last 18 months. It’s called FaceStealer because it involved secretly recorded webcam videos. Victims are typically people working in the cryptocurrency and web3 industries, along with open source software developers and maintainers who DPRK hackers target in the hope of accessing the software repositories they control as the first step towards creating supply chain attacks. 900+ faces stolen The FBI said it had seized more than 900 webcam videos belonging to these tech workers. Here’s how the attack works. First, the North Koreans send targets an invitation to join a video meeting. Those invitations come from hijacked accounts that the next intended victim may find familiar or credible. “You're going to think it's real because it's going to be based on either conversations or interests you've expressed in the past with this actual person,” said special agent Jeremy Robertson, who oversees counterintelligence and cyber investigations at FBI Los Angeles. “They're going to then send you a link to catch up, and it's usually a calendar invite, and it's going to have some typo-squatted URLs in there,” he told reporters on Thursday. The URL directs the victim to a fake Zoom or Teams meeting, and the cybercriminals record the target’s webcam video while playing a phony, prerecorded video of the person who purportedly sent the meeting invite. Sometimes the hackers also use deepfake videos of well-known individuals in the cryptocurrency and web3 industries, we’re told. “When you log in, whoever invited you – your friend or business associate – is going to be on the screen, but you're not going to hear any audio,” Robertson said. “But you're going to see their face, you're going to see them looking around, you're going to see them mouthing some words, and then in the text box you're going to receive some instructions.” ‘You’re on mute’ as a social engineering vector The text box tells the victim that the person on the other end of the video call can’t hear them, they need to upgrade their software for the audio to work properly, and it sends a link to the supposed fix. Clicking to access the “fix” installs cryptocurrency-stealing malware on the victim’s computer and sends their contact list to the digital thieves to perpetuate the scam. The FBI attributes FaceStealer to a North Korea-linked group tracked as Sapphire Sleet , which is widely regarded as a Lazarus Group offshoot. Sapphire Sleet is also known as UNC1069, Stardust Chollima, APT38, and BlueNoroff. “The actors behind this activity, commo</description>
-<enclosure url="https://image.theregister.com/?imageId=5309552&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5309552&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Microsoft struggling to fix massive cloud outage that's taken down email and Intune</title>
-<link>https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531</link>
-<guid isPermaLink="false">40799bbe98237bf03e8edfe7391350d18ed345b50bd9edb44bf4929fde7edab4</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 23:06:06 +0000</pubDate>
-<description>Microsoft is struggling to restore many of its cloud services after a core process running on some servers became “overwhelmed” and its attempts to fix the problem failed. The incident started at around 18:00 UTC on November 12, and meant services including Exchange Online, Teams, Copilot 365, and Defender for Office 365 became unavailable. Admins trying to figure out what was wrong couldn’t access tools like Intune or the Microsoft 365 Apps Admin Center – they went down, too. On its X feed, Microsoft blamed “a problem that's causing servers to fail automated health checks and become unavailable.” The company said it hasn’t spotted any changes to its systems that might have sparked the incident, but its early investigation “indicates the failed health checks may originate from a specific component that's responsible for processing server health.” The company’s status page offers contradictory information, saying Microsoft’s people are “assessing whether reverting the small number of recent configuration updates we identified could help accelerate recovery.” According to a Xeet published at around 22:00 UTC, Microsoft said it found and validated an alternative service health check method, “which allowed a subset of affected servers to successfully return to service.” “We're continuing to work through restarting and validating the affected servers to safely return them to service, and we're exploring opportunities to expedite this process,” the company wrote. But those efforts may not be working. “We’re continuing to pursue all available pathways to restore service, as our actions taken thus far have not provided the anticipated relief,” the status page advises. “Our investigation has found that a core process on the affected servers is becoming overwhelmed, which causes the servers to stop responding and contributes to the capacity loss.” The incident means email is not flowing for many Microsoft customers: friends and family of Reg writers tell us their working days are severely disrupted. Microsoft’s most recent Xeet on the matter, published about an hour before this story went live, says it's trying to validate a potential recovery by “isolating a portion of infrastructure, restarting affected components, and reintroducing traffic to confirm the services remain stable before applying the change more broadly.” But the software giant hasn’t offered any timeline for full service restoration. This is a developing situation and The Reg will update this story as more information becomes available. ® UPDATED AT 00:35 UTC November 13 to add news that Microsoft says it has brought some servers back online and that they " initially remain healthy" but "can become unresponsive again once they begin receiving traffic." So not usefully healthy at all, then. "We're analyzing diagnostic data from these servers with our networking and platform experts to determine what's triggering this behavior," the company advised.</description>
-<enclosure url="https://image.theregister.com/?imageId=5237217&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5237217&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Google promises its new smart specs won't give creeps their ideal view</title>
-<link>https://www.theregister.com/personal-tech/2026/11/12/google-promises-its-new-smart-specs-wont-give-creeps-their-ideal-view/5309497</link>
-<guid isPermaLink="false">9d9e33776d563fda725d3431fbce5b92a3ff9a82f1da3a5bc4b5ed7c0045fcb5</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 22:17:08 +0000</pubDate>
-<description>It’s been nearly a decade since Google ditched its ill-fated "Glass" product, an early attempt at making smart glasses. Now, as rivals like Meta enter the market with arguably more stylish kit, the Chocolate Factory has returned to the market and this time promises it won't invade your privacy. As announced Thursday, Google has decided not to make wearables itself, instead turning Samsung and eyeglass makers Warby Parker and Gentle Monster. Like most of the rest of this generation of smart glasses, none of the nine styles available feature heads-up displays, just cameras and audio feedback from Gemini. Google suggests its smart specs give users a chance to ask its Gemini chatbot questions about what they see, or have the AI speak turn-by-turn directions. Wearers of the device can also push a button or speak a command to activate the built-in 12MP camera and shoot snaps or video. Warby Parker's version of the glasses will come in three styles, with prescription and sunglass lenses available. Prices start at $395. The same lens options are available in the six frames from Gentle Monster, which will start at $449. Both manufacturers promise nine hours of battery life, boosted by charging cases that can refresh the glasses up to seven times. Preorders for both are available now, with shipments arriving, and sales beginning, on December 10. Google promises privacy The Chocolate Factory, not exactly known for being reliable with its privacy claims, is insisting that this latest generation of smart glasses won’t produce another generation of “glassholes,” folk whose focus on wearable devices became synonymous with being creepy and rude to those around them. Google has some catchup to do to that end, given Meta’s smart glasses have already landed it in hot water over privacy concerns that have led to some calling the devices “ pervert glasses .” Unsurprisingly, at around the same time it announced its new "intelligent eyeware," Google published a blog post detailing how it intends to mitigate privacy concerns. As with similar headsets, there’s a little light that comes on whenever the camera is activated. In Google’s case, it claims that light is tamper-resistant and designed to disable recording if something as small and simple as a bit of hair blocks a view of the light. It’s not clear how the tamper proofing works from Google’s statements, but a spokesperson told us a combination of hardware and software is used to detect attempts to disable or disrupt privacy features. “We're committed to continuously improving the effectiveness of these solutions as new attack vectors are identified,” Google told us. The glasses don't save images or video captured by the camera into a user’s Gemini history, Google said, nor are visuals used to train the company’s AI models or target advertisements. Google told us it does save audio recordings and transcripts of conversations with Gemini that users create while wearing the glasses but again insists that those aren’t</description>
-<enclosure url="https://image.theregister.com/?imageId=5309522&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5309522&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley</title>
 <link>https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go</link>
 <guid isPermaLink="false">e6c38db2fdfd90b54dba68347c873cbaabff76d6799b03cf3ca62aab852fc6b5</guid>
@@ -1564,28 +1575,6 @@
 <description>When the print on your Android display is too small to read, and the pinch-to-zoom feature isn’t working as expected, try this.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/maghero.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/maghero.jpg" medium="image"/>
-</item>
-<item>
-<title>Google’s new AI tool just proved Signal encryption really works – here’s how</title>
-<link>https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works</link>
-<guid isPermaLink="false">20772dbda054f7d06b65ae1b7efcba6876c84b7eb23694330040cc04123753ac</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 16:31:47 +0000</pubDate>
-<description>With the aim of securing other vital systems, Google DeepMind plans to open-source its AlphaProof Code.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2206371598.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2206371598.jpg" medium="image"/>
-</item>
-<item>
-<title>Your FitBit Versa and Sense smartwatches will lose some features this month – what to know</title>
-<link>https://www.zdnet.com/tech/fitbit-versa-sense-smartwatches-third-party-apps</link>
-<guid isPermaLink="false">48b72e8c3b1650b35f2ba18383444e0deec7d00dc95c2a47c57edb6740fec1b6</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 15:55:35 +0000</pubDate>
-<description>Time’s running out for some Versa and Sense models. After Nov. 28, you can no longer install or update third-party apps or clockfaces on these Google smartwatches.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/fitbit-versa-2-3_287f7c.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/fitbit-versa-2-3_287f7c.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen</title>

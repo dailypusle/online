@@ -142,7 +142,8 @@
       "name": "Sky Sports Premier League",
       "url": "https://www.skysports.com/rss/11661",
       "category": "sports",
-      "enabled": true
+      "enabled": true,
+      "require_body": true
     },
     {
       "name": "Sky Sports Formula 1",
@@ -187,10 +188,11 @@
       "enabled": true
     },
     {
-      "name": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/rss/",
+      "name": "Sky Sports Football",
+      "url": "https://www.skysports.com/rss/12040",
       "category": "sports",
-      "enabled": true
+      "enabled": true,
+      "require_body": true
     },
     {
       "name": "Science.org News",

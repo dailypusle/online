@@ -1,232 +1,259 @@
 {
   "top": [
     {
-      "title": "Microsoft details how three problems combined for a global outage",
-      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage",
-      "source": "Ars Technica",
-      "date": "2026-11-16T21:56:39Z",
-      "description": "A hidden defect in Microsoft's cloud gateway, dormant since July, was to blame for one of the largest outages in the company's history last week. A preliminary Post-Incident Report (PIR) released by the company outlines how the latent bug, changes in traffic, and reduced server capacity combined to knock much of Microsoft 365 and Exchange infrastructure offline at the end of last week. Microsoft's report lists the incident's final status as \"a technical issue not related to cyber or AI/agents.\" Microsoft's preliminary report places the outage between November 12 at 16:20 UTC and November 13 at 16:10 UTC, just under 24 hours total, and additional monitoring remained in place for any affected systems through November 14. The outage started on November 12 and quickly rippled through businesses and public offices that depend on Microsoft's cloud and email exchange infrastructure. The outage is covered in Microsoft's incident IDs EX1550543 and MO1550821. You need Microsoft 365 admin credentials to see the full report on the company's status pages, but Office Watch has reproduced the preliminary report , and the University of Pennsylvania maintains an archive of Microsoft's service-health updates . Read full article Comments",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage-500x500.jpg",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "source": "The Verge",
+      "date": "2026-11-16T22:54:59Z",
+      "description": "United Airlines passenger planes are seen at gates at Newark Liberty International Airport (EWR) in Newark, New Jersey, on November 15, 2026. | AFP via Getty Images Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide , United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the issue itself. The outage is also coming after last week's global Microsoft Outlook shutdown , and the great-bank-outage-that-wasn't earlier Monday afternoon. According to posts on social media , a number of people onboard the planes have heard from their pilots that a systemwide IT outage for United has caused problems with a … Read the full story at The Verge.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "technology"
-    },
-    {
-      "title": "Daniil Medvedev sees off Flavio Cobolli in straight sets at ATP Finals 2026: live updates and reaction",
-      "link": "https://www.nytimes.com/athletic/live-blogs/medvedev-vs-cobolli-live-updates-atp-finals-2026-score-result/HiIrMbf2qtAu",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T21:55:44Z",
-      "description": "Follow live updates as Russia's Medvedev defeats Italy's Cobolli in Turin.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/HiIrMbf2qtAu_Dn65cYkM6Fl7_1440x960.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Some US banks reporting technical issues, delays with online transactions",
-      "link": "https://abcnews.com/Business/us-banks-reporting-technical-issues-online-transactions/story?id=138187551",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-16T21:54:18Z",
-      "description": "JPMorgan said customers \"still have access to their accounts and funds.\"",
-      "image": "https://s.abcnews.com/images/US/chase-1-ap-gmh-261116_1794857898057_hpMain_16x9_1600.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Packers plan for Micah Parsons to make season debut vs. Rams on Thanksgiving Eve",
-      "link": "https://www.nytimes.com/athletic/7787779/2026/11/16/micah-parsons-injury-update-packers-rams",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T21:52:48Z",
-      "description": "Micah Parsons has been sidelined since tearing his ACL and meniscus in his left knee on Dec. 14 against the Denver Broncos.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16162529/GettyImages-2248433538-scaled.jpg",
-      "category": "sports"
     },
     {
       "title": "NFL live updates: Aidan Hutchinson, Drake Maye latest, news, reaction and more from Week 10",
       "link": "https://www.nytimes.com/athletic/live-blogs/nfl-live-updates-news-week-10-results/XI4XTTSsypAp",
       "source": "The Athletic Sports",
-      "date": "2026-11-16T21:50:51Z",
+      "date": "2026-11-16T22:51:00Z",
       "description": "Follow our live coverage as we break down the aftermath of Sunday’s NFL games.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/XI4XTTSsypAp_8AEMobRASS8j_1440x961.jpg",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/XI4XTTSsypAp_23H1E7X47USZ_1440x960.jpg",
       "category": "sports"
     },
     {
-      "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
-      "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
-      "source": "Decrypt",
-      "date": "2026-11-16T21:46:03Z",
-      "description": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind.",
-      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
+      "title": "German lawmakers back crypto freezes outside criminal cases",
+      "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases",
+      "source": "Cointelegraph",
+      "date": "2026-11-16T22:46:44Z",
+      "description": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-friendly-countries-ranking3.jpg",
       "category": "business"
     },
     {
-      "title": "[VIDEO] 2027: Obi Won’t Get Up To Six Million Votes, Won’t Win Lagos — YPP’s Agada",
-      "link": "https://www.channelstv.com/2026/11/16/2027-obi-wont-get-up-to-six-million-votes-wont-win-lagos-ypps-agada",
-      "source": "Channels Television",
-      "date": "2026-11-16T21:43:48Z",
-      "description": "The presidential candidate of the Young Peoples Party (YPP) for the 2027 general election, Peter Agada, has said that a former Anambra State governor, Peter Obi, will not secure up to 30 per cent of the six million votes he got in the 2023 presidential election. Agada stated this on Monday during an interview on Channels Television’s Politics Today . He said that the Nigeria Democratic Congress (NDC) presidential candidate, who was of the Labour Party (LP) in 2023, won in Lagos due to the support received from different groups, including members of the #EndSARS group, youths, and workers. ﻿ He, however, said Obi would not win in Lagos in the forthcoming presidential election. While assessing the administration of President Bola Tinubu, Agada said that though he supports Tinubu’s removal of the fuel subsidy, he has a problem with the President not targeting the real end users and subsidising the product. He also said that Nigeria is losing about 70 per cent of its revenue to overbloated contracts. He also described the Lagos-Calabar Coastal Highway ₦1trn budget as overbloated, saying that he would construct one kilometre of the road for ₦750 million or ₦800 million. Asked whether he was part of the proposed coalition to unseat President Tinubu, Agada said no one had approached him. Watch the video below. ﻿ The post [VIDEO] 2027: Obi Won’t Get Up To Six Million Votes, Won’t Win Lagos — YPP’s Agada appeared first on Channels Television .",
-      "image": "https://www.channelstv.com/wp-content/uploads/2026/11/lf1aawbinbq.jpg",
-      "category": "nigeria"
+      "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It",
+      "link": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
+      "source": "Decrypt",
+      "date": "2026-11-16T22:46:02Z",
+      "description": "Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases.",
+      "image": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png",
+      "category": "business"
     },
     {
-      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-      "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
-      "source": "The Verge",
-      "date": "2026-11-16T21:41:57Z",
-      "description": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking . Were it not for steroid-obsessed influencers like Anthony \"Tony Huge\" Hughes launching YouTube channels over a decade ago, looksmaxxing might not have become such a prominent part of the digital media landscape in 2026. These creators became internet famous by presenting themselves as peak male specimens. But their larger-than-life online personas often concealed the truth about ho … Read the full story at The Verge.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/184084_bk_press_still_1.579.1.jpg?quality=90&strip=all&crop=10.051873779297,10.653583930772,89.948126220703,89.346416069228",
-      "category": "technology"
-    },
-    {
-      "title": "Mike Vrabel talks in semi-circles, and cryptic rhetoric does the reeling Patriots no favors",
-      "link": "https://www.nytimes.com/athletic/7787631/2026/11/16/mike-vrabel-patriots-lions-loss-cryptic-remarks-winners",
+      "title": "Chargers vs. Ravens live updates: NFL ‘Monday Night Football’ score, predictions, odds and latest",
+      "link": "https://www.nytimes.com/athletic/live-blogs/chargers-vs-ravens-live-score-updates-nfl-mnf-result/aQTu9bPlh0f1",
       "source": "The Athletic Sports",
-      "date": "2026-11-16T21:41:36Z",
-      "description": "A grim-faced Mike Vrabel spoke cryptically about his roster after the Patriots were routed Sunday in Germany: “Winners,” Vrabel said, “figure out ways to help the team win. And they don’t bitch and complain.\"",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16153914/GettyImages-2305248041-scaled.jpg",
+      "date": "2026-11-16T22:45:11Z",
+      "description": "Follow our live coverage as the Week 10 finale pits the winless Los Angeles Chargers against the Baltimore Ravens.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/aQTu9bPlh0f1_gXwI9TX8nuny_1440x960.jpg",
       "category": "sports"
-    },
-    {
-      "title": "Strasbourg approach Swansea over head coach Vitor Matos",
-      "link": "https://www.nytimes.com/athletic/7787524/2026/11/16/vitor-matos-strasbourg-swansea",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T21:38:11Z",
-      "description": "Matos has led Swansea to the Championship play-off places during his first full season in charge.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16135755/GettyImages-2300058983-scaled-e1794855492635.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
-      "source": "Space.com",
-      "date": "2026-11-16T21:34:36Z",
-      "description": "null On Nov. 16, 1974, humans sent their first message to the stars in an attempt to contact extraterrestrials. They did this using what was then the largest radio telescope in the world, located at the Arecibo Observatory in Puerto Rico. A group of scientists led by Frank Drake and Carl Sagan sent their message to the M13 star cluster . The message was written in binary code and contained information about human DNA. It also included figures of a human, the solar system and the Arecibo telescope. The idea was that if any aliens were to receive the signal and figure out how to decode it, they would know where it came from. Because M13 is 25,000 light-years away, it will take 25,000 years for any M13 aliens to hear our message — if they are even out there. (Image credit: SETI) Why it mattered The Arecibo message is only one of several messages intended for extraterrestrials, but this signal sent from Puerto Rico in 1974 was humanity's first intentional olive branch to the stars. At the time, it was the most powerful broadcast ever beamed into space, according to the SETI Institute. \"The broadcast was particularly powerful because it used Arecibo's megawatt transmitter attached to its 305 meter antenna,\" SETI wrote of the broadcast in a project over. \"The emission was equivalent to a 20 trillion watt omnidirectional broadcast, and would be detectable by a SETI experiment just about anywhere in the galaxy, assuming a receiving antenna similar in size to Arecibo's.\" The message was designed by astronomy professor Frank Drake of Cornell University (who also developed the famed Drake Equation for alien life), as well as Cornnell graduate students Richard Isaacman and Linda May, and Arecibo staff member James Walker, with input from astronomer Carl Sagan and others, according to Cornell University . The message included 1,679 bits that were arranged in 73 lines of 23 characters per line, all prime numbers, with the broadcast lasting less than 3 minutes, according to SETI. As of 2026, the message should have traveled about 52 light-years (1 light-year is the distance light travels in a year), with 24,948 light-years to go before reaching star cluster M13. The Arecibo message may have been the first message of its kind, but it wasn't the last. We have also included messages on several spacecraft, such as Pioneer and Voyager. NASA and Paul McCartney also b eamed a performance of \"Across the Universe\" in 2008. Want more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube .",
-      "image": "https://cdn.mos.cms.futurecdn.net/fsUicFVD4jgiZ2EbS7pCQK-1920-80.jpg",
-      "category": "science"
     },
     {
       "title": "NBA season live updates: LeBron James won't play for 76ers against Nets, latest on Las Vegas expansion and more news",
       "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
       "source": "The Athletic Sports",
-      "date": "2026-11-16T21:34:19Z",
+      "date": "2026-11-16T22:45:03Z",
       "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
       "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_DtkXNvA62sgj_1440x960.jpg",
       "category": "sports"
     },
     {
-      "title": "The Next Bond Girl: From Zendaya to Florence Pugh, 19 Actresses Who Could Join Robert Pattinson",
-      "link": "https://variety.com/lists/bond-girl-predictions-robert-pattinson-007",
+      "title": "Chase outage disrupts online banking and Zelle payments in United States",
+      "link": "https://www.france24.com/en/americas/20261116-chase-outage-disrupts-online-banking-and-zelle-payments-in-united-states-us-software",
+      "source": "France 24",
+      "date": "2026-11-16T22:40:51Z",
+      "description": "American users of several major banking apps and online portals reported outages on Monday, according to the monitoring site Downdetector.com, with one institution ruling out a cyberattack as the cause. Among those affected by the outages were Bank of America, JPMorgan Chase and the popular money transfer app Zelle.",
+      "image": "https://s.france24.com/media/display/0b34ad5e-e20c-11f1-ace7-3f371022a770/w:1024/p:16x9/AP26320767161907.jpg",
+      "category": "world"
+    },
+    {
+      "title": "United Airlines is experiencing a 'widespread system outage'",
+      "link": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage",
+      "source": "Engadget",
+      "date": "2026-11-16T22:38:43Z",
+      "description": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.",
+      "image": "https://www.engadget.com/img/gallery/united-airlines-is-experiencing-a-widespread-system-outage/l-intro-1794868553.jpg",
+      "category": "technology"
+    },
+    {
+      "title": "‘NAZA’ Filmmakers Grateful for ‘Light Being Shone’ on Their Film Through Awards Conversation but Prioritize Impact: It’s a ‘Small Cog in a Machine of Resistance’",
+      "link": "https://variety.com/2026/film/global/naza-yuval-abraham-james-wilson-awards-impact-idfa-1236949104",
       "source": "Variety",
-      "date": "2026-11-16T21:31:29Z",
-      "description": "The name is Pattinson, Robert Pattinson, but who will be his first Bond Girl? Amazon MGM Studios has made it official, naming the 40-year-old Brit the next James Bond in the exclusive franchise, with Denis Villeneuve helming the next film from a script by Steven Knight and Amy Pascal and David Heyman producing. But 007 […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000_eb50dc.jpg",
+      "date": "2026-11-16T22:32:38Z",
+      "description": "Over the last few years, leading documentary festival IDFA has become a crucial stop on the awards season trail, with major streamers and key studios courting voters in Amsterdam’s imposing 17th-century canalside houses and theaters. One of the key titles in this year’s best documentary race, however, has foregone glitzy cocktails and receptions in favor […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/VARIETY-SIZING-91.png",
       "category": "entertainment"
     },
     {
-      "title": "How the USA dominated Canada in Women’s hockey World Championship gold medal game",
-      "link": "https://www.nytimes.com/athletic/live-blogs/usa-vs-canada-live-updates-score-womens-hockey-world-championship-result/sEyOywp3VTqf",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T21:30:49Z",
-      "description": "Kelly Pannek and Hilary Knight each scored two goals to lead the Americans past the Canadians.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/sEyOywp3VTqf_mFlcp0hlwWQF_1440x960.jpg",
+      "title": "La Francophonie 'waning in global influence': Linguistic institutions becoming 'less important'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261116-la-francophonie-waning-in-global-influence-linguistic-institutions-becoming-less-important",
+      "source": "France 24",
+      "date": "2026-11-16T22:29:45Z",
+      "description": "François Picard is pleased to welcome Phil Clark, professor of international politics at SOAS University of London. The diplomatic crisis between Rwanda and the Democratic Republic of Congo spilling out at the Francophonie summit in Phnom Penh for all to see has exposed an unexpected shift in their relations. Clark says that \"nobody expected Rwanda to back down in this way\" following President Macron's request that Paul Kagame withdraw Louise Mushikiwabo's candidacy for a third term.",
+      "image": "https://s.france24.com/media/display/2c7ebce6-e209-11f1-a83b-3f371022a770/w:1024/p:16x9/EN-20261116-181805-182744-CS.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Price produces controversial 145 checkout en route to Grand Slam win",
+      "link": "https://news.sky.com/story/grand-slam-of-darts-gerwyn-price-produces-controversial-145-checkout-en-route-to-routine-victory-over-sebastian-bialecki-13612949",
+      "source": "Sky News Sports",
+      "date": "2026-11-16T22:25:00Z",
+      "description": "Gerwyn Price produced a controversial 145 checkout en route to a routine Grand Slam of Darts victory over Sebastian Bialecki on Monday night in Wolverhampton.",
+      "image": "https://e3.365dm.com/26/11/1920x1080/skysports-gerwyn-price-sebastian-bialecki_7408162.jpg?20261116213534",
       "category": "sports"
     },
     {
-      "title": "IGP visits Otti, lauds Abia govt’s support for Nigeria police",
-      "link": "https://www.premiumtimesng.com/promoted/925722-igp-visits-otti-lauds-abia-govts-support-for-nigeria-police.html",
-      "source": "Premium Times Nigeria",
-      "date": "2026-11-16T21:29:22Z",
-      "description": "“I appreciate the IGP's visit and look forward to sustained collaboration with the Nigeria Police Force in our collective commitment to a safer and more secure Abia State,” the Abia governor said. The post IGP visits Otti, lauds Abia govt’s support for Nigeria police appeared first on Premium Times Nigeria .",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/11/IMG_2772.jpeg?fit=1280%2C853&ssl=1",
-      "category": "nigeria"
+      "title": "Florian Wirtz scores twice as Germany beat Netherlands 5-0 to reach Nations League quarter-finals",
+      "link": "https://www.nytimes.com/athletic/7787829/2026/11/16/florian-wirtz-germany-netherlands",
+      "source": "The Athletic Sports",
+      "date": "2026-11-16T22:20:42Z",
+      "description": "Germany scored four second-half goals, including one spectacular solo effort from Wirtz.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16171144/GettyImages-2304980487-scaled-e1794867135188.jpg",
+      "category": "sports"
     },
     {
-      "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
-      "link": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
-      "source": "France 24",
-      "date": "2026-11-16T21:27:15Z",
-      "description": "The US state of California has filed a lawsuit against OpenAI over the \"Hugging Face\" and other cyberattacks, accusing the ChatGPT maker of knowingly testing dangerous advanced AI models without adequate safeguard. Meanwhile, the US Commerce Department has tightened rules over the export of US technology, aiming to close a loophole around remote access to advanced AI chips.",
-      "image": "https://s.france24.com/media/display/6ceddd6e-e201-11f1-a43b-695cb59fade5/w:1024/p:16x9/EN-NW-IVS-ECO-CALIFORNIA-STATEMENT-OPENAI-LAWSUIT-ROYER-Yuka-transfer.png",
-      "category": "world"
-    },
-    {
-      "title": "Variety’s 10 Comics to Watch Bring Stand-Up, Sketch and Songs to Hilarious New York Comedy Festival Showcase",
-      "link": "https://variety.com/2026/tv/news/variety-10-comics-to-watch-new-york-comedy-festival-showcase-1236947445",
-      "source": "Variety",
-      "date": "2026-11-16T21:27:07Z",
-      "description": "Variety’s 10 Comics to Watch for 2026 brought laughter, cheers and ’90s rock parodies to the New York Comedy Festival on Thursday. The comedians, who represent the funniest and most exciting rising voices in comedy, each performed a seven-minute set for a lively audience at the Venue on Music Row at the Hard Rock Hotel […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Facetune_16-11-2026-16-18-20.jpg",
-      "category": "entertainment"
-    },
-    {
-      "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
-      "source": "Space.com",
-      "date": "2026-11-16T21:26:29Z",
-      "description": "null STARBASE, Texas — SpaceX has officially wrapped up the 15th test flight of its massive Starship rocket, successfully catching the vehicle's upper stage for the first time. Flight 15 lifted off from SpaceX's Starbase facility here in South Texas on Friday (Nov. 13). The mission was billed as the first to bring both of Starship's stages, the Super Heavy booster and Ship upper stage, back to the launch site for recovery. And, while SpaceX was forced to divert Super Heavy's return to an off-shore splashdown (and explosion), the upper stage managed to survive its 22-hour jaunt in orbit and plunge through the atmosphere for a picture-perfect catch by the launch tower back at Starbase. It was the first-ever Ship catch, and a huge milestone toward SpaceX's ultimate goal: making Starship completely reusable. Liftoff occurred from Pad 2 at 5:47 p.m. EST (2247 GMT; 4:47 p.m. local time) on Friday, against a near cloudless blue sky. Super Heavy is powered by 33 Raptor 3 engines, which provide more than 18 million pounds of thrust at liftoff. And lift off the booster did. The 33 Raptor engines of SpaceX's Starship V3 rocket during its test flight from Starbase, Texas on Nov. 13, 2026. (Image credit: Space.com / Josh Dinner) Starship roared off the pad under the power of those Raptors, pulsing visible shockwaves through the plume ejected from the rocket's flame trench. Starship climbs the sky above Starbase, Texas on Nov. 13, 2026. (Image credit: Space.com / Josh Dinner) The first couple minutes of flight went nominally; the vehicle climbed into the sky, gearing up for the hot-staging separation of Super Heavy and Ship — all of which was visible for miles, thanks to the clear Texas skies. Space.com's images taken from the media’s launch viewing area were shot on a Canon R5 Mark II , with an RF 200-800mm lens that made the sharp pictures of Starship’s liftoff and return possible from almost 4 miles away. EOS R5 Mark II: $3999 This mirrorless Canon has specs that make it one of the best cameras available right now, with impressive features and functionality, including a 45MP sensor and excellent high-ISO handling. Check our in-depth Canon R5 Mark II review . View Deal Starship climbs the sky above Starbase, Texas, as a bird passes on Nov. 13, 2026. (Image credit: Space.com / Josh Dinner) A successful separation occurred at T+2:21 minutes, as Starship soared approximately 40 miles (65 km) overhead. Once disconnected from its booster, Ship increased its thrust and continued onward to space , while Super Heavy, reoriented for its boostback burn and return to Starbase. Super Heavy (top) performs a boostback burn after stage separation as Ship 42 (bottom) fires its engines on its way to space. (Image credit: Space.com / Josh Dinner) That return, however, did not go entirely as planned. Super Heavy experienced a low-fuel alarm and autonomously shifted to an offshore splashdown rather than a catch attempt at Starbase. Super Heavy descends back toward Texas on Nov.",
-      "image": "https://cdn.mos.cms.futurecdn.net/YttcVYXYfcRTqnR6tXAC2B-1920-80.jpg",
-      "category": "science"
-    },
-    {
-      "title": "2027 Elections: ‘Nigerians Have Been Rejecting Him,’ Segun Sowunmi Faults Atiku’s Candidacy",
-      "link": "https://www.channelstv.com/2026/11/16/2027-elections-nigerians-have-been-rejecting-him-segun-sowunmi-faults-atikus-candidacy",
-      "source": "Channels Television",
-      "date": "2026-11-16T21:21:49Z",
-      "description": "A Peoples Democratic Party (PDP) chieftain, Segun Sowunmi, has criticised African Democratic Congress (ADC) presidential candidate Atiku Abubakar’s repeated bids for Nigeria’s presidency, claiming that Nigerians have consistently rejected his ambition at the polls. Sowunmi, who is also a member of the All Progressives Congress (APC) campaign council, made the remarks on Monday during an appearance on Channels Television’s Politics Today . Responding to a question about Atiku’s belief that he is better positioned than President Bola Tinubu to govern Nigeria, Sowunmi said the former vice president should reconsider his ambition. “Well, he’s been saying that for a while, and Nigerians have been rejecting him,” he said. FILES: Segun Sowunmi on Channels Television’s Politics Today “If you have done elections the number of times Waziri (Atiku) has done, there is something he himself must consider. At what point in time does he expect younger, sharper northern people to get tired or be fatigued at running around with him?” he asked. North Presidency Calculations The PDP chieftain, who was a spokesperson for the Atiku Abubakar Presidential Campaign Organisation in 2023, also questioned the former vice president’s political calculations, noting that the North had already produced a president who governed for eight years under former President Muhammadu Buhari. He further questioned Atiku’s candidacy under the African Democratic Congress (ADC), following a Federal High Court judgment nullifying the leadership of the caretaker committee led by former Senate President David Mark. The November 5 judgment, delivered by Justice Peter Lifu in Abuja, followed a suit filed by Nafiu Bala Gombe, a former deputy national chairman of the ADC, challenging the emergence of the Mark-led leadership. Atiku Abubakar is the presidential candidate of the African Democratic Congress for the 2027 general elections. The ruling affected decisions taken by the committee, including the process that produced Atiku as the party’s 2027 presidential candidate. The ADC group has rejected the judgment and appealed. Sowunmi, however, maintained that Atiku’s candidacy remained uncertain. “As at today, he is not on the ballot. Because you appeal a case you lost in the lower court, does that mean you are going to win it? The bottom line is that, as at today, he is not their candidate,” he said. He also accused Atiku of mishandling the dispute involving Gombe, describing his approach as an “emir complex”. “Emirs don’t beg, emirs don’t visit people, call others. Emirs sit at home, and everybody comes to meet them. Yes, you can be an emir, but you can’t be an emir if you are looking for a ticket in another man’s party,” he added. The post 2027 Elections: ‘Nigerians Have Been Rejecting Him,’ Segun Sowunmi Faults Atiku’s Candidacy appeared first on Channels Television .",
-      "image": "https://www.channelstv.com/wp-content/uploads/2023/08/Segun-Sowunmi.png",
-      "category": "nigeria"
-    },
-    {
-      "title": "Rwanda to host hub for rejected EU migrants",
-      "link": "https://www.france24.com/en/rwanda-to-host-hub-for-rejected-eu-migrants",
-      "source": "France 24",
-      "date": "2026-11-16T21:21:14Z",
-      "description": "In tonight's edition, five European countries are negotiating a deal to deport rejected asylum seekers to Rwanda. Also, the Democratic Republic of Congo and Rwanda's political animosity spills over at the Francophonie Summit in Cambodia. And in Tunisia, young women are increasingly turning towards weightlifting and bodybuilding as a form of self-expression.",
-      "image": "https://s.france24.com/media/display/3919d2d0-e202-11f1-8e3c-5f54d898a954/w:1024/p:16x9/DL00006253-VOD-00023667.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
-      "source": "Bitcoin Magazine",
-      "date": "2026-11-16T21:20:36Z",
-      "description": "Bitcoin Magazine Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5% Bitcoin price traded near $65,000 on Monday afternoon, according to Bitcoin Magazine Pro data, up more than 1% from where it sat at the time of this morning’s report. The world’s largest cryptocurrency held its ground even as a fresh round of selling in Nvidia dragged the Nasdaq down about 2.5%. The session was choppy. Bitcoin started the day near $64,000 after a weekend plunge to $62,000, then jumped to about $65,600 shortly after the U.S. stock market opened. The bounce faded within the hour, and the bitcoin price slipped back toward $64,000 as tech stocks extended their losses. Buyers stepped in there, and bitcoin has spent most of the afternoon trading around $65,000. Nvidia drags tech stocks lower while the bitcoin price steadies Nvidia was again the heaviest weight on markets. CNBC reported shortly after noon that the chipmaker’s board is not considering bringing back Jensen Huang as CEO after he resigned last week. The board is instead focused on an investigation into whether Huang’s conduct compromised national security or company secrets, the report said. Earlier Monday, President Donald Trump said he would not mind seeing Huang return. Nvidia shares fell to a fresh intraday low after the report and closed down about 4%, a day before the company reports quarterly results. U.S. chipmakers dropped more than 5%. The Nasdaq Composite slid about 2.5% and the S&P 500 lost nearly 2%, with investors also bracing for Anthropic’s IPO later this week. Bitcoin did not follow stocks to their lows this time. As the Nasdaq sank to its worst levels of the day after the CNBC report, bitcoin stopped going down and held near $64,800. That marks a change from the past week, when the bitcoin price traded largely in step with chip stocks. Dollar hits 19-month high as Warsh stays quiet on rates The macro backdrop offered no relief. Fed Chair Kevin Warsh, speaking at a San Francisco Fed conference, avoided any guidance on the near-term path of rates. He said artificial intelligence could lift productivity but “could bring substantial labor market disruption as some jobs are displaced, rather than complemented, by technology.” His remarks did little to change expectations for a rate hike next month. Fed funds futures imply a quarter-point increase in December, and the dollar index touched its highest level since April 2025. A stronger dollar tends to weigh on bitcoin and gold, and gold fell to its lowest level since October 2025 earlier in the session. The 10-year Treasury yield eased to about 5.12%. Bitcoin-linked stocks took a heavier hit than the coin itself. Strategy (MSTR) fell nearly 8% and Coinbase (COIN) dropped about 6%, while Strive (ASST), which bought 251 bitcoin last week, slid about 12%. Strategy also added 485 bitcoin last week, but it faces about $2.8 billion of potential index-fund selling when MSCI removes it at the Nov. 30 close, JPMorgan estimates . Spo",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-23.jpg",
+      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+      "link": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx",
+      "source": "Cointelegraph",
+      "date": "2026-11-16T22:19:41Z",
+      "description": "FalconX’s Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and change how large investors trade in 2027.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JYN3X9NPASHKCFA1BBHM7P/bank-building-hall-entrance-door-binance-2.png",
       "category": "business"
     },
     {
-      "title": "Reps panel gives NSCDC boss 24 hours to explain alleged abuse by mining marshals",
-      "link": "https://www.premiumtimesng.com/news/more-news/925721-reps-panel-gives-nscdc-boss-24-hours-to-explain-alleged-abuse-by-mining-marshals.html",
-      "source": "Premium Times Nigeria",
-      "date": "2026-11-16T21:20:02Z",
-      "description": "The House of Representatives is investigating allegations of extortion, unlawful detention and abuse of power by the mining marshals, following complaints from licensed mining operators and the family of an NSCDC officer allegedly killed by fellow personnel. The post Reps panel gives NSCDC boss 24 hours to explain alleged abuse by mining marshals appeared first on Premium Times Nigeria .",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/03/PHOTO-2025-03-22-04-26-03-4.jpg?fit=2560%2C1708&ssl=1",
-      "category": "nigeria"
+      "title": "RJ Luis' attorney says SEC is standing down, allowing LSU to add '24-25 Big East player of year",
+      "link": "https://www.nytimes.com/athletic/7787857/2026/11/16/rj-luis-lsu-basketball-roster-sec",
+      "source": "The Athletic Sports",
+      "date": "2026-11-16T22:18:30Z",
+      "description": "Luis signed a two-way contract with the Utah Jazz and was later traded to the Boston Celtics but never appeared in a regular-season NBA game.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16165535/GettyImages-2205926609-scaled-e1794866172352.jpg",
+      "category": "sports"
     },
     {
-      "title": "Visually impaired protest exclusion from government programmes",
-      "link": "https://www.premiumtimesng.com/regional/ssouth-west/925715-visually-impaired-protest-exclusion-from-government-programmes.html",
-      "source": "Premium Times Nigeria",
-      "date": "2026-11-16T21:19:51Z",
-      "description": "The protesters alleged that only the Nigeria Association of the Blind (NAB) was recognised by the state government, leaving other visually impaired persons outside its intervention programmes and benefits. The post Visually impaired protest exclusion from government programmes appeared first on Premium Times Nigeria .",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/11/IMG-20261116-WA0048-e1794863788319.jpg?fit=1280%2C787&ssl=1",
-      "category": "nigeria"
+      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+      "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+      "source": "Decrypt",
+      "date": "2026-11-16T22:18:03Z",
+      "description": "A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.",
+      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg",
+      "category": "business"
     },
     {
-      "title": "US judge tosses new visa rules for Nigerians, other foreign students, journalists",
-      "link": "https://www.vanguardngr.com/2026/11/us-judge-tosses-new-visa-rules-for-nigerians-other-foreign-students-journalists",
+      "title": "Daniil Medvedev sees off Flavio Cobolli in straight sets at ATP Finals: Live updates, reaction",
+      "link": "https://www.nytimes.com/athletic/live-blogs/medvedev-vs-cobolli-live-updates-atp-finals-2026-score-result/HiIrMbf2qtAu",
+      "source": "The Athletic Sports",
+      "date": "2026-11-16T22:15:32Z",
+      "description": "Medvedev defeated home favorite Cobolli at the 2026 ATP Finals.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/HiIrMbf2qtAu_Dn65cYkM6Fl7_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "2027: Focus on issues, stop dancing at rallies, Pawpaw tells politicians",
+      "link": "https://www.vanguardngr.com/2026/11/2027-focus-on-issues-stop-dancing-at-rallies-pawpaw-tells-politicians",
       "source": "Vanguard Nigeria",
-      "date": "2026-11-16T21:18:27Z",
-      "description": "A US federal judge on Monday struck down a Trump administration policy that would impose stricter limits on how long foreign students and journalists can study or work in the United States. District Judge Dennis Saylor, in his order dismissing the case, said the policy was “arbitrary, capricious, an abuse of discretion, and otherwise not in accordance with law.” The new visa regulations had been scheduled to take effect in September but were temporarily put on hold by Saylor, a move the Trump administration has already appealed to a higher court. The judge’s ruling stems from a lawsuit contesting the visa restrictions filed against the Department of Homeland Security (DHS) by a coalition of unions representing universities, teachers and journalists. In his order, Saylor focused mainly on the impact the new visa policy would have had on international students. “Put bluntly, DHS is seeking to prevent or discourage the very activity — providing educational opportunities for foreign students in the United States — that Congress sought to permit and encourage,” the judge said. He said the policy would “prohibit foreign students from engaging in extended periods of study, such as those required for Ph.D. programs; prohibit them from obtaining joint degrees (and) prohibit them from changing their academic concentration.” Under the proposed new rules, foreigners on student visas would be admitted for a maximum of up to four years after which they would have to apply for an extension. International students were previously allowed to remain for the duration of their studies. Foreign journalists would be limited to stays of just 240 days, or around eight months, but could apply for extensions of similar duration. Until now they could stay up to five years. Chinese journalists would get just 90 days, with extensions of 90 days. The visa restrictions are part of a broader immigration crackdown by President Donald Trump that includes aggressive deportation operations as well as new restrictions on legal pathways to citizenship. The United States welcomed more than 1.1 million international students in the 2023-24 academic year, more than any other country, according to official data. AFP The post US judge tosses new visa rules for Nigerians, other foreign students, journalists appeared first on Vanguard News .",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/07/us_visa-1024x538.png",
+      "date": "2026-11-16T22:15:20Z",
+      "description": "Nollywood actor Osita Iheme, popularly known as Pawpaw, has urged Nigerian politicians to stop turning campaign rallies into entertainment shows, insisting that Nigerians need competent leaders who can deliver good governance. Iheme made the call in a post on his Instagram page on Monday, where he criticised the practice of politicians dancing on stage during campaign rallies. He urged political office seekers to use campaign platforms to showcase their achievements, demonstrate their capacity to lead and explain their plans to Nigerians, rather than engaging in choreography to entertain supporters. The actor said Nigerians needed competence, good governance and purposeful leadership, not political hype and entertainment. “We don’t need choreography. We need competence. We don’t need hype men. We need good governance. We don’t need entertainers. We need leaders,” he wrote. He challenged politicians to tell Nigerians what they had achieved and what they intended to do if elected. “Show us what you have done. Tell Nigerians what you will do. You are not going for Grammy,” he said. Iheme also warned politicians against dancing on campaign stages, declaring: “I don’t want to see you guys’ dance on stage again. Be careful.” The post 2027: Focus on issues, stop dancing at rallies, Pawpaw tells politicians appeared first on Vanguard News .",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2012/10/Osita-Iheme.jpg",
       "category": "nigeria"
     },
     {
-      "title": "The iPhone Duo gets face unlock with the latest iOS 27 beta.",
-      "link": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta",
-      "source": "Engadget",
-      "date": "2026-11-16T21:17:24Z",
-      "description": "You won't need to wait for TouchID on your $2,000 foldable.",
-      "image": "https://www.engadget.com/img/gallery/the-iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/l-intro-1794863293.jpg",
-      "category": "technology"
+      "title": "Actress Linda Osifo announces engagement after social media break",
+      "link": "https://www.vanguardngr.com/2026/11/actress-linda-osifo-announces-engagement-after-social-media-break",
+      "source": "Vanguard Nigeria",
+      "date": "2026-11-16T22:13:34Z",
+      "description": "Nollywood actress Linda Osifo has announced her engagement to her partner, Mr Ose, expressing gratitude to God for what she described as an answered prayer. The actress made the announcement in a video shared on her Instagram page on Monday. Osifo has been off social media for months. In an accompanying post, she revealed that she had taken a break from social media before receiving what she described as a blessing she had once prayed for privately. “Not in my timing, not in the way I imagined, but in a way only He could have written,” she wrote. She said the experience was too beautiful to put into words, noting that some love stories were worth the patience and waiting. Reflecting on her relationship with her partner, the actress wrote, “Today, I look at the man God has blessed me with and all I can say is… God, You did this for me.” Osifo also expressed her commitment to her partner, saying, “To the man I get to call my forever, Mr Ose, I would choose you in every lifetime.” Announcing her acceptance of the marriage proposal, she declared, “I SAID YES TO FOREVER!” The actress further noted that when God authors a love story, every chapter is worth waiting for. The post Actress Linda Osifo announces engagement after social media break appeared first on Vanguard News .",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Linda-Osifo-994x1024.jpeg",
+      "category": "nigeria"
+    },
+    {
+      "title": "Iran live updates: Tankers attacked in Strait of Hormuz, UKMTO says",
+      "link": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto?id=138171071",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-16T22:12:13Z",
+      "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+      "image": "https://s.abcnews.com/images/International/Strait-DB-261116_1794818174428_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
+      "source": "France 24",
+      "date": "2026-11-16T22:07:47Z",
+      "description": "As Europe's ​defence ministries look to limit dependency on American technology and major software company Palantir Technologies for critical military functions, a growing number of firms within the region are competing for their business. FRANCE 24's Sharon Gaffney speaks with Arthur Holland Michel, journalist and researcher specialising in emerging military technologies.",
+      "image": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "source": "Cointelegraph",
+      "date": "2026-11-16T22:07:36Z",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "category": "business"
+    },
+    {
+      "title": "California sues OpenAI over hacking risks",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+      "source": "NPR News",
+      "date": "2026-11-16T22:06:22Z",
+      "description": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices. (Image credit: California Department of Justice)",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2612x1478+0+0/resize/2612x1478!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2Fc9%2F42061abe4e77873c2a1a96c92031%2Fbonta-presser.jpg",
+      "category": "world"
+    },
+    {
+      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+      "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover",
+      "source": "NASA Breaking News",
+      "date": "2026-11-16T22:05:23Z",
+      "description": "1 Min Read A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover PIA26802 Credits: NASA/JPL-Caltech/MSSS Photojournal Navigation Science Photojournal A Collage Showing 49 Drill… Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About Downloads A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover JPEG (13.80 MB) Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. These images were taken by the Mars Hand Lens Imager (MAHLI), a camera that is also located on the end of the rover’s robotic arm. Each hole has a diameter of 0.63 inches (16 millimeters). Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by Caltech in Pasadena, California. JPL leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of NASA’s Mars Exploration Program portfolio. MAHLI was built by Malin Space Science Systems in San Diego. To learn more about Curiosity, visit: https://science.nasa.gov/mission/msl-curiosity/ Keep Exploring Discover More Topics From Photojournal Photojournal Search Photojournal Photojournal’s Latest Content Feedback",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26804/PIA26804.jpg?w=1536&h=1536&fit=clip",
+      "category": "science"
+    },
+    {
+      "title": "Germany thrash Netherlands to top Nations League group",
+      "link": "https://www.vanguardngr.com/2026/11/germany-thrash-netherlands-to-top-nations-league-group",
+      "source": "Vanguard Nigeria",
+      "date": "2026-11-16T22:03:23Z",
+      "description": "Florian Wirtz scored twice and Brajan Gruda contributed a goal and two assists as Germany cruised to a 5-0 win over the Netherlands in Berlin to reach the Nations League quarter-finals on Monday. Derry Scherhant and Nico Schlotterbeck also got on the scoresheet as the Germans cut the visitors to shreds in the most impressive match of Jurgen Klopp’s six-game stint as coach. It was Germany’s biggest win over their neighbours since a 7-0 victory in 1959. “We hope that we can make it fun for the fans. It was definitely fun for us, especially in the second-half,” Wirtz told German broadcaster ARD. The Dutch defeat was the first since their coach Xavi Hernandez took charge but, despite Greece’s 1-0 win over Serbia on Monday, they also qualified for the final eight, although the last German goal dropped them to second in the group. The Netherlands offered little in attack after Germany’s second and missed injured captain Virgil van Dijk at the back, with the hosts cutting through a flimsy defence at will. So often criticised for a lack of end product since his big-money move to Liverpool in 2025, Wirtz has scored in four in his past four games for Germany. Germany knew only a victory would give them a realistic chance of reaching the quarters, with coach Klopp describing the match as a “final.” The game, a rematch of the 1974 World Cup final won by Germany in Munich, began with both sides risk averse and reluctant to move forward. The Dutch had the first good chance when Jurrien Timber found Crysencio Summerville unmarked on the penalty spot, but the winger lost his footing before getting a shot away. Just after the half hour, the Berlin-born-and-raised Scherhant latched onto a cross from Freiburg teammate Philipp Treu but hit the far post. Nine minutes later, Scherhant had another chance from the same blade of grass and this time curled a lovely effort across the face of goal and inside the post. The Germans continued their assault on the Dutch penalty area after the break, Wirtz adding another with a solo effort on the hour. The Liverpool winger dribbled from left to right and back centrally before lifting a shot in off the left post from the penalty arc. Schlotterbeck headed in from a Gruda free-kick with 65 minutes gone. The RB Leipzig winger laid on another goal six minutes later when he tore down the right and found Wirtz, who hammered in off the bottom of the crossbar. In his first Germany match on home soil, Gruda then added one of his own, tapping in a Scherhant shot which rebounded off the post. “We don’t mind who we play. We want to play attacking football. We want to score goals and dominate the opponent. And I think we did that perfectly,” said Wirtz. “We want to keep going next year. We want to get better. I think we’ve taken some great steps in our development as a team.” AFP The post Germany thrash Netherlands to top Nations League group appeared first on Vanguard News .",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/AFP__20261116__D7NA9RN__v1__MidRes__FblEurNationsGerNed-1024x683.jpg",
+      "category": "nigeria"
+    },
+    {
+      "title": "JPMorgan Chase reporting technical issue, delays with transactions",
+      "link": "https://abcnews.com/Business/us-banks-reporting-technical-issues-online-transactions/story?id=138187551",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-16T22:02:40Z",
+      "description": "JPMorgan Chase said customers still have access to their accounts and funds.",
+      "image": "https://s.abcnews.com/images/US/chase-1-ap-gmh-261116_1794857898057_hpMain_16x9_1600.jpg",
+      "category": "world"
     }
   ],
   "nigeria": [
+    {
+      "title": "2027: Focus on issues, stop dancing at rallies, Pawpaw tells politicians",
+      "link": "https://www.vanguardngr.com/2026/11/2027-focus-on-issues-stop-dancing-at-rallies-pawpaw-tells-politicians",
+      "source": "Vanguard Nigeria",
+      "date": "2026-11-16T22:15:20Z",
+      "description": "Nollywood actor Osita Iheme, popularly known as Pawpaw, has urged Nigerian politicians to stop turning campaign rallies into entertainment shows, insisting that Nigerians need competent leaders who can deliver good governance. Iheme made the call in a post on his Instagram page on Monday, where he criticised the practice of politicians dancing on stage during campaign rallies. He urged political office seekers to use campaign platforms to showcase their achievements, demonstrate their capacity to lead and explain their plans to Nigerians, rather than engaging in choreography to entertain supporters. The actor said Nigerians needed competence, good governance and purposeful leadership, not political hype and entertainment. “We don’t need choreography. We need competence. We don’t need hype men. We need good governance. We don’t need entertainers. We need leaders,” he wrote. He challenged politicians to tell Nigerians what they had achieved and what they intended to do if elected. “Show us what you have done. Tell Nigerians what you will do. You are not going for Grammy,” he said. Iheme also warned politicians against dancing on campaign stages, declaring: “I don’t want to see you guys’ dance on stage again. Be careful.” The post 2027: Focus on issues, stop dancing at rallies, Pawpaw tells politicians appeared first on Vanguard News .",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2012/10/Osita-Iheme.jpg",
+      "category": "nigeria"
+    },
+    {
+      "title": "Actress Linda Osifo announces engagement after social media break",
+      "link": "https://www.vanguardngr.com/2026/11/actress-linda-osifo-announces-engagement-after-social-media-break",
+      "source": "Vanguard Nigeria",
+      "date": "2026-11-16T22:13:34Z",
+      "description": "Nollywood actress Linda Osifo has announced her engagement to her partner, Mr Ose, expressing gratitude to God for what she described as an answered prayer. The actress made the announcement in a video shared on her Instagram page on Monday. Osifo has been off social media for months. In an accompanying post, she revealed that she had taken a break from social media before receiving what she described as a blessing she had once prayed for privately. “Not in my timing, not in the way I imagined, but in a way only He could have written,” she wrote. She said the experience was too beautiful to put into words, noting that some love stories were worth the patience and waiting. Reflecting on her relationship with her partner, the actress wrote, “Today, I look at the man God has blessed me with and all I can say is… God, You did this for me.” Osifo also expressed her commitment to her partner, saying, “To the man I get to call my forever, Mr Ose, I would choose you in every lifetime.” Announcing her acceptance of the marriage proposal, she declared, “I SAID YES TO FOREVER!” The actress further noted that when God authors a love story, every chapter is worth waiting for. The post Actress Linda Osifo announces engagement after social media break appeared first on Vanguard News .",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Linda-Osifo-994x1024.jpeg",
+      "category": "nigeria"
+    },
+    {
+      "title": "Germany thrash Netherlands to top Nations League group",
+      "link": "https://www.vanguardngr.com/2026/11/germany-thrash-netherlands-to-top-nations-league-group",
+      "source": "Vanguard Nigeria",
+      "date": "2026-11-16T22:03:23Z",
+      "description": "Florian Wirtz scored twice and Brajan Gruda contributed a goal and two assists as Germany cruised to a 5-0 win over the Netherlands in Berlin to reach the Nations League quarter-finals on Monday. Derry Scherhant and Nico Schlotterbeck also got on the scoresheet as the Germans cut the visitors to shreds in the most impressive match of Jurgen Klopp’s six-game stint as coach. It was Germany’s biggest win over their neighbours since a 7-0 victory in 1959. “We hope that we can make it fun for the fans. It was definitely fun for us, especially in the second-half,” Wirtz told German broadcaster ARD. The Dutch defeat was the first since their coach Xavi Hernandez took charge but, despite Greece’s 1-0 win over Serbia on Monday, they also qualified for the final eight, although the last German goal dropped them to second in the group. The Netherlands offered little in attack after Germany’s second and missed injured captain Virgil van Dijk at the back, with the hosts cutting through a flimsy defence at will. So often criticised for a lack of end product since his big-money move to Liverpool in 2025, Wirtz has scored in four in his past four games for Germany. Germany knew only a victory would give them a realistic chance of reaching the quarters, with coach Klopp describing the match as a “final.” The game, a rematch of the 1974 World Cup final won by Germany in Munich, began with both sides risk averse and reluctant to move forward. The Dutch had the first good chance when Jurrien Timber found Crysencio Summerville unmarked on the penalty spot, but the winger lost his footing before getting a shot away. Just after the half hour, the Berlin-born-and-raised Scherhant latched onto a cross from Freiburg teammate Philipp Treu but hit the far post. Nine minutes later, Scherhant had another chance from the same blade of grass and this time curled a lovely effort across the face of goal and inside the post. The Germans continued their assault on the Dutch penalty area after the break, Wirtz adding another with a solo effort on the hour. The Liverpool winger dribbled from left to right and back centrally before lifting a shot in off the left post from the penalty arc. Schlotterbeck headed in from a Gruda free-kick with 65 minutes gone. The RB Leipzig winger laid on another goal six minutes later when he tore down the right and found Wirtz, who hammered in off the bottom of the crossbar. In his first Germany match on home soil, Gruda then added one of his own, tapping in a Scherhant shot which rebounded off the post. “We don’t mind who we play. We want to play attacking football. We want to score goals and dominate the opponent. And I think we did that perfectly,” said Wirtz. “We want to keep going next year. We want to get better. I think we’ve taken some great steps in our development as a team.” AFP The post Germany thrash Netherlands to top Nations League group appeared first on Vanguard News .",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/AFP__20261116__D7NA9RN__v1__MidRes__FblEurNationsGerNed-1024x683.jpg",
+      "category": "nigeria"
+    },
     {
       "title": "[VIDEO] 2027: Obi Won’t Get Up To Six Million Votes, Won’t Win Lagos — YPP’s Agada",
       "link": "https://www.channelstv.com/2026/11/16/2027-obi-wont-get-up-to-six-million-votes-wont-win-lagos-ypps-agada",
@@ -424,43 +451,70 @@
       "description": "By Golok Nanmwa Suspected gunmen have killed a newly graduated unit commander of the Plateau State-owned civilian security outfit, Operation Rainbow, and another person in an ambush in Bokkos Local Government Area of Plateau State. The victims were reportedly killed at about 3pm on Monday while returning from a condolence visit to Hurti village to their community in Tadai, Manguna District of Bokkos Local Government Area. The community leader, Machief Paul, who confirmed the incident to newsmen, said both victims were members of his community. He said, “They are all members of my community. They went to Hurti village for a condolence visit and were returning to Tadai when suspected gunmen ambushed and killed them. “They were killed in broad daylight this afternoon. It is very sad and unfortunate.” Paul disclosed that one of the deceased was a newly graduated commander of Operation Rainbow, adding that the killing had thrown the community into mourning. He said, “The commander had just graduated. We are deeply saddened by this incident, especially given the security challenges our people have continued to face.” Also confirming the incident, an award-winning Nigerian conflict reporter from Bokkos, Masara Kim, said the two men were killed in the ambush while returning from the condolence visit. The deceased Operation Rainbow commander was said to have recently completed a refresher training programme for unit commanders in Jos, Kim added. Efforts to obtain further details from security authorities were unsuccessful as of the time of filing this report. The post Gunmen kill Operation Rainbow commander, one other in Plateau appeared first on Vanguard News .",
       "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-9.09.21-PM-564x1024.jpeg",
       "category": "nigeria"
-    },
-    {
-      "title": "Reps summon NSCDC boss over N2bn financial irregularities, unlawful arrests",
-      "link": "https://businessday.ng/news/article/reps-summon-nscdc-boss-over-n2bn-financial-irregularities-unlawful-arrests",
-      "source": "BusinessDay Nigeria",
-      "date": "2026-11-16T19:58:11Z",
-      "description": "… as mining operators accuse marshals of extortion The House of Representatives Committee on Solid Minerals has summoned the Commandant-General read more Reps summon NSCDC boss over N2bn financial irregularities, unlawful arrests",
-      "image": "https://cdn.businessday.ng/wp-content/uploads/2026/09/NSCDC-boss-Audi-Abubakar-1-large.png",
-      "category": "nigeria"
-    },
-    {
-      "title": "Food inflation drops to 19.13% in October, monthly rate rises to -0.75%",
-      "link": "https://businessday.ng/news/article/food-inflation-drops-to-19-13-in-october-monthly-rate-rises-to-0-75",
-      "source": "BusinessDay Nigeria",
-      "date": "2026-11-16T19:49:58Z",
-      "description": "…Ondo, Lagos, Imo record highest food inflation in October Nigeria’s food inflation rate stood at 19.13% year-on-year in October 2026, read more Food inflation drops to 19.13% in October, monthly rate rises to -0.75%",
-      "image": "https://cdn.businessday.ng/wp-content/uploads/2025/03/Markets-you-can-buy-African-food-items-in-Canada-1.png",
-      "category": "nigeria"
-    },
-    {
-      "title": "We’re committed to advancing education, youth empowerment, economic growth – Oyo APM candidates",
-      "link": "https://businessday.ng/politics/article/were-committed-to-advancing-education-youth-empowerment-economic-growth-oyo-apm-candidates",
-      "source": "BusinessDay Nigeria",
-      "date": "2026-11-16T19:37:55Z",
-      "description": "..as broadcasters declare support for Adekanmbi, Peller Ahead of the 2027 general elections, the Freelance and Independent Broadcasting Association of read more We’re committed to advancing education, youth empowerment, economic growth – Oyo APM candidates",
-      "image": "https://cdn.businessday.ng/wp-content/uploads/2026/10/Election-large.jpg",
-      "category": "nigeria"
     }
   ],
   "world": [
     {
-      "title": "Some US banks reporting technical issues, delays with online transactions",
+      "title": "Chase outage disrupts online banking and Zelle payments in United States",
+      "link": "https://www.france24.com/en/americas/20261116-chase-outage-disrupts-online-banking-and-zelle-payments-in-united-states-us-software",
+      "source": "France 24",
+      "date": "2026-11-16T22:40:51Z",
+      "description": "American users of several major banking apps and online portals reported outages on Monday, according to the monitoring site Downdetector.com, with one institution ruling out a cyberattack as the cause. Among those affected by the outages were Bank of America, JPMorgan Chase and the popular money transfer app Zelle.",
+      "image": "https://s.france24.com/media/display/0b34ad5e-e20c-11f1-ace7-3f371022a770/w:1024/p:16x9/AP26320767161907.jpg",
+      "category": "world"
+    },
+    {
+      "title": "La Francophonie 'waning in global influence': Linguistic institutions becoming 'less important'",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261116-la-francophonie-waning-in-global-influence-linguistic-institutions-becoming-less-important",
+      "source": "France 24",
+      "date": "2026-11-16T22:29:45Z",
+      "description": "François Picard is pleased to welcome Phil Clark, professor of international politics at SOAS University of London. The diplomatic crisis between Rwanda and the Democratic Republic of Congo spilling out at the Francophonie summit in Phnom Penh for all to see has exposed an unexpected shift in their relations. Clark says that \"nobody expected Rwanda to back down in this way\" following President Macron's request that Paul Kagame withdraw Louise Mushikiwabo's candidacy for a third term.",
+      "image": "https://s.france24.com/media/display/2c7ebce6-e209-11f1-a83b-3f371022a770/w:1024/p:16x9/EN-20261116-181805-182744-CS.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Iran live updates: Tankers attacked in Strait of Hormuz, UKMTO says",
+      "link": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto?id=138171071",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-16T22:12:13Z",
+      "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+      "image": "https://s.abcnews.com/images/International/Strait-DB-261116_1794818174428_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
+      "source": "France 24",
+      "date": "2026-11-16T22:07:47Z",
+      "description": "As Europe's ​defence ministries look to limit dependency on American technology and major software company Palantir Technologies for critical military functions, a growing number of firms within the region are competing for their business. FRANCE 24's Sharon Gaffney speaks with Arthur Holland Michel, journalist and researcher specialising in emerging military technologies.",
+      "image": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg",
+      "category": "world"
+    },
+    {
+      "title": "California sues OpenAI over hacking risks",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+      "source": "NPR News",
+      "date": "2026-11-16T22:06:22Z",
+      "description": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices. (Image credit: California Department of Justice)",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2612x1478+0+0/resize/2612x1478!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2Fc9%2F42061abe4e77873c2a1a96c92031%2Fbonta-presser.jpg",
+      "category": "world"
+    },
+    {
+      "title": "JPMorgan Chase reporting technical issue, delays with transactions",
       "link": "https://abcnews.com/Business/us-banks-reporting-technical-issues-online-transactions/story?id=138187551",
       "source": "ABC News Top Stories",
-      "date": "2026-11-16T21:54:18Z",
-      "description": "JPMorgan said customers \"still have access to their accounts and funds.\"",
+      "date": "2026-11-16T22:02:40Z",
+      "description": "JPMorgan Chase said customers still have access to their accounts and funds.",
       "image": "https://s.abcnews.com/images/US/chase-1-ap-gmh-261116_1794857898057_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Trump says he needs funding for air traffic control after ground stop",
+      "link": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
+      "source": "France 24",
+      "date": "2026-11-16T22:01:19Z",
+      "description": "US ​President ​Donald Trump, pressed on a ​technology ‌failure ⁠that ‌grounded thousands of ⁠flights last week, ​on ‌Monday told reporters ‌that ​the government needed funding for upgrade ​to ​air traffic ​control equipment. FRANCE 24's Monte Francis speaks with Sheldon Jacobson, Professor of Computer Science at the University of Illinois. He explains that \"the Republicans have had full control of the House and the Senate since the President came in. They controlled everything. If they needed the money and wanted the money they could have approved the money. The fact that they didn't, in the the different bills that have been passed, suggests that it's more than just money that is going on here\".",
+      "image": "https://s.france24.com/media/display/a84d7300-e1fd-11f1-b1a8-29048b396e03/w:1024/p:16x9/EN-20261116-210837-211856-CS.jpg",
       "category": "world"
     },
     {
@@ -533,6 +587,15 @@
       "date": "2026-11-16T20:26:28Z",
       "description": "Trump will participate in the first-ever trilateral meeting with Putin and Xi.",
       "image": "https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261116_1794841393009_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Trump says he 'would not mind' if Jensen Huang is reinstated as Nvidia CEO",
+      "link": "https://abcnews.com/Business/trump-mind-jensen-huang-reinstated-nvidia-ceo/story?id=138174468",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-16T20:19:14Z",
+      "description": "President Donald Trump said Monday morning that he \"would not mind\" if Jensen Huang was reinstated as CEO of Nvidia.",
+      "image": "https://s.abcnews.com/images/US/huang-3-rt-gmh-261116_1794843334148_hpMain_16x9_1600.jpg",
       "category": "world"
     },
     {
@@ -615,72 +678,54 @@
       "description": "British actor Robert Pattinson is set to become the next James Bond in the long-running 007 spy franchise. Discussions over the casting of the new James Bond had been going on for months, with Pattinson emerging as one of the frontrunners from the outset.",
       "image": "https://s.france24.com/media/display/1fa3829e-e1dd-11f1-a575-5f54d898a954/w:1024/p:16x9/EN-Pattison-tikTok-00-00-02-16-Still011.jpg",
       "category": "world"
-    },
-    {
-      "title": "WATCH: Grammy nominees for Album of the Year, Song of the Year",
-      "link": "https://abcnews.com/video/138174739",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-16T16:32:46Z",
-      "description": "Here are the nominees for Album of the Year and Song of the Year at the 2027 Grammys.",
-      "image": "https://s.abcnews.com/images/GMA/261116_gma_album_song1_hpMain_16x9_1600.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
-      "source": "NPR News",
-      "date": "2026-11-16T16:28:19Z",
-      "description": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children. (Image credit: Greg Derr)",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/3000x2193!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg",
-      "category": "world"
-    },
-    {
-      "title": "WATCH: Who are the nominees for the 2027 Grammys?",
-      "link": "https://abcnews.com/video/138173490",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-16T16:27:53Z",
-      "description": "ABC News' Chris Connelly breaks down the nominees for the 69th Grammy Awards with Raye leading the field with 11 nominations.",
-      "image": "https://s.abcnews.com/images/GMA/261116_gma_connelly_grammy7_0732_hpMain_16x9_1600.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe'",
-      "link": "https://www.france24.com/en/russia-s-war-on-ukraine-americans-want-to-have-a-deal-whatever-the-cost-for-both-ukraine-europe",
-      "source": "France 24",
-      "date": "2026-11-16T16:22:49Z",
-      "description": "Delano D'Souza is pleased to welcome Grégoire Roos, Director of the Europe and Russia and Eurasia Programmes at Chatham House. As European countries prepare to take part in the next round of Ukraine peace talks, Roos questions whether having five European representatives could weaken their negotiating position. \"The other option is to realize that it dilutes the negotiating power of Europe. And I would lean towards that,\" he says, proposing Finnish President Alexander Stubb as a possible representative. Roos also points to differences between Washington and European governments over negotiations with Russia. While \"the Americans do absolutely want to have a deal whatever the cost for both Ukraine and Europe,\" he argues that European governments have little choice but to maintain pressure on Moscow, which has yet to abandon its \"maximalist demands.\"",
-      "image": "https://s.france24.com/media/display/07f9db52-e1d8-11f1-97d4-695cb59fade5/w:1024/p:16x9/EN-20261116-150823-151954-CS.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Robert Pattinson named as new James Bond",
-      "link": "https://www.france24.com/en/video/20261116-robert-pattinson-named-as-new-james-bond",
-      "source": "France 24",
-      "date": "2026-11-16T16:22:25Z",
-      "description": "British actor ​Robert Pattinson will be the next James Bond, Amazon MGM Studios announced on Monday, ​taking on the role after Daniel Craig's departure from the long-running spy series.",
-      "image": "https://s.france24.com/media/display/94603932-e1d9-11f1-8f4e-f71d22e7fea9/w:1024/p:16x9/EN-20261116-170834-171207-CS.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Retrial date set for Lindsay Clancy over killing of her three children",
-      "link": "https://news.sky.com/story/lindsay-clancy-retrial-date-set-over-killing-of-her-three-children-13612927",
-      "source": "Sky News World",
-      "date": "2026-11-16T16:20:00Z",
-      "description": "Lindsay Clancy is due to face a retrial next March over the killing of her three young children.",
-      "image": "https://e3.365dm.com/26/11/1920x1080/skynews-lindsay-clancy-clancy-retrial_7407912.jpg?20261116161612",
-      "category": "world"
-    },
-    {
-      "title": "French film star Depardieu drops appeal against sexual conviction",
-      "link": "https://www.france24.com/en/video/20261116-french-film-star-depardieu-drops-appeal-against-sexual-conviction",
-      "source": "France 24",
-      "date": "2026-11-16T15:51:39Z",
-      "description": "French film star Gérard Depardieu on Monday dropped his appeal against a conviction for sexually assaulting two women during the filming of a movie in 2021 and issued \"sincere apologies\" for his past behaviour on set. \"For a long time on film sets, I hid behind provocation and ribald humour,\" Depardieu, 77, said in the statement, withdrawing his appeal on the day it was set to go to trial. \"I believed my remarks and some of my gestures would be without consequences\" for those involved, he said. \"They were not, particularly coming from a powerful figure such as I once was.\"",
-      "image": "https://s.france24.com/media/display/381e507e-e1d3-11f1-8833-3f371022a770/w:1024/p:16x9/EN-20261116-153326-153510-CS.jpg",
-      "category": "world"
     }
   ],
   "business": [
+    {
+      "title": "German lawmakers back crypto freezes outside criminal cases",
+      "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases",
+      "source": "Cointelegraph",
+      "date": "2026-11-16T22:46:44Z",
+      "description": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M236GTB6R3NKE0V3DBECZ26A/hi-here-is-why-germany-leads-the-crypto-friendly-countries-ranking3.jpg",
+      "category": "business"
+    },
+    {
+      "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It",
+      "link": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
+      "source": "Decrypt",
+      "date": "2026-11-16T22:46:02Z",
+      "description": "Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases.",
+      "image": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png",
+      "category": "business"
+    },
+    {
+      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+      "link": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx",
+      "source": "Cointelegraph",
+      "date": "2026-11-16T22:19:41Z",
+      "description": "FalconX’s Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and change how large investors trade in 2027.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JYN3X9NPASHKCFA1BBHM7P/bank-building-hall-entrance-door-binance-2.png",
+      "category": "business"
+    },
+    {
+      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+      "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+      "source": "Decrypt",
+      "date": "2026-11-16T22:18:03Z",
+      "description": "A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.",
+      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg",
+      "category": "business"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "source": "Cointelegraph",
+      "date": "2026-11-16T22:07:36Z",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "category": "business"
+    },
     {
       "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
       "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
@@ -733,6 +778,15 @@
       "date": "2026-11-16T20:36:03Z",
       "description": "The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.",
       "image": "https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
+      "category": "business"
+    },
+    {
+      "title": "Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin",
+      "link": "https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin",
+      "source": "Bitcoin Magazine",
+      "date": "2026-11-16T20:35:17Z",
+      "description": "▶ Bitcoin Magazine Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin AnchorWatch CEO Rob Hamilton is bullish on Bitcoin in the long run, even as he watches liquidity get pulled toward the Anthropic IPO and the AI trade, which he compares to a black hole. He argues this is part of Bitcoin maturing, and that the value proposition is still there. Quantum computing is a risk over the next five to six years, but he came away from Amsterdam believing cryptographers are sprinting to meet the challenge. Cash App: For a limited time, new customers can get $21 added to their balance. Just use the code BMTV21 when you sign up, and send at least $5 to a friend in the first two weeks. Terms apply. Bitcoin services by Block, Inc. See the Bitcoin disclosures at cash.app/legal/podcast. Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 High Energy at Bitcoin Amsterdam 00:46 Jensen’s Exit and a Founder’s Vision 03:03 NVIDIA, Scrutiny, and a Compute Vacuum 04:26 AI Makes the Next 18 to 24 Months Unstable 05:56 Bitcoin Core Speeds Up Its Security Policy 08:15 Cryptography FUD and a Double-Edged Sword 10:47 Proving Bitcoin’s Rules With Bitcoin Lean 12:47 The Binance Hack and Who Can Touch the Keys 14:30 Bitcoin’s Core Value Premises Are Still Intact 15:37 More Chop Ahead, but Bullish in the Long Run DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green .",
+      "image": "https://img.youtube.com/vi/9EE3F91J1vo/hqdefault.jpg",
       "category": "business"
     },
     {
@@ -851,63 +905,18 @@
       "description": "Nvidia shares tanked specularly last week amid the Jensen Huang scandal. Is it in for a major rebound? Here’s what the charts suggest.",
       "image": "https://cdn.decrypt.co/wp-content/uploads/2025/09/nvidia-logo-decrypt-style-01-gID_7.png",
       "category": "business"
-    },
-    {
-      "title": "Why Growing Brands Have an Edge Over Established Competitors in the AI Search Race",
-      "link": "https://www.entrepreneur.com/building-a-business/how-high-growth-brands-can-win-the-ai-search-race",
-      "source": "Entrepreneur",
-      "date": "2026-11-16T18:00:00Z",
-      "description": "Here’s why — and how — high-growth brands can leverage AEO to make gains against bigger competitors.",
-      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/win-the-ai-search-race-1126_g1648843230.jpg",
-      "category": "business"
-    },
-    {
-      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
-      "link": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise",
-      "source": "Cointelegraph",
-      "date": "2026-11-16T17:49:13Z",
-      "description": "Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts.",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png",
-      "category": "business"
-    },
-    {
-      "title": "Your Business Is Losing Money on AI You Don’t Control — Here’s Why.",
-      "link": "https://www.entrepreneur.com/business-news/your-business-is-losing-money-on-ai-you-dont-control-heres-why",
-      "source": "Entrepreneur",
-      "date": "2026-11-16T17:30:00Z",
-      "description": "Every silent AI update breaks your workflow, and you pay your provider an 85% margin to fix what it broke.",
-      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/losing-money-on-ai-1126-g-2223301477.jpg",
-      "category": "business"
-    },
-    {
-      "title": "Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
-      "link": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
-      "source": "Decrypt",
-      "date": "2026-11-16T17:20:26Z",
-      "description": "The modest purchase lifted Strategy’s stash to 850,849 BTC as chairman Michael Saylor shrugged off a sharp downturn, posting that “this dip could use a little orange.”",
-      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png",
-      "category": "business"
-    },
-    {
-      "title": "George Mekhail: Bitcoin’s Price Is a “Distraction” as Wall Street Quietly Accumulates",
-      "link": "https://bitcoinmagazine.com/videos/george-mekhail-bitcoins-price-is-a-distraction-as-wall-street-quietly-accumulates",
-      "source": "Bitcoin Magazine",
-      "date": "2026-11-16T17:15:17Z",
-      "description": "▶ Bitcoin Magazine George Mekhail: Bitcoin’s Price Is a “Distraction” as Wall Street Quietly Accumulates Retail built Bitcoin, Wall Street laughed, and now Wall Street can’t get enough of it. George Mekhail tells BMTV that price is a distraction from the real story: 2,000 institutions now report holding Bitcoin ETFs, and the biggest banks are quietly accumulating. He also explains why he thinks only a handful of treasury companies will win with Strategy’s playbook, and why every company will still become a Bitcoin company in some way. Bitkey: Download Bitkey today and use our promo code BMTV to get 10% off the second-generation Bitkey at https://bitkey.world/BMTV . This episode is sponsored by Bitkey. Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Bitcoin Has Already Kind of Won 01:21 Inside the Two-Year MSCI Battle 02:32 Strategy and Metaplanet Removed From MSCI Indexes 03:42 A Benchmark’s Job Is to Measure the Market 04:21 SmarterWeb, Yellow Cake, and MSCI’s Operating Test 07:20 Wall Street Is Quietly Accumulating Bitcoin 08:56 How Bitcoin Treasury Engines Have Changed 10:25 Only a Handful of Treasury Winners 11:23 Bitcoin Belongs in the Boardroom 12:24 Federal Charters Remove the Custody Objection 14:55 Corporate Bitcoin Goes Global 16:45 Private Companies and New Bitcoin Use Cases DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post George Mekhail: Bitcoin’s Price Is a “Distraction” as Wall Street Quietly Accumulates first appeared on Bitcoin Magazine and is written by Patrick Green .",
-      "image": "https://img.youtube.com/vi/uAvmynMSVhM/hqdefault.jpg",
-      "category": "business"
-    },
-    {
-      "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
-      "link": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares",
-      "source": "Decrypt",
-      "date": "2026-11-16T17:09:28Z",
-      "description": "The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.",
-      "image": "https://cdn.decrypt.co/wp-content/uploads/2026/11/kash-dhanda-jupiter-gID_7.jpg",
-      "category": "business"
     }
   ],
   "entertainment": [
+    {
+      "title": "‘NAZA’ Filmmakers Grateful for ‘Light Being Shone’ on Their Film Through Awards Conversation but Prioritize Impact: It’s a ‘Small Cog in a Machine of Resistance’",
+      "link": "https://variety.com/2026/film/global/naza-yuval-abraham-james-wilson-awards-impact-idfa-1236949104",
+      "source": "Variety",
+      "date": "2026-11-16T22:32:38Z",
+      "description": "Over the last few years, leading documentary festival IDFA has become a crucial stop on the awards season trail, with major streamers and key studios courting voters in Amsterdam’s imposing 17th-century canalside houses and theaters. One of the key titles in this year’s best documentary race, however, has foregone glitzy cocktails and receptions in favor […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/VARIETY-SIZING-91.png",
+      "category": "entertainment"
+    },
     {
       "title": "The Next Bond Girl: From Zendaya to Florence Pugh, 19 Actresses Who Could Join Robert Pattinson",
       "link": "https://variety.com/lists/bond-girl-predictions-robert-pattinson-007",
@@ -1005,15 +1014,6 @@
       "date": "2026-11-16T18:50:02Z",
       "description": "California Attorney General Rob Bonta said Monday the state has sued OpenAI after the company’s AI agents went rogue during testing, arguing the San Altman-led company illegally failed to maintain safeguards for its models. “OpenAI’s actions escalated real-word cybersecurity risks, threatening the safety, health, and well-being of society,” he said in a statement Monday ahead […]",
       "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2265992523.jpg",
-      "category": "entertainment"
-    },
-    {
-      "title": "In Choosing Robert Pattinson, Bond Producers Have Taken the Safe Bet — But Is It the Right One? (Opinion)",
-      "link": "https://variety.com/2026/film/columns/new-james-bond-actor-robert-pattinson-right-choice-1236948987",
-      "source": "Variety",
-      "date": "2026-11-16T18:32:57Z",
-      "description": "So much for the underdog. After the race to be the next James Bond was reported to be down to three on-the-rise Brits — Jack Lowden, Josh O’Connor and Callum Turner — Robert Pattinson crashed the conversation late in proceedings, hugely pulling focus in a matter of days. Why wouldn’t he? Suddenly, a competition of […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/robert-pattinson-bond_3722b8.jpg",
       "category": "entertainment"
     },
     {
@@ -1136,12 +1136,75 @@
   ],
   "sports": [
     {
-      "title": "Daniil Medvedev sees off Flavio Cobolli in straight sets at ATP Finals 2026: live updates and reaction",
+      "title": "NFL live updates: Aidan Hutchinson, Drake Maye latest, news, reaction and more from Week 10",
+      "link": "https://www.nytimes.com/athletic/live-blogs/nfl-live-updates-news-week-10-results/XI4XTTSsypAp",
+      "source": "The Athletic Sports",
+      "date": "2026-11-16T22:51:00Z",
+      "description": "Follow our live coverage as we break down the aftermath of Sunday’s NFL games.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/XI4XTTSsypAp_23H1E7X47USZ_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Chargers vs. Ravens live updates: NFL ‘Monday Night Football’ score, predictions, odds and latest",
+      "link": "https://www.nytimes.com/athletic/live-blogs/chargers-vs-ravens-live-score-updates-nfl-mnf-result/aQTu9bPlh0f1",
+      "source": "The Athletic Sports",
+      "date": "2026-11-16T22:45:11Z",
+      "description": "Follow our live coverage as the Week 10 finale pits the winless Los Angeles Chargers against the Baltimore Ravens.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/aQTu9bPlh0f1_gXwI9TX8nuny_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "NBA season live updates: LeBron James won't play for 76ers against Nets, latest on Las Vegas expansion and more news",
+      "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
+      "source": "The Athletic Sports",
+      "date": "2026-11-16T22:45:03Z",
+      "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_DtkXNvA62sgj_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Price produces controversial 145 checkout en route to Grand Slam win",
+      "link": "https://news.sky.com/story/grand-slam-of-darts-gerwyn-price-produces-controversial-145-checkout-en-route-to-routine-victory-over-sebastian-bialecki-13612949",
+      "source": "Sky News Sports",
+      "date": "2026-11-16T22:25:00Z",
+      "description": "Gerwyn Price produced a controversial 145 checkout en route to a routine Grand Slam of Darts victory over Sebastian Bialecki on Monday night in Wolverhampton.",
+      "image": "https://e3.365dm.com/26/11/1920x1080/skysports-gerwyn-price-sebastian-bialecki_7408162.jpg?20261116213534",
+      "category": "sports"
+    },
+    {
+      "title": "Florian Wirtz scores twice as Germany beat Netherlands 5-0 to reach Nations League quarter-finals",
+      "link": "https://www.nytimes.com/athletic/7787829/2026/11/16/florian-wirtz-germany-netherlands",
+      "source": "The Athletic Sports",
+      "date": "2026-11-16T22:20:42Z",
+      "description": "Germany scored four second-half goals, including one spectacular solo effort from Wirtz.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16171144/GettyImages-2304980487-scaled-e1794867135188.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "RJ Luis' attorney says SEC is standing down, allowing LSU to add '24-25 Big East player of year",
+      "link": "https://www.nytimes.com/athletic/7787857/2026/11/16/rj-luis-lsu-basketball-roster-sec",
+      "source": "The Athletic Sports",
+      "date": "2026-11-16T22:18:30Z",
+      "description": "Luis signed a two-way contract with the Utah Jazz and was later traded to the Boston Celtics but never appeared in a regular-season NBA game.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16165535/GettyImages-2205926609-scaled-e1794866172352.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Daniil Medvedev sees off Flavio Cobolli in straight sets at ATP Finals: Live updates, reaction",
       "link": "https://www.nytimes.com/athletic/live-blogs/medvedev-vs-cobolli-live-updates-atp-finals-2026-score-result/HiIrMbf2qtAu",
       "source": "The Athletic Sports",
-      "date": "2026-11-16T21:55:44Z",
-      "description": "Follow live updates as Russia's Medvedev defeats Italy's Cobolli in Turin.",
+      "date": "2026-11-16T22:15:32Z",
+      "description": "Medvedev defeated home favorite Cobolli at the 2026 ATP Finals.",
       "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/HiIrMbf2qtAu_Dn65cYkM6Fl7_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "'Three bulls, shall I do it?' - Littler asks team then DELIVERS on incredible checkout!",
+      "link": "https://www.skysports.com/watch/video/13613033/grand-slam-of-darts-luke-littler-asks-the-crowd-before-incredible-150-checkout",
+      "source": "Sky Sports Football",
+      "date": "2026-11-16T22:02:00Z",
+      "description": "Incredible scenes in Wolverhampton as Luke Littler appeared to ask his team if he should go for three bullseyes, then duly delivered on the incredible 150 checkout!",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-littler-bullseye_7408189.jpg?20261116220024",
       "category": "sports"
     },
     {
@@ -1149,17 +1212,8 @@
       "link": "https://www.nytimes.com/athletic/7787779/2026/11/16/micah-parsons-injury-update-packers-rams",
       "source": "The Athletic Sports",
       "date": "2026-11-16T21:52:48Z",
-      "description": "Micah Parsons has been sidelined since tearing his ACL and meniscus in his left knee on Dec. 14 against the Denver Broncos.",
+      "description": "Micah Parsons has been sidelined with an ACL and meniscus tear in his left knee since on Dec. 14 against the Denver Broncos.",
       "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16162529/GettyImages-2248433538-scaled.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "NFL live updates: Aidan Hutchinson, Drake Maye latest, news, reaction and more from Week 10",
-      "link": "https://www.nytimes.com/athletic/live-blogs/nfl-live-updates-news-week-10-results/XI4XTTSsypAp",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T21:50:51Z",
-      "description": "Follow our live coverage as we break down the aftermath of Sunday’s NFL games.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/XI4XTTSsypAp_8AEMobRASS8j_1440x961.jpg",
       "category": "sports"
     },
     {
@@ -1181,12 +1235,12 @@
       "category": "sports"
     },
     {
-      "title": "NBA season live updates: LeBron James won't play for 76ers against Nets, latest on Las Vegas expansion and more news",
-      "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T21:34:19Z",
-      "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_DtkXNvA62sgj_1440x960.jpg",
+      "title": "Robertson breaks caps record and speaks out after Scotland's bruising loss to Switzerland",
+      "link": "https://www.skysports.com/football/switzerland-vs-scotland/report/554127",
+      "source": "Sky Sports Football",
+      "date": "2026-11-16T21:35:00Z",
+      "description": "Andy Robertson created Scotland history then delievered a scathing assessment of their Nations League collapse against Switzerland.",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-scotland-robertson_7408181.jpg?20261116215135",
       "category": "sports"
     },
     {
@@ -1305,65 +1359,29 @@
       "description": "Andy Robertson has broken the record for the most senior Scotland men's team caps, surpassing the feat held by Sir Kenny Dalglish for 40 years.",
       "image": "https://e3.365dm.com/26/11/1920x1080/skysports-football-scotland_7402989.jpg?20261110115123",
       "category": "sports"
-    },
-    {
-      "title": "Trump’s gutting of East Potomac golf course may seem small. But it reflects a bigger problem",
-      "link": "https://www.nytimes.com/athletic/7787488/2026/11/16/east-potomac-golf-links-trump",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T19:43:11Z",
-      "description": "The mood at East Potomac golf course was decidedly melancholy on what might have been its final day.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16135324/1116-Potomac-Golf-Links-1-scaled.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "'It's the biggest achievement of my career' - Zverev receives year-end No 1 trophy",
-      "link": "https://www.skysports.com/watch/video/13612987/atp-finals-tennis-alexander-zverev-receives-year-end-no-1-trophy-in-turin",
-      "source": "Sky Sports Tennis",
-      "date": "2026-11-16T19:43:00Z",
-      "description": "Alexander Zverev received his year-end No 1 trophy in Turin on the back of his phenomenal 2026 display.",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-zverev-tennis-atp_7408083.jpg?20261116195416",
-      "category": "sports"
-    },
-    {
-      "title": "Arsenal defender Jurrien Timber agrees contract extension",
-      "link": "https://www.nytimes.com/athletic/6686568/2026/11/16/arsenal-jurrien-timber-contract",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T19:36:56Z",
-      "description": "Timber has established himself as a key player in Mikel Arteta’s squad since joining from Ajax in 2023.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2025/10/13091355/GettyImages-2278006032-scaled-e1794579272797.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Diamondbacks outfielder Jordan Lawlar had internal brace elbow surgery: Source",
-      "link": "https://www.nytimes.com/athletic/7787521/2026/11/16/jordan-lawlar-diamondbacks-elbow-surgery",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T19:29:50Z",
-      "description": "Lawlar is a former top prospect whose career has been affected by injuries, but he remains in Arizona's plans for 2027.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16140225/GettyImages-2293090996-e1794857692468.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Sam Darnold remains Seahawks' QB1, likely to return after bye, Mike Macdonald says",
-      "link": "https://www.nytimes.com/athletic/7787356/2026/11/16/sam-darnold-drew-lock-seahawks-qb-controversy",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T19:21:34Z",
-      "description": "Drew Lock has won in all four of his appearances this season, but there is no QB controversy in Seattle, according to coach Mike Macdonald.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16130206/GettyImages-2304194643-scaled-e1794858692985.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Jayson Tatum reveals how he learned he would be benched during the 2024 Olympics",
-      "link": "https://www.nytimes.com/athletic/7787400/2026/11/16/jayson-tatum-olympics-benched-steve-kerr",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T19:19:53Z",
-      "description": "The Celtics star said Steve Kerr, then the coach for Team USA, told him to \"be patient\" without saying directly that he would be benched.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16140050/GettyImages-2164679023-scaled.jpg",
-      "category": "sports"
     }
   ],
   "technology": [
     {
-      "title": "Microsoft details how three problems combined for a global outage",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "source": "The Verge",
+      "date": "2026-11-16T22:54:59Z",
+      "description": "United Airlines passenger planes are seen at gates at Newark Liberty International Airport (EWR) in Newark, New Jersey, on November 15, 2026. | AFP via Getty Images Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide , United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the issue itself. The outage is also coming after last week's global Microsoft Outlook shutdown , and the great-bank-outage-that-wasn't earlier Monday afternoon. According to posts on social media , a number of people onboard the planes have heard from their pilots that a systemwide IT outage for United has caused problems with a … Read the full story at The Verge.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "category": "technology"
+    },
+    {
+      "title": "United Airlines is experiencing a 'widespread system outage'",
+      "link": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage",
+      "source": "Engadget",
+      "date": "2026-11-16T22:38:43Z",
+      "description": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.",
+      "image": "https://www.engadget.com/img/gallery/united-airlines-is-experiencing-a-widespread-system-outage/l-intro-1794868553.jpg",
+      "category": "technology"
+    },
+    {
+      "title": "Three small failures combined to take down Microsoft 365",
       "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage",
       "source": "Ars Technica",
       "date": "2026-11-16T21:56:39Z",
@@ -1412,7 +1430,7 @@
       "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity",
       "source": "Ars Technica",
       "date": "2026-11-16T20:52:10Z",
-      "description": "One flashpoint for the tech industry’s all-in push on Large Language Models has been the sudden rush to turn investment money into hyperscale data centers. The rush hasn’t allowed anyone to plan how to supply the required electricity cleanly or with minimal impact on ratepayers. Instead, it has been difficult to even collect information on what’s being built. A new study has tallied up energy use and estimated emissions for hyperscalers operating between May 2024 and April 2025 in the United States. They weren’t able to differentiate between AI compute and more traditional data services, but it provides a clear point of reference that could be tracked moving forward. Finding the centers The team started with a list of 675 facilities from a commercial database based on news reports, company statements, and satellite imagery. They dropped any that didn’t have a reported electrical capacity or that they couldn’t verify was a suitably large building with the expected cooling and electrical connection equipment. That reduced the list to 403 data centers with an average electrical capacity of about 40 megawatts. Read full article Comments",
+      "description": "One flashpoint for the tech industry’s all-in push on large language models has been the sudden rush to turn investment money into hyperscale data centers. The rush hasn’t allowed anyone to plan how to supply the required electricity cleanly or with minimal impact on ratepayers. Instead, it has been difficult to even collect information on what’s being built. A new study has tallied energy use and estimated emissions for hyperscalers operating in the United States between May 2024 and April 2025. They weren’t able to differentiate between AI compute and more traditional data services, but it provides a clear point of reference to track moving forward. Finding the centers The team started with a list of 675 facilities from a commercial database based on news reports, company statements, and satellite imagery. They dropped any that didn’t have a reported electrical capacity or that they couldn’t verify was a suitably large building with the expected cooling and electrical connection equipment. That reduced the list to 403 data centers with an average electrical capacity of about 40 megawatts. Read full article Comments",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
       "category": "technology"
     },
@@ -1439,12 +1457,12 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
       "source": "The Verge",
       "date": "2026-11-16T20:41:28Z",
-      "description": "Sam…thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" The comments were made on stage at Semafor's Silicon Valley & The World summit on Monday. Altman's remarks on RAM stirred up controversy last month. In an appearance on the Cheeky Pint podcast , Altman said that it's \"quite terrible\" for everyone to have RAM in personal computers rather than in data centers. He later followed up on those comments in posts on … Read the full story at The Verge.",
+      "description": "Sam… thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" The comments were made onstage at Semafor's Silicon Valley & The World summit on Monday. Altman's remarks on RAM stirred up controversy last month. In an appearance on the Cheeky Pint podcast , Altman said that it's \"quite terrible\" for everyone to have RAM in personal computers rather than in data centers. He later followed up on those comments in posts on … Read the full story at The Verge.",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "technology"
     },
     {
-      "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
       "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
       "source": "Ars Technica",
       "date": "2026-11-16T20:37:47Z",
@@ -1457,7 +1475,7 @@
       "link": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
       "source": "The Verge",
       "date": "2026-11-16T20:36:14Z",
-      "description": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your library, some of the PS5’s biggest titles are also currently on sale, in some cases by 50 percent or more, until November 30th. We’ve gathered some of the best games below, but sale standouts include 007 First Light for $34.99 ($35), The Witcher 3: Wild Hunt Remastered for $19.99 ($30 off), and NBA 2K27 for $31.49 (about $39 off). You can view the full list of titles on the PlayStation Store , many of which are also currently available at Amazon and other retailers for the same price (or less). 007 First Light Where to Buy: $69.99 $34.99 at PlayStation Store EA Sports Madden NFL 27 Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.99 at PlayStation Store Ghost of Yōtei Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.99 at Best Buy $69.99 $34.99 at PlayStation Store Astro Bot Where to Buy: $59.99 $37 at Amazon $59.99 $39.59 at PlayStation Store $59.99 $39.99 at Best Buy Cyberpunk 2077: Ultimate Edition Where to Buy: $49.99 $39.99 at Amazon $70.99 $35.49 at PlayStation Store $59.99 $39.99 at Best Buy Baldur’s Gate 3: Digital Deluxe Edition Where to Buy: $79.99 $55.99 at PlayStation Store Control Resonant – Digital Deluxe Edition Where to Buy: $59.99 $49.99 at Amazon $59.99 $49.99 at Best Buy $69.99 $47.99 at PlayStation Store EA Sports FC 27 Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.97 at Walmart $69.99 $34.99 at PlayStation Store Assassin’s Creed Black Flag Resynced Where to Buy: $59.99 $53.5 at Amazon $59.99 $44.99 at PlayStation Store $59.99 $53.99 at Target Marvel’s Wolverine Where to Buy: $69.99 $49.97 at Amazon $69.99 $49.97 at Walmart $69.99 $46.69 at PlayStation Store Halo: Campaign Evolved Where to Buy: $49.99 $29.99 at PlayStation Store Star Wars Zero Company Where to Buy: $59.99 $44.99 at Amazon $59.99 $44.97 at Walmart $59.99 $47.99 at PlayStation Store Saros Where to Buy: $69.99 $39.99 at Amazon $69.99 $39.99 at Best Buy $69.99 $39.89 at PlayStation Store Death Stranding 2: On The Beach Where to Buy: $69.99 $37.99 at Amazon $69.99 $39.89 at PlayStation Store The Witcher 3: Wild Hunt Remastered Where to Buy: $49.99 $19.99 at PlayStation Store NBA 2K27 Where to Buy: $69.99 $29.99 at Amazon $69.99 $29.99 at Best Buy $69.99 $31.49 at PlayStation Store",
+      "description": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your library, some of the PS5’s biggest titles are also currently on sale, in some cases by 50 percent or more, until November 30th. We’ve gathered some of the best games below, but sale standouts include 007 First Light for $34.99 ($35), The Witcher 3: Wild Hunt Remastered for $19.99 ($30 off), and NBA 2K27 for $31.49 (about $39 off). You can view the full list of titles on the PlayStation Store , many of which are also currently available at Amazon and other retailers for the same price (or less). 007 First Light Where to Buy: $69.99 $34.99 at PlayStation Store EA Sports Madden NFL 27 Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.99 at PlayStation Store Ghost of Yōtei Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.99 at Best Buy $69.99 $34.99 at PlayStation Store Astro Bot Where to Buy: $59.99 $37 at Amazon $59.99 $39.59 at PlayStation Store $59.99 $39.99 at Best Buy Cyberpunk 2077: Ultimate Edition Where to Buy: $49.99 $39.99 at Amazon $70.99 $35.49 at PlayStation Store $59.99 $39.99 at Best Buy Baldur’s Gate 3: Digital Deluxe Edition Where to Buy: $79.99 $55.99 at PlayStation Store Control Resonant – Digital Deluxe Edition Where to Buy: $59.99 $49.99 at Amazon $59.99 $49.99 at Best Buy $69.99 $47.99 at PlayStation Store EA Sports FC 27 Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.97 at Walmart $69.99 $34.99 at PlayStation Store Assassin’s Creed Black Flag Resynced Where to Buy: $59.99 $53.5 at Amazon $59.99 $44.99 at PlayStation Store $59.99 $53.99 at Target Marvel’s Wolverine Where to Buy: $69.99 $49.97 at Amazon $69.99 $49.97 at Walmart $69.99 $46.69 at PlayStation Store Halo: Campaign Evolved Where to Buy: $49.99 $29.99 at PlayStation Store Star Wars Zero Company Where to Buy: $59.99 $44.99 at Amazon $59.99 $44.97 at Walmart $59.99 $47.99 at PlayStation Store Saros Where to Buy: $69.99 $39.99 at Amazon $69.99 $39.99 at Best Buy $69.99 $39.89 at PlayStation Store Death Stranding 2: On the Beach Where to Buy: $69.99 $37.99 at Amazon $69.99 $39.89 at PlayStation Store The Witcher 3: Wild Hunt Remastered Where to Buy: $49.99 $19.99 at PlayStation Store NBA 2K27 Where to Buy: $69.99 $29.99 at Amazon $69.99 $29.99 at Best Buy $69.99 $31.49 at PlayStation Store",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/EA-Sports-FC-27.png?quality=90&strip=all&crop=0,0,100,100",
       "category": "technology"
     },
@@ -1568,27 +1586,18 @@
       "description": "Trying to choose between the Google Pixel 11 Pro and Samsung Galaxy S26+? We break down the specs, cameras and prices to help find the best one for you.",
       "image": "https://www.engadget.com/img/gallery/which-google-pixel-phone-is-most-similar-to-the-galaxy-s26/l-intro-1794486626.jpg",
       "category": "technology"
-    },
-    {
-      "title": "Apple could build its AI health chatbot from this study – how to enroll",
-      "link": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll",
-      "source": "ZDNET",
-      "date": "2026-11-16T19:25:57Z",
-      "description": "Apple is leaning into AI-powered health tools with the launch of its Apple Health AI Usage Study.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/63e6c0eb-8321-4e2c-a17a-50dd35f33946.jpg",
-      "category": "technology"
-    },
-    {
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "source": "The Verge",
-      "date": "2026-11-16T19:24:40Z",
-      "description": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors . Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage, MacRumors reports, including using Siri AI for \"multi-step, personal context requests,\" image generation and editing tools, automations in Shortcuts that \"r … Read the full story at The Verge.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "technology"
     }
   ],
   "science": [
+    {
+      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+      "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover",
+      "source": "NASA Breaking News",
+      "date": "2026-11-16T22:05:23Z",
+      "description": "1 Min Read A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover PIA26802 Credits: NASA/JPL-Caltech/MSSS Photojournal Navigation Science Photojournal A Collage Showing 49 Drill… Photojournal Home Photojournal Search Latest Content Galleries Feedback RSS About Downloads A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover JPEG (13.80 MB) Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. These images were taken by the Mars Hand Lens Imager (MAHLI), a camera that is also located on the end of the rover’s robotic arm. Each hole has a diameter of 0.63 inches (16 millimeters). Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by Caltech in Pasadena, California. JPL leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of NASA’s Mars Exploration Program portfolio. MAHLI was built by Malin Space Science Systems in San Diego. To learn more about Curiosity, visit: https://science.nasa.gov/mission/msl-curiosity/ Keep Exploring Discover More Topics From Photojournal Photojournal Search Photojournal Photojournal’s Latest Content Feedback",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26804/PIA26804.jpg?w=1536&h=1536&fit=clip",
+      "category": "science"
+    },
     {
       "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
@@ -1803,15 +1812,6 @@
       "date": "2026-11-16T13:00:00Z",
       "description": "null We live in the era of the satellite. They power our phones, banking infrastructure, navigational systems and internet, while providing stunning imagery and data that can be used to direct emergency services, feed weather forecasts and help coordinate military assets. But low-Earth orbit is not an infinite resource. It's starting to get crowded, with over 16,000 satellites and over 1.2 million pieces of debris currently circling our planet at incredible speeds. And if not managed properly, the results could be catastrophic. \"In the early days of the space age actors could more or less ignore the other actors,\" Peter Martinez, executive director of the Secure World Foundation told Space.com. \"You know the big sky paradigm, right? You can do what you want because the chances of your actions affecting others are minuscule.\" As noted by Martinez, the modern orbital landscape is radically different from those early frontier days, especially since the mid 2010s and the advent of satellite megaconstellations. \"Nowadays, we really do have to worry about orbital congestion, and because space is out of sight for most people, we don't.\" Each new rocket launch leaves a footprint on the orbital environment, whether it be the satellite payloads they place in orbit or the pieces of inert hardware they leave behind such as an interstage adapter or rocket body. All of those objects create an ever-increasing risk of collisions. 130 million pieces of debris are currently estimated to be orbiting Earth. (Image credit: ESA) In a worst case scenario, clouds of debris spawned by colliding spacecraft could create a cascading effect known as the Kessler syndrome , with the potential to render the orbital environment completely unusable, trapping us on Earth . Enter King Charles III's Astra Carta, an all-encompassing roadmap to space exploration that launched on June 28, 2023 with a clear but ambitious mandate — to place sustainability at the core of humanity's presence beyond Earth. What is the Astra Carta? The Astra Carta stands as the space-focused sibling of the Terra Carta — a voluntary framework that launched in 2021 with the goal of safeguarding Earth's natural splendor by championing a transition to global sustainability practices and environmental responsibility. Both names were chosen to draw comparison with the Magna Carta, a royal charter that served as an early foundation for the English Legal system and modern day democracies . The principles enshrined in the Astra Carta have the potential to be similarly transformative if taken to heart. \"I have long felt that protecting space that immediately surrounds our planet is one of those issues few recognize as important, but like so many of our present challenges, that were ignored for too long, if we do not address it quickly, it will come back to haunt us in a big way,\" the then-Prince of Wales stated in a message to participants of the 4th Summit for Space Sustainability in June 2022. The framework was craf",
       "image": "https://cdn.mos.cms.futurecdn.net/7PXmLixSAtL4bHuXbpKk8U-1920-80.jpg",
-      "category": "science"
-    },
-    {
-      "title": "NASA's interstellar Voyager 1 probe is about to reach 1 light-day from Earth after nearly 50 years in space",
-      "link": "https://www.space.com/space-exploration/voyager/nasas-interstellar-voyager-1-probe-is-about-to-reach-1-light-day-from-earth-after-nearly-50-years-in-space",
-      "source": "Space.com",
-      "date": "2026-11-16T11:00:00Z",
-      "description": "null Voyager 1 is celebrating a big milestone as it approaches its 50th birthday: reaching one light-day away from Earth. NASA's long-running interstellar Voyager 1 probe will mark one light-day of distance from Earth on Nov. 18, when the spacecraft is 49 years, two months and 11 days old. The agency recently stated the record distance, which will be reached at 5:16:07 a.m. EST (101607 GMT) is \"a huge milestone by any measure, and a day worth celebrating.\" During the light-day crossover, Voyager will be in contact with the Madrid station of the three-antenna Deep Space Network that monitors all deep-space missions. The spacecraft is currently making its way through the constellation Ophiuchus from the perspective of Earth, said Jeffrey Hayes, a NASA official whose work includes Voyager 1. (Image credit: NASA/JPL-Caltech) \"This [milestone] essentially kicks off the year's worth of celebrations leading up to the 50th anniversary in August and September of next year,\" added Hayes, who is discipline scientist in the agency's astrophysics and heliophysics divisions, in a livestreamed discussion with NASA's Night Sky Network on Nov. 4. Going the distance Voyager 1 is the farthest spacecraft from Earth, after launching from Kennedy Space Center in Florida on Sept. 5, 1977 a few weeks after its twin, Voyager 2 . NASA's Voyager 1 spacecraft launches atop a Titan/Centaur-6 rocket from Kennedy Space Center in Florida on Sept. 5, 1977. (Image credit: NASA/JPL-Caltech/KSC) A light-day, as the name implies, represents the distance that light travels in a single day. In other words, at one light-day, a radio-wave message to Voyager 1 takes 24 hours to get to the spacecraft — which is roughly 16 billion miles (26 billion kilometers) from Earth. Voyager's response then takes another day to get back to our planet. Voyager 2 — which is at a distance of 13.5 billion miles (21.7 billion km) from our planet — won't hit the light-day milestone until 2035, NASA stated. While the agency has not offered recent estimates for how long the two spacecraft will last, in 2022 Suzanne Dodd, project manager for Voyager at JPL, said they may keep operating into the 2030s . The two spacecraft had initial funding to survey Jupiter and Saturn, although NASA did launch them at a time when the planets aligned in such a way to bring Voyager 2 past Uranus and Neptune if funding continued — which it did. Voyager 1, meanwhile, took a turn at Saturn to look at the planet's rings, and the pre-biotic (pre-life chemistry) moon of its largest moon Titan , executing maneuvers which brought it high above the solar system's plane. An image of Saturn captured by Voyager on Nov. 16, 1980 four days after the probe's closest approach to the planet, taken from a distance of 3,300,000 miles (5,300,000 kilometers). (Image credit: NASA/JPL-Caltech) Hayes said the original design team likely did not foresee a 50-year lifespan for the mission, even though the Voyagers had many redundancies in them. But NASA",
-      "image": "https://cdn.mos.cms.futurecdn.net/FbpUYGY9M3AheaaKciVQSb-1920-80.jpg",
       "category": "science"
     }
   ]

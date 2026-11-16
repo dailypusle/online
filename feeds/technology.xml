@@ -4,7 +4,29 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Microsoft details how three problems combined for a global outage</title>
+<title>United Airlines system outage disrupts departures just days after the big ground stop</title>
+<link>https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures</link>
+<guid isPermaLink="false">4af98b7e3bf90778bf630983445a606c2fc5bb50099ec300cd5482f08f6ec353</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 22:54:59 +0000</pubDate>
+<description>United Airlines passenger planes are seen at gates at Newark Liberty International Airport (EWR) in Newark, New Jersey, on November 15, 2026. | AFP via Getty Images Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide , United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the issue itself. The outage is also coming after last week's global Microsoft Outlook shutdown , and the great-bank-outage-that-wasn't earlier Monday afternoon. According to posts on social media , a number of people onboard the planes have heard from their pilots that a systemwide IT outage for United has caused problems with a … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>United Airlines is experiencing a 'widespread system outage'</title>
+<link>https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage</link>
+<guid isPermaLink="false">0ece8e295161552db1a2b8dff4c7134e834146b4750658682e6b3ce91e31d293</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 22:38:43 +0000</pubDate>
+<description>United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.</description>
+<enclosure url="https://www.engadget.com/img/gallery/united-airlines-is-experiencing-a-widespread-system-outage/l-intro-1794868553.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/united-airlines-is-experiencing-a-widespread-system-outage/l-intro-1794868553.jpg" medium="image"/>
+</item>
+<item>
+<title>Three small failures combined to take down Microsoft 365</title>
 <link>https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage</link>
 <guid isPermaLink="false">ab5f095ac549a2fd65534f12690a96a7bc6cea1c74b81c96dce9926af806f17d</guid>
 <source>Ars Technica</source>
@@ -65,7 +87,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Mon, 16 Nov 2026 20:52:10 +0000</pubDate>
-<description>One flashpoint for the tech industry’s all-in push on Large Language Models has been the sudden rush to turn investment money into hyperscale data centers. The rush hasn’t allowed anyone to plan how to supply the required electricity cleanly or with minimal impact on ratepayers. Instead, it has been difficult to even collect information on what’s being built. A new study has tallied up energy use and estimated emissions for hyperscalers operating between May 2024 and April 2025 in the United States. They weren’t able to differentiate between AI compute and more traditional data services, but it provides a clear point of reference that could be tracked moving forward. Finding the centers The team started with a list of 675 facilities from a commercial database based on news reports, company statements, and satellite imagery. They dropped any that didn’t have a reported electrical capacity or that they couldn’t verify was a suitably large building with the expected cooling and electrical connection equipment. That reduced the list to 403 data centers with an average electrical capacity of about 40 megawatts. Read full article Comments</description>
+<description>One flashpoint for the tech industry’s all-in push on large language models has been the sudden rush to turn investment money into hyperscale data centers. The rush hasn’t allowed anyone to plan how to supply the required electricity cleanly or with minimal impact on ratepayers. Instead, it has been difficult to even collect information on what’s being built. A new study has tallied energy use and estimated emissions for hyperscalers operating in the United States between May 2024 and April 2025. They weren’t able to differentiate between AI compute and more traditional data services, but it provides a clear point of reference to track moving forward. Finding the centers The team started with a list of 675 facilities from a commercial database based on news reports, company statements, and satellite imagery. They dropped any that didn’t have a reported electrical capacity or that they couldn’t verify was a suitably large building with the expected cooling and electrical connection equipment. That reduced the list to 403 data centers with an average electrical capacity of about 40 megawatts. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg" medium="image"/>
 </item>
@@ -98,12 +120,12 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Mon, 16 Nov 2026 20:41:28 +0000</pubDate>
-<description>Sam…thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. "I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer," Altman said today. "I think the home tinkering is great." The comments were made on stage at Semafor's Silicon Valley &amp; The World summit on Monday. Altman's remarks on RAM stirred up controversy last month. In an appearance on the Cheeky Pint podcast , Altman said that it's "quite terrible" for everyone to have RAM in personal computers rather than in data centers. He later followed up on those comments in posts on … Read the full story at The Verge.</description>
+<description>Sam… thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. "I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer," Altman said today. "I think the home tinkering is great." The comments were made onstage at Semafor's Silicon Valley &amp; The World summit on Monday. Altman's remarks on RAM stirred up controversy last month. In an appearance on the Cheeky Pint podcast , Altman said that it's "quite terrible" for everyone to have RAM in personal computers rather than in data centers. He later followed up on those comments in posts on … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day</title>
+<title>Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</title>
 <link>https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day</link>
 <guid isPermaLink="false">9507e63bd34bba49d4de31c317055cb3f0ff90c342da63141216a3f34eb13f8e</guid>
 <source>Ars Technica</source>
@@ -120,7 +142,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Mon, 16 Nov 2026 20:36:14 +0000</pubDate>
-<description>Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your library, some of the PS5’s biggest titles are also currently on sale, in some cases by 50 percent or more, until November 30th. We’ve gathered some of the best games below, but sale standouts include 007 First Light for $34.99 ($35), The Witcher 3: Wild Hunt Remastered for $19.99 ($30 off), and NBA 2K27 for $31.49 (about $39 off). You can view the full list of titles on the PlayStation Store , many of which are also currently available at Amazon and other retailers for the same price (or less). 007 First Light Where to Buy: $69.99 $34.99 at PlayStation Store EA Sports Madden NFL 27 Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.99 at PlayStation Store Ghost of Yōtei Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.99 at Best Buy $69.99 $34.99 at PlayStation Store Astro Bot Where to Buy: $59.99 $37 at Amazon $59.99 $39.59 at PlayStation Store $59.99 $39.99 at Best Buy Cyberpunk 2077: Ultimate Edition Where to Buy: $49.99 $39.99 at Amazon $70.99 $35.49 at PlayStation Store $59.99 $39.99 at Best Buy Baldur’s Gate 3: Digital Deluxe Edition Where to Buy: $79.99 $55.99 at PlayStation Store Control Resonant – Digital Deluxe Edition Where to Buy: $59.99 $49.99 at Amazon $59.99 $49.99 at Best Buy $69.99 $47.99 at PlayStation Store EA Sports FC 27 Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.97 at Walmart $69.99 $34.99 at PlayStation Store Assassin’s Creed Black Flag Resynced Where to Buy: $59.99 $53.5 at Amazon $59.99 $44.99 at PlayStation Store $59.99 $53.99 at Target Marvel’s Wolverine Where to Buy: $69.99 $49.97 at Amazon $69.99 $49.97 at Walmart $69.99 $46.69 at PlayStation Store Halo: Campaign Evolved Where to Buy: $49.99 $29.99 at PlayStation Store Star Wars Zero Company Where to Buy: $59.99 $44.99 at Amazon $59.99 $44.97 at Walmart $59.99 $47.99 at PlayStation Store Saros Where to Buy: $69.99 $39.99 at Amazon $69.99 $39.99 at Best Buy $69.99 $39.89 at PlayStation Store Death Stranding 2: On The Beach Where to Buy: $69.99 $37.99 at Amazon $69.99 $39.89 at PlayStation Store The Witcher 3: Wild Hunt Remastered Where to Buy: $49.99 $19.99 at PlayStation Store NBA 2K27 Where to Buy: $69.99 $29.99 at Amazon $69.99 $29.99 at Best Buy $69.99 $31.49 at PlayStation Store</description>
+<description>Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your library, some of the PS5’s biggest titles are also currently on sale, in some cases by 50 percent or more, until November 30th. We’ve gathered some of the best games below, but sale standouts include 007 First Light for $34.99 ($35), The Witcher 3: Wild Hunt Remastered for $19.99 ($30 off), and NBA 2K27 for $31.49 (about $39 off). You can view the full list of titles on the PlayStation Store , many of which are also currently available at Amazon and other retailers for the same price (or less). 007 First Light Where to Buy: $69.99 $34.99 at PlayStation Store EA Sports Madden NFL 27 Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.99 at PlayStation Store Ghost of Yōtei Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.99 at Best Buy $69.99 $34.99 at PlayStation Store Astro Bot Where to Buy: $59.99 $37 at Amazon $59.99 $39.59 at PlayStation Store $59.99 $39.99 at Best Buy Cyberpunk 2077: Ultimate Edition Where to Buy: $49.99 $39.99 at Amazon $70.99 $35.49 at PlayStation Store $59.99 $39.99 at Best Buy Baldur’s Gate 3: Digital Deluxe Edition Where to Buy: $79.99 $55.99 at PlayStation Store Control Resonant – Digital Deluxe Edition Where to Buy: $59.99 $49.99 at Amazon $59.99 $49.99 at Best Buy $69.99 $47.99 at PlayStation Store EA Sports FC 27 Where to Buy: $69.99 $34.97 at Amazon $69.99 $34.97 at Walmart $69.99 $34.99 at PlayStation Store Assassin’s Creed Black Flag Resynced Where to Buy: $59.99 $53.5 at Amazon $59.99 $44.99 at PlayStation Store $59.99 $53.99 at Target Marvel’s Wolverine Where to Buy: $69.99 $49.97 at Amazon $69.99 $49.97 at Walmart $69.99 $46.69 at PlayStation Store Halo: Campaign Evolved Where to Buy: $49.99 $29.99 at PlayStation Store Star Wars Zero Company Where to Buy: $59.99 $44.99 at Amazon $59.99 $44.97 at Walmart $59.99 $47.99 at PlayStation Store Saros Where to Buy: $69.99 $39.99 at Amazon $69.99 $39.99 at Best Buy $69.99 $39.89 at PlayStation Store Death Stranding 2: On the Beach Where to Buy: $69.99 $37.99 at Amazon $69.99 $39.89 at PlayStation Store The Witcher 3: Wild Hunt Remastered Where to Buy: $49.99 $19.99 at PlayStation Store NBA 2K27 Where to Buy: $69.99 $29.99 at Amazon $69.99 $29.99 at Best Buy $69.99 $31.49 at PlayStation Store</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/EA-Sports-FC-27.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/EA-Sports-FC-27.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -277,17 +299,6 @@
 <description>Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors . Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage, MacRumors reports, including using Siri AI for "multi-step, personal context requests," image generation and editing tools, automations in Shortcuts that "r … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>OpenAI wants to stop deepfakes from overwhelming child abuse tiplines</title>
-<link>https://www.theverge.com/policy/1034527/openai-csam-classifier</link>
-<guid isPermaLink="false">019849ec10d9fd5ab0c305a157fdcea90d05b67d1b2aa3b3c8557a4793e56510</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 19:23:45 +0000</pubDate>
-<description>OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can aid their investigations. The news comes as policymakers and others are pushing for more safety restrictions on AI tools, accusing OpenAI and other co … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Google Maps' chatbot can find appointments and call to book them for you</title>
@@ -651,17 +662,6 @@
 <description>Mercedes-Benz provided flights from Washington, DC, to San Francisco and accommodation so Ars could try its new driver assistance systems. Ars does not accept paid editorial content. SAN FRANCISCO—When Ars first drove the new Mercedes-Benz CLA last year , the automaker also gave us a sneak preview of its next driver assist. Called Drive Assist Pro, it’s for collaborative partially assisted driving, and from the passenger seat at the time, the demo was impressive . Now the automaker is getting ready to start rolling out Drive Assist Pro to customers with cars running the new MB.OS operating system here in the US and in Germany, and it let us have some time behind the wheel. While most automakers want a reputation for safety, Mercedes has long used passive and active technology to do so in its products. It was one of the first OEMs to introduce airbags, and a decade later started adding active safety systems like anti-lock brakes, electronic stability control, and adaptive cruise control. And so, by giving the car’s electronics the ability to control the brakes and throttle, we arrive at the first level of assisted driving—called “level 1” in automotive engineer-speak. “Level 2” assisted driving, where the car also controls the steering as well as the acceleration and braking, got famous with Tesla Autopilot. But the first lane-keeping assists predate it by almost a decade in passenger cars, when Toyota introduced a system in 2004. The human driver behind the wheel is still in charge, responsible for situational awareness (and anything that arises from a lack thereof), with the idea that long drives become less tiring and a little more effortless when the car does the boring job of keeping a constant speed or a constant distance to the car ahead and between the white lines. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg" medium="image"/>
-</item>
-<item>
-<title>Hands-on (and off) with Mercedes-Benz's upcoming MB.Drive Assist Pro system</title>
-<link>https://www.engadget.com/2315999/hands-on-and-off-with-mercedes-benz-mbdrive-assist-pro</link>
-<guid isPermaLink="false">34b176319fd7c93f29dac99941f9d99e25218c30f90ae35c04919b0eafbc58ff</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
-<description>Benz takes us another step towards self-driving.</description>
-<enclosure url="https://www.engadget.com/img/gallery/hands-on-and-off-with-mercedes-benzs-upcoming-mb-drive-assist-pro-system/l-intro-1794586242.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/hands-on-and-off-with-mercedes-benzs-upcoming-mb-drive-assist-pro-system/l-intro-1794586242.jpg" medium="image"/>
 </item>
 <item>
 <title>Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’</title>
@@ -1146,17 +1146,6 @@
 <description>A surprise defect took more than 80% of Microsoft’s servers out at the outage’s peak. Here’s what happened.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304360163.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304360163.jpg" medium="image"/>
-</item>
-<item>
-<title>FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
-<link>https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace</link>
-<guid isPermaLink="false">05648108c87680dd8673b71ce65f542756e08e645419398729eb6402c7ad7053</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 21:20:47 +0000</pubDate>
-<description>The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer</title>

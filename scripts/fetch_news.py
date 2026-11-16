@@ -20,6 +20,8 @@ MIN_IMAGE_WIDTH = 400
 MIN_IMAGE_HEIGHT = 225
 # Edge-variance blur heuristic. This is an image-quality check, not an AI vision model.
 MIN_SHARPNESS = 55.0
+# Sources marked "require_body": true in feeds.json must include at least this much summary text.
+MIN_BODY_CHARS = 60
 IMAGE_CHECK_CACHE = {}
 CATEGORIES = {"top", "nigeria", "world", "entertainment", "sports", "technology", "science", "business", "gaming", "fashion", "other"}
 PREVIEW_CATEGORIES = ("top", "nigeria", "world", "business", "entertainment", "sports", "technology", "science")
@@ -210,6 +212,10 @@ def main():
                 # Check duplicates first so we don't waste network calls on image checks.
                 if link in seen_urls or (title_key and title_key in seen_titles):
                     continue
+                description = entry_description(entry)
+                # For sources flagged "require_body", skip stories that have a headline but no summary text.
+                if source.get("require_body") and len(description) < MIN_BODY_CHARS:
+                    continue
                 # Try each image candidate; skip the article if none passes quality checks.
                 image = next((c for c in entry_images(entry) if image_is_usable(c)), "")
                 if not image:
@@ -218,7 +224,7 @@ def main():
                 seen_titles.add(title_key)
                 grouped[category].append({
                     "title": title, "link": link, "source": name,
-                    "date": entry_date(entry), "description": entry_description(entry),
+                    "date": entry_date(entry), "description": description,
                     "image": image, "category": category,
                 })
                 total += 1

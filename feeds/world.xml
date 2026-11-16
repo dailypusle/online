@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Some US banks reporting technical issues, delays with online transactions</title>
+<link>https://abcnews.com/Business/us-banks-reporting-technical-issues-online-transactions/story?id=138187551</link>
+<guid isPermaLink="false">902e83e9f126a3cecb96a44b90f2af44ea93c2ec1614ed03bcc8845f3cb365bd</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 21:54:18 +0000</pubDate>
+<description>JPMorgan said customers "still have access to their accounts and funds."</description>
+<enclosure url="https://s.abcnews.com/images/US/chase-1-ap-gmh-261116_1794857898057_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/chase-1-ap-gmh-261116_1794857898057_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Rogue AI: California sues OpenAI over "Hugging Face" and other cyberattacks</title>
+<link>https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks</link>
+<guid isPermaLink="false">3f7d606f2fbe71b12bdd07688da162e908441014de5b18a47694aa80c132a6de</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 21:27:15 +0000</pubDate>
+<description>The US state of California has filed a lawsuit against OpenAI over the "Hugging Face" and other cyberattacks, accusing the ChatGPT maker of knowingly testing dangerous advanced AI models without adequate safeguard. Meanwhile, the US Commerce Department has tightened rules over the export of US technology, aiming to close a loophole around remote access to advanced AI chips.</description>
+<enclosure url="https://s.france24.com/media/display/6ceddd6e-e201-11f1-a43b-695cb59fade5/w:1024/p:16x9/EN-NW-IVS-ECO-CALIFORNIA-STATEMENT-OPENAI-LAWSUIT-ROYER-Yuka-transfer.png" type="image/png"/>
+<media:content url="https://s.france24.com/media/display/6ceddd6e-e201-11f1-a43b-695cb59fade5/w:1024/p:16x9/EN-NW-IVS-ECO-CALIFORNIA-STATEMENT-OPENAI-LAWSUIT-ROYER-Yuka-transfer.png" medium="image"/>
+</item>
+<item>
+<title>Rwanda to host hub for rejected EU migrants</title>
+<link>https://www.france24.com/en/rwanda-to-host-hub-for-rejected-eu-migrants</link>
+<guid isPermaLink="false">5f2ca0d474bb84928e561475a48296707da45c6168a5ed844a389de13121ccc7</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 21:21:14 +0000</pubDate>
+<description>In tonight's edition, five European countries are negotiating a deal to deport rejected asylum seekers to Rwanda. Also, the Democratic Republic of Congo and Rwanda's political animosity spills over at the Francophonie Summit in Cambodia. And in Tunisia, young women are increasingly turning towards weightlifting and bodybuilding as a form of self-expression.</description>
+<enclosure url="https://s.france24.com/media/display/3919d2d0-e202-11f1-8e3c-5f54d898a954/w:1024/p:16x9/DL00006253-VOD-00023667.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/3919d2d0-e202-11f1-8e3c-5f54d898a954/w:1024/p:16x9/DL00006253-VOD-00023667.jpg" medium="image"/>
+</item>
+<item>
 <title>November 17 blackout hoax: How a conspiracy theory went viral around the world</title>
 <link>https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world</link>
 <guid isPermaLink="false">0b2ddebc84cf6a71dedc2c2f94ac3d623befd4aa3803db13f77e27b0d1c2ea1e</guid>
@@ -24,17 +57,6 @@
 <description>Pope Leo XIV finished Monday his 12-day tour of Uruguay, Argentina and Peru reiterating his advocacy for social justice, environmental protection and the importance of community. Just a month after undergoing lung cancer surgery, the 71-year-old pontiff drew millions of faithful across South America, where he spent nearly two decades as a missionary.</description>
 <enclosure url="https://s.france24.com/media/display/188735cc-e1fc-11f1-bd41-f71d22e7fea9/w:1024/p:16x9/000-D7N43WG.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/188735cc-e1fc-11f1-bd41-f71d22e7fea9/w:1024/p:16x9/000-D7N43WG.jpg" medium="image"/>
-</item>
-<item>
-<title>Some US banks reporting technical issues, delays with online transactions</title>
-<link>https://abcnews.com/Business/us-banks-reporting-technical-issues-online-transactions/story?id=138187551</link>
-<guid isPermaLink="false">902e83e9f126a3cecb96a44b90f2af44ea93c2ec1614ed03bcc8845f3cb365bd</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 20:47:44 +0000</pubDate>
-<description>JPMorgan said customers "still have access to their accounts and funds."</description>
-<enclosure url="https://s.abcnews.com/images/US/chase-1-ap-gmh-261116_1794857898057_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/chase-1-ap-gmh-261116_1794857898057_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>The new faces of the US Congress</title>
@@ -70,6 +92,17 @@
 <media:content url="https://s.france24.com/media/display/5dbb5ee6-e1ef-11f1-8f0e-f71d22e7fea9/w:1024/p:16x9/Anglais-2026-11-16T18-54-18-039Z.jpg" medium="image"/>
 </item>
 <item>
+<title>Trump Asia trip live updates: Logistical hurdles with a Trump-Kim Jong Un meeting</title>
+<link>https://abcnews.com/Politics/live-updates/trump-asia-trip-2026?id=138187702</link>
+<guid isPermaLink="false">7de928a733576d78e0f3ceada8e2b3c9d058d0bf7d970fb88a1efb2926f0a50a</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 20:26:28 +0000</pubDate>
+<description>Trump will participate in the first-ever trilateral meeting with Putin and Xi.</description>
+<enclosure url="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261116_1794841393009_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261116_1794841393009_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>EU nations unveil Rwanda deal for migrant return hub</title>
 <link>https://www.france24.com/en/eu-nations-unveil-rwanda-deal-for-migrant-return-hub</link>
 <guid isPermaLink="false">38d2912ee0180cb07e8a0021acb8934ddcb90cf19a7b8806a8d332f943c7d324</guid>
@@ -101,17 +134,6 @@
 <description>European football's governing body UEFA has given its "unanimous" backing to French Football Federation chief Philippe Diallo to stand against incumbent Gianni Infantino in March's FIFA presidential election, it said in a statement Monday. Under its Slovenian president Aleksander Ceferin, UEFA has led the opposition to Infantino since his announcement in late July of a project to sell stakes in the World Cup to private investors. FRANCE 24's Selina Sykes speaks with Dr. Emanuel Macedo de Medeiros, Co-founder and Global CEO of the Sport Integrity Global Alliance.</description>
 <enclosure url="https://s.france24.com/media/display/3290138c-e1f5-11f1-8f2a-3f371022a770/w:1024/p:16x9/EN-20261116-201828-202731-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/3290138c-e1f5-11f1-8f2a-3f371022a770/w:1024/p:16x9/EN-20261116-201828-202731-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Person of interest in custody after device found at Illinois plant</title>
-<link>https://abcnews.com/US/person-interest-custody-after-device-found-illinois-plant/story?id=138178192</link>
-<guid isPermaLink="false">d10412aae171f851963d5d86c29cde6b9d042f519583a03897d2d0e740e81fb2</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 19:21:41 +0000</pubDate>
-<description>A person of interest is in custody after a device was found at the Peoria, Illinois BioUrja Renewables facility.</description>
-<enclosure url="https://s.abcnews.com/images/US/illinois-bomb-threat-ht-jt-261114_1794668219374_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/illinois-bomb-threat-ht-jt-261114_1794668219374_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>'A futuristic debate now very real': Why the world is struggling to regulate killer robots</title>
@@ -178,17 +200,6 @@
 <description>British actor Robert Pattinson is set to become the next James Bond in the long-running 007 spy franchise. Discussions over the casting of the new James Bond had been going on for months, with Pattinson emerging as one of the frontrunners from the outset.</description>
 <enclosure url="https://s.france24.com/media/display/1fa3829e-e1dd-11f1-a575-5f54d898a954/w:1024/p:16x9/EN-Pattison-tikTok-00-00-02-16-Still011.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/1fa3829e-e1dd-11f1-a575-5f54d898a954/w:1024/p:16x9/EN-Pattison-tikTok-00-00-02-16-Still011.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump says he may meet with North Korea's Kim Jong Un during China trip</title>
-<link>https://abcnews.com/Politics/trump-heads-asia-2nd-high-stakes-meeting-chinese/story?id=138059807</link>
-<guid isPermaLink="false">3b1a6ac7ee1b8b8887092a7a5ddf2aeb5b931b72c1bff97916d061a5b0e201e2</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 16:33:58 +0000</pubDate>
-<description>Trump's trip comes amid the Nvidia CEO scandal involving an alleged Chinese spy.</description>
-<enclosure url="https://s.abcnews.com/images/US/kim-gty-gmh-261116_1794840964662_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/kim-gty-gmh-261116_1794840964662_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Grammy nominees for Album of the Year, Song of the Year</title>
@@ -304,12 +315,12 @@
 <title>FIFA president Gianni Infantino faces challenge from French football chief</title>
 <link>https://news.sky.com/story/head-of-french-football-to-stand-against-infantino-in-fifa-presidential-election-13612894</link>
 <guid isPermaLink="false">77df0b0c2405033b06ac1ae05b0b275993272caa9924b7d37f102e0bea7f77f6</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Mon, 16 Nov 2026 15:25:00 +0000</pubDate>
 <description>The head of the French Football Federation (FFF) will stand against Gianni Infantino in the FIFA presidential election, UEFA have revealed.</description>
-<enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-gianni-infantino-fifa_7363826.jpg?20260929094937" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-gianni-infantino-fifa_7363826.jpg?20260929094937" medium="image"/>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-gianni-infantino-fifa_7408154.jpg?20261116212649" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-gianni-infantino-fifa_7408154.jpg?20261116212649" medium="image"/>
 </item>
 <item>
 <title>WATCH: New video of tanker collision and riverboat sinking</title>
@@ -400,6 +411,17 @@
 <media:content url="https://s.france24.com/media/display/b89038f0-e1c2-11f1-852e-5f54d898a954/w:1024/p:16x9/DL00004072-VOD-00018864-CS0940.jpg" medium="image"/>
 </item>
 <item>
+<title>Microsoft identifies issues leading to global Outlook outage</title>
+<link>https://abcnews.com/US/outlook-outage-cause-microsoft-reason-teams-down/story?id=138174626</link>
+<guid isPermaLink="false">3b398aacba599406aada857c4bb9514a2a5bddc213746888dc138f33472976eb</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 14:27:38 +0000</pubDate>
+<description>Microsoft executive lays out issues leading to the Outlook outage in social media post.</description>
+<enclosure url="https://s.abcnews.com/images/Business/microsoft-rt-jt-261113_1794588852733_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Business/microsoft-rt-jt-261113_1794588852733_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Musk among more than 150,000 calling for Jensen Huang's return to Nvidia</title>
 <link>https://www.france24.com/en/video/20261116-musk-among-more-than-150-000-calling-for-jensen-huang-s-return-to-nvidia</link>
 <guid isPermaLink="false">c7c573833cdd46de8ffc897c70e0edd4ad15925155af8b2abe5efcb6ea3a3624</guid>
@@ -409,28 +431,6 @@
 <description>Could Jensen Huang make a stunning return to Nvidia just days after resigning as CEO of the AI chip giant over an affair with an alleged Chinese spy? The possibility is growing after Elon Musk and more than 158,000 others signed an open letter calling for Huang's reinstatement.</description>
 <enclosure url="https://s.france24.com/media/display/fcd1abf0-e1c4-11f1-86b7-695cb59fade5/w:1024/p:16x9/EN-20261116-141729-141916-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/fcd1abf0-e1c4-11f1-86b7-695cb59fade5/w:1024/p:16x9/EN-20261116-141729-141916-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>French troops 'deployed in Ukraine on secret mission'</title>
-<link>https://www.france24.com/en/video/20261116-french-troops-deployed-in-ukraine-on-secret-mission</link>
-<guid isPermaLink="false">c95d7acd52f0ce21aceb1241d45ee2353bc937b8f30d5e31fe4097ba0ff42a8d</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 14:02:12 +0000</pubDate>
-<description>French soldiers have been operating in Ukraine for several months, training Ukrainian troops and helping maintain military equipment, France 24's sister radio network Radio France Internationale (RFI) reported on Monday. France 24's Douglas Herbert takes a closer look at the report's claims.</description>
-<enclosure url="https://s.france24.com/media/display/ae14679c-e1c3-11f1-a27a-5f54d898a954/w:1024/p:16x9/EN-20261116-141003-141433-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/ae14679c-e1c3-11f1-a27a-5f54d898a954/w:1024/p:16x9/EN-20261116-141003-141433-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Russia says intercepted over 1,300 Ukrainian drones in a major attack</title>
-<link>https://www.france24.com/en/video/20261116-russia-says-intercepted-over-1-300-ukrainian-drones-in-a-major-attack</link>
-<guid isPermaLink="false">3f3ce5ff49938cb147b8f69fd499b9a573aead330feccbacd733507665e33b33</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 14:00:25 +0000</pubDate>
-<description>Russia intercepted 1,336 drones launched by Ukraine, Russia’s Defense Ministry said Monday, in what was the most claimed downings since Moscow’s all-out invasion of its neighbor nearly five years ago. Russia, meanwhile, has battered Ukrainian civilian areas with relentless strikes that seek to choke the economy and break public morale, in attacks President Volodymyr Zelensky said were made possible ⁠partly due to restrictions on Ukraine's use of SpaceX's Starshield service.</description>
-<enclosure url="https://s.france24.com/media/display/5b153de6-e1c3-11f1-a582-29048b396e03/w:1024/p:16x9/EN-20261116-140804-141000-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/5b153de6-e1c3-11f1-a582-29048b396e03/w:1024/p:16x9/EN-20261116-140804-141000-CS.jpg" medium="image"/>
 </item>
 <item>
 <title>LIVE: ABC News Live</title>

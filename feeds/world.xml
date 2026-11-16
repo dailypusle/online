@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Some US banks reporting technical issues with online transactions</title>
+<link>https://abcnews.com/Business/us-banks-reporting-technical-issues-online-transactions/story?id=138187551</link>
+<guid isPermaLink="false">902e83e9f126a3cecb96a44b90f2af44ea93c2ec1614ed03bcc8845f3cb365bd</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 20:03:46 +0000</pubDate>
+<description>JPMorgan and Wells Fargo reported technical issues with online banking on Monday.</description>
+<enclosure url="https://s.abcnews.com/images/US/wells-fargo-ap-gmh-261116_1794858445616_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/wells-fargo-ap-gmh-261116_1794858445616_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Supreme Court rebuffs Trump administration appeal over DEI funding cuts</title>
+<link>https://abcnews.com/US/wireStory/supreme-court-rebuffs-trump-administration-appeal-dei-funding-138187547</link>
+<guid isPermaLink="false">75ffbccad1e1ddc3093f85a444bc53922f1c88b2414f82569196515c3f8a063b</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 19:43:08 +0000</pubDate>
+<description>The Supreme Court has rejected a Trump administration appeal on DEI funding cuts to academic research</description>
+<enclosure url="https://s.abcnews.com/images/US/wirestory_36d846810d632fba17364355de99efa8_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/wirestory_36d846810d632fba17364355de99efa8_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Person of interest in custody after device found at Illinois plant</title>
+<link>https://abcnews.com/US/person-interest-custody-after-device-found-illinois-plant/story?id=138178192</link>
+<guid isPermaLink="false">d10412aae171f851963d5d86c29cde6b9d042f519583a03897d2d0e740e81fb2</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 19:21:41 +0000</pubDate>
+<description>A person of interest is in custody after a device was found at the Peoria, Illinois BioUrja Renewables facility.</description>
+<enclosure url="https://s.abcnews.com/images/US/illinois-bomb-threat-ht-jt-261114_1794668219374_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/illinois-bomb-threat-ht-jt-261114_1794668219374_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>'A futuristic debate now very real': Why the world is struggling to regulate killer robots</title>
+<link>https://www.france24.com/en/technology/20261116-a-futuristic-debate-now-very-real-why-the-world-is-struggling-to-regulate-killer-robots</link>
+<guid isPermaLink="false">d6253129fb3f359530dc604f79c29a23c6615953776da2ead0ee20595b3f0ae0</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 19:10:36 +0000</pubDate>
+<description>Representatives from 128 nations are meeting in Geneva on Monday to decide whether to move ahead with negotiating legally binding rules around the use of AI-powered weapons that can kill without human involvement. FRANCE 24 spoke with artificial intelligence researcher Vincent Boulanin to find out just what is at stake.</description>
+<enclosure url="https://s.france24.com/media/display/826c555c-e1da-11f1-baa3-3f371022a770/w:1024/p:16x9/000-D68W7VD.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/826c555c-e1da-11f1-baa3-3f371022a770/w:1024/p:16x9/000-D68W7VD.jpg" medium="image"/>
+</item>
+<item>
 <title>U.S. tightens controls on remote access to AI technology amid Nvidia fallout</title>
 <link>https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department</link>
 <guid isPermaLink="false">1aaa9f8ce00f1732277e7dc0fdb6549b3ccf1c905e308629154d15202d79d773</guid>
@@ -13,6 +57,28 @@
 <description>The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China. (Image credit: Taryn Ng)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5367x3578+0+0/resize/5367x3578!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F22%2F5d8e832c4fd78402c75d44e19475%2Fgettyimages-2303986706-1.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5367x3578+0+0/resize/5367x3578!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F22%2F5d8e832c4fd78402c75d44e19475%2Fgettyimages-2303986706-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Water companies told to act over fears drought will extend into next year</title>
+<link>https://news.sky.com/story/water-companies-told-to-act-over-fears-drought-will-extend-into-next-year-13612971</link>
+<guid isPermaLink="false">37ebfe110c0a742b6484ae3702dd1c90dfafe49c63da979467fe1b358312fe97</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 18:39:00 +0000</pubDate>
+<description>Water firms have been told to do more over fears the current drought will extend into next year.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ardingly-reservoir_7408066.jpg?20261116193932" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ardingly-reservoir_7408066.jpg?20261116193932" medium="image"/>
+</item>
+<item>
+<title>Czech mass protests: Media is the first casualty 'when you want to attack democracy'</title>
+<link>https://www.france24.com/en/czech-mass-protests-media-is-the-first-casualty-when-you-want-to-attack-democracy</link>
+<guid isPermaLink="false">d702c00cffa68ca89e66dda9fbdb229a5ff0632865310b043bbcff7765a14f03</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 18:33:00 +0000</pubDate>
+<description>As hundreds of thousands of people gather in Prague to protest the Czech government's proposal to replace public broadcasting licence fees with direct state funding, Delano D'Souza is pleased to welcome Bára Stárek, Executive Director of Díky, že můžem. Stárek warns that the proposed changes offer "no real safeguards" against political influence, pointing to developments in Slovakia and Hungary. She also drew a parallel with the Velvet Revolution of 1989, recalling that "we didn't have a free media and we only had a state media" under communist rule. "Media is the first (line of) attack when you want to attack democracy," she said. With the legislation expected to reach Parliament in January, Stárek believes the demonstrations will continue if the government refuses to engage in any discussions.</description>
+<enclosure url="https://s.france24.com/media/display/16a10508-e1e3-11f1-a5b1-3f371022a770/w:1024/p:16x9/EN-20261116-161050-161723-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/16a10508-e1e3-11f1-a5b1-3f371022a770/w:1024/p:16x9/EN-20261116-161050-161723-CS.jpg" medium="image"/>
 </item>
 <item>
 <title>U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow</title>
@@ -202,17 +268,6 @@
 <media:content url="https://s.france24.com/media/display/adf5bcee-e1cc-11f1-a434-695cb59fade5/w:1024/p:16x9/EN-20261116-143925-144130-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Person of interest in custody after device found at Illinois plant</title>
-<link>https://abcnews.com/US/person-interest-custody-after-device-found-illinois-plant/story?id=138178192</link>
-<guid isPermaLink="false">d10412aae171f851963d5d86c29cde6b9d042f519583a03897d2d0e740e81fb2</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 15:07:46 +0000</pubDate>
-<description>A person of interest is in custody after a device was found at the Peoria, Illinois BioUrja Renewables facility.</description>
-<enclosure url="https://s.abcnews.com/images/US/illinois-bomb-threat-ht-jt-261114_1794668219374_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/illinois-bomb-threat-ht-jt-261114_1794668219374_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Did France abandon its athletes after the Olympics?</title>
 <link>https://www.france24.com/en/france/20261116-did-france-abandon-its-athletes-after-the-olympics</link>
 <guid isPermaLink="false">1308b0a82b503b5dc92f6124809141db3a392a70f26a119183950e141f6deb8c</guid>
@@ -222,6 +277,17 @@
 <description>Two years after hosting the Olympics, France seems to have lost interest in supporting its athletes. With budget cuts and lackluster interest from sponsors, some – despite their competitive successes – are turning to influencer work to finance their sport careers.</description>
 <enclosure url="https://s.france24.com/media/display/10712210-df6a-11f1-bf1e-f71d22e7fea9/w:1024/p:16x9/TN-ATHLETE-EN-1.png" type="image/png"/>
 <media:content url="https://s.france24.com/media/display/10712210-df6a-11f1-bf1e-f71d22e7fea9/w:1024/p:16x9/TN-ATHLETE-EN-1.png" medium="image"/>
+</item>
+<item>
+<title>US to further curb China's access to Nvidia chips</title>
+<link>https://news.sky.com/story/us-to-further-curb-chinas-access-to-ai-chips-from-companies-like-nvidia-13612884</link>
+<guid isPermaLink="false">fce31fdfe77452cdd20d03dd66f9b020a6aaa6949d6ef4087b84083f0a7171cf</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 14:59:00 +0000</pubDate>
+<description>The US government is set to further restrict China's access to the most powerful AI chips, such as the ones provided by tech giant Nvidia.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-taiwan-nvidia-taipei_7404808.jpg?20261112101611" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-taiwan-nvidia-taipei_7404808.jpg?20261112101611" medium="image"/>
 </item>
 <item>
 <title>COP31 deal draft foreshadows difficult route to consensus</title>
@@ -255,17 +321,6 @@
 <description>A Man Booker Prize nominee has been speaking to FRANCE 24 about his latest novel and his passion for researching and writing historical fiction. Ian McGuire was shortlisted for the prize in 2016 for his novel “The North Water”. His latest book, “White River Crossing”, was published earlier this year and has now been translated into French, under the shortened title “White River”.</description>
 <enclosure url="https://s.france24.com/media/display/b89038f0-e1c2-11f1-852e-5f54d898a954/w:1024/p:16x9/DL00004072-VOD-00018864-CS0940.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/b89038f0-e1c2-11f1-852e-5f54d898a954/w:1024/p:16x9/DL00004072-VOD-00018864-CS0940.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft identifies issues leading to global Outlook outage</title>
-<link>https://abcnews.com/US/outlook-outage-cause-microsoft-reason-teams-down/story?id=138174626</link>
-<guid isPermaLink="false">3b398aacba599406aada857c4bb9514a2a5bddc213746888dc138f33472976eb</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 14:27:38 +0000</pubDate>
-<description>Microsoft executive lays out issues leading to the Outlook outage in social media post.</description>
-<enclosure url="https://s.abcnews.com/images/Business/microsoft-rt-jt-261113_1794588852733_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Business/microsoft-rt-jt-261113_1794588852733_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Musk among more than 150,000 calling for Jensen Huang's return to Nvidia</title>
@@ -334,6 +389,17 @@
 <media:content url="https://s.france24.com/media/display/759ac8e0-e1c1-11f1-a519-29048b396e03/w:1024/p:16x9/EN-20261116-131320-131831-CS.jpg" medium="image"/>
 </item>
 <item>
+<title>Iran live updates: Tanker attacked in Strait of Hormuz, UKMTO says</title>
+<link>https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto?id=138171071</link>
+<guid isPermaLink="false">bb33a888ff666c42d2d84827c604115119fc1cb2ba6f04e467af7d338bc1ff69</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 16 Nov 2026 13:47:02 +0000</pubDate>
+<description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
+<enclosure url="https://s.abcnews.com/images/International/Strait-DB-261116_1794818174428_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/Strait-DB-261116_1794818174428_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Iran blocks UN nuclear site visits until war ends</title>
 <link>https://www.france24.com/en/asia-pacific/20261116-iran-blocks-un-nuclear-site-visits-until-war-ends</link>
 <guid isPermaLink="false">181a87828acf57e916687c04da48b82f3efc73001dd73a255043f0f0cb60908b</guid>
@@ -387,28 +453,6 @@
 <description>ABC News' Danny New explains how feline lovers recently got their fix in Somerville, Massachusetts.</description>
 <enclosure url="https://s.abcnews.com/images/US/261116_gmafl_cat_tour_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261116_gmafl_cat_tour_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Pope Leo wraps up South America tour that tested recovery from cancer surgery</title>
-<link>https://www.france24.com/en/video/20261116-pope-leo-wraps-up-south-america-tour-that-tested-recovery-from-cancer-surgery</link>
-<guid isPermaLink="false">a36125dddd11b227c5fce1995ef3f7772e7184245ac29aeb748743d016ddaf1d</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 12:15:46 +0000</pubDate>
-<description>Pope Leo XIV concludes his 12-day homecoming tour of South America on Monday, a visit that has helped dispel concerns over his health following his recovery from cancer surgery. The 71-year-old pontiff visited Uruguay, Argentina and Peru, crisscrossing a continent where he had spent almost two decades serving as a missionary.</description>
-<enclosure url="https://s.france24.com/media/display/a010640e-e1b2-11f1-85a0-695cb59fade5/w:1024/p:16x9/EN-20261116-104127-104326-CS-01.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/a010640e-e1b2-11f1-85a0-695cb59fade5/w:1024/p:16x9/EN-20261116-104127-104326-CS-01.jpg" medium="image"/>
-</item>
-<item>
-<title>Francophonie summit avoids 'major disaster' after clash over leadership</title>
-<link>https://www.france24.com/en/video/20261116-francophonie-summit-avoids-major-disaster-after-clash-over-leadership</link>
-<guid isPermaLink="false">9bd9d7b546e3103ad497051e09ab420ab6be56e351b7e11d08485ed05f24c847</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 12:13:08 +0000</pubDate>
-<description>A summit of French-speaking nations attended by France's Emmanuel Macron postponed the election of a new chief Monday after a row between African neighbours the Democratic Republic of Congo and Rwanda. The postponement appears to have staved off a threatened walkout by DR Congo, avoiding what would have been a "major disaster", says France 24's Philip Turle.</description>
-<enclosure url="https://s.france24.com/media/display/782d9d64-e1b5-11f1-8ca5-f71d22e7fea9/w:1024/p:16x9/EN-20261116-101822-102325-CS-01.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/782d9d64-e1b5-11f1-8ca5-f71d22e7fea9/w:1024/p:16x9/EN-20261116-101822-102325-CS-01.jpg" medium="image"/>
 </item>
 <item>
 <title>Depardieu drops appeal against sexual assault conviction and apologises</title>
@@ -477,17 +521,6 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-jensen-huang-nvidia_7401647.jpg?20261108211528" medium="image"/>
 </item>
 <item>
-<title>AI child sex abuse images 'soar 8,400% in two years'</title>
-<link>https://news.sky.com/story/ai-generated-child-sex-abuse-images-soar-8400-in-two-years-study-finds-13612714</link>
-<guid isPermaLink="false">304e79ddf99b470cf3cbfa0b721d6a02a90e4c4acdfe4a9d589a161694a9f4bf</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 09:11:00 +0000</pubDate>
-<description>The amount of child sex abuse images and videos generated using AI is 85 times higher than just two years ago, scientists discovered.</description>
-<enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-paedophile-police-scotland_7229391.jpg?20261116103950" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/04/1920x1080/skynews-paedophile-police-scotland_7229391.jpg?20261116103950" medium="image"/>
-</item>
-<item>
 <title>At least 17 people killed in two separate shootings in South Africa</title>
 <link>https://news.sky.com/story/at-least-17-people-killed-in-two-separate-shootings-in-south-africa-13612711</link>
 <guid isPermaLink="false">18976cf851ad15bde489e2e7e8e1bf1f3e13afb3c4445566238b1fcf843af154</guid>
@@ -519,17 +552,6 @@
 <description>Helen Haines, the Australian politician who lost both legs after an alleged attack, has said she is "full of gratitude" upon leaving hospital.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-helen-haines-australia_7380471.jpg?20261019092518" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-helen-haines-australia_7380471.jpg?20261019092518" medium="image"/>
-</item>
-<item>
-<title>Man charged after two killed in police chase collision</title>
-<link>https://news.sky.com/story/man-charged-with-causing-death-by-dangerous-driving-after-two-killed-in-police-chase-collision-13610989</link>
-<guid isPermaLink="false">e23ab3dd4d6d1316c0aa5d9b358b119c030f1e243351220bbaa53d0bd4d12bf8</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Mon, 16 Nov 2026 06:11:00 +0000</pubDate>
-<description>A man has been charged with causing death by dangerous driving after two people were killed when a car being chased by police collided with their vehicle.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-leeds-police_7406905.jpg?20261115101742" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-leeds-police_7406905.jpg?20261115101742" medium="image"/>
 </item>
 <item>
 <title>William and Kate land in Mumbai for Earthshot Prize trip</title>
@@ -598,17 +620,6 @@
 <media:content url="https://s.abcnews.com/images/Politics/sean_duffy_TW_abc_cw_20261115_1794754759539_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump to meet with Putin and Xi in China, US officials say</title>
-<link>https://abcnews.com/Politics/trump-meet-putin-xi-china-week-us-officials/story?id=138128914</link>
-<guid isPermaLink="false">0b6d8b330e7691f6102f27feead28ba3f8ce99aaec9bf0bb4dc880af556a72b0</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sun, 15 Nov 2026 09:30:14 +0000</pubDate>
-<description>Trump will participate in the first-ever trilateral meeting between the leaders of the U.S., China, and Russia on the sidelines of the APEC Summit in China next week.</description>
-<enclosure url="https://s.abcnews.com/images/US/xi-trump-putin-rt-gmh-261113_1794616739738_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/xi-trump-putin-rt-gmh-261113_1794616739738_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Skylar's big surprise by the New England Patriots</title>
 <link>https://abcnews.com/video/138141298</link>
 <guid isPermaLink="false">fcbac47051f56a70ad01ef6294ecbefa84b05c52b681566d5b1b4764fa8cfcc1</guid>
@@ -651,17 +662,6 @@
 <description>The US has asked for the first time whether Ukraine would withdraw from parts of the Donbas region if Kyiv were admitted to NATO, Volodymyr Zelenskyy said.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-zelenskyy-dublin_7406411.jpg?20261114133024" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-zelenskyy-dublin_7406411.jpg?20261114133024" medium="image"/>
-</item>
-<item>
-<title>Trump, Xi and Putin to hold unprecedented meeting, White House says</title>
-<link>https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124</link>
-<guid isPermaLink="false">509c714a90c1af6082dc3301a6daa26d9b87e92970c805df863da0c145c718f4</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Sat, 14 Nov 2026 08:19:00 +0000</pubDate>
-<description>The leaders of the US, China and Russia will hold an unprecedented meeting on the sidelines of a major economic summit, the White House has said.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-xi-jinping_7406284.jpg?20261114085215" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-xi-jinping_7406284.jpg?20261114085215" medium="image"/>
 </item>
 <item>
 <title>Lauren Boebert will lose her seat in Congress to Democrat Laubacher, AP projects</title>
@@ -750,17 +750,6 @@
 <description>US officer who was arrested in the UK on suspicion of spying for Russia is 41-year-old Lt. Col. Brandon Tyner, according to a source familiar with the investigation.</description>
 <enclosure url="https://s.abcnews.com/images/Politics/allied-rapid-reaction-corp-gty-jt-261112_1794522855592_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Politics/allied-rapid-reaction-corp-gty-jt-261112_1794522855592_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Colom’s historic Senate win could reshape Mississippi’s political future: Analysis</title>
-<link>https://abcnews.com/Politics/coloms-historic-senate-win-reshape-mississippis-political-future/story?id=138082817</link>
-<guid isPermaLink="false">dec259984c08a6a468ff9ef58299bef95eab82e1377351879a191b8357728ae0</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 21:52:06 +0000</pubDate>
-<description>The question is whether his victory can establish a lasting realignment.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/2304690832_1794461284962_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/2304690832_1794461284962_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Republicans push for Jensen Huang's testimony following Nvidia CEO's resignation</title>

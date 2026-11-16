@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Highlights From the Starship Landing</title>
+<link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch</link>
+<guid isPermaLink="false">99ae00b514c0a5178428ca761e8b202025207c64d8065b445fd80e2f3094af88</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Mon, 16 Nov 2026 19:18:08 +0000</pubDate>
+<description>The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>John H. Powers III to Lead NIAID Amid Turmoil</title>
+<link>https://www.nytimes.com/2026/11/16/science/niaid-chief-john-powers.html</link>
+<guid isPermaLink="false">d7511bd8edaaef9e950947315348ab0831f9c42ee2dc820e5671465ad6dd5071</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Mon, 16 Nov 2026 19:17:40 +0000</pubDate>
+<description>Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe</title>
 <link>https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe</link>
 <guid isPermaLink="false">53e0f2b2003c2515aabf3183291727bfb1ba5f1e9dc4f065bd750721b28a4deb</guid>
@@ -121,8 +143,8 @@
 <category>science</category>
 <pubDate>Mon, 16 Nov 2026 15:22:09 +0000</pubDate>
 <description>3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Jim Mirandy, quality assurance specialist at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, poses for a photograph at the High Pressure Gas Facility on Nov. 10, 2026. Mirandy is now a NASA civil servant at Stennis as part of the administrator’s directive to strengthen technical core competencies within the civil service workforce. NASA/Danny Nowlin The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agency’s workforce directive to restore core competencies by converting contractors to civil service, Mirandy is now a quality assurance specialist after 30 years of working as a contractor supporting NASA. “Discovery is an important job, and it is exciting to be a part of that process,” said Mirandy. “As a nation, we lead the world in space exploration, and we make that dream of reaching for the stars a reality.” His work at the nation’s largest rocket propulsion test site directly supports the agency’s mission to return American astronauts to the Moon through the Artemis program and ensure American leadership in space. By retaining Mirandy’s facility-specific expertise as a civil servant, NASA ensures that the critical propulsion testing at NASA Stennis continues to be executed with safety and quality in mind. Mirandy describes his team as an integral part of the process that provides a second set of eyes with a focus on potential hazards. As a quality assurance specialist, he serves as the agency’s close call investigator at the center, helps lead the Voluntary Protection Program, and participates in the Striving to Achieve Real Safety committee, an employee safety committee that works to keep the site safe. Mirandy also has a long resume of critical institutional contributions, including creating high pressure and cryogenic training classes that he taught for 10 years, and helping establish safety protocols throughout various locations at the center. Mirandy’s connection to America’s space agency began in childhood living in Titusville, Florida. His father, Wes Mirandy, worked for Rocketdyne at NASA’s Kennedy Space Center in Florida, and Mirandy’s nearby elementary school regularly gathered to watch launches. Later, his father worked as the A-1 test stand manager for space shuttle main engine testing at NASA Stennis. “My father was by far my greatest mentor,” said Mirandy. “My dad always included us whenever he worked on something around the house, so we picked up a knack for examining problems and fixing things. When I arrived at Stennis Space Center, many of his friends and coworkers took the time to help me succeed at my job. They took the time to explain the test stands and other systems and how they worked.” A k</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/s26-013-jim-mirandy.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/s26-013-jim-mirandy.jpg?w=2048" medium="image"/>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2023/06/nasa-stennis-test-complexes-on-display.jpg?w=1536" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2023/06/nasa-stennis-test-complexes-on-display.jpg?w=1536" medium="image"/>
 </item>
 <item>
 <title>What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.</title>
@@ -156,17 +178,6 @@
 <description>null The comet C/2026 S1 (Euclid) discovered by the Euclid mission. (Image credit: ESA/Euclid/Euclid Consortium/NASA, M. Pöntinen et al. 2026) The Euclid space telescope has discovered its first comet, called comet C/2026 S1, or comet Euclid for short. What is it? (Image credit: ESA/Euclid) The Euclid mission, a European Space Agency mission that launched in 2023 with contributions from NASA, spotted this previously undetected comet approximately 807 million miles (1.3 billion kilometers) away in observations captured between Sept. 16 and 24. "I was excited to see my software flag a 'streak' smeared across several images – the result of a fast-moving object. By predicting its position I could identify it in other images, in total finding it in five image sets. Further inspection revealed that it had a fuzzy cloud around it, indicative of an active object like a comet that is shedding dust and gas," Mikko Pöntinen, a scientist at the University of Helsinki who made the initial discovery with a Solar System Objects Science Working Group within the Euclid Consortium, said in a statement . Following these observations, the team diligently checked current records of comets to ensure that this was, in fact, something new to us. An close up view of comet C/2026 S1 (Euclid). (Image credit: ESA/Euclid) Why is it incredible? Euclid is a mission designed to capture long, slow observations of deep space and distant galaxies and collect data to help scientists better unravel the mysteries of dark energy and dark matter. It was in not explicitly designed in any way to capture imagery of fast-moving comet hurtling through our solar system. But still, the space telescoped managed to catch this comet whirling between the orbits of Jupiter and Saturn. This finding shows that Euclid can be used for more than it was intended, and that in the future scientists could use it to intentionally target other comets in the far reaches of our solar neighborhood. These kinds of observations can also help researchers to identify "noise" like comet trails in Euclid's field of view.</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/f9ETjaXCDDnRXBGg7qwLYK-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/f9ETjaXCDDnRXBGg7qwLYK-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>Highlights From the Starship Landing</title>
-<link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch</link>
-<guid isPermaLink="false">99ae00b514c0a5178428ca761e8b202025207c64d8065b445fd80e2f3094af88</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Mon, 16 Nov 2026 14:47:10 +0000</pubDate>
-<description>The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>Dream Chaser space plane gets landing approval for debut mission in 2027</title>
@@ -521,17 +532,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/nPEBawPrstV8fopNghgnUn-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk</title>
-<link>https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk</link>
-<guid isPermaLink="false">32a726cac21236e711e9256f889452941441b1040335db54b794d57689cfbec0</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Fri, 13 Nov 2026 20:00:00 +0000</pubDate>
-<description>&lt;p&gt;Richard's love affair with outer space started when he saw the original "Star Wars" on TV aged four, and he spent much of the ’90s watching "Star Trek”, "Babylon 5” and “The X-Files" with his mum. After studying physics at university, he became a journalist, swapped science fact for science fiction, and hit the jackpot when he joined the team at SFX, the UK's biggest sci-fi and fantasy magazine. He liked it so much he stayed there for 12 years, four of them as editor.&amp;nbsp;&lt;/p&gt; &lt;p&gt;He's since gone freelance and passes his time writing about "Star Wars", "Star Trek" and superheroes for the likes of SFX, Total Film, TechRadar and GamesRadar+. He has met five Doctors, two Starfleet captains and one Luke Skywalker, and once sat in the cockpit of "Red Dwarf"'s Starbug.&amp;nbsp;&amp;nbsp;&lt;/p&gt; In many of the biggest science fiction franchises, conversing with alien races is an absolute doddle. In " Star Trek ", universal translators come as standard, while C-3PO has spent the last 49 years reminding everyone in "Star Wars" that he's fluent in over six million forms of communication. But in "Arrival" — which was released 10 years ago in November 2016 — making first contact proves to be rather more challenging than maintaining your Duolingo streak. In fact, working out how to establish a dialogue with extraterrestrial visitors becomes the whole point of this powerful and heartbreaking story, as the fate of planet Earth hinges on the interpretation of a single noun. The film's journey to the big screen began when a screenwriter best known for his work on horror franchises such as "Final Destination", "A Nightmare on Elm Street" and "The Thing" read a short story in an online magazine. Eric Heisserer was so impressed by Ted Chiang's "Understand" that he bought himself a collection of the author's short stories. One in particular, the Nebula Award-winning "Story of Your Life", piqued his interest. "It had a very profound emotional effect on me," he reminisced to Deadline . "I was in tears, and I was both heartbroken and uplifted. My head was just full of big ideas. I had to walk around the block a couple of times afterward and just hug my friends. The next day, I was like, 'Oh god, I want to give this to other people.'" So when 21 Laps (the production company that later went on to make " Stranger Things ") invited Heisserer to discuss possible future projects, the writer mentioned "Story of Your Life". The producers were also smitten. (Image credit: Paramount Pictures) "I was so excited, but I had that dread that a lot of producers get, which is, 'Are the rights available?'" 21 Laps' Dan Levine told the Hollywood Gold podcast. "You read something that blows you away, and then you find there aren't the rights, and there's no chance, you have to move on. So we were trying to track down this Ted Chiang, and he had no agent. He had a day job. He was impossible to find, so we started the hunt for Ted Chiang." An up-and-coming Canadian director named Denis Villeneuve h</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/4ef9VxduTz3dPiQsVoPLBo-1920-80.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/4ef9VxduTz3dPiQsVoPLBo-1920-80.jpg" medium="image"/>
-</item>
-<item>
 <title>100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (video, photos)</title>
 <link>https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite</link>
 <guid isPermaLink="false">17b1181be8b31eaeb96c1d25137cdcd12f7402a0d494594ea8a79f0856b67809</guid>
@@ -541,6 +541,17 @@
 <description>null Rocket Lab just hit the century mark. An Electron rocket topped with a private Japanese Earth-observing satellite lifted off from Rocket Lab's New Zealand site on Saturday (Nov. 14) at 12:30 a.m. EST (0530 GMT; 6:30 p.m. local New Zealand time). The mission, which Rocket Lab called "The Mountain God Rises," was a big one: It marked the 100th launch to date for the California-based company. A Rocket Lab Electron rocket launches from New Zealand on Nov. 14, 2026 on "The Mountain God Rises," the 100th mission for the company to date. (Image credit: Rocket Lab) Rocket Lab launched for the first time in May 2017, sending the brand-new Electron up on a test flight from New Zealand. That effort failed, but Electron bounced back on its second-ever liftoff, delivering several cubesats to low Earth orbit (LEO) in January 2018. In the years since, the 59-foot-tall (18 meters) Electron has become one of the most prolific and reliable rockets in the world, carrying small payloads to the final frontier for a variety of customers. And it hit the century mark on Saturday in record-breaking fashion: No commercially developed rocket has gotten there faster, not even SpaceX's workhorse Falcon 9 , according to Rocket Lab founder and CEO Peter Beck. "It's an unprecedented milestone for a commercial small-lift orbital rocket, and a threshold rarely crossed in modern spaceflight," Beck said on Monday (Nov. 9), during Rocket Lab's third-quarter earnings call with investors. "But what matters most to us and our customers is that we have achieved a 96% reliability rate across 99 launches." The first stage of Rocket Lab's Electron rocket falls back to Earth during "The Mountain God Rises" mission on Nov. 14, 2026. (Image credit: Rocket Lab) Electron met the moment in style on Saturday morning, thanks to some fancy livery. "Black rocket 🤝 Golden milestone. Electron is all dressed up for launch 100," Rocket Lab said via X on Tuesday (Nov. 10), in a post that shared a photo of the specially painted first stage. Not all of Rocket Lab's missions have gone orbital, it should be noted: A suborbital variant of Electron known as HASTE , which customers use to test technologies in a hypersonic flight environment, has nine missions under its belt to date. The Electron rocket that flew Rocket Lab's 100th mission sported some special livery. (Image credit: Rocket Lab) "The Mountain God Rises" was Rocket Lab's 11th launch to date for the Tokyo-based company iQPS, which is building a constellation of three dozen synthetic aperture radar (SAR) satellites in LEO. And all went to plan on the mission: Electron's upper "kick stage" deployed a single iQPS spacecraft 357 miles (575 kilometers) above Earth. SAR satellites can see through cloud cover and image our planet at night as well as during the day, offering key advantages over spacecraft that are optimized to view in optical wavelengths. Editor's note: This story was updated at 12:40 a.m. ET on Nov. 14 with news of successful liftoff</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/R7TryzciM4KTsiDuMSDHDM-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/R7TryzciM4KTsiDuMSDHDM-1920-80.jpg" medium="image"/>
+</item>
+<item>
+<title>'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk</title>
+<link>https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk</link>
+<guid isPermaLink="false">32a726cac21236e711e9256f889452941441b1040335db54b794d57689cfbec0</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Fri, 13 Nov 2026 20:00:00 +0000</pubDate>
+<description>&lt;p&gt;Richard's love affair with outer space started when he saw the original "Star Wars" on TV aged four, and he spent much of the ’90s watching "Star Trek”, "Babylon 5” and “The X-Files" with his mum. After studying physics at university, he became a journalist, swapped science fact for science fiction, and hit the jackpot when he joined the team at SFX, the UK's biggest sci-fi and fantasy magazine. He liked it so much he stayed there for 12 years, four of them as editor.&amp;nbsp;&lt;/p&gt; &lt;p&gt;He's since gone freelance and passes his time writing about "Star Wars", "Star Trek" and superheroes for the likes of SFX, Total Film, TechRadar and GamesRadar+. He has met five Doctors, two Starfleet captains and one Luke Skywalker, and once sat in the cockpit of "Red Dwarf"'s Starbug.&amp;nbsp;&amp;nbsp;&lt;/p&gt; In many of the biggest science fiction franchises, conversing with alien races is an absolute doddle. In " Star Trek ", universal translators come as standard, while C-3PO has spent the last 49 years reminding everyone in "Star Wars" that he's fluent in over six million forms of communication. But in "Arrival" — which was released 10 years ago in November 2016 — making first contact proves to be rather more challenging than maintaining your Duolingo streak. In fact, working out how to establish a dialogue with extraterrestrial visitors becomes the whole point of this powerful and heartbreaking story, as the fate of planet Earth hinges on the interpretation of a single noun. The film's journey to the big screen began when a screenwriter best known for his work on horror franchises such as "Final Destination", "A Nightmare on Elm Street" and "The Thing" read a short story in an online magazine. Eric Heisserer was so impressed by Ted Chiang's "Understand" that he bought himself a collection of the author's short stories. One in particular, the Nebula Award-winning "Story of Your Life", piqued his interest. "It had a very profound emotional effect on me," he reminisced to Deadline . "I was in tears, and I was both heartbroken and uplifted. My head was just full of big ideas. I had to walk around the block a couple of times afterward and just hug my friends. The next day, I was like, 'Oh god, I want to give this to other people.'" So when 21 Laps (the production company that later went on to make " Stranger Things ") invited Heisserer to discuss possible future projects, the writer mentioned "Story of Your Life". The producers were also smitten. (Image credit: Paramount Pictures) "I was so excited, but I had that dread that a lot of producers get, which is, 'Are the rights available?'" 21 Laps' Dan Levine told the Hollywood Gold podcast. "You read something that blows you away, and then you find there aren't the rights, and there's no chance, you have to move on. So we were trying to track down this Ted Chiang, and he had no agent. He had a day job. He was impossible to find, so we started the hunt for Ted Chiang." An up-and-coming Canadian director named Denis Villeneuve h</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/4ef9VxduTz3dPiQsVoPLBo-1920-80.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/4ef9VxduTz3dPiQsVoPLBo-1920-80.jpg" medium="image"/>
 </item>
 <item>
 <title>California's brand-new Air &amp; Space Center, home of the space shuttle Endeavour, opens today</title>
@@ -648,9 +659,9 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Fri, 13 Nov 2026 16:05:54 +0000</pubDate>
-<description>NASA astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. captured this image of the area surrounding the Red Sea and Nile river valley on November 14, 1966, during their four-day mission in space. Gemini XII was the final flight of NASA’s Gemini Program. NASA Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of a different field of exploration, observing Earth from space. The photos taken by Lovell, Aldrin, and other Gemini astronauts demonstrated the value of orbital imagery for studying Earth’s surface. Their images helped scientists make the case for a dedicated Earth observation satellite program. One of strongest advocates for accelerating the use of Earth-observing satellites was William T. Pecora, the director of the United States Geological Survey from 1965 to 1971. In a 1969 statement, Pecora noted that the Earth Resources Observation Satellite (EROS) program he championed, and which later paved the way for Landsat , was “conceived in 1966 largely as a direct result of the demonstrated utility of Mercury and Gemini orbital photography to Earth resource studies.” For more than five decades, Landsat and other Earth-observing satellites have provided invaluable data used around the world to monitor crops, wildfires, flooding, vegetation health, land use, and countless other changes to our planet. Explore More 4 min read The Last Ice on Puncak Jaya Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too… Article 14 hours ago 3 min read Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA Article 4 days ago 3 min read Scotland’s Flow Country Blanket bogs in the Scottish Highlands store vast amounts of carbon. Article 5 days ago</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006" type="image/png"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006" medium="image"/>
+<description>NASA astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. captured this image of the area surrounding the Red Sea and Nile river valley on November 14, 1966, during their four-day mission in space. Gemini XII was the final flight of NASA’s Gemini Program. NASA Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of a different field of exploration, observing Earth from space. The photos taken by Lovell, Aldrin, and other Gemini astronauts demonstrated the value of orbital imagery for studying Earth’s surface. Their images helped scientists make the case for a dedicated Earth observation satellite program. One of strongest advocates for accelerating the use of Earth-observing satellites was William T. Pecora, the director of the United States Geological Survey from 1965 to 1971. In a 1969 statement, Pecora noted that the Earth Resources Observation Satellite (EROS) program he championed, and which later paved the way for Landsat , was “conceived in 1966 largely as a direct result of the demonstrated utility of Mercury and Gemini orbital photography to Earth resource studies.” For more than five decades, Landsat and other Earth-observing satellites have provided invaluable data used around the world to monitor crops, wildfires, flooding, vegetation health, land use, and countless other changes to our planet. Explore More 4 min read The Last Ice on Puncak Jaya Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too… Article 15 hours ago 3 min read Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA Article 4 days ago 3 min read Scotland’s Flow Country Blanket bogs in the Scottish Highlands store vast amounts of carbon. Article 5 days ago</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_oli2_20261019_th.jpg" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_oli2_20261019_th.jpg" medium="image"/>
 </item>
 <item>
 <title>Netflix’s ‘Ray Gunn’ gets 2nd trailer, and we're hyped for this animated sci-fi noir from ‘Incredibles’ director Brad Bird</title>
@@ -664,17 +675,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/rgRe2CTrVLqFQTGzMVBm9V-1920-80.png" medium="image"/>
 </item>
 <item>
-<title>I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review</title>
-<link>https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review</link>
-<guid isPermaLink="false">bfaec3a1904c7e00bfcd9f251ce44c560d5428f2edb3c4312c8f898af32b6b78</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-<description>null Saturn was only a night past its annual opposition when I pointed the Celestron StarSense Explorer 150mm Tabletop Dobsonian straight at it. The planet was at its biggest and brightest of the year, the seeing was good and its famous rings were visibly opening up after appearing edge-on from Earth in recent years. It was an obvious target for a new telescope. Finding it took seconds. After selecting Saturn in Celestron’s StarSense Explorer app, I followed the on-screen arrows as I moved the telescope across the sky. As I got closer, the app zoomed in until a bullseye turned green. I looked through the supplied 25mm eyepiece, then swapped to the 10mm to see a pale yellow Saturn at 75x magnification, with its rings sharply defined and its giant moon Titan visible in orbit. At 25 lbs (11.33 kg), the Celestron StarSense Explorer 150mm Tabletop Dobsonian is a relative heavyweight. Jamie Carter The supplied 25mm and 10mm Kellner eyepieces provide 30x and 75x magnification, respectively, but are obvious candidates for future upgrades. Jamie Carter The StarSense Explorer smartphone dock uses a small mirror. Jamie Carter It was a stunning view, and exactly the kind of experience a beginner needs from a first telescope. There was no frustration and no wondering whether I was looking in the right place. StarSense took me straight there — but, crucially, I moved the telescope myself. I’ve always liked that combination of hand-holding and DIY observing that Celestron’s StarSense tech gives you. I’m less convinced by the tabletop telescope it’s attached to. Although this $599 RRP (£379) model is significantly smaller than the Celestron StarSense Explorer 8-inch Dobsonian telescope I’ve previously reviewed, it still weighs 25 lbs (11.33 kg). You need to place it on something sturdy before you can use it comfortably. After living with it in my backyard, I’m not convinced the tabletop format is the advantage it initially appears to be. An iPhone 16 Pro Max fitted securely into the StarSense Explorer smartphone dock during testing. (Image credit: Jamie Carter) What StarSense Explorer does well The Celestron StarSense Explorer 150mm Tabletop Dobsonian comes with a red dot finder for manual navigation. (Image credit: Jamie Carter) I’ve used Celestron’s StarSense Explorer system on a variety of telescopes and have always been impressed by how easy this type of smartphone navigation is to use. The technology works just as well here and, for me, it remains one of the best ways of making a traditional optical telescope accessible to a complete beginner. This isn’t a computerized GoTo telescope. There are no motors to slew across the sky automatically and no tracking system to keep an object centered. Instead, a smartphone sits in a dock attached to the telescope, and its camera looks at the sky via a small mirror. Celestron’s StarSense Explorer app analyzes the reflections of the stars it sees, works out exactly where the telescope is pointing and tells you which dir</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/n8CuApNZ4LyAmmJHMQVsL3-1920-80.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/n8CuApNZ4LyAmmJHMQVsL3-1920-80.jpg" medium="image"/>
-</item>
-<item>
 <title>Astronaut Suni Williams rides through NYC as Grand Marshal of the Veterans Day Parade | Space photo of the day for Nov. 13, 2026</title>
 <link>https://www.space.com/space-exploration/human-spaceflight/astronaut-suni-williams-rides-through-nyc-as-grand-marshal-of-the-veterans-day-parade-space-photo-of-the-day-for-nov-13-2026</link>
 <guid isPermaLink="false">ed16254505f696c5d8eb7e33d631da50cd3b9a179ad4089555a56671caddc051</guid>
@@ -684,6 +684,17 @@
 <description>null NASA astronaut Suni Williams rides through New York City as the Grand Marshal of the Veterans Day Parade on Nov. 11, 2026. (Image credit: Photo by Slaven Vlasic/Getty Images) New Yorkers got a space-y surprise on Wednesday (Nov. 11): Retired NASA astronaut and U.S. Navy Captain Sunita "Suni" Williams rolled down 5th Avenue in the back of a classic convertible wrapped in patriotic decals as Grand Marshal of the Veterans Day Parade. What is it? On Wednesday, New York City's 107th annual Veterans Day Parade made its way through Manhattan to the cheers and respectful nods of thousands of onlookers. The parade is an annual tradition on the holiday, which honors veterans of the U.S. armed forces. As part of the parade, veterans, active-duty soldiers, firefighters, marching bands, youth cadets and more march through the city and honor those who have served and sacrificed in the U.S. military. This year, the parade featured Suni Williams as its grand marshal. "I’m proud to join New Yorkers and Americans from around the country in honoring the service, sacrifice, and commitment of veterans from every generation," she said during the event. Why is it incredible? Williams was selected for NASA's astronaut program in 1998 and retired from it in December 2025 . She spent 608 days in space during her astronaut career, the second-most by an American astronaut behind Peggy Whitson , who racked up 695. Williams also had an extensive career in the U.S. Navy. She began as an ensign in 1987 before serving in a number of different roles. For example, she was a diving officer and a naval aviator and also provided helicopter combat support during Operation Desert Shield and Operation Provide Comfort. She further served as a squadron safety officer and finally as a captain, a rank she achieved in 2017. During this time, Williams supported relief efforts following Hurricane Andrew, trained within the U.S. Naval Test Pilot School and gained a wealth of further experience flying as a military pilot. Williams is part of a longstanding tradition of astronauts serving in the U.S. military. From test pilots to naval officers and more, there's a strong link between the U.S. armed forces and NASA's astronaut program.</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/bdtkY5kfDcejYVUhxUmy4N-1920-80.png" type="image/png"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/bdtkY5kfDcejYVUhxUmy4N-1920-80.png" medium="image"/>
+</item>
+<item>
+<title>I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review</title>
+<link>https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review</link>
+<guid isPermaLink="false">bfaec3a1904c7e00bfcd9f251ce44c560d5428f2edb3c4312c8f898af32b6b78</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+<description>null Saturn was only a night past its annual opposition when I pointed the Celestron StarSense Explorer 150mm Tabletop Dobsonian straight at it. The planet was at its biggest and brightest of the year, the seeing was good and its famous rings were visibly opening up after appearing edge-on from Earth in recent years. It was an obvious target for a new telescope. Finding it took seconds. After selecting Saturn in Celestron’s StarSense Explorer app, I followed the on-screen arrows as I moved the telescope across the sky. As I got closer, the app zoomed in until a bullseye turned green. I looked through the supplied 25mm eyepiece, then swapped to the 10mm to see a pale yellow Saturn at 75x magnification, with its rings sharply defined and its giant moon Titan visible in orbit. At 25 lbs (11.33 kg), the Celestron StarSense Explorer 150mm Tabletop Dobsonian is a relative heavyweight. Jamie Carter The supplied 25mm and 10mm Kellner eyepieces provide 30x and 75x magnification, respectively, but are obvious candidates for future upgrades. Jamie Carter The StarSense Explorer smartphone dock uses a small mirror. Jamie Carter It was a stunning view, and exactly the kind of experience a beginner needs from a first telescope. There was no frustration and no wondering whether I was looking in the right place. StarSense took me straight there — but, crucially, I moved the telescope myself. I’ve always liked that combination of hand-holding and DIY observing that Celestron’s StarSense tech gives you. I’m less convinced by the tabletop telescope it’s attached to. Although this $599 RRP (£379) model is significantly smaller than the Celestron StarSense Explorer 8-inch Dobsonian telescope I’ve previously reviewed, it still weighs 25 lbs (11.33 kg). You need to place it on something sturdy before you can use it comfortably. After living with it in my backyard, I’m not convinced the tabletop format is the advantage it initially appears to be. An iPhone 16 Pro Max fitted securely into the StarSense Explorer smartphone dock during testing. (Image credit: Jamie Carter) What StarSense Explorer does well The Celestron StarSense Explorer 150mm Tabletop Dobsonian comes with a red dot finder for manual navigation. (Image credit: Jamie Carter) I’ve used Celestron’s StarSense Explorer system on a variety of telescopes and have always been impressed by how easy this type of smartphone navigation is to use. The technology works just as well here and, for me, it remains one of the best ways of making a traditional optical telescope accessible to a complete beginner. This isn’t a computerized GoTo telescope. There are no motors to slew across the sky automatically and no tracking system to keep an object centered. Instead, a smartphone sits in a dock attached to the telescope, and its camera looks at the sky via a small mirror. Celestron’s StarSense Explorer app analyzes the reflections of the stars it sees, works out exactly where the telescope is pointing and tells you which dir</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/n8CuApNZ4LyAmmJHMQVsL3-1920-80.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/n8CuApNZ4LyAmmJHMQVsL3-1920-80.jpg" medium="image"/>
 </item>
 <item>
 <title>Double-catch drama: Why Starship's Flight 15 is so important to SpaceX</title>
@@ -906,17 +917,6 @@
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp" medium="image"/>
 </item>
 <item>
-<title>Satellite snaps rare birds-eye view of the ISS | Space photo of the day for Nov. 12, 2026</title>
-<link>https://www.space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026</link>
-<guid isPermaLink="false">cb00505887d7faef850f20c88a2973d76cdfc34cdc7e9e50e5a020d054056b32</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
-<description>null A satellite looks down at the International Space Station in orbit. (Image credit: HEO) A commercial satellite has spotted the International Space Station (ISS), giving us a unique view of the orbiting lab from above. What is it? Most of the time, when we see the ISS, it is from down here on Earth or from the viewpoint of the astronauts onboard, peering out the windows at the station's limbs, solar arrays and instruments. But in this snapshot, which was posted on X on Nov. 9 by the Australian company HEO, we can see the station stretched out in all its glory. HEO specializes in using satellites in low Earth orbit to capture images of other spacecraft, though longer-term the company aims to capture observations far out into the solar system. HEO doesn't build the satellites that take these photos; rather, the company's software tasks the spacecraft to image targets as they come into range. This great photo of the ISS from above, for example, was taken by a satellite operated by BlackSky, a Virginia-based company that holds a non-Earth imaging agreement with HEO . So far, HEO and its partners have captured imagery of a variety of spacecraft in orbit, including the ISS, China's Tiangong space station and the European Space Agency's ERS-2 satellite (while it was hurtling back to Earth in 2024). Why is it incredible? While it might seem that satellites are just hovering above Earth, the space station and other spacecraft in LEO are hurtling through space at roughly 17,500 mph (28,160 kph), hundreds of miles above our planet's surface. A snapshot of a satellite from above is therefore far from mundane. Rather, it requires incredible coordination and technical skill; satellite operators must know precisely when their target will present itself, and their equipment must be capable of getting the shot.</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png" type="image/png"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png" medium="image"/>
-</item>
-<item>
 <title>I used the Vaonis Vespera 3 for weeks and here’s who I would recommend it to — full review</title>
 <link>https://www.space.com/stargazing/skywatching-kit/i-used-the-vaonis-vespera-3-for-weeks-and-heres-who-i-would-recommend-it-to-full-review</link>
 <guid isPermaLink="false">3cbde897aa7b358b665403f1cd7e4bd30e899bdc4b00d02a4a103a656fc90fd3</guid>
@@ -926,6 +926,17 @@
 <description>null I’ve spent a lot of time with smart telescopes , from relatively inexpensive Seestar models to the original Vaonis Vespera and the Vespera Pro . They all promise essentially the same thing — you put a telescope outside at night, choose something interesting on your smartphone and let the technology take care of the rest. The Vaonis Vespera 3 does that exceptionally well, but after spending several nights with it, I’m convinced it’s designed for a rather different kind of buyer. The telescope’s optical arm folds into its curved body when switched off. (Image credit: Jamie Carter) At $2,490/£2,199, this is hardly an impulse purchase for the beginner who’s curious about astronomy – you could buy several perfectly capable smart telescopes for the same money. Yet I found myself increasingly impressed by what the Vespera 3 could achieve, particularly when I returned to the same object over several nights. The images were sharp, the colors were excellent and I almost never had to think about the battery. The Vespera III weighs 13 lbs (6 kg) including the tripod. (Image credit: Jamie Carter) That doesn’t mean the experience was flawless. I sometimes spent longer than I’d have liked waiting for the telescope to get ready, but once it began photographing the sky, the Vespera 3 reminded me why I love smart telescopes so much. Why I kept returning to the same objects over several nights The Vespera 3 uses a Sony IMX585 sensor to produce 8.3MP images. (Image credit: Jamie Carter) One of my favorite things about smart telescopes is watching a photograph develop as more light is collected. What begins as a fairly ordinary patch of stars gradually becomes something much more interesting. First a faint cloud of gas appears, then more structure emerges, and eventually you have an image that, only a few short years ago, would have been difficult to capture without specialist equipment. With the Vespera 3, I spent several nights photographing the Pleiades (M45), the famous star cluster in Taurus. The Pleiades make an excellent subject for testing a telescope because the stars are bright, but the surrounding nebulosity is much harder to capture convincingly. The Singularity app used to control Vespera 3 stacks each image as it goes, but keeps them in sight as an optional time-lapse, so you can see exactly why you’re spending so much time on one object. Even better, the Vespera 3’s PerseverENS feature lets you add data to an existing observation over multiple nights (it’s actually called multi-night observation in the app). Instead of having to call it a night or start again every time the weather interrupts an imaging session, you can return to a target and continue building the image over weeks — or years. This is excellent for faint nebulas, but also for anyone who lives somewhere with unpredictable weather. The Vespera 3 also has CovalENS, Vaonis’s mosaic imaging system, which captures adjacent sections of sky to produce a larger image. That’s helpful for obj</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/cc6xzdF56vfGcBXL63bxK-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/cc6xzdF56vfGcBXL63bxK-1920-80.jpg" medium="image"/>
+</item>
+<item>
+<title>Satellite snaps rare birds-eye view of the ISS | Space photo of the day for Nov. 12, 2026</title>
+<link>https://www.space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026</link>
+<guid isPermaLink="false">cb00505887d7faef850f20c88a2973d76cdfc34cdc7e9e50e5a020d054056b32</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
+<description>null A satellite looks down at the International Space Station in orbit. (Image credit: HEO) A commercial satellite has spotted the International Space Station (ISS), giving us a unique view of the orbiting lab from above. What is it? Most of the time, when we see the ISS, it is from down here on Earth or from the viewpoint of the astronauts onboard, peering out the windows at the station's limbs, solar arrays and instruments. But in this snapshot, which was posted on X on Nov. 9 by the Australian company HEO, we can see the station stretched out in all its glory. HEO specializes in using satellites in low Earth orbit to capture images of other spacecraft, though longer-term the company aims to capture observations far out into the solar system. HEO doesn't build the satellites that take these photos; rather, the company's software tasks the spacecraft to image targets as they come into range. This great photo of the ISS from above, for example, was taken by a satellite operated by BlackSky, a Virginia-based company that holds a non-Earth imaging agreement with HEO . So far, HEO and its partners have captured imagery of a variety of spacecraft in orbit, including the ISS, China's Tiangong space station and the European Space Agency's ERS-2 satellite (while it was hurtling back to Earth in 2024). Why is it incredible? While it might seem that satellites are just hovering above Earth, the space station and other spacecraft in LEO are hurtling through space at roughly 17,500 mph (28,160 kph), hundreds of miles above our planet's surface. A snapshot of a satellite from above is therefore far from mundane. Rather, it requires incredible coordination and technical skill; satellite operators must know precisely when their target will present itself, and their equipment must be capable of getting the shot.</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png" type="image/png"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png" medium="image"/>
 </item>
 <item>
 <title>The 'eclipse of the century' will plunge these 8 wonders of the Roman Empire into darkness on Aug. 2, 2027</title>
@@ -1082,26 +1093,15 @@
 <media:content url="https://static01.nyt.com/images/2026/11/07/multimedia/00cli-california-el-nino-stillpromo/00cli-california-el-nino-01-cplk-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
-<title>M30's Sparkling Stars</title>
-<link>https://www.nasa.gov/image-detail/hubble-m30-potm2610a</link>
-<guid isPermaLink="false">2311f7a0466139caae28a2c78adcc6011a4e94be0a488211072769e9f8e6e7f5</guid>
+<title>Astronaut and Earth</title>
+<link>https://www.nasa.gov/image-detail/iss075e0253663</link>
+<guid isPermaLink="false">c70a42f810f4215f1a0926ddb5ebabe98002153767b51deb9e952ed05c095161</guid>
 <source>NASA Image of the Day</source>
 <category>science</category>
-<pubDate>Fri, 06 Nov 2026 16:28:00 +0000</pubDate>
-<description>This NASA/ESA Hubble Space Telescope image features the globular star cluster called Messier 30 (M30), also called NGC 7099.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg" medium="image"/>
-</item>
-<item>
-<title>Midwestern City Lights</title>
-<link>https://www.nasa.gov/image-detail/iss075e0227352</link>
-<guid isPermaLink="false">24d5ee144c92ac09a7214cbf060670586f0131f45d709ccb59b218bdeac99199</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 05 Nov 2026 15:23:00 +0000</pubDate>
-<description>City lights from the midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg" medium="image"/>
+<pubDate>Tue, 03 Nov 2026 16:38:00 +0000</pubDate>
+<description>CSA (Canadian Space Agency) astronaut and Expedition 75 flight engineer Joshua Kutryk is pictured during a spacewalk with his spacesuit's helmet visor down to install a new roll-out solar array on the International Space Station's port side truss structure.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg" medium="image"/>
 </item>
 <item>
 <title>NASA's CHAPEA Crew "Returns" to Earth</title>
@@ -1115,50 +1115,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg" medium="image"/>
 </item>
 <item>
-<title>NASA's Hubble Marks Way for Roman Space Telescope</title>
-<link>https://www.nasa.gov/image-detail/55606049603-e8822462fe-o</link>
-<guid isPermaLink="false">656e56dd2f4e91c03cb3395552356bd88145dfb2641d6fca3fbb9302293a39ba</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 15:02:00 +0000</pubDate>
-<description>A sinuous spiral galaxy (center) appears in the same field of view as a vivid gravitational lens (right corner) in this Hubble image.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Neo Surveyor Sunshade</title>
-<link>https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2</link>
-<guid isPermaLink="false">cf751a4f21cc8f2a408e578da6f3d5566eeb5f311096e7331341b290ffeebddd</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 18:02:00 +0000</pubDate>
-<description>The large sunshade of NASA’s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space &amp; Mission Systems in Boulder, Colorado, in late July.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's X-59 Aircraft and Test Pilot</title>
-<link>https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3</link>
-<guid isPermaLink="false">3fcf708f42313da9f2d09e1bf0d096a52fa472691c3107c45ca491fc3362bd5e</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 15:29:00 +0000</pubDate>
-<description>NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency's X-59 quiet supersonic research aircraft on Oct. 21, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" medium="image"/>
-</item>
-<item>
-<title>RS-25 Engine Tests at NASA Stennis</title>
-<link>https://www.nasa.gov/image-detail/ssc-20261021-s00947horig</link>
-<guid isPermaLink="false">6ff1a31b150a0efae57f1969eaecfc62a4a321cc21b34e948f7b124cb2916ba6</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 18:59:00 +0000</pubDate>
-<description>Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg" medium="image"/>
-</item>
-<item>
 <title>Science on the Space Station with NASA Astronaut Jessica Watkins</title>
 <link>https://www.nasa.gov/image-detail/iss075e0190239</link>
 <guid isPermaLink="false">5f00aca8df46e2506f7a6e916ebae327aae0b38872c55b91a38e55bcd1b78305</guid>
@@ -1170,61 +1126,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" medium="image"/>
 </item>
 <item>
-<title>Martian Dawn</title>
-<link>https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2</link>
-<guid isPermaLink="false">a6a14a28737ed87a3ef14e8e321b7b22b3c69cc19fd97312aab882cf347f0342</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 19 Oct 2026 16:05:00 +0000</pubDate>
-<description>The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" type="image/webp"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" medium="image"/>
-</item>
-<item>
-<title>Artemis II Heat Shield After Splashdown</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1320</link>
-<guid isPermaLink="false">bd7ea775e6f02cf018151963e6bbeb538b0eff8129c915bf68bebb3980d24ec5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 16:33:00 +0000</pubDate>
-<description>Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>Transporter-18 SmallSats Encapsulation</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1315</link>
-<guid isPermaLink="false">e4159da664528188a8fd82ed2613bde89d53f23fb96e15a19a83328717fae347</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 13 Oct 2026 17:52:00 +0000</pubDate>
-<description>Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Cosmic House of Mirrors</title>
-<link>https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors</link>
-<guid isPermaLink="false">942a9466c8b66c4e8c29e583bdaf0d3fa330eb489b6ebd292424f136c2cc8766</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 09 Oct 2026 14:28:00 +0000</pubDate>
-<description>This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they’ve stepped into a house of mirrors.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Crew-12 Returns to Earth</title>
-<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2</link>
-<guid isPermaLink="false">c79d542c7c7391869593bec89004ddafe4f5a8d981ea0e2fefded1f3d28f9d4f</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 08 Oct 2026 18:53:00 +0000</pubDate>
-<description>The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Los Angeles, Calif., Thursday, Oct. 8, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg" medium="image"/>
-</item>
-<item>
 <title>Artemis II Crew Moon Photo Annotations</title>
 <link>https://www.nasa.gov/image-detail/fd07_impact-flashes</link>
 <guid isPermaLink="false">aca9374dc368026f5a67eed2b725e5ae423457f3699ddc7ef6f63711a8f42c0c</guid>
@@ -1234,94 +1135,6 @@
 <description>A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member's tablet.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA Astronaut Christina Koch at Eagles vs. Rams</title>
-<link>https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field</link>
-<guid isPermaLink="false">578734c1fe8df2e9efa4b83a532b1ddf9a63a7e7b36defe815c606d85de22c40</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 05 Oct 2026 17:45:00 +0000</pubDate>
-<description>NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA’s SpaceX Crew-13 Launches</title>
-<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3</link>
-<guid isPermaLink="false">07f5c690e45e94633737ffc40a00e6a269a635b19c6024bf14b670f62bc26804</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 01 Oct 2026 18:07:00 +0000</pubDate>
-<description>A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Star Trails</title>
-<link>https://www.nasa.gov/image-detail/iss075e0144232</link>
-<guid isPermaLink="false">2f9c821724c6cf311138939fbf5d114d76dd53bcf1741a4ef170f481e93f4cad</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 30 Sep 2026 17:51:00 +0000</pubDate>
-<description>This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Crew-13 Rocket and Spacecraft at Launch Pad</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1312</link>
-<guid isPermaLink="false">47cd5f055f779d2d1de59b29bc2e3358cc9091b0da2f013985ec259eda8dc622</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 29 Sep 2026 15:33:00 +0000</pubDate>
-<description>Ahead of launch of NASA’s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova</title>
-<link>https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207</link>
-<guid isPermaLink="false">26ec5e4da7e213b5df4096c233fdfa86e32cf848c1db76707ae23292412979a7</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 23 Sep 2026 18:45:00 +0000</pubDate>
-<description>An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" medium="image"/>
-</item>
-<item>
-<title>COSI Telescope Comes Together</title>
-<link>https://www.nasa.gov/image-detail/cosi-2026july-01</link>
-<guid isPermaLink="false">39bb98da64415a1cb91f491c728ba0e6148bff3c25fb06bce87abe66040713a5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 18 Sep 2026 15:46:00 +0000</pubDate>
-<description>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" medium="image"/>
-</item>
-<item>
-<title>Artemis III Crew Visits NASA Kennedy's Vehicle Assembly Building</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1307</link>
-<guid isPermaLink="false">9212a1e9d8662e960c7092f49c3e8b12a15c44ebb4cd2f3f279df26d2a5b6c07</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 15 Sep 2026 16:16:00 +0000</pubDate>
-<description>NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>Superbubble in the Large Magellanic Cloud</title>
-<link>https://www.nasa.gov/image-detail/hubble-n44-wfc3-large</link>
-<guid isPermaLink="false">026a0bc93661a13b3d9350ebebc36e78a1b5937b2f4ba3b195ce5ec192fb29e3</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 08 Sep 2026 16:49:00 +0000</pubDate>
-<description>N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" medium="image"/>
 </item>
 <item>
 <title>Lunar Occultation of Venus</title>
@@ -1377,16 +1190,5 @@
 <description>A SpaceX Falcon Heavy rocket with NASA’s Nancy Grace Roman Telescope on board is seen transiting the sun during launch from Launch Complex 39A, Sunday, Aug. 30, 2026, at NASA’s Kennedy Space Center in Florida.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Artemis II Crew Receives Congressional Space Medal of Honor</title>
-<link>https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2</link>
-<guid isPermaLink="false">08be272fa996fab8e77bfebf01d8fbf7812eb1fd6446482c175fdaf2d2edd0f3</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 28 Aug 2026 22:24:00 +0000</pubDate>
-<description>President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" medium="image"/>
 </item>
 </channel></rss>

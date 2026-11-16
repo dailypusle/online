@@ -4,6 +4,160 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Supreme Court keeps injunction against DEI grant defunding in place</title>
+<link>https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place</link>
+<guid isPermaLink="false">888d5362561d6d5d4ce08c71b2249812de0f2069ad4867cb7a17de6ebdba2b73</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:54:21 +0000</pubDate>
+<description>On Monday, the Supreme Court announced it would not hear an appeal of a lower court decision that blocked the government from canceling the grants of a handful of researchers whose funding had been revoked during the Trump administration's purge of DEI-related work. While the decision applies to only seven researchers in California, the lower court had ruled that the government's actions violated the First Amendment and so may have broad implications. The Supreme Court provided no discussion of its rejection, and no justices filed a dissent regarding the decision. The suit was initially filed by a large group of researchers at the University of California, contesting grants originally issued by a large number of federal agencies, from the National Institutes of Health to the Department of Transportation. At issue were grants that had been terminated because the agencies decided they violated a Trump executive order blocking the use of DEI. This occurred despite the fact that the government hadn't bothered to define DEI , and targeted grants were often identified by little more than a keyword search . Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>California sues OpenAI after that Hugging Face rogue hacking incident</title>
+<link>https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident</link>
+<guid isPermaLink="false">4a8b0cdbe94ed789f1f1d3f9baf16fa65d5178873ba4018a6d919f8717ad6635</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:52:24 +0000</pubDate>
+<description>State AG Rob Bonta has accused the company of making AI agents "without the safeguards and monitoring necessary to adequately protect" users.</description>
+<enclosure url="https://www.engadget.com/img/gallery/california-sues-openai-after-that-hugging-face-rogue-hacking-incident/l-intro-1794858677.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/california-sues-openai-after-that-hugging-face-rogue-hacking-incident/l-intro-1794858677.jpg" medium="image"/>
+</item>
+<item>
+<title>Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn</title>
+<link>https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223</link>
+<guid isPermaLink="false">9b01ab8a54383409c3a63fd33932dd2368e3624b73d4259f2881b765c7783e5f</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:52:00 +0000</pubDate>
+<description>Attackers are using open source AI penetration testing framework ARTEX to automate their attacks on banks, governments, energy and healthcare providers, and other critical sectors around the globe, according to security alerts from the FBI and Amazon Threat Intelligence. Between October 3 and November 5, Amazon’s MadPot honeypot threat sensors detected two ARTEX campaigns: one that allowed thieves to steal AI credentials at “industrial scale” to gain free access to models, and a second that generated deepfake videos to trick live selfie checks. In the first one, miscreants used AI agents to steal API keys, and then feed these keys into the ARTEX framework’s model gateway to power more agents searching for more AI model access keys. “Agents validated identities through each provider’s token and identity services, enumerated storage, assessed permission scope, and went after managed AI model services, secrets and parameter stores, and application identities,” AWS Chief Information Security Officer CJ Moses wrote in a blog post on Friday. Targets included LLM gateways and proxy platforms such as One API, New API, Veloera, Sub2API, and LiteLLM, and AI application builders Dify, FastGPT, Langflow, RAGFlow, Open WebUI, LobeChat, and Ollama. This campaign also used cloud credentials to gain stolen access to the models. In a second campaign, attackers used ARTEX to create real-time deepfake videos to trick identity verification (KYC) checks at two cryptocurrency exchanges, and forged ID photos to pass document checks. “The agents reverse-engineered one vendor’s liveness protocol in detail, documenting the face-detection event stream it sends, how it tracks face position during the check, and the coordinate system it uses to tell the user where to move,” Moses wrote. The agents did manage to complete the full movement sequence with the face positioned within 7 pixels of the target, but this feat was not enough, as the vendor’s server-side verdict rejected the deepfake in every attempt. In a separate session, agents built a real-time deepfake video pipeline on a single consumer-grade GPU using an open-source face animation model. This video achieved 11.5 frames per second, which Moses said is “close to what a live video check expects.” Meanwhile, agents also worked on the ID document checks, building synthetic camera metadata whose image dimensions matched the real values inside the JPEG file, and preserving the original camera compression tables that are usually replaced by re-saving an edited image. While the end goal was stealing cryptocurrency, the campaign illustrates how ARTEX runs several sessions simultaneously, with multiple agents working toward the same result. “One searched for ways to cash out, one worked on clearing account balances, one set up the deepfake video pipeline, and one carried out the verification bypass,” Moses wrote. None of the attack techniques are new, but both of these campaigns show how AI agents can boost the speed and per</description>
+<enclosure url="https://image.theregister.com/?imageId=260501&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=260501&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>The Apple Watch Series 12 is cheaper than ever ahead of Black Friday</title>
+<link>https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale</link>
+<guid isPermaLink="false">8e84e3770e7a447788e8af4fc619193ce2129d84f6ec8de15d39d2e79055f7f7</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:50:47 +0000</pubDate>
+<description>The Apple Watch Series 12 is on sale in multiple configurations. | Photo: Amelia Holowaty Krales / The Verge If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon , Best Buy , and Walmart , beating the October Prime Day price by $20. If you prefer a larger size, the 46mm model is on sale for $379 ($70 off) at Amazon , Best Buy , and Walmart , which is also $20 lower than the previous best price. Apple Watch Series 12 Where to Buy: $399 $329 at Amazon $399 $329 at Walmart $399 $329 at Best Buy The Series 12 stands out compared to previous models with its new AI-powered Audio Intelligence features, which are made possible by Apple’s new S11 chip. For example, the watch can alert you when it detects sounds like a doorbell, alarm, or even a baby’s cry, while other upcoming features like Live Rewind and Siri Recap lets you look back at a transcript of the previous 15 seconds of conversation and get a high-level overview of the conversations you had that day. The new chip also makes Siri more responsive, so you can get answers to questions with less waiting around. It’s not all about AI, though. The Series 12 also features redesigned health sensors that can now track your heart rate every five seconds even when you’re not exercising, which is particularly help if you have a chronic condition and need to keep a closer eye on your heart rate. It also introduces a new readiness score to help you decide how prepared your body is for the day. Other highlights include easier navigation with simple pinch gestures, and faster charging, which helps to make up for the fact that battery life is rated at up to 24 hours on a single charge, just like the previous-generation model. In our testing, the watch went from 20 to 64 percent charge in just 20 minutes, making it relatively easy to top up while showering or getting ready for the day. Read our Apple Watch Series 12 review. window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SME_26001_0050_069_v2_10_QC-1.jpg", productImageAlt: "SPECS AR Glasses", productTitle: "SPECS AR Glasses", shortDescription: "SPECS are augmented reality glasses designed for real life. Navigate, create, and enjoy immersive experiences while staying present.", longDescription: "Discover SPECS, augmented reality glasses designed for real life. Navigate hands-free, explore immersive experiences, and create with a large private display, all while staying connected to the world around you. Available for preorder in two sizes, starting at $2,195.", purchaseUrl: "https://specsinc.pxf.io/c/482924/3886144/52432?subId1=VergeHypeDeskNov2026&amp;u=https%3A%2F%2Fwww.specs.com%2Fsmart-glasses%2Fspecs-27", purchaseLinkText: "Explore SPECS" };</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist</title>
+<link>https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027</link>
+<guid isPermaLink="false">66925609c6a82f495555224e1ea19908ed08d77ec0d854657067ab255aa496dd</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:49:12 +0000</pubDate>
+<description>Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year : hands-free highway driving and a point-to-point city navigation system. The new features will put the German automaker in competition with Tesla, which is currently leading the auto industry in the development of hands-free systems. Mercedes' point-to-point driver assist feature, called MB.Drive Assist Pro, will handle most of the driving on local roads and in dense, urban traffic. Once a destination is plugged into the vehicle's navigation, the system assists across the entire route, handling highway exits, lane changes, intersec … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/26-c0354-015.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/26-c0354-015.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>When will humans actually fly on Starship?</title>
+<link>https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship</link>
+<guid isPermaLink="false">16f8b8102fc54d4600a876c4a2dc546338d6ddb3b008d2a14960e0aae151c459</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:46:08 +0000</pubDate>
+<description>The stunning return of Starship from the skies to a launch tower in South Texas answered some questions about the future of SpaceX's ambitious rocket program. Namely, it is now rapidly moving toward rapidly reusable launch. However, it raises other questions. For example, as Starship becomes fully reusable, when might humans fly on the vehicle? The short answer is pretty simple: If SpaceX prioritizes human spaceflight on Starship, it could happen reasonably quickly. The longer answer becomes more complicated and depends on what one means by human spaceflight. The first people to fly on Starship probably won't launch from Earth, or land here. Rather, they will probably be NASA's lunar astronauts. So there are different timelines for humans flying aboard Starship and landing on Earth. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX-1152x648.jpeg" medium="image"/>
+</item>
+<item>
+<title>Meet the new James Bond: Robert Pattinson</title>
+<link>https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson</link>
+<guid isPermaLink="false">1c3a75024a94d84f22540408128eb75e47b470a9c9175f5a562e4b2b78de0539</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:36:25 +0000</pubDate>
+<description>The Internet has been abuzz for months about which actor would replace Daniel Craig as British agent 007 James Bond in the franchise. We finally have the answer: Robert Pattinson , who built on his 2005 role as the doomed Cedric Diggory in Harry Potter and the Goblet of Fire into an illustrious career mixing roles in franchises and Hollywood blockbusters with daring arthouse fare. “James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honor of a lifetime,” Pattinson said in a statement . “To say this role is a dream come true is an understatement. I couldn’t be more excited about this partnership and the work ahead with this fantastic team.” The choice will reunite Pattinson with Denis Villeneuve, who recently worked with him on the forthcoming Dune: Part III and will direct the next (as yet untitled) Bond installment. “I want to express my deep gratitude to the remarkable actors who joined us on this journey," Villeneuve said in a statement . We were surrounded by extraordinary talent, but there can only be one 007. I am overjoyed to welcome Robert Pattinson as our new James Bond. He has the timeless soul of 007 and brings a spirit that is completely new. I cannot wait to begin.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg" medium="image"/>
+</item>
+<item>
+<title>HTML-in-Canvas ships and could make the web a lot more creative...and a lot stupider</title>
+<link>https://www.theregister.com/devops/2026/11/16/html-in-canvas-ships-and-could-make-the-web-a-lot-more-creativeand-a-lot-stupider/5310135</link>
+<guid isPermaLink="false">bc9e4700608b70a66874bfbc83b091ac99347905f9aa9bc9c71ad7c9faa64fd2</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:33:00 +0000</pubDate>
+<description>After two years of experimentation, the Chrome team shipped the HTML-in-Canvas API with Chrome 157. With it comes a new vision of how Web pages could be designed, for better or worse, allowing richer, more interactive elements but also more opportunities for annoying ads. “Previously, when creating visually demanding web apps, you had to choose between standard HTML elements and raw canvas contexts,” enthused one Google DevRel in a tutorial . “HTML-in-Canvas eliminates these trade-offs.” The Web API has been submitted for inclusion in the WHATWG HTML Living Standard , the ever-updating standard formerly known as HTML5 – for all the technologies that officially make up HTML (including Canvas itself). A Web API for the browser’s rendering engine Originally developed by Apple and standardized in 2014, the canvas tag is an HTML element that offers a space to render fluid graphics via JavaScript drawing commands. It creates a dedicated grid on screen, within which JavaScript can use a set of Canvas methods to draw lines, curves, text, gradients, and images. Or, the user’s GPU, via WebGL or WebGPU, can use the canvas to render 3D images and other custom effects. The downside of Canvas is that the regular HTML controls didn’t work inside the canvas itself. Formatting any text had to be done by hand. Interactivity was out, as were accessibility aids. Primarily developed by the Google Chromium team, HTML-in-Canvas allows JavaScript to place HTML commands within the canvas element, thanks to an attribute option within Canvas. If the canvas tag includes a content attribute of "drawable," the browser’s rendering engine prepares the HTML content inside the box so JavaScript can render it. While fully supported by Chrome and Chrome Android beginning with release 157, none of the other major browsers support the API yet (Microsoft Edge 157 – which is made of Chromium – unofficially appears to support at least some HTML-in-Canvas actions as well). The Web’s about to get lit Google posted a few possibilities of what can be done with HTML-in-Canvas. Developers can wrap HTML controls onto a 3D object. In one example , the user can turn the pages of a virtual book and even copy text out of the book itself. A video, complete with a set of controls , can be wrapped into an odd-sized canvas. The spec seems to work particularly well with JavaScript plug-ins, allowing coders to create entire 3D environments with Three.js , or to create charts with D3.js . Enthusiasts are already hacking against the spec with mad abandon. Developer Wes Bos put a notes app in the canvas , then used it as target practice by overlaying the app with some Duck Hunt-styled game code. HTML-in-Canvas “opens up the door to a lot of stupid use cases … but also a lot of really creative, interesting things where you can apply stylistic effects to HTML,” Bos explained on X . A trippy demo from html-in-canvas.dev shows a dragon slithering through the opening chapter of an online book, with the text smo</description>
+<enclosure url="https://image.theregister.com/?imageId=5310183&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5310183&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Which Google Pixel phone is most similar to the Galaxy S26+?</title>
+<link>https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus</link>
+<guid isPermaLink="false">d7747346a9cdf8699979abe92b415e139153386baf55ed686f5cf2df27edc674</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:30:00 +0000</pubDate>
+<description>Trying to choose between the Google Pixel 11 Pro and Samsung Galaxy S26+? We break down the specs, cameras and prices to help find the best one for you.</description>
+<enclosure url="https://www.engadget.com/img/gallery/which-google-pixel-phone-is-most-similar-to-the-galaxy-s26/l-intro-1794486626.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/which-google-pixel-phone-is-most-similar-to-the-galaxy-s26/l-intro-1794486626.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple could build its AI health chatbot from this study – how to enroll</title>
+<link>https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll</link>
+<guid isPermaLink="false">6fefddc39fa7192eda9b0e6573763aeb63dc2eb1518a398b4ad145732db60bed</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:25:57 +0000</pubDate>
+<description>Apple is leaning into AI-powered health tools with the launch of its Apple Health AI Usage Study.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/63e6c0eb-8321-4e2c-a17a-50dd35f33946.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/63e6c0eb-8321-4e2c-a17a-50dd35f33946.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple is testing daily usage limits for more complex Siri AI interactions</title>
+<link>https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription</link>
+<guid isPermaLink="false">c358f6a12927d5b0c7a2a3507db579fd78df6548f1d646a17be1422f6833588a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:24:40 +0000</pubDate>
+<description>Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors . Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage, MacRumors reports, including using Siri AI for "multi-step, personal context requests," image generation and editing tools, automations in Shortcuts that "r … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>OpenAI wants to stop deepfakes from overwhelming child abuse tiplines</title>
+<link>https://www.theverge.com/policy/1034527/openai-csam-classifier</link>
+<guid isPermaLink="false">019849ec10d9fd5ab0c305a157fdcea90d05b67d1b2aa3b3c8557a4793e56510</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:23:45 +0000</pubDate>
+<description>OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can aid their investigations. The news comes as policymakers and others are pushing for more safety restrictions on AI tools, accusing OpenAI and other co … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google Maps' chatbot can find appointments and call to book them for you</title>
+<link>https://www.engadget.com/2318186/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you</link>
+<guid isPermaLink="false">4573af0502e83bcd2262377ac602d9fd21564abaf54a76e2501b731e4d3bffab</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:17:00 +0000</pubDate>
+<description>The Ask Maps chatbot is also expanding to more than 30 additional countries across Europe.</description>
+<enclosure url="https://www.engadget.com/img/gallery/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/l-intro-1794856568.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/l-intro-1794856568.jpg" medium="image"/>
+</item>
+<item>
+<title>US moves to cut China’s remote access to AI chips</title>
+<link>https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips</link>
+<guid isPermaLink="false">7f59634912f807d8784018b0798a34732227b6f9cfd6635d830a506057f579f8</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:10:09 +0000</pubDate>
+<description>On the heels of the Nvidia scandal , the Trump administration is preparing to crack down on foreign data centers that are fueling China’s advancements in artificial intelligence by allowing remote access to otherwise restricted high-end chips necessary for AI training. In a summary of the rule change, the Commerce Department said it was closing a loophole that previously allowed foreign rivals like China, Russia, and Iran to bypass export curbs on certain advanced computer chips by instead renting access to those chips from data centers in Indonesia, Malaysia, Singapore, Thailand, and Brazil. US rivals could possibly use that access to train and run advanced AI models “capable of supporting military- and intelligence-related activities that could threaten US national security or foreign policy interests,” the Commerce Department said. Among threats, the US fears rivals could use advanced AI to develop "more effective weapons of mass destruction and advanced conventional weapons, coordinated cyber-espionage and targeted cyber-disruption, algorithmic theft, and weaponized disinformation.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Improve your Amazon Kindle experience by doing these simple things</title>
 <link>https://www.engadget.com/2314792/improve-amazon-kindle-experience-doing-simple-things</link>
 <guid isPermaLink="false">a9d3071e061f34aacdf5303d961a7622505e2fedffaf8110d8f0606f30f6375f</guid>
@@ -279,17 +433,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Why NJ’s governor thinks Republicans are trapped in an X bubble</title>
-<link>https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai</link>
-<guid isPermaLink="false">a33bd4c162c583cd674c1b52dd32ce07b62bd849cf7c9b17bc6ad8f2aa5e087c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 16:00:00 +0000</pubDate>
-<description>Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms because she ran on the dual themes of affordability and accountability. So I wanted to ask the governor exactly how corruption became such an animating issue for voters, in an era of tech billionaires who own platforms like X and TikTok and who also now control huge swaths of local media and even national broadcast media like CBS News. You’ll hear us get into the new era of influencer politics, which plays out as social video and takes its cues from rising stars like New York City Mayor Zohran Mamdani, and how I think influence on platforms like Elon Musk’s X is starting to backfire in big ways for conservatives. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . But the real story this election cycle might be the states. With President Donald Trump concentrating power in the executive branch, governors like Sherrill are starting to exercise their own power in ways that haven’t been tested in a long time. This runs right into tech policy and anti-AI backlash, as states around the country try to address topics like child safety and Big Tech overreach in lieu of any form of meaningful federal regulation. That’s how politicians like Sherrill have found themselves at the forefront of the data center fight, online privacy, and age verification — all topics you’ll hear us dive into here. We also dig into the Meta settlement, why Sherrill expects more Big Tech litigation, and what happens to privacy in the Flock and AI era. She had a lot of questions about the last one, and honestly, so do I. It’s a conversation I think we’re all going to be having for a while. Before we get going, do me a favor and subscribe to Decoder on YouTube, where we put out new episodes every Monday and Thursday. Okay: New Jersey governor Mikie Sherrill. Here we go. This interview has been lightly edited for length and clarity. Governor Mikie Sherrill, you’re the governor of New Jersey. Welcome to Decoder . Well, thanks so much for having me. I really appreciate it. I’m excited to talk to you. It’s after the midterms; there’s a huge blue wave, and you’re a Democrat. I noticed. Yeah. I noticed that you were saying, “New Jersey is like the bellwether,” and you “paved the way…” This is your big quote . Tell me about that, and tell me how you’re feeling about the midterms. I’ll answer the easy question first. I feel great about the midterms. I feel absolutely fantastic about the midterms. And yeah, I was thinking about it because New Jersey has those off-year elections. So, there are very few statewide races — really only two in that cycle: New Jersey and Virginia. Right after Trump won, we started our campaign. And by right after, I mean, he won in November of 2024,</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261116_Sherrill.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261116_Sherrill.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Has AI’s ‘Black October’ changed the way you secure your code?</title>
 <link>https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775</link>
 <guid isPermaLink="false">b01665747fbda539a098b8e0e5b80f30558241162a5e321e6781a16650b6eaf8</guid>
@@ -334,17 +477,6 @@
 <media:content url="https://image.theregister.com/?imageId=1682043&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Robert Pattinson is Amazon’s first James Bond</title>
-<link>https://www.theverge.com/tech/1034192/robert-pattinson-james-bond</link>
-<guid isPermaLink="false">fbc4bc0196f3f99a6d998c02d4f954371b1715aec822a6ae4d664e51ce8e00c3</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 15:19:34 +0000</pubDate>
-<description>Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy Pascal and David Heyman will produce. The upcoming James Bond film will be the first from Amazon, which snapped up the rights to the franchise through its acquisition of MGM Studios in 2021. Amazon later gained creative control over the spy series from Barbara Broccoli and Michael G. Wilson in 2025 after a years-long stalemate . There hasn't been a new James Bond film since Daniel Craig's last installment as the spy in 2021's No T … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Killer tunes: how Grand Theft Auto conquered the music world</title>
 <link>https://www.theguardian.com/games/2026/nov/16/auto-tunes-music-grand-theft-auto-conquered-zeitgeist-gta</link>
 <guid isPermaLink="false">02dfaf2567cdbdc29b035b2814b52aac3dec49c76b7dd2b1b099753c03c338ca</guid>
@@ -356,17 +488,6 @@
 <media:content url="https://i.guim.co.uk/img/media/653be1d2025e6e81bbe8942259f72ca29936769c/400_0_2698_2160/master/2698.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b0a5db80d48165b08bdea91b028bb726" medium="image"/>
 </item>
 <item>
-<title>Apple TV is getting video podcasts you can watch for free</title>
-<link>https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts</link>
-<guid isPermaLink="false">959e31289962dfbfa8b2d8b31e6e2bdfa326c64596e5213fbab64084db5eabe4</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 14:45:56 +0000</pubDate>
-<description>Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new update for iOS 27.3 beta testers to roll out in a few hours. Once it rolls out fully, the new video podcasts section will be available to everyone using an Apple TV device or app on all supported platforms. The expansion follows other streaming services' push into podcasts. Netflix announced it was adding video podcasts to its platform last year, and debuted its first original video podcast series in January. Hulu and Disney Plus also offer podcasts, including a mi … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK069_APPLE_TV_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK069_APPLE_TV_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Where should you place your Wi-Fi router for the best internet?</title>
 <link>https://www.engadget.com/2314221/where-to-place-wifi-router-best-internet</link>
 <guid isPermaLink="false">96d7142496009c88ca936ce969ae3b1cf19a08d7e28e4d1286e496b948a00c4f</guid>
@@ -376,17 +497,6 @@
 <description>Let your router work at its best by placing it in the right spot of your home - and know when you need an upgrade.</description>
 <enclosure url="https://www.engadget.com/img/gallery/where-should-you-place-your-wi-fi-router-for-the-best-internet/l-intro-1794429353.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/where-should-you-place-your-wi-fi-router-for-the-best-internet/l-intro-1794429353.jpg" medium="image"/>
-</item>
-<item>
-<title>America’s air traffic control system couldn’t handle a single bad router</title>
-<link>https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop</link>
-<guid isPermaLink="false">202c5a141e1d371d5c46873167c33f8811921db557dbed21b4a1abec410440a1</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 14:43:48 +0000</pubDate>
-<description>Flight statuses change from delayed to canceled at the San Diego International Airport after the FAA issued an emergency nationwide ground stop on November 13th, 2026. | Photo: Luke Johnson / The San Diego Union-Tribune via Getty Images Thirty minutes outside Atlanta, the pilot got on the intercom to announce that something was wrong. A communications issue with the Federal Aviation Administration was cascading across the country. The pilot didn't offer much detail except to say that the issue might affect gate access and connecting flights. For Amanda Khera, the timing couldn't be worse. Her family vacation to a small island off the coast of Belize had already turned into a medical scare when her 22-month-old son Rio developed a high fever and had to be rushed to a local clinic. Exhausted, they were trying to get home to Virginia Beach, Virginia, to see his pediatrician … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304497345.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304497345.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Microsoft Outlook outage blamed after 15 injured in hotel pool chlorine incident</title>
@@ -686,17 +796,6 @@
 <media:content url="https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b04f2cef004a7f74130233713c5e593" medium="image"/>
 </item>
 <item>
-<title>Apple's new research app is designed to make AI health tools more user-friendly</title>
-<link>https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly</link>
-<guid isPermaLink="false">32afeecbe28656cb0f4263009ccf4f172abd9ac0ac4af1cf1f23642a76363dd8</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 06:06:05 +0000</pubDate>
-<description>Apple has unveiled a new research study with the aim of learning how people use AI health tools.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apples-new-research-app-is-designed-to-make-ai-health-tools-more-user-friendly/l-intro-1794809079.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apples-new-research-app-is-designed-to-make-ai-health-tools-more-user-friendly/l-intro-1794809079.jpg" medium="image"/>
-</item>
-<item>
 <title>Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads</title>
 <link>https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016</link>
 <guid isPermaLink="false">faf1d1172602e3bfd6ed84215f890f7026d6cc785119212185e20d6e8c2e2816</guid>
@@ -708,17 +807,6 @@
 <media:content url="https://image.theregister.com/?imageId=5310021&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>ULA Vulcan rocket failure destroys 40 Amazon Leo satellites</title>
-<link>https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites</link>
-<guid isPermaLink="false">cd5c45d4a80f0663d7240ec78a598b44d06011b4b48edb19b91003fc95f9d28a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 04:56:53 +0000</pubDate>
-<description>United Launch Alliance is known for its ultra-dependable Atlas V, but its its latest rocket is off to a shaky start.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/l-intro-1794804851.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/l-intro-1794804851.jpg" medium="image"/>
-</item>
-<item>
 <title>Amazon loses first batch of broadband satellites launched on custom rocket</title>
 <link>https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000</link>
 <guid isPermaLink="false">60e03a6f650d07ec6f548b59019302a24234ac4f8201c9add67abb0971c9ffc3</guid>
@@ -728,17 +816,6 @@
 <description>Amazon’s ambition to operate a constellation of broadband satellites took a hit on Sunday, when 40 of its craft failed to make it into orbit. The failure is significant because it was the first Amazon launch to use a rocket designed especially for the job of carrying its broadband birds to low Earth orbit. The Lockheed/Boeing joint venture United Launch Alliance (ULA) created that rocket, a version of its Vulcan heavy lifter using a six-booster configuration and a Centaur V upper stage optimized to carry payloads into low Earth orbit. Last week, Amazon previewed the launch with a post that noted this mission, code-named LV-01, is the first of 38 planned missions with ULA, and that LV-02 would likely follow within weeks. The two companies planned to test new hardware on the first “several” flights using the custom rocket. Amazon put 40 satellites aboard the Sunday mission and said it is “already planning larger configurations for subsequent missions.” Those plans, and the LV-02 launch, are probably on hold after the rocket suffered an anomaly 10 minutes into the flight. The flight began well, with the Vulcan reaching an altitude of 95 miles (150 km) and completing the first phase of its flight. Six minutes into the mission, the main booster and payload fairing both separated as planned, and ULA lit up the Centaur V’s engines for the first planned firings needed to reach low Earth orbit. Then came the anomaly, which UAL’s live update stream states meant the mission “failed to deliver the Amazon mission to orbit.” “Every flight generates data, and every flight teaches us something,” UAL wrote. “Since the anomaly just occurred, we don’t have any specific data yet to understand what occurred today.” Amazon already has over 200 satellites in orbit, had hoped to launch its satellite broadband service this year, and plans 20 or more launches in 2027. It is unclear if this mission failure will change those ambitions. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5310005&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5310005&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>How to clear the application cache on your Mac</title>
-<link>https://www.engadget.com/2314079/how-to-clear-application-cache-mac</link>
-<guid isPermaLink="false">14161a9eeb75407db958b4e140075420eeacb7462266751bcc46228346898dfa</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
-<description>Clearing app caches don't necessarily make your Mac run faster.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-clear-the-application-cache-on-your-mac/l-intro-1794426299.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-clear-the-application-cache-on-your-mac/l-intro-1794426299.jpg" medium="image"/>
 </item>
 <item>
 <title>Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows</title>
@@ -1126,17 +1203,6 @@
 <media:content url="https://image.theregister.com/?imageId=5269514&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Windows 0-day dropped by disgruntled researcher hands hackers System rights</title>
-<link>https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights</link>
-<guid isPermaLink="false">728d91208d49dea51a0f8fd719247b69c0a73204ced98114633b521243907b32</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 16:26:32 +0000</pubDate>
-<description>Nightmare Eclipse, the pseudonym of a researcher with an ongoing, very public beef with Microsoft, has dropped yet another Windows zero-day. On Tuesday, Nightmare Eclipse disclosed SignDrop, a vulnerability that gives local users full System rights on some versions of Windows. The vulnerability resides in the Common Log File System , which Microsoft describes as a “general-purpose logging service used by software clients running in user-mode or kernel-mode.” By forcing a privileged process such as Windows Defender to open a crafted CLFS container, an attacker with ordinary user rights can abuse the privileged file creation to elevate privileges to System. Turning a Windows defense against itself The attack exploits the interaction of CLFS, Windows Defender, and Windows file permissions. The exploit uses Windows Defender to open a log file created by a standard user by calling ServerMpUpdateEngineSignature, a legitimate Defender function for processing antivirus signature updates. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg" medium="image"/>
-</item>
-<item>
 <title>HPE debuts hybrid storage configs: Rising SSD costs hit supercomputing</title>
 <link>https://www.theregister.com/storage/2026/11/13/hpe-debuts-hybrid-storage-configs-rising-ssd-costs-hit-supercomputing/5309679</link>
 <guid isPermaLink="false">854c1b137575ce624e0bdd63b05f45c41258a18114aab4b96eb75710e1204ebc</guid>
@@ -1168,39 +1234,6 @@
 <description>Arm's Lorenzo Stoakes isn't quitting Linux kernel development, though he's stepping back from some of the patch-review work he used to handle. Stoakes is a principal software engineer at Arm and he's a busy chap. Aside from writing the forthcoming book The Linux Memory Manager , in his CV [PDF], he says: "I hold four maintainerships: memory mapping, memory mapping (locking), memory mapping (madvise) – essentially the entirety of the userland API to memory management – and the reverse mapping which connects physical to virtual memory." Even so, he plans to soon be doing a little less. Earlier this week he posted an email to the Linux kernel mailing list to say that he was planning to drop some of his workload. He explained: "Given the current throughput in the kernel resulting from AI-generated series, I unfortunately lack the bandwidth to generally be able to offer review except in those areas I maintain. […] Apologies for doing this, but given the current trends I'd like to do something to make my inbox a little more manageable." As it happens, this came just the day after the Paramount Penguin himself said that he saw signs that the AI patch tide was "starting to turn." Stoakes told The Register : "I am retaining my maintainerships and have no plans on giving those up, I just want my inbox to be less horrendous. "And yeah, AI is part of the reason; in general, it's gone from 'once a week' to 'daily' to 'half of what I see in review'. "But the AI wave is hitting [memory management] across the board, really." He added: "I have a habit of burning myself out over weekends and evenings – you can see my involvement on a thread talking about that here - which gives you a sense of my views if you read back through that thread." At the Open Source Summit last month, the Reg FOSS desk joined the "Ask the Expert" session with Greg Kroah-Hartman , and he too expressed worrying sentiments: "The onslaught of the LLM-generated patches… we don't have enough people to review them all… We need more reviewers. We don't have enough. All of the maintainers are burnt out, and we have been for ten years." Kroah-Hartman also said: "I want to go down to two Long Term Support releases – four, maximum. Six is too many. We're too busy. We don't have the manpower. It’s crazy." On Red Hat's model of offering 10 years of support for products with a given version of the kernel: "Debian does it right. Debian and Yocto run the world. I've argued for years that the RHEL and SLES model is broken. That's why I don't work for SUSE any more." ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5270573&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5270573&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says</title>
-<link>https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage</link>
-<guid isPermaLink="false">c686db44040ed87ba6f862af088244cc81a8e9affb9051615935d7ea2a9a4959</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 15:26:53 +0000</pubDate>
-<description>A global outage taking down a wide range of Microsoft 365 services remains ongoing Friday morning. The outage started midday Thursday, impacting users of Microsoft email, cloud, and AI services. Microsoft has documented the full list of services impacted by the error, while moving early Friday morning to protect customers around the world from losing emails during the extended disruptions. “Recovery actions are ongoing,” the Microsoft 365 Status account confirmed on X. “To help preserve delayed mail during this event, we’ve extended email timeout to 48 hours.” Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>It's the end of the world as we know it, per a physicist's 1960 prediction</title>
-<link>https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction</link>
-<guid isPermaLink="false">650d65519942a6569d177ee90d69d17cf9ac3ac4b35bec6fcbb5dccaf598118a</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 15:09:39 +0000</pubDate>
-<description>As of this morning, Microsoft is still scrambling to restore service following yesterday's global outage, with millions of users unable to access Outlook and other vital tools. It's not the end of the world, but it does seem fitting that this should happen on the day a physicist predicted would be the end of humanity: November 13, 2026. And it falls on a Friday, too. The physicist in question is Heinz von Foerster, who published a 1960 paper in the journal Science predicting that by today, overpopulation would reach the breaking point. It's not a new fear. English economist Thomas Malthus —one of the early pioneers in modeling population dynamics—made a similar prediction in 1798, claiming that a rapidly growing population would eventually exhaust the available food supply, and humanity would starve to death. His model rested on the assumption of exponential growth, but the equation is only applicable under specific conditions, such as scientists growing bacteria in a lab in a perfectly controlled environment. Even then, while growth occurs exponentially for a time, it does not continue forever. Population dynamics are notoriously tricky to calculate because there are so many variables to consider and so much unpredictability in the system. In his 1960 analysis, Von Foerster accurately measured past trends in population growth, but like Malthus, he assumed those trends would carry into the future largely unchanged. So he projected that human population growth would march inexorably toward infinity. We wouldn't starve to death; von Foerster thought we would be ingenious enough to solve the food supply problem. Instead, "they will be squeezed to death," he wrote. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cometTOP-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cometTOP-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Screenless GPS: Slate Auto says, "Remember the road atlas"</title>
-<link>https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas</link>
-<guid isPermaLink="false">2e6c8fd3389553985d6a899752692954a3cdafc6f80c2964cfd069d10bfe1726</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 14:45:04 +0000</pubDate>
-<description>Whether it's nostalgia or a sense that technology has gotten a bit too pervasive, there’s no denying that Slate Auto appears to be tuned into the particular moment. The startup has a simple pitch : an affordable electric truck with just the basics , leaving owners to DIY and BYOD for everything else, all for a sub-$25,000 starting price. Among the things Slate does without is an embedded infotainment system. The small digital display on the dashboard that shows your speed and range is also where the backup camera appears if you engage reverse, and there are two USB-C ports that provide power but not connectivity, and that’s that. But there is a solution to getting lost, and it's called “Screenless GPS.” Even though we don’t have a Slate truck to test it with, the OEM sent us a unit to review. That’s right, it’s a good old spiral-bound road atlas! “We believe you should use the devices you know and love,” Slate says, and it reckons that maps worked just fine for past generations, so they should still work now. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Most affairs don't matter except to the people involved. Ex-Nvidia CEO Jensen's blunder will rock the world</title>
@@ -1344,28 +1377,6 @@
 <description>Working in tech support can be thankless when gormless colleagues leave you sleepless. Which is why, each Friday, The Register runs a new instalment of On Call – the reader contributed column which ensures your work to keep tech alive doesn't remain unnoticed. This week, meet a reader we'll Regomize as "Tim" who told us that while working for a phone company he once rewrote 2,650 lines of C as a six line shell script. He performed that feat after being asked to fix a data transfer program that, strangely, included a bespoke implementation of the venerable File Transfer Protocol (FTP). "Writing the script took eight hours, most of it tracking down the source code of FTP so I could see if it would do what I wanted," Tim wrote. This story took place before the World Wide Web became the way to find information online. To find the code he needed, Tim therefore used a Wide Area Information Server (WAIS) to search remote databases. "In those days, there was no Linux and AT&amp;T had licensed the Unix source code to universities with the strict proviso that it never be made publicly available," Tim explained. "It took me quite some time using WAIS to track it down – the security could have been better – and read the code." Having found what he needed, Tim wrote his script, which ran overnight to collect data from the telco's switches, tidied up the raw info, and uploaded it to a mainframe. "It would automatically page me if it couldn't connect to a switch or mainframe after three attempts," he explained. The script worked fine, but the telco's networks didn't. Tim's pager was soon going off two or three times a night, every night. After two weeks of interrupted sleep, Tim's manager kindly told him to give the pager to a colleague. But that colleague habitually left the pager at work, forgot to turn it on, or conveniently placed it out of earshot. So Tim reluctantly took back the pager and endured another few weeks of nightly interruptions. How many consecutive sleepless nights have you endured while On Call? If you have enough energy, click here to send your story with On Call so we can share it on a future Friday. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=261471&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=261471&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Singapore says US authorities, and Supermicro, hardly helped investigation of Jensen Huang’s Chinese friend</title>
-<link>https://www.theregister.com/legal/2026/11/13/singapore-says-us-authorities-and-supermicro-hardly-helped-investigation-of-jensen-huangs-chinese-friend/5309579</link>
-<guid isPermaLink="false">eb53464368d32afcd756a96e394de23f59d8cf9babd2a5fb68b816fe110045a7</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 03:41:24 +0000</pubDate>
-<description>The government of Singapore’s Ministry of Home Affairs has revealed it investigated Alice Huang, the woman who is an alleged Chinese intelligence asset and had an intimate relationship with former Nvidia CEO Jensen Huang, and a possible entanglement with troubled server-maker Supermicro. US authorities provided only “limited assistance” in the matter, despite Singapore asking for help. The Ministry outlined its activities in a statement published late on Thursday, Singapore time. The document reveals that Singapore’s Police Force (SPF) and Customs agency commenced an investigation into Ms. Huang’s company, Megaspeed, in February 2025. “The suspected domestic offences pertained to potential false declarations in relation to the purchase of servers and other related offences,” the Ministry wrote, adding that the exec “was not investigated for espionage.” Singaporean authorities wanted to know if servers bought by local companies, but exported to Malaysia without ever touching Singaporean soil, might have ended up in a third country. It is not unusual for Singapore-based companies to acquire goods that never reach the island, because it promotes itself as the ideal spot from which to run an operation that trades across Asia. Singapore does so because it is tiny – the whole nation is the same size as the five boroughs of New York City. That small size means Singapore restricts the number of datacenters that can operate on its soil. Those limits are a big reason why Malaysia’s Johor region, which is under 20kms from the border with Singapore and a joint special economic zone, has become a major datacenter province. Singapore needs deals like that to thrive but works hard to ensure its hospitality is not abused. Which is why it felt Megaspeed’s activities worthy of investigation. US authorities were interested too. On 24 June 2025, the Bureau of Industry and Security, which regulates sensitive goods subject to export controls, visited Megaspeed in Singapore to check the hardware it bought arrived at its intended destination. Ms. Huang attended that event and later met the SPF for an interview. That meeting ended with the SPF impounding her passport, so it could keep her in Singapore while the investigation continued. As the matter progressed, the SPF suspected perennially troubled server-maker Supermicro had a role in this situation. Readers may recall that the US Department of Justice indicted two Supermicro execs for conspiring to ship servers to China in contravention of US law. Supermicro investigated the matter and parted ways with three staff who acted improperly. The company has denied ever selling to Megaspeed. Singaporean authorities say they received only “limited cooperation” from Supermicro, so in July 2025 the office of the nation’s Attorney General asked US authorities for help. “Since September 2025, SPF has repeated this request on several occasions to the US Department of Justice and the Federal Bureau of Investigation,” the statement</description>
-<enclosure url="https://image.theregister.com/?imageId=236933&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=236933&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Alibaba's Qwen3.8 re-educated with a more Western worldview</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555</link>
-<guid isPermaLink="false">0c133eff3e9014212a4f50280ec5b6b85948db95e5411bf4beba3a42a5f8f17a</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 01:25:00 +0000</pubDate>
-<description>An American AI lab has re-educated Qwen3.8-27B, a popular open-weight large language model from Alibaba, so the software forgets its Chinese ancestry. Nous Research, an Austin, Texas-based AI lab, has subjected the model to re-education through training, not to be confused with China's " Re-education Through Labor " system. With the help of a post-training process, Qwen3.8-27B has been reborn under the name Arete "to reinforce Western values on a Chinese-trained model." What qualifies as a "Western value" remains open to interpretation. "Open-weight Chinese models are among the strongest available, but they ship with state-aligned behavior baked into the weights," Nous Research wrote in a blog post . Your correspondent tested this with a variant model, Qwen3.8-27B-MLX-6bit, locally. Asked about events during 1989 in Tiananmen Square, the model either refused to discuss the topic or provided euphemistic response. What's perhaps more surprising is that Anthropic claims operators affiliated with Alibaba's Qwen lab used outputs from its Claude models to train competing AI models via distillation . Nous Research, maker of the Hermes Agent , cites that sort of censorship as a risk for users of AI models trained in China. The concern comes amid broader scrutiny of Chinese influence in the tech industry, heightened by Nvidia CEO Jensen Huang's resignation following controversy involving a woman US intelligence has accused of spying for China. Nous says the risk posed by Chinese-made AI models go beyond promoting Beijing's worldview. Some Middle Kingdom models have been found to produce more vulnerable code under certain conditions, according to a study by Booz Allen Hamilton, which does a lot of business with the US government. Hirundo, a vendor which says it is building "the first Machine Unlearning Platform to ensure that AI models only know what they should," makes the same argument . The company also notes that its efforts to apply "unlearning" to Qwen3.6-35B-A3B saw a dramatic drop in output that reflects Communist Party of China's preferred censorship, propaganda messaging, or bias. 89.8 percent of the model's output reflected those values before unlearning reduced the incidence to 2.8 percent. Nous Research did not achieve such dramatic results, but did see an overall reduction in viewpoints deemed to be propaganda. "On our evaluation, Arete-27B raised its fact score from 2.32 to 2.98 out of 5 and cut answers containing propaganda from 22 percent to 1 percent, in line with the Western models we tested," the company said. To handle Arete's unlearning, Nous Research says it briefly considered Nvidia's Nemotron 3 Ultra , "but had found evidence that it too had a checkered record on China-related topics." "We don't know definitively, but theorize that the bias imparted to Nemotron came from working with Chinese open models during the training process," the company said. "We have experienced similar contamination, because the vast majority of high qual</description>
-<enclosure url="https://image.theregister.com/?imageId=5305565&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305565&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley</title>

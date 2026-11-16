@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Coinbase and Broadridge propose standard for tokenized stock disclosures</title>
+<link>https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices</link>
+<guid isPermaLink="false">76538024575bdb4e17af469344ca342197f95fc58fa959981e19dfca9621f2c4</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 16 Nov 2026 19:56:18 +0000</pubDate>
+<description>The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png" medium="image"/>
+</item>
+<item>
+<title>Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief</title>
+<link>https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief</link>
+<guid isPermaLink="false">5c00bb2c5df931bf8ed62ab7a1fcf4330890c1ac575945808e55b2c4b606b12e</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 16 Nov 2026 19:36:03 +0000</pubDate>
+<description>Former White House crypto chief Patrick Witt said the Clarity Act "lost against the clock," and regulators will now set the rules.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/patrick-witt-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/patrick-witt-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'</title>
+<link>https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia</link>
+<guid isPermaLink="false">bd6858bbb70424204989403390ec3c5e10a9eaee125637b9e74b8b339f8ab20e</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 16 Nov 2026 19:05:02 +0000</pubDate>
+<description>Trump would welcome Nvidia’s co-founder back. Altman, who survived his own CEO ouster, sympathizes but stops short of endorsing Huang’s comeback.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump</title>
 <link>https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market</link>
 <guid isPermaLink="false">15fe370181453825ee948ce83ff61a19045544fd9a8c8208064db317df066c04</guid>
@@ -57,17 +90,6 @@
 <description>Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png" type="image/png"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png" medium="image"/>
-</item>
-<item>
-<title>Your Business Is Losing Money on AI You Don’t Control — Here’s Why.</title>
-<link>https://www.entrepreneur.com/business-news/your-business-is-losing-money-on-ai-you-dont-control-heres-why</link>
-<guid isPermaLink="false">f84b3b4e56fc1988d265bd3bee987682054a0cf0afe1a01657cbc5d589f6fff3</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 17:30:00 +0000</pubDate>
-<description>Every silent AI update breaks your workflow, and you pay your provider an 85% margin to fix what it broke.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/losing-money-on-ai-1126-g-2223301477.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/losing-money-on-ai-1126-g-2223301477.jpg" medium="image"/>
 </item>
 <item>
 <title>Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip</title>
@@ -741,6 +763,17 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg" medium="image"/>
 </item>
 <item>
+<title>You’re Not Behind on AI Agents Yet. Learn How They Work in 10 Minutes, Before Your Competitors Get Ahead</title>
+<link>https://www.entrepreneur.com/business-news/youre-not-behind-on-ai-agents-yet-learn-how-they-work-in-10-minutes-before-your-competitors-get-ahead</link>
+<guid isPermaLink="false">eff353aecd6f455983cf0faecd703248424b791ff0ebeb0f687f1724d845776a</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Sat, 14 Nov 2026 03:00:00 +0000</pubDate>
+<description>Your competitors are building AI teams. Here’s where to start.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ai-agents-1126-g-2282222329.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ai-agents-1126-g-2282222329.jpg" medium="image"/>
+</item>
+<item>
 <title>Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate</title>
 <link>https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang</link>
 <guid isPermaLink="false">84cf061394aa9830b796e78bd4d05d769a2efb1313a606776645c5eedef97cc3</guid>
@@ -794,17 +827,6 @@
 <description>Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BB5D5YR6N43P941FXA2NG0/hi-kraken-ipo-2.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BB5D5YR6N43P941FXA2NG0/hi-kraken-ipo-2.jpg" medium="image"/>
-</item>
-<item>
-<title>US regulators move ahead on crypto trust charters as Senate scrutiny grows</title>
-<link>https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows</link>
-<guid isPermaLink="false">64047524acaec063e69f86031998bf4f040a9c0b0e7b9e75e8c178be48712593</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 20:53:20 +0000</pubDate>
-<description>Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg" medium="image"/>
 </item>
 <item>
 <title>China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts</title>
@@ -1025,28 +1047,6 @@
 <description>Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting</title>
-<link>https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang</link>
-<guid isPermaLink="false">82669f40e831025b9e3cf22cc9c89a6e741924855cf6b76407d2bbbc2cea1f73</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 18:06:03 +0000</pubDate>
-<description>Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping up.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi</title>
-<link>https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi</link>
-<guid isPermaLink="false">1433ee36bbce91d09e989f6b57ed20ec3d2344a470d94d08e4ac8774bd2de768</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 17:46:02 +0000</pubDate>
-<description>The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state’s 0.2% levy on digital asset transactions.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/08/money-bitcoin-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/08/money-bitcoin-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>Ex-PNC employee faces 5 charges in $86K theft</title>

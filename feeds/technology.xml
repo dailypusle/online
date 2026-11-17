@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The future of datacenters depends on behind-the-meter energy generation</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/17/partner-content-the-future-of-datacenters-depends-on-behind-the-meter-energy-generation/5307526</link>
+<guid isPermaLink="false">264b5fec79bab1b150565688e11aef22993996cc80fc6b0fa9064b4996adaa90</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
+<description>For the last decade, the datacenter industry has been a quiet engine of the digital economy. It was a background utility that just worked. However, datacenters are no longer passive consumers of electricity. They are becoming active participants in energy generation, storage, and grid management through behind-the-meter infrastructure. This is being driven by the explosive rise of AI and a manufacturing renaissance. Power demand is growing again, increasing an average of 2.1 percent annually over the past five years, with datacenters emerging as a dominant driver of long-term growth. Electric Power Research Institute projects that datacenters could consume as much as 17 percent of U.S. electricity by 2030 , more than triple their current 4-5 percent share. This massive spike in demand is clashing directly with a severely constrained power grid. Key regional utility transmission organizations are expected to face critical reserve shortfalls as early as 2028. At the end of 2025, more than 2,060 GW of new generation and storage capacity was represented by projects actively seeking interconnection to the U.S. grid. For the projects that successfully reached commercial operation, the process took a median of more than five years from request to completion. To keep building at the speed of innovation, datacenter operators are fundamentally rethinking their relationship with power , shifting from being passive grid consumers to active, localized energy producers. Grid capacity is no longer the ceiling. Instead, the next chapter of digital infrastructure will be written behind the meter. Behind-the-meter (BTM) refers to energy assets located on the customer side of the utility connection, including battery systems, microgrids, generators, fuel cells, and distributed energy resources that can operate independently of grid constraints. The Role of Battery Energy Storage Systems (BESS) While every datacenter developer faces grid constraints, the industry’s two dominant business models are adopting distinctly different strategies to bypass the power bottleneck. Hyperscale Operators Hyperscale operators (tech giants like Amazon, Google, and Microsoft) utilize their massive balance sheets to secure gigawatt-scale capacity directly. Rather than acting as passive grid customers, hyperscalers are taking direct, active control of their energy supply chains. They negotiate custom, state-level tariffs directly with utilities, co-locate facilities next to large nuclear or baseload assets, and sign massive off-site Power Purchase Agreements (PPAs). Increasingly, hyperscalers are also deploying large-scale, on-site Battery Energy Storage Systems (BESS) to bypass grid delays and accelerate their projects. Many are also turning to behind-the-meter natural gas generation to provide additional power on-site. With larger, hundreds-of-megawatts turbines facing long backlogs, some operators are instead deploying multiple smaller, roughly 50 MW turbines in parallel, either on-</description>
+<enclosure url="https://image.theregister.com/?imageId=5307530&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5307530&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>TRMNL Frame is a $1300 full-color e-paper display that looks like real art</title>
+<link>https://www.engadget.com/2318822/trmnl-frame-is-a-full-color-e-paper-display-that-looks-like-real-art</link>
+<guid isPermaLink="false">fd6b4d32f40643946133bcd6cacf776dccf8e7d16616dde3c658606caf49c280</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 08:16:36 +0000</pubDate>
+<description>TRMNL, the company known for e-paper frames and kits, just launched its biggest and most colorful product yet.</description>
+<enclosure url="https://www.engadget.com/img/gallery/trmnl-frame-is-a-1300-full-color-e-paper-display-that-looks-like-real-art/l-intro-1794903362.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/trmnl-frame-is-a-1300-full-color-e-paper-display-that-looks-like-real-art/l-intro-1794903362.jpg" medium="image"/>
+</item>
+<item>
+<title>Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market</title>
+<link>https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market</link>
+<guid isPermaLink="false">486b2a94b343347478a4e5b0845a07cbdc57a8ae56948187b32d536c12d78bf0</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 07:00:07 +0000</pubDate>
+<description>New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros can struggle to be taken seriously by the capital’s luxury property agents. “We worked with a young tech entrepreneur with a substantial budget, who agents assumed was looking to rent a one-bedroom flat,” says Jo Eccles, a buying agent who sources off-market properties for ultra-wealthy clients. But this week’s float by Anthropic, the AI developer behind the chatbot Claude, promises to bring even more credibility for the growing cohort of tech millionaires, which could breathe life into London’s ailing high-end property market . Its IPO on Thursday, expected to value the company at $1.4tn (£1.1tn), is likely to turn more than 4,000 of its staff into millionaires as their stock options vest. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/c213f20f82c61fd3ee1039ccda6aee6e28596124/135_0_3648_2919/master/3648.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1afcc01a5e85f0cc22dc62e7a22f5454" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/c213f20f82c61fd3ee1039ccda6aee6e28596124/135_0_3648_2919/master/3648.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1afcc01a5e85f0cc22dc62e7a22f5454" medium="image"/>
+</item>
+<item>
 <title>Apple adds new disk controls to prevent AI agents from running amok</title>
 <link>https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok</link>
 <guid isPermaLink="false">20b32bc10151119b849e51a7ce8e97846f3d8bad4d2a52d17097cd1b9ceb1340</guid>
@@ -213,6 +246,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/184084_bk_press_still_1.579.1.jpg?quality=90&amp;strip=all&amp;crop=10.051873779297,10.653583930772,89.948126220703,89.346416069228" medium="image"/>
 </item>
 <item>
+<title>California sues OpenAI over safety concerns after rogue agent hacking</title>
+<link>https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit</link>
+<guid isPermaLink="false">e0654a6708a19ae858746ee625afc663f288cf60e7ab7a5a024e6cfef6043da6</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 21:41:10 +0000</pubDate>
+<description>The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public’s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents – semi-autonomous AI software that can carry out digital actions on behalf of users – launched a cyber-attack into the open-source AI platform Hugging Face. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/a82ee4985c0d264e0ee6c830a014ad1e4ab73ec0/1050_51_3174_2541/master/3174.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edb532145d53c72acb270b5f38901683" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/a82ee4985c0d264e0ee6c830a014ad1e4ab73ec0/1050_51_3174_2541/master/3174.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edb532145d53c72acb270b5f38901683" medium="image"/>
+</item>
+<item>
 <title>The iPhone Duo gets face unlock with the latest iOS 27 beta.</title>
 <link>https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta</link>
 <guid isPermaLink="false">288de4854b95a32bf87e4d8d8254033ce46d458aef03e7bd04017cc1424c1770</guid>
@@ -244,6 +288,17 @@
 <description>Microsoft debuted the Xbox in 2001, and there's quite a lot to look back on from the quarter-century since the company got into gaming.</description>
 <enclosure url="https://www.engadget.com/img/gallery/every-xbox-console-generation-sorted-by-release-date/l-intro-1794499952.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/every-xbox-console-generation-sorted-by-release-date/l-intro-1794499952.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft identifies months-old bug as a root cause of global outage</title>
+<link>https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause</link>
+<guid isPermaLink="false">102bc023cad4d7f5094a62790899933a0ec10508d147749cb419e43bf0f1b390</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 20:54:40 +0000</pubDate>
+<description>Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacity Microsoft has identified the root causes of the global outage that crippled Outlook, Exchange and a host of other vital office software last week. The office software giant issued an initial report on Monday that identified three factors that led to the 24-hour blackout of its services: a months-old bug, malfunctioning internal connections , and server capacity. Each of these factors may have easily been resolved on their own, but, when taken together, they led to a major outage that was harder to mitigate, Microsoft executives said. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/333_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85c03cafd02e7db5d40f8a7b88a0e0a4" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/333_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85c03cafd02e7db5d40f8a7b88a0e0a4" medium="image"/>
 </item>
 <item>
 <title>Hyperscale data centers use 2% of US electricity</title>
@@ -343,6 +398,17 @@
 <description>AT&amp;T on Friday accused Comcast of false advertising in a lawsuit challenging the marketing claim that Comcast's cable broadband service and Wi-Fi is "fiber-powered." "This case challenges Comcast’s false advertising campaign for its residential Internet service, marketed under the Xfinity brand to consumers nationwide," AT&amp;T's lawsuit said. "At the center of that campaign is Comcast’s claim that Xfinity Internet and its associated Wi-Fi service are 'Fiber-Powered.'" While Comcast has deployed plenty of fiber throughout the US, its cable Internet service makes the final connection to homes with coaxial cable. This results in upload speeds being far slower than download speeds. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Ministers to end Palantir’s contract with NHS in England in 2029</title>
+<link>https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029</link>
+<guid isPermaLink="false">671400f2e5ab88e2595da785110b79ca41586e0dc31785c567b5cff1faf0ae9a</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 19:59:31 +0000</pubDate>
+<description>DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace it Ministers will end the NHS’s contract with the controversial tech firm Palantir – but not until 2029, to allow time to line up British companies to replace it. The Department of Health and Social Care (DHSC) has decided to extend Palantir’s contract to provide the federated data platform (FDP) – the software that links different healthcare providers – for two more years rather than exercise a break clause that would have let them axe it next spring. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90b00d99c5f668e22df0929eb12a9dee" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90b00d99c5f668e22df0929eb12a9dee" medium="image"/>
 </item>
 <item>
 <title>Supreme Court keeps injunction against DEI grant defunding in place</title>
@@ -618,17 +684,6 @@
 <description>LearnWorlds, a software and learning course platform, says an attacker sent 13,000 phishing emails to customers over seven days by using automated tools to open free trial accounts. The company insists its systems were not breached. Panos Siozos, Co-founder and CEO at LearnWorlds, said the miscreant created around 570 free trial accounts on the platform between November 7-14, which they used to issue fake copyright infringement notices to customers. "We have found no evidence of unauthorized access to existing customer schools or personal data held for our customers and their end users," he told The Register . According to Siozos, the attacker bypassed the platform's per-customer limit on trial subscriptions and exploited its welcome email feature to send the phishing emails. "In each trial they added their own list of target addresses and rewrote the standard welcome email as a fake copyright notice," he said. "Adding those users triggered the welcome email from our sending address." The first email was sent on November 7, after which the company detected the suspicious signups and blocked the first sender on November 9, although the attacker returned to send a second wave of emails within 40 minutes. LearnWorlds removed all the trial accounts by November 10 and one paid account, which was used to launch more emails, on November 14. "In total, around 13,000 emails were sent to addresses on external recipient lists supplied by the sender," said Siozos. "The trial accounts sent 9,853 between November 7-9, and the paid account sent 3,723 on November 14. "We can’t tell how many people clicked, because the link was disguised to hide clicks. The recipient addresses were the sender’s own list." The CEO confirmed that LearnWorlds has since enhanced its bot checks and is placing holds on new accounts if their emails trigger fraud flags. "We have also examined the novel patterns the attackers used to create more advanced scoring mechanisms. We have reported the phishing website so it can be taken down. Further measures are currently being examined. "Anyone who signed in on the fake page should change their Google password and review their account’s recent security activity." The company's confirmation follows suspicions of foul play aired by users on social media. User reports included copies of the emails they received, which demanded urgent responses to fake copyright infringement claims related to YouTube content. Among the more prominent recipients of the copyright infringement email notices was Marcus Hutchins, of WannaCry fame , who claimed he received an email from the company’s official mail server. The email, a copy of which Hutchins posted to X , referenced general intellectual property and copyright infringements but failed to specify any specific issues. The email prompted the recipient to click a YouTube link to see the “supporting documentation submitted by LearnWorks.” The link predictably turned out to be a YouTube redirect link, taking re</description>
 <enclosure url="https://image.theregister.com/?imageId=262937&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=262937&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Google adds 66 regional dialects to Gemini</title>
-<link>https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini</link>
-<guid isPermaLink="false">e6ab3fe5c0f7e7bae35a47239ba22e70c5b821da8c1f3c9abda1d1b82fd8ee45</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-<description>From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate.</description>
-<enclosure url="https://www.engadget.com/img/gallery/google-adds-66-regional-dialects-to-gemini/l-intro-1794828173.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/google-adds-66-regional-dialects-to-gemini/l-intro-1794828173.jpg" medium="image"/>
 </item>
 <item>
 <title>US now "comfortable" with children dying of measles as death toll hits 10</title>
@@ -1060,17 +1115,6 @@
 <media:content url="https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de89b49e846011d0ae2daf5bbb4faa0f" medium="image"/>
 </item>
 <item>
-<title>Italy fines Meta $887m for accessing Android users’ photos and videos</title>
-<link>https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos</link>
-<guid isPermaLink="false">c17e415c19c6cbb634ab625641fd0e14001a070b16b4ba7f9d8d48e93f076661</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 02:02:01 +0000</pubDate>
-<description>The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decision Italy’s data protection agency has fined Facebook parent company Meta €805m ($887m) for accessing users’ photos without their specific consent. Through the Facebook application for Android devices, Meta accessed photographs, videos and related metadata belonging to Italian users “without obtaining specific consent and without properly informing them”, the authority said in a statement. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9deec6720c02498442264c683373715e" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9deec6720c02498442264c683373715e" medium="image"/>
-</item>
-<item>
 <title>SpaceX returned its Starship rocket on Saturday—but there's a catch</title>
 <link>https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world</link>
 <guid isPermaLink="false">77dd8cb90d44dd9e72646d0078942e8f4ea7dd3b5a2109d7e5cc5d88beacd253</guid>
@@ -1113,17 +1157,6 @@
 <description>More than 500 vineyards are scattered across the slopes and valleys of South Africa’s Western Cape , one of the world’s most biologically diverse landscapes. The region produces about 90 percent of South Africa’s wine , but winemakers there are increasingly struggling with drought, excessive heat and erratic rainfall. Temperatures in the region have risen 1.5 to 2 times faster than the global average over the past five decades. And extreme storms have become more intense as climate variability increases. The late 2010s brought a significant challenge for winemakers, as three years of severe drought placed vineyards under intense stress and reduced grape production. As climate variability places increasing pressure on grape production, many wine producers are building on sustainability measures that have long been part of vineyard management. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft says services fully restored after global outage hits governments</title>
-<link>https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage</link>
-<guid isPermaLink="false">ba94a2c3f1ae1f4f008acc6b77824aebda11294e6e1a6aaa957096b2bf6afd17</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 11:54:31 +0000</pubDate>
-<description>Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that resulted in widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT failures in years. On its Microsoft 365 status page, the US-based firm said: “We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db97224a43be50e04df1fd8f3b508e10" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db97224a43be50e04df1fd8f3b508e10" medium="image"/>
 </item>
 <item>
 <title>Microsoft's school email bill gives rivals something to smile about</title>
@@ -1302,17 +1335,6 @@
 <media:content url="https://image.theregister.com/?imageId=5309819&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme</title>
-<link>https://www.theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia</link>
-<guid isPermaLink="false">bae18bea92e3af539137485f1a581a66f63646dd55a83eb46c098c7b93f9c8be</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 14:17:09 +0000</pubDate>
-<description>Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief’s signature look is now being mocked as a midlife crisis cliche For nearly two decades a black leather jacket has been a key part of Jensen Huang’s look. Now it has become a punchline. As the founder and chief executive of Nvidia resigned this week after reports of multiple affairs, his affinity for a leather jacket, an item of clothing typically associated with a man in midlife crisis mode, has become widely mocked. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/ceb8d0c2e30a973c8dfa3940f4e5216c833fc9b5/0_577_4069_3255/master/4069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f63e9605e29b54549e85f136d04f1f6" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ceb8d0c2e30a973c8dfa3940f4e5216c833fc9b5/0_577_4069_3255/master/4069.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f63e9605e29b54549e85f136d04f1f6" medium="image"/>
-</item>
-<item>
 <title>Oh my Word! Microsoft retires compatibility options, because who needs layouts to stay put</title>
 <link>https://www.theregister.com/applications/2026/11/13/oh-my-word-microsoft-retires-compatibility-options-because-who-needs-layouts-to-stay-put/5309664</link>
 <guid isPermaLink="false">87c217961cb9c7f36ac1f9c43e6244d863c341f2600c845b7c12900e77de4703</guid>
@@ -1355,28 +1377,6 @@
 <description>Look, off in the ether – is it a bird, is it a plane? No, it's a stupid idea, on final approach... And look, the Boss has his office door open! C L E A R A N C E T O L A N D ! ... The Boss has wandered into Mission Control with something obviously on his mind. Over time, the PFY and I have learned to equate these thoughtful moments with the BAG FULL lamp of a commercial vacuum cleaner at a waxing salon. Do not open. His presence in Mission Control is never a good sign, but his "thoughtful" presence, even more so. He'll have seen something, read something, spoken to someone, or possibly overheard something in a toilet stall that will have sounded – to him – like a great idea. Or it might have been a cheddar-frenzy-induced fever dream that he wants to run by us. And the Boss's crazy ideas are, unfortunately, like bran flakes to his mental digestion, the output of which being delivered to the PFY and myself as a veritable slurry of poorly considered ideas. "AI," he says, pausing for effect, once he's rolled to a stop. He then waits patiently for one of us to ask "What about AI?" However, that will never happen. In terms of stupidity, it's up there with saying Candyman into a mirror five times, power washing a gremlin, or visiting a basement when Jason's in town. ... "For the security system," the Boss teases. I continue my intense focus on my monitors, hoping the lunacy will depart. The PFY does the same. The PFY and I know that the only way out of this is to stall till the end of the day, at which time the Boss's overnight reset will trigger, leaving him only a vague memory of having had a good idea. &gt;clickety&lt; &gt;tap&lt; "Uh-oh," I say, reaching into my drawer for my crashtop. "It looks like one of the distribution switches on 4 has crashed." &gt;tappity&lt; "And not just 4 – it looks like the boardroom has gone down too." "It could be a virus," I say, using words I know the Boss will respond to. "A virus?!" the Boss gasps. "I don't know. It's too soon to tell," I say, departing. ... So now I'm hiding in a cramped comms room on the fourth floor while I plug the crashtop into the CCTV VLAN so I can check on the Boss's location. Luckily, we upgraded the system to an AI-integrated platform, so I only need to type IDIOT into the search field to find him. Sure enough, he's back in his office, typing away furiously, which can only mean there's a memo on its way. And if there's a memo, there's a path to reminding him of his dumb idea tomorrow... &gt;tappity&lt; &gt;tap&lt; &gt;tap&lt; &gt;clickety&lt; On the screen, the Boss looks around anxiously as his laptop fires up DBAN in full confirm mode. He then reaches for a sheet of paper and starts scribbling furiously. &gt;tappity&lt; &gt;tap&lt; The office lights switch off as the BMS system clock suddenly finds out that it's midnight. On the screen, the Boss's phone torch comes on and he resumes scribbling. &gt;bip&lt; &gt;bip&lt; &gt;bip&lt; &gt;biiiiiiip&lt; &gt;ring&lt; "Hello?" the Boss asks, with a hint of feedback. "It's the virus!" I gasp. "It's coming from inside the buildi</description>
 <enclosure url="https://image.theregister.com/?imageId=224487&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=224487&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year</title>
-<link>https://www.theregister.com/security/2026/11/13/crackdown-on-uk-medical-record-snooping-after-staff-reported-sneaking-300-times-this-year/5309421</link>
-<guid isPermaLink="false">ebb4fd5ede1831af25d1b8edd47aa8c5daf1d0e873db8fc8383ce5f5a800ca99</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 11:02:00 +0000</pubDate>
-<description>Britain's privacy watchdog has put healthcare bosses on notice after receiving more than 300 reports of staff snooping through medical records this year, demanding that executives personally confirm they're doing enough to keep prying eyes out of patient files. The Information Commissioner's Office (ICO) said on Thursday that it had written to more than 200 senior health leaders across the UK, warning that employees accessing records without good reason put patient privacy and public trust at risk. The ICO received and assessed more than 300 reports of medical record snooping between January and mid-October 2026. Staff were caught looking up people they knew, poking around patient files out of sheer curiosity, and sharing private information with people who had no business seeing it. The figure covers reports submitted by healthcare organizations rather than confirmed breaches, and excludes cases still awaiting assessment. ICO chief executive Paul Arnold wants health bosses to personally assure him that their organizations have safeguards in place to stop staff having a nose through records they aren't supposed to see. "Accessing someone's health records without a legitimate reason isn't harmless curiosity. It can cause enormous distress to patients and jeopardize the vital trust people place in our health service," Arnold said. In a three-page letter to chief executives, Arnold makes clear that simply trusting staff to behave themselves won't cut it. He wants to know who can access patient records, whether anyone is checking what they're looking at, and what happens when somebody gets caught snooping. Health bosses are also expected to investigate suspected breaches without dragging their feet, work out whether patients need to be told, and take action against staff caught accessing records they shouldn't. Executives have until November 27 to respond. Those who haven't reviewed their safeguards in the past six months, or aren't happy with what they find, have been given another three months to put their house in order. The problem isn't necessarily that healthcare workers are hacking into systems, as many already have legitimate access to patient records as part of their jobs. The trouble starts when they use that access to look up someone they're not treating, whether it's a neighbor, an ex-partner, or somebody whose name has appeared in the news. This isn't the first time health authorities have tried to stamp out the problem. In July, NHS England warned employees that accessing records without a legitimate reason could cost them their jobs or even land them in prison. That crackdown followed incidents involving staff accessing the medical records of victims of high-profile crimes, including the Nottingham attacks. NHS England also published guidance encouraging organizations to use access controls and audit systems to catch employees poking around where they shouldn't. Some newer electronic patient record systems can even flag suspicious acce</description>
-<enclosure url="https://image.theregister.com/?imageId=5276624&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5276624&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times</title>
-<link>https://www.theguardian.com/technology/ng-interactive/2026/nov/13/cybertruck-maga-hat-on-wheels-end</link>
-<guid isPermaLink="false">dee2f2534f2d86201e71d04c24091d3a0362a0f59ddd6eebab019099d2b3bea3</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 11:00:17 +0000</pubDate>
-<description>Eccentric and overhyped, Tesla’s Cybertruck became a stand-in for Elon Musk during his ascent in the Republican party. It will join the ranks of other vehicles symbolic of their eras – for better or for worse Three days after a historic blue tsunami changed America’s political landscape, Elon Musk announced Tesla would end production of its hulking Cybertruck next year. Was it a coincidence? Maybe. Musk said the move was “to make room for increased Cybercab production”, referring to Tesla’s Robotaxi. But the combined circumstances felt highly appropriate: it was the end of an era. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/97cc90b0a69f0679476b1cbbe7720f9d590ea754/232_406_2528_2020/master/2528.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f40792f5865b8fac34fb5137c7d0d38" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/97cc90b0a69f0679476b1cbbe7720f9d590ea754/232_406_2528_2020/master/2528.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f40792f5865b8fac34fb5137c7d0d38" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley</title>

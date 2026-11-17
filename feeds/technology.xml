@@ -4,13 +4,101 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Yet another satellite company is jockeying for a rocket—but this one makes sense</title>
+<link>https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense</link>
+<guid isPermaLink="false">d85dd6f4fcb53fdb06f470780ffd5843ca75118a6ebf1aeb5ec8610404fbdb46</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 22:44:46 +0000</pubDate>
+<description>Finnish satellite developer ICEYE announced Tuesday that it is seeking to buy Italian rocket-maker Avio for more than $2.2 billion in a transaction aimed at creating Europe's first true vertically integrated end-to-end space company. The announcement came as an all-cash voluntary tender offer from an Italian subsidiary of ICEYE to Avio's shareholders, led by the Italian defense conglomerate Leonardo. Avio said its board of directors "has taken note of the notice" from ICEYE and is considering the purchase offer. Avio builds the Vega C rocket, a solid-fueled launcher designed to carry up to 3.3 metric tons (7,300 pounds) of payload to low-Earth orbit. The Vega C has flown successfully seven times in eight attempts since 2022. It is a follow-on to an earlier version of the Vega rocket that amassed a 20-for-22 record since debuting in 2012. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond</title>
+<link>https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon</link>
+<guid isPermaLink="false">3f70c47179d4906e22bd34ce60767d0ed8213aff1d4c8ea96e9a2a066b33d47b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 22:38:41 +0000</pubDate>
+<description>Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor 's Silicon Valley and the World conference today, Bezos said that he was "heavily involved" in the process of casting the newest 007: We ran a really tight process and we made the final decision on Friday. There was a big group initially, and we down-selected to five finalists. Then we did real old-fashioned screen tests of those five finalists, and it … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Read everything that Nvidia’s board chair had to say about Jensen Huang</title>
+<link>https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang</link>
+<guid isPermaLink="false">7d49330be50c2808c730f569f50e63e8e46f332ae0cd17bf87f9c8a0fa4d1714</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 22:32:50 +0000</pubDate>
+<description>Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice Huang and one with a direct report, Kimberly Powell. Nvidia is investigating whether Huang's relationship with the former compromised national security or company secrets. Huang will also testify before lawmakers on December 1st. Ahead of Tuesday's earnings, Huang said he would be willing to … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Hundreds of websites deliver potent malware cocktail to unsuspecting visitors</title>
+<link>https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites</link>
+<guid isPermaLink="false">3c0546d9c3f02528491fe8c41a669ad21f87c8875fa5f2cf31a2221b73028d20</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 22:32:16 +0000</pubDate>
+<description>Hundreds of websites using the Optimizely website personalization platform served unsuspecting visitors a potent malware cocktail that targeted cryptocurrency wallets, stole payment card data, cookies, and screenshots, and delivered exploit kits for infecting iPhones and iPads, researchers said Tuesday. ReportURI said it identified 178 websites—including CNN, Zoom, the BBC, and Salesforce—that were affected. JavaScript digitally signed by Optimizely and then loaded into customer pages had been modified to include malicious components that attempted to infect visitor devices with multiple payloads. When wares were installed successfully, they swapped user cryptocurrency wallet addresses for the attackers. Other components skimmed payment cards, stole cookies and screenshots, and, on iPhones and iPads, delivered iOS exploit kits known as Coruna and DarkSword. Optimizely infrastructure delivers multipurpose malware Optimizely serves JavaScript “snippets” that include both company code and code that is provided by each customer. The JavaScript, which can be served directly from Optimizely or from a customer endpoint, runs on every page the customer serves. Somehow, the attackers wrote their own code into a portion of each affected customer’s JavaScript and then delivered it from cdn.optimizely.com. A valid certificate for that domain signed the JavaScript. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair</title>
+<link>https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub</link>
+<guid isPermaLink="false">8853153d94a7908fd03c6d24c3d6aae2c57839ed9e1a2dd6f82d32d1aaf7ca6b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 22:25:41 +0000</pubDate>
+<description>After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the HomeView apart iFixit's skilled techs had "ripped a connector, snapped a speaker in two, and put more force on the poor logic board than any of us were comfortable with." The tablet section of the HomeView proved to be the bigger challenge to disassemble as a result of some questionable decisions with Apple's design. The … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>NVIDIA's board chair says the company is not considering reinstating Jensen Huang as CEO</title>
+<link>https://www.engadget.com/2319982/nvidias-board-chair-says-the-company-is-not-considering-reinstating-jensen-huang-as-ceo</link>
+<guid isPermaLink="false">0f18c4ebd19de1222ee59d06ecbb4391111f53a1c391a7aa3cb33a56dc9ceec4</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 22:21:27 +0000</pubDate>
+<description>NVIDIA's board chair said it doesn't want Jensen Huang back in the CEO role during the company's first earnings call since his resignation.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nvidias-board-chair-says-the-company-is-not-considering-reinstating-jensen-huang-as-ceo/l-intro-1794953952.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nvidias-board-chair-says-the-company-is-not-considering-reinstating-jensen-huang-as-ceo/l-intro-1794953952.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia says it does not intend to reinstate Jensen Huang as CEO</title>
+<link>https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo</link>
+<guid isPermaLink="false">7082e39b2939fcd7ec2513ab93e4237bf2cf9e9c9d08c3981381aeab219c499f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 22:05:05 +0000</pubDate>
+<description>Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, "the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO." Jones added, "We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation and the ongoing investigation." Huang had publicly floated the idea of returning earlier on Tuesday. In a statement posted to X , he wrote that he "did not live up to the standards expected of everyone" at the company, that he regretted his mistakes, and that he would cooperate with … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'</title>
+<link>https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety</link>
+<guid isPermaLink="false">fd4445c85f9cf108fa2f9d68f0a4ad4234d82c00a06bb13a9192c125cf3cceb9</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 21:57:49 +0000</pubDate>
+<description>Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic.</description>
+<enclosure url="https://www.engadget.com/img/gallery/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/l-intro-1794952210.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/l-intro-1794952210.jpg" medium="image"/>
+</item>
+<item>
 <title>The MacBook Neo is receiving a rare $50 discount ahead of Black Friday</title>
 <link>https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale</link>
 <guid isPermaLink="false">0b8d021f35916d5118e3596cdd88a818615be2ae826768f586e7aa34deda21a9</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 17 Nov 2026 21:46:20 +0000</pubDate>
-<description>This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge If you’re looking for a new laptop, or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is discounted to $649 ( Amazon , Best Buy , Target ), while the 512GB model with Touch ID is $749 ( Amazon , Best Buy , Target ). None of the retailers currently list an end date for the discount, which is the biggest price drop we’ve seen since Apple raised the MSRP by $100 in July . MacBook Neo Apple’s most affordable laptop, with a 13-inch display, A18 Pro chip, 8GB of RAM, and optional Touch ID fingerprint sensor. Read our review . Where to Buy: $799 $749 at Amazon (512GB) $699 $649 at Best Buy (256GB) $699 $649 at Amazon (256GB) Apple’s budget-friendly MacBook Neo leverages the A18 Pro processor, a chip originally found in the iPhone 16 Pro, to keep costs down. Both the 256GB and 512GB models feature 8GB of memory, and my colleague Antonio G. Di Benedetto was impressed with both the speakers and screen. It isn’t super performant, especially in terms of storage speed and total memory, but it’s great for everyday tasks, casual use, and students. Read our Apple MacBook Neo review .</description>
+<description>This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $649 ( Amazon , Best Buy , Target ), while the 512GB model with Touch ID is down to $749 ( Amazon , Best Buy , Target ). None of the retailers currently list an end date for the discount, which is the biggest price drop we’ve seen since Apple raised the laptop’s MSRP by $100 in July in response to the ongoing RAM crisis . MacBook Neo Where to Buy: $799 $749 at Amazon (512GB) $699 $649 at Best Buy (256GB) $699 $649 at Amazon (256GB) Apple’s budget-friendly MacBook leverages the A18 Pro processor, a chip originally found in the iPhone 16 Pro, to keep costs down. Both the 256GB and 512GB models feature 8GB of memory, and my colleague Antonio G. Di Benedetto was impressed by the vivid 13-inch screen and speakers, the latter of which are better than those in many cheap (and even midrange) Windows laptops. The Neo isn’t super performant, especially in terms of storage speed and total memory, but it’s great for everyday tasks, casual use, and students. Read our Apple MacBook Neo review .</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -32,7 +120,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 17 Nov 2026 21:40:59 +0000</pubDate>
-<description>Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure , or possible attempt at a return . That will likely change once analysts are on the line for its earnings call in a few minutes. As it predicted in the last financial update , Nvidia is now on the list of companies that have pulled in over $100 billion in a single quarter, with revenues of $115.8 billion, up 103 percent from the same period last year and higher than its expectation of $108 billion. This quarter's figures include data center revenues of $107.6 billion, which wer … Read the full story at The Verge.</description>
+<description>Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure , or possible attempt at a return . On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board "does not intend to reinstate Huang as CEO," and that "we will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation and the ongoing investigation," before Kress started with her comments on the results. As it predicted in the last financial update , Nvidia is now on the list of com … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -54,7 +142,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Tue, 17 Nov 2026 21:15:42 +0000</pubDate>
-<description>No surprises here. Ex-Nvidia boss Jensen Huang says that he'd be willing to come back to the company he founded, if the board wants him to return. In Huang’s first public comments since his resignation last week over a series of extramarital affairs, both with Nvidia staff and an alleged Chinese spy at one of its customers, he admits that he may have made life hard for the company he spent 33 years building, but he’s really sorry…and Nvidia couldearn really use him. “I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life,” Huang admitted. “I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation.” But soft, what open letter through yonder news cycle break? It's one calling widely for Huang’s return – and he's happy to oblige if Nvidia’s post-Jensen crisis-mode leadership is willing to indulge him. “Since my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO,” Huang said. “Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics.” Nvidia, Huang added, has been his life’s work, and is a “once-in-a-generation company” that perhaps needs his steady hand at the helm. There have been a number of public calls for Huang’s return to the head of the company he helped create, from tech industry heavyweights and Nvidia shareholders like Elon Musk, Epic Games CEO Tim Sweeney, and Y Combinator CEO Garry Tan, as well as a number of current Nvidia employees, company partners, and shareholders upset that the stock has lost more than a quarter of its value since reports of the affair first emerged. One petition pleading for his return has nearly 200,000 signatures . Faced with that, what else can a disgraced billionaire tech founder who may have literally have been in bed with a Chinese spy do? Duty calls. “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO,” Huang said. Reports citing Nvidia insiders with knowledge of the matter suggest the board isn’t considering reinstating Huang as CEO despite the public push. We put the question to the company directly and haven't heard a peep back. The decision may ultimately come down to economics, though. Nvidia is due to report its third quarter earnings Tuesday after US markets close, and all eyes are on the numbers. “I believe Nvidia will likely beat on revenue again because demand for its chips is still enormous,” financial advisory firm deVere Group’s CEO Nigel Green said of his expectations for the company. “Nvidia’s business is still growing at an astonishing rate,” Green added. “Investors are selling because they don’t know who’ll be running it.” “</description>
+<description>No surprises here. Ex-Nvidia boss Jensen Huang says that he'd be willing to come back to the company he founded, if the board wants him to return. In Huang’s first public comments since his resignation last week over a series of extramarital affairs, both with Nvidia staff and an alleged Chinese spy at one of its customers, he admits that he may have made life hard for the company he spent 33 years building, but he’s really sorry…and Nvidia couldearn really use him. “I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life,” Huang admitted. “I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation.” But soft, what open letter through yonder news cycle break? It's one calling widely for Huang’s return – and he's happy to oblige if Nvidia’s post-Jensen crisis-mode leadership is willing to indulge him. “Since my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO,” Huang said. “Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics.” Nvidia, Huang added, has been his life’s work, and is a “once-in-a-generation company” that perhaps needs his steady hand at the helm. There have been a number of public calls for Huang’s return to the head of the company he helped create, from tech industry heavyweights and Nvidia shareholders like Elon Musk, Epic Games CEO Tim Sweeney, and Y Combinator CEO Garry Tan, as well as a number of current Nvidia employees, company partners, and shareholders upset that the stock has lost more than a quarter of its value since reports of the affair first emerged. One petition pleading for his return has nearly 200,000 signatures . Faced with that, what else can a disgraced billionaire tech founder who may have literally have been in bed with a Chinese spy do? Duty calls. “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO,” Huang said. Reports citing Nvidia insiders with knowledge of the matter suggest the board isn’t considering reinstating Huang as CEO despite the public push. On the company's third-quarter earnings call late Tuesday, new board chairman Harvey Jones said that Huang's behavior was "Inconsistent with the company’s code of conduct, standards and cultural norms” and that the board "does not expect to reinstate him as CEO," putting a seeming end to the question. Huang out to dry The US Department of Justice made the rare point of commenting on one of the pillars of the Jensen Huang story on Tuesday when it confirmed that it’s investigating Megaspeed, the Singaporean company formerly helmed by Alice Huang (no relation to Jensen), the alleged Chinese</description>
 <enclosure url="https://image.theregister.com/?imageId=222354&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=222354&amp;width=800" medium="image"/>
 </item>
@@ -147,28 +235,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/01/civ7-graphics-1-1152x648-1738360684.jpg" medium="image"/>
 </item>
 <item>
-<title>Framework’s better couch keyboard is now available for preorder</title>
-<link>https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open</link>
-<guid isPermaLink="false">84fed3ccbd810835ea9f63555e09f5d708c7580007dabd3a2d43225be221ace1</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 19:38:42 +0000</pubDate>
-<description>Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400 . According to The Verge 's Sean Hollister who went hands-on with Framework's new all-in-one keyboard and touchpad last April, the company has succeeded in that goal, but it turns out you'll be paying a bit more for Framework's than Logitech's. While the K400 couch keyboard is $35, the Framework Wireless Touchpad Keyboard is $99 with a $50 fully refundable deposit required to preorder one starting today . That makes it nearly three times more expensive than Logitech's, but Framework's upg … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/framework1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/framework1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>California just banned Waymo from all state freeways</title>
-<link>https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety</link>
-<guid isPermaLink="false">9e54fdd9e48f441ce9dd451a6333739638460b6d92234d5cda51a12c5a6a595e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 19:38:05 +0000</pubDate>
-<description>California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th after two recent high-profile Bay Area incidents, in which Waymo robotaxis drove into an active construction closure on US-101 near Burlingame , and a separate run-in involving California Highway Patrol vehicles on Highway 280 in San Francisco. In its statement, the DMV explicitly labeled Waymo's freeway operations as an "imminent hazard to public safety," noting that this isn't an isolated glitch. Waymo ha … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25211546/Waymo_One_I_PACE_on_Freeway_.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25211546/Waymo_One_I_PACE_on_Freeway_.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Google Wallet is launching on iOS</title>
 <link>https://www.engadget.com/2319673/google-wallet-is-launching-on-ios</link>
 <guid isPermaLink="false">649fb85c774271d6237b6c362ce2fafd45907b7a28c258f0185f297a22507153</guid>
@@ -202,17 +268,6 @@
 <media:content url="https://www.engadget.com/img/gallery/can-you-use-a-keyboard-and-mouse-with-an-xbox-series-x/l-intro-1794505611.jpg" medium="image"/>
 </item>
 <item>
-<title>JBL’s headphones that are great for in-flight entertainment are 67 percent off</title>
-<link>https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026</link>
-<guid isPermaLink="false">eb129a00d755ed24f15b6ad953b020eae590b05a18170641112754473d631e27</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 19:19:10 +0000</pubDate>
-<description>If you’re looking to upgrade your headphones before the big wave of Black Friday deals arrives, you can buy JBL’s Tour One M3 for a new low price of $149 ($300 off) at Amazon , Best Buy , and directly from JBL . The deal is so good that my colleague John Higgins , The Verge’s audio and TV reviewer, popped in on his day off to tell us just how much of a steal they are at this price. JBL Tour One M3 Where to Buy: $449.95 $149.95 at Amazon $449.95 $149.95 at Best Buy $449.95 $149.95 at JBL JBL’s Tour One M3 stand out largely because they come with the Smart Tx wireless audio transmitter. Frequent fliers will likely appreciate the accessory, which plugs into a plane’s in-flight entertainment system via a 3.5mm cable, allowing you to listen to audio wirelessly. It also works with other devices that lack Bluetooth support but have a headphone jack. The small touchscreen-equipped transmitter also lets you easily adjust the headphones’ noise cancellation, EQ settings, and volume. It can be used to answer calls, too. Fancy tricks aside, the headphones get the essentials right. According to John, they offer excellent passive noise isolation, and their active noise cancellation is good enough to block out low-frequency sounds, like airplane engines. He also praises their overall sound quality, though he notes that JBL’s default tuning slightly affects midrange clarity, something you can easily fix by adjusting the EQ. They also support high-resolution lossless audio over the included USB-C or 3.5mm cable, plus spatial audio with head tracking. JBL says they can last up to 70 hours on a single charge with noise cancellation off — enough to get you through multiple long-haul flights — while the USB-C-chargeable transmitter offers up to 18 hours of battery life.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25819374/jbl2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25819374/jbl2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>What exactly are Flock cameras and how can you spot one?</title>
 <link>https://www.engadget.com/2315371/what-are-flock-cameras-how-to-spot</link>
 <guid isPermaLink="false">097e7d04dd9e2cf0e42401f8deeeccc3636fc41b22b1543ea22d47f49a082303</guid>
@@ -222,17 +277,6 @@
 <description>Flock cameras are showing up at intersections and neighborhood entrances. Learn what they are capable of and how to spot one before you drive past.</description>
 <enclosure url="https://www.engadget.com/img/gallery/what-exactly-are-flock-cameras-and-how-can-you-spot-one/l-intro-1794513671.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/what-exactly-are-flock-cameras-and-how-can-you-spot-one/l-intro-1794513671.jpg" medium="image"/>
-</item>
-<item>
-<title>Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free</title>
-<link>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</link>
-<guid isPermaLink="false">20774146b79ca781277a105572c7ebd3f94052d0578bca9a642449df858b6926</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 18:58:01 +0000</pubDate>
-<description>You can now switch from the “Chat” toggle to “Tasks.” | Image: Google Google is rebranding its Spark AI agent as "Tasks" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US will get access to a few other features, including the ability for the AI agent to call businesses to compare product pricing and check inventory, purchase items with Google Pay, and sign into accounts that support Google Password Manager. US users can also assign Gemini tasks by emailing gemini@google.com or texting it. Video: Google Google f … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>America's hyperscale bit barns draw as much power as entire states</title>
@@ -565,17 +609,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-unified-disney-and-hulu-app-is-set-to-arrive-in-december/l-intro-1794931146.jpg" medium="image"/>
 </item>
 <item>
-<title>How to sideload apps on iOS (even if you're in the US)</title>
-<link>https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states</link>
-<guid isPermaLink="false">3f12c8fa848fed737bccece4bfe9b2afe2d45c5683af81cf7f71c2bb2300e325</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 15:45:00 +0000</pubDate>
-<description>Learn how to sideload apps on your iPhone, even if you live in the US. Find the right tools to install iOS apps outside the App Store, no matter where you live.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-sideload-apps-on-ios-even-if-youre-in-the-us/l-intro-1794492847.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-sideload-apps-on-ios-even-if-youre-in-the-us/l-intro-1794492847.jpg" medium="image"/>
-</item>
-<item>
 <title>House Democrats promise a US return to global climate talks</title>
 <link>https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks</link>
 <guid isPermaLink="false">4ee86e25dae3399ffa4f585cef3bbeca3c21006ddc57c9289fc0106f463b49e7</guid>
@@ -629,17 +662,6 @@
 <description>Huang’s exit sharpens debate over US stance towards Beijing; and as outages increase, do you get the feeling nothing works? This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here . Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian, writing to you from a plane back from Web Summit in Lisbon. Today in tech, we’re discussing the implications of Jensen Huang’s ouster, and the recent spate of failures in critical infrastructure in everything from Microsoft Outlook accounts to air traffic control to copper wires in routers. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/411_0_3764_3013/master/3764.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aeb9cb48b26082e3c665aaa9581f7e0d" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/411_0_3764_3013/master/3764.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aeb9cb48b26082e3c665aaa9581f7e0d" medium="image"/>
-</item>
-<item>
-<title>The hidden features every Google Maps user should know about</title>
-<link>https://www.engadget.com/2315026/google-maps-hidden-features-users-should-know</link>
-<guid isPermaLink="false">9fe12a682d70641ba0b940338fd87e8c8f52a95a9b3eb883bb2bd1d1ed610c55</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 14:45:00 +0000</pubDate>
-<description>Discover these overlooked Google Maps features that help you plan your route and cut distractions so you can arrive at your destination on time.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-hidden-features-every-google-maps-user-should-know-about/l-intro-1794489159.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-hidden-features-every-google-maps-user-should-know-about/l-intro-1794489159.jpg" medium="image"/>
 </item>
 <item>
 <title>Website owners thumb their noses at EU privacy rules, researcher finds</title>
@@ -1049,17 +1071,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/63e6c0eb-8321-4e2c-a17a-50dd35f33946.jpg" medium="image"/>
 </item>
 <item>
-<title>US moves to cut China’s remote access to AI chips</title>
-<link>https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips</link>
-<guid isPermaLink="false">7f59634912f807d8784018b0798a34732227b6f9cfd6635d830a506057f579f8</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 19:10:09 +0000</pubDate>
-<description>On the heels of the Nvidia scandal , the Trump administration is preparing to crack down on foreign data centers that are fueling China’s advancements in artificial intelligence by allowing remote access to otherwise restricted high-end chips necessary for AI training. In a summary of the rule change, the Commerce Department said it was closing a loophole that previously allowed foreign rivals like China, Russia, and Iran to bypass export curbs on certain advanced computer chips by instead renting access to those chips from data centers in Indonesia, Malaysia, Singapore, Thailand, and Brazil. US rivals could possibly use that access to train and run advanced AI models “capable of supporting military- and intelligence-related activities that could threaten US national security or foreign policy interests,” the Commerce Department said. Among threats, the US fears rivals could use advanced AI to develop "more effective weapons of mass destruction and advanced conventional weapons, coordinated cyber-espionage and targeted cyber-disruption, algorithmic theft, and weaponized disinformation.” Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>China’s grip on Top500 remains uncontested as US chases AI-HPC fusion</title>
 <link>https://www.theregister.com/systems/2026/11/16/chinas-grip-on-top500-remains-uncontested-as-us-chases-ai-hpc-fusion/5310205</link>
 <guid isPermaLink="false">6b2fe66b5663ccaad2f68efda8447804ceddb52900b4751ae385c14e523ca54b</guid>
@@ -1146,17 +1157,6 @@
 <description>LearnWorlds, a software and learning course platform, says an attacker sent 13,000 phishing emails to YouTube creators over seven days by using automated tools to open free trial accounts. The company insists its systems were not breached. Panos Siozos, Co-founder and CEO at LearnWorlds, said the miscreant created around 570 free trial accounts on the platform between November 7-14, which they used to issue fake copyright infringement notices to recipients of their choosing. "We have found no evidence of unauthorized access to existing customer schools or personal data held for our customers and their end users," he told The Register . According to Siozos, the attacker bypassed the platform's per-customer limit on trial subscriptions and exploited its welcome email feature to send the phishing emails. "In each trial they added their own list of target addresses and rewrote the standard welcome email as a fake copyright notice," he said. "Adding those users triggered the welcome email from our sending address." The first email was sent on November 7, after which the company detected the suspicious signups and blocked the first sender on November 9, although the attacker returned to send a second wave of emails within 40 minutes. LearnWorlds removed all the trial accounts by November 10 and one paid account, which was used to launch more emails, on November 14. "In total, around 13,000 emails were sent to addresses on external recipient lists supplied by the sender," said Siozos. "The trial accounts sent 9,853 between November 7-9, and the paid account sent 3,723 on November 14. "We can’t tell how many people clicked, because the link was disguised to hide clicks. The recipient addresses were the sender’s own list." The CEO confirmed that LearnWorlds has since enhanced its bot checks and is placing holds on new accounts if their emails trigger fraud flags. "We have also examined the novel patterns the attackers used to create more advanced scoring mechanisms. We have reported the phishing website so it can be taken down. Further measures are currently being examined. "Anyone who signed in on the fake page should change their Google password and review their account’s recent security activity." The company's confirmation follows suspicions of foul play aired by users on social media. User reports included copies of the emails they received, which demanded urgent responses to fake copyright infringement claims related to YouTube content. Among the more prominent recipients of the copyright infringement email notices was Marcus Hutchins, of WannaCry fame , who claimed he received an email from the company’s official mail server. The email, a copy of which Hutchins posted to X , referenced general intellectual property and copyright infringements but failed to specify any specific issues. The email prompted the recipient to click a YouTube link to see the “supporting documentation submitted by LearnWorks.” The link predictably turned out to be a YouTub</description>
 <enclosure url="https://image.theregister.com/?imageId=262937&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=262937&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>US now "comfortable" with children dying of measles as death toll hits 10</title>
-<link>https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10</link>
-<guid isPermaLink="false">80ab19f8e0a426dcb3622afdd5310c01a3d1ce14131480faad4f3e60dc0cbdce</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 16:39:29 +0000</pubDate>
-<description>Health officials in Pennsylvania and Wisconsin announced two more measles deaths late last week, bringing the national tally of confirmed measles deaths this year to 10. The total includes the deaths of at least four infants: two in Pennsylvania , one in New York , and one in Wisconsin . Wisconsin health officials said the latest measles death—the second for the state—was in a child. Pennsylvania's health department did not reveal the age or other details of the latest death—the state's seventh—besides revealing it was of an unvaccinated resident in Montour County. Overall, the seven deaths in Pennsylvania include two in Jefferson County, three in Lancaster County, and one in Mifflin, in addition to the new death in Montour. An eighth death was reported in Franklin County , but state health officials have not confirmed it. For all the states with deaths so far, health officials have noted that they're the first deaths in decades. Multiple outbreaks are underway across the country, pushing the national tally of cases to nearly 5,500 across 47 states and jurisdictions, according to the Centers for Disease Control and Prevention. Pennsylvania's case count alone is over 1,500, and Wisconsin is reporting nearly 650. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)</title>

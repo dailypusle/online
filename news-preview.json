@@ -1,21 +1,75 @@
 {
   "top": [
     {
-      "title": "Chargers vs. Ravens live score updates: NFL latest as LA leads 17-10 at halftime in Baltimore",
-      "link": "https://www.nytimes.com/athletic/live-blogs/chargers-vs-ravens-live-score-updates-nfl-mnf-result/aQTu9bPlh0f1",
+      "title": "NBA season live updates: Latest from Suns-Nuggets after impressive wins by the Magic, Heat and Timberwolves",
+      "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
       "source": "The Athletic Sports",
-      "date": "2026-11-17T02:54:55Z",
-      "description": "Follow live coverage as the Week 10 finale pits the winless Los Angeles Chargers against the Baltimore Ravens.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/aQTu9bPlh0f1_imZAzsxQONjw_1440x960.jpg",
+      "date": "2026-11-17T03:58:12Z",
+      "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_Uz2hCjQN3NU2_1440x966.jpg",
       "category": "sports"
     },
     {
-      "title": "NBA season live updates: Latest from Rockets-Heat, Timberwolves-Trail Blazers and more",
-      "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
+      "title": "Chargers vs. Ravens live score updates: NFL latest as Derrick Henry TD closes gap, LA leads 23-20 in 4th quarter",
+      "link": "https://www.nytimes.com/athletic/live-blogs/chargers-vs-ravens-live-score-updates-nfl-mnf-result/aQTu9bPlh0f1",
       "source": "The Athletic Sports",
-      "date": "2026-11-17T02:54:42Z",
-      "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_8QvVswlKutDA_1440x960.jpg",
+      "date": "2026-11-17T03:57:58Z",
+      "description": "Follow live coverage as the Week 10 finale pits the winless Los Angeles Chargers against the Baltimore Ravens.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/aQTu9bPlh0f1_5j8unozt7Ozu_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Trezor customer data exposed in 3rd partner breach this year",
+      "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year",
+      "source": "Cointelegraph",
+      "date": "2026-11-17T03:46:22Z",
+      "description": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KSMV6VXD8X0C6CPDG5WCNC/trezor.jpg",
+      "category": "business"
+    },
+    {
+      "title": "Macron visits Malaysia as France seeks closer defence and rare earths ties",
+      "link": "https://www.france24.com/en/asia-pacific/20261117-macron-malaysia-france-defence-rare-earths-trade-energy",
+      "source": "France 24",
+      "date": "2026-11-17T03:40:31Z",
+      "description": "French President Emmanuel Macron will meet Malaysian Prime Minister Anwar Ibrahim in Kuala Lumpur on Tuesday to discuss strengthening defence, trade, energy and critical minerals co-operation. Macron's two-day visit, his first since 2017, comes ahead of the countries' 70th anniversary of diplomatic relations, with both sides seeking a strategic partnership.",
+      "image": "https://s.france24.com/media/display/7f1d673a-e1ec-11f1-9596-f71d22e7fea9/w:1024/p:16x9/7f6d81c95ab87a584e5082fe94983065fe1e7685.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Ranking college football's 7 open head-coaching jobs, from Florida State to UTEP",
+      "link": "https://www.nytimes.com/athletic/7731196/college-football-open-coaching-jobs-ranking",
+      "source": "The Athletic Sports",
+      "date": "2026-11-17T03:35:17Z",
+      "description": "UTEP fired coach Scotty Walden with two games left to play in his third season, taking over the bottom spot in our job rankings.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16114820/2026-09-13T030401Z_212685916_MT1USATODAY29808298_RTRMADP_3_UTEP-FOOTBALL-PLAYERS-TAKE-THE-FIELD-FOR-THE-FOOTBALL-HOME-scaled-e1794847737683.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Trump heads to Asia for historic nuclear talks with China and Russia",
+      "link": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
+      "source": "France 24",
+      "date": "2026-11-17T03:07:59Z",
+      "description": "US President Donald Trump headed to Asia on Monday for economic talks and a planned trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin on nuclear issues and the war in Ukraine. Trump also raised the possibility of meeting North Korean leader Kim Jong Un during his visit.",
+      "image": "https://s.france24.com/media/display/f3560fd6-e1e6-11f1-a0e9-29048b396e03/w:1024/p:16x9/AP26320545342836.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Elizabeth Debicki Says ‘Tenet’ Co-Star Robert Pattinson Will Be the ‘Perfect’ James Bond: ‘I’m So Thrilled’",
+      "link": "https://variety.com/2026/film/columns/elizabeth-debicki-tenet-co-star-robert-pattinson-james-bond-1236949754",
+      "source": "Variety",
+      "date": "2026-11-17T03:03:47Z",
+      "description": "Elizabeth Debicki is weighing in on her “Tenet” co-star Robert Pattinson becoming the next James Bond. “I’m so happy for Rob,” said Debicki at the Los Angeles premiere of “The Further Mis-Adventures of Cliff Booth.” When asked why Pattinson will make the perfect Bond, she responded: “He is an enigma himself. He’s beautiful, and he’s […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/17th-Governors-Awards-New-York-Special-Screening-of-The-Drama-1000.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "FanDuel exec says single Luis Ortiz pitch first triggered inquiry in pitch-rigging case",
+      "link": "https://www.nytimes.com/athletic/7788421/2026/11/16/luis-ortiz-pitch-rigging-fanduel-trial",
+      "source": "The Athletic Sports",
+      "date": "2026-11-17T03:03:00Z",
+      "description": "The testimony from Josh Mehta was the first evidence showing what likely triggered the investigation into the alleged pitch-rigging scheme.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/04202359/AP26306523677544-scaled-e1793841863595.jpg",
       "category": "sports"
     },
     {
@@ -37,13 +91,31 @@
       "category": "world"
     },
     {
-      "title": "Zendaya Says She Felt ‘Incredibly Nervous’ While Shooting ‘The Odyssey’ but Credits Tom Holland for Supporting Her: He Was ‘in the Corner Like, “You Got This”’",
+      "title": "Zendaya Felt ‘Incredibly Nervous’ While Shooting ‘The Odyssey’ but Credits Tom Holland for Supporting Her: He Was ‘in the Corner Like, “You Got This”’",
       "link": "https://variety.com/2026/film/news/zendaya-tom-holland-the-odyssey-1236949899",
       "source": "Variety",
       "date": "2026-11-17T02:31:53Z",
       "description": "Zendaya might be one of Gen Z’s definitive leading ladies, but even she was “incredibly nervous” while playing Athena in Christopher Nolan’s “The Odyssey.” “I felt overwhelmed, to say the least,” said the star during a recent Q&A held at Los Angeles’s Academy Museum of Motion Pictures. “It was interesting because I was on a […]",
       "image": "https://variety.com/wp-content/uploads/2026/06/GettyImages-2281239992.jpg",
       "category": "entertainment"
+    },
+    {
+      "title": "Telcos risk losing spectrum over failure to meet NCC deadline",
+      "link": "https://businessday.ng/technology/article/telcos-risk-losing-spectrum-over-failure-to-meet-ncc-deadline",
+      "source": "BusinessDay Nigeria",
+      "date": "2026-11-17T02:30:03Z",
+      "description": "The Nigerian Communications Commission (NCC) has given telecommunications operators until December 31, 2026, to demonstrate effective utilisation of their assigned read more Telcos risk losing spectrum over failure to meet NCC deadline",
+      "image": "https://cdn.businessday.ng/2023/08/NCC.png",
+      "category": "nigeria"
+    },
+    {
+      "title": "Why NGX is investing in other African stock exchanges",
+      "link": "https://businessday.ng/uncategorized/article/why-ngx-is-investing-in-other-african-stock-exchanges",
+      "source": "BusinessDay Nigeria",
+      "date": "2026-11-17T02:15:47Z",
+      "description": "The Nigerian Exchange Group (NGX Group) is looking beyond borders for its next phase of growth, with investments in Ethiopia read more Why NGX is investing in other African stock exchanges",
+      "image": "https://cdn.businessday.ng/wp-content/uploads/2025/02/NGX-Group-1.png",
+      "category": "nigeria"
     },
     {
       "title": "Abia approves ₦1.04bn for SMEs, reviews ASEPA workers’ pay",
@@ -62,6 +134,15 @@
       "description": "The USMNT job was the one Mauricio Pochettino needed two years ago, and it gave him the proper break and perspective for what's followed",
       "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16205324/AP26317578628143-scaled.jpg",
       "category": "sports"
+    },
+    {
+      "title": "After BusinessDay report, FG announces Apapa, Tin Can port upgrade groundbreaking",
+      "link": "https://businessday.ng/news/article/fg-announces-apapa-tin-can-port-upgrades-groundbreaking-after-businessday-story",
+      "source": "BusinessDay Nigeria",
+      "date": "2026-11-17T02:00:38Z",
+      "description": "The Federal Government has announced November 25 as the groundbreaking date for the long-awaited upgrade of Apapa and Tin Can read more After BusinessDay report, FG announces Apapa, Tin Can port upgrade groundbreaking",
+      "image": "https://cdn.businessday.ng/2021/02/Apapa-port-Terminal.jpg",
+      "category": "nigeria"
     },
     {
       "title": "Dry season farming: Shettima directs swift release of 3m fertiliser bags nationwide",
@@ -143,87 +224,6 @@
       "description": "By Vincent Ujumadu Governor Charles Soludo of Anambra State, on Sunday, cautioned politicians against turning churches and other places of worship into a political arena, stating that sacred spaces must remain neutral grounds for people of all political persuasions. Soludo made the remark during the 30th anniversary celebration of the Mountain of Holy Ghost Intervention and Deliverance Ministry founded by Prophet Chukwuemeka Ohanaemere, popularly known as Odumeje. Addressing the congregation, the governor stressed the need for the men of God to clearly separate politics from worship. According to Soludo, the place of worship should be a holy place where people of all political persuasion should come and worship God in peace. “It should not be a place for politics. There is a venue for politics. If you want to worship God, you have to go to the house of God. We must separate the two things clearly,” Soludo said. He recalled that six months before his election, he took a deliberate decision never to go to any church to cup a microphone to ask them to vote for him or to campaign. “It was a deliberate decision. I worshipped in the government house chapel until the election day and afterwards,” the governor stated. “We must never politicise the church. We must never politicise the place of worship. Politicians, keep off churches. Keep off places of worship. That’s a deliberate message, and it is my kind of consistency of character”, he further said. The post Don’t turn churches into campaign arena, Soludo cautions politicians appeared first on Vanguard News .",
       "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/Soludo-e1774166999126.jpeg",
       "category": "nigeria"
-    },
-    {
-      "title": "Robert Pattinson is the new James Bond. A look back at his other franchises",
-      "link": "https://abcnews.com/GMA/Culture/robert-pattinson-new-james-bond-back-franchises/story?id=138185581",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-17T01:12:12Z",
-      "description": "Some fans lauded Pattinson's casting as the next 007 on social media, while others pointed out that Bond is the latest franchise on his resumé that includes \"Twilight.\"",
-      "image": "https://s.abcnews.com/images/GMA/pattinson-gty-er-261116_1794867079220_hpMain_16x9_1600.jpg",
-      "category": "world"
-    },
-    {
-      "title": "6 Chrome settings tweaks every power user needs to know",
-      "link": "https://www.zdnet.com/home-and-office/chrome-default-settings-to-change",
-      "source": "ZDNET",
-      "date": "2026-11-17T01:05:00Z",
-      "description": "For improved privacy and security, fewer interruptions, and enhanced productivity, I highly recommend changing these default browser settings.",
-      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/chromefeatures.jpg",
-      "category": "technology"
-    },
-    {
-      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-      "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites",
-      "source": "Cointelegraph",
-      "date": "2026-11-17T01:02:05Z",
-      "description": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KGB8P723WG4K1R3Q3WMM6J/hi-how-cybercriminals-use-youtube-and-github-to-spread-crypto-malware.jpg",
-      "category": "business"
-    },
-    {
-      "title": "Meta is testing Direct, a standalone messaging app for Instagram",
-      "link": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram",
-      "source": "Engadget",
-      "date": "2026-11-17T01:00:00Z",
-      "description": "Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.",
-      "image": "https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg",
-      "category": "technology"
-    },
-    {
-      "title": "Arkansas State fires coach Butch Jones in sixth season: Source",
-      "link": "https://www.nytimes.com/athletic/7788271/2026/11/16/butch-jones-fired-arkansas-state",
-      "source": "The Athletic Sports",
-      "date": "2026-11-17T00:59:21Z",
-      "description": "The Red Wolves moved on from Jones, who went 30-43 in six seasons and was coming off bowl appearances in each of the last three years.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16194729/2026-10-18T024522Z_2011773177_MT1USATODAY30119519_RTRMADP_3_ARKANSAS-STATE-RED-WOLVES-HEAD-COACH-BUTCH-JONES-WALKS-DOWN-scaled.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Pipeline Executive Worked for Alan Armstrong During Permitting Push",
-      "link": "https://www.nytimes.com/2026/11/16/climate/alan-armstrong-oklahoma.html",
-      "source": "New York Times Science",
-      "date": "2026-11-17T00:59:20Z",
-      "description": "Senator Alan Armstrong hired his former company’s top lawyer temporarily, while the chamber drafted a sweeping energy bill. Ethics officials signed off on the unusual arrangement.",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16CLI-INDUSTRY-wklv/16CLI-INDUSTRY-wklv-mediumSquareAt3X.jpg",
-      "category": "science"
-    },
-    {
-      "title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
-      "link": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
-      "source": "France 24",
-      "date": "2026-11-17T00:58:33Z",
-      "description": "Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, damaging critical infrastructure and causing water and power cuts in parts of the Ukrainian capital, Mayor Vitali Klitschko said. The attacks came as Moscow launched a wider wave of drone and missile strikes across Ukraine, including in the regions of Cherkasy and Kharkiv.",
-      "image": "https://s.france24.com/media/display/d2e45bd2-e221-11f1-8e06-5f54d898a954/w:1024/p:16x9/AP26319581736584.jpg",
-      "category": "world"
-    },
-    {
-      "title": "US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China",
-      "link": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307",
-      "source": "The Register",
-      "date": "2026-11-17T00:55:39Z",
-      "description": "The US Commerce Department’s Bureau of Industry and Security (BIS) has decided to ban remote access to certain GPUs and servers running in datacenters located in Indonesia, Malaysia, Singapore, Thailand, and Brazil. The agency has also introduced a requirement to secure a license before selling what it describes as “advanced super intelligence (SI) chips and servers” that are sufficiently powerful to “be used for training or running of advanced SI models” into the five nations. The interim final rule [PDF] containing the new regulations says they’re needed “to prevent certain foreign actors from leveraging advanced computing power based on US technology to threaten US national security and foreign policy interests.” Similar language can be found in previous US bans on sales of GPUs and other advanced tech to China, which Washington fears will use advanced tech to improve its military capabilities. US authorities understood that export bans wouldn’t prevent Chinese entities from renting GPUs housed elsewhere. So from 2021 to 2024, Washington introduced a series of regulations that required US-based clouds to make sure they didn’t serve Chinese customers. No such obligation existed for cloud operators elsewhere, which created a market for resources that Chinese customers could access from afar. It is widely felt that datacenter building booms in Malaysia and Thailand, both of which are generally on good terms with China, aimed to cater to Middle Kingdom customers who wanted to rent GPUs they could not import. Megapseed – whose former employee Alice Huang had an intimate relationship with former Nvidia CEO Jensen Huang and may have been a Chinese intelligence asset – built datacenters in Malaysia and was suspected of catering largely to offshore customers. Neil Shah, vice president of research at analyst firm Counterpoint, said the new rules shift the regulatory burden of complying with export controls from hardware manufacturers to cloud operators. “Data center operators in hubs such as Singapore, Malaysia and Indonesia will now face massive ‘Know Your Customer's Workload’ requirements,” he told The Register by email, likening it to the KYC restrictions imposed on financial services firms. “They must prove to US regulators that their compute is not being funneled back to embargoed nations, or risk losing their own access to US silicon.” He feels the new rules represent “a severe short-term compute bottleneck for Chinese tech giants” and “a massive long-term catalyst for decoupling.” “Washington is forcing domestic capital and engineering talent to double down on full-stack sovereign alternatives, accelerating ecosystems like Huawei's Ascend.” Shah’s observation came days after Alibaba decided to spin out its T-Head chip design unit, which it described as “a leading provider of full-stack data center chips which enable system-level compute solutions in China.” That description suggests Alibaba doesn’t think T-Head has strong prospects of selling its",
-      "image": "https://image.theregister.com/?imageId=259879&width=800",
-      "category": "technology"
-    },
-    {
-      "title": "WATCH: NYC teen builds candle business with refillable cement containers",
-      "link": "https://abcnews.com/video/138190675",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-17T00:54:26Z",
-      "description": "What started as helping his sister make candles for a birthday party at age 13 has turned into a thriving business for New York City teen Christon Lennon.",
-      "image": "https://s.abcnews.com/images/Business/261116_abcnl_6p_candle_hpMain_16x9_1600.jpg",
-      "category": "world"
     }
   ],
   "nigeria": [
@@ -237,12 +237,39 @@
       "category": "nigeria"
     },
     {
+      "title": "Telcos risk losing spectrum over failure to meet NCC deadline",
+      "link": "https://businessday.ng/technology/article/telcos-risk-losing-spectrum-over-failure-to-meet-ncc-deadline",
+      "source": "BusinessDay Nigeria",
+      "date": "2026-11-17T02:30:03Z",
+      "description": "The Nigerian Communications Commission (NCC) has given telecommunications operators until December 31, 2026, to demonstrate effective utilisation of their assigned read more Telcos risk losing spectrum over failure to meet NCC deadline",
+      "image": "https://cdn.businessday.ng/2023/08/NCC.png",
+      "category": "nigeria"
+    },
+    {
+      "title": "Why NGX is investing in other African stock exchanges",
+      "link": "https://businessday.ng/uncategorized/article/why-ngx-is-investing-in-other-african-stock-exchanges",
+      "source": "BusinessDay Nigeria",
+      "date": "2026-11-17T02:15:47Z",
+      "description": "The Nigerian Exchange Group (NGX Group) is looking beyond borders for its next phase of growth, with investments in Ethiopia read more Why NGX is investing in other African stock exchanges",
+      "image": "https://cdn.businessday.ng/wp-content/uploads/2025/02/NGX-Group-1.png",
+      "category": "nigeria"
+    },
+    {
       "title": "Abia approves ₦1.04bn for SMEs, reviews ASEPA workers’ pay",
       "link": "https://www.vanguardngr.com/2026/11/abia-approves-%e2%82%a61-04bn-for-smes-reviews-asepa-workers-pay",
       "source": "Vanguard Nigeria",
       "date": "2026-11-17T02:07:00Z",
       "description": "…₦382.9m disbursed to 31 businesses By Steve Oko UMUAHIA — Abia State Government has secured approval for ₦1.041 billion in intervention funding for small and medium-scale enterprises (SMEs), in a move aimed at expanding businesses, stimulating job creation and improving access to affordable credit. Of the amount, ₦382.9 million has already been disbursed to 29 micro-enterprises and two small and medium-scale businesses, while another ₦206.7 million in approved applications is undergoing documentation ahead of disbursement. The state government also announced a review of the remuneration of ad-hoc workers engaged by the Abia State Environmental Protection Agency (ASEPA), with the new payment structure taking effect from November 2026. Commissioner for Information, Prince Okey Kanu, who disclosed the developments during the weekly briefing on the State Executive Council meeting at Government House, Umuahia, said the SME intervention was being implemented through the Bank of Industry (BOI). Kanu, represented by the Special Adviser to the Governor on Media and Publicity, Mr Fredinald Ekeoma, said the initiative was part of Governor Alex Otti’s administration’s efforts to strengthen the state’s productive sector and create sustainable employment opportunities. Providing further details, Commissioner for Industries and SMEs, Mazi Mike Akpara, said the outstanding approved facilities would be released once beneficiaries fulfilled the necessary conditions, including documentation and provision of guarantors and collateral, where applicable. He stressed that access to the intervention was not restricted by political affiliation, insisting that any genuine business operating in Abia was eligible. “Whether you belong to the Labour Party, PDP or APC, we are not concerned about that. Once you are doing business in Abia and can provide evidence of your business operations, you are eligible to benefit. “SMEs are the engine of the economy, and this initiative is intended to encourage and strengthen them,” Akpara said. He said interested businesses could access the programme through the Ministry of Industries and SMEs at the Nnamdi Azikiwe Secretariat, Umuahia, or the BOI office in Aba. Akpara described the facility as a major relief for local entrepreneurs, given its relatively low interest rates of 8.5 per cent for overdrafts and 7.5 per cent for other facilities, with a three-year repayment period. He contrasted the rates with commercial bank lending rates, which he said could rise to between 28 and 30 per cent, arguing that the intervention would ease the financing burden on businesses and improve their capacity to expand. In another development, Kanu said the Ministry of Industries and SMEs had verified and documented more than 110 workshops and 120 shops at the Ohiya-Umuogo-Nsukwe Industrial Cluster. He said the exercise aligned with Goal Eight of the Sustainable Development Goals, which focuses on inclusive economic growth, productive employment and decen",
       "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/abia-state-map.jpg",
+      "category": "nigeria"
+    },
+    {
+      "title": "After BusinessDay report, FG announces Apapa, Tin Can port upgrade groundbreaking",
+      "link": "https://businessday.ng/news/article/fg-announces-apapa-tin-can-port-upgrades-groundbreaking-after-businessday-story",
+      "source": "BusinessDay Nigeria",
+      "date": "2026-11-17T02:00:38Z",
+      "description": "The Federal Government has announced November 25 as the groundbreaking date for the long-awaited upgrade of Apapa and Tin Can read more After BusinessDay report, FG announces Apapa, Tin Can port upgrade groundbreaking",
+      "image": "https://cdn.businessday.ng/2021/02/Apapa-port-Terminal.jpg",
       "category": "nigeria"
     },
     {
@@ -372,15 +399,6 @@
       "category": "nigeria"
     },
     {
-      "title": "Actress Linda Osifo announces engagement after social media break",
-      "link": "https://www.vanguardngr.com/2026/11/actress-linda-osifo-announces-engagement-after-social-media-break",
-      "source": "Vanguard Nigeria",
-      "date": "2026-11-16T22:13:34Z",
-      "description": "Nollywood actress Linda Osifo has announced her engagement to her partner, Mr Ose, expressing gratitude to God for what she described as an answered prayer. The actress made the announcement in a video shared on her Instagram page on Monday. Osifo has been off social media for months. In an accompanying post, she revealed that she had taken a break from social media before receiving what she described as a blessing she had once prayed for privately. “Not in my timing, not in the way I imagined, but in a way only He could have written,” she wrote. She said the experience was too beautiful to put into words, noting that some love stories were worth the patience and waiting. Reflecting on her relationship with her partner, the actress wrote, “Today, I look at the man God has blessed me with and all I can say is… God, You did this for me.” Osifo also expressed her commitment to her partner, saying, “To the man I get to call my forever, Mr Ose, I would choose you in every lifetime.” Announcing her acceptance of the marriage proposal, she declared, “I SAID YES TO FOREVER!” The actress further noted that when God authors a love story, every chapter is worth waiting for. The post Actress Linda Osifo announces engagement after social media break appeared first on Vanguard News .",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Linda-Osifo-994x1024.jpeg",
-      "category": "nigeria"
-    },
-    {
       "title": "[VIDEO] 2027: Obi Won’t Get Up To Six Million Votes, Won’t Win Lagos — YPP’s Agada",
       "link": "https://www.channelstv.com/2026/11/16/2027-obi-wont-get-up-to-six-million-votes-wont-win-lagos-ypps-agada",
       "source": "Channels Television",
@@ -433,27 +451,27 @@
       "description": "A chieftain of the Peoples Democratic Party (PDP), Segun Sowunmi, has condemned the recent ‘Bamayi’ protest in Abuja, expressing disappointment with security agencies over their handling of the incident. Sowunmi, who is also a member of the All Progressives Congress (APC) campaign council, made the remarks on Monday during an appearance on Channels Television’s Politics Today. He criticised the destruction of campaign posters and the use of violence by protesters who chanted ‘Bamayi’ at President Bola Tinubu’s motorcade, describing such actions as undemocratic. “I am disappointed, extremely disappointed that security is allowing that kind of joke to go on under the guise of people who are running democracy,” he said. Sowunmi argued that Nigerians dissatisfied with a political candidate or campaign should express their opposition through the ballot box rather than resorting to violence. “I expect people who have a point of view different from that of a campaign to wait until the day of election to exercise their franchise. But to be destroying people’s posters, to be carrying sticks and running up and down, that’s for barbarians, and I don’t expect any sane leader to do that,” he added. The ‘Bamayi’ chants, which translate to ‘we don’t want’ in Hausa, were heard on November 13 after President Tinubu attended Friday prayers at the Shehu Shagari Mosque in the Garki area of Abuja. Some protesters reportedly threw stones at the President’s convoy and destroyed APC campaign posters, prompting security operatives to intervene. Watch the video below. ﻿ The post [VIDEO] Bamayi: I’m Extremely Disappointed Security Agencies Allow That Joke To Go On — Sowunmi appeared first on Channels Television .",
       "image": "https://www.channelstv.com/wp-content/uploads/2026/11/oqxbayexgju.jpg",
       "category": "nigeria"
-    },
-    {
-      "title": "Uyo Book Club plans colloquium on Attah’s 88th birthday",
-      "link": "https://www.premiumtimesng.com/regional/south-south-regional/925716-uyo-book-club-plans-colloquium-on-attahs-88th-birthday.html",
-      "source": "Premium Times Nigeria",
-      "date": "2026-11-16T21:08:12Z",
-      "description": "Udeme Nana, a communication scholar and founder of Uyo Book Club, has announced plans by Uyo Book Club to honour former Governor Victor Attah with a colloquium. The post Uyo Book Club plans colloquium on Attah’s 88th birthday appeared first on Premium Times Nigeria .",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/11/Former-Governor-Victor-Attah-of-Akwa-Ibom-State-e1794862819333.jpg?fit=643%2C404&ssl=1",
-      "category": "nigeria"
-    },
-    {
-      "title": "Oborevwori presents ₦1.23 trillion appropriation bill, earmarks ₦320 billion for roads",
-      "link": "https://www.premiumtimesng.com/news/top-news/925714-oborevwori-presents-%e2%82%a61-23-trillion-appropriation-bill-earmarks-%e2%82%a6320-billion-for-roads.html",
-      "source": "Premium Times Nigeria",
-      "date": "2026-11-16T21:08:08Z",
-      "description": "The News Agency of Nigeria reports that the proposal comprises ₦806.8 billion for capital expenditure and ₦430 billion for recurrent expenditure. The post Oborevwori presents ₦1.23 trillion appropriation bill, earmarks ₦320 billion for roads appeared first on Premium Times Nigeria .",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/10/Sheriff-Oborevwori-.jpg?fit=556%2C312&ssl=1",
-      "category": "nigeria"
     }
   ],
   "world": [
+    {
+      "title": "Macron visits Malaysia as France seeks closer defence and rare earths ties",
+      "link": "https://www.france24.com/en/asia-pacific/20261117-macron-malaysia-france-defence-rare-earths-trade-energy",
+      "source": "France 24",
+      "date": "2026-11-17T03:40:31Z",
+      "description": "French President Emmanuel Macron will meet Malaysian Prime Minister Anwar Ibrahim in Kuala Lumpur on Tuesday to discuss strengthening defence, trade, energy and critical minerals co-operation. Macron's two-day visit, his first since 2017, comes ahead of the countries' 70th anniversary of diplomatic relations, with both sides seeking a strategic partnership.",
+      "image": "https://s.france24.com/media/display/7f1d673a-e1ec-11f1-9596-f71d22e7fea9/w:1024/p:16x9/7f6d81c95ab87a584e5082fe94983065fe1e7685.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Trump heads to Asia for historic nuclear talks with China and Russia",
+      "link": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
+      "source": "France 24",
+      "date": "2026-11-17T03:07:59Z",
+      "description": "US President Donald Trump headed to Asia on Monday for economic talks and a planned trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin on nuclear issues and the war in Ukraine. Trump also raised the possibility of meeting North Korean leader Kim Jong Un during his visit.",
+      "image": "https://s.france24.com/media/display/f3560fd6-e1e6-11f1-a0e9-29048b396e03/w:1024/p:16x9/AP26320545342836.jpg",
+      "category": "world"
+    },
     {
       "title": "The advice Biden got from Mitt Romney, and other takeaways from his memoir",
       "link": "https://abcnews.com/Politics/advice-biden-mitt-romney-takeaways-memoir/story?id=138193017",
@@ -470,15 +488,6 @@
       "date": "2026-11-17T01:38:38Z",
       "description": "Russian strikes hit two major bridges in Kyiv late Monday, part of an overnight attack that damaged critical infrastructure and disrupted heating and water in parts of the capital, its mayor said. Ukraine's President Volodymyr Zelensky had warned of an attack by Russia in the coming days even as negotiators representing Kyiv as well as Europe and the United States held talks on future negotiations with Russia aimed at finding a path to end the war.",
       "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Robert Pattinson is the new James Bond. A look back at his other franchises",
-      "link": "https://abcnews.com/GMA/Culture/robert-pattinson-new-james-bond-back-franchises/story?id=138185581",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-17T01:12:12Z",
-      "description": "Some fans lauded Pattinson's casting as the next 007 on social media, while others pointed out that Bond is the latest franchise on his resumé that includes \"Twilight.\"",
-      "image": "https://s.abcnews.com/images/GMA/pattinson-gty-er-261116_1794867079220_hpMain_16x9_1600.jpg",
       "category": "world"
     },
     {
@@ -669,18 +678,18 @@
       "description": "GOP sources told ABC News the party leaned on culture wars over costs and lost key Latino voters. Some doubt JD Vance is still the presumptive 2028 nominee.",
       "image": "https://s.abcnews.com/images/Politics/midterm-1-rt-er-261113_1794610148204_hpMain_2_16x9_1600.jpg",
       "category": "world"
-    },
-    {
-      "title": "Should Ukraine trade Donbas for NATO membership?",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20261116-should-ukraine-trade-donbas-for-nato-membership",
-      "source": "France 24",
-      "date": "2026-11-16T20:27:06Z",
-      "description": "President Volodymyr Zelensky asserting that the United States has asked him about a straight-up swap Russia gets the Donbas, the rest of Ukraine gets NATO membership, a guarantee against Moscow later having a second go and annexing the entire country. Whether or not the offer’s real, serious or that either side would accept it. We’ll ask if the talk of partition signals some kind of turning point in a nearly five-year war that's also a brutal stalemate.",
-      "image": "https://s.france24.com/media/display/5dbb5ee6-e1ef-11f1-8f0e-f71d22e7fea9/w:1024/p:16x9/Anglais-2026-11-16T18-54-18-039Z.jpg",
-      "category": "world"
     }
   ],
   "business": [
+    {
+      "title": "Trezor customer data exposed in 3rd partner breach this year",
+      "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year",
+      "source": "Cointelegraph",
+      "date": "2026-11-17T03:46:22Z",
+      "description": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KSMV6VXD8X0C6CPDG5WCNC/trezor.jpg",
+      "category": "business"
+    },
     {
       "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
       "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites",
@@ -896,20 +905,20 @@
       "description": "This CEO's path offers a lesson for anyone looking to climb the corporate ladder.",
       "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Antonio-Neri-1126_g2264005666-new.jpg",
       "category": "business"
-    },
-    {
-      "title": "$36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact”",
-      "link": "https://bitcoinmagazine.com/videos/36b-wealth-firm-strategist-bitcoins-supercycle-is-still-intact",
-      "source": "Bitcoin Magazine",
-      "date": "2026-11-16T19:17:14Z",
-      "description": "▶ Bitcoin Magazine $36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact” James Thorne, Chief Market Strategist at Wellington-Altus, tells BMTV that Bitcoin’s super cycle is still intact after the drop from about 83,000 in mid-October to around 64,000. He reads the chart as a head and shoulders bottom as long as it holds above 57,000, and says a thin-weekend sell-off does not change the long-term fundamentals. In his view, Bitcoin is a highly volatile asset, and the energy shock fading raises the probability of a significant rate cut. SALT Lending: Don’t sell your Bitcoin. Borrow against it. BMTV viewers borrow from 6.99% APR, a half point below SALT’s standard 7.49%. No credit check, no origination fees, no prepayment fees. The original Bitcoin-backed lender, lending against BTC since 2016. GET YOUR BMTV OFFER: https://saltlending.com/bmtv/?utm_source=bmtv&utm_medium=youtube&utm_campaign=bmtv_offer SALT is the official Liquidity Sponsor of BMTV. SALT loans are originated by SALT Lending LLC (f/k/a SALT Master Fund II, LLC), NMLS 1711910. Borrowing against collateral involves risk. Not available in all jurisdictions. Digital currency is not legal tender and is not FDIC or SIPC insured. Terms: https://saltlending.com/terms-of-use/ Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Super Cycle Is Still Intact 01:25 The Energy Shock Is Getting Behind Us 02:38 Weekend Fear and a Market That Needs to Grow Up 06:18 A Head and Shoulders Roadmap for Bitcoin 09:08 Bitcoin’s Narrative Flips to Bullish 10:16 Iran, Oil, and a Path Back to 4% Yields 13:08 Why the Fed Could Cut Aggressively 14:11 AI Demand Has No Human Ceiling 17:05 Capital Discipline Extends the AI Cycle 21:26 Bitcoin as the Kernel of the On-Chain System 23:46 Digital Credit and How Early We Are 26:32 Why Few People Understand the Bitcoin Story DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post $36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact” first appeared on Bitcoin Magazine and is written by Patrick Green .",
-      "image": "https://img.youtube.com/vi/m7ygyYMe3mg/hqdefault.jpg",
-      "category": "business"
     }
   ],
   "entertainment": [
     {
-      "title": "Zendaya Says She Felt ‘Incredibly Nervous’ While Shooting ‘The Odyssey’ but Credits Tom Holland for Supporting Her: He Was ‘in the Corner Like, “You Got This”’",
+      "title": "Elizabeth Debicki Says ‘Tenet’ Co-Star Robert Pattinson Will Be the ‘Perfect’ James Bond: ‘I’m So Thrilled’",
+      "link": "https://variety.com/2026/film/columns/elizabeth-debicki-tenet-co-star-robert-pattinson-james-bond-1236949754",
+      "source": "Variety",
+      "date": "2026-11-17T03:03:47Z",
+      "description": "Elizabeth Debicki is weighing in on her “Tenet” co-star Robert Pattinson becoming the next James Bond. “I’m so happy for Rob,” said Debicki at the Los Angeles premiere of “The Further Mis-Adventures of Cliff Booth.” When asked why Pattinson will make the perfect Bond, she responded: “He is an enigma himself. He’s beautiful, and he’s […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/17th-Governors-Awards-New-York-Special-Screening-of-The-Drama-1000.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "Zendaya Felt ‘Incredibly Nervous’ While Shooting ‘The Odyssey’ but Credits Tom Holland for Supporting Her: He Was ‘in the Corner Like, “You Got This”’",
       "link": "https://variety.com/2026/film/news/zendaya-tom-holland-the-odyssey-1236949899",
       "source": "Variety",
       "date": "2026-11-17T02:31:53Z",
@@ -996,15 +1005,6 @@
       "date": "2026-11-16T21:05:06Z",
       "description": "Seyi Shay teams up with French artist Vegedream on her new single “Love & War”, one of the standout releases in this week’s music roundup. Photo Credit: Instagram A fresh Monday means it is time to clear out last week’s queue and make room for the sounds shaping Nigerian music right now. From Wande Coal reuniting with Juls and Patoranking linking up with Olamide for a musical salute to Lagos, to Khaid bridging generations with Fuji legend Saheed Osupa , Spyro delivering a quick dancefloor starter, and Seyi Shay trading English and French verses with Vegedream , there is plenty to keep your headphones busy over the next few days. Wande Coal – “Kowope” Kicking things off is Wande Coal , who reunites with British-Ghanaian producer Juls on “Kowope”, marking their first collaboration since the hit “So Mi So”. The new single is also Wande Coal’s first solo release since he put out his 15-track album KING COAL in June. This time, the pair lean into warm, percussion-led Afropop, with lyrics centred on wealth,celebration and abundance. Ahead of its release on 12 November 2026, Wande Coal gave fans a taste of what was coming with a video staged as an owambe celebration inside a banking hall—a fitting preview for a song that takes its cues from the festive side of Nigerian life. ﻿ Patoranking featuring Olamide – “Welcome to Lagos” Keeping that celebratory mood going, Patoranking and Olamide join forces on “Welcome to Lagos” to give Nigeria’s commercial capital its own musical tribute. The Afro-dancehall collaboration captures the city’s familiar mix of hustle,nightlife and everyday movement, with both artists bringing their distinct sounds to the record. Patoranking opens with his dancehall delivery, setting the pace before Olamide takes over with Yoruba verses rooted in the city’s street culture.Released on 10 November 2026 alongside an official music video, the track gives two of Nigerian music’s established names a chance to celebrate the city that continues to inspire countless songs. ﻿ Khaid featuring King Dr. Saheed Osupa – “Yasin” Switching lanes from contemporary street anthems to a meeting of two musical eras, Khaid takes an unexpected turn on “Yasin” alongside Fuji veteran King Dr. Saheed Osupa . The song brings Khaid’s contemporary Afrobeats melodies together with Osupa’s traditional Fuji vocals and talking-drum rhythms, giving both artists room to draw on their distinct musical styles. An official lyric video followed on 14 November 2026. With this collaboration, Khaid steps beyond the sound audiences may be most familiar with, while Osupa brings his unmistakable Fuji influence to a new musical setting. ﻿ Spyro – “Kpan Kpan” If you are looking to pick up the tempo even further, Spyro keeps things firmly on the dancefloor with “Kpan Kpan”, a two-minute, 19-second Afropop release produced by Colonel Tyemmy . The track is built around bouncy percussion and a hook that is easy to pick up, making it a straightforward party selection. Released on 13 N",
       "image": "https://www.bellanaija.com/wp-content/uploads/2026/11/SaveClip.App_848685608_18638820505050844_5951714422983099143_n-scaled.jpg",
-      "category": "entertainment"
-    },
-    {
-      "title": "The Brit List: Coming-of-Age Drama and Cornwall Crime Series Top 2026 Lineup of Best Unproduced Scripts",
-      "link": "https://variety.com/2026/film/global/the-brit-list-2026-lineup-best-unproduced-film-tv-scripts-1236949412",
-      "source": "Variety",
-      "date": "2026-11-16T20:47:17Z",
-      "description": "The Brit List, the annual list of unproduced British film and TV screenplays, has revealed its 2026 lineup. Compiled from recommendations by the British industry, 13 projects — each requiring a minimum of 10 recommendations — made it onto this year’s list. Leading the pack were Gemma Addy’s coming-of-age drama feature “Dig for Victory” and Archie Thomson’s […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/The-Brit-List_Social_2026_V13.jpg",
       "category": "entertainment"
     },
     {
@@ -1136,21 +1136,39 @@
   ],
   "sports": [
     {
-      "title": "Chargers vs. Ravens live score updates: NFL latest as LA leads 17-10 at halftime in Baltimore",
-      "link": "https://www.nytimes.com/athletic/live-blogs/chargers-vs-ravens-live-score-updates-nfl-mnf-result/aQTu9bPlh0f1",
+      "title": "NBA season live updates: Latest from Suns-Nuggets after impressive wins by the Magic, Heat and Timberwolves",
+      "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
       "source": "The Athletic Sports",
-      "date": "2026-11-17T02:54:55Z",
-      "description": "Follow live coverage as the Week 10 finale pits the winless Los Angeles Chargers against the Baltimore Ravens.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/aQTu9bPlh0f1_imZAzsxQONjw_1440x960.jpg",
+      "date": "2026-11-17T03:58:12Z",
+      "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_Uz2hCjQN3NU2_1440x966.jpg",
       "category": "sports"
     },
     {
-      "title": "NBA season live updates: Latest from Rockets-Heat, Timberwolves-Trail Blazers and more",
-      "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
+      "title": "Chargers vs. Ravens live score updates: NFL latest as Derrick Henry TD closes gap, LA leads 23-20 in 4th quarter",
+      "link": "https://www.nytimes.com/athletic/live-blogs/chargers-vs-ravens-live-score-updates-nfl-mnf-result/aQTu9bPlh0f1",
       "source": "The Athletic Sports",
-      "date": "2026-11-17T02:54:42Z",
-      "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_8QvVswlKutDA_1440x960.jpg",
+      "date": "2026-11-17T03:57:58Z",
+      "description": "Follow live coverage as the Week 10 finale pits the winless Los Angeles Chargers against the Baltimore Ravens.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/aQTu9bPlh0f1_5j8unozt7Ozu_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Ranking college football's 7 open head-coaching jobs, from Florida State to UTEP",
+      "link": "https://www.nytimes.com/athletic/7731196/college-football-open-coaching-jobs-ranking",
+      "source": "The Athletic Sports",
+      "date": "2026-11-17T03:35:17Z",
+      "description": "UTEP fired coach Scotty Walden with two games left to play in his third season, taking over the bottom spot in our job rankings.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16114820/2026-09-13T030401Z_212685916_MT1USATODAY29808298_RTRMADP_3_UTEP-FOOTBALL-PLAYERS-TAKE-THE-FIELD-FOR-THE-FOOTBALL-HOME-scaled-e1794847737683.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "FanDuel exec says single Luis Ortiz pitch first triggered inquiry in pitch-rigging case",
+      "link": "https://www.nytimes.com/athletic/7788421/2026/11/16/luis-ortiz-pitch-rigging-fanduel-trial",
+      "source": "The Athletic Sports",
+      "date": "2026-11-17T03:03:00Z",
+      "description": "The testimony from Josh Mehta was the first evidence showing what likely triggered the investigation into the alleged pitch-rigging scheme.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/04202359/AP26306523677544-scaled-e1793841863595.jpg",
       "category": "sports"
     },
     {
@@ -1340,24 +1358,6 @@
       "date": "2026-11-16T20:34:14Z",
       "description": "Monday’s victory caps a banner year for the U.S. women — pairing this world championship gold with an Olympic title in February.",
       "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16150306/GettyImages-2304966134-scaled.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "NC State welcomes back Philip Rivers as new coach defends lack of time on college sideline",
-      "link": "https://www.nytimes.com/athletic/7787623/2026/11/16/philip-rivers-nc-state-introduction-experience",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T20:26:15Z",
-      "description": "Rivers was introduced in front of a few hundred fans gathered in NC State’s indoor facility. At one point, “Sweet Home Alabama” played.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16151036/AP26320692846573-scaled-e1794859856865.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Rays make Danielle Dockx one of MLB’s highest-ranking front-office women",
-      "link": "https://www.nytimes.com/athletic/7787655/2026/11/16/rays-danielle-dockx-mlb-front-office-women",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T20:17:43Z",
-      "description": "Dockx will oversee the Rays’ highly regarded farm system, the team announced Monday.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16151539/GettyImages-2236012616.jpg",
       "category": "sports"
     }
   ],

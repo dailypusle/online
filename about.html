@@ -1,0 +1,225 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#087cf0">
+<title>About DailyPulse — News that keeps you in the know</title>
+<meta name="description" content="DailyPulse brings headlines from 50+ trusted publishers into one fast, clean place, always linking back to the original story. Learn who we are and what we stand for.">
+<link rel="canonical" href="https://dailypusle.github.io/online/about.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="DailyPulse">
+<meta property="og:title" content="About DailyPulse">
+<meta property="og:description" content="One fast, clean place for the day's headlines, always linking back to the original publishers.">
+<meta property="og:url" content="https://dailypusle.github.io/online/about.html">
+<meta property="og:image" content="https://dailypusle.github.io/online/dailypulse-social.png">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+
+<style>
+:root{--blue:#087cf0;--blue-dark:#075ed1;--ink:#10284e;--muted:#667c99;--line:#dceafa;--pale:#eaf4ff;--card:#fff;--bg:#f8fbff;--shadow:0 8px 28px rgba(24,83,143,.07)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+a{color:inherit}
+header{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.96);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.header-inner{max-width:1100px;margin:auto;padding:14px 26px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+.brand{display:inline-flex;align-items:center;gap:10px;text-decoration:none;font-size:1.7rem;font-weight:850;letter-spacing:-.06em;white-space:nowrap}
+.brand-icon{width:42px;height:42px;display:grid;place-items:center;border-radius:50%;background:linear-gradient(135deg,#0796ff,#1455ed);box-shadow:0 4px 10px #087cf033}
+.brand-icon svg{width:31px;height:31px}
+.brand-name span{color:var(--blue)}
+.back{display:inline-flex;align-items:center;gap:6px;text-decoration:none;border:1.5px solid #c9e2ff;border-radius:999px;background:#fff;color:var(--blue);font-weight:750;font-size:.88rem;padding:9px 15px;white-space:nowrap}
+.back:hover{background:var(--pale);border-color:#8fc5ff}
+.back:focus-visible,.btn:focus-visible{outline:3px solid #087cf055;outline-offset:2px}
+main{max-width:1100px;margin:0 auto;padding:40px 26px 56px}
+
+/* Hero */
+.hero{text-align:center;max-width:760px;margin:0 auto 40px}
+.eyebrow{display:inline-block;background:var(--pale);color:var(--blue-dark);font-weight:800;font-size:.76rem;letter-spacing:.8px;text-transform:uppercase;border-radius:999px;padding:6px 14px;margin-bottom:16px}
+.hero h1{margin:0 0 14px;font-size:clamp(2rem,5vw,3.1rem);line-height:1.12;letter-spacing:-.035em}
+.hero h1 span{color:var(--blue)}
+.hero p{margin:0;font-size:1.1rem;color:#58708f}
+
+/* Bento grid */
+.bento{display:grid;grid-template-columns:repeat(6,1fr);gap:16px}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:26px;box-shadow:0 2px 7px #173b6205;min-width:0}
+.tile h2{margin:0 0 10px;font-size:1.25rem;line-height:1.3;letter-spacing:-.02em}
+.tile p{margin:0 0 10px;color:#4b6384}
+.tile p:last-child{margin-bottom:0}
+.tile .label{display:block;margin-bottom:10px;color:var(--blue);font-weight:800;font-size:.74rem;letter-spacing:.8px;text-transform:uppercase}
+.span-4{grid-column:span 4}.span-3{grid-column:span 3}.span-2{grid-column:span 2}.span-6{grid-column:span 6}
+.tile.blue{background:linear-gradient(135deg,#0796ff,#1455ed);border:0;color:#fff;box-shadow:0 10px 28px #087cf033}
+.tile.blue h2,.tile.blue .label{color:#fff}
+.tile.blue p{color:#e6f1ff}
+
+/* Founder */
+.person{display:flex;gap:18px;align-items:center}
+.avatar{flex:none;width:84px;height:84px;border-radius:50%;display:grid;place-items:center;background:#eef7ff;border:2px solid #c9e2ff;color:var(--blue)}
+.avatar svg{width:42px;height:42px}
+.person b{display:block;font-size:1.05rem}
+.person small{display:block;color:var(--muted);font-size:.86rem}
+
+/* Values */
+.values{list-style:none;margin:0;padding:0;display:grid;gap:12px}
+.values li{display:flex;gap:12px;align-items:flex-start;color:#4b6384}
+.values b{color:var(--ink)}
+.tick{flex:none;width:26px;height:26px;border-radius:50%;background:var(--pale);color:var(--blue);display:grid;place-items:center;margin-top:1px}
+.tick svg{width:15px;height:15px}
+
+/* Proof numbers */
+.stat{font-size:2.4rem;font-weight:850;letter-spacing:-.04em;color:var(--blue);line-height:1.1}
+.stat-label{margin-top:4px;color:var(--muted);font-size:.9rem}
+
+/* Features */
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.chip{border:1px solid #d5e7fb;background:#fff;color:#486482;border-radius:999px;padding:7px 14px;font-weight:650;font-size:.86rem}
+
+/* CTA */
+.cta{text-align:center;margin-top:16px}
+.cta h2{font-size:1.5rem}
+.btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;background:var(--blue);color:#fff;font-weight:800;border-radius:999px;padding:13px 26px;box-shadow:0 5px 14px #087cf033;margin-top:8px}
+.btn:hover{background:var(--blue-dark)}
+
+footer{border-top:1px solid var(--line);background:#fff;color:var(--muted);font-size:.84rem;padding:24px;text-align:center}
+footer strong{color:var(--ink)}
+footer a{color:var(--blue);text-decoration:none;font-weight:700}
+footer a:hover{text-decoration:underline}
+
+@media(max-width:900px){
+  .span-4,.span-3{grid-column:span 6}
+  .span-2{grid-column:span 3}
+}
+@media(max-width:560px){
+  .header-inner{padding:11px 16px}
+  .brand{font-size:1.35rem;gap:8px}
+  .brand-icon{width:36px;height:36px}.brand-icon svg{width:27px;height:27px}
+  .back{padding:8px 12px;font-size:.82rem}
+  main{padding:28px 14px 40px}
+  .tile{padding:20px;border-radius:16px}
+  .span-2{grid-column:span 6}
+  .person{align-items:flex-start}
+  .avatar{width:68px;height:68px}.avatar svg{width:34px;height:34px}
+}
+</style>
+</head>
+
+<body>
+<header>
+  <div class="header-inner">
+    <a class="brand" href="https://dailypusle.github.io/online/" aria-label="DailyPulse home">
+      <span class="brand-icon" aria-hidden="true">
+        <svg viewBox="0 0 48 48" fill="none">
+          <path d="M3 25h9l5-11 8 22 7-18 4 7h9" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </span>
+      <span class="brand-name">Daily<span>Pulse</span></span>
+    </a>
+    <a class="back" href="https://dailypusle.github.io/online/">← Back to news</a>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <span class="eyebrow">About us</span>
+    <h1>News that keeps you <span>in the know</span></h1>
+    <p>DailyPulse puts the day's headlines from trusted publishers in one fast, clean place, so you spend less time hunting for the news and more time understanding it.</p>
+  </section>
+
+  <section class="bento" aria-label="About DailyPulse">
+
+    <article class="tile span-4">
+      <span class="label">Why we started</span>
+      <h2>Good news is scattered. We pull it together.</h2>
+      <p>Staying informed usually means opening a dozen sites, closing a dozen pop-ups, and scrolling past things you never asked for.</p>
+      <p>DailyPulse started with a simple question: what if the day's important stories, from Nigeria and around the world, were waiting in one place, with a clear photo, a clear headline, and a short summary?</p>
+      <p>That's the whole idea. Every story links straight back to the publisher that reported it.</p>
+    </article>
+
+    <article class="tile span-2 blue">
+      <span class="label">What's in it for you</span>
+      <h2>Your time, back</h2>
+      <p>Scan headlines in seconds, tap the ones that matter, and ask our assistant to explain any story in plain language.</p>
+    </article>
+
+    <!-- Founder -->
+    <article class="tile span-3">
+      <span class="label">The person behind it</span>
+      <div class="person">
+        <div class="avatar" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="8" r="4"/>
+            <path d="M4 21c0-4 3.6-7 8-7s8 3 8 7"/>
+          </svg>
+        </div>
+        <div>
+          <b>Maduabuchi Promise</b>
+          <small>Founder &amp; Editor, DailyPulse</small>
+        </div>
+      </div>
+      <p style="margin-top:14px">DailyPulse is built and run by one person who reads the news every day and wanted a better way to follow it. Questions, feedback or a story we should cover? We'd like to hear from you.</p>
+    </article>
+
+    <article class="tile span-3">
+      <span class="label">What we stand for</span>
+      <h2>Principles we actually follow</h2>
+      <ul class="values">
+        <li><span class="tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>Credit the source.</b> Every headline and photo links to the original publisher. We point you to the story, we don't copy it.</span></li>
+        <li><span class="tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>Show real pictures.</b> Stories without a clear, sharp image are skipped, so the page stays clean.</span></li>
+        <li><span class="tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>Respect your privacy.</b> The "Near me" button uses your approximate location only to find your country. DailyPulse does not store it.</span></li>
+        <li><span class="tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>Separate fact from opinion.</b> Our assistant is told to explain confirmed facts apart from interpretation, and not to invent details.</span></li>
+      </ul>
+    </article>
+
+    <article class="tile span-2">
+      <div class="stat">50+</div>
+      <div class="stat-label">publishers we gather headlines from</div>
+    </article>
+    <article class="tile span-2">
+      <div class="stat">8</div>
+      <div class="stat-label">categories, from Nigeria and World to Sports and Science</div>
+    </article>
+    <article class="tile span-2">
+      <div class="stat">Hourly</div>
+      <div class="stat-label">refresh of the stories we collect</div>
+    </article>
+
+    <article class="tile span-6">
+      <span class="label">What you can do on DailyPulse</span>
+      <h2>Built for quick, clear reading</h2>
+      <p>Browse by topic, see local stories first, get alerts for top stories, and ask the assistant about any article.</p>
+      <div class="chips">
+        <span class="chip">Top stories</span>
+        <span class="chip">Nigeria</span>
+        <span class="chip">World</span>
+        <span class="chip">Business · Crypto &amp; Banks</span>
+        <span class="chip">Entertainment</span>
+        <span class="chip">Sports</span>
+        <span class="chip">Technology</span>
+        <span class="chip">Science</span>
+        <span class="chip">Near me</span>
+        <span class="chip">Ask AI</span>
+        <span class="chip">Notifications</span>
+        <span class="chip">Live crypto prices</span>
+      </div>
+    </article>
+  </section>
+
+  <section class="cta">
+    <h2>Ready to catch up?</h2>
+    <a class="btn" href="https://dailypusle.github.io/online/">Read today's headlines →</a>
+  </section>
+</main>
+
+<footer>
+  <strong>DailyPulse</strong> · News that keeps you in the know.
+  <br>
+  <a href="https://dailypusle.github.io/online/">Visit DailyPulse</a>
+  <br>
+  © 2026 DailyPulse. All rights reserved.
+</footer>
+
+</body>
+</html>

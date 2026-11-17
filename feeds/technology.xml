@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The MacBook Neo is receiving a rare $50 discount ahead of Black Friday</title>
+<link>https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale</link>
+<guid isPermaLink="false">0b8d021f35916d5118e3596cdd88a818615be2ae826768f586e7aa34deda21a9</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 21:46:20 +0000</pubDate>
+<description>This thing is poised to eat their lunch. | Photo: Amelia Holowaty Krales / The Verge If you’re looking for a new laptop, or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is discounted to $649 ( Amazon , Best Buy , Target ), while the 512GB model with Touch ID is $749 ( Amazon , Best Buy , Target ). None of the retailers currently list an end date for the discount, which is the biggest price drop we’ve seen since Apple raised the MSRP by $100 in July . MacBook Neo Apple’s most affordable laptop, with a 13-inch display, A18 Pro chip, 8GB of RAM, and optional Touch ID fingerprint sensor. Read our review . Where to Buy: $799 $749 at Amazon (512GB) $699 $649 at Best Buy (256GB) $699 $649 at Amazon (256GB) Apple’s budget-friendly MacBook Neo leverages the A18 Pro processor, a chip originally found in the iPhone 16 Pro, to keep costs down. Both the 256GB and 512GB models feature 8GB of memory, and my colleague Antonio G. Di Benedetto was impressed with both the speakers and screen. It isn’t super performant, especially in terms of storage speed and total memory, but it’s great for everyday tasks, casual use, and students. Read our Apple MacBook Neo review .</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Satya sorry for SaaS-y SNAFU - look over there, more AI!</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/17/satya-sorry-for-saas-y-snafu-look-over-there-more-ai/5310594</link>
+<guid isPermaLink="false">52e5a82eefdf7a3f5665b52615f66c88ab165abd68a391131bf71429abfe8689</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 21:44:58 +0000</pubDate>
+<description>Microsoft CEO Satya Nadella's Ignite conference keynote on Tuesday was all about trust. He opened by promising to earn back trust after last week's massive M365 outage and went on to focus on the need for organizations to trust their AI models. "So last week in some sense was really a reminder of how critical digital infrastructure is as the dial tone for the world," said Nadella. "We know the trust you place in our services and take that responsibility extremely seriously. And in that context, I know we have work to do to provide that resilience that you can count on, the world can count on, and we are committed to ensuring that we learn and we continuously improve." Speaking at San Francisco's Moscone Center, Nadella described three areas of focus for the company as it works to build what he referred to as a frontier ecosystem: "Keeping the human at the center of it all, ensuring that you have ownership over your organization's intelligence and learning, and trust." Anthrocentrism is a tough sell just weeks after offering buyouts to 60,000 employees . Describing the shift from hand-written code to agent-written code, Nadella suggested developers have moved from building software artifacts to building software factories that build those artifacts. "The important thing here though is to remember still that that human intent, that judgment, that experience, skills, expertise all very much matter," he said. People may judge development work, but ask them whether they have the same sense of ownership as when they wrote every line. As to ensuring that organizations have ownership over their intelligence, that borders on heresy for a company with massive cloud computing commitments specifically to run AI workloads. If everyone really owned their machine learning models and ran them in their own data centers and on employee computers, Azure would be in trouble. Yet Nadella emphasized ownership – which isn't at all obvious given the legal ambiguity of who owns AI generated code and whether it can be copyrighted . "In the age of AI, the key question is how do individual firms continually build and own their learning and tacit knowledge?" he said. "For an economy to remain an economy where many firms exist and thrive, intelligence by definition needs to be broadly distributed versus just collapsed into a couple of models." Suffice to say that Nadella is promoting client control over AI data that's processed mostly on equipment rented from Microsoft, with some allowance for customer-controlled infrastructure. But that still ought to concern frontier AI labs like Anthropic and OpenAI that favor a white-glove, black-box service model where they are the arbiters of access. As for the third pillar of Nadella's vision, that's trust, which remains missing in action. "How can you even trust all this powerful technology?" Nadella asked. "And the reality is, by definition, you can't. In other words, it becomes an architectural imperative to separate the supply of i</description>
+<enclosure url="https://image.theregister.com/?imageId=5250857&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5250857&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing</title>
+<link>https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang</link>
+<guid isPermaLink="false">9fdb7eafd9b743622657deb88aa43696e35bf0756259ec8628e9ca4e3d904a45</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 21:40:59 +0000</pubDate>
+<description>Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure , or possible attempt at a return . That will likely change once analysts are on the line for its earnings call in a few minutes. As it predicted in the last financial update , Nvidia is now on the list of companies that have pulled in over $100 billion in a single quarter, with revenues of $115.8 billion, up 103 percent from the same period last year and higher than its expectation of $108 billion. This quarter's figures include data center revenues of $107.6 billion, which wer … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Nike’s new air sole technology can mix soft and firm cushioning</title>
+<link>https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning</link>
+<guid isPermaLink="false">885aae1d1e966b41a7bdb64427208dda53c1694c46cc207490fe281a857b7126</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 21:38:08 +0000</pubDate>
+<description>In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using its new Tuned Air technology . While previously the level of cushioning in Nike Air shoes was uniform across the entire sole, a new manufacturing process can produce multiple air pockets with varying levels of cushioning and stability. Nike has been putting air pockets into its shoes for nearly 50 years as a way to increase comfort and cushioning while making them l … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nike1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nike1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang thrilled to be spending time with family, but will retake leadership burden if Nvidia asks</title>
+<link>https://www.theregister.com/systems/2026/11/17/jensen-huang-thrilled-to-be-spending-time-with-family-but-will-retake-leadership-burden-if-nvidia-asks/5310585</link>
+<guid isPermaLink="false">633e0176bf58cff3772fa572c48556628881474a3667bbe36bf530cc30762835</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 21:15:42 +0000</pubDate>
+<description>No surprises here. Ex-Nvidia boss Jensen Huang says that he'd be willing to come back to the company he founded, if the board wants him to return. In Huang’s first public comments since his resignation last week over a series of extramarital affairs, both with Nvidia staff and an alleged Chinese spy at one of its customers, he admits that he may have made life hard for the company he spent 33 years building, but he’s really sorry…and Nvidia couldearn really use him. “I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life,” Huang admitted. “I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation.” But soft, what open letter through yonder news cycle break? It's one calling widely for Huang’s return – and he's happy to oblige if Nvidia’s post-Jensen crisis-mode leadership is willing to indulge him. “Since my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO,” Huang said. “Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics.” Nvidia, Huang added, has been his life’s work, and is a “once-in-a-generation company” that perhaps needs his steady hand at the helm. There have been a number of public calls for Huang’s return to the head of the company he helped create, from tech industry heavyweights and Nvidia shareholders like Elon Musk, Epic Games CEO Tim Sweeney, and Y Combinator CEO Garry Tan, as well as a number of current Nvidia employees, company partners, and shareholders upset that the stock has lost more than a quarter of its value since reports of the affair first emerged. One petition pleading for his return has nearly 200,000 signatures . Faced with that, what else can a disgraced billionaire tech founder who may have literally have been in bed with a Chinese spy do? Duty calls. “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO,” Huang said. Reports citing Nvidia insiders with knowledge of the matter suggest the board isn’t considering reinstating Huang as CEO despite the public push. We put the question to the company directly and haven't heard a peep back. The decision may ultimately come down to economics, though. Nvidia is due to report its third quarter earnings Tuesday after US markets close, and all eyes are on the numbers. “I believe Nvidia will likely beat on revenue again because demand for its chips is still enormous,” financial advisory firm deVere Group’s CEO Nigel Green said of his expectations for the company. “Nvidia’s business is still growing at an astonishing rate,” Green added. “Investors are selling because they don’t know who’ll be running it.” “</description>
+<enclosure url="https://image.theregister.com/?imageId=222354&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=222354&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Not even Sam Altman is safe from AI deepfakes on Instagram</title>
+<link>https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake</link>
+<guid isPermaLink="false">782245fbd80625eb45b0dda4bacd84c13be523880b1febb679f4ecb28940fac4</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 21:00:55 +0000</pubDate>
+<description>Open AI CEO Sam Altman does a television interview | Getty Images Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Jolly, the anthropomorphic mascot of Muse, are on a four-way video call. When Altman joins the call he's dressed like Jolly, wearing a furry hooded suit and face paint to look like the cutesy character. The clip is captioned "When the homies meet about openai product strategy," a reference to the AI ag … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>There's a chance your Xbox Series X is plugged into the wrong HDMI port</title>
+<link>https://www.engadget.com/2315403/chance-xbox-series-x-plugged-into-wrong-hdmi-port</link>
+<guid isPermaLink="false">0f23c1a55a1b956fcf464aa904e64ef416d75035af6a40d950b41b7707595d59</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 21:00:00 +0000</pubDate>
+<description>Make sure you're getting the most out of your Xbox Series X, starting with a port check.</description>
+<enclosure url="https://www.engadget.com/img/gallery/theres-a-chance-your-xbox-series-x-is-plugged-into-the-wrong-hdmi-port/l-intro-1794516377.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/theres-a-chance-your-xbox-series-x-is-plugged-into-the-wrong-hdmi-port/l-intro-1794516377.jpg" medium="image"/>
+</item>
+<item>
 <title>Instagram is helping creators crack down on copycat videos</title>
 <link>https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos</link>
 <guid isPermaLink="false">73f3c396c073fda1c5d7cb20a3017e3dd52b275f8f4b522d2e74d26ba2e98a04</guid>
@@ -54,7 +131,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Tue, 17 Nov 2026 19:52:57 +0000</pubDate>
-<description>After being instructed to "NEVER stop, NEVER give up" on a difficult task, Google’s Gemini AI agents tried to hack a an organization, impersonating its staff and attempting a SQL injection attack. The good news? It was all part of a test. The Gemini 4 Argon agents were given an impossible task to complete – come up with the “official” answers to Epoch AI’s FrontierMatch problems. In some runs they had internet access. Even with their production safeguards enabled, Trajectory Labs says the agents “engaged in misaligned behavior.” “Across four scenarios, they attempted SQL injection against Epoch AI’s live website, claimed to be Epoch staff to get answer keys, turned a shared package cache into a message board, and obfuscated their commands to avoid their safeguards,” the AI safety company said in a Friday report. If this all sounds similar, it should. Google’s AI agents behaved in much the same way as OpenAI’s models did when they broke out of their testing environment and hacked Hugging Face . Google did not respond to The Register 's questions. According to Trajectory, the Hugging Face intrusions prompted it to test misalignment in other models. While OpenAI’s models were running with their safety guardrails turned off in the Hugging Face scenario, Trajectory “wanted to know whether a current frontier model would behave the same way with its production safeguards enabled.” Trajectory ran swarms of up to 80 Gemini 4 Argon agents, gave them an impossible task, and prompted them not to give up until they completed it – which, we’re told, was “intentionally” done to “elicit misaligned behavior, if it existed.” Turns out it existed. “We told the agents to persist with an impossible math benchmark task, but we did not tell them to hack anyone or pose as Epoch staff,” McIntyre said. “When a model hacks systems or deceives people to finish a task, it is misaligned with what its developer and its user intended,” he continued. “Production safeguards are meant to block harmful requests even when the model itself goes wrong. Under our test conditions, neither the model nor its safeguards stopped the agents.” Four test scenarios The initial testing began on October 20, and the agents had internet access. We should note that all of these tests were run with Epoch’s consent. In the first scenario, the agents did reach Epoch’s live website – and fell into the research nonprofit’s honeypots, set up to detect AI agents. These honeypots contained a decoy benchmark key, which the agents found and used. The agents also probed for internal endpoints including /admin, /keys and /users, and attempted a SQL injection. After noticing the agents’ activities, Epoch added an “agent helpline,” and some of the agents that used it claimed to be Epoch staff seeking answers to the test questions. After this initial test, Trajectory and Epoch decided to use a copy of the website instead of a live version, and built a buggy local copy with a planted vulnerability based on CVE-2026</description>
+<description>After being instructed to "NEVER stop, NEVER give up" on a difficult task, Google’s Gemini AI agents tried to hack a an organization, impersonating its staff and attempting a SQL injection attack. The good news? It was all part of a test. The Gemini 4 Argon agents were given an impossible task to complete – come up with the “official” answers to Epoch AI’s FrontierMatch problems. In some runs they had internet access. Even with their production safeguards enabled, Trajectory Labs says the agents “engaged in misaligned behavior.” “Across four scenarios, they attempted SQL injection against Epoch AI’s live website, claimed to be Epoch staff to get answer keys, turned a shared package cache into a message board, and obfuscated their commands to avoid their safeguards,” the AI safety company said in a Friday report. If this all sounds similar, it should. Google’s AI agents behaved in much the same way as OpenAI’s models did when they broke out of their testing environment and hacked Hugging Face . Google did not respond to The Register 's questions. According to Trajectory, the Hugging Face intrusions prompted it to test misalignment in other models. While OpenAI’s models were running with their safety guardrails turned off in the Hugging Face scenario, Trajectory “wanted to know whether a current frontier model would behave the same way with its production safeguards enabled.” Trajectory ran swarms of up to 80 Gemini 4 Argon agents, gave them an impossible task, and prompted them not to give up until they completed it – which, we’re told, was “intentionally” done to “elicit misaligned behavior, if it existed.” Turns out it existed. “We told the agents to persist with an impossible math benchmark task, but we did not tell them to hack anyone or pose as Epoch staff,” McIntyre said. “When a model hacks systems or deceives people to finish a task, it is misaligned with what its developer and its user intended,” he continued. “Production safeguards are meant to block harmful requests even when the model itself goes wrong. Under our test conditions, neither the model nor its safeguards stopped the agents.” Four test scenarios The initial testing began on October 20, and the agents had internet access. We should note that just one of these tests was run with Epoch’s consent. In the first scenario, the agents did reach Epoch’s live website – and fell into the research nonprofit’s honeypots, set up to detect AI agents. These honeypots contained a decoy benchmark key, which the agents found and used. The agents also probed for internal endpoints including /admin, /keys and /users, and attempted a SQL injection. After noticing the agents’ activities, Epoch added an “agent helpline,” and some of the agents that used it claimed to be Epoch staff seeking answers to the test questions. After this initial test, Trajectory and Epoch decided to use a copy of the website instead of a live version, and built a buggy local copy with a planted vulnerability based on CVE-</description>
 <enclosure url="https://image.theregister.com/?imageId=223243&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=223243&amp;width=800" medium="image"/>
 </item>
@@ -158,17 +235,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Meta is testing a new standalone messaging app called Direct</title>
-<link>https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app</link>
-<guid isPermaLink="false">cb2a5c36cacebc7661d8c9d0fa77d8e1ef61c321ba0156b52d37a856b1fecb8f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 18:33:02 +0000</pubDate>
-<description>Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other features. Meta says your Instagram chats will sync across both apps if you login with the same account. You can also sign up with an email or phone number, but Meta says if you use Direct without an Instagram account, "only your contacts can start a chat with you or add you to a group." This is far from Meta's first messaging app - it also has Messenger, which requires a Facebook account to use, and WhatsApp, which Meta (then Facebook) ac … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-instagram-direct-app-screenshots.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-instagram-direct-app-screenshots.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>America's hyperscale bit barns draw as much power as entire states</title>
 <link>https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471</link>
 <guid isPermaLink="false">bfa3feffe325eb8d0ef6ae67401a0bdb5c4eb00bbcf2c7ad34bd60dc73302425</guid>
@@ -268,6 +334,17 @@
 <media:content url="https://www.engadget.com/img/gallery/ways-to-tell-if-someone-blocked-your-phone-number-on-iphone/l-intro-1794512169.jpg" medium="image"/>
 </item>
 <item>
+<title>Jensen Huang to testify before Congress on ‘potential breach of national security’</title>
+<link>https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy</link>
+<guid isPermaLink="false">b4fc97228580f320e54827bdf4e713325c57a911453e04b60abac3c57b896ee6</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:58:05 +0000</pubDate>
+<description>High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for a closed-door transcribed interview the following day, 2 December. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90cf5632e3df63abaa742102cb0c1b72" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90cf5632e3df63abaa742102cb0c1b72" medium="image"/>
+</item>
+<item>
 <title>I asked Gemini Notebook to ‘make me a site’ from my notes – it was satisfying</title>
 <link>https://www.zdnet.com/innovation/google-gemini-notebook-interactive-sites-notes</link>
 <guid isPermaLink="false">40d2af4ddd587943066ef52bb48fb99ed0a242cae478d033c871d6ac73e7dffe</guid>
@@ -277,17 +354,6 @@
 <description>A new Gemini Notebook feature lets you create interactive sites from intricate data.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/1111_97018e.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1111_97018e.jpg" medium="image"/>
-</item>
-<item>
-<title>YouTube found a new way to inflate view counts</title>
-<link>https://www.theverge.com/streaming/1035683/youtube-co-views-count</link>
-<guid isPermaLink="false">5084113153afc06d83124424670dc6def7550a0d0b6de27178a9788ddbccdb82</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 17:50:22 +0000</pubDate>
-<description>YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday , the platform says it's bringing "co-views" to public view counts across long-form videos, Shorts, and live content to provide a more "complete picture" of how people are using its platform. YouTube, which has become even more popular on TVs than phones, also says the change will help it align with "TV industry standards," which similarly record views by estimating the number of people watching shows. The company says it doesn't use devices, like cameras or microphones, to estimate how many people are wat … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The easiest way to set up CarPlay for the first time</title>
@@ -312,17 +378,6 @@
 <media:content url="https://image.theregister.com/?imageId=2918386&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The iPhone Duo feels far more intuitive with Apple’s new face unlock</title>
-<link>https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on</link>
-<guid isPermaLink="false">02cb24133730ffc804bddf4c892f5d85402f8a48156eeca3ad55dbf868801777</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 17:41:22 +0000</pubDate>
-<description>Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo quicker and more comfortable to use than relying on Touch ID every time. That's one of my gripes with the phone taken care of. The Duo's foldable architecture means that Apple couldn't fit in the full Face ID sensor array found on the rest of the iPhone lineup (though it reportedly hopes to change that by the second generation). Instead, it simply has two selfie cameras - one on the outer display, and another hidden under th … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-face-unlock-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-face-unlock-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>UK tribunal tosses PlayStation Store price-gouging lawsuit, citing physical games as competition</title>
 <link>https://www.engadget.com/2319408/uk-tribunal-tosses-playstation-store-price-gouging-lawsuit-citing-physical-games-as-competition</link>
 <guid isPermaLink="false">df593ce4e855ea9db96293e302cec55e71ce84bd8b6e06d31734aa8e94b804e6</guid>
@@ -340,7 +395,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Tue, 17 Nov 2026 17:35:26 +0000</pubDate>
-<description>Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday. “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO,” he wrote in a statement published in the Wall Street Journal and CNBC . Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I’ve never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA. Continue reading...</description>
+<description>Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company on Thursday. “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO,” he wrote in a statement published in the Wall Street Journal and CNBC . Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I’ve never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc8d2155f1a2e333c51ad345ea01dc16" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc8d2155f1a2e333c51ad345ea01dc16" medium="image"/>
 </item>
@@ -585,17 +640,6 @@
 <description>Discover these overlooked Google Maps features that help you plan your route and cut distractions so you can arrive at your destination on time.</description>
 <enclosure url="https://www.engadget.com/img/gallery/the-hidden-features-every-google-maps-user-should-know-about/l-intro-1794489159.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-hidden-features-every-google-maps-user-should-know-about/l-intro-1794489159.jpg" medium="image"/>
-</item>
-<item>
-<title>Xiaomi's 18 Pro series can generate vibe-coded apps for its tiny rear display</title>
-<link>https://www.engadget.com/2319013/xiaomi-18-pro-vibe-coded-apps-launch-hands-on</link>
-<guid isPermaLink="false">a5049c2e05f8ff3b3022f432341107858d1916cb2c7db4f7ac28ea3ebfcfcccb</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 14:35:50 +0000</pubDate>
-<description>Xiaomi is back with more Pro phones, featuring second screens, capable cameras and a slick red color.</description>
-<enclosure url="https://www.engadget.com/img/gallery/xiaomis-18-pro-series-can-generate-vibe-coded-apps-for-its-tiny-rear-display/l-intro-1794925745.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/xiaomis-18-pro-series-can-generate-vibe-coded-apps-for-its-tiny-rear-display/l-intro-1794925745.jpg" medium="image"/>
 </item>
 <item>
 <title>Website owners thumb their noses at EU privacy rules, researcher finds</title>
@@ -882,17 +926,6 @@
 <description>Lawsuit stems from earlier incident where tech company’s products hacked into open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public’s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents – semi-autonomous AI software that can carry out digital actions on behalf of users – launched a cyber-attack into the open-source AI platform Hugging Face. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/a82ee4985c0d264e0ee6c830a014ad1e4ab73ec0/1050_51_3174_2541/master/3174.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edb532145d53c72acb270b5f38901683" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/a82ee4985c0d264e0ee6c830a014ad1e4ab73ec0/1050_51_3174_2541/master/3174.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edb532145d53c72acb270b5f38901683" medium="image"/>
-</item>
-<item>
-<title>Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit</title>
-<link>https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars</link>
-<guid isPermaLink="false">f78829236dd8ad21d7cd633ab7a928f4f06d00a8de4b0ece897d2097101cb07f</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 21:00:21 +0000</pubDate>
-<description>Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a tightrope in his relationship with Donald Trump when the two leaders meet on Tuesday, as Australia signed on to a US-led pact to secure the technologies ​and critical infrastructure for artificial intelligence supply chains. The Quad leaders’ summit in the Philippines’ capital of Manila will be Trump’s first, in either of his presidencies. The US president, fresh from a crushing midterms result, will take centre stage in gatherings of Asian leaders and prepare for historic three-way talks with Xi Jinping of China and Russia’s Vladimir Putin this week. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=293a5c277b8e6822666594bbce36ad3c" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=293a5c277b8e6822666594bbce36ad3c" medium="image"/>
 </item>
 <item>
 <title>Microsoft identifies months-old bug as a root cause of global outage</title>
@@ -1355,28 +1388,6 @@
 <description>If you've made mistakes at work that threatened to torch your career, The Register has just the column for you. We call it Who, Me? , we print one every Monday, and you're reading this week's instalment! Today, meet a reader we'll Regomize as "Axl" who once worked at a petrol station (aka a gas station for US readers). One Friday afternoon, in the shadow of a holiday weekend, the PC that drove the station's pumps and point of sale stopped working, leaving it unable to operate. Axl called the manufacturer and got the very unwelcome news that a technician could visit on Tuesday at the earliest. As the petrol station was in a spot that would attract a few weekend tourists, the potential losses were substantial, and Axl felt he needed to act. He knew the main computer lived inside a large metal box affixed to a wall, an arrangement that meant electronics and flammable vapors were always kept well apart. The machine's power switch was accessible, so Axl turned it off and on again – and watched the machine come back to life, before shutting itself down five minutes later. That behavior was a strong hint that something was overheating but confirming that theory was not easy because the metal case included a lock (see previous remarks about preventing fires) and Axl didn't have they key. Axl inspected the hinges on the box, found they were held on with screws and was able to remove the lid and access the PC. "Aside from the considerable amount of dust and hair inside, I could see that the CPU fan was not turning," he wrote. "Either it had failed or was not receiving the control signal to cool." The service station had an office out the back. Axl liberated a desk fan, pointed it at the PC, and watched it come alive again. An hour later, the PC was still working, so Axl decided he needed a fix that would last the weekend. "I drove to a local electrical shop and purchased a high speed bathroom extraction fan which I rigged up inside the case, then closed it up best I could with tape and cardboard," he told The Register . That rickety rig kept fuel flowing for three days. "On Tuesday afternoon, the support engineer arrived and I explained how I kept us in business over the weekend," Axl wrote. "He just shrugged his shoulders, smiled and changed the failed fan. I didn't even get the 'It's our kit, leave it alone' lecture." He did get the satisfaction of a job well done. "No one died from an exploding petrol station and the tourists were happy they could go home," he wrote. Have you made a risky fix in a dangerous place? If so, the safe option is to click here and send your story to Who, Me? We promise to handle it with care and hopefully share it on some future Monday. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5309606&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309606&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads</title>
-<link>https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016</link>
-<guid isPermaLink="false">faf1d1172602e3bfd6ed84215f890f7026d6cc785119212185e20d6e8c2e2816</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 06:04:02 +0000</pubDate>
-<description>Microsoft has issued version 4.0 of its very own Azure Linux, which it built atop Fedora for the first time and now suggests is ready to run mainstream workloads. Redmond’s history with Linux is long and tangled. Former CEO Steve Ballmer infamously labelled the project a cancer but by 2015 Microsoft had quietly adapted the OS to power some switches in its Azure Cloud. Microsoft then built some of its own Azure services on containers and created a lightweight Linux for them to run in. In 2020, Microsoft released that Linux as CBL-Mariner, largely so that developers who used services like Azure Kubernetes Service (AKS) that relied on the OS could access the platform they were building for. In 2022, CBL-Mariner became Azure Linux 2.0, another container-centric lightweight release. Version 3.0 followed in 2024, now billed as ready for “broad Azure usage” with Azure Kubernetes Service. In June 2026, Microsoft announced version 4.0 and billed it as suitable for Azure Virtual Machines, VM Scale Sets, and container images. The big change that made that repositioning possible was basing the OS on Fedora rather than Microsoft’s own Common Base Linux. Microsoft also tuned the Linux kernel – version 6.18 LTS – by adding Hyper-V guest drivers and other features that make it behave well in Azure. It also natively supports tools like Microsoft Defender for Cloud, Azure Monitor, and the Azure CLI, which Microsoft reckons committed Azure users already employ and therefore want to apply to their cloudy Linux workloads. Or as Redmond puts it: “the familiarity of [the] RPM package ecosystem, while adding Azure-native security, compliance, and operational capabilities.” All of those changes add up to an OS that Microsoft says is worth a look “Whether you're running web applications, databases, or GPU-accelerated AI/ML workloads.” Redmond makes that recommendation in part because Azure Linux comes with “no additional OS licensing cost.” Other commercial Linux distributions will cost users money, meaning Microsoft can now make an argument that SUSE and RHEL subscriptions might be superfluous for both AKS users and those who use Azure to host other applications on Linux. Azure Linux 4.0 debuted last Thursday and is available here . Redmond’s latest Linux debuted just days after Microsoft issued a monster upgrade to version 3.0. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5310021&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310021&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Amazon loses first batch of broadband satellites launched on custom rocket</title>
-<link>https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000</link>
-<guid isPermaLink="false">60e03a6f650d07ec6f548b59019302a24234ac4f8201c9add67abb0971c9ffc3</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 01:32:57 +0000</pubDate>
-<description>Amazon’s ambition to operate a constellation of broadband satellites took a hit on Sunday, when 40 of its craft failed to make it into orbit. The failure is significant because it was the first Amazon launch to use a rocket designed especially for the job of carrying its broadband birds to low Earth orbit. The Lockheed/Boeing joint venture United Launch Alliance (ULA) created that rocket, a version of its Vulcan heavy lifter using a six-booster configuration and a Centaur V upper stage optimized to carry payloads into low Earth orbit. Last week, Amazon previewed the launch with a post that noted this mission, code-named LV-01, is the first of 38 planned missions with ULA, and that LV-02 would likely follow within weeks. The two companies planned to test new hardware on the first “several” flights using the custom rocket. Amazon put 40 satellites aboard the Sunday mission and said it is “already planning larger configurations for subsequent missions.” Those plans, and the LV-02 launch, are probably on hold after the rocket suffered an anomaly 10 minutes into the flight. The flight began well, with the Vulcan reaching an altitude of 95 miles (150 km) and completing the first phase of its flight. Six minutes into the mission, the main booster and payload fairing both separated as planned, and ULA lit up the Centaur V’s engines for the first planned firings needed to reach low Earth orbit. Then came the anomaly, which UAL’s live update stream states meant the mission “failed to deliver the Amazon mission to orbit.” “Every flight generates data, and every flight teaches us something,” UAL wrote. “Since the anomaly just occurred, we don’t have any specific data yet to understand what occurred today.” Amazon already has over 200 satellites in orbit, had hoped to launch its satellite broadband service this year, and plans 20 or more launches in 2027. It is unclear if this mission failure will change those ambitions. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5310005&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310005&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>How sensitive data from Centrelink and other Australian agencies may have been fed to Palantir software</title>

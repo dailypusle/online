@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Dave applies for national bank charter</title>
+<link>https://www.bankingdive.com/news/dave-fintech-applies-national-bank-charter-occ-fdic-fed/874920</link>
+<guid isPermaLink="false">42e52e1a4d62f2dd96c6b780df5f876b7c2d1cbec17353657dbf0227e84847be</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 17:04:43 +0000</pubDate>
+<description>A charter would be an opportunity to offer products “to level the playing field for everyday Americans,” said proposed bank president Anthony Sharett.</description>
+<enclosure url="https://imgproxy.divecdn.com/AE3N_2pnsY9XbdFAGBkenqWenPJRthL223LGTLjrSPw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xOWYyNGQ2OS01OTMxLTQ4NjgtYjFhZi03ZjYyY2RjNTA1YzYuanBn.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/AE3N_2pnsY9XbdFAGBkenqWenPJRthL223LGTLjrSPw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xOWYyNGQ2OS01OTMxLTQ4NjgtYjFhZi03ZjYyY2RjNTA1YzYuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>JPMorgan updates AR platform to help free up working capital</title>
+<link>https://www.bankingdive.com/news/jpmorgan-updates-accounts-receivable-platform-working-capital-michelle-conklin/874918</link>
+<guid isPermaLink="false">820c4c6e0a8476f237fd968054866a1ad0ea67f5a53a21ba3e925de8f192946c</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 16:56:00 +0000</pubDate>
+<description>The bank, which has been in the receivables business for decades, has recently taken steps to modernize its platform, JPMorgan’s Michelle Conklin said.</description>
+<enclosure url="https://imgproxy.divecdn.com/ouwOaPq822_I2qc8Ooa9ubPrXFdX3Jrd9pwYXYo9QCs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc3MzU1NzQuanBn.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/ouwOaPq822_I2qc8Ooa9ubPrXFdX3Jrd9pwYXYo9QCs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc3MzU1NzQuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives</title>
+<link>https://bitcoinmagazine.com/news/coinbase-chatgpt-plugin-bitcoin-trading</link>
+<guid isPermaLink="false">219923d8977c84540b652424871b767b3d20f0c4fcc280b46d38530d03952061</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 16:45:00 +0000</pubDate>
+<description>Bitcoin Magazine Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives Coinbase launched an official plugin for ChatGPT on Tuesday that lets users connect a Coinbase account and trade bitcoin, other cryptocurrencies, stocks and derivatives without leaving the conversation, provided they approve every order. The company said the tool puts trading “in the same chat you use for everything else.” Users can connect an account, review a portfolio and place orders from ChatGPT on the web, on mobile or on desktop. Chief executive Brian Armstrong wrote that “starting today anyone with ChatGPT can connect their Coinbase account” and can “trade right inside your Coinbase account.” Coinbase posted a link to the official plugin in ChatGPT’s directory. Its developer documentation describes a short setup: sign in, review the access being requested and choose which portfolios the plugin can see. Interactive confirmation cards in the chat cover new orders, edits, cancellations and conversions between dollars and USDC. Read-only requests, such as checking a balance, do not use them. Bitcoin, Stocks and Dated Futures, With a Card on Every Trade The announcement did not single out bitcoin, but the plugin sits on the same rails as Coinbase for Agents, the company’s toolkit for connecting AI apps to a trading account. That documentation lists spot trading in more than 900 pairs, including bitcoin, along with eligible U.S. stocks and dated futures from Coinbase Financial Markets. The examples include a market buy of bitcoin and a dated bitcoin futures contract. Orders go through Advanced Trade, so those fees and eligibility rules apply. Fees vary by product, fee tier and whether an order adds or takes liquidity, and they are shown on the order preview. The official plugin is narrower than the full agent toolkit. A separate custom connection is required for the company’s Global Derivatives products and for x402 payments, which agents can use to buy market data. Coinbase already offers U.S. customers stock and ETF trading on its own platform, but the agent documentation says equity orders trade during regular market hours by default. The plugin should not be read as a new around-the-clock stock venue. What a user can buy still depends on the products already attached to that account. Official Access Is Limited to U.S. Coinbase Users Armstrong’s “anyone with ChatGPT” line is broader than the documentation. The official plugin is currently available to U.S. Coinbase users, and availability also depends on a user’s ChatGPT account and workspace. If the plugin does not appear, the company tells users to check their workspace’s plugin policy. In a disclaimer attached to Tuesday’s announcement, it said product availability, eligibility and Coinbase entities “vary by jurisdiction,” that trading can result in a total loss, and that “AI agents may fail.” The same post said users direct all AI activity and assume full responsibility. The developer documenta</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Coinbase-Launches-ChatGPT-Plugin-for-Trading-Bitcoin-Stocks-and-Derivatives-.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Coinbase-Launches-ChatGPT-Plugin-for-Trading-Bitcoin-Stocks-and-Derivatives-.jpg" medium="image"/>
+</item>
+<item>
+<title>Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme</title>
+<link>https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading</link>
+<guid isPermaLink="false">327d82a04cd77c76a0d7203faa6c83b2b65094b19bf4bbadcc5ccaf7db73e1d1</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 16:41:38 +0000</pubDate>
+<description>Huaisong Xiang admitted repeatedly trading perpetual futures on Hyperliquid using confidential Robinhood listing plans, pocketing $125,523.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings</title>
+<link>https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings</link>
+<guid isPermaLink="false">3c2ff52b4c817f991ccc5e07b6e18804caf1c796386fc9da6f9a6dc41d711885</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 16:39:43 +0000</pubDate>
+<description>Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N46854SJGNK5GMN2W9MWH0/article-covers-256498-bitcoin-hints-regime-shift-btc-price-dips-69-5k-iran-nerves-960x640.webp" type="image/webp"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N46854SJGNK5GMN2W9MWH0/article-covers-256498-bitcoin-hints-regime-shift-btc-price-dips-69-5k-iran-nerves-960x640.webp" medium="image"/>
+</item>
+<item>
+<title>Trezor Shipping Partner Breach Exposes 27,000 Orders as Customers Report Scam Calls</title>
+<link>https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders</link>
+<guid isPermaLink="false">06e697ebba8e773c885b40681971aed2027c1d6aea947a7e6c869d77fdbd4859</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 16:20:00 +0000</pubDate>
+<description>Bitcoin Magazine Trezor Shipping Partner Breach Exposes 27,000 Orders as Customers Report Scam Calls Trezor said Monday that a data breach at Skladon, one of its shipping partners, exposed personal information tied to about 27,000 hardware-wallet orders, and that some customers have already reported scam calls. The company’s own systems were not compromised, and no wallet backups, PINs or passphrases were involved. Skladon notified Trezor on Nov. 15 of unauthorized access to systems that held customer shipping data. The breach itself took place on Nov. 7. Trezor believes the attacker exported records for orders placed between Aug. 9 and Nov. 7. An investigation is ongoing. Names, addresses and purchase details were leaked The exposed records included full names, phone numbers, delivery addresses, email addresses, order dates, and the products purchased and their prices. Trezor said neither it nor Skladon ever holds wallet backups, PINs or passphrases, so the breach does not, by itself, let an attacker move a buyer’s bitcoin. It does give a stranger a home address and proof that the person bought a device designed to store crypto. Anyone who received Trezor’s incident email and ordered in that window was affected. A small number of customers who ordered between Aug. 9 and 14 may also be included, but the company cannot email them because those details had already been anonymized under its 90-day retention policy. It is reaching those buyers through its blog and posted the same warning on X. Skladon does not ship to the United States, Trezor said, so U.S. customers were not affected by this incident. The company added that Skladon delivers to many countries, and that the leak is not limited to one region. Trezor warns of scam calls Trezor told customers to treat any unexpected call, text, email or letter about their order as suspicious, and to be alert to potential risks to their physical security. Scammers may quote real order details, including what was bought and what was paid, to make a message look genuine. Some customers have already reported scam calls. “Trezor will never cold-call you or ask for your wallet backup,” the company said . Customers should contact support only through the company’s website, never through a link, QR code or number in an unsolicited message, and should never enter a wallet backup anywhere except on their device. If a message contains a threat or makes someone feel unsafe, Trezor said to contact local police first. The third partner incident this year This is not the first time a Trezor contractor has lost customer data. In August, a breach at shipping provider ShipMonk exposed records from 13,689 customers, including 11,742 with full names, emails, phone numbers and shipping addresses. Trezor later said another approximately 67,000 U.S. customers who ordered between November 2019 and August 2021 were also affected, after ShipMonk failed to delete records it had assured the company were gone. In September, a breach</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Trezor-Shipping-Partner-Breach-Exposes-27000-Orders-as-Customers-Report-Scam-Calls.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Trezor-Shipping-Partner-Breach-Exposes-27000-Orders-as-Customers-Report-Scam-Calls.jpg" medium="image"/>
+</item>
+<item>
 <title>Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion</title>
 <link>https://bitcoinmagazine.com/news/wells-fargo-ibit-stake-doubles-strategy-cut</link>
 <guid isPermaLink="false">70d672f3e11a7f9e05a04d035b72d57df1aabe9a82f8a6c57a5ca9c5063a95e4</guid>
@@ -455,17 +521,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JZ53YRDRJQGKMN9M3767RB/hi-10-public-companies-that-quietly-turned-their-balance-sheets-into-bitcoin-treasuries.png" medium="image"/>
 </item>
 <item>
-<title>Senate Agriculture Committee to Hear Trump’s CFTC Nominees Tuesday</title>
-<link>https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday</link>
-<guid isPermaLink="false">535af55267eaff7a20d85994d24b51f833c93f80e829c22f604ce9910c603278</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 20:44:23 +0000</pubDate>
-<description>Bitcoin Magazine Senate Agriculture Committee to Hear Trump’s CFTC Nominees Tuesday The Senate Agriculture Committee will hear President Donald Trump’s two nominees to the Commodity Futures Trading Commission (CFTC) on Tuesday, a confirmation hearing that comes as the derivatives regulator has only one sitting commissioner. The committee scheduled the session for 3 p.m. Eastern in Room 106 of the Dirksen Senate Office Building. The White House sent the nominations to the Senate on Nov. 12. The nominees are Nathan Anonick of Virginia and Matthew Rowland of the District of Columbia. The hearing notice says to check back for live video, and the committee has not posted written testimony. Trump nominated the pair last week as part of a bipartisan slate for the CFTC and the Securities and Exchange Commission, a step that would begin to refill two regulators that have been operating short-handed. Who the nominees are Anonick serves on the Republican staff of the Senate Agriculture Committee under Chairman John Boozman of Arkansas. He was nominated to the seat once held by former Chairman Rostin Behnam, for a term ending June 19, 2031. A 2023 committee release said Anonick joined the panel in 2022 to manage a portfolio that includes cryptocurrencies, futures markets and derivatives, and that he had previously worked at the Federal Deposit Insurance Corporation as a resolution policy specialist. Rowland is a CFTC attorney detailed to the committee’s Democratic staff under Ranking Member Amy Klobuchar of Minnesota. He would fill the remainder of former Commissioner Summer K. Mersinger’s term, which expires April 13, 2028. Both nominees come from the committee that oversees the CFTC. CFTC Chairman Michael Selig called them “two strong bipartisan picks” and said he looks forward to working with them “upon their confirmation by the US Senate.” Kristin N. Johnson and Steven Levine, the two SEC nominees from the same White House list, are on the agenda for a Senate Banking Committee nominations hearing at 10 a.m. Thursday in Dirksen 538. A CFTC commission of one The CFTC can seat up to five commissioners, with no more than three from the same party. Chairman Michael S. Selig, sworn in Dec. 22, 2025, is currently the only sitting commissioner listed on the agency’s website. Even if the Senate confirms both nominees, two of the five seats would remain vacant. Each nominee still needs a committee vote and then confirmation by the full Senate. The Agriculture Committee has not scheduled that vote. A lame-duck clock and a stalled Clarity Act The hearing lands in a lame-duck Senate, weeks after Democrats swept both chambers of Congress in the Nov. 3 midterms. The new Congress is seated in January. If the Senate does not confirm the nominations before then, they would typically be returned to the president and have to be sent again. After the election, TD Cowen’s Jaret Seiberg told clients he does not expect Democrats to confirm Trump nominees unless the president fi</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/02/Senate-Democrats-Press-DOJ-Treasury-to-Probe-Binance-Over-Trump-Ties-Iran-Sanctions-Allegations.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/02/Senate-Democrats-Press-DOJ-Treasury-to-Probe-Binance-Over-Trump-Ties-Iran-Sanctions-Allegations.jpg" medium="image"/>
-</item>
-<item>
 <title>Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip</title>
 <link>https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys</link>
 <guid isPermaLink="false">381d960e05deeca968a6220792c632718c7518388bbcbe41bb835b5602a5f78f</guid>
@@ -475,17 +530,6 @@
 <description>The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin</title>
-<link>https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin</link>
-<guid isPermaLink="false">6239fa0c0c96b765af7f13d5b687aceaeb3d8ef34ddb122e79e7c235f5a32743</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 20:35:17 +0000</pubDate>
-<description>▶ Bitcoin Magazine Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin AnchorWatch CEO Rob Hamilton is bullish on Bitcoin in the long run, even as he watches liquidity get pulled toward the Anthropic IPO and the AI trade, which he compares to a black hole. He argues this is part of Bitcoin maturing, and that the value proposition is still there. Quantum computing is a risk over the next five to six years, but he came away from Amsterdam believing cryptographers are sprinting to meet the challenge. Cash App: For a limited time, new customers can get $21 added to their balance. Just use the code BMTV21 when you sign up, and send at least $5 to a friend in the first two weeks. Terms apply. Bitcoin services by Block, Inc. See the Bitcoin disclosures at cash.app/legal/podcast. Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 High Energy at Bitcoin Amsterdam 00:46 Jensen’s Exit and a Founder’s Vision 03:03 NVIDIA, Scrutiny, and a Compute Vacuum 04:26 AI Makes the Next 18 to 24 Months Unstable 05:56 Bitcoin Core Speeds Up Its Security Policy 08:15 Cryptography FUD and a Double-Edged Sword 10:47 Proving Bitcoin’s Rules With Bitcoin Lean 12:47 The Binance Hack and Who Can Touch the Keys 14:30 Bitcoin’s Core Value Premises Are Still Intact 15:37 More Chop Ahead, but Bullish in the Long Run DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
-<enclosure url="https://img.youtube.com/vi/9EE3F91J1vo/hqdefault.jpg" type="image/jpeg"/>
-<media:content url="https://img.youtube.com/vi/9EE3F91J1vo/hqdefault.jpg" medium="image"/>
 </item>
 <item>
 <title>Boris Johnson says UK must lead blockchain development despite crypto doubts</title>
@@ -840,17 +884,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J07ZYWCJ0MH18HZT45S0TD/hi-which-cryptocurrency-is-the-most-usable-as-real-money-bitcoin.jpg" medium="image"/>
 </item>
 <item>
-<title>HKMA, Swift explore tokenized deposits for cross-border bank payments</title>
-<link>https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments</link>
-<guid isPermaLink="false">0769dd937f2af29e2878c301f3a740cd8cb2554c5dd0c6f76ccee4670914d256</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 12:54:51 +0000</pubDate>
-<description>HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J398NA409DFNBP1NFSP0YW/blockchain-technology-takes-hold-swift-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J398NA409DFNBP1NFSP0YW/blockchain-technology-takes-hold-swift-1.jpg" medium="image"/>
-</item>
-<item>
 <title>German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'</title>
 <link>https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin</link>
 <guid isPermaLink="false">7bd2d1eec1731cdbbae3fdd6acc4bcc61edb8e3a562831ef70e19804c1465ac9</guid>
@@ -994,17 +1027,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million</title>
-<link>https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years</link>
-<guid isPermaLink="false">f8bdbaa09cb5c6f976811854dabe39e8364199e6a61bca29b2ff0767818e5317</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 19:36:03 +0000</pubDate>
-<description>Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg" medium="image"/>
-</item>
-<item>
 <title>U.S. Bank adding 60 middle-market roles</title>
 <link>https://www.bankingdive.com/news/us-bank-adding-60-middle-market-roles/874635</link>
 <guid isPermaLink="false">1cf4d9ecb9857a92afb6503a28e64a14683ee28a62d6718b9068954d9998355c</guid>
@@ -1014,38 +1036,5 @@
 <description>Middle-market growth is part of the Minneapolis-based lender’s national business banking ambitions. Some of the roles are in Florida and Texas, where the bank does not have branches.</description>
 <enclosure url="https://imgproxy.divecdn.com/CywewUS989Z-jZoukc5PylK_7Hfg5ZOS_CRxnXuNRCk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yWEUzWUU0LmpwZw==.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/CywewUS989Z-jZoukc5PylK_7Hfg5ZOS_CRxnXuNRCk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yWEUzWUU0LmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>Dive Deposits: Guess who’s playing bipartisan ball</title>
-<link>https://www.bankingdive.com/news/trump-nominates-democrats-kristin-johnson-sec-rowland-cftc-anonick-levine-republican/874638</link>
-<guid isPermaLink="false">e3ffac48b5e8378739e126b9bf50c65ecb283c107a113680803aa0bd925cc64e</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 17:05:15 +0000</pubDate>
-<description>President Donald Trump on Thursday tapped two Democrats to serve as SEC and CFTC commissioners. They’re the first opposing-party nominees Trump has proposed for the regulators in his second term.</description>
-<enclosure url="https://imgproxy.divecdn.com/tdzbT6QKbXNwmq41zahyN6zhXPRKaszPN-OyRN5QiNE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg4OTI0OTY2LmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/tdzbT6QKbXNwmq41zahyN6zhXPRKaszPN-OyRN5QiNE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg4OTI0OTY2LmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>Why PayPal wants to have a bank</title>
-<link>https://www.bankingdive.com/news/why-paypal-wants-bank-ilc/874639</link>
-<guid isPermaLink="false">95660b1a4f75ec0acd4b735811463e18333a0dfcf0ae791e34d517cd07e5a7e5</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 15:25:00 +0000</pubDate>
-<description>The digital payments company would tap a bank subsidiary for lending to its merchants, but also to diversify its sources of capital.</description>
-<enclosure url="https://imgproxy.divecdn.com/wfGNeFyb8L3dMslWcItjWm0-P9HWhCtrt_xoqRJWZzM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Mb3Jlcy0xLmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/wfGNeFyb8L3dMslWcItjWm0-P9HWhCtrt_xoqRJWZzM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Mb3Jlcy0xLmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>Ex-PNC employee faces 5 charges in $86K theft</title>
-<link>https://www.bankingdive.com/news/pnc-ex-employee-charged-86k-theft-gambling/874523</link>
-<guid isPermaLink="false">e1b46710be0c6dd8a85fb2cfbbe2953f6bf6b0565b499ce7ca78f88e1ecb2b98</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 17:08:37 +0000</pubDate>
-<description>Jacqueline Clinton allegedly misused her position to make 10 false credit adjustments between May and August. Investigators flagged ATM withdrawals at casinos and gambling websites after transactions.</description>
-<enclosure url="https://imgproxy.divecdn.com/HRVIu5aGLObagcUAuU3c2nCHl-_J7G_fdIHR0ipnhs4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQxMzAxODUxLmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/HRVIu5aGLObagcUAuU3c2nCHl-_J7G_fdIHR0ipnhs4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQxMzAxODUxLmpwZw==.webp" medium="image"/>
 </item>
 </channel></rss>

@@ -4,6 +4,149 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Inside Microsoft’s giant Outlook outage</title>
+<link>https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad</link>
+<guid isPermaLink="false">f6cfcb3bebca50e19dcf5fbd6a40d8905068134864dc1e77f6245b45414fb2e1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+<description>At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started to unfold, leaving employees, businesses, and many governments without access to Outlook emails for nearly 24 hours. It all started in Switzerland, according to a source familiar with the outage. Exchange Online servers that power Outlook started to fall offline. The problem quickly spread to Mexico, and then to other countries around the world, as Microsoft's failover systems tried to shift email traffic elsewhere. Within a … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google Pixel Tag review: Simple but effective</title>
+<link>https://www.engadget.com/2319280/google-pixel-tag-review</link>
+<guid isPermaLink="false">36c862df401bf03fc4282bb1cd0f9043c5b5a085e921898d7cedc092a6f826ac</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+<description>Google's take on Apple's AirTag is a basic but still valuable tool for Android users.</description>
+<enclosure url="https://www.engadget.com/img/gallery/google-pixel-tag-review-simple-but-effective/l-intro-1794933527.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/google-pixel-tag-review-simple-but-effective/l-intro-1794933527.jpg" medium="image"/>
+</item>
+<item>
+<title>Google makes it easier to use Gemini without training AI on your data</title>
+<link>https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history</link>
+<guid isPermaLink="false">0f23f3a02ee9e0a1484ef10676af64d9db97bfca6a10b85988d5e66f315b5514</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:50:10 +0000</pubDate>
+<description>It can be hard to use Google products—or even the Internet itself—without coming into contact with Gemini AI. That is, of course, by design . The more you use Gemini, the more data Google collects to train and improve its generative AI chatbot. The options to limit training on your data have been scant, but Google is finally adding more controls to the Gemini app. The change currently rolling out to Gemini will separate your chat history from training, which allows you to retain basic AI functionality without handing Google quite so much control over your data. Prior to this change, the only way to opt out of contributing your chat contents (including attachments) for training was to turn off your history. That made it impossible to go back and pick up a chat down the road. As the new settings roll out, users will see separate toggles for model training and chat history. The history setting will continue to support an adjustable limit, but you will no longer have to change it to stop Google from training on your Gemini usage. Meanwhile, AI training will be an opt-out situation. You'll need to find the toggle to block Google from using your chats for AI training. It's under Activity in the Gemini settings. You can also access the menu from your Google account under Data and Privacy &gt; My Activity &gt; Other activity &gt; Gemini Apps Activity. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Think twice before using your laptop on any soft surface</title>
+<link>https://www.engadget.com/2315220/think-twice-using-laptop-on-soft-surface</link>
+<guid isPermaLink="false">57fd6b758bdcf1d7bda205fed4de86bab7ddd214638d1317a46442f83ea9840a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:45:00 +0000</pubDate>
+<description>Working from the couch or bed? Soft surfaces can cause trouble for your laptop's performance and battery. Learn why and what to do about it.</description>
+<enclosure url="https://www.engadget.com/img/gallery/think-twice-before-using-your-laptop-on-any-soft-surface/l-intro-1794506827.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/think-twice-before-using-your-laptop-on-any-soft-surface/l-intro-1794506827.jpg" medium="image"/>
+</item>
+<item>
+<title>Snapchat has finally made it easy to check an account's mutual friends</title>
+<link>https://www.engadget.com/2319271/snapchat-has-finally-made-it-easy-to-check-an-accounts-mutual-friends</link>
+<guid isPermaLink="false">299a4db82173981045f9612cf54ac3c385fc91161671710813ea42f73a3e1b17</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:38:10 +0000</pubDate>
+<description>The new feature is available in the US, Australia, France and Sweden.</description>
+<enclosure url="https://www.engadget.com/img/gallery/snapchat-has-finally-made-it-easy-to-check-an-accounts-mutual-friends/l-intro-1794933425.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/snapchat-has-finally-made-it-easy-to-check-an-accounts-mutual-friends/l-intro-1794933425.jpg" medium="image"/>
+</item>
+<item>
+<title>NVIDIA establishes export control committee following Jensen Huang resignation</title>
+<link>https://www.engadget.com/2319262/nvidia-establishes-export-control-committee-following-jensen-huang-resignation</link>
+<guid isPermaLink="false">7921b1cc7dc6d28a0204b8c51599c8fd8341850ac90827ef9b8d87cec17ed2d1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:33:21 +0000</pubDate>
+<description>The company's existing global trade compliance team will report to the new committee.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nvidia-establishes-export-control-committee-following-jensen-huang-resignation/l-intro-1794932937.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nvidia-establishes-export-control-committee-following-jensen-huang-resignation/l-intro-1794932937.jpg" medium="image"/>
+</item>
+<item>
+<title>Android may get fast phone-switching like iPhone Handoff soon – what we know</title>
+<link>https://www.zdnet.com/tech/android-fast-switch-like-iphone-handoff</link>
+<guid isPermaLink="false">a6ff4b158844479e9342a5a7f2e01835ead15346cf8aab657af575f797f7f649</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:19:15 +0000</pubDate>
+<description>If Android Fast Switch works like iPhone Handoff, one eSIM can be quickly switched between two phones.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/eac2e9bd-2af1-4f41-97bf-98e726de5a35-1-201-a.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/eac2e9bd-2af1-4f41-97bf-98e726de5a35-1-201-a.jpg" medium="image"/>
+</item>
+<item>
+<title>The DOJ says it’s investigating Megaspeed</title>
+<link>https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update</link>
+<guid isPermaLink="false">825618225fbb1ec86e2f5604c8186b106e0f97acbf65c5d423f759cdc7341d9a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:19:03 +0000</pubDate>
+<description>The Justice and Commerce Departments said that they are investigating Megaspeed , the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. "While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address inaccurate information circulating in public reporting," the departments said in a statement issued Monday evening. The departments acknowledged there's been "significant public attention" on Megaspeed. Huang resigned as Nvidia's CEO last week after reports he had an affa … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>5 CarPlay apps for listening to music and podcasts</title>
+<link>https://www.engadget.com/2315208/carplay-apps-listening-music-podcasts</link>
+<guid isPermaLink="false">9ff1167f0c066f374afe4943f94b5bdda106f427af742d849061656ed73138d6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:15:00 +0000</pubDate>
+<description>One of the best uses for CarPlay is enjoying music and other audio, and these apps are excellent tools for the job.</description>
+<enclosure url="https://www.engadget.com/img/gallery/5-carplay-apps-for-listening-to-music-and-podcasts/l-intro-1794509113.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/5-carplay-apps-for-listening-to-music-and-podcasts/l-intro-1794509113.jpg" medium="image"/>
+</item>
+<item>
+<title>Hackers smash 'n' grab AI vendor: Take off with license data of Uber drivers</title>
+<link>https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464</link>
+<guid isPermaLink="false">d2045c04e3846ac51a9f883b2510533487dd81fe9e2171c4b6df4f7dd86f647c</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:15:00 +0000</pubDate>
+<description>Uber has confirmed that nearly 150,000 people had their personal information compromised after hackers broke into one of its AI suppliers. A filing with Oregon's attorney general puts the number of victims at 149,346. Among the data the crooks got their hands on were images of drivers' licenses and information extracted from them, including names, home addresses, dates of birth, and license numbers. Uber doesn't name the supplier in its filings with US state attorneys general, but told TechCrunch it was Fireworks AI, the inference outfit whose security woes we covered last week . According to a breach notification filed with Iowa's attorney general, Fireworks alerted Uber to the intrusion on October 9. Uber cut off the supplier's access to its data and, four days later, established that the attackers had accessed drivers' personal information on October 7. Uber had set up a dedicated cloud storage environment for the AI biz, complete with security monitoring overseen by its own cloud security team. Unfortunately for Uber and its drivers, the crooks were using legitimate credentials, so none of the alarms went off. The ride-hailing firm says those credentials couldn't be used to access its other systems, and says it has since revoked or changed the credentials associated with the supplier. Uber hasn't said why it handed images of thousands of driver's licenses to an AI inference outfit. The Register has put that question to both companies, and asked Uber if any drivers outside the US had their data exposed. Fireworks, which provides infrastructure for developers to run and fine-tune AI models, had a particularly miserable October. The company first disclosed a security incident on October 9 after discovering that someone had been using its internal credentials without permission. Fireworks initially said it had no evidence that the intruders had gotten their hands on personal information or customer datasets. The company was hacked again later that month and, on November 9, disclosed that some customer data had indeed been compromised. The AI biz acknowledged that attackers had accessed billing records, some customer datasets, and incomplete model weights. Productivity software maker Notion was among those affected, with some of its customers' conversations with its AI assistant exposed. Fireworks suspects the involvement of financially motivated criminals in the business of flogging unauthorized access to large language models. Whether the crooks have any plans for the haul of Uber drivers' personal information is unclear. Uber began notifying affected individuals on November 10, more than a month after learning of the breach. It's offering victims free credit monitoring and fraud assistance, though drivers have just 90 days from the date of their letter to sign up. This isn't Uber's first brush with cybercriminals in recent months. In August, the ride-hailing giant's logistics arm, Uber Freight, confirmed a break-in after the Helix extortion cre</description>
+<enclosure url="https://image.theregister.com/?imageId=5310468&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5310468&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Banning phones really does help kids learn, researchers say</title>
+<link>https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement</link>
+<guid isPermaLink="false">26bead0d325ff528c34c05264057eec9e87be9cf4abcd8716ab3e0cd29f9eae2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:13:18 +0000</pubDate>
+<description>A new nationwide study found that in-school cellphone bans can lead to modest improvements in learning. Now, researchers want to understand whether kids' phone use outside the classroom might contribute to the rest of students' learning loss - using the conditions of Meta's multibillion-dollar settlement from earlier this year. Banning cellphones in schools has the equivalent effect of adding one to two weeks of school to the academic year, accounting for about half of the learning loss students experienced in the US between 2013 and the 2020 covid-19 pandemic, according to the study carried out by researchers from Harvard University and Da … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang says he’s willing to return as Nvidia CEO</title>
+<link>https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement</link>
+<guid isPermaLink="false">327034ed1b49f420bffe5c87f1ed00b227859681187d3141bb88c33ee57c67b6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:09:57 +0000</pubDate>
+<description>Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal . "Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me to return as CEO," Huang said . "If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO." Huang resigned on Thursday following reports of two affairs, including one with an alleged … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Oura’s new feature could help you kick jet lag – how to enable it</title>
+<link>https://www.zdnet.com/tech/oura-jet-lag-plan</link>
+<guid isPermaLink="false">c1f781c6c86476abc1e78bf7484eecefc5e43e6d8513212d10631240cc490228</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 16:05:30 +0000</pubDate>
+<description>Oura just launched a Jet Lag Plan to help you stay alert when you switch time zones, whether you’re traveling for business or pleasure.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png" type="image/png"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png" medium="image"/>
+</item>
+<item>
 <title>The unified Disney+ and Hulu app is set to arrive in December</title>
 <link>https://www.engadget.com/2319193/unified-disney-plus-and-hulu-app-is-set-to-arrive-in-december</link>
 <guid isPermaLink="false">614aab6aa136631eace9040299fb8206b03f16c98492497e44bf92f566588089</guid>
@@ -21,7 +164,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
-<description>After first announcing its Flipper One last May which the company describes as an "open Linux multi-tool built for high-performance computing and IP networking," Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device for $399 with shipping expected to start in July 2027. The Flipper One is more expensive than the company's popular but controversial Flipper Zero wireless hacking multi-tool which is currently available for $169. However, Flipper Devices points out that the new Flipper One isn't a successor to the Flipper Zero, but a completely different product. While the Zero's capabilities focus … Read the full story at The Verge.</description>
+<description>After first announcing its Flipper One last May , which the company describes as an "open Linux multi-tool built for high-performance computing and IP networking," Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device for $399 with shipping expected to start in July 2027. The Flipper One is more expensive than the company's popular but controversial Flipper Zero wireless hacking multitool, which is currently available for $169. However, Flipper Devices points out that the new Flipper One isn't a successor to the Flipper Zero, but a completely different product. While the Zero's capabilities focu … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/flipperone1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/flipperone1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -169,17 +312,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303603602.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer</title>
-<link>https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale</link>
-<guid isPermaLink="false">3bb6bb6201cd73718e0a297ba84b2225883649bfaf1b7852f67f2d97e7329b99</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 14:25:07 +0000</pubDate>
-<description>Amazon no longer considers the midrange Fire TV Stick 4K Plus as part of its official lineup following the launch of it latest Fire TV Stick 4K, but that doesn’t mean the streaming device isn’t still good value. In fact, it’s an even more attractive option now that it’s dropped to $29.99 ($40 off) at Amazon and Best Buy in the run-up to Black Friday. That’s just $5 shy of its lowest price to date, rendering it cheaper than both the entry-level Fire TV Stick HD and its new midrange replacement, the Fire TV Stick 4K . Amazon Fire TV Stick 4K Plus Where to Buy: $69.99 $29.99 at Amazon $69.99 $29.99 at Best Buy The Fire TV Stick 4K Plus still offers a good balance of price and performance. Unlike its replacement, it supports both Dolby Vision and Dolby Atmos, delivering more vibrant colors, better contrast, and immersive audio with compatible TVs and speakers. It does require a separate power adapter, though, whereas the newer model can draw power directly from your TV’s USB port. You also don’t get as much storage here as with the high-end Fire TV Stick 4K Max , though 8GB should be plenty for streaming apps like Netflix and Disney Plus. The Plus model also supports Amazon’s redesigned Fire TV interface, which my colleague John Higgins found to be an impressive update . It makes it easier to browse different content categories and pin your favorite apps for quick access. Thanks to Alexa Plus support, you can also press the voice button on the included Alexa Voice Remote to find something to watch, control compatible smart home devices like lights and thermostats, check sports scores, and more without getting off your couch. Just don’t expect a customizable shortcut button, as that’s exclusive to the latest Fire TV Remote. One final note: the Plus ships with Amazon’s Fire OS, and unlike the company’s Vega OS that ships in newer streaming sticks, the former allow for sideloading of Android TV apps, if that’s of interest to you. window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SME_26001_0050_069_v2_10_QC-1.jpg", productImageAlt: "SPECS AR Glasses", productTitle: "SPECS AR Glasses", shortDescription: "SPECS are augmented reality glasses designed for real life. Navigate, create, and enjoy immersive experiences while staying present.", longDescription: "Discover SPECS, augmented reality glasses designed for real life. Navigate hands-free, explore immersive experiences, and create with a large private display, all while staying connected to the world around you. Available for preorder in two sizes, starting at $2,195.", purchaseUrl: "https://specsinc.pxf.io/c/482924/3886144/52432?subId1=VergeHypeDeskNov2026&amp;u=https%3A%2F%2Fwww.specs.com%2Fsmart-glasses%2Fspecs-27", purchaseLinkText: "Explore SPECS" };</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Fire-TV-Stick-4K-Lifestyle-Press-Image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Fire-TV-Stick-4K-Lifestyle-Press-Image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>5 important Bose headphone settings that need to be manually turned on</title>
 <link>https://www.engadget.com/2315018/bose-headphone-settings-manually-turn-on</link>
 <guid isPermaLink="false">5d15bf6e63b5c919c5218b8cd95f38545f5396b83e85ef27d4eb71e1fc903fcd</guid>
@@ -202,17 +334,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Windows 11 actually runs better on 8GB of RAM now</title>
-<link>https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing</link>
-<guid isPermaLink="false">2a8c689652ddcc15c3a925cfcc8ab8155f2ac92e781d2315c481819ff961a7a5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
-<description>The 13-inch Surface Laptop with 8GB of RAM is much improved after recent Windows updates. As recently as the beginning of the year, 16GB of RAM was common on sub-$800 Windows laptops, which helped compensate for an increasingly bloated-feeling Windows 11 . But with the cost of RAM skyrocketing this year, 8GB is once again typical for a starting configuration. The MacBook Neo got away with it, but Windows laptops, including Microsoft's own 13-inch Surface Laptop , could struggle. Microsoft was talking a big game about making Windows faster and more reliable before the RAM crisis really hit , and it now seems like that effort is beginning to bear fruit . Earlier this month , Pavan Davuluri, Microsoft's EVP of Windows and devices, detai … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268655_Microsoft_Surface_Laptop_13-inch_8GB_2026_review_ADiBenedetto_0018.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268655_Microsoft_Surface_Laptop_13-inch_8GB_2026_review_ADiBenedetto_0018.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Optimizely hack turns world's biggest websites into malware dispensers</title>
 <link>https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448</link>
 <guid isPermaLink="false">5c53bd13298133846513606462f0b79378334a90abfd8eef5b4eddcca0ffac88</guid>
@@ -222,17 +343,6 @@
 <description>Some of the world's most popular websites spent Monday serving malware to visitors after crooks found a way into a piece of software used to A/B test web pages. Scott Helme, a security researcher at Report URI, identified malicious JavaScript being served by websites belonging to at least 178 organizations, including the BBC, CNN, Zoom, IKEA, Salesforce, HSB, and TalkTalk. All have one thing in common: they use Optimizely's Web Experimentation software. Optimizely allows businesses to tweak the content and layout of their websites without changing the underlying site code. Unfortunately, someone other than its paying customers figured out how to do just that. The attackers abused a feature that allows Optimizely customers to add their own JavaScript to web pages. The malicious code was distributed alongside the legitimate stuff from Optimizely's own content delivery network, giving customers little reason to suspect anything was amiss. Optimizely has since confirmed that the criminals exploited a vulnerability, dubbed "OPTIMJACK" by researchers, in the sign-up process for its experimentation software, adding that it had patched the hole, removed the offending code, revoked tokens, and notified affected customers. "Earlier today, Optimizely identified a security incident in which an unauthorized party exploited a vulnerability in Experimentation and used it to add malicious JavaScript to some customer projects,” the company said. “We've fixed the vulnerability and removed the injected code from affected projects. We've also taken steps to secure affected user accounts and put additional protections in place to prevent unauthorized code from being delivered." Of the 1,611 Optimizely scripts examined by Helme and his team, 188 contained malicious code, including those used by Optimizely's own website and login portal. Given the researchers examined only a subset of the scripts, the number of affected businesses could be higher. The malware underwent several revisions over the course of Monday, with cryptocurrency theft among the crooks' money-making schemes. Copy a wallet address to your clipboard and the malware could quietly swap it out for one belonging to the attackers, diverting any funds sent to that address. A card skimmer added later in the day grabbed card numbers, expiration dates, and security codes from payment forms. However, according to a separate analysis by StepSecurity , card details entered into an iframe hosted by a third-party payment processor were beyond the malware's reach. There was something nasty in store for Apple users, too. The malware attempted to deploy the Coruna and DarkSword exploit kits on iPhones and iPads running older versions of iOS, though how many devices the criminals managed to compromise is anyone's guess. Helme traced roughly $7,000 in cryptocurrency to the attackers' wallets on Monday, though there’s no telling how much more the crooks stand to make from stolen payment card details. By 2152 UTC on Monda</description>
 <enclosure url="https://image.theregister.com/?imageId=5310455&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5310455&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Disney Plus and Hulu’s fully unified app arrives next month</title>
-<link>https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026</link>
-<guid isPermaLink="false">6712aacc5f3ececea103d1040bb523f84773cf90b39d6b24714aeee81ee91db2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 13:46:02 +0000</pubDate>
-<description>Disney Plus and Hulu will officially become one app next month. As part of its earnings report released on Tuesday, Disney announced that bundle subscribers "will have a fully unified experience" on Disney Plus with access to Hulu's live TV service and premium streaming add-ons in December. A unified Disney Plus and Hulu app has been a long time coming. Disney started testing its "one-app experience" in 2023 , which involved putting a Hulu app tile in the Disney Plus app . This initial experience didn't include all of Hulu's content, though, including certain shows, live TV channels, and premium add-ons. This upcoming merger will change this … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954700/acastro_STK080_disneyPlus_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954700/acastro_STK080_disneyPlus_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Router VPN vs. VPN app: How are these setups different?</title>
@@ -299,17 +409,6 @@
 <description>PC; Forward Instinct This irreverent stealth game depicts Samuel’s lonely life robbing garish, midwestern abodes – it’s a Shameless way to make a living For many people, McMansions are an eyesore, but for the protagonist of Keepsake County, a renowned burglar, they are an enticing opportunity. Prowling at purple-hued dusk, this unfussy thief is just as likely to steal a half-eaten slice of pizza or a naff ceramic ornament as he is an expensive set of golf clubs. It’s a sad, desperate way to make a living, a sense compounded by what this fledgling kleptomaniac carries his loot away in: a plastic shopping bag. Countless works have taken us to breadline America, from classic novel East of Eden to acclaimed TV crime drama Mare of Easttown. But Keepsake County is no prestige examination of the economic underbelly of the US. Rather, it is a stealing simulator with eccentric Adult Swim-style art and a darkly absurdist sense of humour that is expressed in its moment-to-moment action. For example, when I set off the alarm at a glinting modernist abode, I had to quickly dodge the gunshot fired my way by its maniacal owner, and as I scarpered across the surrounding grassy verge, I grabbed underpants off the clothesline just to make the long drive through the night worth it. I was reminded of Shameless (the US version) as much as Steinbeck. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/7ef2b11da9c5a89d7dd4656d295ef27929343ce1/0_11_1080_864/master/1080.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75c00c5bc613c2092ae11b9cd6569bdf" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/7ef2b11da9c5a89d7dd4656d295ef27929343ce1/0_11_1080_864/master/1080.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75c00c5bc613c2092ae11b9cd6569bdf" medium="image"/>
-</item>
-<item>
-<title>Uber and Zipline’s drone delivery service takes flight in Houston</title>
-<link>https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas</link>
-<guid isPermaLink="false">3d2bdd8e363c7366c9993fffbe84e9fc39778f0e6485516de8f3a77aebfea086</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
-<description>Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday. The initial rollout begins in the Houston suburb of Spring, Texas, with Dallas next in line and dozens of additional US cities planned. The rollout comes after Uber and Zipline first announced their tie-up, including an investment in Zipline by Uber, back in August 2026. The companies have set the ambitious goal to hit 1 million drone deliveries per day by the end of 2029. Spring residents in the coverage area will see a new "Drone" icon in the Uber app's home screen to browse participating restaurants. At checkout, customers will need to confir … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25214561/ces_drone_zipline_delivery_bag_press_kit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25214561/ces_drone_zipline_delivery_bag_press_kit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Uber Eats starts drone deliveries in Texas</title>
@@ -532,17 +631,6 @@
 <media:content url="https://www.engadget.com/img/gallery/buying-a-used-phone-make-sure-to-check-the-imei-first/l-intro-1794344192.jpg" medium="image"/>
 </item>
 <item>
-<title>Meta is testing Direct, a standalone messaging app for Instagram</title>
-<link>https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram</link>
-<guid isPermaLink="false">afa429bc714b3c7d4cd20e2bbb9fd399c5d2fb2300a51eb76a0d5bb57376ea4c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 01:00:00 +0000</pubDate>
-<description>Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg" medium="image"/>
-</item>
-<item>
 <title>US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China</title>
 <link>https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307</link>
 <guid isPermaLink="false">b2d1514840c119cb6e6e3a052758d7b052a1702630c1cdc084507de461a84b9f</guid>
@@ -554,28 +642,6 @@
 <media:content url="https://image.theregister.com/?imageId=259879&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The important Gmail security settings you should be using</title>
-<link>https://www.engadget.com/2315195/gmail-security-settings-most-important-use</link>
-<guid isPermaLink="false">27e60cf7f819f9e935d1ff85b874b1b7150af335d62facaac01f1c28b03ddb3e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 00:30:00 +0000</pubDate>
-<description>If you haven't taken steps to secure your Gmail account recently, it's time to log in and make sure these settings are squared away.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-important-gmail-security-settings-you-should-be-using/l-intro-1794508364.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-important-gmail-security-settings-you-should-be-using/l-intro-1794508364.jpg" medium="image"/>
-</item>
-<item>
-<title>Whether it's Black Friday or a CEO scandal, NVIDIA GPUs just don't get deep discounts</title>
-<link>https://www.engadget.com/2318262/nvidia-gou-dont-get-deep-discounts-black-friend-ceo-scandal</link>
-<guid isPermaLink="false">b5ec5468aaac155cec6de9b271d7e7fc9fc520f1882a1671dd69a5d0438385e4</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-<description>Hoping the Jensen Huang fallout means cheap RTX cards this Black Friday? Here's what's really driving GPU prices and why deals may be hard to find.</description>
-<enclosure url="https://www.engadget.com/img/gallery/whether-its-black-friday-or-a-ceo-scandal-nvidia-gpus-just-dont-get-deep-discounts/l-intro-1794856807.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/whether-its-black-friday-or-a-ceo-scandal-nvidia-gpus-just-dont-get-deep-discounts/l-intro-1794856807.jpg" medium="image"/>
-</item>
-<item>
 <title>California sues OpenAI for misleading public about AI safety</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297</link>
 <guid isPermaLink="false">124a1dd49463e92ce108741db513c3626defbee6f10a831fb9183e2b539e8db7</guid>
@@ -585,28 +651,6 @@
 <description>California Attorney General Rob Bonta has sued OpenAI under the state's unfair competition and public nuisance laws, for allegedly misleading and endangering the public by deploying unsafe AI models. The lawsuit [PDF], filed in California Superior Court, follows the compromise of Hugging Face's infrastructure and other cyber incidents OpenAI's experimental models caused when taking autonomous actions without authorization or supervision. "While narratives about the Hugging Face attack have evoked science fiction fantasies of rogue AI systems run amok, let me be clear: the Hugging Face attack was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability — and this was only one of 80 known incidents," said Attorney General Bonta. At a press conference , Bonta added: "OpenAI disregarded public safety, knowingly tested potentially dangerous AI models without proper oversight and safety measures, and misled consumers and the public." The legal salvo comes after Bonta in September sent OpenAI a letter seeking information about these agentic attacks. According to the complaint, "OpenAI failed to substantially comply" with the investigatory subpoena. In August, 15 states led by Iowa – and excluding California – issued a joint demand for OpenAI to provide information about how its models hacked Hugging Face. OpenAI did not respond to a request for comment. Bonta's office previously joined with Delaware Attorney General Kathy Jennings to urge OpenAI to do more for children's safety in light of reports that its models produced sexually inappropriate output. California did not, however, join the eight states that sued OpenAI in October over alleged misrepresentations about child safety. Florida and Texas have also made child safety claims. Child safety plays well politically; California appears to be the first state to demand more accountability toward the general public. Bonta's lawsuit, in a state that has largely accommodated the AI industry for the sake of economic benefits and political contributions , suggests that California officials may be more willing to bite the hand that feeds. The many Democratic victories in the US midterm elections may also be a factor, as pundits feel voters swung to give lawmakers license to regulate the unpopular AI industry. At his press conference, Bonta made sure to convey that he wants accountability without smothering the AI industry in costly regulation. "Let me be clear," he said. "I believe in the technological and economic power of AI. If we're able to address these very high stakes safety issues, AI could lead to some of the most incredible improvements in the history of humankind." AI is yet to deliver those incredible improvements. It has delivered deepfakes, huge quantities of cybersecurity vulnerabilities, and the permissionless resale of past intellectual labor, plus high energy and RAM prices. As well as some productivity gains</description>
 <enclosure url="https://image.theregister.com/?imageId=5310304&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5310304&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>How to put your iPad in recovery mode (with and without a home button)</title>
-<link>https://www.engadget.com/2315100/how-to-put-ipad-in-recovery-mode</link>
-<guid isPermaLink="false">1824f95d987ae4931c4cfcf1df2f77e689d924d06c2d17d933011a50e70320b3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 23:30:00 +0000</pubDate>
-<description>A failed update or too many wrong passcodes can leave your iPad unusable. Find out how recovery mode works and when it's worth trying as a last resort.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-put-your-ipad-in-recovery-mode-with-and-without-a-home-button/l-intro-1794505141.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-put-your-ipad-in-recovery-mode-with-and-without-a-home-button/l-intro-1794505141.jpg" medium="image"/>
-</item>
-<item>
-<title>The charging mistakes that could ruin your Nintendo Switch's battery</title>
-<link>https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery</link>
-<guid isPermaLink="false">9ae3fc8f6333419e2055b7a2e37781b134ff430bc345e3dae4f2587a36abbbd1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 23:00:00 +0000</pubDate>
-<description>To avoid turning your Nintendo Switch into just another stationary console, there are a few common and easy-to-overlook charging mistakes you'll want to avoid</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-charging-mistakes-that-could-ruin-your-nintendo-switchs-battery/l-intro-1794501086.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-charging-mistakes-that-could-ruin-your-nintendo-switchs-battery/l-intro-1794501086.jpg" medium="image"/>
 </item>
 <item>
 <title>Robo-soldier startup backed by Eric Trump misses payroll, may collapse</title>
@@ -1181,17 +1225,6 @@
 <media:content url="https://image.theregister.com/?imageId=5309606&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>UK exposed to polycrisis of threats amid government ‘complacency’</title>
-<link>https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency</link>
-<guid isPermaLink="false">4d2397b1340252c6b44f9bcc2d0bb3e6fb9969bfcde70571bee1f7e4be9901f0</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 06:30:35 +0000</pubDate>
-<description>Lords report calls for urgent new approach to resilience planning in face of cyber-attacks, sabotage and climate crisis Ministers are complacent in the face of fast-changing and increasingly interconnected threats to the UK, and must act quickly to increase national resilience to possibly very major crises, a parliamentary report has found. While Labour recently launched a “Be Ready” campaign, advising households to have stocks of food and water, most of the public are unaware of the scale of potential threats from cyber-attacks, proxy acts of violence or strikes on underseas cables, as well as natural disasters such as extreme weather and flooding, it said. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b04f2cef004a7f74130233713c5e593" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b04f2cef004a7f74130233713c5e593" medium="image"/>
-</item>
-<item>
 <title>Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads</title>
 <link>https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016</link>
 <guid isPermaLink="false">faf1d1172602e3bfd6ed84215f890f7026d6cc785119212185e20d6e8c2e2816</guid>
@@ -1313,17 +1346,6 @@
 <media:content url="https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de89b49e846011d0ae2daf5bbb4faa0f" medium="image"/>
 </item>
 <item>
-<title>SpaceX returned its Starship rocket on Saturday—but there's a catch</title>
-<link>https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world</link>
-<guid isPermaLink="false">77dd8cb90d44dd9e72646d0078942e8f4ea7dd3b5a2109d7e5cc5d88beacd253</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 00:40:59 +0000</pubDate>
-<description>STARBASE, Texas—The black-and-silver ship fell out of the sky, emerging from the cloud deck near the very end of its flight. Incongruously, the rocket flew horizontally until the last moment, when three Raptor rocket engines ignited and it swooped into a vertical position. Slowly, gently, haltingly, the Starship upper stage eased its way toward the waiting tower where two arms extended outward, awaiting expectantly. The margins are so incredibly narrow. Two nubs on either side of the rocket, each protruding only about 1 foot, were the only purchase the rocket would have on the arms. Then, less than a minute after it came into view, the Starship upper stage was snagged by the launch tower, as snug as you like. And so it was all over. SpaceX, nearly a quarter of a century after its founding, had just taken a hugely significant step toward developing and optimizing a massive, rapidly reusable rocket. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Microsoft's school email bill gives rivals something to smile about</title>
 <link>https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296</link>
 <guid isPermaLink="false">82d4f8e1487b9eb78e5499835d3b5bc84ce1a3fe9c608f63ab3dac55f7b9cb7f</guid>
@@ -1388,17 +1410,6 @@
 <description>US export controls are not stopping AI labs in China from using restricted Nvidia chips, according to a report from a former OpenAI engineer. Will DePue, who left the AI giant earlier this year to launch Unemployment Labs, an AI research consultancy, published forensic evidence showing that "DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to Nvidia's Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models." "This sounds insane, but I discovered that almost every AI model carries a hidden signature of the GPU that trained it," said DePue in a social media post . "When a model is first set up, the starting values of its weights are laid out in a pattern that depends on the exact GPU. Each combination of GPU and seed number produces a unique pattern – a sort of fingerprint of the hardware used to create the model. Traces of that pattern survive training into the published model." It doesn't sound that insane. The resignation of Nvidia CEO Jensen Huang followed from revelations that he had an affair with Chinese businesswoman Alice Huang, who, in 2023, founded Singapore-based Megaspeed International. That company is reportedly under investigation by US authorities for allegedly smuggling Nvidia chips to China. Huang's departure coincides with a renewed push to tighten US chip export controls. House Speaker Mike Johnson supports the idea . And there are at least four bills awaiting consideration that aim to limit China's access to leading edge AI tech: the AI Overwatch Act, the Chip Security Act, Match Act, and the Cloud Security Act. On Monday, US Senators Jim Banks (R-Ind.) and Elizabeth Warren (D-Mass.) cited Jensen Huang's "relationship with a suspected Chinese spy" as a justification for passing the AI Overwatch Act, which would codify the Trump administration's existing chip export controls. The Trump administration on Thursday said it's not sure whether Alice Huang was a spy, an allegation denied by Beijing and currently under investigation by the FBI. Whatever the case, the current rules clearly are not working. Only a few weeks ago, Lava, an Israel-based security company, said it had found "32 Nvidia B300 GPUs, part of Nvidia's Blackwell Ultra generation, through publicly exposed monitoring endpoints with IP addresses geolocated to China." These GPUs, Lava noted, are subject to US export controls [PDF]. The security biz said its findings followed from the exposure of monitoring systems intended for internal infrastructure management that were publicly exposed. How DePue reached his conclusion The analysis published through DePue's consultancy, "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled Nvidia Blackwell GPUs," takes a different approach: analyzing the published weights of various models from Chinese AI labs. As described in the report, model weights – the parameters that change in relation to training data – must be initialized</description>
 <enclosure url="https://image.theregister.com/?imageId=5309895&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5309895&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>This year’s bug count just passed 100K</title>
-<link>https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882</link>
-<guid isPermaLink="false">9b8800b6b3791c6e9af180e9580ede08b006e65e5e76517ca30c61587fb6cdcf</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 20:52:17 +0000</pubDate>
-<description>Chalk up a new record for vulns. The number of Common Vulnerabilities and Exposures (CVEs) found and disclosed so far in 2026 surpassed 100,000 on Friday - more than double 2025’s total - and the reason can be summed up in two letters: AI. “It’s kind of wild,” Josh Bressers, VulnCheck’s director of coordinated vulnerability disclosure, told The Register . “The thing that almost scares the bejesus out of me is while 100K sounds like a lot, in a couple years we're going to say, remember when it was only 100K?” As of the time of our interview, about 4 pm UTC on Friday, VulnCheck counted 100,222 CVEs, he said. Microsoft alone added 1,094 security flaws to the total count on Tuesday, following 1,474 vulnerabilities the month before. “There's no denying the fact that vulnerability hunting with AI is driving a majority of what we're seeing.” All the major CVE Numbering Authorities (CNAs) - these are the organizations authorized by the CVE program to assign unique identifiers to security vulnerabilities - like VulnCheck, Microsoft, Oracle, GitHub, and other large enterprise IT vendors “are just screaming into the atmosphere right now,” Bressers said. “It’s AI.” Meanwhile, the percentage of these bugs that are exploited in the wild remains relatively consistent. About 1.4 percent (1,363) of the CVEs published this year have been added to VulnCheck’s Known Exploited Vulnerabilities (KEV) catalog. “But obviously, as the number of CVEs grows, [1 percent] of 1,000 is a lot different than [1 percent] of 100,000,” Bressers said. Plus, as other security researchers have documented, the window between the public release of a security patch and attackers developing working exploits – often by reverse engineering the patch while end users are still applying the fix – is rapidly shrinking. This is also thanks to AI . From CVE to KEV From January to June, 88 percent of the exploitation observed by CrowdStrike using public proof-of-concept (PoC) code occurred within 48 hours of the code's release. The security firm said China-linked groups such as Vault Panda and Genesis Panda moved even faster, launching attacks within 24 hours of disclosure. Similarly, VulnCheck found the median time from CVE publication to exploitation falling from 120 days in 2025 to 80 days during the first half of 2026. This window has closed even further during the second half of the year, which also seems to coincide with the AI-induced vulnpocalypse . “It’s often just hours,” Bressers said, noting 14 make-me-root vulnerabilities that VulnCheck disclosed on Friday in Copeland refrigeration controllers. Two are under active exploitation. These are the devices that Iranian hackers abused to spoil food and spark fires in supermarkets across Europe . “We published those CVEs, and literally minutes later, we were seeing hits on our honey pots,” Bressers said about the Copeland device vulnerabilities. “We’ve hit a point where with anything that looks interesting, someone is taking that information a</description>
-<enclosure url="https://image.theregister.com/?imageId=262189&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=262189&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley</title>
@@ -1575,28 +1586,6 @@
 <description>With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. But don’t skip these security fixes.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg" medium="image"/>
-</item>
-<item>
-<title>Need more AI in Creator Studio? Apple may charge you for it</title>
-<link>https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee</link>
-<guid isPermaLink="false">a42c403c89d807872a98e81d0b301745d507a78dcf530362ce09a8d8c6649417</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 20:38:54 +0000</pubDate>
-<description>With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/b8127718-8775-4c05-9d18-89836e0dbde2.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/b8127718-8775-4c05-9d18-89836e0dbde2.jpg" medium="image"/>
-</item>
-<item>
-<title>I found a hidden Android tool that solves all my tiny text troubles</title>
-<link>https://www.zdnet.com/tech/android-display-help-magnification</link>
-<guid isPermaLink="false">7f3c41b6925a2b8bc4719eb67b0a3691ed6f829083336eb22a6f126ccbb32d74</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:17:21 +0000</pubDate>
-<description>When the print on your Android display is too small to read, and the pinch-to-zoom feature isn’t working as expected, try this.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/maghero.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/maghero.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen</title>

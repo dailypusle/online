@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
 <title>Trezor customer data exposed in 3rd partner breach this year</title>
 <link>https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year</link>
 <guid isPermaLink="false">e00dfcfe3a9d8289081598e6150ac5290f72602753efa309a620b4dd4d50f4e6</guid>
@@ -805,17 +816,6 @@
 <description>The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg" medium="image"/>
-</item>
-<item>
-<title>Coinone warns of phishing, identity theft after customer data breach</title>
-<link>https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information</link>
-<guid isPermaLink="false">41c0f4a89211da1b160082add7441b2e70513e06a98cfe51827e0e180dc65c8c</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 15 Nov 2026 08:07:58 +0000</pubDate>
-<description>The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png" medium="image"/>
 </item>
 <item>
 <title>The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO</title>

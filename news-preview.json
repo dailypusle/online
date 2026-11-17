@@ -1,40 +1,184 @@
 {
   "top": [
     {
-      "title": "Chargers vs. Ravens live updates: NFL ‘Monday Night Football’ score, predictions, odds and latest",
+      "title": "Chargers vs. Ravens live score updates: Latest from NFL ‘Monday Night Football’, highlights, analysis",
       "link": "https://www.nytimes.com/athletic/live-blogs/chargers-vs-ravens-live-score-updates-nfl-mnf-result/aQTu9bPlh0f1",
       "source": "The Athletic Sports",
-      "date": "2026-11-16T23:50:06Z",
-      "description": "Follow our live coverage as the Week 10 finale pits the winless Los Angeles Chargers against the Baltimore Ravens.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/aQTu9bPlh0f1_gXwI9TX8nuny_1440x960.jpg",
+      "date": "2026-11-17T01:20:02Z",
+      "description": "Follow live coverage as the Week 10 finale pits the winless Los Angeles Chargers against the Baltimore Ravens.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/aQTu9bPlh0f1_VyyAu0cBK2fm_1440x960.jpg",
       "category": "sports"
     },
     {
-      "title": "NBA season live updates: LeBron James won't play for 76ers against Nets, latest on Las Vegas expansion and more news",
+      "title": "NBA season live updates: LeBron James not playing for 76ers against Nets, Magic facing Celtics and more news",
       "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
       "source": "The Athletic Sports",
-      "date": "2026-11-16T23:45:01Z",
+      "date": "2026-11-17T01:17:18Z",
       "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_ptnVT76Nb3Gb_1440x960.jpg",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_t1Zy8eJjSCoW_1440x960.jpg",
       "category": "sports"
     },
     {
-      "title": "NFL live updates: Aidan Hutchinson, Drake Maye latest, news, reaction and more from Week 10",
-      "link": "https://www.nytimes.com/athletic/live-blogs/nfl-live-updates-news-week-10-results/XI4XTTSsypAp",
+      "title": "Don’t turn churches into campaign arena, Soludo cautions politicians",
+      "link": "https://www.vanguardngr.com/2026/11/dont-turn-churches-into-campaign-arena-soludo-cautions-politicians",
+      "source": "Vanguard Nigeria",
+      "date": "2026-11-17T01:15:00Z",
+      "description": "By Vincent Ujumadu Governor Charles Soludo of Anambra State, on Sunday, cautioned politicians against turning churches and other places of worship into a political arena, stating that sacred spaces must remain neutral grounds for people of all political persuasions. Soludo made the remark during the 30th anniversary celebration of the Mountain of Holy Ghost Intervention and Deliverance Ministry founded by Prophet Chukwuemeka Ohanaemere, popularly known as Odumeje. Addressing the congregation, the governor stressed the need for the men of God to clearly separate politics from worship. According to Soludo, the place of worship should be a holy place where people of all political persuasion should come and worship God in peace. “It should not be a place for politics. There is a venue for politics. If you want to worship God, you have to go to the house of God. We must separate the two things clearly,” Soludo said. He recalled that six months before his election, he took a deliberate decision never to go to any church to cup a microphone to ask them to vote for him or to campaign. “It was a deliberate decision. I worshipped in the government house chapel until the election day and afterwards,” the governor stated. “We must never politicise the church. We must never politicise the place of worship. Politicians, keep off churches. Keep off places of worship. That’s a deliberate message, and it is my kind of consistency of character”, he further said. The post Don’t turn churches into campaign arena, Soludo cautions politicians appeared first on Vanguard News .",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/Soludo-e1774166999126.jpeg",
+      "category": "nigeria"
+    },
+    {
+      "title": "Robert Pattinson is the new James Bond. A look back at his other franchises",
+      "link": "https://abcnews.com/GMA/Culture/robert-pattinson-new-james-bond-back-franchises/story?id=138185581",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-17T01:12:12Z",
+      "description": "Some fans lauded Pattinson's casting as the next 007 on social media, while others pointed out that Bond is the latest franchise on his resumé that includes \"Twilight.\"",
+      "image": "https://s.abcnews.com/images/GMA/pattinson-gty-er-261116_1794867079220_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "6 Chrome settings tweaks every power user needs to know",
+      "link": "https://www.zdnet.com/home-and-office/chrome-default-settings-to-change",
+      "source": "ZDNET",
+      "date": "2026-11-17T01:05:00Z",
+      "description": "For improved privacy and security, fewer interruptions, and enhanced productivity, I highly recommend changing these default browser settings.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/chromefeatures.jpg",
+      "category": "technology"
+    },
+    {
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites",
+      "source": "Cointelegraph",
+      "date": "2026-11-17T01:02:05Z",
+      "description": "Researchers say attackers compromised scripts delivered through Optimizely, exposing visitors to malware designed to replace crypto wallet addresses and steal payment card details.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KGB8P723WG4K1R3Q3WMM6J/hi-how-cybercriminals-use-youtube-and-github-to-spread-crypto-malware.jpg",
+      "category": "business"
+    },
+    {
+      "title": "Meta is testing Direct, a standalone messaging app for Instagram",
+      "link": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram",
+      "source": "Engadget",
+      "date": "2026-11-17T01:00:00Z",
+      "description": "Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.",
+      "image": "https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg",
+      "category": "technology"
+    },
+    {
+      "title": "Arkansas State fires coach Butch Jones in sixth season: Source",
+      "link": "https://www.nytimes.com/athletic/7788271/2026/11/16/butch-jones-fired-arkansas-state",
       "source": "The Athletic Sports",
-      "date": "2026-11-16T23:44:34Z",
-      "description": "Follow our live coverage as we break down the aftermath of Sunday’s NFL games.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/XI4XTTSsypAp_8P4xOs1tjZ07_1440x960.jpg",
+      "date": "2026-11-17T00:59:21Z",
+      "description": "The Red Wolves moved on from Jones, who went 30-43 in six seasons and was coming off bowl appearances in each of the last three years.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16194729/2026-10-18T024522Z_2011773177_MT1USATODAY30119519_RTRMADP_3_ARKANSAS-STATE-RED-WOLVES-HEAD-COACH-BUTCH-JONES-WALKS-DOWN-scaled.jpg",
       "category": "sports"
     },
     {
       "title": "Pipeline Executive Worked for Alan Armstrong During Permitting Push",
       "link": "https://www.nytimes.com/2026/11/16/climate/alan-armstrong-oklahoma.html",
       "source": "New York Times Science",
-      "date": "2026-11-16T23:41:15Z",
+      "date": "2026-11-17T00:59:20Z",
       "description": "Senator Alan Armstrong hired his former company’s top lawyer temporarily, while the chamber drafted a sweeping energy bill. Ethics officials signed off on the unusual arrangement.",
       "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16CLI-INDUSTRY-wklv/16CLI-INDUSTRY-wklv-mediumSquareAt3X.jpg",
       "category": "science"
+    },
+    {
+      "title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+      "link": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
+      "source": "France 24",
+      "date": "2026-11-17T00:58:33Z",
+      "description": "Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, damaging critical infrastructure and causing water and power cuts in parts of the Ukrainian capital, Mayor Vitali Klitschko said. The attacks came as Moscow launched a wider wave of drone and missile strikes across Ukraine, including in the regions of Cherkasy and Kharkiv.",
+      "image": "https://s.france24.com/media/display/d2e45bd2-e221-11f1-8e06-5f54d898a954/w:1024/p:16x9/AP26319581736584.jpg",
+      "category": "world"
+    },
+    {
+      "title": "WATCH: NYC teen builds candle business with refillable cement containers",
+      "link": "https://abcnews.com/video/138190675",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-17T00:54:26Z",
+      "description": "What started as helping his sister make candles for a birthday party at age 13 has turned into a thriving business for New York City teen Christon Lennon.",
+      "image": "https://s.abcnews.com/images/Business/261116_abcnl_6p_candle_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "WATCH: Meet the rental car manager going viral for keeping customers calm during ground stop",
+      "link": "https://abcnews.com/video/138190400",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-17T00:53:24Z",
+      "description": "Perley Provost, manager of Enterprise Rent-A-Car at Denver International Airport, shares how he kept stranded passengers calm and hydrated during Friday's widespread ground stop.",
+      "image": "https://s.abcnews.com/images/Business/261116_abcnl_6p_car_rental_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere",
+      "link": "https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116",
+      "source": "Variety",
+      "date": "2026-11-17T00:32:42Z",
+      "description": "Jennifer Lawrence staged a “Hunger Games” reunion with co-star Josh Hutcherson at the world premiere of “Sunrise on the Reaping” in New York City. The two original stars of “The Hunger Games” franchise walked the red carpet and posed for photos more than a decade after the press tour for “The Hunger Games: Mockingjay – […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305445522.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "The important Gmail security settings you should be using",
+      "link": "https://www.engadget.com/2315195/gmail-security-settings-most-important-use",
+      "source": "Engadget",
+      "date": "2026-11-17T00:30:00Z",
+      "description": "If you haven't taken steps to secure your Gmail account recently, it's time to log in and make sure these settings are squared away.",
+      "image": "https://www.engadget.com/img/gallery/the-important-gmail-security-settings-you-should-be-using/l-intro-1794508364.jpg",
+      "category": "technology"
+    },
+    {
+      "title": "Jacoby Brissett can make Super Bowl-era history in Ravens debut",
+      "link": "https://www.nytimes.com/athletic/7788033/2026/11/16/jacoby-brissett-ravens-debut-nfl-history-chargers",
+      "source": "The Athletic Sports",
+      "date": "2026-11-17T00:09:47Z",
+      "description": "Jacoby Brissett has a chance to beat the Chargers twice in the same season with two different teams. In Week 1, he helped the Cardinals beat L.A.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16200525/GettyImages-2305445724-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "NFL live updates: Aidan Hutchinson, Drake Maye latest, news, reaction and more from Week 10",
+      "link": "https://www.nytimes.com/athletic/live-blogs/nfl-live-updates-news-week-10-results/XI4XTTSsypAp",
+      "source": "The Athletic Sports",
+      "date": "2026-11-17T00:00:25Z",
+      "description": "Follow our live coverage as we break down the aftermath of Sunday’s NFL games.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/XI4XTTSsypAp_8P4xOs1tjZ07_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "'Avengers: Doomsday' Star Says He Was Lied to About His Next Big Role",
+      "link": "https://www.polygon.com/anthony-mackie-jamie-dornan-interview-12-12-12",
+      "source": "Polygon",
+      "date": "2026-11-17T00:00:17Z",
+      "description": "Anthony Mackie’s Sam Wilson/Captain America will be leading the Avengers in Avengers: Doomsday , guiding Thor (Chris Hemsworth), Ant-Man (Paul Rudd), Shang-Chi (Simu Liu), and Falcon (Danny Ramirez) in the fight against Doctor Doom . But while Sam is getting a big promotion, Mackie said he was lied to about his next starring role.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22374640/tag_101_01763_r3_4845d50f.jpeg",
+      "category": "gaming"
+    },
+    {
+      "title": "Whether it's Black Friday or a CEO scandal, NVIDIA GPUs just don't get deep discounts",
+      "link": "https://www.engadget.com/2318262/nvidia-gou-dont-get-deep-discounts-black-friend-ceo-scandal",
+      "source": "Engadget",
+      "date": "2026-11-17T00:00:00Z",
+      "description": "Hoping the Jensen Huang fallout means cheap RTX cards this Black Friday? Here's what's really driving GPU prices and why deals may be hard to find.",
+      "image": "https://www.engadget.com/img/gallery/whether-its-black-friday-or-a-ceo-scandal-nvidia-gpus-just-dont-get-deep-discounts/l-intro-1794856807.jpg",
+      "category": "technology"
+    },
+    {
+      "title": "Obi, Kwankwaso have God’s grace to dislodge Tinubu — Babachir Lawal",
+      "link": "https://www.vanguardngr.com/2026/11/obi-kwankwaso-have-gods-grace-to-dislodge-tinubu-babachir-lawal",
+      "source": "Vanguard Nigeria",
+      "date": "2026-11-16T23:56:00Z",
+      "description": "A chieftain of Nigeria Democratic Congress, NDC, Babachir Lawal, has said Peter Obi, the party’s presidential candidate, and Rabiu Kwankwaso, his running mate, have God’s backing to defeat President Bola Tinubu in 2027. Lawal, a former Secretary to the Government of the Federation, SGF, who made the declaration during an appearance on Arise Television late Sunday, cited the “widespread support” Obi and Kwankwaso enjoyed as a pointer to God’s grace upon their lives. He said: “I have told everybody that talks to me that both Peter Obi and Rabiu Kwankwaso have the grace of God upon their lives, which makes people like them. “The population likes them. They just show up in the market. They don’t hire people to come to their rallies. People just turn out at their own expense.” He said his experience in politics had enabled him to recognise signs that could favour the opposition alliance, adding that he previously occupied a similar position during the Muhammadu Buhari administration. “It’s not the first time I am in the position I am in now in politics. I have been in this position during Buhari’s time. Even this your president, I drove his system up to the primaries. “So I am a very skilled and experienced person in the game. I can see the signs and we know the loopholes. And we are working on the loopholes,’’ he said. Lawal expressed confidence that the NDC would defeat the ruling All Progressives Congress, APC. , saying the party had established structures and systems to achieve its objective. “We have an inside chance of toppling this government. We are inside and we know we will beat this government. “We know they are gone. We have put up structures and systems. I am 100 per cent confident,’’ he said. Lawal added that the responsibility of the party’s technical team was to convert the popularity of its presidential candidates into electoral success by ensuring that votes were protected and counted. “This grace that God has bestowed upon them, it’s our duty, the technical people, to harmonise and crystallise this thing into delivering it at the polling station and protecting the votes and ensuring it’s counted,” he said. Lawal dismissed concerns over recent departure of Yunusa Tanko, former national coordinator of the Obidient Movement; Nana Kazaure, Doyin Okupe, and the former NDC’s deputy national publicity secretary, from Obi’s camp, saying politicians were free to leave parties when their expectations were not met. He compared the development with the exit of some politicians from Tinubu’s inner circle, including Kashim Imam and Rauf Aregbesola. “I was with Bola Tinubu, but I left. I can remember Kashim Imam; he has also left. I remember Rauf Aregbesola, who was also with Bola Tinubu. But he has left. These are big politicians. But they left Bola Tinubu. “Leaving a political party is only natural. Nigeria is like a big company with many political parties. And people come in there with their own different ideas about what they can get out of it",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2019/04/babachir-lawal-e1668782881367.jpg",
+      "category": "nigeria"
+    },
+    {
+      "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
+      "link": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return",
+      "source": "Cointelegraph",
+      "date": "2026-11-16T23:50:41Z",
+      "description": "The chipmaker’s board is reportedly focused on investigating Huang’s conduct, even as a petition calling for his reinstatement gathers more than 187,000 signatures.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KABBJFAJNZZ9Y5F7TA19N8/ripping-paper-white-hands.jpg",
+      "category": "business"
     },
     {
       "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
@@ -80,153 +224,27 @@
       "description": "United said there is no indication that this was a cybersecurity-related issue.",
       "image": "https://s.abcnews.com/images/US/united-gty-er-261116_1794867577241_hpMain_16x9_1600.jpg",
       "category": "world"
-    },
-    {
-      "title": "Anambra Patriots endorse APGA-APC alliance, adopt Tinubu for 2027",
-      "link": "https://www.vanguardngr.com/2026/11/anambra-patriots-endorse-apga-apc-alliance-adopt-tinubu-for-2027",
-      "source": "Vanguard Nigeria",
-      "date": "2026-11-16T23:25:00Z",
-      "description": "By Chimaobi Nwaiwu NNEWI — A political pressure group in Anambra State, Anambra Patriots, APS, has endorsed the alliance between the All Progressives Grand Alliance, APGA, and the All Progressives Congress, APC, adopting President Bola Tinubu as its preferred candidate for the 2027 presidential election. The group also declared its support for the re-election of Anambra State Governor, Professor Chukwuma Soludo, and urged Ndigbo to support his political direction, including his backing for Tinubu. The convener of APS and Anambra State Commissioner for Works, Architect Okey Ezeobi, disclosed the group’s position on Sunday during the Anambra Patriots Women Summit held in Awka, the state capital. Ezeobi expressed dissatisfaction with those criticising Soludo for aligning politically with Tinubu rather than supporting former Anambra State governor and Labour Party presidential candidate in the 2023 election, Peter Obi. He argued that politics should be driven by interests rather than sentiments, insisting that Soludo’s decision to support Tinubu was in the interest of Ndigbo. “My problem with Ndigbo is that they don’t know how to play politics. We do politics of emotion instead of interest. In politics, you get what you contributed, not what you deserve. Politics is about interest,” he said. According to him, Soludo’s support for Tinubu was not motivated by personal gains but by what he described as the need for greater political inclusion of the South-East in national affairs. He said: “Prof. Soludo’s support for Tinubu is not for personal gain, but for the interest of Ndigbo. It is time for Ndigbo to come back to Nigeria. And Soludo is a professor; he has analysed Nigerian politics.” Ezeobi also argued that Soludo should not be criticised for his political choice, saying other ethnic groups had members supporting Obi without attracting similar criticism. He urged Anambra residents to recognise Soludo’s position as governor and support his political decisions, adding that backing Obi was not compulsory for every Igbo politician. “Why is everybody seeing Soludo as an enemy because he is supporting Tinubu? If we accept Soludo as our leader and governor in Anambra State, we must follow him anywhere he is pitching his political tent. It is not compulsory that we must support Peter Obi. Politics is not about sentiments,” he said. The commissioner also made several claims about the political relationship between Obi and Soludo, alleging that Obi had opposed Soludo’s governorship ambition on previous occasions. He cited the 2013, 2021 and 2025 governorship election cycles in Anambra, claiming that Obi had supported different political moves against Soludo, which ultimately failed. Ezeobi, however, maintained that Soludo had not insulted Obi but had only responded to comments he considered critical of Anambra State and APGA. He further criticised the Nigeria Democratic Congress, NDC, describing it as the political platform of a Bayelsa politician, while que",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-12.24.30-PM-1024x768.jpeg",
-      "category": "nigeria"
-    },
-    {
-      "title": "True fulfilment lies in impacting lives, says Ooni",
-      "link": "https://www.vanguardngr.com/2026/11/true-fulfilment-lies-in-impacting-lives-says-ooni",
-      "source": "Vanguard Nigeria",
-      "date": "2026-11-16T23:24:00Z",
-      "description": "… Backs YASA Foundation’s drive for inclusive society By Ogochukwu Agha lagos—The Ooni of Ife, Oba Adeyeye Ogunwusi, has urged Nigerians, corporate organisations and philanthropists to support initiatives that empower vulnerable people, saying true fulfilment lies in making positive impact on others. The monarch spoke at the unveiling of the Yeye Afolashade Shona-Aluko (YASA) Foundation in Lagos, where he donated N5 million. Describing the foundation’s humanitarian mission as worthy of support, Oba Ogunwusi said: “What gives the greatest happiness in this world is a life of impact and fulfilment. Everybody is chasing money. But when you attain a certain level of wealth, you discover that money does not necessarily bring happiness. “The essence of life is what you can give to others.” Senator Sylvia Mthethwa of Eswatini urged governments and institutions to promote inclusive development, asking: “Are we developing societies in which everybody has an opportunity to participate or contribute and prosper?” She called for improved access to education, healthcare and employment for persons with disabilities. The Ooni’s wife, Olori Temitope Enitan-Ogunwusi, commended the foundation’s founder, urging her to remain committed to humanitarian service despite challenges. Earlier, Shona-Aluko said her youngest son’s disability inspired her intervention. She recalled employing eight specialised teachers to support him and other children at Ikeja High School for about nine years. She said the experience exposed the difficulties faced by families unable to afford specialised education. “YASA Foundation was born from a burden… a burden to give voice to the voiceless, strength to the weak, and to say boldly: ‘You are not forgotten,’” she said. The foundation focuses on inclusive education, healthcare, rehabilitation, assistive devices, vocational training and livelihood support. The event featured beneficiaries’ testimonies and recognition of Shona-Aluko by two international institutions. The post True fulfilment lies in impacting lives, says Ooni appeared first on Vanguard News .",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2022/09/The-Ooni-of-Ife-e1680300750227-1024x752.jpg",
-      "category": "nigeria"
-    },
-    {
-      "title": "Expert pushes unified emergency response system to save lives",
-      "link": "https://www.vanguardngr.com/2026/11/expert-pushes-unified-emergency-response-system-to-save-lives",
-      "source": "Vanguard Nigeria",
-      "date": "2026-11-16T23:22:00Z",
-      "description": "By Sola Ogundipe Nigeria needs a unified emergency response system that connects patients to ambulances, appropriately equipped hospitals, medical specialists and health insurance providers through a single call, an emergency care expert and healthcare entrepreneur has stated. Giving the warning in Lagos,during the inaugural ResQ Summit 2026, Dr. Aisha Onisarotu Atanda, who is the Chief Executive Officer of The Ambulance Company, ResQCore and TAC Care, said that the absence of such coordination continues to expose patients to avoidable delays and risks. Atanda, who convened the Summit themed “Building a Coordinated Emergency System”, said an integrated emergency care network would eliminate the burden on patients and their relatives to independently arrange transportation, identify suitable hospitals, secure specialist intervention and negotiate access to treatment during life-threatening situations. Speaking at the Rescue Summit 2026, themed “Building a Coordinated Emergency Care System”, Atanda said Nigeria already had organisations and resources providing different aspects of emergency care, but poor coordination prevented them from functioning as one effective system. She said the current arrangement often left families struggling to determine which emergency number to call, secure an ambulance and identify a hospital capable of managing the patient’s condition, resulting in delays that could compromise survival. “The problem we have at the moment is that many organisations operate in silos. Hospitals operate independently. Ambulance companies and health maintenance organisations are also doing their own thing, all with the right intention of improving emergency care. “However, when these organisations operate in silos, patients and their relatives are left to navigate the system themselves. They have to figure out which number to call, contact an ambulance and then decide where the patient should be taken,” Atanda said. She noted that the proposed model would ensure that once an emergency call was received, the patient’s location and condition would be established, an appropriate ambulance dispatched and a receiving hospital with the capacity to provide the required treatment identified. Atanda said the initiative is particularly important in emergencies involving burns, complicated pregnancies and other conditions requiring specialised intervention, where taking a patient to the wrong facility could result in dangerous delays. “The patient’s relatives may not have the expertise to know, for instance, that a burn victim needs to be taken to a specialist burns centre. As a result, valuable time is wasted accessing the wrong care when the patient could have been connected to the right facility through a coordinated system,” she added. Atanda, who co-founded an ambulance service provider and subsequently developed technology for coordinating emergency services, said her organisation had also extended its activities to intensive care and surgica",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Ghana.png",
-      "category": "nigeria"
-    },
-    {
-      "title": "67th NCH: Nasarawa seeks actionable resolutions to improve healthcare delivery",
-      "link": "https://www.vanguardngr.com/2026/11/67th-nch-nasarawa-seeks-actionable-resolutions-to-improve-healthcare-delivery",
-      "source": "Vanguard Nigeria",
-      "date": "2026-11-16T23:22:00Z",
-      "description": "By Chidinma Chukwu, Abuja The Nasarawa State Government has called on health sector leaders across the country to translate commitments and policy decisions into measurable outcomes that will improve healthcare delivery, particularly at the grassroots. The Governor of the State, Abdullahi Sule, made the call on Monday while declaring open the Technical Session of the 67th National Council on Health (NCH) in Lafia, the state capital. This was contained in a statement signed by the Assistant Director of Information and Public Relations, Ministry of Health and Social Welfare, Ado Bako. Represented by the Deputy Governor, Dr. Emmanuel Akabe, Sule said the Council provided an important platform for stakeholders to develop practical solutions to the challenges confronting Nigeria’s health sector. He expressed confidence that deliberations under the theme, “From Commitments to Results: Delivering Quality and Equitable Healthcare for All Nigerians,” would produce actionable recommendations to strengthen the country’s healthcare system. The Governor described Nasarawa’s selection as host of the national meeting as a privilege and an opportunity to showcase the state’s peaceful environment, hospitality and economic potential. He also reaffirmed the state government’s commitment to supporting national health sector reforms and ensuring a successful meeting. He urged delegates to take advantage of the state’s hospitality during their stay. Earlier, the Nasarawa state Commissioner for Health, Dr. Gwamna Gaza, described the meeting as a historic opportunity for the state to host health sector leaders from across the country for the first time. He stressed that decisions reached at the Council would have far-reaching implications for the country’s health sector, urging participants to remain conscious of the fact that they were also beneficiaries of the policies and reforms being formulated for Nigerians. He also called for active participation and constructive contributions, assuring delegates that the state government and relevant institutions were available to address any challenges they might encounter during the meeting. Presenting the procedures for the Technical Session, the Permanent Secretary of the Federal Ministry of Health and Social Welfare and Chairman of the Technical Committee, Daju Kachollom, said the two-day meeting, scheduled for November 16 and 17, would provide the technical foundation for the main Council meeting on November 19 and 20. She explained that the main Council meeting would be chaired by the Coordinating Minister of Health and Social Welfare, Prof. Muhammad Ali Pate. According to her, the Technical Committee would review proceedings and the implementation status of resolutions reached at the 66th Regular National Council on Health, consider memoranda submitted by the Federal Government, state governments and other ministries, and develop recommendations for consideration by the Council. Kachollom, said the memoranda submitted fo",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-2.35.05-PM.jpeg",
-      "category": "nigeria"
-    },
-    {
-      "title": "Which USMNT players, if any, might Mauricio Pochettino bring to Manchester United?",
-      "link": "https://www.nytimes.com/athletic/7787057/2026/11/16/pochettino-manchester-united-usmnt-players-transfers-signings",
-      "source": "The Athletic Soccer",
-      "date": "2026-11-16T23:17:44Z",
-      "description": "Mauricio Pochettino is headed to Manchester United. Would he bring any USMNT players he's gotten to know with him?",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16141332/GettyImages-2284250072.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Trump Asia trip live updates: Logistical hurdles with a Trump-Kim Jong Un meeting",
-      "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026?id=138187702",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-16T23:14:22Z",
-      "description": "Trump will participate in the first-ever trilateral meeting with Putin and Xi.",
-      "image": "https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261116_1794841393009_hpMain_16x9_1600.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Ukraine hits key Crimea bridge with drones",
-      "link": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
-      "source": "France 24",
-      "date": "2026-11-16T23:13:06Z",
-      "description": "\"I think the Ukrainians are trying to send a message to the Russians with this - 'If you hit our bridges we can hit yours,'\" reports Gulliver Cragg from Kyiv.",
-      "image": "https://s.france24.com/media/display/3b52c1ca-e210-11f1-ae4f-695cb59fade5/w:1024/p:16x9/EN-20261116-230143-230237-CS.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
-      "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago",
-      "source": "NASA Breaking News",
-      "date": "2026-11-16T23:12:45Z",
-      "description": "Explore This Section Perseverance Home Mission Overview Rover Components Mars Rock Samples Where is Perseverance? Ingenuity Mars Helicopter Mission Updates Science Overview Objectives Instruments Highlights Exploration Goals News and Features Multimedia Perseverance Raw Images Images Videos Audio More Resources Mars Missions Mars Perseverance Rover Mars Curiosity Rover Mars Reconnaissance Orbiter Mars Odyssey More Mars Missions Mars Home 2 min read Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago NASA’s Perseverance rover captured this image of a bright, silica-rich rock in the “Idubi” area using its left Mastcam-Z camera on Oct. 29, 2026 (Sol 2023) at the local mean solar time of 13:03:53. NASA/JPL-Caltech/ASU Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of Jezero crater — the Perseverance rover team has been captivated by a cluster of eerily bright, light-toned rocks in the area. These bright fragments stand out sharply against the underlying darker and often dust-covered Martian surface, and are even brighter than the igneous and impactite rocks we previously investigated. Suspecting that they differed from the typical igneous rocks in the area, the rover team directed Perseverance to investigate. Newly downlinked data from the SuperCam instrument has confirmed that these light-toned rocks are not igneous in origin and instead are rich in hydrated silica. Hydrated silica can form in many aqueous environments on the Earth, including hydrothermal, pedogenic, and groundwater systems. As such, these types of deposits are prime targets for understanding Mars’ hydrological history, as several of these environments could have been capable of supporting life. Furthermore, hydrated silica holds immense astrobiological value due to its remarkable capacity to preserve microfossils. Could these pale remnants of an ancient Martian water system hold signs of ancient life? When Perseverance previously encountered silica-rich rocks on the inner rim of Jezero Crater, the deposits were too small to deploy proximity science instruments and gather the high-resolution chemical and mineralogical data needed to constrain their origin and biosignature preservation potential. Fortunately, the rocks at “Idubi” offer a much more promising scale, and a detailed proximity science campaign is already underway. A close-up image of a silica-rich rock in the “Idubi” area using the Perseverance rover’s SHERLOC WATSON camera, located on the turret at the end of the rover’s robotic arm. This image was acquired on Oct. 29, 2026 (Sol 2023) at the local mean solar time of 17:33:55. NASA/JPL-Caltech Want to read more posts from the Perseverance team? Visit Mission Updates Want to learn more about Perseverance’s science instruments? Visit the Science In",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg?w=1588&h=1200&fit=clip",
-      "category": "science"
-    },
-    {
-      "title": "Drug insecurity threatens national security, pharmacists warn FG",
-      "link": "https://www.vanguardngr.com/2026/11/drug-insecurity-threatens-national-security-pharmacists-warn-fg",
-      "source": "Vanguard Nigeria",
-      "date": "2026-11-16T23:09:00Z",
-      "description": "… Seeks 1% of seized drug trafficking assets to fund enforcement … Demands government control of medicine supply chain By Chioma Obinna The Pharmaceutical Society of Nigeria (PSN) on Monday warned that pharmaceutical insecurity poses a serious threat to Nigeria’s national security, urging the Federal Government to strengthen regulatory control of medicines and prevent the transfer of critical drug management responsibilities from public authorities to private interests. The society also called for the establishment of a special fund to tackle illicit financial flows in the healthcare sector, proposing that one per cent of assets seized from drug trafficking be dedicated to strengthening the enforcement activities of the Pharmacy Council of Nigeria (PCN) and the National Agency for Food and Drug Administration and Control (NAFDAC). The resolutions were contained in a communiqué issued at the end of the 99th Annual National Conference of the PSN, tagged IJELE 2026, held from November 2 to 7 at the International Convention Centre, Awka, Anambra State. The conference, which brought together pharmacists and other stakeholders in the pharmaceutical and healthcare sectors, was held under the theme, “One Health, One Pharmacy: Bridging Knowledge, Practice and Policy for National Impact.” In the communiqué signed by the President, Pharm. Ibrahim Tanko Ayuba, and National Secretary, Pharm. Gafar Madehin, the pharmacists maintained that medicines were not merely commercial commodities but matters of permanent regulatory control and national security. Citing Part I, Item 21 of the Second Schedule of the 1999 Constitution, the conference argued that the government’s responsibility for drug regulation and control could not be compromised by private-sector participation in the pharmaceutical supply chain. It cautioned against what it described as a private takeover of drug distribution responsibilities at the public-sector level, warning that such an arrangement could weaken inter-agency collaboration among the PCN, NAFDAC and the National Drug Law Enforcement Agency (NDLEA). The communiqué stated: “Conference reminded Government that drugs are a matter of permanent regulatory control and National Security, which is why it is listed as Part I item 21, in the 2nd Schedule of the 1999 Constitution.” It added that while government could engage private-sector expertise in financing and technology deployment, it should not surrender its regulatory standing or the cooperation currently extended by relevant agencies to Federal Central Medical Stores and Federal Health Institutions. The PSN further called for the integration of community pharmacies into Nigeria’s national security architecture and the Nigeria Health Insurance Authority’s proposed Pharmacy First initiative. According to the conference, more than 10,000 community pharmacies across the country could serve as frontline health and security stakeholders by identifying and reporting suspicious drug-related act",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2019/10/PSN-1024x652.jpg",
-      "category": "nigeria"
-    },
-    {
-      "title": "How 2026's Best Video Games Were Made",
-      "link": "https://www.polygon.com/2026-games-of-the-year-how-were-made",
-      "source": "Polygon",
-      "date": "2026-11-16T23:00:19Z",
-      "description": "Ahead of The Game Awards Game of the Year nominees, creatives behind Resident Evil, Control, Star Wars, and Pragmata pull back the curtain",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/polygonroundtable_gamedirectors_notext.png",
-      "category": "gaming"
-    },
-    {
-      "title": "‘Spider-Man: Brand New Day’ Extended Cut Sets December Release Date in Theaters",
-      "link": "https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654",
-      "source": "Variety",
-      "date": "2026-11-16T23:00:00Z",
-      "description": "The re-release of “Spider-Man: Brand New Day,” which features footage previously left on the cutting room floor, hits theaters on Dec. 4. Tickets go on sale Nov. 19. News that “Brand New Day” was returning to theaters with an extended cut first broke in late September. While audiences will have to wait another month to […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-16-Nov-2026-02-49-PM-8729.jpg",
-      "category": "entertainment"
-    },
-    {
-      "title": "The charging mistakes that could ruin your Nintendo Switch's battery",
-      "link": "https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery",
-      "source": "Engadget",
-      "date": "2026-11-16T23:00:00Z",
-      "description": "To avoid turning your Nintendo Switch into just another stationary console, there are a few common and easy-to-overlook charging mistakes you'll want to avoid",
-      "image": "https://www.engadget.com/img/gallery/the-charging-mistakes-that-could-ruin-your-nintendo-switchs-battery/l-intro-1794501086.jpg",
-      "category": "technology"
-    },
-    {
-      "title": "Mbah commissions Premium Trust Bank branch in Enugu, says security, infrastructure investments attracting investors",
-      "link": "https://www.premiumtimesng.com/promoted/925730-mbah-commissions-premium-trust-bank-branch-in-enugu-says-security-infrastructure-investments-attracting-investors.html",
-      "source": "Premium Times Nigeria",
-      "date": "2026-11-16T22:59:14Z",
-      "description": "The governor expressed optimism that the bank would establish additional branches in the state, potentially expanding its presence to 10 branches as economic activities and investment opportunities increase. The post Mbah commissions Premium Trust Bank branch in Enugu, says security, infrastructure investments attracting investors appeared first on Premium Times Nigeria .",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/11/63cddfc7-9c5b-44d5-8c77-5a7d8c834f16.jpeg?fit=1040%2C694&ssl=1",
-      "category": "nigeria"
-    },
-    {
-      "title": "Arsenal's Max Dowman becomes England Under-21s' youngest scorer with late winner vs. France",
-      "link": "https://www.nytimes.com/athletic/7787974/2026/11/16/max-dowman-england-goal-france",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T22:58:50Z",
-      "description": "Dowman made history for England Under-21s during the November international window",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16172638/GettyImages-2305425407-scaled-e1794868017604.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse",
-      "source": "Ars Technica",
-      "date": "2026-11-16T22:58:27Z",
-      "description": "A humanoid robotics company backed and advised by President Donald Trump’s son, Eric Trump, has reportedly missed payroll and may be on the brink of collapse after a funding shortfall. The Silicon Valley startup, Foundation Future Industries, claims it is developing and testing robots for military roles on battlefields from Ukraine to Gaza. Foundation failed to pay employees for the payroll period ending on October 30, anonymous sources told CNBC . The startup’s staff is especially angry because Foundation’s co-founder and CEO, Sankaet Pathak , supposedly borrowed $4.6 million in company funds to buy a luxury home overlooking San Francisco Bay about a year ago. This comes as Pathak and Foundation’s leadership are still looking to raise funding to support a $3 billion valuation, based on their promise to develop a humanoid robot ready for combat duty and capable of wielding various weapons. Read full article Comments",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
-      "category": "technology"
-    },
-    {
-      "title": "WATCH: Trump blames Biden administration for FAA ground stop & other stories",
-      "link": "https://abcnews.com/video/138191402",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-16T22:56:23Z",
-      "description": "Nationwide FAA ground stop resulted from equipment failure, says administrator; Anthropic to price its IPO this week; NOAA reports strong El Niño expected to peak in the New Year",
-      "image": "https://s.abcnews.com/images/US/261116_abcnl_searched_full_hpMain_16x9_1600.jpg",
-      "category": "world"
     }
   ],
   "nigeria": [
+    {
+      "title": "Don’t turn churches into campaign arena, Soludo cautions politicians",
+      "link": "https://www.vanguardngr.com/2026/11/dont-turn-churches-into-campaign-arena-soludo-cautions-politicians",
+      "source": "Vanguard Nigeria",
+      "date": "2026-11-17T01:15:00Z",
+      "description": "By Vincent Ujumadu Governor Charles Soludo of Anambra State, on Sunday, cautioned politicians against turning churches and other places of worship into a political arena, stating that sacred spaces must remain neutral grounds for people of all political persuasions. Soludo made the remark during the 30th anniversary celebration of the Mountain of Holy Ghost Intervention and Deliverance Ministry founded by Prophet Chukwuemeka Ohanaemere, popularly known as Odumeje. Addressing the congregation, the governor stressed the need for the men of God to clearly separate politics from worship. According to Soludo, the place of worship should be a holy place where people of all political persuasion should come and worship God in peace. “It should not be a place for politics. There is a venue for politics. If you want to worship God, you have to go to the house of God. We must separate the two things clearly,” Soludo said. He recalled that six months before his election, he took a deliberate decision never to go to any church to cup a microphone to ask them to vote for him or to campaign. “It was a deliberate decision. I worshipped in the government house chapel until the election day and afterwards,” the governor stated. “We must never politicise the church. We must never politicise the place of worship. Politicians, keep off churches. Keep off places of worship. That’s a deliberate message, and it is my kind of consistency of character”, he further said. The post Don’t turn churches into campaign arena, Soludo cautions politicians appeared first on Vanguard News .",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/Soludo-e1774166999126.jpeg",
+      "category": "nigeria"
+    },
+    {
+      "title": "Obi, Kwankwaso have God’s grace to dislodge Tinubu — Babachir Lawal",
+      "link": "https://www.vanguardngr.com/2026/11/obi-kwankwaso-have-gods-grace-to-dislodge-tinubu-babachir-lawal",
+      "source": "Vanguard Nigeria",
+      "date": "2026-11-16T23:56:00Z",
+      "description": "A chieftain of Nigeria Democratic Congress, NDC, Babachir Lawal, has said Peter Obi, the party’s presidential candidate, and Rabiu Kwankwaso, his running mate, have God’s backing to defeat President Bola Tinubu in 2027. Lawal, a former Secretary to the Government of the Federation, SGF, who made the declaration during an appearance on Arise Television late Sunday, cited the “widespread support” Obi and Kwankwaso enjoyed as a pointer to God’s grace upon their lives. He said: “I have told everybody that talks to me that both Peter Obi and Rabiu Kwankwaso have the grace of God upon their lives, which makes people like them. “The population likes them. They just show up in the market. They don’t hire people to come to their rallies. People just turn out at their own expense.” He said his experience in politics had enabled him to recognise signs that could favour the opposition alliance, adding that he previously occupied a similar position during the Muhammadu Buhari administration. “It’s not the first time I am in the position I am in now in politics. I have been in this position during Buhari’s time. Even this your president, I drove his system up to the primaries. “So I am a very skilled and experienced person in the game. I can see the signs and we know the loopholes. And we are working on the loopholes,’’ he said. Lawal expressed confidence that the NDC would defeat the ruling All Progressives Congress, APC. , saying the party had established structures and systems to achieve its objective. “We have an inside chance of toppling this government. We are inside and we know we will beat this government. “We know they are gone. We have put up structures and systems. I am 100 per cent confident,’’ he said. Lawal added that the responsibility of the party’s technical team was to convert the popularity of its presidential candidates into electoral success by ensuring that votes were protected and counted. “This grace that God has bestowed upon them, it’s our duty, the technical people, to harmonise and crystallise this thing into delivering it at the polling station and protecting the votes and ensuring it’s counted,” he said. Lawal dismissed concerns over recent departure of Yunusa Tanko, former national coordinator of the Obidient Movement; Nana Kazaure, Doyin Okupe, and the former NDC’s deputy national publicity secretary, from Obi’s camp, saying politicians were free to leave parties when their expectations were not met. He compared the development with the exit of some politicians from Tinubu’s inner circle, including Kashim Imam and Rauf Aregbesola. “I was with Bola Tinubu, but I left. I can remember Kashim Imam; he has also left. I remember Rauf Aregbesola, who was also with Bola Tinubu. But he has left. These are big politicians. But they left Bola Tinubu. “Leaving a political party is only natural. Nigeria is like a big company with many political parties. And people come in there with their own different ideas about what they can get out of it",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2019/04/babachir-lawal-e1668782881367.jpg",
+      "category": "nigeria"
+    },
     {
       "title": "Gombe approves N97bn road projects, N3.8bn emergency vehicles",
       "link": "https://www.vanguardngr.com/2026/11/gombe-approves-n97bn-road-projects-n3-8bn-emergency-vehicles",
@@ -433,27 +451,45 @@
       "description": "Accuse Eko Power, TCN of shifting blame; say businesses losing billions By Cynthia Alo Residents of more than 200 estates along the Orchid Road axis of Lekki, Lagos State, have staged a protest over prolonged electricity outages, accusing Eko Power Limited and the Transmission Company of Nigeria (TCN) of shifting blame for the persistent disruption. The residents, under the aegis of the Lekki Conservation Estates Community Development Association (LECECODA), demanded the immediate restoration of electricity supply, provision of individual prepaid meters and construction of a dedicated injection substation to serve the Orchid Road corridor. They also called for a technical audit of the Maroko 33kV feeder, through which the community receives electricity, and urged the Nigerian Electricity Regulatory Commission (NERC) to investigate the quality of service being delivered to the area. The protest, which took place at the weekend, followed what the residents described as five years of engagements and unfulfilled commitments by the electricity distribution company. It also came barely a week after the Minister of Power, Mr Joseph Tegbe, reportedly assured residents of Lekki and Ajah communities of improved electricity supply. The protesters, comprising landlords, tenants and business owners, carried placards with inscriptions such as: “Orchid Road Deserves a Substation”, “Orchid Road Band B = Band Nothing”, “We Pay Premium Rates But Get Zero Reliability”, “Eko Power Failed Promise” and “Constant Power Outages Are Killing Businesses on Orchid Road.” Addressing journalists during the protest, LECECODA President, Bode Akinwande, said the community had received virtually no electricity for more than four months despite continuing to receive electricity bills running into millions of naira. Akinwande described Orchid Road as a 7.5-kilometre corridor housing approximately 200 residential estates, alongside schools, restaurants, shopping malls, supermarkets, clubs, churches and mosques. He said the community’s size and contribution to Eko Power’s revenue made the absence of a dedicated injection substation particularly concerning. He said: “For the past four months, we have received virtually no supply. In the month of October, we did not receive two hours of supply cumulatively. And unfortunately, members of this community, various estates, have received bills in millions. And this is not acceptable to us at all. “For five years, the leadership of this community has engaged directly with Eko Power, and before it, the former management known as EKEDC. Several meetings have been held, and several commitments have been made. None of them have been implemented.” The LECECODA president said the current management of Eko Power also met with community stakeholders at Orchid Hotel and made further assurances, but residents had yet to witness any significant improvement. He said the association formally wrote to the acting Managing Director of Eko Power in October, ",
       "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-8.52.28-PM-1024x770.jpeg",
       "category": "nigeria"
-    },
-    {
-      "title": "2027: Bauchi NDC governorship candidate defects to APC",
-      "link": "https://www.premiumtimesng.com/news/top-news/925709-2027-bauchi-ndc-governorship-candidate-defects-to-apc.html",
-      "source": "Premium Times Nigeria",
-      "date": "2026-11-16T20:54:50Z",
-      "description": "Ibrahim Kashim is listed by the Independent National Electoral Commission (INEC) as the NDC’s flagbearer for the 2027 general election in Bauchi State. The post 2027: Bauchi NDC governorship candidate defects to APC appeared first on Premium Times Nigeria .",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/11/1003174191-e1794862007705.jpg?fit=720%2C515&ssl=1",
-      "category": "nigeria"
-    },
-    {
-      "title": "2027: Speaker cautions against intimidation as thuggery increases",
-      "link": "https://www.premiumtimesng.com/news/925708-2027-speaker-cautions-against-intimidation-as-thuggery-increases.html",
-      "source": "Premium Times Nigeria",
-      "date": "2026-11-16T20:53:24Z",
-      "description": "The Speaker said Nigeria's democracy provides constitutional space for disagreement, representation, and peaceful political competition, urging political actors to avoid actions that could undermine the democratic process. The post 2027: Speaker cautions against intimidation as thuggery increases appeared first on Premium Times Nigeria .",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2023/06/MicrosoftTeams-image-40-960x570-1.jpg?fit=960%2C570&ssl=1",
-      "category": "nigeria"
     }
   ],
   "world": [
+    {
+      "title": "Robert Pattinson is the new James Bond. A look back at his other franchises",
+      "link": "https://abcnews.com/GMA/Culture/robert-pattinson-new-james-bond-back-franchises/story?id=138185581",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-17T01:12:12Z",
+      "description": "Some fans lauded Pattinson's casting as the next 007 on social media, while others pointed out that Bond is the latest franchise on his resumé that includes \"Twilight.\"",
+      "image": "https://s.abcnews.com/images/GMA/pattinson-gty-er-261116_1794867079220_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+      "link": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
+      "source": "France 24",
+      "date": "2026-11-17T00:58:33Z",
+      "description": "Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, damaging critical infrastructure and causing water and power cuts in parts of the Ukrainian capital, Mayor Vitali Klitschko said. The attacks came as Moscow launched a wider wave of drone and missile strikes across Ukraine, including in the regions of Cherkasy and Kharkiv.",
+      "image": "https://s.france24.com/media/display/d2e45bd2-e221-11f1-8e06-5f54d898a954/w:1024/p:16x9/AP26319581736584.jpg",
+      "category": "world"
+    },
+    {
+      "title": "WATCH: NYC teen builds candle business with refillable cement containers",
+      "link": "https://abcnews.com/video/138190675",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-17T00:54:26Z",
+      "description": "What started as helping his sister make candles for a birthday party at age 13 has turned into a thriving business for New York City teen Christon Lennon.",
+      "image": "https://s.abcnews.com/images/Business/261116_abcnl_6p_candle_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "WATCH: Meet the rental car manager going viral for keeping customers calm during ground stop",
+      "link": "https://abcnews.com/video/138190400",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-17T00:53:24Z",
+      "description": "Perley Provost, manager of Enterprise Rent-A-Car at Denver International Airport, shares how he kept stranded passengers calm and hydrated during Friday's widespread ground stop.",
+      "image": "https://s.abcnews.com/images/Business/261116_abcnl_6p_car_rental_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
     {
       "title": "United Airlines briefly has 'systemwide' disruption to departing flights",
       "link": "https://abcnews.com/US/united-airlines-briefly-systemwide-disruption-departing-flights/story?id=138191145",
@@ -545,6 +581,15 @@
       "category": "world"
     },
     {
+      "title": "Trump blames ground stop on old tech that had 'heart attack'",
+      "link": "https://abcnews.com/US/trump-blames-ground-stop-tech-heart-attack/story?id=138178659",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-16T21:45:02Z",
+      "description": "Friday's ground stop resulted in thousands of cancelled flights.",
+      "image": "https://s.abcnews.com/images/US/donald-trump-2-rt-gmh-261116_1794840097368_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
       "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
       "link": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks",
       "source": "France 24",
@@ -633,54 +678,27 @@
       "description": "Five EU countries including Germany and Denmark on Monday unveiled a deal to establish a migrant deportation centre in Rwanda -- the first such facility outside the bloc. The group, also comprising Austria, Greece and the Netherlands, has been gunning to open a \"return-hub\" despite rights groups' concerns, after the European Union cleared the way with a recent toughening of migration rules. FRANCE 24's Dave Keating reports from Brussels.",
       "image": "https://s.france24.com/media/display/7d2aecd0-e1f7-11f1-9c88-f71d22e7fea9/w:1024/p:16x9/EN-20261116-203438-203717-CS.jpg",
       "category": "world"
-    },
-    {
-      "title": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
-      "link": "https://abcnews.com/US/wireStory/supreme-court-rebuffs-trump-administration-appeal-dei-funding-138187547",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-16T19:43:08Z",
-      "description": "The Supreme Court has rejected a Trump administration appeal on DEI funding cuts to academic research",
-      "image": "https://s.abcnews.com/images/US/wirestory_36d846810d632fba17364355de99efa8_16x9_1600.jpg",
-      "category": "world"
-    },
-    {
-      "title": "UEFA backs France's Diallo to stand against Infantino in FIFA election",
-      "link": "https://www.france24.com/en/uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election",
-      "source": "France 24",
-      "date": "2026-11-16T19:40:39Z",
-      "description": "European football's governing body UEFA has given its \"unanimous\" backing to French Football Federation chief Philippe Diallo to stand against incumbent Gianni Infantino in March's FIFA presidential election, it said in a statement Monday. Under its Slovenian president Aleksander Ceferin, UEFA has led the opposition to Infantino since his announcement in late July of a project to sell stakes in the World Cup to private investors. FRANCE 24's Selina Sykes speaks with Dr. Emanuel Macedo de Medeiros, Co-founder and Global CEO of the Sport Integrity Global Alliance.",
-      "image": "https://s.france24.com/media/display/3290138c-e1f5-11f1-8f2a-3f371022a770/w:1024/p:16x9/EN-20261116-201828-202731-CS.jpg",
-      "category": "world"
-    },
-    {
-      "title": "'A futuristic debate now very real': Why the world is struggling to regulate killer robots",
-      "link": "https://www.france24.com/en/technology/20261116-a-futuristic-debate-now-very-real-why-the-world-is-struggling-to-regulate-killer-robots",
-      "source": "France 24",
-      "date": "2026-11-16T19:10:36Z",
-      "description": "Representatives from 128 nations are meeting in Geneva on Monday to decide whether to move ahead with negotiating legally binding rules around the use of AI-powered weapons that can kill without human involvement. FRANCE 24 spoke with artificial intelligence researcher Vincent Boulanin to find out just what is at stake.",
-      "image": "https://s.france24.com/media/display/826c555c-e1da-11f1-baa3-3f371022a770/w:1024/p:16x9/000-D68W7VD.jpg",
-      "category": "world"
-    },
-    {
-      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-      "source": "NPR News",
-      "date": "2026-11-16T18:49:26Z",
-      "description": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China. (Image credit: Taryn Ng)",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5367x3578+0+0/resize/5367x3578!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F22%2F5d8e832c4fd78402c75d44e19475%2Fgettyimages-2303986706-1.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Water companies told to act over fears drought will extend into next year",
-      "link": "https://news.sky.com/story/water-companies-told-to-act-over-fears-drought-will-extend-into-next-year-13612971",
-      "source": "Sky News Home",
-      "date": "2026-11-16T18:39:00Z",
-      "description": "Water firms have been told to do more over fears the current drought will extend into next year.",
-      "image": "https://e3.365dm.com/26/11/1920x1080/skynews-ardingly-reservoir_7408066.jpg?20261116193932",
-      "category": "world"
     }
   ],
   "business": [
+    {
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites",
+      "source": "Cointelegraph",
+      "date": "2026-11-17T01:02:05Z",
+      "description": "Researchers say attackers compromised scripts delivered through Optimizely, exposing visitors to malware designed to replace crypto wallet addresses and steal payment card details.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KGB8P723WG4K1R3Q3WMM6J/hi-how-cybercriminals-use-youtube-and-github-to-spread-crypto-malware.jpg",
+      "category": "business"
+    },
+    {
+      "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
+      "link": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return",
+      "source": "Cointelegraph",
+      "date": "2026-11-16T23:50:41Z",
+      "description": "The chipmaker’s board is reportedly focused on investigating Huang’s conduct, even as a petition calling for his reinstatement gathers more than 187,000 signatures.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KABBJFAJNZZ9Y5F7TA19N8/ripping-paper-white-hands.jpg",
+      "category": "business"
+    },
     {
       "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
       "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access",
@@ -772,24 +790,6 @@
       "category": "business"
     },
     {
-      "title": "I’ve Spent the Past Year Analyzing Why AI Recommends Some Products Over Others. Here’s How to Win the Holiday Shopping Game.",
-      "link": "https://www.entrepreneur.com/building-a-business/ive-spent-the-past-year-analyzing-why-ai-recommends-some-products-over-others",
-      "source": "Entrepreneur",
-      "date": "2026-11-16T21:11:34Z",
-      "description": "Courtney Sandora, founder of Go Social, helps brands compete across AI search.",
-      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Courtney-Headshot.jpg",
-      "category": "business"
-    },
-    {
-      "title": "I Eliminated Busywork From My Schedule. So Why Was I Still Running Out of Time?",
-      "link": "https://www.entrepreneur.com/building-a-business/i-eliminated-busywork-from-my-schedule-so-why-was-i-still-running-out-of-time",
-      "source": "Entrepreneur",
-      "date": "2026-11-16T21:00:00Z",
-      "description": "Sometimes, no matter how organized you are, life happens and you find yourself with way too much to do. Here’s how to handle it.",
-      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/busy-work-time-management-1126_g2284775792.jpg",
-      "category": "business"
-    },
-    {
       "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
       "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump",
       "source": "Cointelegraph",
@@ -876,7 +876,7 @@
       "source": "Entrepreneur",
       "date": "2026-11-16T19:17:41Z",
       "description": "This CEO's path offers a lesson for anyone looking to climb the corporate ladder.",
-      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Antonio-Neri-1126_g2264005666-new.jpg",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Antonio-Neri-GettyImages-2264005666.jpg",
       "category": "business"
     },
     {
@@ -908,6 +908,15 @@
     }
   ],
   "entertainment": [
+    {
+      "title": "Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere",
+      "link": "https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116",
+      "source": "Variety",
+      "date": "2026-11-17T00:32:42Z",
+      "description": "Jennifer Lawrence staged a “Hunger Games” reunion with co-star Josh Hutcherson at the world premiere of “Sunrise on the Reaping” in New York City. The two original stars of “The Hunger Games” franchise walked the red carpet and posed for photos more than a decade after the press tour for “The Hunger Games: Mockingjay – […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305445522.jpg",
+      "category": "entertainment"
+    },
     {
       "title": "‘Spider-Man: Brand New Day’ Extended Cut Sets December Release Date in Theaters",
       "link": "https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654",
@@ -1005,15 +1014,6 @@
       "date": "2026-11-16T19:00:33Z",
       "description": "Tems is officially a 12-time Grammy nominee after securing four nominations for the 69th Grammy Awards. Photo Credit: Tems/Instagram One, two, three… and now 12! Tems has added four more Grammy nominations to her record, bringing her career total to 12 ahead of the 69th Grammy Awards. The latest recognition also makes her the first Nigerian female artist to receive four nominations in a single Grammy year, with this year’s shortlist recognising her work across four categories. The Nigerian singer is in contention for Best Global Music Album with her 10-track EP, Love Is a Kingdom , and Best African Music Performance for “ Big Daddy ”. She has also earned nominations for Best R&B Solo Performance and Best R&B Song for “ What You Need ”. The four nominations give her one of the most extensive Nigerian representations at this year’s ceremony and bring her Grammy wins to two, following previous victories in 2023 and 2025. Her relationship with the Recording Academy began in 2022, when she received her first nomination for her contribution to Wizkid ‘s “ Essence ”, which was nominated for Best Global Music Performance at the 64th Grammy Awards. The following year brought three more nominations, this time for her work on Future’s “ Wait for U ” featuring Drake and Beyoncé ‘s Renaissance . She won her first Grammy that night, taking home Best Melodic Rap Performance for “Wait for U”, while also receiving nominations for Album of the Year and Best Rap Song. Tems earned another nomination at the 66th Grammy Awards in 2024 for “ Lift Me Up ”, her contribution to the Black Panther : Wakanda Forever soundtrack, in the Best Song Written for Visual Media category. She returned to the Grammys the following year with three nominations, including Best Global Music Album for her debut album, Born in the Wild , and Best R&B Song for “ Burning ”. Her second Grammy win came in the Best African Music Performance category, where “ Love Me JeJe ” took home the award at the 67th Grammy Awards in February 2025. Now, with four nominations for the 69th edition, Tems has added another significant chapter to her Grammy record. The ceremony will take place on Sunday, 7 February 2027, at the Crypto.com Arena in Los Angeles. The post Tems Is Officially a 12-Time Grammy Nominee! appeared first on BellaNaija - Showcasing Africa to the world. Read today! .",
       "image": "https://www.bellanaija.com/wp-content/uploads/2026/11/SaveClip.App_798884268_18615582610063577_2844803731764377710_n.jpg",
-      "category": "entertainment"
-    },
-    {
-      "title": "Netflix Orders Harlan Coben Limited Series ‘The Innocent’ From ‘I Will Find You’ Team",
-      "link": "https://variety.com/2026/tv/news/netflix-harlan-coben-the-innocent-i-will-find-you-1236949157",
-      "source": "Variety",
-      "date": "2026-11-16T19:00:00Z",
-      "description": "Netflix has ordered the limited series “The Innocent” based on the Harlan Coben novel of the same name. The announcement came as part of Netflix’s inaugural appearance at the Texas Book Festival in celebration of the streamer’s many book-to-screen adaptations. Coben is a massive part of that side of Netflix’s business, with “The Innocent” representing […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2283828382.jpg",
       "category": "entertainment"
     },
     {
@@ -1136,28 +1136,46 @@
   ],
   "sports": [
     {
-      "title": "Chargers vs. Ravens live updates: NFL ‘Monday Night Football’ score, predictions, odds and latest",
+      "title": "Chargers vs. Ravens live score updates: Latest from NFL ‘Monday Night Football’, highlights, analysis",
       "link": "https://www.nytimes.com/athletic/live-blogs/chargers-vs-ravens-live-score-updates-nfl-mnf-result/aQTu9bPlh0f1",
       "source": "The Athletic Sports",
-      "date": "2026-11-16T23:50:06Z",
-      "description": "Follow our live coverage as the Week 10 finale pits the winless Los Angeles Chargers against the Baltimore Ravens.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/aQTu9bPlh0f1_gXwI9TX8nuny_1440x960.jpg",
+      "date": "2026-11-17T01:20:02Z",
+      "description": "Follow live coverage as the Week 10 finale pits the winless Los Angeles Chargers against the Baltimore Ravens.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/aQTu9bPlh0f1_VyyAu0cBK2fm_1440x960.jpg",
       "category": "sports"
     },
     {
-      "title": "NBA season live updates: LeBron James won't play for 76ers against Nets, latest on Las Vegas expansion and more news",
+      "title": "NBA season live updates: LeBron James not playing for 76ers against Nets, Magic facing Celtics and more news",
       "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
       "source": "The Athletic Sports",
-      "date": "2026-11-16T23:45:01Z",
+      "date": "2026-11-17T01:17:18Z",
       "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_ptnVT76Nb3Gb_1440x960.jpg",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_t1Zy8eJjSCoW_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Arkansas State fires coach Butch Jones in sixth season: Source",
+      "link": "https://www.nytimes.com/athletic/7788271/2026/11/16/butch-jones-fired-arkansas-state",
+      "source": "The Athletic Sports",
+      "date": "2026-11-17T00:59:21Z",
+      "description": "The Red Wolves moved on from Jones, who went 30-43 in six seasons and was coming off bowl appearances in each of the last three years.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16194729/2026-10-18T024522Z_2011773177_MT1USATODAY30119519_RTRMADP_3_ARKANSAS-STATE-RED-WOLVES-HEAD-COACH-BUTCH-JONES-WALKS-DOWN-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Jacoby Brissett can make Super Bowl-era history in Ravens debut",
+      "link": "https://www.nytimes.com/athletic/7788033/2026/11/16/jacoby-brissett-ravens-debut-nfl-history-chargers",
+      "source": "The Athletic Sports",
+      "date": "2026-11-17T00:09:47Z",
+      "description": "Jacoby Brissett has a chance to beat the Chargers twice in the same season with two different teams. In Week 1, he helped the Cardinals beat L.A.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16200525/GettyImages-2305445724-scaled.jpg",
       "category": "sports"
     },
     {
       "title": "NFL live updates: Aidan Hutchinson, Drake Maye latest, news, reaction and more from Week 10",
       "link": "https://www.nytimes.com/athletic/live-blogs/nfl-live-updates-news-week-10-results/XI4XTTSsypAp",
       "source": "The Athletic Sports",
-      "date": "2026-11-16T23:44:34Z",
+      "date": "2026-11-17T00:00:25Z",
       "description": "Follow our live coverage as we break down the aftermath of Sunday’s NFL games.",
       "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/XI4XTTSsypAp_8P4xOs1tjZ07_1440x960.jpg",
       "category": "sports"
@@ -1208,7 +1226,7 @@
       "category": "sports"
     },
     {
-      "title": "SEC standing down in RJ Luis legal battle, allowing LSU to add 2025 NBA Draft entrant to roster",
+      "title": "SEC won't block LSU from rostering RJ Luis, clearing 2025 NBA Draft entrant to play",
       "link": "https://www.nytimes.com/athletic/7787857/2026/11/16/rj-luis-lsu-basketball-roster-sec",
       "source": "The Athletic Sports",
       "date": "2026-11-16T22:18:30Z",
@@ -1266,7 +1284,7 @@
       "link": "https://www.skysports.com/football/switzerland-vs-scotland/report/554127",
       "source": "Sky Sports Football",
       "date": "2026-11-16T21:35:00Z",
-      "description": "Andy Robertson created Scotland history then delievered a scathing assessment of their Nations League collapse against Switzerland.",
+      "description": "Andy Robertson created Scotland history, then delivered a scathing assessment of their Nations League collapse against Switzerland.",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-scotland-robertson_7408181.jpg?20261116215135",
       "category": "sports"
     },
@@ -1341,27 +1359,45 @@
       "description": "Cignetti defended the Hoosiers' schedule Monday, saying, \"People love to discredit us and what we've accomplished.\"",
       "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/16140434/2026-10-31T213839Z_731024311_MT1USATODAY30238858_RTRMADP_3_INDIANA-HEAD-COACH-CURT-CIGNETTI-DURING-THE-INDIANA-VERSUS-e1794860109300.jpg",
       "category": "sports"
-    },
-    {
-      "title": "Minnesota Wild live news updates: The latest from Michael Russo and Joe Smith",
-      "link": "https://www.nytimes.com/athletic/live-blogs/minnesota-wild-results-season/y2Xyq3gsFEog",
-      "source": "The Athletic Sports",
-      "date": "2026-11-16T20:06:09Z",
-      "description": "Michael Russo and Joe Smith bring you the ultimate fan spot for news, discussion and access to the Wild.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/y2Xyq3gsFEog_FvKHrDDdxrGA_1440x960.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "British doubles No 1 criticises ATP bosses at trophy presentation absence",
-      "link": "https://www.skysports.com/tennis/news/12110/13612925/henry-patten-british-doubles-no-1-takes-swipe-at-atp-chairman-and-ceo-for-absence-from-trophy-presentation",
-      "source": "Sky Sports Tennis",
-      "date": "2026-11-16T20:05:00Z",
-      "description": "British doubles No 1 Henry Patten has taken a swipe at ATP bosses for their absence from a trophy presentation in Turin on Monday.",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-henry-patten-tennis_7408082.jpg?20261116195328",
-      "category": "sports"
     }
   ],
   "technology": [
+    {
+      "title": "6 Chrome settings tweaks every power user needs to know",
+      "link": "https://www.zdnet.com/home-and-office/chrome-default-settings-to-change",
+      "source": "ZDNET",
+      "date": "2026-11-17T01:05:00Z",
+      "description": "For improved privacy and security, fewer interruptions, and enhanced productivity, I highly recommend changing these default browser settings.",
+      "image": "https://www.zdnet.com/wp-content/uploads/sites/3/chromefeatures.jpg",
+      "category": "technology"
+    },
+    {
+      "title": "Meta is testing Direct, a standalone messaging app for Instagram",
+      "link": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram",
+      "source": "Engadget",
+      "date": "2026-11-17T01:00:00Z",
+      "description": "Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.",
+      "image": "https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg",
+      "category": "technology"
+    },
+    {
+      "title": "The important Gmail security settings you should be using",
+      "link": "https://www.engadget.com/2315195/gmail-security-settings-most-important-use",
+      "source": "Engadget",
+      "date": "2026-11-17T00:30:00Z",
+      "description": "If you haven't taken steps to secure your Gmail account recently, it's time to log in and make sure these settings are squared away.",
+      "image": "https://www.engadget.com/img/gallery/the-important-gmail-security-settings-you-should-be-using/l-intro-1794508364.jpg",
+      "category": "technology"
+    },
+    {
+      "title": "Whether it's Black Friday or a CEO scandal, NVIDIA GPUs just don't get deep discounts",
+      "link": "https://www.engadget.com/2318262/nvidia-gou-dont-get-deep-discounts-black-friend-ceo-scandal",
+      "source": "Engadget",
+      "date": "2026-11-17T00:00:00Z",
+      "description": "Hoping the Jensen Huang fallout means cheap RTX cards this Black Friday? Here's what's really driving GPU prices and why deals may be hard to find.",
+      "image": "https://www.engadget.com/img/gallery/whether-its-black-friday-or-a-ceo-scandal-nvidia-gpus-just-dont-get-deep-discounts/l-intro-1794856807.jpg",
+      "category": "technology"
+    },
     {
       "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
       "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
@@ -1403,7 +1439,7 @@
       "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
       "source": "The Verge",
       "date": "2026-11-16T22:54:59Z",
-      "description": "United Airlines passenger planes are seen at gates at Newark Liberty International Airport (EWR) in Newark, New Jersey, on November 15, 2026. | AFP via Getty Images Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide , United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the issue itself. The outage is also coming after last week's global Microsoft Outlook shutdown , and the great-bank-outage-that-wasn't earlier Monday afternoon. According to posts on social media , a number of people onboard the planes have heard from their pilots that a systemwide IT outage for United has caused problems with a … Read the full story at The Verge.",
+      "description": "United Airlines passenger planes are seen at gates at Newark Liberty International Airport (EWR) in Newark, New Jersey, on November 15, 2026. | AFP via Getty Images Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide , United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue has been resolved. Please check the latest status of your flight at united.com or the United app. The outage is also coming after last week's global Microsoft Outlook shutdown , and the great-bank-outage-that-wasn't earlier Monday afternoon. According to posts on social media , a number of peop … Read the full story at The Verge.",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "technology"
     },
@@ -1550,42 +1586,6 @@
       "description": "AT&T on Friday accused Comcast of false advertising in a lawsuit challenging the marketing claim that Comcast's cable broadband service and Wi-Fi is \"fiber-powered.\" \"This case challenges Comcast’s false advertising campaign for its residential Internet service, marketed under the Xfinity brand to consumers nationwide,\" AT&T's lawsuit said. \"At the center of that campaign is Comcast’s claim that Xfinity Internet and its associated Wi-Fi service are 'Fiber-Powered.'\" While Comcast has deployed plenty of fiber throughout the US, its cable Internet service makes the final connection to homes with coaxial cable. This results in upload speeds being far slower than download speeds. Read full article Comments",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
       "category": "technology"
-    },
-    {
-      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place",
-      "source": "Ars Technica",
-      "date": "2026-11-16T19:54:21Z",
-      "description": "On Monday, the Supreme Court announced it would not hear an appeal of a lower court decision that blocked the government from canceling the grants of a handful of researchers whose funding had been revoked during the Trump administration's purge of DEI-related work. While the decision applies to only seven researchers in California, the lower court had ruled that the government's actions violated the First Amendment and so may have broad implications. The Supreme Court provided no discussion of its rejection, and no justices filed a dissent regarding the decision. The suit was initially filed by a large group of researchers at the University of California, Berkeley and UC San Francisco, contesting grants originally issued by many federal agencies, from the National Institutes of Health to the Department of Transportation. At issue were grants that had been terminated because the agencies decided they violated a Trump executive order blocking the use of DEI. This occurred despite the fact that the government hadn't bothered to define DEI , and targeted grants were often identified by little more than a keyword search . Read full article Comments",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg",
-      "category": "technology"
-    },
-    {
-      "title": "California sues OpenAI after that Hugging Face rogue hacking incident",
-      "link": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident",
-      "source": "Engadget",
-      "date": "2026-11-16T19:52:24Z",
-      "description": "State AG Rob Bonta has accused the company of making AI agents \"without the safeguards and monitoring necessary to adequately protect\" users.",
-      "image": "https://www.engadget.com/img/gallery/california-sues-openai-after-that-hugging-face-rogue-hacking-incident/l-intro-1794858677.jpg",
-      "category": "technology"
-    },
-    {
-      "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
-      "source": "The Register",
-      "date": "2026-11-16T19:52:00Z",
-      "description": "Attackers are using open source AI penetration testing framework ARTEX to automate their attacks on banks, governments, energy and healthcare providers, and other critical sectors around the globe, according to security alerts from the FBI and Amazon Threat Intelligence. Between October 3 and November 5, Amazon’s MadPot honeypot threat sensors detected two ARTEX campaigns: one that allowed thieves to steal AI credentials at “industrial scale” to gain free access to models, and a second that generated deepfake videos to trick live selfie checks. In the first one, miscreants used AI agents to steal API keys, and then feed these keys into the ARTEX framework’s model gateway to power more agents searching for more AI model access keys. “Agents validated identities through each provider’s token and identity services, enumerated storage, assessed permission scope, and went after managed AI model services, secrets and parameter stores, and application identities,” AWS Chief Information Security Officer CJ Moses wrote in a blog post on Friday. Targets included LLM gateways and proxy platforms such as One API, New API, Veloera, Sub2API, and LiteLLM, and AI application builders Dify, FastGPT, Langflow, RAGFlow, Open WebUI, LobeChat, and Ollama. This campaign also used cloud credentials to gain stolen access to the models. In a second campaign, attackers used ARTEX to create real-time deepfake videos to trick identity verification (KYC) checks at two cryptocurrency exchanges, and forged ID photos to pass document checks. “The agents reverse-engineered one vendor’s liveness protocol in detail, documenting the face-detection event stream it sends, how it tracks face position during the check, and the coordinate system it uses to tell the user where to move,” Moses wrote. The agents did manage to complete the full movement sequence with the face positioned within 7 pixels of the target, but this feat was not enough, as the vendor’s server-side verdict rejected the deepfake in every attempt. In a separate session, agents built a real-time deepfake video pipeline on a single consumer-grade GPU using an open-source face animation model. This video achieved 11.5 frames per second, which Moses said is “close to what a live video check expects.” Meanwhile, agents also worked on the ID document checks, building synthetic camera metadata whose image dimensions matched the real values inside the JPEG file, and preserving the original camera compression tables that are usually replaced by re-saving an edited image. While the end goal was stealing cryptocurrency, the campaign illustrates how ARTEX runs several sessions simultaneously, with multiple agents working toward the same result. “One searched for ways to cash out, one worked on clearing account balances, one set up the deepfake video pipeline, and one carried out the verification bypass,” Moses wrote. None of the attack techniques are new, but both of these campaigns show how AI agents can boost the speed and per",
-      "image": "https://image.theregister.com/?imageId=260501&width=800",
-      "category": "technology"
-    },
-    {
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "source": "The Verge",
-      "date": "2026-11-16T19:50:47Z",
-      "description": "The Apple Watch Series 12 is on sale in multiple configurations. | Photo: Amelia Holowaty Krales / The Verge If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon , Best Buy , and Walmart , beating the October Prime Day price by $20. If you prefer a larger size, the 46mm model is on sale for $379 ($70 off) at Amazon , Best Buy , and Walmart , which is also $20 lower than the previous best price. Apple Watch Series 12 Where to Buy: $399 $329 at Amazon $399 $329 at Walmart $399 $329 at Best Buy The Series 12 stands out compared to previous models with its new AI-powered Audio Intelligence features, which are made possible by Apple’s new S11 chip. For example, the watch can alert you when it detects sounds like a doorbell, alarm, or even a baby’s cry, while other upcoming features like Live Rewind and Siri Recap lets you look back at a transcript of the previous 15 seconds of conversation and get a high-level overview of the conversations you had that day. The new chip also makes Siri more responsive, so you can get answers to questions with less waiting around. It’s not all about AI, though. The Series 12 also features redesigned health sensors that can now track your heart rate every five seconds even when you’re not exercising, which is particularly help if you have a chronic condition and need to keep a closer eye on your heart rate. It also introduces a new readiness score to help you decide how prepared your body is for the day. Other highlights include easier navigation with simple pinch gestures, and faster charging, which helps to make up for the fact that battery life is rated at up to 24 hours on a single charge, just like the previous-generation model. In our testing, the watch went from 20 to 64 percent charge in just 20 minutes, making it relatively easy to top up while showering or getting ready for the day. Read our Apple Watch Series 12 review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SME_26001_0050_069_v2_10_QC-1.jpg\", productImageAlt: \"SPECS AR Glasses\", productTitle: \"SPECS AR Glasses\", shortDescription: \"SPECS are augmented reality glasses designed for real life. Navigate, create, and enjoy immersive experiences while staying present.\", longDescription: \"Discover SPECS, augmented reality glasses designed for real life. Navigate hands-free, explore immersive experiences, and create with a large private display, all while staying connected to the world around you. Available for preorder in two sizes, starting at $2,195.\", purchaseUrl: \"https://specsinc.pxf.io/c/482924/3886144/52432?subId1=VergeHypeDeskNov2026&u=https%3A%2F%2Fwww.specs.com%2Fsmart-glasses%2Fspecs-27\", purchaseLinkText: \"Explore SPECS\" };",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "technology"
     }
   ],
   "science": [
@@ -1593,7 +1593,7 @@
       "title": "Pipeline Executive Worked for Alan Armstrong During Permitting Push",
       "link": "https://www.nytimes.com/2026/11/16/climate/alan-armstrong-oklahoma.html",
       "source": "New York Times Science",
-      "date": "2026-11-16T23:41:15Z",
+      "date": "2026-11-17T00:59:20Z",
       "description": "Senator Alan Armstrong hired his former company’s top lawyer temporarily, while the chamber drafted a sweeping energy bill. Ethics officials signed off on the unusual arrangement.",
       "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16CLI-INDUSTRY-wklv/16CLI-INDUSTRY-wklv-mediumSquareAt3X.jpg",
       "category": "science"

@@ -4,6 +4,127 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Sources: Vulcan launch anomaly investigation is complex</title>
+<link>https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex</link>
+<guid isPermaLink="false">6c4e3854471b8a23d90dc4bfd1f68ce0a39100edca6e078c9c163b77b93b8933</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 18:00:51 +0000</pubDate>
+<description>United Launch Alliance (ULA) confirmed Tuesday morning that its return-to-flight launch of the Vulcan rocket began failing during the initial stages of the mission. "While we appear to have lost telemetry and the mission at approximately 10 minutes into flight, early indications are that just after liftoff, the launch vehicle experienced low booster performance, resulting in stage separation occurring when the vehicle was low in altitude and below minimal velocity to reach orbit," the company said . The launch company also confirmed reporting by Ars that the Centaur V upper stage and the solid rocket boosters performed nominally during the flight. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Ways to tell if someone blocked your phone number on iPhone</title>
+<link>https://www.engadget.com/2315321/signs-someone-blocked-your-number-iphone</link>
+<guid isPermaLink="false">7252340491372d4e9c8bfbe2a074c1d751c88c96dff8c63c3c3c816c8a3d2581</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 18:00:00 +0000</pubDate>
+<description>Unanswered calls and missing read receipts don't always mean a block. See which signs are worth noticing and what else could be going on instead.</description>
+<enclosure url="https://www.engadget.com/img/gallery/ways-to-tell-if-someone-blocked-your-phone-number-on-iphone/l-intro-1794512169.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/ways-to-tell-if-someone-blocked-your-phone-number-on-iphone/l-intro-1794512169.jpg" medium="image"/>
+</item>
+<item>
+<title>YouTube found a new way to inflate view counts</title>
+<link>https://www.theverge.com/streaming/1035683/youtube-co-views-count</link>
+<guid isPermaLink="false">5084113153afc06d83124424670dc6def7550a0d0b6de27178a9788ddbccdb82</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:50:22 +0000</pubDate>
+<description>YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday , the platform says it's bringing "co-views" to public view counts across long-form videos, Shorts, and live content to provide a more "complete picture" of how people are using its platform. YouTube, which has become even more popular on TVs than phones, also says the change will help it align with "TV industry standards," which similarly record views by estimating the number of people watching shows. The company says it doesn't use devices, like cameras or microphones, to estimate how many people are wat … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The easiest way to set up CarPlay for the first time</title>
+<link>https://www.engadget.com/2315270/easy-carplay-setup-first-time-users</link>
+<guid isPermaLink="false">90a2ca531a86254e605cb51e7d4cb638fe1b0a31f6bd37a08e1c13120c162b6f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
+<description>CarPlay isn't hard to start using, but you should know a few points going in for the best experience.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-easiest-way-to-set-up-carplay-for-the-first-time/l-intro-1794511199.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-easiest-way-to-set-up-carplay-for-the-first-time/l-intro-1794511199.jpg" medium="image"/>
+</item>
+<item>
+<title>Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs</title>
+<link>https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424</link>
+<guid isPermaLink="false">21450afb0279b4a1b278c074443a83f9d5872b0d8135ff797128ec090b2860eb</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
+<description>The Ubuntu Summit isn't all about Ubuntu, or even Linux. The second day opened with a talk from CrossPoint Reader project lead Justin Mitchell, with both good and bad news for all kinds of FOSS. The talk, EPUBs, ESP32s, and Everyone's A Developer Now , was all about a FOSS project that isn't Linux-based – because the devices it targets are much too small to run even the smallest, most cut-down distro. Recently, a new generation of roughly credit-card sized ebook readers has been thriving. Some have integral magnets, which let them cling to the back of iPhones – or to models with magnetically attached wireless chargers, anyway. The idea is that instead of waking your phone and doom-scrolling, you flip it over and read a book. They are bringing about what Mitchell calls "the Tiktok-ification of reading." Many of them, though, come from their various manufacturers significantly limited by their original OSes. The strong sales are linked to the availability of free, open-source, cross-platform alternative firmware, which removes many of the restrictions that the devices ship with. For most of them, that means Crosspoint Reader . Some devices are now shipping, new, with versions of Crosspoint Reader. This runs on multiple different models of compact e-readers, and this small community project has seen impressively widespread adoption: over 300,000 installations. Early in his talk, project lead Mitchell mentioned more than 1,600 forks on GitHub, but at the time of writing, that's up to 2,300 and counting. He estimates nearly half a million users. This kind of success forced Crosspoint Reader to change from being FOSS code to a product. A peripheral example is the Brick Club List , a list of what versions work with what devices – an Excel spreadsheet that grew into a website. If you haven't been paying attention, you may not have noticed just how much e-readers have shrunk – in size and in cost – in the last few years. The Reg FOSS desk first noticed this trend in 2024, when we read about the smartphone-sized Onyx Palma , which sold for around $300 (about £225). As it happens, this was a decade after The Register first looked at one of Boox's devices . Mini e-readers – and their prices – have continued shrinking since. The $99 (£75) Xteink X4 Classic has a 4.- inch (10.9 cm) screen, and the $79 (£59) Xteink X3 is even smaller: it's the size of a credit card, with a 3.7-inch (9.4 cm) screen. As a result of their strong sales, there are now multiple similar devices on sale, such as the Boox Picco . The project's GitHub page lists 11 devices it currently supports, all of which are based around the ESP32-C3 system on a chip. The ESP32-C series chips are more powerful than the earlier models of ESP32 microcontrollers: they have a single RISC-V core, but running in the low hundreds of MHz and with some 400 kB of RAM, of which about 380 kB is available. It's very little space, but enough to have fun. Mitchell talked about some of the problems of being a FOSS p</description>
+<enclosure url="https://image.theregister.com/?imageId=2918386&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=2918386&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>The iPhone Duo feels far more intuitive with Apple’s new face unlock</title>
+<link>https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on</link>
+<guid isPermaLink="false">02cb24133730ffc804bddf4c892f5d85402f8a48156eeca3ad55dbf868801777</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:41:22 +0000</pubDate>
+<description>Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo quicker and more comfortable to use than relying on Touch ID every time. That's one of my gripes with the phone taken care of. The Duo's foldable architecture means that Apple couldn't fit in the full Face ID sensor array found on the rest of the iPhone lineup (though it reportedly hopes to change that by the second generation). Instead, it simply has two selfie cameras - one on the outer display, and another hidden under th … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-face-unlock-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-face-unlock-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>UK tribunal tosses PlayStation Store price-gouging lawsuit, citing physical games as competition</title>
+<link>https://www.engadget.com/2319408/uk-tribunal-tosses-playstation-store-price-gouging-lawsuit-citing-physical-games-as-competition</link>
+<guid isPermaLink="false">df593ce4e855ea9db96293e302cec55e71ce84bd8b6e06d31734aa8e94b804e6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:40:38 +0000</pubDate>
+<description>Those same physical copies are on their way out.</description>
+<enclosure url="https://www.engadget.com/img/gallery/uk-tribunal-tosses-playstation-store-price-gouging-lawsuit-citing-physical-games-as-competition/l-intro-1794937197.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/uk-tribunal-tosses-playstation-store-price-gouging-lawsuit-citing-physical-games-as-competition/l-intro-1794937197.jpg" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang said he'd be 'honored' to return as NVIDIA CEO, because of course he would</title>
+<link>https://www.engadget.com/2319382/jensen-huang-said-hed-be-honored-to-return-as-nvidia-ceo-because-of-course-he-would</link>
+<guid isPermaLink="false">9997574228aa704462e3458dd45d20eed4be0d71aec31340681c3ee179e60a76</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:29:48 +0000</pubDate>
+<description>Huang is set to testify before congressional committees on December 1.</description>
+<enclosure url="https://www.engadget.com/img/gallery/jensen-huang-said-hed-be-honored-to-return-as-nvidia-ceo-because-of-course-he-would/l-intro-1794936519.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/jensen-huang-said-hed-be-honored-to-return-as-nvidia-ceo-because-of-course-he-would/l-intro-1794936519.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple reveals daily limits on your Siri AI use – here’s how much you’ll have to pay</title>
+<link>https://www.zdnet.com/innovation/apple-siri-ai-daily-limits-cost-icloud-plus-plan</link>
+<guid isPermaLink="false">7a1e9d29d48d4540f1a4f9c02f79dffe5f1b17ca11fd0f754dc4f8cae960dffd</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:16:38 +0000</pubDate>
+<description>The more you pay for an iCloud+ plan, the more you’ll be able to use Siri AI and Apple Intelligence for advanced server-side tasks.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/siri-ai-setting-on-iphone_399659.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/siri-ai-setting-on-iphone_399659.jpg" medium="image"/>
+</item>
+<item>
+<title>How to switch between password managers without losing your information</title>
+<link>https://www.engadget.com/2315260/switch-password-managers-without-losing-information</link>
+<guid isPermaLink="false">9280af7fb23a555581bcd7f24cfd6e8b38f0d887541359c9c4d861ecd36b5241</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:15:00 +0000</pubDate>
+<description>There's no need to fear moving from one password manager to another with failsafes in place to make the transfer easy, efficient, and secure.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-switch-between-password-managers-without-losing-your-information/l-intro-1794509992.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-switch-between-password-managers-without-losing-your-information/l-intro-1794509992.jpg" medium="image"/>
+</item>
+<item>
+<title>SAP's cloud migration chief is migrating to Ionos as CEO</title>
+<link>https://www.theregister.com/software/2026/11/17/saps-cloud-migration-chief-is-migrating-to-ionos-as-ceo/5310530</link>
+<guid isPermaLink="false">775e7d3aef86b3a6b6c007fd6aa94e6c0f85eda8e8f2436a0719dad5763f8431</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:13:28 +0000</pubDate>
+<description>SAP chief customer officer Thomas Saueressig is leaving the German software giant to become CEO of hosting and cloud provider Ionos. The ERP and biz application vendor confirmed his departure on Tuesday, saying he will remain responsible for his current duties until the end of March 2027. He will succeed Ionos CEO Achim Weiß on April 1. In January, Saueressig will begin handing over responsibilities to Emmanuel Raptopoulos, currently a regional customer success president, who will take charge on an interim basis. SAP's supervisory board is searching for a permanent successor. Saueressig joined SAP's executive board in 2019 and became chief customer officer in April 2026. He leads the Customer Value Group and is charged with overseeing sales, customer success, services, and delivery, including adoption of SAP's cloud and AI products. In previous roles at SAP, Saueressig was responsible for customer services and delivery. He has also led product engineering, and has served as SAP's in-house CIO responsible for IT strategy and cloud transformation. He joined SAP in 2004 through its combined work-and-study program. His departure follows several changes at the top of SAP in recent years. In September 2024, CTO Jürgen Müller left by mutual agreement following an "incident" at a company event earlier in the year. In a statement, Müller said his behavior had been inappropriate. The company announced he would get paid €7.1 million following his departure. Chief revenue officer Scott Russell also left in 2024 by mutual agreement with the supervisory board. Julia White left the role of chief marketing and solutions officer in August 2024. "Thomas Saueressig has been a valued member of the Executive Board and has made significant contributions to SAP's transformation," said Pekka Ala-Pietilä, chair of SAP's supervisory board. "Over many years, he has helped sharpen SAP's focus on execution, customer value and operational excellence. We thank him for his commitment and wish him all the best for the future." Saueressig's departure comes as SAP pushes to move the ERP systems underpinning thousands of customers' businesses into the cloud – an effort whose operations and infrastructure he helped oversee. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=262729&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=262729&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Inside Microsoft’s giant Outlook outage</title>
 <link>https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad</link>
 <guid isPermaLink="false">f6cfcb3bebca50e19dcf5fbd6a40d8905068134864dc1e77f6245b45414fb2e1</guid>
@@ -24,6 +145,17 @@
 <description>Google's take on Apple's AirTag is a basic but still valuable tool for Android users.</description>
 <enclosure url="https://www.engadget.com/img/gallery/google-pixel-tag-review-simple-but-effective/l-intro-1794933527.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/google-pixel-tag-review-simple-but-effective/l-intro-1794933527.jpg" medium="image"/>
+</item>
+<item>
+<title>Opting out of Gemini tracking? Google will still hold your data 20x longer</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517</link>
+<guid isPermaLink="false">f9d001bba19ce9d4bb3101b7fa7de1282e621750498478d7b24f1e134a36d7ab</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+<description>Opting out of Gemini chat retention is about to mean a lot less thanks to a quietly announced Google update. Google on Monday said that it was making changes to Gemini chat history that, at first glance, makes it seem like users are simply getting more control over their discussions with the Chocolate Factory’s chatbot. At the core of the announcement is Google's splitting of Gemini chat history settings from AI model training permissions. What that means is that users will now be able to store their chat histories with Gemini without also having to opt in to allow their conversations to be used to train those same models, as was previously the case. So far so good: Being able to have Gemini remember more of your past interactions to contextualize newer discussions is nice, to be sure. The second part of the announcement, however, might raise one's privacy hackles. "Now, if you turn your new History setting off, future chats will be saved for around two months," Google notes. "They're used to respond to you, process your feedback, and protect Google, its users, and the public." Google said it is making that change in the name of making Gemini safer and more secure, but it fails to mention that the chat retention period for users who turned their history off had been just 72 hours before this update. That's right: Prior to Monday's change, Gemini users who turned off the "Keep Activity" option only had their chats retained for three days, according to an archived copy of the same page that now states that choosing the same please-don't-store-my-AI-chats option means Google keeps them "for around two months." It's also worth noting that, even if users have the option to not store Gemini chat records enabled, submitting a feedback request on any Gemini post means that temporary retention period gets extended to three years. That was the case both before and after Monday's change, mind you, but for the privacy-conscious it's definitely important to note. Sending feedback to Google about a Gemini response also means that humans will be reviewing that particular conversation, as well as any associated files and conversations that can be associated with the one in question. Submitting feedback also means that Google assumes the right to use the conversation and its associated content to improve its services and improve its AI models. In other words, even if you opt out of having your conversations stored, your Gemini history could still end up being used to feed the Google machine. The company didn't respond to questions for this story. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=248218&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=248218&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Google makes it easier to use Gemini without training AI on your data</title>
@@ -66,11 +198,11 @@
 <category>technology</category>
 <pubDate>Tue, 17 Nov 2026 16:33:21 +0000</pubDate>
 <description>The company's existing global trade compliance team will report to the new committee.</description>
-<enclosure url="https://www.engadget.com/img/gallery/nvidia-establishes-export-control-committee-following-jensen-huang-resignation/l-intro-1794932937.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/nvidia-establishes-export-control-committee-following-jensen-huang-resignation/l-intro-1794932937.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/nvidia-establishes-export-control-committee-following-jensen-huang-resignation/l-intro-1794935745.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nvidia-establishes-export-control-committee-following-jensen-huang-resignation/l-intro-1794935745.jpg" medium="image"/>
 </item>
 <item>
-<title>Android may get fast phone-switching like iPhone Handoff soon – what we know</title>
+<title>Own 2 Android phones? Google may let you switch service fast – like iPhone Handoff</title>
 <link>https://www.zdnet.com/tech/android-fast-switch-like-iphone-handoff</link>
 <guid isPermaLink="false">a6ff4b158844479e9342a5a7f2e01835ead15346cf8aab657af575f797f7f649</guid>
 <source>ZDNET</source>
@@ -257,17 +389,6 @@
 <media:content url="https://image.theregister.com/?imageId=242719&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>This E Ink photo frame can double as your family’s digital dashboard</title>
-<link>https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos</link>
-<guid isPermaLink="false">66e86213bfa55830906e3a2a76f32d9df70680138dc810e6ad76f992b500362c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 14:49:21 +0000</pubDate>
-<description>Trmnl, a company best known for its highly customizable E Ink dashboards that can function as anything from a desktop calendar to a stock tracker, has introduced a new display that's also well suited for showing artwork and photos. It's not the company's first color E Ink device, but instead of being limited to just four colors , the new Frame can display thousands of shades using a 31.5-inch E Ink Spectra 6 panel, similar to what you'll find in products from Aura and Pocketbook . The Frame is now available for preorder for $1,299 in a handmade wooden body and you can choose from four different types of wood: white oak, cherry, sapele, and wa … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/frame1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/frame1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>The hidden features every Google Maps user should know about</title>
 <link>https://www.engadget.com/2315026/google-maps-hidden-features-users-should-know</link>
 <guid isPermaLink="false">9fe12a682d70641ba0b940338fd87e8c8f52a95a9b3eb883bb2bd1d1ed610c55</guid>
@@ -301,17 +422,6 @@
 <media:content url="https://image.theregister.com/?imageId=5310274&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Get ready for a nationwide emergency alert test at 2:20PM ET today</title>
-<link>https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026</link>
-<guid isPermaLink="false">27ea64fe905ad8441a2da14636da4cbd5d851eeef500e41de6614b74776e3eb7</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 14:28:24 +0000</pubDate>
-<description>Radio and TV broadcasts will be interrupted for about one minute at 2:20PM ET today while FEMA and the FCC test the country's Emergency Alert System. Unlike recent communications outages , this is a planned interruption that FEMA is required to run every three years. FEMA says today's test includes radio and television broadcasters, cable systems, satellite radio and television providers, and wireline video providers. This test doesn't include phones. You'll hear high-pitched alert tones and the following test message: This is a nationwide test of the Emergency Alert System, issued by the Federal Emergency Management Agency. This is only a … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303603602.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303603602.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>5 important Bose headphone settings that need to be manually turned on</title>
 <link>https://www.engadget.com/2315018/bose-headphone-settings-manually-turn-on</link>
 <guid isPermaLink="false">5d15bf6e63b5c919c5218b8cd95f38545f5396b83e85ef27d4eb71e1fc903fcd</guid>
@@ -332,6 +442,17 @@
 <description>Researchers recently discovered unexpected behavior from Grok Bot, the AI agent platform from Elon Musk’s SpaceXSI. Over five days, Grok bots installed on two separate employee laptops made 31 requests to access data stored in employee calendar, email, Slack, and GitHub accounts. The bots performed the actions even though the employees had never ordered them and continued doing them even after employees instructed them to stop. The bots also denied having taken the actions at all. The behavior was reported Tuesday by NewCore, the maker of a managed gateway product that acts as an intermediary between AI agents and the tools and accounts they are assigned to work with. In some cases, the unapproved access attempts occurred while the laptop with Grok Bot installed had its lid shut, or late at night while the employee was sleeping. None of the unprompted actions were recorded in Grok logs. Without the gateway logs, the employees would have had no idea they occurred. And of course, without the gateway, the unapproved accesses would have succeeded—again without the end user's knowledge. It’s “worse than a bug” Once the employees learned that Grok Bot had tried to check in with accounts without prompting, one of them instructed the agent, four separate times, to stop taking any actions on its own. The agent's reply was: “I won’t set that up, and I’ll stop offering recurring check-ins.” Despite acknowledging the explicit instructions, the Grok Bot made more unapproved access attempts. When one of the employees asked the bot if it made any accesses, it checked twice and then outputted: “Overnight into Friday morning I was idle.” Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections</title>
+<link>https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign</link>
+<guid isPermaLink="false">e49688c63044fd13c8552fc75c662cde7223d03d5995c108989b025252b4e394</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 14:00:15 +0000</pubDate>
+<description>Music legend is joined by Jimmy Barnes and Peter Garrett in backing Not AI’s To Take campaign ahead of Aria awards Get our breaking news email , free app or daily news podcast Australia’s creative community has launched a major campaign pleading with the Albanese government not to water down copyright law amid furious lobbying from AI companies, ahead of Wednesday night’s Aria awards. Music legends Jimmy Barnes, Paul Kelly and Peter Garrett are among those backing the Not AI’s To Take campaign, supported by dozens of creative groups representing the recording, writing, publishing, film, television and media industries. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ddddc08ad72395f7299f5323a3c7f7e0de4c7df7/1465_349_5469_4376/master/5469.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8c12b2f43b8810acabff7e198b4be6b" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ddddc08ad72395f7299f5323a3c7f7e0de4c7df7/1465_349_5469_4376/master/5469.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8c12b2f43b8810acabff7e198b4be6b" medium="image"/>
 </item>
 <item>
 <title>Optimizely hack turns world's biggest websites into malware dispensers</title>
@@ -455,17 +576,6 @@
 <media:content url="https://image.theregister.com/?imageId=261440&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Neurable One review: The brain-scanning headphones that helped me stay focused</title>
-<link>https://www.engadget.com/2317916/neurable-one-review-brain-scanning-headphones-eeg</link>
-<guid isPermaLink="false">34eabe8c0aeb017db4cb33c71f26e43bfbd4b35277900c2d0c833c1f9be4ad8f</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 12:30:00 +0000</pubDate>
-<description>Neurable One isn't your average pair of high-end headphones. They have a built-in EEG that scans your brain while you work.</description>
-<enclosure url="https://www.engadget.com/img/gallery/neurable-one-review-brain-scanning-headphones-keep-an-eye-on-your-focus/l-intro-1794848419.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/neurable-one-review-brain-scanning-headphones-keep-an-eye-on-your-focus/l-intro-1794848419.jpg" medium="image"/>
-</item>
-<item>
 <title>Artist brings old Space Shuttle tank back to life</title>
 <link>https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit</link>
 <guid isPermaLink="false">33f22adc25a586433c0390bdac53b683d9ccffa5a469aa4f526e9cd1ca08a3a8</guid>
@@ -532,17 +642,6 @@
 <media:content url="https://image.theregister.com/?imageId=263315&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Adam Mosseri thinks it will be 'pretty challenging' to design Instagram for the iPhone Duo</title>
-<link>https://www.engadget.com/2318832/adam-mosseri-pretty-challenging-design-instagram-iphone-duo</link>
-<guid isPermaLink="false">d14c5bd6248f17bfcd2f045ca211fd66aa52ffeb50f60501caa240d6a46ddebf</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 09:09:40 +0000</pubDate>
-<description>Instagram head Adam Mosseri briefly talks about the challenges of redesigning the app for the iPhone Duo.</description>
-<enclosure url="https://www.engadget.com/img/gallery/adam-mosseri-thinks-it-will-be-pretty-challenging-to-design-instagram-for-the-iphone-duo/l-intro-1794906339.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/adam-mosseri-thinks-it-will-be-pretty-challenging-to-design-instagram-for-the-iphone-duo/l-intro-1794906339.jpg" medium="image"/>
-</item>
-<item>
 <title>Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections</title>
 <link>https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections</link>
 <guid isPermaLink="false">b43b3cb4ca5a78791f8f0088eeda8430adbbab9378b6fb9f82b5f1b0dc0cfb17</guid>
@@ -565,17 +664,6 @@
 <media:content url="https://image.theregister.com/?imageId=5307530&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>TRMNL Frame is a $1300 full-color e-paper display that looks like real art</title>
-<link>https://www.engadget.com/2318822/trmnl-frame-is-a-full-color-e-paper-display-that-looks-like-real-art</link>
-<guid isPermaLink="false">fd6b4d32f40643946133bcd6cacf776dccf8e7d16616dde3c658606caf49c280</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 08:16:36 +0000</pubDate>
-<description>TRMNL, the company known for e-paper frames and kits, just launched its biggest and most colorful product yet.</description>
-<enclosure url="https://www.engadget.com/img/gallery/trmnl-frame-is-a-1300-full-color-e-paper-display-that-looks-like-real-art/l-intro-1794903362.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/trmnl-frame-is-a-1300-full-color-e-paper-display-that-looks-like-real-art/l-intro-1794903362.jpg" medium="image"/>
-</item>
-<item>
 <title>Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market</title>
 <link>https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market</link>
 <guid isPermaLink="false">486b2a94b343347478a4e5b0845a07cbdc57a8ae56948187b32d536c12d78bf0</guid>
@@ -585,17 +673,6 @@
 <description>New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros can struggle to be taken seriously by the capital’s luxury property agents. “We worked with a young tech entrepreneur with a substantial budget, who agents assumed was looking to rent a one-bedroom flat,” says Jo Eccles, a buying agent who sources off-market properties for ultra-wealthy clients. But this week’s float by Anthropic, the AI developer behind the chatbot Claude, promises to bring even more credibility for the growing cohort of tech millionaires, which could breathe life into London’s ailing high-end property market . Its IPO on Thursday, expected to value the company at $1.4tn (£1.1tn), is likely to turn more than 4,000 of its staff into millionaires as their stock options vest. SaaStr, a California research firm, has estimated that the minimum value generated for staff at the AI lab will be $20m each. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/c213f20f82c61fd3ee1039ccda6aee6e28596124/135_0_3648_2919/master/3648.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1afcc01a5e85f0cc22dc62e7a22f5454" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/c213f20f82c61fd3ee1039ccda6aee6e28596124/135_0_3648_2919/master/3648.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1afcc01a5e85f0cc22dc62e7a22f5454" medium="image"/>
-</item>
-<item>
-<title>Apple adds new disk controls to prevent AI agents from running amok</title>
-<link>https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok</link>
-<guid isPermaLink="false">20b32bc10151119b849e51a7ce8e97846f3d8bad4d2a52d17097cd1b9ceb1340</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 06:22:11 +0000</pubDate>
-<description>After sounding an alarm about the issue, Apple is taking steps to limit Mac disk access to AI agents.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/l-intro-1794896472.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/l-intro-1794896472.jpg" medium="image"/>
 </item>
 <item>
 <title>Japan's Fugaku supercomputer has decidedly un-super security</title>
@@ -618,17 +695,6 @@
 <description>Indian tech giant Tata Consultancy Services has a new client, iconic Australian retailer Bunnings Warehouse which has made a third of its IT department redundant. Bunnings is Australia’s equivalent of big box hardware retailers Home Depot and B&amp;Q and earlier today advised its IT teams to attend a town hall meeting. The Register understands the invitation to that meeting was sent twice, after the first effort contained an error. We hear from staff that the botched invitation was taken as a clue of what was to happen next, namely the announcement of 230 redundancies plus an end to 120 contracted roles. The town hall meeting was not interactive, with a Bunnings rep speaking from a script and not taking questions. Staff whose roles will end then received an email inviting them to a meeting. Bunnings, whose logo is a hammer, has tried to explain the decision in a statement that says, “We need a technology model and partner that keeps pace with our customers so that we can continue to deliver the service, value and helpful advice people expect from us.” “These changes reflect the way customers are choosing to shop and the increasingly competitive retail environment,” the statement adds, before pointing out “Bunnings is already investing in technology and digital experiences to respond to these changes, earlier this year becoming the first Australian retailer to launch an AI-powered shopping agent using Google's Gemini Enterprise for Customer Experience platform through Buddy.” Some of the TCS workers Bunnings is hiring will work in Australia. Others will work from India and the Philippines. While Bunnings follows the template of a big box retailer, each of its stores allows charities and community groups to run fundraising barbeques in its forecourt every weekend. Those barbeques are a significant source of income for many non-profits and have earned the chain a broad social license. The hardware barn is so well-known that children’s TV show Bluey – the most viewed program of 2024 and 2025 in the US – gently parodied it as "Hammerbarn" it in an episode. The Register mentions this because we understand the reference to TCS staff helping to deliver the Bunnings experience has gone down badly, as the chain’s employees wonder how offshore workers who have not experienced its stores and atmosphere can deliver a service that preserves its culture. Bunnings says its new IT operating model will commence in July 2027 and that “Impacted team members will be supported in their roles through Christmas, with any changes taking effect in the new year.” The company’s IT team will still employ around 500 people. These job losses add to a rotten year for Australia’s tech scene, which this year saw local heroes Canva and Atlassian farewell hundreds of staff. Iconic Australian airline Qantas last week outsourced hundreds of jobs to India through Accenture. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5310329&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5310329&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Buying a used phone? Make sure to check the IMEI first</title>
-<link>https://www.engadget.com/2315183/buying-used-phone-check-imei-first</link>
-<guid isPermaLink="false">1613d5268997498d58db59a40d11b2903411866c1840cda290650572e38ddecd</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 01:30:00 +0000</pubDate>
-<description>One of the most important parts of buying a used phone involves the device's IMEI number - which can reveal whether it has sketchy history and more.</description>
-<enclosure url="https://www.engadget.com/img/gallery/buying-a-used-phone-make-sure-to-check-the-imei-first/l-intro-1794344192.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/buying-a-used-phone-make-sure-to-check-the-imei-first/l-intro-1794344192.jpg" medium="image"/>
 </item>
 <item>
 <title>US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China</title>
@@ -1291,17 +1357,6 @@
 <media:content url="https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7e50768ee7f7705cd8d276775d21f0ea" medium="image"/>
 </item>
 <item>
-<title>How the world’s fires changed while humanity hit pause</title>
-<link>https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause</link>
-<guid isPermaLink="false">22dc9962cb4da998315af0d33cd857ccba42250fc0636f1e81346953790e2b8f</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 12:07:34 +0000</pubDate>
-<description>Wildfires occur worldwide, and they can sometimes become serious threats to people's lives. A series of massive bushfires from 2019 to 2020 swept across southeastern Australia and destroyed thousands of homes. Recently, the 2025 Los Angeles wildfires spread widely across the city, resulting in massive damage to local communities. Many things can cause wildfires, but humans are the only factor that can also make preventative efforts. Measuring people's impact on fire is difficult because of the mix of human and natural influences. A team led by Jianghao Wang, a professor at the Chinese Academy of Sciences, recently published a study in Cell Reports Sustainability comparing the COVID-19 era with other years. Data from the 2020 lockdowns suggest that lower human activity at this time had the net effect of lowering average fire activity. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI</title>
 <link>https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games</link>
 <guid isPermaLink="false">a10bd4d9c13f9b6a89de9a9689d0d5c77bf69ef28798578dd4d1822cd0767481</guid>
@@ -1357,17 +1412,6 @@
 <media:content url="https://image.theregister.com/?imageId=222241&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Big Tech takes a beating as online safety experts accuse companies of doing bare minimum</title>
-<link>https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302</link>
-<guid isPermaLink="false">94f5aa86aac5ad2b594ac6fde9c88a7465a10e186d5d0c09ec464fd7ea3230c7</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 08:18:00 +0000</pubDate>
-<description>Technology companies are doing just enough to show a degree of compliance with the UK's Online Safety Act, but are failing to meet the needs of the individuals and young victims the legislation exists to protect, experts say. A panel of online safety pros assembled before Parliament's Communications and Digital Committee on Tuesday, taking aim at the likes of Google, Microsoft, Meta, and ByteDance for failing to act on important matters. Clare McGlynn, professor of law at Durham University and expert on violence against women and girls (VAWG), was especially critical of major search engine providers for their inconsistent downranking of harmful content search terms. "Rape porn," for example, is correctly downranked and no user sees any relevant links until the tenth page of results, although adjacent terms such as "unwilling porn" can be found as early as the third page, McGlynn said. "I just think if someone spent a little more time thinking 'I really want to minimize the risk of this material appearing,' I would take a systematic approach," she told the committee. "I would downrank 'unwilling' and 'unwanted,' and I would downrank 'asleep porn' as well… because it just means that it's easily findable. "So, they don't rank some of them, but just not systematically or wholly consistently." McGlynn went on to say that during her own research, "force porn" was rightly downranked heavily, although terms as similar as "forced porn" were not. "If you were trying to think of the words that would be similar to say rape, and rape porn is extreme porn and it's not supposed to be on those platforms anymore, you would think of words like unwilling and unwanted," she added. "And we know your algorithm would." Google inevitably took much of McGlynn's flak due to its dominance of the search engine market, although the professor said the same issues can be observed on Bing, too. Alexandra Whiston-Dew, partner at law firm Miscon de Raya, argued that search engines have such an important role in regulating the OSA, noting the limited resources at Ofcom's disposal. She said that more needs to be done from the tech side to ensure different parties in the chain of publication are detected early and downranked or blocked accordingly. There are publications, for example, that actively advertise themselves as websites that host illegal content, and these appear to be missing from the search engines' crosshairs. "So, they are spotlighting the fact that they are publishing illegal content, and this is going under the radar not only from the search engines but also the other platforms and the businesses in the chain of publication," said Whiston-Dew. "Also Ofcom needs to really pull all of their resources together and attack that receptacle of illegal content." Similarly, McGlynn raised the issue of porn sites continuing to host extreme porn, as they are legally allowed to do, to make it available to less regulated territories. With the harmful content still on the site, a</description>
-<enclosure url="https://image.theregister.com/?imageId=5254826&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5254826&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story</title>
 <link>https://www.zdnet.com/innovation/ai-bug-reports-linux-windows</link>
 <guid isPermaLink="false">0d5e3b580844072a742cab9d66b50527707c5d1361beca85b80dfceee4e417a4</guid>
@@ -1379,17 +1423,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-10167204.jpg" medium="image"/>
 </item>
 <item>
-<title>FAA blames ground stop on faulty copper wiring</title>
-<link>https://www.theregister.com/offbeat/2026/11/13/faa-blames-ground-stop-on-faulty-copper-wiring/5309912</link>
-<guid isPermaLink="false">c7873d6e0c4cf1a45fc24d34aa47aaa5369ab66f40476dd7c12bfad72564625d</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 22:42:28 +0000</pubDate>
-<description>The US Federal Aviation Administration on Friday issued an advisory that prevented the takeoff of flights in US airspace for around five hours, creating chaos for travelers and airports. The stop was finally lifted around 8:30 PM Eastern Time, but only after thousands of flights were canceled or delayed, leaving travelers stranded. In a press conference Saturday, Transportation Secretary Duffy attributed the FAA ground stop to problems with copper wiring during an L3Harris network upgrade. Duffy said it has yet to be determined whether the issue was incompetence or a faulty router. In a statement provided to The Register on Saturday, a spokesperson for L3Harris said, “L3Harris has been modernizing the communications infrastructure supporting the National Airspace System in close coordination with the FAA. With safety and reliability as our highest priorities, L3Harris, together with its telco partners and the FAA, has completed more than 70 percent of the planned airspace communications conversion from legacy copper wires to a fiber optic system. We are supporting the FAA in its investigation to understand the conditions that led to the Nov. 13 ground stop of our nation’s air travel. L3Harris takes the nationwide ground stop and its impact on travelers, airlines and air traffic operations seriously.” The stop was issued on Friday around the middle of the day ET. "The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers," said US Transportation Secretary Sean Duffy in a statement on Friday. "FAA technicians are investigating the issue. We will provide immediate updates as we have them." A spokesperson at the FAA press office reached by phone at the time said he was unable to provide further information. And an email response from the agency repeated Duffy's statement. The FAA ATCSCC advisory halted departing flights and said international flights would be dealt with individually. The notice said, "Due to extraordinary circumstances and for reasons of safety. Attention all aircraft operators, by order of the Federal Aviation Command Center all airports are ground stopped. All departing traffic should remain stopped until further notice. Inbound international flights will be managed on a case by case basis." Doug Yakel, public information officer for San Francisco International Airport, said, "FAA confirms nationwide ground stop, other reporting indicates a communications issue between Air Route Traffic Control Centers (ARTCCs). Aircraft already enroute to SFO still landing here but departing aircraft not taking off right now." An update issued at 2:02 pm PT described the problem as "a temporary telecommunications outage." The FAA Telecommunications Infrastructure (FTI) is managed by L3Harris. The network provides secure communication between more than 4,400 facilities. ® Updated at 0039 UTC Sunday UTC with the administration's explanation for the stop. Updated at 0</description>
-<enclosure url="https://image.theregister.com/?imageId=5309916&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5309916&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Microsoft blames major outage on a July update defect – and two other factors</title>
 <link>https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot</link>
 <guid isPermaLink="false">11f7ed8de9f18ad627bf167484b9a4161818280f0f75f78ff0d5a50927325a77</guid>
@@ -1399,17 +1432,6 @@
 <description>A surprise defect took more than 80% of Microsoft’s servers out at the outage’s peak. Here’s what happened.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304360163.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304360163.jpg" medium="image"/>
-</item>
-<item>
-<title>Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891</link>
-<guid isPermaLink="false">1779e3b0ec0f17c1d89fd487726ed4b458fb8008e535d64ec7a1ac0b66af1614</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 21:16:22 +0000</pubDate>
-<description>US export controls are not stopping AI labs in China from using restricted Nvidia chips, according to a report from a former OpenAI engineer. Will DePue, who left the AI giant earlier this year to launch Unemployment Labs, an AI research consultancy, published forensic evidence showing that "DeepSeek, Moonshot AI, MiniMax and Ant Group have gained access to Nvidia's Blackwell GPUs, despite restrictions on exporting these chips to China, and are using that hardware to create their AI models." "This sounds insane, but I discovered that almost every AI model carries a hidden signature of the GPU that trained it," said DePue in a social media post . "When a model is first set up, the starting values of its weights are laid out in a pattern that depends on the exact GPU. Each combination of GPU and seed number produces a unique pattern – a sort of fingerprint of the hardware used to create the model. Traces of that pattern survive training into the published model." It doesn't sound that insane. The resignation of Nvidia CEO Jensen Huang followed from revelations that he had an affair with Chinese businesswoman Alice Huang, who, in 2023, founded Singapore-based Megaspeed International. That company is reportedly under investigation by US authorities for allegedly smuggling Nvidia chips to China. Huang's departure coincides with a renewed push to tighten US chip export controls. House Speaker Mike Johnson supports the idea . And there are at least four bills awaiting consideration that aim to limit China's access to leading edge AI tech: the AI Overwatch Act, the Chip Security Act, Match Act, and the Cloud Security Act. On Monday, US Senators Jim Banks (R-Ind.) and Elizabeth Warren (D-Mass.) cited Jensen Huang's "relationship with a suspected Chinese spy" as a justification for passing the AI Overwatch Act, which would codify the Trump administration's existing chip export controls. The Trump administration on Thursday said it's not sure whether Alice Huang was a spy, an allegation denied by Beijing and currently under investigation by the FBI. Whatever the case, the current rules clearly are not working. Only a few weeks ago, Lava, an Israel-based security company, said it had found "32 Nvidia B300 GPUs, part of Nvidia's Blackwell Ultra generation, through publicly exposed monitoring endpoints with IP addresses geolocated to China." These GPUs, Lava noted, are subject to US export controls [PDF]. The security biz said its findings followed from the exposure of monitoring systems intended for internal infrastructure management that were publicly exposed. How DePue reached his conclusion The analysis published through DePue's consultancy, "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled Nvidia Blackwell GPUs," takes a different approach: analyzing the published weights of various models from Chinese AI labs. As described in the report, model weights – the parameters that change in relation to training data – must be initialized</description>
-<enclosure url="https://image.theregister.com/?imageId=5309895&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5309895&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley</title>
@@ -1575,17 +1597,6 @@
 <description>If you’re an Ubuntu user considering a leap to Fedora, but you’re hesitating, I explain why you should go ahead and just do it.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/ubuntufedora.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ubuntufedora.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft fixes over 1,000 Windows flaws – and one is being exploited</title>
-<link>https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu</link>
-<guid isPermaLink="false">08438d071d0c5e843823b433b6dd92c8babf200197a066f56f96f2e351bc913e</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 21:00:31 +0000</pubDate>
-<description>With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. But don’t skip these security fixes.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen</title>

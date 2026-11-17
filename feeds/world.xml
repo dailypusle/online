@@ -4,26 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>WATCH: Eagles Autism Foundation staff shine on game day</title>
+<link>https://abcnews.com/video/138207851</link>
+<guid isPermaLink="false">6042a1a80d4b20acf128ed43b6d227c3d2df48ed09cb27b064a87de362719bd0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 17 Nov 2026 20:54:47 +0000</pubDate>
+<description>ABC News' Will Reeve visits Lincoln Financial Field to meet neurodivergent employees helping make Philadelphia Eagles game days special through the team's commitment to autism inclusion.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261117_gma_reeve_eagles_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261117_gma_reeve_eagles_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Senate Democrats demand briefings about FAA ground stop amid $50B budget ask</title>
 <link>https://abcnews.com/Politics/senate-democrats-demand-briefings-faa-ground-stop-amid/story?id=138213462</link>
 <guid isPermaLink="false">d2303ee01f7162be139cfb134e4f075e9c6a6a0b96cacfd74825602f73ba678e</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Tue, 17 Nov 2026 20:10:45 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 20:48:47 +0000</pubDate>
 <description>The funding would go to new air traffic control centers and other improvements.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/beford-duffy-jt-261114_1794673816962_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/beford-duffy-jt-261114_1794673816962_hpMain_16x9_1600.jpg" medium="image"/>
+<enclosure url="https://s.abcnews.com/images/US/duffy-3-gty-gmh-261117_1794947180607_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/duffy-3-gty-gmh-261117_1794947180607_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Iran live updates: CENTCOM says drone attack on Bahrain defeated 'without any damage'</title>
+<title>Iran live updates: US conducts airstrikes on Qeshm Island, US military official says</title>
 <link>https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto?id=138171071</link>
 <guid isPermaLink="false">bb33a888ff666c42d2d84827c604115119fc1cb2ba6f04e467af7d338bc1ff69</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Tue, 17 Nov 2026 20:01:07 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 20:15:12 +0000</pubDate>
 <description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
-<enclosure url="https://s.abcnews.com/images/International/Tehran-DB-261117_1794917064103_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/Tehran-DB-261117_1794917064103_hpMain_16x9_1600.jpg" medium="image"/>
+<enclosure url="https://s.abcnews.com/images/International/iran-4-ht-gmh-261117_1794946119162_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/iran-4-ht-gmh-261117_1794946119162_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Authorities take over Turkey's last pro-opposition broadcaster Sozcu TV</title>
@@ -48,17 +59,6 @@
 <media:content url="https://s.france24.com/media/display/384a938c-e2b9-11f1-8de6-7908c4e1a3c7/w:1024/p:16x9/2026-11-16T195401Z-1339052488-RC27POAN68Y9-RTRMADP-3-FRANCE-POLITICS.jpg" medium="image"/>
 </item>
 <item>
-<title>WATCH: Eagles Autism Foundation staff shine on game day</title>
-<link>https://abcnews.com/video/138207851</link>
-<guid isPermaLink="false">6042a1a80d4b20acf128ed43b6d227c3d2df48ed09cb27b064a87de362719bd0</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 17 Nov 2026 18:59:41 +0000</pubDate>
-<description>ABC News' Will Reeve visits Lincoln Financial Field to meet neurodivergent employees helping make Philadelphia Eagles game days special through the team's commitment to autism inclusion.</description>
-<enclosure url="https://s.abcnews.com/images/GMA/261117_gma_reeve_eagles_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261117_gma_reeve_eagles_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>American soldier suspected of spying for Russia handed to US authorities</title>
 <link>https://news.sky.com/story/american-soldier-arrested-in-uk-by-counter-terror-police-taken-into-us-custody-13613366</link>
 <guid isPermaLink="false">da094984f55f3f1d3c74a83c09fdc783ae02beecf14801be31694728df737a4d</guid>
@@ -70,13 +70,13 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-imjin-barracks-rapid-reaction-corps_7409029.png?20261117193444" medium="image"/>
 </item>
 <item>
-<title>Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet</title>
+<title>Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet</title>
 <link>https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain</link>
 <guid isPermaLink="false">888d78ae2d35fd0f3a6428fa7aef55c48a3dde7251e8041405e933297227fcbc</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Tue, 17 Nov 2026 18:34:31 +0000</pubDate>
-<description>Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting. (Image credit: Vahid Salemi)</description>
+<description>Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route. (Image credit: Vahid Salemi)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F79%2Fdaf7ce984f009fe345ef7aff3a56%2Fap26320429061252.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F79%2Fdaf7ce984f009fe345ef7aff3a56%2Fap26320429061252.jpg" medium="image"/>
 </item>
@@ -136,17 +136,6 @@
 <media:content url="https://s.abcnews.com/images/US/wirestory_e11d845ff206957fb568f52d71383a41_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Police in Philippines pursue three charges against Thomas Markle Sr</title>
-<link>https://news.sky.com/story/police-in-philippines-pursue-three-charges-against-thomas-markle-sr-over-child-sex-abuse-images-13613346</link>
-<guid isPermaLink="false">691575b43f095649b9ecd2e53a4ce0cae7888f5b9c47de4a8c0f6d0d1080130f</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Tue, 17 Nov 2026 17:34:00 +0000</pubDate>
-<description>Filipino police are pursuing three charges against Thomas Markle Sr relating to child sexual abuse images, Sky News understands.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-mugshot_7403623.jpg?20261111090436" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-mugshot_7403623.jpg?20261111090436" medium="image"/>
-</item>
-<item>
 <title>Henry Nowak killer in bid to appeal against murder conviction</title>
 <link>https://news.sky.com/story/henry-nowak-killer-vickrum-digwa-applies-to-appeal-against-murder-conviction-13613345</link>
 <guid isPermaLink="false">a5fd8c3f3e0c8c558467373ff5e0dc9c9c488f4a7bd5806ca144e044f55f45f0</guid>
@@ -156,6 +145,17 @@
 <description>Henry Nowak's killer has applied to appeal against his murder conviction.</description>
 <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-vickrum-digwa-guilty_7260273.jpg?20260605092850" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/05/1920x1080/skynews-vickrum-digwa-guilty_7260273.jpg?20260605092850" medium="image"/>
+</item>
+<item>
+<title>Police in Philippines pursue three charges against Thomas Markle Sr</title>
+<link>https://news.sky.com/story/police-in-philippines-pursue-three-charges-against-thomas-markle-sr-over-child-sex-abuse-images-13613346</link>
+<guid isPermaLink="false">691575b43f095649b9ecd2e53a4ce0cae7888f5b9c47de4a8c0f6d0d1080130f</guid>
+<source>Sky News World</source>
+<category>world</category>
+<pubDate>Tue, 17 Nov 2026 17:34:00 +0000</pubDate>
+<description>Filipino police are pursuing three charges against Thomas Markle Sr relating to child sexual abuse images, Sky News understands.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-mugshot_7403623.jpg?20261111090436" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-mugshot_7403623.jpg?20261111090436" medium="image"/>
 </item>
 <item>
 <title>France: Protesters march for better salaries across the country</title>

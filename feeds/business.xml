@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Google says hackers use AI agents to find and exploit software flaws</title>
+<link>https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws</link>
+<guid isPermaLink="false">59f64fc36a3e98238a339f7fa1ddc8269572e02e1956e8aac59ea33df8d5ecae</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 10:05:59 +0000</pubDate>
+<description>Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia Board Not Considering Jensen Huang's Return: Report</title>
+<link>https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report</link>
+<guid isPermaLink="false">697294da66570fb012252974d72f4a20f8de26d4ca572b5b6d43030e37d16679</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 09:54:32 +0000</pubDate>
+<description>The board is focused on its probe into the ousted co-founder, a source told CNBC, despite Donald Trump and Elon Musk backing his return.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>US judge clears brothers in $25M Ethereum MEV case after mistrial</title>
+<link>https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit</link>
+<guid isPermaLink="false">c7d4ab14fa16401add9c3f585c5b3eb5c10ea9eb8b7c76b613fc086e5b81269d</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 09:30:05 +0000</pubDate>
+<description>Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MCZMSF8D1C0PFBB5NPBZM3/b-lawsuit-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MCZMSF8D1C0PFBB5NPBZM3/b-lawsuit-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution</title>
+<link>https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution</link>
+<guid isPermaLink="false">cd5aaf57cdc1705139ef4d23714a78d5a5433408ee609415fc7829548aa40d40</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 09:27:29 +0000</pubDate>
+<description>A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps</title>
+<link>https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps</link>
+<guid isPermaLink="false">abacff7232282b3dd1ddbade6a65f8545d06c173df3ca5861028b9f8fdeed23e</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 09:08:32 +0000</pubDate>
+<description>Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7M3NS6S1T6ZRE6SXTFKRZMG/hi-goldman-sachs-and-crypto-recap-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7M3NS6S1T6ZRE6SXTFKRZMG/hi-goldman-sachs-and-crypto-recap-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading</title>
 <link>https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading</link>
 <guid isPermaLink="false">22f223f86f28ebd467fd2684eddae914e01c29205d2022274a688148ad502ba1</guid>
@@ -774,28 +829,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg" medium="image"/>
 </item>
 <item>
-<title>Jensen Huang weighs Nvidia comeback days after shock exit: FT</title>
-<link>https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit</link>
-<guid isPermaLink="false">64d2e6f6183c88d8d561f03ffa5b75889c54ceb6b385689144988e67299afa15</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 15 Nov 2026 23:47:45 +0000</pubDate>
-<description>Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg" medium="image"/>
-</item>
-<item>
-<title>US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest</title>
-<link>https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest</link>
-<guid isPermaLink="false">d86ccee062bdeeadbacde16408ac5a491932ab25ea8fc957b1770f794318c118</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 15 Nov 2026 22:50:59 +0000</pubDate>
-<description>Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png" medium="image"/>
-</item>
-<item>
 <title>How Wall Street Is Racing to Claim the Onchain Dollar</title>
 <link>https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins</link>
 <guid isPermaLink="false">f11c2aac88dc902d75511f16a98a5b5f03bd90fe3f11db3e86aa1454faf50dc0</guid>
@@ -805,17 +838,6 @@
 <description>From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Enterprise blockchain is going to come back from the dead</title>
-<link>https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead</link>
-<guid isPermaLink="false">04fd5f62d581dbe01f94228c962bd8a8c56ca69297c80bb1171443d457625c67</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 15 Nov 2026 14:30:00 +0000</pubDate>
-<description>With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg" medium="image"/>
 </item>
 <item>
 <title>Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days</title>
@@ -1025,28 +1047,6 @@
 <description>Bitcoin fell all the way to $68,000 overnight and hit a new three-month low. But are there reasons for hope?</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Nvidia Employees Push Board to Bring Back Jensen Huang: Report</title>
-<link>https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report</link>
-<guid isPermaLink="false">5a8a5723a861fd69c36b663cb1cdc2bdb9945e1a444076e06bdedc1136ae60d2</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 11:58:47 +0000</pubDate>
-<description>An internal post urging Nvidia's board to weigh staff sentiment has drawn more than 1,600 comments, including calls to reinstate Huang.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand</title>
-<link>https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand</link>
-<guid isPermaLink="false">cf193d48e8773d6f5ab497a53a227c69cf83ae198a39b2915cca7433e59f1468</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 11:20:44 +0000</pubDate>
-<description>BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a "concentrated liquidation" and "weakening" demand.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Ex-PNC employee faces 5 charges in $86K theft</title>

@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood</title>
+<link>https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off</link>
+<guid isPermaLink="false">63a4efc42c67362797232e240a71658eeec7b248f7d496de248fb3c0d5d5c55c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
+<description>After releasing a $28 leak sensor earlier this year that conveniently runs off a battery for two years, Shelly is announcing an accompanying smart valve you can install on your home's main water line to automatically turn off the flow when one of those sensors detects a problem. The Shelly Neo Smart Water Valve is available now through the company's online store for $499.99, plus the cost of installation if you don't trust your plumbing skills. It's not a cheap solution, but it's cheaper than the fallout of a leak turning into a disaster. The Neo Smart Water Valve is designed to be installed on a standard US 1-inch thread connection (the co … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shelly1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shelly1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird</title>
+<link>https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird</link>
+<guid isPermaLink="false">48d5c72f075aa4ba950dcc99dc6a79b7468359f7d7bc82f922c625ebc80f5490</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
+<description>The 8BitDo 64 was a loose remake of the Nintendo 64's unusual triple-grip controller that did away with that gamepad's centered analog stick. But with its new GC Bluetooth Gamepad , 8BitDo has done a much better job at staying faithful to the design of the Nintendo GameCube's excellent controllers, including their unique button layout, thumbstick design, and shoulder buttons. The 8BitDo GC Bluetooth Gamepad is available for preorder starting today for $49.99 in orange or purple and is expected to start shipping on December 10th. That's much cheaper than Nintendo's $69.99 wireless remake of the GameCube controller, although 8BitDo's version i … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/8bitdogc1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/8bitdogc1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Cyber insurers now want proof you can actually recover</title>
+<link>https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325</link>
+<guid isPermaLink="false">48ff11bb63757cadd3c2479f7c54d28d24149682535fb6f866a0df84c1983357</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
+<description>Cyber insurance pricing has cooled. Marsh’s Global Insurance Market Index shows global cyber rates falling for a 13th consecutive quarter, with US rates recently stabilizing after the ransomware-driven spikes of 2020 and 2021 . Part of the reason rates are lowering is because carriers are imposing stricter requirements that determine if you will qualify at all. A major global carrier recently stopped writing law firms altogether because of claims volume, and brokers expect healthcare and managed service providers (MSPs) to be next. The newest requirement is the one many MSPs are least ready for: proof that you can actually recover. This is what insurers really want to see, and meeting the bar is harder than it sounds. Why insurers stopped taking backups on faith In a recent webinar with cyber insurance provider Beltex , the familiar list of requirements came up first: Multifactor authentication (MFA) on external access and privileged accounts Endpoint detection and response (EDR) on every endpoint A staffed 24/7 team where managed detection and response (MDR) is required, and timely patching. Backup is now joining that list, and for good reason. For years it was assumed that having backups and a green job status was good enough. Claims have shown otherwise. Now, attackers go after backup infrastructure to make their ransomware more effective, and an untested restore can re-infect the production network. Beltex described an MSP that restored a client directly from backup without involving the insurer. The attackers were still in the environment, and the ransom reportedly doubled. So, carriers are asking for proof. Some want evidence of a successful restore within the last six months, and some insurance applications must be signed by a C-level executive rather than the IT director to put ownership behind it. Proof of speed matters as much as proof of recovery Being able to recover is only half the question, because time is where claim costs balloon. Insurers, it turns out, don’t object to paying claims. They object to paying big ones. Beltex’s favorite example involved an 85-person firm hit through a zero-day firewall flaw. Their MDR solution contained the intrusion in about 20 minutes, forensics confirmed two servers were touched, and clean backups had the firm fully functional within 36 hours. The claim came in at around $85,000. Compare that with downtime and business interruption: a firm billing $10,000 a day that is offline for a week loses $70,000 in income before recovery costs and claim submission. Yet large servers can take four to 24 hours to restore. That is why underwriters care how fast you can come back and how successfully. Where you recover is the other half Speed raises a second problem: where do you restore to? Breach counsel treats the first 72 hours as the most critical window, and incident response (IR) teams need to isolate and investigate infected systems during it. Restoring into production too early risks reintroducing the</description>
+<enclosure url="https://image.theregister.com/?imageId=5309330&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309330&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>US senators urge White House AI chief to fix vulnerabilities after mass outages</title>
+<link>https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure</link>
+<guid isPermaLink="false">3bdca5852a7c61a3bf07c9b93fe0c2ee6961799ce904aa21c8872ef6263b6846</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 15:53:10 +0000</pubDate>
+<description>As Democrats flag AI bank breaches and cyberattacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies. Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, outlining concerns sparked by reports of AI accessing major banks, cyberattacks in Japan and more. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2742375af4dfbb12b20aedae50e16e5" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2742375af4dfbb12b20aedae50e16e5" medium="image"/>
+</item>
+<item>
+<title>Remember the frontier AI pause? Chip companies don’t either</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models</link>
+<guid isPermaLink="false">4270e297502a029b32d7c31b6dd4819560b1d3eb8433d4528cf14f7b304e5937</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 15:44:02 +0000</pubDate>
+<description>In October, Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models , warning that they could be used to launch cyberattacks or become harder for their own creators to control. It was a strange moment for the AI boom. The people building the most powerful models were warning about what those models might be capable of, and investors were suddenly wondering what would happen to chip demand i … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>PowerShell 7 heading into Windows as 5.1 hits the end of the road</title>
+<link>https://www.theregister.com/os-platforms/2026/11/18/powershell-7-heading-into-windows-as-51-hits-the-end-of-the-road/5310791</link>
+<guid isPermaLink="false">d0deb62aed30f99dea3458dd4a495925fa458af1a2e57e461969fd259876be14</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 15:29:00 +0000</pubDate>
+<description>Microsoft has confirmed that, at long last, PowerShell 7 will come bundled with Windows, while the venerable PowerShell 5.1 begins its long retirement. It has been a long time coming, although PowerShell 5.1 isn't going away immediately. It will, however, " be removed from a future version of Windows ," and Windows Server 2025 and Windows 11 26H2 are the last versions to include PowerShell 5.1 enabled by default. After that, PowerShell 5.1 will be available as a Feature On Demand (FOD) before eventually shuffling off into the sunset, while PowerShell 7 takes over automation duties. PowerShell 5.1 is now more than ten years old and runs on the .NET Framework. PowerShell 7 is its cross-platform, open source successor, but compatibility isn't seamless. PowerShell was the brainchild of Jeffrey Snover , who sought to bring script automation to Windows at a time when graphical user interfaces were king. He recalled executives telling him "admins don't want command line interfaces," and "exactly what part of effing Windows is confusing you?" but eventually won the argument, and we reckon countless Windows administrators owe him a debt of gratitude. PowerShell 5.1 hasn't had many new features for years. "PowerShell 7 is the modern PowerShell: the one we develop in the open, across platforms, and where new features go," wrote Jason Helmick, a senior product manager on Microsoft's PowerShell team. But compatibility niggles remain. The two can run side by side, so existing scripts won't have to move immediately. Finding and testing everything scattered across an enterprise estate, however, could keep administrators occupied for some time. Microsoft also has unfinished work on the bundled version's MSIX packaging, including support for running as SYSTEM, DISM cmdlets, and machine-wide settings. Those gaps matter for scheduled tasks, services, and management scripts. Despite the deprecation, PowerShell 5.1 will continue to receive updates based on the lifecycle of the Windows version on which it runs. It will eventually be removed based on usage data and "communicated in advance," according to Microsoft. Administrators have time to prepare, but checking which scripts run unchanged, which need work, and which still depend on 5.1 won't happen by itself. "Including PowerShell 7 in Windows is a milestone we've been working toward since PowerShell went cross-platform," Helmick wrote, although the bundled release is still ahead. Microsoft says PowerShell 7 will arrive with the next Windows release, but hasn't named it. 27H2, anyone? ®</description>
+<enclosure url="https://image.theregister.com/?imageId=255389&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=255389&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Players say goodbye to Grand Theft Auto V with one last drive</title>
+<link>https://www.theguardian.com/games/2026/nov/18/players-say-goodbye-to-grand-theft-auto-v-with-one-last-drive</link>
+<guid isPermaLink="false">7e26f2349eda645243a9d2121482127ad5f95382de122b647077960fe7c6842f</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 15:00:01 +0000</pubDate>
+<description>For more than a decade, GTA Online and its virtual California has hosted the criminal capers of millions of players. As many of them prepare to move on to GTA VI, they are marking the end of an era The virtual streets of Grand Theft Auto Online’s Los Santos will be spared from their usual explosions and high-speed car chases tonight, as hundreds of players meet for a final journey across the video game’s world before the release of Grand Theft Auto VI at midnight. Rockstar Games’ multiplayer criminal sandbox normally prompts hostility between its millions of players by giving them ample access to guns, bombs and fighter jets. But fans took it upon themselves to peacefully cruise across the game world together for “one last drive” in virtual California, before the next chapter in the series arrives. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/e0bf96ae247f9fa60636e20225507e07ba3cb75d/70_112_2557_2047/master/2557.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b380ac0317f288cbd61c1e7e37edb2e4" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/e0bf96ae247f9fa60636e20225507e07ba3cb75d/70_112_2557_2047/master/2557.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b380ac0317f288cbd61c1e7e37edb2e4" medium="image"/>
+</item>
+<item>
 <title>The Verge’s 2026 holiday gift guide for travelers</title>
 <link>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</link>
 <guid isPermaLink="false">ad65e2ff09e2b1e2387f966dd357afa21fd159e1d70b77fd9afbeda985b0bb87</guid>
@@ -13,6 +90,17 @@
 <description>Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one thing never changes: They always need new gear. That's what makes travelers so fun to buy for. But you don't want to get them just anything. The key is to find that clever gift even they didn't know they needed, and that's where we come in. From streaming gadgets for the hotel to portable espresso makers and high-capacity charger … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Twenty years ago, the Wii and PS3 predicted the future of gaming – did they get it right?</title>
+<link>https://www.theguardian.com/games/2026/nov/18/how-nintendo-wii-sony-playstation-3-predicted-future-of-gaming</link>
+<guid isPermaLink="false">fdbef60582f0b76de86fd3e6677a1fb295bc28efe2785f5e671436ff4d2d6bff</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
+<description>Both launched in 2006, with contrasting visions of gaming – one focused on accessibility, the other on technical ambition – each leaving a lasting legacy • Don’t get Pushing Buttons delivered to your inbox? Sign up here The main focus of the games industry this week is, of course, the release of Grand Theft Auto VI – a game that could define the next decade for the industry. For this week’s newsletter though, I wanted to direct your attention two decades into the past. In November 2006, two console manufacturers launched their competing – and wildly different – visions of what the future of video games would look like. Twenty years later, it’s clear that somehow they were both right. And yet, in some ways, they were both wrong. For Nintendo, the Wii was the natural extension of its famous maxim, Kareta Gijutsu no Suihei Shikō – roughly translated as lateral thinking with withered technology. Coined by the company’s legendary engineer Gunpei Yokoi, father of the Game Boy, the phrase described a philosophy in which old tech could be combined with smart ideas to provide amazing new gaming possibilities. The Game Boy itself used a slow, old Sharp LR35902 processor and a sickly green monochrome screen, but it also came with Tetris and worked for ages on four AA batteries. With sales of 65m, it was vastly more successful than hi-tech rivals such as the Atari Lynx and Sega Game Gear. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/d91998699a31e90bc7892442f2140b547623708b/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=339aac5f06efbfa8ff1ad6e985c677bf" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/d91998699a31e90bc7892442f2140b547623708b/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=339aac5f06efbfa8ff1ad6e985c677bf" medium="image"/>
 </item>
 <item>
 <title>AI-powered cyber threats are changing the rules of enterprise recovery</title>
@@ -235,28 +323,6 @@
 <media:content url="https://image.theregister.com/?imageId=5310005&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Suno now lets you make AI videos for your AI music</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature</link>
-<guid isPermaLink="false">942518637ca001c7d15439b6c904185b155023f5677888dde797878f9f8105a9</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 11:16:53 +0000</pubDate>
-<description>Here are some of the examples that Suno provided to show what Visuals is capable of. | Image: Suno Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called "Visuals," allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals is available on web, iOS, and Android. The exact layout differs across Suno's desktop and mobile interfaces, but users will find a new Visuals tab under Create mode on each version. Web users can also access Visuals by selecting the three dot menu on a song in their library. From there, users can selec … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Grand Theft Auto VI has arrived</title>
-<link>https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news</link>
-<guid isPermaLink="false">8617df924671dab41b5e37f249f4dec40010c2127e0f7e5501ab0da6d2fc8917</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 11:06:16 +0000</pubDate>
-<description>More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time . Part of this has to do with the success of its predecessor, as GTA V sold more than 230 million copies over the last 13 years. Some of it has to do with the sheer length of time between releases, a period that was plagued by leaks and a handful of delays that made the wait even harder for fans. But GTA VI is now a real thing you can play, and you can also keep track of all of the important post-launch information right here. That includes our own review and interviews with the development team, as well as news on just how the game ends up resonating with players. Today’s Vergecast: GTA VI is the love story of our times. “Our team has the opportunity to make history a second time this month.” GTA VI is great — and I’m not the only one who thinks so. Grand Theft Auto VI does something impossible — it lives up to the hype ‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet If you want to play GTA VI on PS5 tonight, download yesterday’s firmware update first. GTA VI’s voice actor for Lucia was revealed by… The Game Awards. Hacker behind 2022 GTA VI leaks pleads guilty</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>UK.gov JV gets £178M Home Office hosting deal. Without competition</title>
 <link>https://www.theregister.com/public-sector/2026/11/18/ukgov-jv-gets-178m-home-office-hosting-deal-without-competition/5310433</link>
 <guid isPermaLink="false">633c02b1e1f0e76c0fa4189ea09550ff01d9c567c1b1ed9916dac74f970f1481</guid>
@@ -288,17 +354,6 @@
 <description>Just a minute ago, I was shooting my way out of a cocaine deal gone wrong, darting behind furniture for cover. Now I’m sitting on the floor of my home, working through the instructions to construct an Ikea-style coffee table with my partner. A tiny heart with a plus sign pops up, showing that our relationship is stronger for this quotidian domestic effort. This is the contrast at the heart of Grand Theft Auto VI , a game that seems to revel in both action movie bombast and the mundanities of everyday life for an up-and-coming young criminal couple. The reimagined and expanded Vice City is still the grand, crude, satirical criminal playground you’d expect after 25 years of 3D Grand Theft Auto games. And that world is as full, detailed, technically impressive, and polished as you would expect after this latest installment received a reported billion-dollar budget and roughly a decade of development work involving thousands of Rockstar staffers. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg" medium="image"/>
-</item>
-<item>
-<title>Grand Theft Auto VI does something impossible — it lives up to the hype</title>
-<link>https://www.theverge.com/games/1035801/grand-theft-auto-6-review</link>
-<guid isPermaLink="false">03d89d7a24a39ef1ad74ff2e227637c84e7c5b6e2c71a6209174ee02497577e0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
-<description>How do you follow a game like Grand Theft Auto V ? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of the best-selling games of all time, and its lucrative online mode has helped it remain popular for well over a decade. That level of success has allowed Rockstar to take its time with a sequel, which has further increased the hype around the next GTA . A series of major leaks and delays only exacerbated this. At a time when muc … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-17-copy.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-17-copy.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out</title>
@@ -508,17 +563,6 @@
 <description>Another day, another disruptive network outage (or two) as government officials and company execs scramble to assure an anxious populace that these are not coordinated cyberattacks – and security experts call this the new normal. A classified network that the US National Security Agency uses for internal communications, called NSANet, went offline on Tuesday in what the agency described as a “temporary degradation during scheduled routine maintenance.” “While some internal systems were affected, mission-critical capabilities remain fully operational and our ability to defend national security continues,” the NSA said in a statement following media reports about the outage. “NSA's infrastructure is designed with multiple layers of redundancy to maintain operations during planned maintenance or unexpected events.” Around the same time, Apple users began reporting issues across multiple services – including Apple Support, iCloud, the App Store, Apple Pay, and more – with Apple retail stores worldwide also reportedly experiencing disruptions that halted sales and in-person support. A day earlier, customers at major US banks including JPMorgan Chase, Bank of America, and US Bank reported service outages that Chase attributed to “a software bug in on-premise hardware systems - there is no evidence this is cyber-related.” All of these high-profile outages followed last week’s US Federal Aviation Authority (FAA) order g rounding all planes on Friday due to problems with copper wiring during an L3Harris network upgrade, and a Microsoft 365 outage on Thursday. Redmond later blamed the massive service disruption on a faulty software update it pushed back in July. Despite the weekend respite from network outages, your humble vulture still had to field is-this-the-beginning-of-the-end questions from friends and family all day Saturday and Sunday, most of whom suspected Russia or China – maybe even Iran – caused the spate of downed systems and services. A highly sophisticated, coordinated nation-state hack would be a much more exciting cause for the disruptions. The real culprit, however, appears to be aging, under-funded infrastructure , riddled with decades-old bugs and held together by digital sticks and glue . “As someone who started out as a hacker , I know how tempting it is to connect the dots when major systems fail one after another,” Remedio CEO Tal Kollender told The Register, adding that there’s “no credible public evidence that these outages were part of a coordinated cyberattack,” and most have been attributed to technical failures. “What concerns me more is what these incidents reveal about the fragility of our digital infrastructure. We've built an interconnected world on layers of aging systems, complex configurations, and dependencies that organizations don't always fully understand. A single misconfiguration, failed update, or broken dependency can create disruption on a massive scale, even without an attacker,” Kollender said. “The uncomfor</description>
 <enclosure url="https://image.theregister.com/?imageId=5310644&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5310644&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang</title>
-<link>https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang</link>
-<guid isPermaLink="false">bb59199150f2453b2fe42380dbf3869a4f46c41fb7ff74ee5e59675417929c82</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 23:32:16 +0000</pubDate>
-<description>Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jensen Huang’s ouster. Nvidia announced the same day that its quarterly revenue beat expectations, coming in at $115.84bn, doubling from the same time period a year ago. The third-quarter earnings report comes just days after the world’s most valuable chip company saw the ouster of Huang over allegations of several extramarital affairs, including one with a suspected Chinese spy and two with his own employees. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6a0ae4250815a9e2bf1d6dab1ee913e" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6a0ae4250815a9e2bf1d6dab1ee913e" medium="image"/>
 </item>
 <item>
 <title>5 old-school charging ports you probably forgot phones had before USB-C</title>
@@ -1401,39 +1445,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc09895_4e2842.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft fixes Windows activation as admins pick through Exchange outage wreckage</title>
-<link>https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102</link>
-<guid isPermaLink="false">c0a843c4db87d5bb31b695d5c10de263101ce9ea1fbaa87ed527aee13d9c6d3d</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 17:27:00 +0000</pubDate>
-<description>Microsoft has released an out-of-band update to fix licensing and activation errors introduced by November's Windows security update. The fix is available from the Microsoft Update Catalog for Windows Server 2025, 2022, and 2019, Windows 10 22H2 ESU, and Windows 10 Enterprise LTSC 2021 and 2019. Windows 11 23H2 users can obtain it from the Catalog or through Windows Update's Optional updates menu. The "non-security OOB update" targets affected enterprise devices. Microsoft stated: "Certain Windows licensing and activation operations using the Software Licensing Management Tool (SLMGR) might fail with error 0x80041008 (Invalid parameter). "This primarily affects organizations using slmgr.vbs commands or automated processes to configure Key Management Service (KMS) activation, install product keys, or manage Windows licensing." Devices that are already activated will remain activated, Microsoft said. Breaking the machinery customers use to activate paid-for software is a bad look for a Patch Tuesday release . Administrators may wonder how Microsoft's updates are tested when installing one means waiting for another to repair the damage. Those same administrators may also have been fielding calls about last week's widespread Exchange Online outage, which Microsoft has partly attributed to a defect it introduced in July . On top of that, Microsoft told administrators just days ago to consider unsupported Exchange Server 2016 and 2019 " permanently vulnerable ." Exchange Online avoids that particular support deadline, but the recent outage was a reminder that handing over the servers doesn't make software defects disappear. Forget "security by obscurity." Last week's approach was more like "security by unavailability." Between getting Windows activated and keeping Exchange Online online, Microsoft gave administrators plenty to do. None of it was likely to feature in their original plans for the week. Not all the glitches introduced by November's Patch Tuesday have yet been resolved, as some customers using a Windows device to print will be aware. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=233068&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=233068&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Crook turns LearnWorlds' free trials into phishing factory, sends 13,000 fake YouTube copyright notices</title>
-<link>https://www.theregister.com/security/2026/11/16/crook-turns-learnworlds-free-trials-into-phishing-factory-sends-13000-fake-youtube-copyright-notices/5310122</link>
-<guid isPermaLink="false">368ae569594659691a7b8b516e4705cfa282d041463bce91f006b6ffbf40e7ac</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 17:03:00 +0000</pubDate>
-<description>LearnWorlds, a software and learning course platform, says an attacker sent 13,000 phishing emails to YouTube creators over seven days by using automated tools to open free trial accounts. The company insists its systems were not breached. Panos Siozos, Co-founder and CEO at LearnWorlds, said the miscreant created around 570 free trial accounts on the platform between November 7-14, which they used to issue fake copyright infringement notices to recipients of their choosing. "We have found no evidence of unauthorized access to existing customer schools or personal data held for our customers and their end users," he told The Register . According to Siozos, the attacker bypassed the platform's per-customer limit on trial subscriptions and exploited its welcome email feature to send the phishing emails. "In each trial they added their own list of target addresses and rewrote the standard welcome email as a fake copyright notice," he said. "Adding those users triggered the welcome email from our sending address." The first email was sent on November 7, after which the company detected the suspicious signups and blocked the first sender on November 9, although the attacker returned to send a second wave of emails within 40 minutes. LearnWorlds removed all the trial accounts by November 10 and one paid account, which was used to launch more emails, on November 14. "In total, around 13,000 emails were sent to addresses on external recipient lists supplied by the sender," said Siozos. "The trial accounts sent 9,853 between November 7-9, and the paid account sent 3,723 on November 14. "We can’t tell how many people clicked, because the link was disguised to hide clicks. The recipient addresses were the sender’s own list." The CEO confirmed that LearnWorlds has since enhanced its bot checks and is placing holds on new accounts if their emails trigger fraud flags. "We have also examined the novel patterns the attackers used to create more advanced scoring mechanisms. We have reported the phishing website so it can be taken down. Further measures are currently being examined. "Anyone who signed in on the fake page should change their Google password and review their account’s recent security activity." The company's confirmation follows suspicions of foul play aired by users on social media. User reports included copies of the emails they received, which demanded urgent responses to fake copyright infringement claims related to YouTube content. Among the more prominent recipients of the copyright infringement email notices was Marcus Hutchins, of WannaCry fame , who claimed he received an email from the company’s official mail server. The email, a copy of which Hutchins posted to X , referenced general intellectual property and copyright infringements but failed to specify any specific issues. The email prompted the recipient to click a YouTube link to see the “supporting documentation submitted by LearnWorks.” The link predictably turned out to be a YouTub</description>
-<enclosure url="https://image.theregister.com/?imageId=262937&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=262937&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Killer tunes: how Grand Theft Auto conquered the music world</title>
-<link>https://www.theguardian.com/games/2026/nov/16/auto-tunes-music-grand-theft-auto-conquered-zeitgeist-gta</link>
-<guid isPermaLink="false">02dfaf2567cdbdc29b035b2814b52aac3dec49c76b7dd2b1b099753c03c338ca</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 15:03:38 +0000</pubDate>
-<description>Featuring hundreds of songs from the hippest real-world artists, the radio stations in Rockstar’s crime sagas are as hotly anticipated as the storylines. Contributors including Flying Lotus, Wavves and Nite Jewel reflect on the soundtracks’ curation and impact • The exclusive inside story of Grand Theft Auto VI • Crime pays: how GTA became a cultural colossus • Ten movies (and one TV show) that inspired GTA A droptop sports car speeds along a highway blaring 90s west coast rap from its booming sound system. Gradually, the asphalt gives way to rural backwaters, and so the sounds of Grand Theft Auto: San Andreas’s local radio also change: less gangster rap and more twangin’ country – the grizzled croon of Merle Haggard and yearning warble of Patsy Cline. The Grand Theft Auto games are massive, stretching across many, many square miles of virtual terrain. Their soundtracks, relayed mostly via in-game radio stations, are manifold. And these two aspects, plus the personal experiences each player brings to the game, mean everyone has a different favourite musical memory from the smash-hit crime series. For acclaimed electronic musician Flying Lotus, it is all the hours he spent cavorting around 2004’s San Andreas that remain special. “It felt like the first time a game saw a different side of culture – black culture,” he says over the phone. “It felt like we were being seen. And with the extent of the music, all the cool California hip-hop, it felt like someone actually cared.” Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/653be1d2025e6e81bbe8942259f72ca29936769c/400_0_2698_2160/master/2698.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b0a5db80d48165b08bdea91b028bb726" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/653be1d2025e6e81bbe8942259f72ca29936769c/400_0_2698_2160/master/2698.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b0a5db80d48165b08bdea91b028bb726" medium="image"/>
-</item>
-<item>
 <title>Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’</title>
 <link>https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai</link>
 <guid isPermaLink="false">8439c1d510ab12793cf35f57adbc74f2480ed469b1c3974ebc263fbee51910aa</guid>
@@ -1476,17 +1487,6 @@
 <description>Exclusive: Personal information of Centrelink clients and childcare workers is among data shared with ACIC, which uses US tech company’s software The personal information of Centrelink customers, taxpayers and childcare workers is among a trove of sensitive data that may be ending up in Palantir’s surveillance software in Australia, without the departments responsible for the information even knowing about it. As Guardian Australia reported in September , Palantir’s software is used by the Australian Criminal Intelligence Commission (ACIC) as part of the multi-agency fraud fusion taskforce, which was established in 2022 with the goal of targeting fraud in government payments from the national disability insurance scheme, childcare and welfare. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/7ca1181a4138e0412b2c6313ada9da4dd8a1edde/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2c0471aaec001c7a436e727b7ccb56c" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/7ca1181a4138e0412b2c6313ada9da4dd8a1edde/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2c0471aaec001c7a436e727b7ccb56c" medium="image"/>
-</item>
-<item>
-<title>‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?</title>
-<link>https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years</link>
-<guid isPermaLink="false">40f4d9a8bd05f90b8f06d369979f2e112b6747f0f77aabc80b4e0b58dfea8b7c</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 14:00:15 +0000</pubDate>
-<description>Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there’s another story that’s been left behind A new pandemic is threatening planet Earth. It’s scheduled to hit 19 November. Entire offices and worksites will be emptied; employees struck down by a mysterious illness. But you need not panic: it isn’t fatal. It should pass in a few days. The anticipation for Grand Theft Auto VI, the first new game in the franchise in 13 years, is so high that a steady stream of news coverage has suggested it heralds economic catastrophe due to workers taking time off to play the game. The term “GTA Flu” was coined for the swathe of sickies that reportedly happened when GTA V was released in 2013, and – supposedly – are set to happen again when GTA VI comes out this week. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7e50768ee7f7705cd8d276775d21f0ea" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7e50768ee7f7705cd8d276775d21f0ea" medium="image"/>
 </item>
 <item>
 <title>‘Prove you are not a robot’: how the Captcha scam captures your computer</title>

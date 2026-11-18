@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Timeline: The biggest breakthroughs of the past 70 years</title>
+<link>https://www.newscientist.com/article/2599549-timeline-the-biggest-breakthroughs-of-the-past-70-years</link>
+<guid isPermaLink="false">23b43dd779a9cbb66de09ecb68e0d3a49042045ddcfbd342b8400942d43988c6</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Wed, 18 Nov 2026 13:01:00 +0000</pubDate>
+<description>For the 70th anniversary of New Scientist, explore our immersive timeline of the biggest moments in science since 1956, from Sputnik 1 to the proliferation of AI chatbots</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321107850.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321107850.jpg" medium="image"/>
+</item>
+<item>
+<title>India's SatLeo Labs wants to build a 'thermometer for Earth' in space</title>
+<link>https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space</link>
+<guid isPermaLink="false">57e94ebb9b6c27ef95362834a5396b7c189286cf93283ffcf719a23351ccdf8c</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Wed, 18 Nov 2026 13:00:00 +0000</pubDate>
+<description>&lt;p&gt;Sharmila Kuthunur is an independent space journalist based in Bengaluru, India. Her work has also appeared in Scientific American, Science, Astronomy and Live Science, among other publications. She holds a master's degree in journalism from Northeastern University in Boston.&amp;nbsp;&lt;/p&gt; AHMEDABAD, India — As climate disasters grow more frequent and severe, a young Indian space-tech startup is betting it can help the world act sooner by reading Earth's temperature from orbit in near-real time. SatLeo Labs, based here in western India, is building what it calls a " thermometer for Earth " in space. It plans to achieve its roadmap to deliver frequent, near-real-time thermal data through Pyro, a planned constellation of 15 microsatellites that will circle the planet in low Earth orbit by early 2030, if all goes to plan. Equipped with thermal sensors and onboard artificial intelligence , the satellites will measure the heat radiating from Earth's surface at a resolution finer than 10 meters (33 feet), which is sharp enough to map heat variations down to street level, the company says. "It's going to be that precise," SatLeo Labs co-founder Urmil Bakhai told Space.com in a recent interview. That level of detail, he said, helps distinguish temperatures across a single city and pinpoint urban hot spots, allowing governments and policymakers to plan targeted interventions and more heat-resilient city designs. The company is also targeting agriculture, and for good reason: Research suggests that thermal data can directly reveal water stress on crops days before leaves wilt, discolor or show other visible damage, unlike visible-light satellite imagery. Other uses the company is eyeing include spotting forest fires early, tracking industrial emissions and, on the defense side, detecting sudden temperature spikes from missile launches . Down the road, the team also envisions hyper-local uses. Near the top of its list are live heat maps built into navigation apps that could help gig-economy workers in India. These folks, who often ride motorcycles, could use the data to pick cooler routes during heat waves, said Bakhai. "We are in space, but we're solving problems on Earth ," said Shravan Bhati, SatLeo's co-founder and CEO. First, however, the company has to prove that its homegrown hardware works in space. On Oct. 1, SatLeo launched its first technology demonstrator, TAPAS-1, aboard a SpaceX Falcon 9 rocket as part of the Transporter-18 rideshare mission. Short for "Thermal Access Platform for Analytics &amp; Solutions," TAPAS-1 is India's first commercial thermal payload in orbit and the first of SatLeo's three planned test payloads meant to validate its technology. Once complete, the 15-satellite Pyro fleet will scan all of the world's land surface at least twice a day, Bakhai said. Successful deployment of that fleet would make SatLeo one of just a few private thermal-imaging operators across the world, such as SatVu in the U.K. and OroraTech in Germany. The</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/iY9n9bEWJZWyd7hgYcYw8a-1920-80.png" type="image/png"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/iY9n9bEWJZWyd7hgYcYw8a-1920-80.png" medium="image"/>
+</item>
+<item>
 <title>1 light-day from Earth! NASA's Voyager 1 probe hits huge milestone in interstellar space</title>
 <link>https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space</link>
 <guid isPermaLink="false">226b28de4ca123a3595c3c70fbb3b62cbc3496c7e3da35e7189b85afd76fb585</guid>
@@ -642,17 +664,6 @@
 <media:content url="https://static01.nyt.com/images/2021/01/20/science/16sci-leonids/01sci-spacecalendar-leonids-mediumSquareAt3X-v3.jpg" medium="image"/>
 </item>
 <item>
-<title>Skeleton found in Denmark came from man who witnessed the arrival of farming</title>
-<link>https://www.newscientist.com/article/2598961-skeleton-found-in-denmark-was-from-man-who-witnessed-the-arrival-of-farming</link>
-<guid isPermaLink="false">20659cab8b520938ae86cbbb73a99bd1fabfd5b8e3acb242801db8de21a47760</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Mon, 16 Nov 2026 00:01:00 +0000</pubDate>
-<description>Clues about the diet of “Rødhals Man”, who lived some 6000 years ago, hint that he lived through one of the most revolutionary changes in human history</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320519457.jpg" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320519457.jpg" medium="image"/>
-</item>
-<item>
 <title>F.D.A. Rejects Closely Watched Lung Cancer Drug From China</title>
 <link>https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html</link>
 <guid isPermaLink="false">98bedd5c468710b59dc9bebd7e0cfe4e1c60fdc562663a6f412140f1fcfbdc70</guid>
@@ -1027,17 +1038,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/XL5t5tMQrJym2bu9ujg5Um-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight</title>
-<link>https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight</link>
-<guid isPermaLink="false">336e79142b94a1d4affe62ddd33885722e2f198696c14a836505ca48256f686b</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Fri, 13 Nov 2026 08:03:59 +0000</pubDate>
-<description>null SpaceX has a message for itself, and for the spacecraft set to make history today (Nov. 13): Don't panic. The company's Starship megarocket will conduct its 15th test flight this afternoon, a landmark liftoff that will feature the first-ever attempt to catch both of its stages with its launch tower's "chopstick" arms. On Thursday (Nov. 12), SpaceX rolled the Flight 15 upper stage, a vehicle known as Ship 42, out to the launch pad at its Starbase site in South Texas to prep. The company shared photos of the move on X , and in two of those shots we can see some intriguing words inked on the spacecraft: "Don't panic." Another look at Ship 42 at the pad on Nov. 12. (Image credit: SpaceX) The phrase is familiar to fans of Douglas Adams' sci-fi classic " The Hitchhiker's Guide to the Galaxy ": In the novel, the electronic guidebook that helps travelers find their way across the cosmos has "Don't panic!" on its cover. And Ship 42 itself is connected to the beloved book, by virtue of its serial number. In "The Hitchhiker's Guide," a supercomputer named Deep Mind is asked to come up with "the answer to the ultimate question of life, the universe, and everything." It thinks for 7.5 million years and comes up with "42." SpaceX founder and CEO Elon Musk has voiced his affection for "The Hitchhiker's Guide" in the past — and he has already paid tribute to it with a well-placed "Don't panic." The debut launch of SpaceX's Falcon Heavy rocket back in February 2018 sent Musk's red Tesla Roadster into orbit around the sun , with a spacesuit-clad mannequin named Starman at the wheel and its entertainment display programmed to read "Don't panic!" Starship Flight 15 is scheduled to launch today during a 75-minute window that opens at 5:45 p.m. EST (2245 GMT; 4:45 p.m. local Texas time). You can watch it here at Space.com. If all goes according to plan, Starship's Super Heavy first stage will come back to Starbase for a chopsticks catch about 6.5 minutes after liftoff. Ship 42, meanwhile, will head to orbit, a destination that Starship reached for the first time on Flight 14 , which took place on Sept. 28. Ship 42 will deploy 26 of SpaceX's next-gen Starlink V3 satellites today — the second batch of the spacecraft to reach orbit. (The first set of 26 were delivered on Flight 14). The Ship 42 upper stage rolls to its launch pad at SpaceX's Starbase site on Nov. 12, 2026 ahead of Starship's Flight 15. (Image credit: SpaceX) Ship 42 will stay up for a while after that, circling Earth 14 times before coming back for its own chopsticks catch on Saturday afternoon (Nov. 14), 22.5 hours after launch. That's the plan, anyway; SpaceX will only go through with a Ship catch attempt if all systems on the vehicle look good. If there are any problems, the company will divert to a splashdown in the Pacific Ocean, near either Hawaii or Chile. The two stages of the Starship rocket that will conduct Flight 15 at their Starbase launch pad on Nov. 12, 2026. (Image credit: SpaceX) Bo</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/wPeeKCdF2RvbiNJiDsUjER-1920-80.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/wPeeKCdF2RvbiNJiDsUjER-1920-80.jpg" medium="image"/>
-</item>
-<item>
 <title>A Key Paris Agreement Goal Is Dead. What Now?</title>
 <link>https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html</link>
 <guid isPermaLink="false">81d13bdcebd3cc2a41941834e810b6296c209c8164b9450e961531caad283db8</guid>
@@ -1102,17 +1102,6 @@
 <description>The question is being asked across the developing world, where hunger risk is high from the extreme weather El Niño is expected to bring. Malawi has a big plan, but little money.</description>
 <enclosure url="https://static01.nyt.com/images/2026/10/30/multimedia/00CLI-PREPPING-FOR-EL-NINO-stillpromo/00CLI-PREPPING-FOR-EL-NINO-01-phqc-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/10/30/multimedia/00CLI-PREPPING-FOR-EL-NINO-stillpromo/00CLI-PREPPING-FOR-EL-NINO-01-phqc-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>‘Fight Harder,’ U.N. Chief António Guterres Implores, Rousing Climate Ambassadors at COP31</title>
-<link>https://www.nytimes.com/2026/11/11/climate/cop31-antonio-guterres-un.html</link>
-<guid isPermaLink="false">e25a3b8f491a4b9bcea9a657952f3442a2c0941b9fb2d318eb588b65248cc25c</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Wed, 11 Nov 2026 17:27:55 +0000</pubDate>
-<description>The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/11/multimedia/11CLI-COP-LEADERS-jvcq/11CLI-COP-LEADERS-jvcq-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/11/multimedia/11CLI-COP-LEADERS-jvcq/11CLI-COP-LEADERS-jvcq-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>How a Metabolic Spark Could Have Jump-Started Life</title>

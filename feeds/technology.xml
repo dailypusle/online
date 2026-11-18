@@ -4,6 +4,94 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Does GTA VI live up to the hype? Our games editor has played it – ask her anything – live</title>
+<link>https://www.theguardian.com/games/live/2026/nov/18/does-gta-vi-live-up-to-the-hype-our-games-editor-has-played-it-ask-her-anything</link>
+<guid isPermaLink="false">325d91e95406de43dfd838510ff3319e104aea4f1b71319c44e90f6757c8c918</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 17:12:38 +0000</pubDate>
+<description>Grand Theft Auto VI, the biggest games release of the decade, is nearly here. Our games editor Keza MacDonald is online now to answer all your questions Ask a question: log in or sign up here TrickoftheLight asks : Love your review, specifically the part about women finally having something resembling equity and agency instead of being the butt of crass and violent jokes. What did you make of the 30 frames per second rate cap? Did it impede your experience at all? Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/2c1fd827327d14bd0ef78713cbea00aa6dd169f9/0_0_2000_1600/master/2000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f23535300843f56bb724f77261b4600" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/2c1fd827327d14bd0ef78713cbea00aa6dd169f9/0_0_2000_1600/master/2000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f23535300843f56bb724f77261b4600" medium="image"/>
+</item>
+<item>
+<title>MongoDB snaps up Firebolt to bring transactions and analytics under one roof</title>
+<link>https://www.theregister.com/databases/2026/11/18/mongodb-snaps-up-firebolt-to-bring-transactions-and-analytics-under-one-roof/5310809</link>
+<guid isPermaLink="false">da3e1f1754bed841e447d6b9174630adae0f1e8f14c9c2ba090337f857d616f1</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 17:02:00 +0000</pubDate>
+<description>MongoDB has acquired analytical database specialist Firebolt in another attempt to bring transactional and analytical workloads onto one platform. The document database vendor carved out its patch of the database market with flexible, JSON-like documents rather than rigid, predefined table structures. Developers put it to work in web, mobile, ecommerce, and content management applications. It has since branched out to offer a data platform it says is ready for the age of AI and AI agents working across transactional environments, promising scale, speed and reliability. Firebolt was founded in Israel in 2019. It built a cloud-native data warehouse based on the notion of automatically and transparently merging and compacting files as they are ingested. Speaking to The Register in 2020 , then CTO Eldad Farkash claimed this slashes the amount of data users need to load into the system, accelerating query performance and improving concurrency. Firebolt raised $100 million in Series C funding in 2022 at a reported valuation of $1.4 billion. MongoDB has not disclosed the acquisition price. But what will it get, and what does that mean for MongoDB users? In a blog post , the company said: "By integrating Firebolt into MongoDB's Intelligent Data Platform, we're bringing a high-performance analytics engine to where your operational data already lives. Firebolt's engine will run right alongside your database, and we'll keep it in sync automatically, so there's no pipeline to build or manage. You'll get one platform for operational and real-time analytical workloads, so teams can ship faster, with fewer systems to operate and secure." The integration isn't available yet. MongoDB says customers will gain access in the coming months, while existing Firebolt customers will retain their current service and support. MongoDB's pitch is that AI agents will need fresh operational data and fast analytical answers, without customers having to stitch separate platforms together. MongoDB is hardly the first vendor to chase that combination. Bringing online transaction processing (OLTP) and online analytical processing (OLAP) together promises less infrastructure to manage and fewer data pipelines to maintain. Delivering both without compromises is the harder part. Earlier this year, Databricks claimed to have cracked the problem , promising "one data, zero compromises, zero copies." It works with Reyden – a new compute engine – and Lakebase, its serverless PostgreSQL on open object storage. Rivals pointed out there were briefly two copies of the data in the system at some level. SingleStore also tackles the problem with an in-memory row store and an on-disk column store with tiered storage, "meaning transactions hit memory first, and then they roll off to disk storage," allowing analytics and transactions on a single system. Oracle and SAP have also spent years adding analytical capabilities to transactional platforms to reduce the delay between recording data and analy</description>
+<enclosure url="https://image.theregister.com/?imageId=230446&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=230446&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>The best TVs in the UK for every home and screen size, tested</title>
+<link>https://www.theguardian.com/thefilter/2026/nov/18/best-tvs-tested-uk</link>
+<guid isPermaLink="false">45b45fa30f0992fb3c76a9fb5d233882bef053de7d61e4e5c416127c6868b3f2</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 17:01:14 +0000</pubDate>
+<description>Not sure which TV is right for you? Whether you want an affordable mini LED or a feature-packed OLED, here’s what our square-eyed expert recommends • Do you really need to buy a new TV? How to upgrade your setup If your TV looks like an off-cut from Stonehenge, isn’t quite as smart as your microwave or, heaven forfend, is boring old HD rather than 4K HDR (high dynamic range), it could be time to invest in something more up to date. But even a cursory look at the latest TVs available will confirm a bewildering array of options, from super-slim models with unfeasibly large screens to high performers that rival the picture quality at your local cinema. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/03bdaefdfdf000c93e3e9f4a147ec93cec60af4d/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6ff2dba938879d0a2f90fef1358f38d3" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/03bdaefdfdf000c93e3e9f4a147ec93cec60af4d/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6ff2dba938879d0a2f90fef1358f38d3" medium="image"/>
+</item>
+<item>
+<title>Vulcan failure caused by inadequate fuel supply to engines, ULA says</title>
+<link>https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says</link>
+<guid isPermaLink="false">83edd64097dbc83e837dfb873d7f809353e8155bb3393b9e7195d8134366181b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 16:58:32 +0000</pubDate>
+<description>United Launch Alliance said Wednesday that the failure of its Vulcan rocket during a launch on Sunday was caused by inadequate fuel supply. "ULA has completed an initial integrated review of flight data from the Leo 1 launch anomaly that occurred last Sunday," the company said in a statement . "While work remains to determine cause, preliminary indications are that the low booster thrust was the result of inadequate fuel supply from the vehicle to the BE-4 engines, not from the performance of the engines." The new information released by ULA confirms reporting from Ars Technica on Tuesday that the rocket's failure was not due to the performance of the vehicle's main engines, which are provided by Blue Origin. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>SiriusXM and Pandora will provide podcast transcripts for the deaf and hard-of-hearing community</title>
+<link>https://www.engadget.com/2320646/siriusxm-and-pandora-will-provide-podcast-transcripts-for-the-deaf-and-hard-of-hearing-community</link>
+<guid isPermaLink="false">264dbaf5fa0d98947d99393485f7539bef4937e3ad641f02b424119dd514ce72</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 16:48:02 +0000</pubDate>
+<description>This settles a lawsuit that goes all the way back to 2021.</description>
+<enclosure url="https://www.engadget.com/img/gallery/siriusxm-and-pandora-will-provide-podcast-transcripts-to-the-deaf-and-hard-of-hearing-community/l-intro-1795020058.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/siriusxm-and-pandora-will-provide-podcast-transcripts-to-the-deaf-and-hard-of-hearing-community/l-intro-1795020058.jpg" medium="image"/>
+</item>
+<item>
+<title>Waymo has stopped its robotaxis from driving on the freeway—here’s why</title>
+<link>https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint</link>
+<guid isPermaLink="false">ce4b9c0b37928272a2bd6ecc827d091407e69becf2a9151b7fabd5bbfec861ee</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 16:24:34 +0000</pubDate>
+<description>Waymo is currently restricting its fleet of robotaxis to surface streets after getting into hot water with California over its cars' driving behavior on highways. Specifically, the software tends to drive into construction zones at speed. As first reported by the San Francisco Business Times , this behavior actually drew the ire of California’s DMV earlier this month, which ordered Waymo to stop driving on Californian highways immediately and until it can convince the DMV that its cars no longer “pose an imminent hazard to public safety.” This is not Waymo’s first run-in with this problem. In Arizona, Waymo robotaxis did not recognize ramp closure signs on six occasions in Phoenix in April and entered construction zones. A month later in California, seven Waymo robotaxis entered lanes with active construction. In June, Waymo recalled the almost 3,800 robotaxis capable of highway driving. That problem led Waymo to stick to surface streets only in California after the May incidents until late July, when the robotaxis resumed highway operations. In early July, Waymo told the National Highway Traffic Safety Administration that it began updating the robotaxi software to a version that “improve[s] the recognition of freeway construction zones, more appropriately prioritize[s] construction zones over other freeway hazards, and reduce[s] speed when the AV detects that it may be in a construction zone.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Your Wear OS smartwatch just got a new way to save battery life</title>
+<link>https://www.zdnet.com/tech/wear-os-smartwatches-update-save-battery-life-galaxy-pixel</link>
+<guid isPermaLink="false">4b2ab6aa475eeb775bf6ae63dfccab04061f662e1b2a8803a662eb7d4c5349df</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 16:24:20 +0000</pubDate>
+<description>It could make your Pixel Watch or Samsung Galaxy Watch more power efficient.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00138_8b66e2.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00138_8b66e2.jpg" medium="image"/>
+</item>
+<item>
+<title>The wrong setting for AI cache can cost you a lot of cash</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831</link>
+<guid isPermaLink="false">4fb75e9223501829ffad23ae488e920b0259b2ef5eb0ba8c2f69ed4400a9e324</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 16:17:00 +0000</pubDate>
+<description>Be wary of AI costs. You may be spending more than you think and end up with nothing to show for it but an eye-popping invoice. Register readers are finding themselves on the sharp, pointy end of AI billing, confused about which costs are covered by what, and surprised by "features" that burn through credit, seemingly without warning. Startups without the deep pockets of established companies are the first to feel the squeeze. Sometimes, the approach feels more like an app that urges users to deposit extra cash to keep that streak going than a helpful coding assistant. Take one reader, who told The Register about Claude burning through credits at a ferocious rate after a cache setting was reset in the background. The cache setting controlled how long Claude "remembered" requests and was set to one hour. It's a useful feature, and it lets Claude reuse material that has already been processed. Once it expires, continuing unfinished work can mean paying to process old material again. "After hitting my $200 Ultra plan limit," our reader told us, "I bought $250 in additional credits to finish 8 coding threads." There didn't seem to be much work left to do, so the extra credits should have been plenty. Alas, no, after just under two hours, the entire balance was gone, and no meaningful progress was made. They dug deeper and found that the newer request had switched back to the five-minute cache "without my action or knowledge." The figures didn't add up either, so he made a request to Anthropic to explain the cache setting change and the cost discrepancy. "I found myself stuck with its support chatbot, Fin. It described the cache switch behavior as a 'feature' and said it couldn't provide the reconciliation or investigation." The support thread was then closed. Our reader asked again for an explanation. "Fin kept closing the support thread, sometimes just 31 seconds after I asked for human escalation." The Register asked Anthropic for an explanation, and how users might reach a human when a chatbot comes to the end of its usefulness, but the company has yet to respond. It's all a bit of a cautionary tale. Our reader said, "The money was gone, the work was unfinished, and I was spending time chasing answers that I needed to spend building my app. "I wish I'd known this could happen before buying those credits." Indeed. There are endless stories of how using AI has resulted in unexpected costs. Even celebrity mathematician Dr Hannah Fry found the token costs of sending an agent on an errand a surprise. And then there are the misunderstandings when credits gifted under one program turn out to be inapplicable for another, and support teams play a variant of ping-pong , just with customer requests. The problem is that burning through credits or running up bills that could wipe out a start-up is all too easy. We've been here before with the cloud , and it appears the lessons need to be learned again. Our reader complained, "We deserve to understand what we'r</description>
+<enclosure url="https://image.theregister.com/?imageId=5310849&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5310849&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood</title>
 <link>https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off</link>
 <guid isPermaLink="false">63a4efc42c67362797232e240a71658eeec7b248f7d496de248fb3c0d5d5c55c</guid>
@@ -43,7 +131,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Wed, 18 Nov 2026 15:53:10 +0000</pubDate>
-<description>As Democrats flag AI bank breaches and cyberattacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies. Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, outlining concerns sparked by reports of AI accessing major banks, cyberattacks in Japan and more. Continue reading...</description>
+<description>As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies. Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, outlining concerns sparked by reports of AI accessing major banks, cyber-attacks in Japan and more. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2742375af4dfbb12b20aedae50e16e5" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2742375af4dfbb12b20aedae50e16e5" medium="image"/>
 </item>
@@ -54,7 +142,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 18 Nov 2026 15:44:02 +0000</pubDate>
-<description>In October, Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models , warning that they could be used to launch cyberattacks or become harder for their own creators to control. It was a strange moment for the AI boom. The people building the most powerful models were warning about what those models might be capable of, and investors were suddenly wondering what would happen to chip demand i … Read the full story at The Verge.</description>
+<description>Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models , warning that they could be used to launch cyberattacks or become harder for their own creators to control. It was a strange moment for the AI boom. The people building the most powerful models were warning about what those models might be capable of, and investors were suddenly wondering what would happen to chip demand i … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -213,17 +301,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/tenacioushero.jpg" medium="image"/>
 </item>
 <item>
-<title>Does GTA VI live up to the hype? Our games editor has played it – ask her anything</title>
-<link>https://www.theguardian.com/games/live/2026/nov/18/does-gta-vi-live-up-to-the-hype-our-games-editor-has-played-it-ask-her-anything</link>
-<guid isPermaLink="false">325d91e95406de43dfd838510ff3319e104aea4f1b71319c44e90f6757c8c918</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 13:31:19 +0000</pubDate>
-<description>Grand Theft Auto VI, the biggest games release of the decade, is nearly here. Our games editor Keza MacDonald will be online from 4pm GMT (11am EST, 3am AEDT) to answer all your questions Ask a question: log in or sign up here After more than a decade and a reported billion dollars in the making, Grand Theft Auto VI is finally released on Thursday. It’s one of the most anticipated games of all time. The Guardian’s games editor, Keza MacDonald, is one of the first people in the world to have played it and she’s now spent over 70 hours in Leonida to review the game. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/2c1fd827327d14bd0ef78713cbea00aa6dd169f9/0_0_2000_1600/master/2000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f23535300843f56bb724f77261b4600" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2c1fd827327d14bd0ef78713cbea00aa6dd169f9/0_0_2000_1600/master/2000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f23535300843f56bb724f77261b4600" medium="image"/>
-</item>
-<item>
 <title>Windows Server 2028 won't be compatible by default</title>
 <link>https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766</link>
 <guid isPermaLink="false">380099c909c2be269261f4b02ecbb3d56c9690fbbe74cfb89911fa351533db34</guid>
@@ -365,6 +442,17 @@
 <description>SAP's commercial terms could put its latest AI tools out of reach for many customers, particularly smaller businesses running a single ERP system, the new chair of its German-speaking user group has warned. Thomas Henzler, appointed chair of DSAG last month, told The Register that Joule Studio 2.0 – SAP's upgraded platform for developing and deploying AI agents to automate business tasks – is a leap forward. Yet DSAG, which represents SAP users in Germany, Switzerland, and Austria, remains in talks with the vendor about the commercial conditions attached to access. In July 2023, CEO Christian Klein told investors that SAP's "newest innovations and capabilities" will only be delivered in the public or private cloud using RISE with SAP, the vendor's lift-shift-and-transform program launched with partners and cloud providers in early 2021. Customers running ERP software on-premises, or hosting it with a hyperscaler outside RISE, will miss out, he said. However, in May this year, SAP appeared to perform a U-turn . It said on-premises customers could access Joule 2.0 if they commit to a cloud "journey" through RISE with SAP, changing their support and commercial arrangements while migration projects are still underway. Henzler told The Reg : "There is a gap between the customer's reality and SAP's strategy for the autonomous enterprise. A lot of customers are still planning to migrate to S/4HANA, and now the question is, 'what do we have to do to use SAP AI, and what does it mean regarding the cloud strategy?' "Now it's a completely new strategy, a new approach, and a new underlying technology. The question is, what does it mean for existing projects, S/4HANA migrations, cloud migrations and so on? Is it necessary to rethink all the projects? Is there a big shift in the technology and architectures?" The DSAG chair said the biggest challenge in connecting legacy on-prem systems, such as ECC, to the new Joule suite is the commercial model. "Access requires a substantial RISE commitment and a minimum cloud-to-on-premise maintenance ratio. In practice, this creates a problem for customers with only one ECC system. To meet the cloud threshold, they have to convert their entire on-premises maintenance into a cloud subscription, which defeats the purpose of an on-premises connector. Consequently, the model only works for large enterprises with multiple SAP ERP systems that can, for example, migrate one system after the other to unlock AI for the rest," he said. "In the end, to get the benefit you have to start a RISE with SAP migration. Therefore, the connector doesn't make sense for the majority of SME customers. From my perspective, this approach works only for large customers with multiple ERP systems, for example, if they take one system, move it to the cloud, and then another one. Then they can use AI, because they reach the needed ratio to use the on-prem connector. That is more or less a commercial approach. We need a solution for all customers, inde</description>
 <enclosure url="https://image.theregister.com/?imageId=5290292&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5290292&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan</title>
+<link>https://www.theguardian.com/global-development/2026/nov/18/dangerous-intimate-images-algorithms-selfie-platforms</link>
+<guid isPermaLink="false">6a0ee2f18ef17421353dc195e476455fd6cec18bbd861053292c727475446abf</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 10:00:47 +0000</pubDate>
+<description>Tech companies urged to adapt moderation of photos online that can trigger violence against women in some countries It was just a photo of a smiling girl in jeans and a vest top, the kind of outfit any young woman might wear in any country. But for Maniza*, a teenager from a conservative town in Pakistan who never leaves the house without her hijab, the selfie she took at home put her at very real risk of an “honour” killing. “My family are really strict and I always wore a hijab. My father didn’t want me to stay in school but my mum pushed him. He said if I got into trouble, he would kill me. It wasn’t just words, he meant it,” she says. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ceaabe2595faa970113beac9b7ef9a7c2ce48c36/276_0_2346_1877/master/2346.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af3b95e13efc15d9e776981283a112c6" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ceaabe2595faa970113beac9b7ef9a7c2ce48c36/276_0_2346_1877/master/2346.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af3b95e13efc15d9e776981283a112c6" medium="image"/>
 </item>
 <item>
 <title>Palmer Luckey says his SLAB seastead is 'way cooler' than a floating data center</title>
@@ -862,17 +950,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/DSC01222.jpeg" medium="image"/>
 </item>
 <item>
-<title>iCloud and other Apple services are down in an apparent outage</title>
-<link>https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage</link>
-<guid isPermaLink="false">c2bb8cafb3025bb67df02da65280764b6b70e8b5abb7bd4b4d4f3ddd90cb227d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 18:15:04 +0000</pubDate>
-<description>The full extent of the disruption isn't known yet.</description>
-<enclosure url="https://www.engadget.com/img/gallery/icloud-and-other-apple-services-are-down-in-an-apparent-outage/l-intro-1794944187.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/icloud-and-other-apple-services-are-down-in-an-apparent-outage/l-intro-1794944187.jpg" medium="image"/>
-</item>
-<item>
 <title>OpenAI sued by California after admitting to 80 loss-of-control incidents</title>
 <link>https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents</link>
 <guid isPermaLink="false">4d0f644bf7bc31ef1d71609b697af7ae27d2ceec92fd6172d515e7c0b900968d</guid>
@@ -1291,17 +1368,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Three small failures combined to take down Microsoft 365</title>
-<link>https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage</link>
-<guid isPermaLink="false">ab5f095ac549a2fd65534f12690a96a7bc6cea1c74b81c96dce9926af806f17d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 21:56:39 +0000</pubDate>
-<description>A hidden defect in Microsoft's cloud gateway, dormant since July, was to blame for one of the largest outages in the company's history last week. A preliminary Post-Incident Report (PIR) released by the company outlines how the latent bug, changes in traffic, and reduced server capacity combined to knock much of Microsoft 365 and Exchange infrastructure offline at the end of last week. Microsoft's report lists the incident's final status as "a technical issue not related to cyber or AI/agents." Microsoft's preliminary report places the outage between November 12 at 16:20 UTC and November 13 at 16:10 UTC, just under 24 hours total, and additional monitoring remained in place for any affected systems through November 14. The outage started on November 12 and quickly rippled through businesses and public offices that depend on Microsoft's cloud and email exchange infrastructure. The outage is covered in Microsoft's incident IDs EX1550543 and MO1550821. You need Microsoft 365 admin credentials to see the full report on the company's status pages, but Office Watch has reproduced the preliminary report , and the University of Pennsylvania maintains an archive of Microsoft's service-health updates . Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage-500x500.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage-500x500.jpg" medium="image"/>
-</item>
-<item>
 <title>Infoblox customer and staff data exposed in Sharepoint breach</title>
 <link>https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280</link>
 <guid isPermaLink="false">b5232649f78e98009754bf2ca8a907fb4cb0529a9a470e2a2a36ceeb5a440b29</guid>
@@ -1322,17 +1388,6 @@
 <description>Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacity Microsoft has identified the root causes of the global outage that crippled Outlook, Exchange and a host of other vital office software last week. The office software giant issued an initial report on Monday that identified three factors that led to the 24-hour blackout of its services: a months-old bug, malfunctioning internal connections, and server capacity. Each of these factors may have easily been resolved on their own, but, when taken together, they led to a major outage that was harder to mitigate, Microsoft executives said. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/333_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85c03cafd02e7db5d40f8a7b88a0e0a4" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/333_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85c03cafd02e7db5d40f8a7b88a0e0a4" medium="image"/>
-</item>
-<item>
-<title>Hyperscale data centers use 2% of US electricity</title>
-<link>https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity</link>
-<guid isPermaLink="false">d12392adea6070f4ea407d5df67501fa4a4b63e3aa529fa08777780ade889a68</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 20:52:10 +0000</pubDate>
-<description>One flashpoint for the tech industry’s all-in push on large language models has been the sudden rush to turn investment money into hyperscale data centers. The rush hasn’t allowed anyone to plan how to supply the required electricity cleanly or with minimal impact on ratepayers. Instead, it has been difficult to even collect information on what’s being built. A new study has tallied energy use and estimated emissions for hyperscalers operating in the United States between May 2024 and April 2025. They weren’t able to differentiate between AI compute and more traditional data services, but it provides a clear point of reference to track moving forward. Finding the centers The team started with a list of 675 facilities from a commercial database based on news reports, company statements, and satellite imagery. They dropped any that didn’t have a reported electrical capacity or that they couldn’t verify was a suitably large building with the expected cooling and electrical connection equipment. That reduced the list to 403 data centers with an average electrical capacity of about 40 megawatts. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Ministers to end Palantir’s contract with NHS in England in 2029</title>
@@ -1412,28 +1467,6 @@
 <media:content url="https://image.theregister.com/?imageId=5228156&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making</title>
-<link>https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144</link>
-<guid isPermaLink="false">1b9af830c0e43c673cdf35f318a16a07a7f1ef5703916853c4491c42a5c7cea9</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 18:28:00 +0000</pubDate>
-<description>The researcher who sounded the alarm over Dirty Frag earlier this year has uncovered another Linux kernel flaw, and this one lets attackers crash entire servers remotely without so much as a password. The vulnerability, tracked as CVE-2026-99288 and dubbed NoisyTCP, was discovered by security researcher Hyunwoo Kim , who says it affects almost all Linux distributions. The flaw dates back to October 2015 and went unnoticed until this year, when Kim found and patched it. Attackers don't need to log in or get their hands on any credentials to cause trouble. They can simply knock the server over, although there's no evidence yet that the flaw can be used to steal data or hijack a machine. The bug is buried in Linux's TCP networking code. Two parts of the kernel can trip over each other while processing incoming traffic, leaving one trying to use memory that's already been freed. When that happens, Linux can panic and take the whole machine down with it. Kim says there's no need for any special server configuration either. Services such as Nginx, Apache, and SSH can be vulnerable straight out of the box. An attacker needs access to an open TCP port on a system that processes incoming network traffic across multiple receive queues or CPUs. Perhaps more concerning for administrators running containerized workloads, the damage isn't necessarily limited to the application being attacked. Because the flaw sits in the Linux kernel, crashing a web server inside a container can take down the underlying host and anything else running on it. Kim found that the attack was particularly effective against virtual machines. During testing, he managed to crash Nginx, Apache, and SSH servers running on QEMU/KVM virtual machines in between five seconds and two minutes. Physical hardware put up more of a fight. Even after tailoring his exploit to the target machine, Kim needed roughly 14 hours to crash a bare-metal server running Nginx. Kim has a knack for finding holes in Linux. Back in May, he uncovered Dirty Frag , a kernel bug that allowed local users to gain root privileges. That one caused headaches for administrators when a working exploit went public before patches were ready. His latest discovery, NoisyTCP, has another potentially nasty trick up its sleeve. Kim identified a second exploitation path involving a use-after-free condition, although pulling it off is considerably more difficult than simply crashing a server. In his advisory, Kim says he has developed a limited exploit targeting virtual machines in a lab environment but has yet to demonstrate a general-purpose remote code execution attack. For the moment, the confirmed impact is remote denial of service. A fix was committed to the upstream Linux kernel on November 3, but administrators will need to check whether their distribution has shipped an updated kernel. Red Hat has rated the vulnerability Important , assigning it a CVSS score of 7.5. For those unable to patch immediately, Kim suggests two tem</description>
-<enclosure url="https://image.theregister.com/?imageId=5310154&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310154&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Ubuntu gets AI-generated security fixes for those feeling brave</title>
-<link>https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139</link>
-<guid isPermaLink="false">e582aa48fb7c45e17d716900a64db0e66f980600d8d1ed50df9c94a9f1434db3</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 18:01:00 +0000</pubDate>
-<description>Canonical is offering Ubuntu Pro users an opt-in channel for AI-generated security patches, deploying bots to help tackle the growing pile of vulnerabilities other bots are uncovering. Canonical's VP for "Excellence Engineering," Pierre Guillemin, gave the second keynote at the recent Ubuntu Summit, introducing the Edge archive , an optional repository of security fixes generated by the company's Surge framework. As the announcement describes it: "We built Surge, a multi-agent orchestration framework for CVE remediation and backporting, and have reached a high level of confidence in its capabilities. We will not automatically upload Surge-generated fixes to our stable releases, but from today they are available to Ubuntu Pro users in the new Edge archive." Edge offers patches before extended testing and qualification are complete, allowing users to assess them themselves. Canonical says updates delivered through the normal security channels will remain human-validated. Ubuntu Summit now runs twice a year. Last week's Ubuntu Summit 26.10 followed a rather unfortunately timed server outage for the company . At the previous such event in June , the company announced a move into agentic AI, but this new one is bolder still. Guillemin noted that "October 2026 saw almost as many CVEs as all of 2025." Surge is a "multi-agent orchestration framework" to remediate vulnerabilities in Ubuntu's userspace. In other words, not the kernel, but even so, it is ambitious. The idea is to use a group of different LLMs to triage new vulnerabilities, find existing fixes, use multiple competing models to backport them to the versions in Ubuntu, and run automatic testing on them. Then a different group of "judging models" will evaluate the fixes and look for consensus. When candidates are chosen, they pass through normal Ubuntu package testing. If there are edge cases, low confidence scores, deadlocks, or other problems, then the process will be escalated to the staff of Canonical's security team. It's an attempt, as Guillemin put it, "to use AI to fight AI" – cooperating groups of LLMs patching their way through the ever-increasing flow of security holes. Even so, this is a remarkably courageous tactic (at the risk of using a famous British euphemism ). It's an opt-in feature of Ubuntu Pro, Canonical's security and support subscription – although as we reported in 2022 , Pro also has a free tier, so security researchers and the community can try Edge out, study it, and report their findings. We do sympathize with companies struggling against a rising tide of bot-powered security hole discovery. In theory, corporate funding can pay for faster fixes than a volunteer community can offer, but even for commercial vendors these are testing times. As we reported when Debian turned 30 , surveys suggest that Ubuntu is about a third of the world Linux user base. Some of those users will be intrepid enough to try this, and that will end up being informative for the whole FOSS wor</description>
-<enclosure url="https://image.theregister.com/?imageId=5244798&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5244798&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Your Samsung phone could soon get a personal AI agent – what we know about Galaxy Claw</title>
 <link>https://www.zdnet.com/innovation/samsung-galaxy-claw-ai-cross-app-upgrade</link>
 <guid isPermaLink="false">c64348d8dd3026641cfa2cced7cd4c2ff797a3960f2dd52a836024d27744deee</guid>
@@ -1489,28 +1522,6 @@
 <media:content url="https://i.guim.co.uk/img/media/7ca1181a4138e0412b2c6313ada9da4dd8a1edde/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2c0471aaec001c7a436e727b7ccb56c" medium="image"/>
 </item>
 <item>
-<title>‘Prove you are not a robot’: how the Captcha scam captures your computer</title>
-<link>https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software</link>
-<guid isPermaLink="false">27b9e2e4ae9a6095e4e74c2d078ab8c18b6e6188fc848deba442c229c84c3804</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 07:00:06 +0000</pubDate>
-<description>Unlike familiar Captcha tests, this con asks you to press a series of keys. And that’s a way in for fraudsters to install malicious software You are looking for some gifts for Christmas and want to support small businesses when you shop. When you visit the site of one you’ve heard good things about you are asked to verify that you are human. Instead of clicking on a series of images, or typing letters that appear, just as you have seen before, you are asked to press a series of keys and then press enter. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3489e0eb257b661fe4ffa6be810fee7" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3489e0eb257b661fe4ffa6be810fee7" medium="image"/>
-</item>
-<item>
-<title>‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick</title>
-<link>https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare</link>
-<guid isPermaLink="false">eb93c7394ac0d7c21028be7ef7ca4ab1c19ca20167856a4e99076833f6ce422a</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 06:00:06 +0000</pubDate>
-<description>Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, the saga may also become a milestone in the decades-long history of spies infiltrating the US tech industry. Huang admitted to being unfaithful to his wife of 41 years in a letter to employees this past weekend, following a report from the New York Times that the tech mogul had a close relationship with a woman US officials suspect of spying for China’s government. Huang resigned on Thursday after 33 years as CEO amid reports of two additional affairs with Nvidia employees, causing the world’s most valuable chip company’s stock to plummet. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de89b49e846011d0ae2daf5bbb4faa0f" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de89b49e846011d0ae2daf5bbb4faa0f" medium="image"/>
-</item>
-<item>
 <title>‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story</title>
 <link>https://www.zdnet.com/innovation/ai-bug-reports-linux-windows</link>
 <guid isPermaLink="false">0d5e3b580844072a742cab9d66b50527707c5d1361beca85b80dfceee4e417a4</guid>
@@ -1544,17 +1555,6 @@
 <media:content url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/125_0_4666_3734/master/4666.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37c8cf3c696dd03224405955df058682" medium="image"/>
 </item>
 <item>
-<title>Roku drops smart home products to focus on streaming – what that means for your devices</title>
-<link>https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products</link>
-<guid isPermaLink="false">ebe1254542c574c0e7a70132790d80e9feb4ba7d87718fee387c20344564b855</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 18:43:08 +0000</pubDate>
-<description>Roku is winding down its smart home business following its sale to Fox. Here’s what to know.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/369c550c-7117-4c04-ab58-a4627d676ce5.jpg" medium="image"/>
-</item>
-<item>
 <title>I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours</title>
 <link>https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control</link>
 <guid isPermaLink="false">662da08fdc08a01220bfd61b800632729f4ed607740b23eaaff32d3012734b76</guid>
@@ -1575,17 +1575,6 @@
 <description>CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips, called graphics processing units (GPUs), that underpin the AI economy. Without these, AI models such as ChatGPT and Claude could not be trained and would not run. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=287e74f5fd07843dfba6df498562a1ca" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=287e74f5fd07843dfba6df498562a1ca" medium="image"/>
-</item>
-<item>
-<title>Google Wallet just turned your Android phone into a digital house key – how it works</title>
-<link>https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks</link>
-<guid isPermaLink="false">6d2d05e369b514eebc6b54c007fb6ca94aa5c0730d9142256956d118ca1198bb</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 17:50:24 +0000</pubDate>
-<description>Google is moving digital keys out of individual smart lock apps and into the Google Wallet.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/ba7f9237-41e5-4240-a693-edb9be296376.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ba7f9237-41e5-4240-a693-edb9be296376.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen</title>

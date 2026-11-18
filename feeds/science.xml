@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How Much Do You Know About NASA’s Voyager Mission? Take Our Quiz.</title>
+<link>https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html</link>
+<guid isPermaLink="false">4fb79b6f8542d77248760189f7fafa018297ac81d9459500e0e2cef671dd200c</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Wed, 18 Nov 2026 18:51:39 +0000</pubDate>
+<description>Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA Announces Mid-Power Electric Rocket Challenge for US Companies</title>
+<link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies</link>
+<guid isPermaLink="false">ab277d730263b66d7fab351886deae78286dbb2fa2a233d1f6b10e87c43e0d2c</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Wed, 18 Nov 2026 18:12:32 +0000</pubDate>
+<description>2 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) The Hall thruster is part of an Solar Electric Propulsion (SEP) system that uses 10 times less propellant than equivalent chemical rockets. Image Credit: NASA/Michelle M. Murphy (Wyle Information Systems, LLC) NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep space robotic vehicles, Hall effect thruster systems are critical for space operations and exploration. NASA’s Advanced Mid-Power Electric Rocket (AMPERE) Challenge is offering $500,000, split between two winning U.S. companies, to accelerate the maturation of mid-power systems that could be foundational to supporting future NASA and commercial missions. Interested parties can learn more at an AMPERE Virtual Industry Day hosted by NASA on Thursday, Nov. 19. “This challenge approach seeks to remove key barriers and facilitate commercialization by providing access to NASA subject matter expertise, state-of-the-art technologies, and world-class facilities at no cost to challenge winners,” said Dr. Jason Frieman, AMPERE project co-owner at NASA’s Glenn Research Center in Cleveland. “We hope participants will see this as an opportunity to demonstrate their capabilities to NASA and other government and commercial stakeholders.” The competition is the first of NASA’s Tech Maturation Prize series, which seeks to accelerate development of breakthrough technologies in support of NASA missions while strengthening the U.S. space economy. The competition includes three phases. In Phase 1, each participating team will submit a concept design, manufacturing plan, and cost and performance projections. NASA may select two winners to advance to Phase 2, where teams will develop prototypes and collaborate with NASA personnel. Through no-cost licensing, these teams can gain early access to NASA-developed Hall effect thruster technologies that use krypton as a propellant. In Phase 3, prototypes will be tested at NASA Glenn at no cost to the participating teams. In total, two winning teams may be selected to receive up to $250,000 each. The AMPERE Challenge is open for registration until Jan. 27, 2027, at 5 p.m. EST. The challenge supports the Advanced Mid-Power Electric Rocket project, managed by NASA Glenn and NASA’s Jet Propulsion Laboratory in Southern California. The project is funded by the agency’s Research and Technology Mission Directorate . Yet2 administers the challenge through a contract with the NASA Center of Excellence for Collaborative Innovation within the Research and Technology Mission Directorate. For complete competition details, eligibility requirements, and official rules, visit: a</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1041" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1041" medium="image"/>
+</item>
+<item>
+<title>An Unspoken Rule Spreads Through Biotech: Share Nothing</title>
+<link>https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html</link>
+<guid isPermaLink="false">8a9650bc16c44c73c362f49f45d114bb1274c1857d1c8c1275a473821e83cda7</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Wed, 18 Nov 2026 18:06:58 +0000</pubDate>
+<description>Fears that Chinese companies will seize on biotech discoveries in the U.S. and quickly beat them to market with their own inventions or slightly altered dupes have prompted American companies to keep their discoveries secret.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>The real reasons we keep seeing big tech outages – it isn’t just hackers</title>
 <link>https://www.newscientist.com/article/2599523-the-real-reasons-we-keep-seeing-big-tech-outages-its-not-just-hackers</link>
 <guid isPermaLink="false">ade94b595699a90d6132312fda8a9a6d842567cb033ad00c8fb5f6fe995c0312</guid>
@@ -76,9 +109,9 @@
 <source>New Scientist</source>
 <category>science</category>
 <pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
-<description></description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png" type="image/png"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png" medium="image"/>
+<description>Last Word is New Scientist's long-running series in which readers give scientific answers to each other's questions</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320870863.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320870863.jpg" medium="image"/>
 </item>
 <item>
 <title>Are these the most spectacular and intriguing beetles in the world?</title>
@@ -103,17 +136,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/pDQTFKmA9sjianZWKjMwMe-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>Empire State Building Goes Gold for Voyager</title>
-<link>https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager</link>
-<guid isPermaLink="false">52151548bbbfb76999efdc546ab37cfed768dffe5afda350964f965b55c7b590</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 17:50:26 +0000</pubDate>
-<description>NASA/Bill Ingalls The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains sounds and images selected to portray the diversity of life and culture on Earth. Image credit: NASA/Bill Ingalls</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg?w=2048" medium="image"/>
-</item>
-<item>
 <title>‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks</title>
 <link>https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html</link>
 <guid isPermaLink="false">30f4f852256d53706de6e80c29d82840f4b97c5483427c36b76d9f0e8def25a4</guid>
@@ -132,8 +154,8 @@
 <category>science</category>
 <pubDate>Wed, 18 Nov 2026 17:36:03 +0000</pubDate>
 <description>7 Min Read What Is the Moon Base? This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost . It will be a place where astronauts live, work, and explore. Artist’s concept depicting astronauts, habitats, rovers, power systems, and cargo operations supporting sustained human activities at the Moon Base near the lunar South Pole. NASA ______________________________________________________________________ Words to Know outpost: a station or base located in a remote, distant place infrastructure: the basic framework and systems that make up a larger building or organization terrain: the physical features, shape, and layout of the surface of a piece of land, including its slope and elevation regolith : the layer of loose, fragmented rock and mineral dust covering most of the lunar surface ______________________________________________________________________ Where Will the Moon Base Be Built? The Moon Base will be built in the lunar South Pole region. This area was selected for its unique lighting conditions and potential for scientific discovery. Near the lunar South Pole, the Sun stays low on the horizon. Some areas can receive extended periods of sunlight. Other areas stay in shadows for long periods of time. In some craters, sunlight may never reach the surface at all. Areas that receive extended sunlight could be good for generating solar power. Longer sunlight hours are also good for navigating and exploring. Areas that remain in shadows are some of the coldest areas on the Moon. In these locations, scientists hope to find deposits of frozen water ice. When Will the Moon Base Be Constructed? The Moon Base will be constructed in three phases. Each phase will build on what is learned along the way. Phase One is taking place right now. Over the next few years, NASA and its partners will send robotic missions to explore the lunar South Pole region. They will test new technologies and practice landing on the Moon. This phase will include multiple different landers and lunar terrain vehicles. These missions will conduct science experiments and look for the best locations for building the Moon Base. Phase Two is planned for 2029-2032. During this period, NASA will begin setting up long-term infrastructure . This includes things like power systems, cargo transportation, and communications hardware. These components will be set up across multiple locations. This will allow for future expansion of the Moon Base. During Phase Three, NASA will begin assembling a permanent lunar outpost. This is where astronauts will be able to live and work for extended periods. Habitats, power and communication systems, and transportation will all come together to grow Moon Base. An artist’s concept design of a lunar terrain vehicle. NASA What Are the Different Components of the Moon Base? Crewed and robotic lunar rovers will play an important role i</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1536" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1536" medium="image"/>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png?w=2048" type="image/png"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png?w=2048" medium="image"/>
 </item>
 <item>
 <title>Thank You for Doing NASA Science!</title>
@@ -178,17 +200,6 @@
 <description>Dr. Gary Michelson, with his wife, Alya Michelson, at the construction site of the U.C.L.A. Research Park, which will house the California Institute for Immunology and Immunotherapy he co-founded, in 2024.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/17/science/17SCI-PROP-38-FINE-PRINT/17SCI-PROP-38-FINE-PRINT-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/17/science/17SCI-PROP-38-FINE-PRINT/17SCI-PROP-38-FINE-PRINT-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>How Much Do You Know About NASA’s Voyager Mission?</title>
-<link>https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html</link>
-<guid isPermaLink="false">4fb79b6f8542d77248760189f7fafa018297ac81d9459500e0e2cef671dd200c</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 16:38:39 +0000</pubDate>
-<description>Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>'Project Hail Mary' is heading back to theaters this December</title>
@@ -411,17 +422,6 @@
 <media:content url="https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg?w=1920&amp;h=1349&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
-<title>New Album of Baby Star Sounds Shared by NASA’s Chandra</title>
-<link>https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra</link>
-<guid isPermaLink="false">ab8a1fe910dea6f4759efd87753c6e51f0492fe650fdd221c1342facf7d3587d</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 20:26:17 +0000</pubDate>
-<description>4 Min Read New Album of Baby Star Sounds Shared by NASA’s Chandra A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes. By studying places in the universe where stars are currently being born and young stars are present, astronomers can better understand the lifecycle of all stars, including our own Sun. NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida M82 The galaxy Messier 82 (M82) is called a starburst galaxy because stars are forming there at a rate tens or even hundreds of times higher than in our Milky Way galaxy. This stellar birth boom may be due to a collision with another galaxy in the past. Today, Chandra sees giant plumes of hot gas that are the byproduct of young, giant stars that quickly explode and other star formation activity. One of the new sonifications combines Chandra’s data with optical data from NASA’s Hubble Space Telescope, as well as infrared views from NASA’s James Webb and retired Spitzer space telescopes. The sonification of the three types of light begins with a radar-like scan that is louder where sources are brighter. The X-ray data is mapped to the highest range of frequencies heard. Infrared data is heard as a low drone plus plucked sounds, while the optical data turns into a range of musical pitches and textures. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video X-ray: NASA/CXC/SAO; Optical: NASA/ESA/STScI; Infrared: NASA/JPL-Caltech; Image Processing: NASA/CXC/SAO/L. Frattare, J. Major, and K. Arcand; Sonification: NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida) Orion Nebula One of the closest and busiest star formation regions to Earth is the Orion Nebula (visible just below the belt in the Orion constellation with a small telescope and dark skies). Chandra sees more than a thousand stars in this area that are very energetic and active in their infancy. In the sonified version of the Chandra data, these stars are twinkling sounds, while the diffuse X-ray emission is mapped to pure high tones. An infrared image from NASA’s James Webb Space Telescope reveals the raw material of dust and gas used to build these new stars, and its data is heard as lower musical tones, distorted string instruments, and a digital harp. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video X-ray: NASA/CXC/SAO; Infrared: NASA/ESA/CSA/STScI/M. Mccaughrean, S. Pearson; Image Processing: NASA/CXC/SAO/K. Arcand and J. Major; Sonification: NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida) Carina Nebula A portion of the Carina Nebula, another star formation region, is nicknamed the “Cosmic Cliffs” because of its spectacular structure seen in infrared by NASA’s Webb. Chandra also</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg?w=1198&amp;h=1280&amp;fit=clip" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg?w=1198&amp;h=1280&amp;fit=clip" medium="image"/>
-</item>
-<item>
 <title>'Neuromancer:' Release date, cast &amp; everything we know about Apple TV's new cyberpunk series</title>
 <link>https://www.space.com/entertainment/space-movies-shows/neuromancer-release-date-cast-and-everything-we-know-about-apple-tvs-new-cyberpunk-series</link>
 <guid isPermaLink="false">0e1cbf8acd725ea2fa649307681d7092998d2713f94622e082e823398538f60e</guid>
@@ -510,17 +510,6 @@
 <media:content url="https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
-<title>Space Selfie</title>
-<link>https://www.nasa.gov/image-detail/iss075e0253155</link>
-<guid isPermaLink="false">9d95b245961adc41ab597c4aaf226d9ab433a21af9d2062639bb4e9d2828bc14</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 16:52:00 +0000</pubDate>
-<description>NASA astronaut and Expedition 75 flight engineer Anil Menon takes an out-of-this-world “space selfie.”</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg" medium="image"/>
-</item>
-<item>
 <title>ISS astronauts 3D print human cells and tissues | Space photo of the day for Nov. 17, 2026</title>
 <link>https://www.space.com/space-exploration/international-space-station/iss-astronauts-3d-print-human-cells-and-tissues-space-photo-of-the-day-for-nov-17-2026</link>
 <guid isPermaLink="false">4231961943a851481ddf3a5bd2631b740f1d56096bbe8a007bb4ba6b65c0bb91</guid>
@@ -552,17 +541,6 @@
 <description>null Reflect Orbital is moving forward with its plan to place mirrors in Earth orbit to produce and sell sunlight after dark. The goal is to extend the hours and output of solar farms globally, "making clean power dispatchable and available when you need it," the California-based startup explains on its website . Reflect Orbital has made significant progress to date. On Tuesday (Nov. 10), for example, the company announced it had secured $73.5 million in new funding, boosting its total raise to more than $100 million. It has also gotten a formal go-ahead from the U.S. government to try out the concept in space and is currently readying its first test satellite , which is expected to launch in the second quarter of 2027. The identity of the launch provider is being kept under wraps at this time, the firm told Space.com . The Topaz Solar Farm in California as seen from space. Reflect Orbital's planned space-mirror constellation could make such arrays more productive, according to the company. (Image credit: NASA Earth Observatory image by Jesse Allen, using Landsat data from the U.S. Geological Survey) Ground-based test Reflect Orbital recently conducted a ground-based test in California, lighting up a mountainous area to practice search and rescue (SAR) techniques. On Oct. 10, the space startup set up spotlights near Lone Pine, California to simulate the illumination its proposed satellites could provide — controlled lighting without the need for any ground infrastructure. "This lighting will support a variety of customers, from remote search-and-rescue operations to solar farms generating clean power," the company explained in an Oct. 14 statement . The October illumination test ran from 7 p.m. to midnight and involved members of the China Lake Mountain Rescue Group (CLMRG), who practiced with night-time equipment. CLMRG is an all-volunteer activity, operating under the auspices of the Kern County Sheriff's Office providing SAR services on an on-call basis at no cost. Mobile lighting gear was used in a California test to simulate the spot of light that Reflect Orbital satellites are expected to deliver. (Image credit: Reflect Orbital) Nighttime demonstration "Together with local search-and-rescue and disaster response groups, we carried out a fully permitted nighttime demonstration of our responsive lighting service," a Reflect Orbital spokesperson told Space.com in response to an inquiry about the exercise. "Search-and-rescue and disaster response teams are expected to be our first customers, so this was a real-world test conducted alongside teams who will use our technology." Mobile lighting gear was mounted on Horseshoe Meadows Road to provide a spot of light similar to the ones that Reflect Orbital satellites are expected to deliver. "The aim was to create a precise, realistic simulation of our service, so emergency responders could see how it will perform in real scenarios," Reflect Orbital said. The brightness of the spot was roughly 0.7 lu</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/MRhdMG3q8bz95bR77qWjCh-1920-80.webp" type="image/webp"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/MRhdMG3q8bz95bR77qWjCh-1920-80.webp" medium="image"/>
-</item>
-<item>
-<title>Fearing Chinese Rivals, U.S. Biotech Adopts a New Norm: Share Nothing</title>
-<link>https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html</link>
-<guid isPermaLink="false">8a9650bc16c44c73c362f49f45d114bb1274c1857d1c8c1275a473821e83cda7</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 11:57:52 +0000</pubDate>
-<description>Fears that Chinese companies will seize on biotech discoveries in the U.S. and quickly beat them to market with their own inventions or slightly altered dupes have prompted American companies to keep their discoveries secret.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>Satellites now outnumber the visible stars above most towns</title>
@@ -1192,17 +1170,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg" medium="image"/>
 </item>
 <item>
-<title>Astronaut and Earth</title>
-<link>https://www.nasa.gov/image-detail/iss075e0253663</link>
-<guid isPermaLink="false">c70a42f810f4215f1a0926ddb5ebabe98002153767b51deb9e952ed05c095161</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 16:38:00 +0000</pubDate>
-<description>CSA (Canadian Space Agency) astronaut and Expedition 75 flight engineer Joshua Kutryk is pictured during a spacewalk with his spacesuit's helmet visor down to install a new roll-out solar array on the International Space Station's port side truss structure.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg" medium="image"/>
-</item>
-<item>
 <title>NASA's CHAPEA Crew "Returns" to Earth</title>
 <link>https://www.nasa.gov/image-detail/chapea-mission-2-crew-poses-outdoors-after-exiting-habitat</link>
 <guid isPermaLink="false">42d5b470a57d74bb57c782db30c834a3a1f974e8a3cb0316c15916ee1372c66b</guid>
@@ -1223,17 +1190,6 @@
 <description>A sinuous spiral galaxy (center) appears in the same field of view as a vivid gravitational lens (right corner) in this Hubble image.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Neo Surveyor Sunshade</title>
-<link>https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2</link>
-<guid isPermaLink="false">cf751a4f21cc8f2a408e578da6f3d5566eeb5f311096e7331341b290ffeebddd</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 18:02:00 +0000</pubDate>
-<description>The large sunshade of NASA’s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space &amp; Mission Systems in Boulder, Colorado, in late July.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" medium="image"/>
 </item>
 <item>
 <title>NASA's X-59 Aircraft and Test Pilot</title>
@@ -1267,17 +1223,6 @@
 <description>NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module's Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Martian Dawn</title>
-<link>https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2</link>
-<guid isPermaLink="false">a6a14a28737ed87a3ef14e8e321b7b22b3c69cc19fd97312aab882cf347f0342</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 19 Oct 2026 16:05:00 +0000</pubDate>
-<description>The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" type="image/webp"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" medium="image"/>
 </item>
 <item>
 <title>Artemis II Heat Shield After Splashdown</title>
@@ -1335,17 +1280,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
 </item>
 <item>
-<title>Astronomers Solve Cosmic Cold Case with NASA Hubble Data</title>
-<link>https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9</link>
-<guid isPermaLink="false">e7acee45febf783e11665c7d291d8b2a40f8aba5f5607b9b460e19e507ca7a75</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 06 Oct 2026 16:17:00 +0000</pubDate>
-<description>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" medium="image"/>
-</item>
-<item>
 <title>NASA Astronaut Christina Koch at Eagles vs. Rams</title>
 <link>https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field</link>
 <guid isPermaLink="false">578734c1fe8df2e9efa4b83a532b1ddf9a63a7e7b36defe815c606d85de22c40</guid>
@@ -1355,17 +1289,6 @@
 <description>NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA’s SpaceX Crew-13 Launches</title>
-<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3</link>
-<guid isPermaLink="false">07f5c690e45e94633737ffc40a00e6a269a635b19c6024bf14b670f62bc26804</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 01 Oct 2026 18:07:00 +0000</pubDate>
-<description>A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" medium="image"/>
 </item>
 <item>
 <title>Star Trails</title>
@@ -1390,17 +1313,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" medium="image"/>
 </item>
 <item>
-<title>NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova</title>
-<link>https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207</link>
-<guid isPermaLink="false">26ec5e4da7e213b5df4096c233fdfa86e32cf848c1db76707ae23292412979a7</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 23 Sep 2026 18:45:00 +0000</pubDate>
-<description>An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" medium="image"/>
-</item>
-<item>
 <title>COSI Telescope Comes Together</title>
 <link>https://www.nasa.gov/image-detail/cosi-2026july-01</link>
 <guid isPermaLink="false">39bb98da64415a1cb91f491c728ba0e6148bff3c25fb06bce87abe66040713a5</guid>
@@ -1421,17 +1333,6 @@
 <description>NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Chandra Spots Galactic Gem</title>
-<link>https://www.nasa.gov/image-detail/galaxies-iizw096</link>
-<guid isPermaLink="false">6a1d948744d290016a0617c18261d449a216e52c846e957efd5a8ea82c6a5c5e</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 11 Sep 2026 17:22:00 +0000</pubDate>
-<description>Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" medium="image"/>
 </item>
 <item>
 <title>Superbubble in the Large Magellanic Cloud</title>
@@ -1509,16 +1410,5 @@
 <description>President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Astronauts Anil Menon and Sophie Adenot on Spacewalk</title>
-<link>https://www.nasa.gov/image-detail/gmt230_ehdc1-2</link>
-<guid isPermaLink="false">cb37876c1de0f8b8a2938843104fc756be99199e420ad39c37d3cd812a56a61c</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 25 Aug 2026 14:58:00 +0000</pubDate>
-<description>From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" medium="image"/>
 </item>
 </channel></rss>

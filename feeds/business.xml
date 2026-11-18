@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Binance Says It Won Court Order to Recover Frozen Hack Funds</title>
+<link>https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen</link>
+<guid isPermaLink="false">c587690f9193a83adbace1efd0c1afd98fac007dd3a8e2cb23758de19d602f5c</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 18 Nov 2026 18:47:30 +0000</pubDate>
+<description>Bitcoin Magazine Binance Says It Won Court Order to Recover Frozen Hack Funds Binance says it has secured a court order from Abu Dhabi Global Market to help it recover crypto frozen after the record $6.3 billion hack last month, Reuters reported on Wednesday. The exchange has not said how much of the money the order covers. Reuters described Abu Dhabi Global Market (ADGM) as Binance’s main financial regulator. Binance deputy general counsel Dugan Bliss confirmed the order in a statement but gave no details on its terms. Neither the company nor Reuters said which assets it applies to. “We will continue using every lawful tool available to trace, freeze and recover stolen assets, support our partners in returning funds where possible, and keep those assets out of the hands of the attackers,” Bliss said. What is frozen Binance has said about $2.85 billion of the stolen tokens were frozen or intercepted after the Oct. 29 attack, according to its own incident report . That is roughly 45% of the $6.34 billion it says was affected. Most of it sits with stablecoin issuers. Tether said it froze more than $1.5 billion in USDT within 30 minutes of the attack, and Circle said it froze about $1.1 billion in USDC in coordination with law enforcement. Circle added that it does not decide who owns frozen assets, a question it left to law enforcement and the courts. The Justice Department has separately obtained court authority to seize or restrain more than $1.2 billion of the stolen crypto. It is part of more than $2.7 billion that Justice says government and private-sector efforts have frozen. Criminal Division head A. Tysen Duva said the department helped “immediately halt about half of this historic breach.” Reuters did not say how the ADGM order fits with the U.S. action. How the hack unfolded Binance says the attack began months earlier, with a tampered software installer that compromised one engineer in June. In September, another engineer was approached by a fake recruiter and persuaded to run a bogus interview assignment that installed malware, the company said. From there, the attackers reached an internal wallet-signing service and drained Binance hot wallets across multiple blockchains on Oct. 29. The thefts included 233.46 million XRP, about 970,500 SOL and 18,270 BTC, according to Binance. The FBI has attributed the theft to North Korea’s TraderTraitor group, and Binance has said the same. Pyongyang denies involvement. Blockchain analysts said the attacker tried to outrun the freezes by swapping stablecoins into ether over about 20 minutes, but the issuers moved faster. That split matters for bitcoin. Tether and Circle can block their own tokens, but bitcoin has no issuer. The stolen BTC is not covered by those freezes and can be stopped only if it reaches an exchange or service that blocks it. Binance says it can absorb the loss Binance has already said it replaced the affected assets with company funds, using part of its SAFU emergency fund and i</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom</title>
+<link>https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom</link>
+<guid isPermaLink="false">7344c491d91fb69bb58367f6d8c4fb6d55109e783b3b94c6eed3caa935963aad</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 18 Nov 2026 18:46:03 +0000</pubDate>
+<description>MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>MARA prices $185M debt offering after $1.1B Bitcoin sale</title>
+<link>https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales</link>
+<guid isPermaLink="false">c76e767209f70a2df20622e623736a8b7f8c1aaf73313a314610eeda1560ecf7</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 18 Nov 2026 18:27:52 +0000</pubDate>
+<description>The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QST21C60SV76QK44V5QB7B/hi-how-to-use-render-network-for-decentralized-gpu-rendering-ai.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QST21C60SV76QK44V5QB7B/hi-how-to-use-render-network-for-decentralized-gpu-rendering-ai.png" medium="image"/>
+</item>
+<item>
+<title>Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks</title>
+<link>https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks</link>
+<guid isPermaLink="false">aa4c8555e43dff429889bcfc01933258ab4587abe91382e79f15dd76f74dac4c</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 18 Nov 2026 18:16:02 +0000</pubDate>
+<description>Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>This 54-Year-Old Left Her Full-Time Therapist Job to Focus on a Flavorful Side Hustle Making $10K a Month on Amazon: ‘I Used ChatGPT’</title>
 <link>https://www.entrepreneur.com/side-hustle/this-54-year-old-left-her-full-time-therapist-job-to-focus-on-a-flavorful-side-hustle-making-10k-a-month-on-amazon-i-used-chatgpt</link>
 <guid isPermaLink="false">a0508ee0605575cc3456b3c580944078763988be45ee3119f961ad7393885ee1</guid>
@@ -532,17 +576,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch</title>
-<link>https://bitcoinmagazine.com/videos/mark-yusko-why-bitcoin-is-falling-58k-is-the-key-level-to-watch</link>
-<guid isPermaLink="false">fc48591ec842df0d3d859fdc3f4df5d41e4e0877eae3a6849262623cecbd0529</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 17 Nov 2026 20:30:34 +0000</pubDate>
-<description>▶ Bitcoin Magazine Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch Mark Yusko says we are in a bad right now. When leverage unwinds, he argues, people cannot sell the stock that just collapsed, so they sell what they can sell: bonds, gold, and . That, in his view, is why and gold have been under pressure, not because his spring read on the cycle has changed. Grab 1 of only 333 The Genesis Book 3rd Anniversary Edition packages now https://store.bitcoinmagazine.com/pages/the-genesis-book-3rd-anniversary Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 The AI Trade Is a Fear Trade 01:41 Open Weight Models and Control of Truth 04:10 Why Jensen Was a Threat to Sam and Dario 06:37 Bitcoin Is Still in Spring 07:20 The 58 Range and a Liquidation Cycle 09:21 13F Filings and Liquidity Raised at Gunpoint 12:29 MSCI’s Strategy Move Doesn’t Hurt Bitcoin 15:52 Money, Markets, and Mayhem 17:05 The Loosest Liquidity Since the Financial Crisis 19:02 Why AI Won’t Deliver the Promised Productivity 21:05 Made-Up Valuations and Peak Bezel 25:12 How Short the AI Buildout Will Fall DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
-<enclosure url="https://img.youtube.com/vi/ScFmMFEZRWY/hqdefault.jpg" type="image/jpeg"/>
-<media:content url="https://img.youtube.com/vi/ScFmMFEZRWY/hqdefault.jpg" medium="image"/>
-</item>
-<item>
 <title>Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins</title>
 <link>https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis</link>
 <guid isPermaLink="false">f239843b7c8edfe1105373f704c730d824a0285c44cbb0ff1eddf59e0009bfe1</guid>
@@ -829,17 +862,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Google says hackers use AI agents to find and exploit software flaws</title>
-<link>https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws</link>
-<guid isPermaLink="false">59f64fc36a3e98238a339f7fa1ddc8269572e02e1956e8aac59ea33df8d5ecae</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 17 Nov 2026 10:05:59 +0000</pubDate>
-<description>Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg" medium="image"/>
-</item>
-<item>
 <title>Nvidia Board Not Considering Jensen Huang's Return: Report</title>
 <link>https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report</link>
 <guid isPermaLink="false">697294da66570fb012252974d72f4a20f8de26d4ca572b5b6d43030e37d16679</guid>
@@ -981,17 +1003,6 @@
 <description>The modest purchase lifted Strategy’s stash to 850,849 BTC as chairman Michael Saylor shrugged off a sharp downturn, posting that “this dip could use a little orange.”</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares</title>
-<link>https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares</link>
-<guid isPermaLink="false">3c5d9533ae570dd340b84b15bbae80f5402e53fe5e641d7f718b86507bbd00ee</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 17:09:28 +0000</pubDate>
-<description>The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/kash-dhanda-jupiter-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/kash-dhanda-jupiter-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>JPMorgan hires up to win smaller M&amp;A business</title>

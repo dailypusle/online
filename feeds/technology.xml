@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Windows Server 2028 trades compatibility for out-of-the-box security</title>
+<link>https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach</link>
+<guid isPermaLink="false">4f1edc13b1de3714f404b1739dc3ee47bf38b3ac961134c197beb97145651cb4</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 20:41:12 +0000</pubDate>
+<description>Microsoft's Ignite announcements this week went beyond the Office-in-Copilot overhaul with the reveal of the Windows Server 2028 Public Preview and its new security-by-default stance and what Microsoft calls Hardened Server Core . Windows Server 2028 will implement a default security framework that Microsoft says is aligned with hardened DoD benchmarks, such as the Defense Information Systems Agency's (DISA) Security Technical Implementation Guide (STIG). STIGs work by providing a standard security framework for system administrators to follow recommended guidance. In the past, Windows Server admins were left to start from a blank canvas and then implement hardening configurations for operations. Secure baselines were available but not the default. Microsoft says that concern is now managed: "The s ecure configuration is the starting state, not a project you run after setup. That closes the window where a newly deployed server sits exposed while it waits to be hardened. " The new Windows Server 2028 hardened-by-default state will only be available for the Server Core installs. Windows Server Desktop Experience installs do not include the changed stance. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Trump’s latest land grab is an AI hub in the Philippines</title>
 <link>https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica</link>
 <guid isPermaLink="false">d023ba6fde32bc2f03d6e165540d9b4bc26c6f6aa6a42857c5f5171c91a5ccdb</guid>
@@ -109,7 +120,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 18 Nov 2026 19:11:50 +0000</pubDate>
-<description>For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S even higher than other RAM-starved competitors . A decent one can easily cost $1,000 if not $2,000 now. But it looks like Lenovo might be about to announce a relatively cheap handheld once again- the Legion Go Beam. Windows Latest has leaked images of the handheld, and there's no question it's designed to be a value alternative to even the company's least expensive Legion Go S variant. While it's got the same big stippled grips and triggers for comfort, there's only one USB-C port on the top instead of two … Read the full story at The Verge.</description>
+<description>For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors . A decent one can easily cost $1,000 if not $2,000 now. But it looks like Lenovo might be about to announce a relatively cheap handheld once again- the Legion Go Beam. Windows Latest has leaked images of the handheld, and there's no question it's designed to be a value alternative to even the company's least expensive Legion Go S variant. While it's got the same big stippled grips and triggers for comfort, there's only one USB-C port on the top instead of two, … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Exclusive-image-of-the-unannounced-Lenovo-Legion-Go-Beam-gaming-handheld-in-white-with-lime-green-accents.jpg?quality=90&amp;strip=all&amp;crop=2.6,4.9777777777778,89.2,87.911111111111" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Exclusive-image-of-the-unannounced-Lenovo-Legion-Go-Beam-gaming-handheld-in-white-with-lime-green-accents.jpg?quality=90&amp;strip=all&amp;crop=2.6,4.9777777777778,89.2,87.911111111111" medium="image"/>
 </item>
@@ -224,13 +235,13 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GoogleWallet_72b775.jpg" medium="image"/>
 </item>
 <item>
-<title>5 new AI features in iOS 27.3’s Health app – which iPhones can try them</title>
-<link>https://www.zdnet.com/health/5-new-ai-features-in-apples-health-app-for-ios-27-3-and-which-iphones-can-try-them</link>
-<guid isPermaLink="false">92fca5527c0cb2dffb8fcf2fdedc644a493a113d2f9d4b591ba27cfc2925128d</guid>
+<title>5 new Apple Health features you should try in iOS 27.3 – if your phone qualifies</title>
+<link>https://www.zdnet.com/health/apple-health-ios-27-3-ai-features-compatible-iphones</link>
+<guid isPermaLink="false">2dae442f47b9c74ad392ae955393093f9af95224fbf10ffe11a4796f8db616f1</guid>
 <source>ZDNET</source>
 <category>technology</category>
 <pubDate>Wed, 18 Nov 2026 18:00:48 +0000</pubDate>
-<description>Coming next month, Apple’s new Health app relies on AI for certain features, which means you’ll need an iPhone that supports Apple Intelligence.</description>
+<description>Apple’s redesigned Health app arrives in December with some major upgrades, but not every iPhone will get the full experience.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Figure-Top-5-new-AI-features-in-Apples-Health-app.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Figure-Top-5-new-AI-features-in-Apples-Health-app.jpg" medium="image"/>
 </item>
@@ -682,8 +693,8 @@
 <category>technology</category>
 <pubDate>Wed, 18 Nov 2026 09:41:44 +0000</pubDate>
 <description>Palmer Luckey is touting a new 'SLAB' seastead that would act as a lawless city state.</description>
-<enclosure url="https://www.engadget.com/img/gallery/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center/l-intro-1794994368.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center/l-intro-1794994368.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center/l-intro-1795033185.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center/l-intro-1795033185.jpg" medium="image"/>
 </item>
 <item>
 <title>UK MPs want AI watchdog with power to pull the plug on dangerous models</title>
@@ -1102,17 +1113,6 @@
 <description>You’ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google’s AI.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Gemini-Keep-Activity-setting.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Gemini-Keep-Activity-setting.jpg" medium="image"/>
-</item>
-<item>
-<title>The data is very preliminary, but Vulcan failure may not be due to BE-4 engines</title>
-<link>https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex</link>
-<guid isPermaLink="false">f9078e3eac923fd6501910c316f1a97eae0eae79e63181f97e773d6140ddc6d0</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 18:00:51 +0000</pubDate>
-<description>United Launch Alliance (ULA) confirmed Tuesday morning that its return-to-flight launch of the Vulcan rocket began failing during the initial stages of the mission. "While we appear to have lost telemetry and the mission at approximately 10 minutes into flight, early indications are that just after liftoff, the launch vehicle experienced low booster performance, resulting in stage separation occurring when the vehicle was low in altitude and below minimal velocity to reach orbit," the company said . The launch company also confirmed reporting by Ars that the Centaur V upper stage and the solid rocket boosters performed nominally during the flight. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>I asked Gemini Notebook to ‘make me a site’ from my notes – it was satisfying</title>

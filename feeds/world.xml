@@ -4,15 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Trump's pick Heidi Overton dropped as nominee for FDA commissioner</title>
-<link>https://abcnews.com/Politics/trumps-pick-heidi-overton-dropped-nominee-fda-commissioner/story?id=138232475</link>
-<guid isPermaLink="false">30c6e238f5ab20104358c1645e6c7ab7c74e5346b4dd52e652279486ec6429a8</guid>
+<title>National intelligence director says no signs of cyberattack amid tech outage concerns</title>
+<link>https://abcnews.com/US/national-intelligence-director-signs-cyberattack-amid-tech-outage/story?id=138229967</link>
+<guid isPermaLink="false">6a00d9a9b12a7afdd5cdd1546c9cacad4d90170d6c2db871a61cf63227773d98</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Wed, 18 Nov 2026 01:07:22 +0000</pubDate>
-<description>Dr. Heidi Overton’s nomination to lead the Food and Drug Administration was dropped on Tuesday, a White House official confirmed to ABC News.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/AP26321549106534_1794963853701_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/AP26321549106534_1794963853701_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Wed, 18 Nov 2026 02:50:36 +0000</pubDate>
+<description>Jay Clayton's comments come after an internal communications system used by NSA employees to share classified information temporarily went down on Tuesday.</description>
+<enclosure url="https://s.abcnews.com/images/US/clayton-rt-er-261117_1794959862415_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/clayton-rt-er-261117_1794959862415_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Haitians rally behind Bukele as Salvadoran troops battle gangs</title>
+<link>https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs</link>
+<guid isPermaLink="false">576572e0300ddc9bdcb62064c0b92cd85d851461d622dd4326a2bc5a7f0e569a</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Wed, 18 Nov 2026 02:42:21 +0000</pubDate>
+<description>Thousands of Haitians took to the streets on Tuesday to urge El Salvador's President Nayib Bukele to keep fighting gangs, as his troops bolster security forces in the Caribbean nation. But experts warn that growing public support could turn to anger without a long-term plan to tackle violence and strengthen Haiti's police.</description>
+<enclosure url="https://s.france24.com/media/display/5f68d9ac-e2f4-11f1-88c9-c5c0357b2a0c/w:1024/p:16x9/AP26321814589361.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/5f68d9ac-e2f4-11f1-88c9-c5c0357b2a0c/w:1024/p:16x9/AP26321814589361.jpg" medium="image"/>
+</item>
+<item>
+<title>Middle East live: Kuwait, Bahrain report drone and missile attacks</title>
+<link>https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks</link>
+<guid isPermaLink="false">e3338d2d36dcab75913e9404b2354ffc22b62bc14a6109f49d7e2b33483543b5</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Wed, 18 Nov 2026 02:06:39 +0000</pubDate>
+<description>Kuwait said Wednesday it was countering hostile drone attacks, while Bahrain reported intercepting Iranian strikes, as US allies in the Gulf remained on alert following an American attack on Iran's Qeshm Island. The incidents came amid a standoff over the Strait of Hormuz. Follow our liveblog for the latest updates.</description>
+<enclosure url="https://s.france24.com/media/display/849fa83a-e2f0-11f1-83e1-c5c0357b2a0c/w:1024/p:16x9/AP26117545379836.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/849fa83a-e2f0-11f1-83e1-c5c0357b2a0c/w:1024/p:16x9/AP26117545379836.jpg" medium="image"/>
+</item>
+<item>
+<title>UK food banks facing 'critically' low levels of donations</title>
+<link>https://news.sky.com/story/uk-food-banks-facing-critically-low-levels-of-donations-ahead-of-winter-months-13613434</link>
+<guid isPermaLink="false">8fb4568d35f67bb97cdd9b03cba995bff9239a026146d1e2077db8d2c9920e68</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Wed, 18 Nov 2026 00:07:00 +0000</pubDate>
+<description>UK food banks are facing critically low levels of donations as they prepare for winter, according to a new report.</description>
+<enclosure url="https://e3.365dm.com/25/07/1920x1080/skynews-cost-of-living-foodbank_6959479.jpg?20250707160134" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/25/07/1920x1080/skynews-cost-of-living-foodbank_6959479.jpg?20250707160134" medium="image"/>
 </item>
 <item>
 <title>NJ sues to compel ICE facility operator to comply with subpoena in medical probe</title>
@@ -356,15 +389,15 @@
 <media:content url="https://s.france24.com/media/display/14ae05b2-e2a0-11f1-bbb5-1ba7ddfab527/w:1024/p:16x9/EN-20261117-150313-150536-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Nvidia confirms Jensen Huang won't be back as CEO after he said he'd be 'honoured' to return</title>
+<title>Nvidia releases first results since Jensen Huang's resignation</title>
 <link>https://news.sky.com/story/jensen-huang-acknowledges-serious-mistakes-but-says-he-would-be-honoured-to-return-as-nvidia-ceo-13613323</link>
 <guid isPermaLink="false">3af5f0072068b207786aae6141a75410631d45232f64494e798d381dea4f84fc</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Tue, 17 Nov 2026 16:17:00 +0000</pubDate>
 <description>Nvidia's chairman has reiterated the company does not intend to reinstate Jensen Huang as CEO after he said he would be honoured to return to the role.</description>
-<enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-nvidia-jensen-huang_7262658.jpg?20260601075424" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/06/1920x1080/skynews-nvidia-jensen-huang_7262658.jpg?20260601075424" medium="image"/>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-taiwan-nvidia-taipei_7404808.jpg?20261112101611" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-taiwan-nvidia-taipei_7404808.jpg?20261112101611" medium="image"/>
 </item>
 <item>
 <title>Shenzhen: Inside ‘China’s Silicon Valley’</title>
@@ -409,28 +442,6 @@
 <description>President Donald Trump said Tuesday that US authorities take any possible threats to Washington ‘very seriously’, following reports that Iran was planning to target senior Trump administration officials, possibly with a radioactive bomb. Tehran dismissed the reports as ‘fabricated’.</description>
 <enclosure url="https://s.france24.com/media/display/33aa0a04-e298-11f1-ba28-1ba7ddfab527/w:1024/p:16x9/AP26321504671499.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/33aa0a04-e298-11f1-ba28-1ba7ddfab527/w:1024/p:16x9/AP26321504671499.jpg" medium="image"/>
-</item>
-<item>
-<title>Urban Zulu and '100 Reasons to Stay Single in Lagos': Telling African stories on their own terms</title>
-<link>https://www.france24.com/en/tv-shows/arts24/20261117-urban-zulu-and-100-reasons-to-stay-single-in-lagos-telling-african-stories-on-their-own-terms</link>
-<guid isPermaLink="false">9b2e994347e79d0a1a430ad6ef3938966bf5bbce9bf39b54f6c55d65129dde36</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Tue, 17 Nov 2026 15:44:37 +0000</pubDate>
-<description>Africa's creative industries are attracting growing international attention, from fashion and film to television and music. But as African stories reach audiences around the world, a bigger question is emerging: who gets to tell those stories, and who gets to shape how the continent is seen? At FAME Week Africa in Cape Town, arts24 met some of the creatives driving that conversation.</description>
-<enclosure url="https://s.france24.com/media/display/5aed8f1a-e292-11f1-ad9e-ff16da94d1fe/w:1024/p:16x9/capture-d40612db.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/5aed8f1a-e292-11f1-ad9e-ff16da94d1fe/w:1024/p:16x9/capture-d40612db.jpg" medium="image"/>
-</item>
-<item>
-<title>France's Le Pen promises to lower retirement age if she wins election</title>
-<link>https://www.france24.com/en/video/20261117-france-s-le-pen-promises-to-lower-retirement-age-if-she-wins-election</link>
-<guid isPermaLink="false">389a021a1f84e6c8b5842bcce365e1160383ae351ed6fe1155716b0de15bcff7</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Tue, 17 Nov 2026 15:44:09 +0000</pubDate>
-<description>French far-right ​leader Marine Le ​Pen vowed on Tuesday to repeal President ​Emmanuel ‌Macron's pension ⁠reform if she is ‌elected next spring and ⁠bring down the retirement age to ​60 to 62. She ‌also set out plans to ‌create a fund worth €900 ​billion ($990.54 billion) to help pay for pensions in ​the long term. It ​would take a generation ​to build up the fund, she added.</description>
-<enclosure url="https://s.france24.com/media/display/052bc7b8-e283-11f1-b9fa-c5c0357b2a0c/w:1024/p:16x9/EN-20261117-131100-131508-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/052bc7b8-e283-11f1-b9fa-c5c0357b2a0c/w:1024/p:16x9/EN-20261117-131100-131508-CS.jpg" medium="image"/>
 </item>
 <item>
 <title>Charles Bronson refused parole for ninth time</title>
@@ -563,17 +574,6 @@
 <description>While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates. (Image credit: Andrew Spear for NPR)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F4c%2Fbc4bb31e4251b34b1ff9ba477c7e%2Fbluecollarapprenticeohio-012.JPG" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F4c%2Fbc4bb31e4251b34b1ff9ba477c7e%2Fbluecollarapprenticeohio-012.JPG" medium="image"/>
-</item>
-<item>
-<title>Man in court as 'heartbroken' mother pays tribute to boy, four, killed in Range Rover crash</title>
-<link>https://news.sky.com/story/man-in-court-as-heartbroken-mother-pays-tribute-to-boy-four-killed-in-bathgate-crash-13613142</link>
-<guid isPermaLink="false">81bdd79e2fc7862e74805d95fd8a478056cc454f7dad5bd30290dbe8d187195d</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
-<description>A man has appeared in court as a "heartbroken" mother has paid tribute to a four-year-old boy killed in a fatal Range Rover crash.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-tiger-munthali-police-scotland_7408674.jpg?20261117132429" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-tiger-munthali-police-scotland_7408674.jpg?20261117132429" medium="image"/>
 </item>
 <item>
 <title>UK sanctions eight firms building Israeli settlements in the West Bank</title>

@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec</title>
+<link>https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec</link>
+<guid isPermaLink="false">2c69cd37c7c953cd784018e7861224b7de60709edb14b0f2f07f99039bbfd0f2</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 18 Nov 2026 12:10:27 +0000</pubDate>
+<description>Security chiefs at Solana's Breakpoint said AI is lowering the bar for hackers, as North Korea steps up its attacks on crypto firms.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Data silos threaten banks’ competitive edge in AI</title>
+<link>https://www.bankingdive.com/news/banks-running-out-time-benefit-ai-mckinsey-chatgpt-claude-gemini/874934</link>
+<guid isPermaLink="false">5df448a7a798a9389d201627bc82fa945a2b82d136fed8f8cffc5db65d690afc</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 18 Nov 2026 11:11:00 +0000</pubDate>
+<description>Nearly three in four consumers using AI for banking tasks opt for ChatGPT, Claude or Gemini — almost double those using a bank's chatbot, a McKinsey report found.</description>
+<enclosure url="https://imgproxy.divecdn.com/VyyueqaHbBKZ-R31YCCjynRCxswr43XrbWV_QVUblZA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg3MDc1NTAyLmpwZw==.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/VyyueqaHbBKZ-R31YCCjynRCxswr43XrbWV_QVUblZA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg3MDc1NTAyLmpwZw==.webp" medium="image"/>
+</item>
+<item>
 <title>Bitwise seeks Texas Stock Exchange listing for Zcash ETF</title>
 <link>https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing</link>
 <guid isPermaLink="false">e3857081dc22260710af7938409b74aa4f192ee220d660160f1f29d3dfc437e3</guid>
@@ -1014,16 +1036,5 @@
 <description>The hardware wallet manufacturer says users can now read what they're approving on nine Solana apps, as it pitches its Atom device.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'</title>
-<link>https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin</link>
-<guid isPermaLink="false">7bd2d1eec1731cdbbae3fdd6acc4bcc61edb8e3a562831ef70e19804c1465ac9</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 10:25:15 +0000</pubDate>
-<description>A new law lets Germany's customs agency freeze assets worth more than €100,000 without a criminal case if their origin is in doubt.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png" medium="image"/>
 </item>
 </channel></rss>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Democrat Mary Peltola wins Alaska Senate race: AP projects</title>
+<link>https://abcnews.com/Politics/democrat-mary-peltola-wins-alaska-senate-race-defeating/story?id=137983873</link>
+<guid isPermaLink="false">dce8366a200af5af2f7cd0c7070fcb2ef08b59afd9893e4d1e8459adfd418361</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 18 Nov 2026 05:50:37 +0000</pubDate>
+<description>Peltola's victory is the ninth Senate pickup for Democrats.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/peltola-4-gty-gmh-261112_1794508582719_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/peltola-4-gty-gmh-261112_1794508582719_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Trump Asia trip live updates: Trump meets Philippine president in bilateral meeting</title>
 <link>https://abcnews.com/Politics/live-updates/trump-asia-trip-2026?id=138187702</link>
 <guid isPermaLink="false">7de928a733576d78e0f3ceada8e2b3c9d058d0bf7d970fb88a1efb2926f0a50a</guid>
@@ -13,17 +24,6 @@
 <description>Trump is scheduled this week to participate in the first-ever trilateral meeting with Putin and Xi.</description>
 <enclosure url="https://s.abcnews.com/images/International/donald-trump-1-rt-gmh-261118_1794971613861_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/International/donald-trump-1-rt-gmh-261118_1794971613861_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Democrat Mary Peltola wins Alaska Senate race: AP projects</title>
-<link>https://abcnews.com/Politics/democrat-mary-peltola-wins-alaska-senate-race-defeating/story?id=137983873</link>
-<guid isPermaLink="false">dce8366a200af5af2f7cd0c7070fcb2ef08b59afd9893e4d1e8459adfd418361</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 18 Nov 2026 04:54:30 +0000</pubDate>
-<description>Peltola's victory is the ninth Senate pickup for Democrats.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/peltola-4-gty-gmh-261112_1794508582719_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/peltola-4-gty-gmh-261112_1794508582719_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Yet more tech outages in the US - hitting top spy agency and Apple</title>
@@ -114,7 +114,7 @@
 <media:content url="https://s.france24.com/media/display/849fa83a-e2f0-11f1-83e1-c5c0357b2a0c/w:1024/p:16x9/AP26117545379836.jpg" medium="image"/>
 </item>
 <item>
-<title>UK food banks facing 'critically' low levels of donations</title>
+<title>Supplies critically low at 40% of food banks, Trussell warns</title>
 <link>https://news.sky.com/story/uk-food-banks-facing-critically-low-levels-of-donations-ahead-of-winter-months-13613434</link>
 <guid isPermaLink="false">8fb4568d35f67bb97cdd9b03cba995bff9239a026146d1e2077db8d2c9920e68</guid>
 <source>Sky News Home</source>

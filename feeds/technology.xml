@@ -4,6 +4,149 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The Verge’s 2026 holiday gift guide for travelers</title>
+<link>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</link>
+<guid isPermaLink="false">ad65e2ff09e2b1e2387f966dd357afa21fd159e1d70b77fd9afbeda985b0bb87</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
+<description>Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one thing never changes: They always need new gear. That's what makes travelers so fun to buy for. But you don't want to get them just anything. The key is to find that clever gift even they didn't know they needed, and that's where we come in. From streaming gadgets for the hotel to portable espresso makers and high-capacity charger … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>AI-powered cyber threats are changing the rules of enterprise recovery</title>
+<link>https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515</link>
+<guid isPermaLink="false">7d3796d0cf4b9146f15cf85f1c9f1ec04cb2ee396e576c4ca13752b227b9da8a</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
+<description>Cybersecurity has long been a contest between attackers finding new ways in and defenders trying to keep them out. Artificial intelligence is making that contest more complicated, giving cybercriminals new ways to develop and adapt their attacks while putting additional pressure on conventional cyber defences. For enterprise IT leaders, the challenge extends beyond preventing a breach. What happens when an attacker gets through? Can compromised data be identified, clean copies recovered, and essential systems brought back online without prolonged disruption? These questions are becoming increasingly important as organizations confront both traditional threats and emerging AI-powered cyberattacks. A successful defense strategy must, therefore, account for what happens after an incident, not just the measures designed to prevent one. Making recovery part of the defence This is where cyber-resilient enterprise storage has an important role to play. Rather than relying solely on traditional backup processes, organizations need ways to protect critical data, detect potential compromise, establish which copies can safely be recovered, and restore those copies as quickly as possible. Infinidat addresses this challenge through its InfiniBox and InfiniBox SSA enterprise storage platforms, which incorporate the company’s InfiniSafe cyber resilience and recovery software suite. InfiniSafe combines immutable snapshots, which cannot be altered or deleted during their protected retention period, with logical air-gapping to isolate the management plane from the data plane. Fenced forensic environments provide a separate space for validating data before recovery. The technology also supports automated cyber protection, allowing security monitoring data center wide cyber security software applications or a Security Operations Center (SOC) to automatically talk to InfiniBoxes and trigger immutable snapshots when suspicious activity is detected. This helps reduce the window in which critical data might be exposed. For organizations concerned about recovering compromised information, optional InfiniSafe Cyber Detection uses AI-based analysis to help identify cyber affected data and locate the last known good copy of the data for recovery. Speed is another consideration. Infinidat guarantees recovery of immutable snapshots in one minute or less for InfiniBox and InfiniBox SSA, subject to the guarantee’s terms and conditions. Ultimately, cyber resilience isn’t about assuming every cyberattack can be stopped. It’s about ensuring that when defences are breached, organizations have the tools and processes to recover trusted data and limit the operational consequences. For enterprise IT teams, that makes recovery readiness an essential part of the cybersecurity conversation. Sponsored by Infinidat</description>
+<enclosure url="https://image.theregister.com/?imageId=5310524&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5310524&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Instagram’s ‘school safety’ push was also a way to get more teens on the app</title>
+<link>https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor</link>
+<guid isPermaLink="false">2a7d35fa5abe67e0d9c75c56639b4d1182db471dbf5cbfa6ab8bc7628aa79800</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 14:59:05 +0000</pubDate>
+<description>Meta's initiative to make Instagram safer for schools stemmed from efforts to increase user "acquisition," "friending," and "invites," according to a report from NPR . Internal documents revealed as part of a group of child safety lawsuits against Meta reference a "Project Gryffindor" - a school program that would "fuel organic and unattributed acquisition" of users. One internal presentation from November 2023 says a school program would "give teens a new reason to join / find more value in IG [Instagram]." The internal documents suggest Meta considered more goals than just teen safety when rolling out Instagram's School Partnership Program … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23904518/VRG_Illo_K_Radtke_STK070_Instagram_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23904518/VRG_Illo_K_Radtke_STK070_Instagram_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Space robot legend Voyager 1 is now more than 1 light-day away</title>
+<link>https://www.theregister.com/science/2026/11/18/space-robot-legend-voyager-1-is-now-more-than-1-light-day-away/5310751</link>
+<guid isPermaLink="false">ca2958626a7f2062ed1d3800614744458a943f771d233edc81fab6cce788c4e6</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 14:57:00 +0000</pubDate>
+<description>NASA's Voyager 1 probe is now more than one light-day from Earth – so distant that a radio signal takes 24 hours to reach it. The veteran spacecraft has spent almost 50 years getting there. Voyager 1 was launched on September 5, 1977, from Cape Canaveral in Florida. Planning for the mission began in the 1960s, while NASA was working feverishly to put a man on the Moon ahead of the Soviet Union. A rare alignment of the outer planets made a tour of Jupiter, Saturn, Uranus, and Neptune possible. Voyager 2 eventually visited all four; Voyager 1's route prioritized Saturn's moon Titan, ruling out a subsequent encounter with Pluto. Voyager 1 completed a flyby of Jupiter in 1979, and passed Saturn and Titan in 1980. Its final imaging sequence in 1990 produced the solar system "Family Portrait," including the famous Pale Blue Dot image of Earth. The cameras were then switched off for good. Thirty-six years after those final pictures, Voyager 1 remains in contact with Earth, with two science instruments still operating: the magnetometer and plasma wave subsystem. Others have been shut down over the decades to conserve the dwindling power supplied by its radioisotope thermoelectric generators (RTGs). Dr Garry Hunt, a member of Voyager's original imaging team, told The Register : "Voyager's real success is the way it used reliable equipment. Well-tested Mariner equipment, and special new things that had come about for it. "We had fault protection on board as well. If anything goes wrong, it automatically switches to a backup. So there was always a backup. There was always a safe mode. We had to have radiation protection on board … when we designed this, we didn't really know the magnetic environment around Jupiter, and to be told it was so strong, 1,000 times stronger than we anticipated, really threw everything up in the air, and so that had to be dealt with." Hunt paid tribute to the succession of project managers and engineers who have kept the probe running over the years. "I think this was a really wonderful example of project management, of clever management of engineering, and interesting science coming out of it, which has made history books and gone to be a catalyst for other things in the future," he said. Voyager 1 may now take two days to answer a call from Earth. After almost 50 years, the remarkable thing is that it still answers at all. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=249462&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=249462&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Rivian spinoff Also pauses e-bike deliveries over battery and software bugs</title>
+<link>https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues</link>
+<guid isPermaLink="false">58fe7df3b7d4c6992b2f57dcf9972affe79a175cbd9a563a69d1b52794df4c6b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 14:56:43 +0000</pubDate>
+<description>Also, the mobility startup that spun out of Rivian last year, has run into another speed bump. The company was already struggling to get its first e-bikes to customers due to a litany of supply chain headaches and the complexity of building a futuristic bike powered almost entirely by software . Now there is a new wrinkle, the company said in an email sent this week to customers, informing them that their wait just got a little longer. Also said it identified "a few software-based issues, such as charging behavior," affecting some of the Launch Edition versions of its TM-B bikes. As a result, it was pausing customer deliveries until it coul … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_ALSO_TMB_09-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/webp"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_ALSO_TMB_09-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>StubHub International warns customer data may have left the venue</title>
+<link>https://www.theregister.com/cyber-crime/2026/11/18/stubhub-international-warns-customer-data-may-have-left-the-venue/5310775</link>
+<guid isPermaLink="false">41cc953886b45a0e74dbb7bc12e6c6fda220a6176a540c3578542851940bf788</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 14:45:00 +0000</pubDate>
+<description>Ticket resale giant StubHub International has warned customers that a recent breach may have exposed their personal information to cybercriminals. The company said it detected "unauthorized access to certain systems" on its platform between late October and early November. Customer notification emails seen by The Register list potentially affected information including names, email addresses, phone numbers, and country or regional settings. StubHub International, operated by Ticketbis S.L., apologized for the intrusion and offered the usual promise to implement security enhancements after the fact. The company said it had addressed "certain vulnerabilities" while containing the incident and was continuing to monitor for suspicious activity. Outside cybersecurity experts are assisting with the ongoing investigation. The company warned that any exposed information could be used to make subsequent scams more convincing. "To date, we have found no evidence of unauthorised access to account passwords , banking information or payment card details," the email stated. "We also have no evidence that the compromised information has been used fraudulently. "However, there is a risk that third parties could use this information to attempt fraud, identity theft or phishing through emails, messages or calls that appear to come from StubHub International or other trusted organizations." The Register contacted StubHub International for more information, such as how many customers were affected, but it did not respond. Digital Fuel Capital bought StubHub International from Viagogo in 2021 after the UK's Competition and Markets Authority (CMA) required the international business to be sold to address competition concerns. In June, the CMA fined Ticketbis £889,200 and ordered refunds exceeding £590,000 after finding that mandatory fees were omitted from upfront ticket prices. StubHub International also recently faced criticism for allowing a single ticket tout to advertise £1 million worth of U2 tickets, despite its stated opposition to ticket-buying bots. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=193147&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=193147&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Tesla’s $30,000 Cybercab comes with a $299 monthly catch</title>
+<link>https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it</link>
+<guid isPermaLink="false">a2083ccb99486aada624ff956957e90fe76281b3a33e46329cc02af5d12293f1</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 14:01:45 +0000</pubDate>
+<description>There is always a catch. Or in the case of Tesla ’s self-driving Cybercab , several. Last Friday night, Tesla said it had invited “select customers” to purchase their very own Cybercabs. The two-seat, gold vehicle is unlike any other on the market: It lacks a steering wheel and brake pedals, and is primarily driven by software. (Other autonomous vehicle companies, including Alphabet's Waymo and Amazon’s Zoox , offer self-driving rides on ride-hail networks , but don’t let people buy their cars.) Tesla’s " limited release ” will supposedly offer some people (unclear how many) the opportunity to pay $29,900 to take delivery in December. From there, though, the Cybercab will need constant cash infusions to stay on the road. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>How The Verge is picking which Black Friday deals to share</title>
+<link>https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals</link>
+<guid isPermaLink="false">9db32aabf51bab639872f31cbd371229bf1ef2d121e54f3b132a13200aaab68f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
+<description>For the past month, we’ve been inundated with Black Friday deals, signaling what’s to come on the biggest shopping day of the year in the US. We routinely get dozens of press releases a day, coming from brands big and small that hope that we’ll publicize these offers. Of course, the companies would prefer that we don’t do any research on these deals to see if they’re actually good, and most don’t provide any of the necessary context we’re looking for when vetting them. Most indicators of a good deal are confusing — not just for us, but for anyone who’s shopping. Groundwork Collaborative recently published its findings about the unclear manner in which Amazon displays deals. Its researchers tracked a selection of products ahead of Black Friday and Cyber Monday in 2024 and 2025, and they claim that nearly one in three products advertised as deals on Amazon didn’t offer savings during the actual shopping events. The investigation also found that nearly a tenth of the deals it examined were more expensive during the sales events than on some days in the month leading up to them. Something we commonly see on Amazon and attempt to correct for in our coverage are good deals with inflated discount claims. As in, the original retail amount (the “list” price) is sometimes higher than the usual day-to-day price to make the savings seem more substantial. Sometimes, the manufacturer’s suggested retail price (MSRP) is what’s shown, though that’s not always the case. In a recent statement to investigative journalist Ronan Farrow , an unattributed Amazon spokesperson shared that its “List Price” can also be aggregated from the past 90 to 180 days of prices, not the past 30 days as Groundwork Collaborative’s research states, and is based on prices from Amazon itself and other competing retailers. However, in our experience, the confusing way pricing and discounts are communicated isn’t limited to Amazon. View this post on Instagram The group’s findings show how easy it is to distrust the prices you see, especially online, where dynamic pricing sometimes comes into play. Regardless of retailer practices, we understand the importance of curating what you see on The Verge with care. Vetting deals for coverage consideration is a big, albeit invisible, part of our jobs, even outside of big shopping events. Most of what we’re pitched day to day, or what we see in our respective feeds, never hits the site because it doesn’t meet our standards. Even when the deal is for a product we’ve tested and really enjoy — our north star for what to cover on the deals front — that alone doesn’t guarantee coverage. We often skip covering deals that aren’t as good as a retailer or brand made them seem. Or maybe the deal is good, but it returns every week, lasts only a few hours, or it’s available only with a premium membership. Alternatively, the deal might only be available from a retailer none of us has heard of or shopped at. Needless to say, we consider a ton of factors. With Blac</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PRICE2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PRICE2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Will Wright’s next game uses AI to map your memories</title>
+<link>https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview</link>
+<guid isPermaLink="false">ddf152f6d3b592a40ce9a00ba524297a97269207642277bbb037a9897371bcb2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
+<description>Will Wright, the creator of legendary franchises like SimCity and The Sims , is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems . Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. "We want to take your autobiography and turn it into a toy world," he tells The Verge . The MyMems website describes the mobile game as a "social simulation" with worlds "built from your memories and the people who shaped you." You can add "memories" to your game, like speaking a short story to your phone, and those memories are ge … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Business as usual, but Huang ain't coming back, says Nvidia</title>
+<link>https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772</link>
+<guid isPermaLink="false">54153fd6639518bf4e68aa3ceccaff0c40f2e993b8af5e1500b47ff198762112</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 13:54:00 +0000</pubDate>
+<description>Nvidia's board says it has no plans to bring Jensen Huang back as the GPU giant reports quarterly revenue more than double that of a year ago. The AI infrastructure leviathan had some reassuring to do after its leather-jacketed rockstar leader left under a cloud last week. Huang had been central to its rise as the dominant supplier of AI compute. Newly appointed board chair Harvey Jones ruled out an imminent comeback, saying: "The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO." Jones said the board was addressing the fallout and strengthening oversight, pointing to the creation of a committee to scrutinize the firm's security policies and export compliance. Nvidia has also retained the services of talent spotters Heidrick &amp; Struggles to help find a new leader, according to Jones. Interim CEO and chief financial officer Colette Kress struck an upbeat tone on the company's Q3 earnings call. The results gave her plenty to work with : revenue rose 103 percent to $115.8 billion, while operating income climbed 115 percent to $77.5 billion. "We're addressing strong demand for compute across a diverse and expansive set of end customers, including hyperscalers, frontier labs, AI natives, enterprises, and governments," Kress said. She raised Nvidia's outlook for fiscal 2028, saying that the firm now expects revenue to grow approximately 75 percent year-on-year. Analysts immediately questioned this, asking what gave Kress the confidence to raise the outlook, given all the uncertainty surrounding the future direction of the company. Kress cited growing demand and additional supply as reasons for lifting the fiscal 2028 growth forecast from 70 to 75 percent. When asked about the financing deals that Nvidia provides for some of its customers, Kress appeared to hint that some things might change. "Our neoclouds have been so instrumental in terms of both supporting enterprises and supporting many of the different countries around the world, particularly on the sovereign perspective. And we continue to be working with them," she stated. But she added: "I think we would look at this and take a very strong look in terms of the types of companies that we would want to help in terms of the financing, as a lot of things have changed over this last quarter... but we do have some very, very strong existing customers that we will be continuing to work with." Kress also said that Nvidia's rack-scale Rubin platform had generated nearly $20 billion in revenue in its first quarter of production shipments. She said the firm expects the major frontier AI labs to account for approximately 15 percent of its Data Center revenue this year. Kress said that Nvidia is no longer shipping licensed products based on its Hopper silicon to China, as scrutiny grows over Beijing's access to advanced AI technology, and so its future guidance does not count on any Hopper revenue from there. Nvidia sold $2.4 billion worth of Hopper kit to Chin</description>
+<enclosure url="https://image.theregister.com/?imageId=5310782&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5310782&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>I’ve tested Ubuntu 27.04 ahead of its April release – and it will wow you</title>
+<link>https://www.zdnet.com/tech/ubuntu-27-04-april-release-new-features-performance</link>
+<guid isPermaLink="false">ecc63c76e8619575b6dd108f87a8f742894a721adcd217dfc7d07d203112f611</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 13:46:55 +0000</pubDate>
+<description>I’ve been using Ubuntu 27.04, and the speed boost is noticeable. Here’s what else is coming.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/tenacioushero.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/tenacioushero.jpg" medium="image"/>
+</item>
+<item>
+<title>Does GTA VI live up to the hype? Our games editor has played it – ask her anything</title>
+<link>https://www.theguardian.com/games/live/2026/nov/18/does-gta-vi-live-up-to-the-hype-our-games-editor-has-played-it-ask-her-anything</link>
+<guid isPermaLink="false">325d91e95406de43dfd838510ff3319e104aea4f1b71319c44e90f6757c8c918</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 13:31:19 +0000</pubDate>
+<description>Grand Theft Auto VI, the biggest games release of the decade, is nearly here. Our games editor Keza MacDonald will be online from 4pm GMT (11am EST, 3am AEDT) to answer all your questions Ask a question: log in or sign up here After more than a decade and a reported billion dollars in the making, Grand Theft Auto VI is finally released on Thursday. It’s one of the most anticipated games of all time. The Guardian’s games editor, Keza MacDonald, is one of the first people in the world to have played it and she’s now spent over 70 hours in Leonida to review the game. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/2c1fd827327d14bd0ef78713cbea00aa6dd169f9/0_0_2000_1600/master/2000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f23535300843f56bb724f77261b4600" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/2c1fd827327d14bd0ef78713cbea00aa6dd169f9/0_0_2000_1600/master/2000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f23535300843f56bb724f77261b4600" medium="image"/>
+</item>
+<item>
+<title>Windows Server 2028 won't be compatible by default</title>
+<link>https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766</link>
+<guid isPermaLink="false">380099c909c2be269261f4b02ecbb3d56c9690fbbe74cfb89911fa351533db34</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 18 Nov 2026 13:16:00 +0000</pubDate>
+<description>Microsoft has pushed Windows Server 2028 into public preview, with an eye on beefed-up security, new infrastructure support, and the inevitable nod to AI. Neil Hinnant, a director on the Windows Server team, talked up the security tweaks. There's a hardened Server Core configuration by default and a new security baseline. "Trusted Launch extends protection to virtual machines," he wrote . "Confidential VM support begins a journey to support integrity-protected runtimes on supported CVM hardware." Server Core will therefore arrive locked down by default – good news for security, potentially less so for administrators whose existing configurations depend on more permissive settings. "For years, Windows Server shipped compatible by default," wrote Senior Product Manager Christina Curlette. "Making the server secure was up to you, usually by applying the Security Baseline or your own hardening scripts after setup." With Windows Server 2028 (and starting from Windows Server Insider Preview build 29706), Server Core will be installed hardened. "Hundreds of security settings are on from first boot," Curlette wrote. "Because the defaults are now locked down, some things that worked on Windows Server 2025 may not work on Windows Server 2028 without changes. This includes older protocols, legacy authentication, and some management tools and scripts." For a company obsessed with backward compatibility, this is quite the step. Welcome though the hardening is, administrators will need to test carefully: working on Windows Server 2025 won't guarantee a smooth ride in the brave new world. AI gets a role on both sides of the security fence: helping uncover vulnerabilities and giving Microsoft another reason to sell servers. Windows Server 2028 is being pitched for running models locally, with support for accelerators such as AMD's Instinct MI350P. Not every server is destined to babysit a model, however, and the storage changes may be more immediately useful to enterprise administrators. Windows Server 2028 will enable native NVMe storage by default, along with NVMe over TCP and RDMA. Booting from ReFS is also planned, adding another item to the storage upgrade list. Intune management for Windows Server has also entered preview. Azure Arc, with its cloud-native management workflows, is obviously still around, while Intune brings a more familiar management interface for administrators already using it for endpoints. Hinnant acknowledged that this was a "major release," and it looks like the security hardening alone will require a good deal of thought from administrators before organizations adopt the eventual production release. Esben Dochy, Principal Technical Evangelist for SecOps at Lansweeper, told The Register that Microsoft had indicated that the hardened security only applied to new installations. "If that remains in the final release," he said, "in-place upgrades could be easier. The catch is that those servers may also miss out on the new security defaul</description>
+<enclosure url="https://image.theregister.com/?imageId=5234606&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5234606&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>You'll need the latest PS5 firmware update to play GTA VI</title>
 <link>https://www.engadget.com/2320303/youll-need-the-latest-ps5-firmware-update-to-play-gta-vi</link>
 <guid isPermaLink="false">587a7c3432243cf06a4571c1aa27320ed9626e1f82cb261cd95310c64392ac86</guid>
@@ -21,7 +164,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 18 Nov 2026 13:01:05 +0000</pubDate>
-<description>Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year . The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday , marking a notable shift for the company that, under former CEO Jensen Huang, fought for the right to ship its powerful Hopper architecture H200 chips to China. "Our guidance ⁠does not have any licensed Hopper data center products included, and we are no longer shipping ​licenced Hopper data center products to China," Kress said . She did not explain why Nvidia was ceasing its H200 processor shipments, o … Read the full story at The Verge.</description>
+<description>Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year . The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday , marking a notable shift for the company that, under former CEO Jensen Huang, fought for the right to ship its powerful Hopper architecture H200 chips to China. "Our guidance ⁠does not have any licensed Hopper data center products included, and we are no longer shipping ​licenced Hopper data center products to China," Kress said . She did not explain why Nvidia was ceasing its H200 processor shipments or … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -54,18 +197,18 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Wed, 18 Nov 2026 12:15:44 +0000</pubDate>
-<description>In the one light-day that humanity's most distant object has now traveled from Earth, there has been enough time for details about its creation—and what it left behind—to be discovered again. Voyager 1, which left Earth in 1977 on an initial mission to fly by Jupiter and Saturn (as well as the latter's moon Titan), crossed into interstellar space in 2012. Like its twin (Voyager 2), Voyager 1 carries a "commemorative phonograph record," in part as a nod to the 100th anniversary of the recording medium and as a message from humanity to whomever (or whatever) encounters the spacecraft on its journey through outer space. About those forgotten bits, ask Glen Swanson . While researching the history of the Golden Record, he uncovered the discs' overlooked second set of operating directions and located the duplicates that were made and distributed almost five decades ago. Read full article Comments</description>
+<description>In the one light-day that humanity's most distant object has now traveled from Earth, there has been enough time for details about its creation—and what it left behind—to be discovered again. Voyager 1, which left Earth in 1977 on an initial mission to fly by Jupiter and Saturn (as well as the latter's moon Titan), crossed into interstellar space in 2012. Like its twin (Voyager 2), Voyager 1 carries a "commemorative phonograph record," in part as a nod to the 100th anniversary of the recording medium and as a message from humanity to whoever (or whatever) encounters the spacecraft on its journey through outer space. About those forgotten bits, ask Glen Swanson . While researching the history of the Golden Record, he uncovered the discs' overlooked second set of operating directions and located the duplicates that were made and distributed almost five decades ago. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>NASA’s Voyager 1 probe is now one light-day away</title>
+<title>NASA’s Voyager 1 probe is now 1 light-day away</title>
 <link>https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone</link>
 <guid isPermaLink="false">9c87436ac336d52322eceae0848a506bcd0a33624a0118d477a97aebe4942726</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 18 Nov 2026 12:03:36 +0000</pubDate>
-<description>Voyager 1 has traveled further than any other man-made object. | Photo by NASA/Hulton Archive/Getty Images After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: the spacecraft is now officially one light-day away from Earth, which is, as NASA put it, "very, very far." The probe crossed the milepost on Wednesday at 5:16AM ET, and is now 16.094 billion miles away from our planet - equal to the distance that light travels in 24 hours. It's the furthest that any human-made object has ever traveled, and Voyager 1's journey isn't over yet. It's been heading towards a star called Gliese 445 in the Ursa Minor constellation since completing its primary objectives to conduct flybys of Jupiter and Saturn in 1980. … Read the full story at The Verge.</description>
+<description>Voyager 1 has traveled farther than any other human-made object. | Photo: NASA / Hulton Archive / Getty Images After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: The spacecraft is now officially 1 light-day away from Earth, which is, as NASA put it, "very, very far." The probe crossed the milepost on Wednesday at 5:16AM ET and is now 16.094 billion miles away from our planet - equal to the distance that light travels in 24 hours. It's the farthest that any human-made object has ever traveled, and Voyager 1's journey isn't over yet. It's been heading toward a star called Gliese 445 in the Ursa Minor constellation since completing its primary objectives to conduct flybys of Jupiter and Saturn in 1980. That … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-164430702.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-164430702.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -92,17 +235,6 @@
 <media:content url="https://image.theregister.com/?imageId=5310005&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Does GTA VI live up to the hype? Our games editor has played it – ask her anything</title>
-<link>https://www.theguardian.com/games/live/2026/nov/18/does-gta-vi-live-up-to-the-hype-our-games-editor-has-played-it-ask-her-anything</link>
-<guid isPermaLink="false">325d91e95406de43dfd838510ff3319e104aea4f1b71319c44e90f6757c8c918</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 11:30:56 +0000</pubDate>
-<description>Grand Theft Auto VI, the biggest games release of the decade, is nearly here. Our games editor Keza MacDonald will be online from 4pm to answer all your questions Ask a question: log in or sign up here After more than a decade and a reported billion dollars in the making, Grand Theft Auto VI is finally released on Friday. It’s one of the most anticipated games of all time. The Guardian’s games editor, Keza MacDonald, is one of the first people in the world to have played it. Last month she visited Rockstar North’s headquarters in Edinburgh to go behind the scenes , and she’s now been playing a review copy. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/2c1fd827327d14bd0ef78713cbea00aa6dd169f9/0_0_2000_1600/master/2000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f23535300843f56bb724f77261b4600" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2c1fd827327d14bd0ef78713cbea00aa6dd169f9/0_0_2000_1600/master/2000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f23535300843f56bb724f77261b4600" medium="image"/>
-</item>
-<item>
 <title>Suno now lets you make AI videos for your AI music</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature</link>
 <guid isPermaLink="false">942518637ca001c7d15439b6c904185b155023f5677888dde797878f9f8105a9</guid>
@@ -120,7 +252,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 18 Nov 2026 11:06:16 +0000</pubDate>
-<description>More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time . Part of this has to do with the success of its predecessor, as GTA V sold more than 230 million copies over the last 13 years. Some of it has to do with the sheer length of time between releases, a period that was plagued by leaks and a handful of delays that made the wait even harder for fans. But GTA VI is now a real thing you can play, and you can also keep track of all of the important post-launch information right here. That includes our own review and interviews with the development team, as well as news on just how the game ends up resonating with players. GTA VI is great — and I’m not the only one who thinks so. Grand Theft Auto VI does something impossible — it lives up to the hype ‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet If you want to play GTA VI on PS5 tonight, download yesterday’s firmware update first. GTA VI’s voice actor for Lucia was revealed by… The Game Awards. Hacker behind 2022 GTA VI leaks pleads guilty</description>
+<description>More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time . Part of this has to do with the success of its predecessor, as GTA V sold more than 230 million copies over the last 13 years. Some of it has to do with the sheer length of time between releases, a period that was plagued by leaks and a handful of delays that made the wait even harder for fans. But GTA VI is now a real thing you can play, and you can also keep track of all of the important post-launch information right here. That includes our own review and interviews with the development team, as well as news on just how the game ends up resonating with players. Today’s Vergecast: GTA VI is the love story of our times. “Our team has the opportunity to make history a second time this month.” GTA VI is great — and I’m not the only one who thinks so. Grand Theft Auto VI does something impossible — it lives up to the hype ‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet If you want to play GTA VI on PS5 tonight, download yesterday’s firmware update first. GTA VI’s voice actor for Lucia was revealed by… The Game Awards. Hacker behind 2022 GTA VI leaks pleads guilty</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -167,17 +299,6 @@
 <description>How do you follow a game like Grand Theft Auto V ? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of the best-selling games of all time, and its lucrative online mode has helped it remain popular for well over a decade. That level of success has allowed Rockstar to take its time with a sequel, which has further increased the hype around the next GTA . A series of major leaks and delays only exacerbated this. At a time when muc … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-17-copy.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-17-copy.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet</title>
-<link>https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview</link>
-<guid isPermaLink="false">83113de0d2e0ff1881b1197dc6f492bb026f9c83865e796bad382052de7d3094</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
-<description>Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of thieves who also happen to fall in love after meeting while stealing a car. It's still an open-world action game full of chaos and mayhem. But many players will also be attempting to nurture the budding relationship in between heists. The sprawling game is designed to support both audiences. "It's a risk," explains Rob Nelson, producer on GTA VI and co-studio head at developer Rockstar North. "It's a real change for Grand Theft A … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-16-copy.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-16-copy.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out</title>
@@ -231,8 +352,8 @@
 <category>technology</category>
 <pubDate>Wed, 18 Nov 2026 08:45:00 +0000</pubDate>
 <description>I briefly helped with Microsoft Australia’s PR efforts in the early 2000s, when IE 6 and Windows were so bug-prone they essentially represented a welcome mat for hackers and required a deluge of patches admins couldn’t handle. Microsoft responded to that mess with a message about security being a shared responsibility involving people, process, and technology. A quarter of a century later, Microsoft’s business practices still make its customers reluctantly share the cost of its failings – most recently last week’s massive M365 outage. To protest that mess, Microsoft customers should create a new cloudy meltdown – on the pages the software giant uses to process applications for compensation after it fails to meet service level agreements. Yes, you read that right: “applications.” When Microsoft experiences an outage, customers must apply to get the service credits they’re entitled by finding the “Outage ID” related to each incident. The application page is buried deep in the Microsoft 365 Admin Center and the Outage ID is recorded elsewhere. Microsoft appears not to offer a facility for bulk uploads, so the channel partners who manage so many M365 implementations have extra work to do. That’s outrageous because the implicit promise of the cloud is that it delivers more value for less effort. Yet Microsoft requires users to do extra work to seek redress for its mistakes. Cloud also delivers fat profits for investors. Which is probably why Microsoft, which can clearly bill its customers regularly and reliably and therefore knows which services they use, hasn’t done the work to link its uptime meters and billing systems so it can automate crediting customers after outages. I understand Microsoft thinks AI is quite good at that sort of integration. Maybe its enormously reduced workforce will need it to get the job done. But rather than vibe-coding its way out of this, decency demands Microsoft quickly decide that all users impacted by last week’s automatically receive service credits, rather than asking them apply for their entitlements. If Microsoft doesn’t get proactive, the magnitude of this outage represents a moment in which its customers can show the software giant it must do better – perhaps by filing so many applications for credit that managers who oversee Redmond’s systems and finances can’t help but notice a spike of activity. Thinks of this as a distributed denial of satisfaction attack signaling that Microsoft can't solve this particular outage with a glib apology and a blog post. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5310591&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310591&amp;width=800" medium="image"/>
+<enclosure url="https://image.theregister.com/?imageId=5310826&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5310826&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Elton John backs Australian artists in fight against AI in surprise Aria awards appearance</title>
@@ -389,17 +510,6 @@
 <media:content url="https://image.theregister.com/?imageId=5310644&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Satya Nadella says he’s AGI-pilled now</title>
-<link>https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</link>
-<guid isPermaLink="false">d34ce25785fdf87b116dcefd019341a1a4e0ccba0e63a1ae216b7a7edad09586</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 23:41:18 +0000</pubDate>
-<description>Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. "I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?" he asked at a roundtable discussion following his Microsoft Ignite keynote at the Chase Center in San Francisco. But Nadella doesn't think frontier models like Claude are conscious. "I don't think so," he said, adding that he follows Microsoft AI CEO Mustafa Suleyman's view that companies should not give rights to models and treat them like th … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang</title>
 <link>https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang</link>
 <guid isPermaLink="false">bb59199150f2453b2fe42380dbf3869a4f46c41fb7ff74ee5e59675417929c82</guid>
@@ -499,17 +609,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg" medium="image"/>
 </item>
 <item>
-<title>Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond</title>
-<link>https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon</link>
-<guid isPermaLink="false">3f70c47179d4906e22bd34ce60767d0ed8213aff1d4c8ea96e9a2a066b33d47b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 22:38:41 +0000</pubDate>
-<description>Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor 's Silicon Valley and the World conference today, Bezos said that he was "heavily involved" in the process of casting the newest 007: We ran a really tight process and we made the final decision on Friday. There was a big group initially, and we down-selected to five finalists. Then we did real old-fashioned screen tests of those five finalists, and it … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>GPU giants throw HPC users some tasty crumbs</title>
 <link>https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611</link>
 <guid isPermaLink="false">ef0b76775bfa4a4abdb29d174b2c9ecfdc23d8c65beb00e8985722d97407d26f</guid>
@@ -521,17 +620,6 @@
 <media:content url="https://image.theregister.com/?imageId=5310625&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Read everything that Nvidia’s board chair had to say about Jensen Huang</title>
-<link>https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang</link>
-<guid isPermaLink="false">7d49330be50c2808c730f569f50e63e8e46f332ae0cd17bf87f9c8a0fa4d1714</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 22:32:50 +0000</pubDate>
-<description>Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice Huang and one with a direct report, Kimberly Powell. Nvidia is investigating whether Huang's relationship with the former compromised national security or company secrets. Huang will also testify before lawmakers on December 1st. Ahead of Tuesday's earnings, Huang said he would be willing to … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Hundreds of websites deliver potent malware cocktail to unsuspecting visitors</title>
 <link>https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites</link>
 <guid isPermaLink="false">3c0546d9c3f02528491fe8c41a669ad21f87c8875fa5f2cf31a2221b73028d20</guid>
@@ -541,17 +629,6 @@
 <description>Hundreds of websites using the Optimizely website personalization platform served unsuspecting visitors a potent malware cocktail that targeted cryptocurrency wallets, stole payment card data, cookies, and screenshots, and delivered exploit kits for infecting iPhones and iPads, researchers said Tuesday. ReportURI said it identified 178 websites—including CNN, Zoom, the BBC, and Salesforce—that were affected. JavaScript digitally signed by Optimizely and then loaded into customer pages had been modified to include malicious components that attempted to infect visitor devices with multiple payloads. When wares were installed successfully, they swapped user cryptocurrency wallet addresses for the attackers. Other components skimmed payment cards, stole cookies and screenshots, and, on iPhones and iPads, delivered iOS exploit kits known as Coruna and DarkSword. Optimizely infrastructure delivers multipurpose malware Optimizely serves JavaScript “snippets” that include both company code and code that is provided by each customer. The JavaScript, which can be served directly from Optimizely or from a customer endpoint, runs on every page the customer serves. Somehow, the attackers wrote their own code into a portion of each affected customer’s JavaScript and then delivered it from cdn.optimizely.com. A valid certificate for that domain signed the JavaScript. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair</title>
-<link>https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub</link>
-<guid isPermaLink="false">8853153d94a7908fd03c6d24c3d6aae2c57839ed9e1a2dd6f82d32d1aaf7ca6b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 22:25:41 +0000</pubDate>
-<description>After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the HomeView apart iFixit's skilled techs had "ripped a connector, snapped a speaker in two, and put more force on the poor logic board than any of us were comfortable with." The tablet section of the HomeView proved to be the bigger challenge to disassemble as a result of some questionable decisions with Apple's design. The … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Apple outage: iPhone apps suffer disruption days after major Microsoft issues</title>
@@ -1214,17 +1291,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</title>
-<link>https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day</link>
-<guid isPermaLink="false">9507e63bd34bba49d4de31c317055cb3f0ff90c342da63141216a3f34eb13f8e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 20:37:47 +0000</pubDate>
-<description>Intel is being sued by shareholders, who are accusing the chipmaker of misleading them about the impact of the PC sales slump that contributed to a drop of 28.6 percent in the price of Intel's stock on October 30. The lawsuit ( PDF ), filed on Friday in the San Jose, California, federal court, is seeking class-action certification and lists the City of Southfield Fire and Police Retirement System and “all others similarly situated” as plaintiffs. In addition to Intel, Intel CEO Lip-Bu Tan and Intel’s EVP and CFO David Zinsner are listed as defendants. The plaintiffs claim that Intel made “materially false and misleading statements and omissions” between July 23 and October 29. They are seeking unspecified compensatory damages, plus legal and other associated fees, for shareholders during that period. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Ministers to end Palantir’s contract with NHS in England in 2029</title>
 <link>https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029</link>
 <guid isPermaLink="false">671400f2e5ab88e2595da785110b79ca41586e0dc31785c567b5cff1faf0ae9a</guid>
@@ -1357,39 +1423,6 @@
 <media:content url="https://image.theregister.com/?imageId=262937&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)</title>
-<link>https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094</link>
-<guid isPermaLink="false">cd40ff6cae9c9a6ae5a199bfb957daf2c9ae163f94d78a36a7c859b3377607ba</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 16:15:00 +0000</pubDate>
-<description>Nine countries including the UK have signed a US declaration pledging to secure supply chains for AI tech, as pressure grows for tighter export controls following the high-profile resignation of Nvidia CEO Jensen Huang . The US is firming up its Pax Silica initiative on AI and supply chain security. Under the San Francisco declaration , signed on November 15, the coalition says it is entering a new phase that turns shared principles into a working partnership with shared responsibilities. Pax Silica was announced in December last year, ostensibly for the participants to work together on vital parts of the global technology supply chain, including frontier foundation models, compute and semiconductors, advanced manufacturing, minerals refining and processing, and energy. But the list of participants was notable for not including one country – China – leading many to suspect that Pax Silica is yet another effort by Washington to squeeze out its main rival in the global technology and economic stakes. Hong-Kong based South China Morning Post refers to it as Trump's "campaign to China-proof AI and chip supply chains." The latest declaration states that "the security of our peoples cannot be separated from the security of our economies and those of our closest partners," and sets out what must be protected, as well as committing to "protect it together." It asserts that protection should cover key foundational technologies essential to economic security, listing "software, materials, knowledge, components and inputs…essential to AI supply chains." This includes anything that "theft, illicit transfer, or acquisition by hostile actors would confer a meaningful military or intelligence advantage, or undue economic leverage over the participants, or whose unauthorized transfer or misuse could pose significant risks to the economic and national security of the participants." Also listed is the protection of critical infrastructure such as ports, terminals, transport, communications, and logistics networks, and the ICT and energy infrastructure these depend upon. The declaration was jointly released by the US administration, and the governments of Australia, India, Israel, Japan, South Korea, Qatar, Singapore, United Arab Emirates, and the United Kingdom. "The know-how to design a chip, the machine that makes it, and the port that ships it can all be in different countries," the US under-secretary of state for economic affairs Jacob Helberg told the Financial Times . "What makes the San Francisco Declaration historic is that Pax Silica partners have agreed to treat the security of those technologies and the infrastructure behind them as a shared responsibility." This move comes amid reports that both Republican and Democrat lawmakers want to push through further measures to prevent China from accessing advanced chips for AI processing. It follows the recent news that Jensen Huang, the now former CEO of top GPU maker Nvidia, admitted to an affair with a woma</description>
-<enclosure url="https://image.theregister.com/?imageId=5244738&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5244738&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Has AI’s ‘Black October’ changed the way you secure your code?</title>
-<link>https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775</link>
-<guid isPermaLink="false">b01665747fbda539a098b8e0e5b80f30558241162a5e321e6781a16650b6eaf8</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 16:00:00 +0000</pubDate>
-<description>October ’26 might be remembered as a seminal moment for software developers and application security teams. AI agents are investigating unfamiliar systems, testing ways to get in and adjusting their next move when an attempt fails. Anyone with a credit card can use that capability to come after your application. Coding agents and their tool integrations have introduced new entry points and surface areas that can be exploited. Pillar’s OpenCode disclosure in October showed how a malicious Model Context Protocol (MCP) server could execute commands on a developer’s Windows or WSL machine during authentication. A server-supplied URL reached a shell without tricking the model. In the same month, the discovery of the two PHP2Shell vulnerabilities, remote code execution bugs in the PHP runtime uncovered with the help of OpenAI’s models, brought new urgency to securing longstanding code across much of the internet. Microsoft revealed that an agent moved from searching GitHub for exposed credentials to stealing Azure Key Vault data in five minutes. When its cloud API requests failed, the agent corrected the API versions and tried again until they succeeded. A report by Anthropic described individual operators using agent frameworks for multi-victim campaigns that previously required specialist teams. Agents carried out reconnaissance, exploitation and data theft across targets in parallel, making sophisticated operations accessible with less hands-on work. In a recent analysis, Tomasz Tunguz estimated the model cost of a 100-million-token attack workload using GLM-5.3, a low-cost model: 100 million tokens × $0.902 per million = $90.20. That is roughly 98% to 99% below the $5,000 to $10,000 frontier-model estimate cited by Bank for International Settlements (BIS) for a comparable cyber attack. Tunguz’s figure covers model usage only, not the full cost of an attack. Even still, it shows how trivially cheap it is now for attackers to go after any codebase, with the spend falling from thousands of dollars to under $100. These new agentic attacks should make every team take another look at the code they’ve been running for years. Engineering and security teams need to find and fix weaknesses in their own applications before an attacker with an army of AI agents gets there first. Security has to become every developer’s responsibility Traditional AppSec checks such as rule-based static analysis, dependency scanning and secret detection are no longer enough on their own. Developers, engineering leaders, and security teams also need defensive AI agents that trace attack paths, uncover missing safeguards and business-logic vulnerabilities, and help fix them. Developers’ responsibility doesn’t stop at the code they’re writing now. An application already in production without known vulnerabilities might still get exploited by an AI agent looking for ways to skip a permission check or business rule. The gap only shows up when a request is traced through the codebase</description>
-<enclosure url="https://image.theregister.com/?imageId=5309813&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5309813&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Criminals attack French postal operator subsidiary, grab contact details of 22M people</title>
-<link>https://www.theregister.com/cyber-crime/2026/11/16/criminals-attack-french-postal-operator-subsidiary-grab-contact-details-of-22m-people/5310070</link>
-<guid isPermaLink="false">d9f982dce096a48cfa2bf34a3f0174e9906cd88851e95a6a6f3b79b091d91122</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 15:28:00 +0000</pubDate>
-<description>The contact details of 22 million people were accessed after a cyberattack on a subsidiary of France's postal service, officials say. La Poste confirmed to The Register that an attack in September had resulted in full names and postal addresses being stolen by cybercriminals.The attack targeted the systems of Maileva, a business mail platform that's part of Docaposte, the digital services arm of La Poste. Customers use Maileva for hybrid post services. They upload the documents they need to send to Maileva, which then prints and posts the letters on behalf of the customer. According to Maileva itself, the service has more than 70,000 registered users and is trusted to send more than 180 million documents per year. The digital assault was first reported by French cyberattack-tracking website Cyberattaque late last week, revealing that Maileva notified customers of an attempted intrusion in late September. The letters mentioned the cybercriminal attempting to send emails using customers' official, trusted addresses, a situation which resulted in Maileva service disruption for six days. A number of Maileva customers issued public statements confirming the attack in October. Cornouaille's occupational health and safety service, for example, said the attack targeted Maileva's tracking database. It went on to say that senders' usernames and email addresses were also compromised, and that recipients' genders were exposed too, adding to the potentially affected data types that La Poste confirmed over the weekend. Maileva told the organization it was not aware of any compromise of documents uploaded to the platform, nor did the attacker alter or destroy any data. However, the disclosures of other customers suggested that each may have been affected differently. In the case of the Foch hospital in Suresnes, whose debt recovery partner Kiwee was a Maileva customer, the names of documents sent to recipients may have been exposed, which may have indirectly revealed details about medical conditions. According to Cyberattaque, the attacker also potentially accessed the contents of payment reminder letters, which in turn revealed additional details such as invoice numbers and amounts, and treatment dates. Another case involving social housing provider Flandre Opale Habitat reportedly exposed details from letters dating back ten years. La Poste said in a statement to The Register : "All teams are working hard to provide the best possible support to Maileva's clients and remain committed to rigorously and professionally implementing the necessary measures to ensure the security of its own operations and those of its clients." The attack on Maileva is the second major cyber-related disruption La Poste has handled in the space of a year. On December 22, 2025, the organization fended off a DDoS attack, which went on to affect mail operations for days, including online parcel tracking and its banking arm’s online services, right at its busiest time of the year. La Pos</description>
-<enclosure url="https://image.theregister.com/?imageId=1682043&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1682043&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Killer tunes: how Grand Theft Auto conquered the music world</title>
 <link>https://www.theguardian.com/games/2026/nov/16/auto-tunes-music-grand-theft-auto-conquered-zeitgeist-gta</link>
 <guid isPermaLink="false">02dfaf2567cdbdc29b035b2814b52aac3dec49c76b7dd2b1b099753c03c338ca</guid>
@@ -1401,17 +1434,6 @@
 <media:content url="https://i.guim.co.uk/img/media/653be1d2025e6e81bbe8942259f72ca29936769c/400_0_2698_2160/master/2698.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b0a5db80d48165b08bdea91b028bb726" medium="image"/>
 </item>
 <item>
-<title>Microsoft Outlook outage blamed after 15 injured in hotel pool chlorine incident</title>
-<link>https://www.theregister.com/saas/2026/11/16/microsoft-outlook-outage-blamed-after-15-injured-in-hotel-pool-chlorine-incident/5310087</link>
-<guid isPermaLink="false">d6e64b0eccb6f0a5e32cff9a94b5eb0415ce7e5fe48f5853d7f055e5b77b9137</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 14:42:00 +0000</pubDate>
-<description>Most victims of last week's Microsoft outage lost access to their email, but 15 unlucky guests at a German hotel got a dose of chlorine when a warning about dangerous levels never reached staff. The incident, first reported by German broadcaster WDR, happened on Friday at Hotel Ling Bao, part of the Phantasialand theme park in Brühl, Germany, where a malfunctioning automatic dosing system pumped too much chlorine into the swimming pool. The hotel's monitoring system spotted the problem and emailed staff a warning about the excessive chlorine levels. Unfortunately, Microsoft's Outlook service was caught up in a global outage, meaning the warning never arrived. Brühl Fire Department said the problem started when a technical fault caused the pool's dosing equipment to pump in more chlorine than it should have. Chlorine gas then escaped into the swimming area, leaving guests needing medical attention. Paramedics checked over 15 people at the hotel, and five were taken to hospital. Four suffered minor injuries, while one was moderately injured and needed further treatment. The fire department sent about 40 personnel to the scene, and crews spent roughly two hours dealing with the incident. The incident came as Microsoft was battling a major outage that began on Thursday, November 12, and dragged well into Friday. Outlook, Teams, SharePoint, and other Microsoft 365 services were knocked offline, leaving businesses unable to access email and documents. The disruption wasn't confined to office workers unable to check their inboxes, with hospitals, police forces, and government departments reporting problems accessing the Microsoft services they use for day-to-day operations. Redmond has since blamed the outage on a bug introduced during an earlier network capacity upgrade . It sat there until a later network change set it off, and the failures then spread across the company's infrastructure. Microsoft ruled out both cybercriminals and AI as culprits, and has issued the customary apology. At Phantasialand, though, a broken inbox was the least of anyone's worries. The chlorine dosing equipment went haywire independently of Microsoft's troubles, but the email warning staff about the problem apparently never arrived. Whether the hotel had a backup alarm, or anything capable of shutting off the chlorine supply automatically, remains unanswered. Why a hotel would rely on Outlook to deliver warnings about dangerous chlorine levels is anyone's guess. Email can be delayed, filtered into spam, or simply disappear when Microsoft's infrastructure throws a tantrum, none of which is particularly helpful when you've got a pool with guests breathing in noxious gas. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5310091&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310091&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’</title>
 <link>https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai</link>
 <guid isPermaLink="false">8439c1d510ab12793cf35f57adbc74f2480ed469b1c3974ebc263fbee51910aa</guid>
@@ -1421,17 +1443,6 @@
 <description>Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2233776792_2935e7.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2233776792_2935e7.jpg" medium="image"/>
-</item>
-<item>
-<title>Google: AI agent turned a security patch into a working exploit with no human help</title>
-<link>https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926</link>
-<guid isPermaLink="false">ed1519122a19bc2ec7b15eb4ec56bc71166cf694d807f132b78557486ff60404</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
-<description>A suspected Russian-speaking operator used an AI agent to turn security patches into working exploits with no human in the loop – a first such occurrence, according to the Google Threat Intelligence Group (GTIG) – before ultimately stealing data from victim organizations. Google documented this attack in its fourth-quarter 2026 AI threat tracker, and said it marks a significant advance in how attackers use LLMs for fully autonomous vulnerability discovery and exploitation compared to Q3. In this case, the threat hunters found an exposed staging server hosting a multi-agent vulnerability research and weaponization framework that integrates with multiple frontier and local models. The framework, called exploit_agent, used Russian-language tooling, and was configured to conduct continuous differential analysis of “popular web application software,” according to the report . This includes comparing code before and after security updates, identifying potential vulnerabilities, developing exploits, and then automatically executing them without any human involvement. The server also contained data stolen from victim organizations, and “multiple” post-compromise scripts that allowed attackers to perform nefarious activities including internal reconnaissance, brute-forcing, installing webshells, and removing other attackers’ webshells. “Victim telemetry on the server suggests the operator was specifically interested in targeting French websites associated with the media and entertainment industries, as well as the education sector,” according to the report. The report also documents other instances of attackers moving beyond manual LLM prompting during cyberattacks and instead deploying autonomous, multi-agent offensive security frameworks to carry out multi-stage intrusions. These include both financially motivated cybercriminals and cyber-espionage groups. In addition to the recent attacks involving the open source penetration-testing tool ARTEX, attackers have also used other AI-powered offensive frameworks, including CAIRN , CyberStrikeAI , HexStrike AI , and PentAGI. In another instance, GTIG observed attackers using PentAGI alongside proxy services to target the aerospace sector. “We have observed several threat actors separately experimenting with use of these frameworks and harnesses, including financially motivated, as well as suspected espionage threat actors with a PRC nexus,” the Googlers wrote. “Given the low barrier to entry, ease of integrating new exploits, and massive scaling potential, we believe it is highly likely that threat actors will continue to use these frameworks in campaigns targeting organizations globally.” ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5298454&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5298454&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>AI finds zero-day flaws for just $4 now – even mediocre hackers can cash in</title>
@@ -1575,17 +1586,6 @@
 <description>Google is moving digital keys out of individual smart lock apps and into the Google Wallet.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/ba7f9237-41e5-4240-a693-edb9be296376.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ba7f9237-41e5-4240-a693-edb9be296376.jpg" medium="image"/>
-</item>
-<item>
-<title>Google’s Pixel Tag tracker won’t work as well on older Android phones – check our list</title>
-<link>https://www.zdnet.com/tech/google-pixel-tag-android-tracker-bluetooth-6-0-older-phones</link>
-<guid isPermaLink="false">681d2b2b9c3aa04f3e5c796cbe097781485b8bf46a004a029035eaf097136720</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 17:11:16 +0000</pubDate>
-<description>Several of the tracker’s best features require Bluetooth 6.0-compatible device.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/fe1b30ad-195d-42f2-8903-ef1bbf5ec547-1-201-a_33806e.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/fe1b30ad-195d-42f2-8903-ef1bbf5ec547-1-201-a_33806e.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen</title>

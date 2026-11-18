@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>World Bank partners with Circle, Citi to explore stablecoins for payments</title>
+<link>https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments</link>
+<guid isPermaLink="false">d0a41031b347b86c6dc479d235dc20324e2ce85e6378cf5381f4ee104ed2dc4a</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 18 Nov 2026 09:17:18 +0000</pubDate>
+<description>The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceability for investments in developing countries.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg" medium="image"/>
+</item>
+<item>
 <title>SOL comes out of Breakpoint 7% higher as Solana exits beta</title>
 <link>https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization</link>
 <guid isPermaLink="false">d765a6d58a9dfeb989614a05f1bc3ff2b753f9457169f0c8e885f102ca14ee90</guid>
@@ -373,7 +384,7 @@
 <source>Banking Dive</source>
 <category>business</category>
 <pubDate>Tue, 17 Nov 2026 17:04:43 +0000</pubDate>
-<description>A charter would be an opportunity to offer products “to level the playing field for everyday Americans,” said proposed bank president Anthony Sharett.</description>
+<description>A charter would give Dave an opportunity to offer products “to level the playing field for everyday Americans,” said proposed bank president Anthony Sharett.</description>
 <enclosure url="https://imgproxy.divecdn.com/AE3N_2pnsY9XbdFAGBkenqWenPJRthL223LGTLjrSPw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xOWYyNGQ2OS01OTMxLTQ4NjgtYjFhZi03ZjYyY2RjNTA1YzYuanBn.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/AE3N_2pnsY9XbdFAGBkenqWenPJRthL223LGTLjrSPw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xOWYyNGQ2OS01OTMxLTQ4NjgtYjFhZi03ZjYyY2RjNTA1YzYuanBn.webp" medium="image"/>
 </item>
@@ -829,17 +840,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Boris Johnson says UK must lead blockchain development despite crypto doubts</title>
-<link>https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts</link>
-<guid isPermaLink="false">04a35d5454ce4900795e55ebef5a0eec8572b7073299e7588affdd684e77e904</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 20:18:02 +0000</pubDate>
-<description>Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief</title>
 <link>https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief</link>
 <guid isPermaLink="false">5c00bb2c5df931bf8ed62ab7a1fcf4330890c1ac575945808e55b2c4b606b12e</guid>
@@ -1025,16 +1025,5 @@
 <description>The Ethereum co-founder says proof aggregation could deliver a "cryptographic proof singularity" much sooner than developers expected.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia</title>
-<link>https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia</link>
-<guid isPermaLink="false">1c2bb7dc181b8ec7f0f872eefd1612b05e2fec213a357dc496ecbd53b5572b5b</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 09:25:01 +0000</pubDate>
-<description>Huang has reportedly discussed a comeback with confidants, but Treasury Secretary Scott Bessent says Nvidia needs a "dramatic shake-up."</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-elon-musk-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-elon-musk-gID_7.jpg" medium="image"/>
 </item>
 </channel></rss>

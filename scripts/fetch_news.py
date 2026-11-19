@@ -4,7 +4,7 @@
 Sports category = soccer only: every story must look like soccer news, have a
 real body of text, and come with a large (HD-class) sharp image.
 """
-import hashlib, html, json, mimetypes, re, time
+import calendar, hashlib, html, json, mimetypes, re
 from datetime import datetime, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
@@ -210,7 +210,6 @@ def entry_date(entry):
         if parsed:
             try:
                 # feedparser returns UTC struct_time; calendar.timegm avoids local-timezone skew.
-                import calendar
                 return datetime.fromtimestamp(calendar.timegm(parsed), timezone.utc)
             except Exception:
                 pass

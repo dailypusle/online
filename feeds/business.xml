@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks</title>
+<link>https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval</link>
+<guid isPermaLink="false">4a6d6dcd4fcfffc138aa4e2097123a1978edbdf54ae048f3bf000c134fc37383</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 19 Nov 2026 11:19:58 +0000</pubDate>
+<description>Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SNB5B19MZXHBMWJSW6SVAN/hi-coinbase-seeks-ipo-1.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SNB5B19MZXHBMWJSW6SVAN/hi-coinbase-seeks-ipo-1.png" medium="image"/>
+</item>
+<item>
+<title>GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs</title>
+<link>https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs</link>
+<guid isPermaLink="false">327904189d3175918433071ec8981f33b791c63e3a4c18d895cb9d11c0470108</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 19 Nov 2026 11:15:08 +0000</pubDate>
+<description>Ryan Cohen said publishers are cutting out trade-ins, as he backs a U.S. bill that would guarantee gamers keep access to games they buy.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>IOSCO warns quantum upgrades could slow blockchains, leave security gaps</title>
+<link>https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks</link>
+<guid isPermaLink="false">597748c59d6035562ec378c21b32f3109894f991b64e187371daf622ce18f9f1</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 19 Nov 2026 10:32:05 +0000</pubDate>
+<description>A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SM359KWG92A5Y8EAMD2EM8/hi-a-simple-breakdown-bitcoins-post-quantum-migration.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SM359KWG92A5Y8EAMD2EM8/hi-a-simple-breakdown-bitcoins-post-quantum-migration.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November</title>
+<link>https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november</link>
+<guid isPermaLink="false">5cd461c591be37c9d07fa5b15883a2d6ec921842c4e259e815828af1f5bf0f83</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 19 Nov 2026 10:25:05 +0000</pubDate>
+<description>Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Singapore settles $77.5M tokenized bill sale with wholesale CBDC</title>
 <link>https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network</link>
 <guid isPermaLink="false">15a17d9fb34851d40bdf735a2cd1fbdd53f6b6428551604c0fddf302551baef0</guid>
@@ -741,28 +785,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg" medium="image"/>
 </item>
 <item>
-<title>Ledger hardware implant saga reaches Dubai’s Virgin Megastore</title>
-<link>https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore</link>
-<guid isPermaLink="false">d9d3dc06aeccb7d414e2c87b770840d9bfe72dc1fdddc3c4eb9336e1bfe705f8</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 02:39:52 +0000</pubDate>
-<description>Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P83FWSZ6BPXQ3S3FXWM9VP/hi-ledger0.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P83FWSZ6BPXQ3S3FXWM9VP/hi-ledger0.jpg" medium="image"/>
-</item>
-<item>
-<title>Nvidia board rejects Huang comeback despite record $116B quarter</title>
-<link>https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter</link>
-<guid isPermaLink="false">e8b9571cc3e549cb60d80fa6eab2952058709b6a4b7cfc252923c7ac3d265a89</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 00:16:43 +0000</pubDate>
-<description>Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang’s reinstatement.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg" medium="image"/>
-</item>
-<item>
 <title>Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT</title>
 <link>https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt</link>
 <guid isPermaLink="false">3529af9480121f5da0e88e4f631252d12735191317d923cd961daa58f4d6fb82</guid>
@@ -1014,27 +1036,5 @@
 <description>Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again</title>
-<link>https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data</link>
-<guid isPermaLink="false">bcde4cf9463e5eaaefff0d68e61ebb07011330283766edd5bee4fc2af743c05d</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 22:18:03 +0000</pubDate>
-<description>A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000</title>
-<link>https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000</link>
-<guid isPermaLink="false">de276382a923f52370fd45816fcc363cfa29d3b68900fc6a099c2fa5989b67c4</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 21:46:03 +0000</pubDate>
-<description>Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 </channel></rss>

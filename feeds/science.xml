@@ -4,13 +4,35 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Unexpected Fallout From the Iran War</title>
+<link>https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html</link>
+<guid isPermaLink="false">f21c70b8aa4668d0165efb7b4585fa12b9c2a27f4871a4ecb910d39c51886d82</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Thu, 19 Nov 2026 21:40:38 +0000</pubDate>
+<description>Global oil shocks are accelerating the shift to electric vehicles and renewable energy, a new report finds.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/19/multimedia/19cli-newsletter-energy-lzwh/19cli-newsletter-energy-lzwh-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/19/multimedia/19cli-newsletter-energy-lzwh/19cli-newsletter-energy-lzwh-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>Studies Could Pave Way for Blood Test to Detect C.T.E. in Living Patients</title>
+<link>https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html</link>
+<guid isPermaLink="false">00776106d94e76d541f3017f751f1ac34cb9e9773b873d8f4ec14613d43fa75a</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Thu, 19 Nov 2026 21:08:13 +0000</pubDate>
+<description>An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company</title>
 <link>https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html</link>
 <guid isPermaLink="false">f88f975c91230aa6fa1f5379b7baf23ce4d2bb536e89941e7d9b76ce6b965b9b</guid>
 <source>New York Times Science</source>
 <category>science</category>
-<pubDate>Thu, 19 Nov 2026 20:39:17 +0000</pubDate>
-<description>The first-ever lease sale took place over the objections of a federal judge. The company is leasing the seabed for mapping and preparation, not actual mining.</description>
+<pubDate>Thu, 19 Nov 2026 21:05:59 +0000</pubDate>
+<description>The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg" medium="image"/>
 </item>
@@ -90,17 +112,6 @@
 <description>After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/18/multimedia/18obit-linehan-lfcp/18obit-linehan-lfcp-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/18/multimedia/18obit-linehan-lfcp/18obit-linehan-lfcp-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Scientists Discover a Possible Marker in the Blood of C.T.E. Patients</title>
-<link>https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html</link>
-<guid isPermaLink="false">00776106d94e76d541f3017f751f1ac34cb9e9773b873d8f4ec14613d43fa75a</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 18:50:32 +0000</pubDate>
-<description>Chronic traumatic encephalopathy can only be confirmed with an autopsy, but two studies suggest biomarkers in the blood might one day lead to a diagnostic test.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>Huge extinct orca may have eaten other whales</title>

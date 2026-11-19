@@ -4,15 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Anthropic begins public trading in major test for AI</title>
+<link>https://abcnews.com/Business/anthropic-public/story?id=138174650</link>
+<guid isPermaLink="false">0bbb79527ec417f4fd8aca7340b51ec02066605f8a1bf52c18426ed5dfda2d90</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 19 Nov 2026 17:05:11 +0000</pubDate>
+<description>The company behind popular chatbot Claude immediately vaulted into rarefied air among some of the largest public companies in the world.</description>
+<enclosure url="https://s.abcnews.com/images/Business/anthropic-gty-jef-261118_1795014337681_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Business/anthropic-gty-jef-261118_1795014337681_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>JPMorganChase reports cyberattack on third-party service providers</title>
 <link>https://abcnews.com/US/jpmorgan-chase-reports-cyberattack-party-service-providers/story?id=138287705</link>
 <guid isPermaLink="false">42c04c3e6bb38a6a8d629c8ca496ff73937ae4c6e07274d4b4ff4f5a02e759f2</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Thu, 19 Nov 2026 15:43:42 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 16:16:10 +0000</pubDate>
 <description>JPMorganChase said on Thursday morning that third parties who provide services to the banking giant were the target of a cyberattack.</description>
-<enclosure url="https://s.abcnews.com/images/US/chase-1-ap-gmh-261116_1794857898057_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/chase-1-ap-gmh-261116_1794857898057_hpMain_16x9_1600.jpg" medium="image"/>
+<enclosure url="https://s.abcnews.com/images/US/jpmorgan-chase-cyberattack-gty-bh-111926_1795104550179_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/jpmorgan-chase-cyberattack-gty-bh-111926_1795104550179_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>EU reveals it suffered 'AI-powered' cyber attack</title>
@@ -24,50 +35,6 @@
 <description>The EU has revealed it suffered a cyber attack powered by AI last month and some of its digital tools are still offline as a result.</description>
 <enclosure url="https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309" medium="image"/>
-</item>
-<item>
-<title>Gender pay gap: French women work "for free” from today</title>
-<link>https://www.france24.com/en/gender-pay-gap-french-women-work-for-free-from-today</link>
-<guid isPermaLink="false">8c973952a66599385238be170074c9ddd1d48511fd3c87858e00333eafc7146f</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 15:24:32 +0000</pubDate>
-<description>Women in Europe are still paid less than men, with the gap falling from 15.1% in 2016 to 11.1% in 2024, according to Eurostat. In France, women symbolically start working for free from 10:51 am on Thursday, 19 November, and at the current pace equality would not be reached until 2062. Experts warn that AI could make things worse by eliminating administrative and legal jobs where many women work, while childbirth and short paternity leave continue to slow women’s careers.</description>
-<enclosure url="https://s.france24.com/media/display/c258a9ba-e42b-11f1-a355-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-153611-153735-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/c258a9ba-e42b-11f1-a355-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-153611-153735-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>'GTA VI': A masterpiece? Fans react to gaming's biggest release</title>
-<link>https://www.france24.com/en/tv-shows/arts24/20261119-gta-vi-a-masterpiece-fans-react-to-gaming-s-biggest-release</link>
-<guid isPermaLink="false">58a99a72771e94755d997d426516a2bbd705317537585c35a102c8af08be9b6e</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 15:23:21 +0000</pubDate>
-<description>Critics are calling the new "Grand Theft Auto VI" a masterpiece. In this edition of arts24, we hear what fans make of one of the biggest video game releases in history. We also look at U2's new album and tour marking 50 years of the band, discover the French comic book that Pope Leo is reading and meet the women redefining Mexico's Mariachi tradition.</description>
-<enclosure url="https://s.france24.com/media/display/1f6b4ef4-e41e-11f1-aff2-e56ab3dc0809/w:1024/p:16x9/capture-ab6ebe3c.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/1f6b4ef4-e41e-11f1-aff2-e56ab3dc0809/w:1024/p:16x9/capture-ab6ebe3c.jpg" medium="image"/>
-</item>
-<item>
-<title>The chocolate countdown: The art of the advent calendar</title>
-<link>https://www.france24.com/en/tv-shows/entre-nous/20261119-the-chocolate-countdown-the-art-of-the-advent-calendar</link>
-<guid isPermaLink="false">f60ba989e0f3dc3c776204c844fe3d83b1b5440d78f1775b5a629df3806e079c</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 15:12:49 +0000</pubDate>
-<description>The holiday season is almost upon us and with it come advent calendars. The annual physical countdown originated in 19th-century Germany as a Christian tradition to count down the days until Christmas. Eugénie Pont from the magazine Fou de Pâtisserie tells us more about what we can expect from the biggest chocolate makers in France.</description>
-<enclosure url="https://s.france24.com/media/display/6cb2903a-e41b-11f1-9e2c-e56ab3dc0809/w:1024/p:16x9/capture-bb11e8b7.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/6cb2903a-e41b-11f1-9e2c-e56ab3dc0809/w:1024/p:16x9/capture-bb11e8b7.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump, Xi, Putin summit: What was it all about?</title>
-<link>https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about</link>
-<guid isPermaLink="false">2c0baba62b073838ae91a5d7e1d30a1d91b2ced1a27455ca343dbf8109ab2a40</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 15:12:10 +0000</pubDate>
-<description>Donald Trump has left China after a historic first meeting with Xi Jinping and Vladimir Putin on the sidelines of the APEC summit. Ukraine was discussed without Kyiv or European leaders in the room, which raised eyebrows, though Trump defended dialogue with rivals and Putin said the talks created conditions for future agreements. Xi warned major powers against conflict, and topics included reducing nuclear risks, reforming the UN and increasing energy flows.</description>
-<enclosure url="https://s.france24.com/media/display/97e2df72-e429-11f1-807c-13439ca2fe89/w:1024/p:16x9/EN-20261119-151641-151854-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/97e2df72-e429-11f1-807c-13439ca2fe89/w:1024/p:16x9/EN-20261119-151641-151854-CS.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Military family gets surprise of a lifetime at 2026 CMAs</title>
@@ -90,149 +57,6 @@
 <description>Police are "examining" claims of women being trafficked by Jeffrey Epstein on the King's private Scottish estate, one of Britain's top cops has confirmed to Sky News.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-jeffrey-epstein-ghislaine-maxwell_7391718.jpg?20261119151741" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-jeffrey-epstein-ghislaine-maxwell_7391718.jpg?20261119151741" medium="image"/>
-</item>
-<item>
-<title>Behind the UK's use of AI in asylum applications</title>
-<link>https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications</link>
-<guid isPermaLink="false">7c816cd4e664e48c725f2626dd75dfb6e633daee56eb14cfae2b972d4585fdd0</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 15:07:23 +0000</pubDate>
-<description>The UK is increasingly turning to artificial intelligence to manage its immigration system, from analysing migrants’ phones to processing asylum applications. But what happens when AI gets involved in deciding how an asylum seeker's story is understood? Stella Elgersma, journalist at InfoMigrants, explains how the UK Home Office is testing AI tools to process asylum applications, including a system that generates summaries of asylum interviews. With errors, limited human oversight and concerns over transparency, could AI put asylum seekers’ lives at risk?</description>
-<enclosure url="https://s.france24.com/media/display/2e36442a-e428-11f1-a386-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-143639-144049-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/2e36442a-e428-11f1-a386-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-143639-144049-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Haiti: Salvador’s Bukele publishes video of attack on gang leader’s house</title>
-<link>https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house</link>
-<guid isPermaLink="false">14ac3f8f83f365797e1bc5fd096a23713a0763d76274426b2f52f03b96706f90</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 15:06:06 +0000</pubDate>
-<description>Salvadoran President Nayib Bukele said Wednesday that his troops demolished the lavish home of a prominent gang leader in Haiti known as Jeff Gwo Lwa. "My gift to the Haitian people on the anniversary of the Battle of Vertières," Bukele wrote on X - referencing a 1803 battle critical in helping secure Haiti's independence from France.</description>
-<enclosure url="https://s.france24.com/media/display/dc8a445e-e428-11f1-bef0-1bac47ab2f5d/w:1024/p:16x9/Bukele-Haiti-2nd-attack0.png" type="image/png"/>
-<media:content url="https://s.france24.com/media/display/dc8a445e-e428-11f1-bef0-1bac47ab2f5d/w:1024/p:16x9/Bukele-Haiti-2nd-attack0.png" medium="image"/>
-</item>
-<item>
-<title>Beaujolais Nouveau: A French tradition uncorked</title>
-<link>https://www.france24.com/en/tv-shows/entre-nous/20261119-beaujolais-nouveau-a-french-tradition-uncorked</link>
-<guid isPermaLink="false">300145b867b37fc06690cd3513416c0ff96da554a1a8e7fa2ae1c2c72bd83447</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 14:44:33 +0000</pubDate>
-<description>Every year on the third Thursday of November, France raises a glass to one of its most joyful traditions: Le Beaujolais Nouveau! That means that this Thursday, millions of bottles of the 2026 young red wine will be uncorked around the world, from Lyon to New York. Olivier Badoureaux, wine expert and director of the French trade organisation Inter Beaujolais, tells us what we should expect from this year's vintage.</description>
-<enclosure url="https://s.france24.com/media/display/63378348-e426-11f1-a003-ebb478925cf0/w:1024/p:16x9/capture-21efc65b.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/63378348-e426-11f1-a003-ebb478925cf0/w:1024/p:16x9/capture-21efc65b.jpg" medium="image"/>
-</item>
-<item>
-<title>France: Retirees march against 2027 budget cuts</title>
-<link>https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts</link>
-<guid isPermaLink="false">ca8b890919ba6eb572f8297025c79f41199e7554e71a4ce27a6166ef15df8ace</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 14:32:57 +0000</pubDate>
-<description>More than a thousand people marched in Paris on Thursday, called by a union alliance joined by student and high-school groups, to protest social and tax measures targeting retirees in the 2027 budgets. The government wants retirees to contribute about €5.4 billion, by freezing the indexation of pensions above €1,260 and reforming their 10% income tax allowance. Union leaders say the money should not come from retirees’ pockets, as FRANCE 24's Luke Shrago explains.</description>
-<enclosure url="https://s.france24.com/media/display/156a74da-e422-11f1-aa5d-13439ca2fe89/w:1024/p:16x9/EN-20261119-141030-141233-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/156a74da-e422-11f1-aa5d-13439ca2fe89/w:1024/p:16x9/EN-20261119-141030-141233-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Anthropic begins trading as $1.5 trillion company in biggest IPO on record</title>
-<link>https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai</link>
-<guid isPermaLink="false">8985abfdde4bee127971a4c186e640b3a10f0743a3dd0b6a52c89c798a3a3453</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 14:29:03 +0000</pubDate>
-<description>Anthropic began trading on the Nasdaq Thursday after pricing its IPO at $83 per share, valuing the artificial intelligence giant at $1.5 trillion and surpassing SpaceX as the largest initial public offering on record. The IPO puts to the test Wall Street's faith in ​the AI boom, pitting promises of the technology as an economic game-changer against fears of a market bubble and risks to humanity.</description>
-<enclosure url="https://s.france24.com/media/display/3f3e1f26-e41f-11f1-91f8-1bac47ab2f5d/w:1024/p:16x9/2026-11-19T132245Z-254191681-RC21ROAVBBO1-RTRMADP-3-ANTHROPIC-IPO-DEBUT.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/3f3e1f26-e41f-11f1-91f8-1bac47ab2f5d/w:1024/p:16x9/2026-11-19T132245Z-254191681-RC21ROAVBBO1-RTRMADP-3-ANTHROPIC-IPO-DEBUT.jpg" medium="image"/>
-</item>
-<item>
-<title>Chef Rachel Khoo: 'You don't need fancy kitchen gadgets to cook delicious food'</title>
-<link>https://www.france24.com/en/tv-shows/perspective/20261119-chef-rachel-khoo-you-don-t-need-fancy-kitchen-gadgets-to-cook-delicious-food</link>
-<guid isPermaLink="false">b21d0f975c8812c19f861abb69f428f91e1b203af58804ca68ab350c7065456c</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 14:24:12 +0000</pubDate>
-<description>One of the world's best-known chefs has spoken to FRANCE 24 about her new book that proves you certainly don't need fancy kitchen gadgets to cook delicious meals. The book "The Smallest Restaurant in Paris" tells her own story of starting out in a tiny Parisian flat cooking food just for two people at a time. That then led to a BBC series and a decade of writing and filming cooking stories. Rachel Khoo is now a judge on "The Great Australian Bake Off". She spoke to us in Perspective.</description>
-<enclosure url="https://s.france24.com/media/display/1c7be816-e423-11f1-8aba-1bac47ab2f5d/w:1024/p:16x9/capture-edfa4db0.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/1c7be816-e423-11f1-8aba-1bac47ab2f5d/w:1024/p:16x9/capture-edfa4db0.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump-Putin-Xi meeting updates: Leaders at historic summit chart 'different course'</title>
-<link>https://abcnews.com/Politics/live-updates/trump-asia-trip-2026?id=138187702</link>
-<guid isPermaLink="false">7de928a733576d78e0f3ceada8e2b3c9d058d0bf7d970fb88a1efb2926f0a50a</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 14:10:30 +0000</pubDate>
-<description>Trump participated on Thursday in the first-ever trilateral meeting with Putin and Xi.</description>
-<enclosure url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>ICJ rules Myanmar committed genocide against the Rohingya</title>
-<link>https://www.france24.com/en/icj-rules-myanmar-committed-genocide-against-the-rohingya</link>
-<guid isPermaLink="false">76a6ec8c41e807f55b47d6b96957769b29c865a5a183ab6ef896b9f4db35a626</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 14:07:11 +0000</pubDate>
-<description>In August 2017, after attacks by a Rohingya militia, Myanmar’s army launched a “clearance campaign” in Rakhine state, with survivors describing mass killings, rapes and burned villages as hundreds of thousands fled to Bangladesh. The Gambia took Myanmar to the ICJ in 2019, and after a seven-year legal fight the court has ruled that Myanmar committed acts of genocide. Meanwhile some 1.2 million Rohingya remain in crowded camps, unable to return home.</description>
-<enclosure url="https://s.france24.com/media/display/1839856c-e421-11f1-9169-6b451f569414/w:1024/p:16x9/EN-20261119-140816-141029-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/1839856c-e421-11f1-9169-6b451f569414/w:1024/p:16x9/EN-20261119-140816-141029-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>China summit ends with little new, Europe backs Ukraine in Berlin</title>
-<link>https://www.france24.com/en/china-summit-ends-with-little-new-europe-backs-ukraine-in-berlin</link>
-<guid isPermaLink="false">41fb764541d0d9b2bb7e36f055f0f75b25a49b2c1d60066dbc9efd203a130ee0</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 14:04:03 +0000</pubDate>
-<description>The leaders of China, the United States and Russia met in Shenzhen for a historic first, but the summit brought little new: non-binding statements on peace and no plan to meet regularly. In Berlin, Europeans gathered to show their support for Ukraine, a pointed answer to a summit where Europe had no seat, as FRANCE 24's Kethevane Gorjestani explains.</description>
-<enclosure url="https://s.france24.com/media/display/edf9490a-e41f-11f1-8a6b-e56ab3dc0809/w:1024/p:16x9/EN-20261119-140128-140711-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/edf9490a-e41f-11f1-8a6b-e56ab3dc0809/w:1024/p:16x9/EN-20261119-140128-140711-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>In South Korea, women forced into prostitution on US military bases seek justice</title>
-<link>https://www.france24.com/en/tv-shows/focus/20261119-in-south-korea-women-forced-into-prostitution-on-us-military-bases-seek-justice</link>
-<guid isPermaLink="false">69f7c325b834fd7db45148af4f468573ff20d79390cb4b942304f81248c4e584</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 13:21:41 +0000</pubDate>
-<description>Tens of thousands of women were forced to work in South Korean state-sanctioned brothels used by American soldiers based in the country after the Korean War. They were raped, physically abused and forcibly confined. Now, after decades of silence, some of these women are speaking out.</description>
-<enclosure url="https://s.france24.com/media/display/ea501f5a-e42d-11f1-8d9d-e56ab3dc0809/w:1024/p:16x9/EN-NW-PKG-F24-FOCUS-S-KOREA-COMFORT-WOMEN-NO-MIX-Sub-01.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/ea501f5a-e42d-11f1-8d9d-e56ab3dc0809/w:1024/p:16x9/EN-NW-PKG-F24-FOCUS-S-KOREA-COMFORT-WOMEN-NO-MIX-Sub-01.jpg" medium="image"/>
-</item>
-<item>
-<title>'Their lives, their rights, their history': Not the end of accountability for the Rohingya people'</title>
-<link>https://www.france24.com/en/their-lives-their-rights-their-history-not-the-end-of-accountability-for-the-rohingya-people</link>
-<guid isPermaLink="false">d94c339abf0cf650ddfd58bc15e447b324c882e216cac5ab92f20aa2af9f5714</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 13:19:21 +0000</pubDate>
-<description>Oliver Farry welcomes Sonya Sceats, Director and CEO of the British Institute of International and Comparative Law. The case brought by The Gambia against Myanmar before the ICJ, and the court ruling, both have great significance for the Rohingya people, the interpretation of the Genocide Convention and the possibility of future criminal proceedings. The case could also have important implications for South Africa's proceedings against Israel, where there are “many similarities between the two cases.”</description>
-<enclosure url="https://s.france24.com/media/display/51e634f6-e415-11f1-a6b4-ebb478925cf0/w:1024/p:16x9/EN-20261119-081406-081457-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/51e634f6-e415-11f1-a6b4-ebb478925cf0/w:1024/p:16x9/EN-20261119-081406-081457-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>What to know about Xi, Putin and Trump's historic trilateral summit</title>
-<link>https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit</link>
-<guid isPermaLink="false">252930a78203c5a8d8ad56a430e04a7929584c43ce3f33bc21e688263801aa54</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 13:11:27 +0000</pubDate>
-<description>China's Xi Jinping, Russian President Vladimir Putin and his US counterpart Donald Trump met for a historic summit in Shenzhen, China, on Thursday, where they agreed on a "peace declaration". The three leaders pledged to reform the UN, increase supplies of refined petroleum products and uphold the immunity enjoyed by officials in international courts.</description>
-<enclosure url="https://s.france24.com/media/display/1625fff6-e35b-11f1-9206-ff16da94d1fe/w:1024/p:16x9/2026-11-18T132731Z-1890202118-RC2BQOA4C91Q-RTRMADP-3-APEC-SUMMIT.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/1625fff6-e35b-11f1-9206-ff16da94d1fe/w:1024/p:16x9/2026-11-18T132731Z-1890202118-RC2BQOA4C91Q-RTRMADP-3-APEC-SUMMIT.jpg" medium="image"/>
-</item>
-<item>
-<title>Poundland bosses warn of funding squeeze in fresh talks with minister</title>
-<link>https://news.sky.com/story/poundland-bosses-warn-of-funding-squeeze-in-fresh-talks-with-minister-13613974</link>
-<guid isPermaLink="false">10a29be53ffce57b0a6bc7497559828a69f4e923ed699824e76ff2bdbf265c62</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 12:58:00 +0000</pubDate>
-<description>Poundland's bosses have told the government that the discount retailer faces a further funding crisis just days before a cliff-edge which could lead to its collapse.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-croydon_7390973.jpg?20261029135718" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-croydon_7390973.jpg?20261029135718" medium="image"/>
 </item>
 <item>
 <title>WATCH: NASA's Voyager 1 now a light-day away after 1977 launch</title>
@@ -268,13 +92,13 @@
 <media:content url="https://s.abcnews.com/images/US/261119_gmafl_cat_reunion_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Top U.N. court rules Myanmar committed genocide against the Rohingya</title>
+<title>The U.N.'s top court rules Myanmar committed genocide against the Rohingya</title>
 <link>https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya</link>
 <guid isPermaLink="false">666ba17e29533e1ccf393ea7275322a3817bd876177cf95cbbae4a45a60867a1</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Thu, 19 Nov 2026 12:29:41 +0000</pubDate>
-<description>The International Court of Justice found that Myanmar security forces "acted with genocidal intent" against the Rohingya during the 2017 military operations in the northern Rakhine State. (Image credit: Salahuddin Ahmed)</description>
+<description>The International Court of Justice found that Myanmar security forces "acted with genocidal intent" against the Rohingya during military operations in the northern Rakhine state in 2017. (Image credit: Salahuddin Ahmed)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7626x5084+0+0/resize/7626x5084!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F3b%2F65170ca542b4b8f2a8692418a464%2Fgettyimages-2305284448.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7626x5084+0+0/resize/7626x5084!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F3b%2F65170ca542b4b8f2a8692418a464%2Fgettyimages-2305284448.jpg" medium="image"/>
 </item>
@@ -290,72 +114,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/1600x900!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2Feb%2F764cabba472e977ee14a47682acb%2Fworld-toilet-day-jack-sim-8884.jpg" medium="image"/>
 </item>
 <item>
-<title>'Grand Theft Auto VI', a 'masterpiece' 13 years in the making</title>
-<link>https://www.france24.com/en/tv-shows/press-review/20261119-grand-theft-auto-vi-a-masterpiece-13-years-in-the-making</link>
-<guid isPermaLink="false">22a76eb8d6c6f6d5f16085861f42e3176318b32e05c6edcefe767ef42605cb6e</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 12:22:53 +0000</pubDate>
-<description>PRESS REVIEW – Thursday, November 19: An historic trilateral summit takes place in Shenzhen between Xi Jinping, Donald Trump and Vladimir Putin. But is it more optics than substance? Also, a highly awaited decision from the International Court of Justice could redefine genocide. Finally, a huge cultural moment: "Grand Theft Auto VI" is out and the reviews are ecstatic.</description>
-<enclosure url="https://s.france24.com/media/display/47d4f970-e3e8-11f1-9b46-6d75ed565170/w:1024/p:16x9/Anglais-2026-11-19T06-26-17-269Z.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/47d4f970-e3e8-11f1-9b46-6d75ed565170/w:1024/p:16x9/Anglais-2026-11-19T06-26-17-269Z.jpg" medium="image"/>
-</item>
-<item>
-<title>Nigeria: States set to get their own police forces</title>
-<link>https://www.france24.com/en/nigeria-states-set-to-get-their-own-police-forces</link>
-<guid isPermaLink="false">a538130a0e7f7dd7a6fe67e416e5bd8f75fd9ddd36438ee1ce0e3fc6a6a1aaac</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 12:20:35 +0000</pubDate>
-<description>Nigeria has moved a step closer to letting its 36 states set up their own police forces. The National Assembly has sent a constitutional amendment bill to the president, as authorities seek state-run police to complement the federal force amid growing insecurity. Many states currently fund vigilante groups to fight armed groups like Boko Haram, but these groups are poorly trained and ill-equipped for the task. FRANCE 24's correspondent has the latest.</description>
-<enclosure url="https://s.france24.com/media/display/85e5a052-e410-11f1-8151-6b451f569414/w:1024/p:16x9/EN-20261118-214527-214725-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/85e5a052-e410-11f1-8151-6b451f569414/w:1024/p:16x9/EN-20261118-214527-214725-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>French 2027 presidential race: Green leader Tondelier draws closer to hard-left Mélenchon</title>
-<link>https://www.france24.com/en/french-2027-presidential-race-green-leader-tondelier-draws-closer-to-hard-left-melenchon</link>
-<guid isPermaLink="false">01a2bf46745c8f3756dc1b529909a6aec093ec0acb983c0b6786f49d870d3cc8</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 12:09:45 +0000</pubDate>
-<description>Six months before the first round of France’s presidential election, Green party leader Marine Tondelier is moving closer to Jean-Luc Mélenchon, the leader of the radical left. The move has caught the other candidates on the left and in the centre off guard, notably Raphaël Glucksmann. FRANCE 24's Clovis Casali explains.</description>
-<enclosure url="https://s.france24.com/media/display/eb283620-e40e-11f1-87c4-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-120842-121320-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/eb283620-e40e-11f1-87c4-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-120842-121320-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Senegal: Pastef removes President Faye from its ranks</title>
-<link>https://www.france24.com/en/senegal-pastef-removes-president-faye-from-its-ranks</link>
-<guid isPermaLink="false">1b2e7fd11a4f36ddb2cf88e9c16907fb4c3badd7eaed7cdb9575e525ac9dfb19</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 12:05:40 +0000</pubDate>
-<description>In Senegal, Pastef, the majority party led by National Assembly president Ousmane Sonko, has made official the departure of President Bassirou Diomaye Faye. It is the latest episode in a split with his former Prime minister that was already largely complete, and it comes in the middle of an economic crisis.</description>
-<enclosure url="https://s.france24.com/media/display/a851556a-e40f-11f1-b1b5-e56ab3dc0809/w:1024/p:16x9/EN-20261118-214326-214524-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/a851556a-e40f-11f1-b1b5-e56ab3dc0809/w:1024/p:16x9/EN-20261118-214326-214524-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Myanmar's Rohingya case: how does the ICJ define genocide?</title>
-<link>https://www.france24.com/en/myanmar-s-rohingya-case-how-does-the-icj-define-genocide</link>
-<guid isPermaLink="false">783277d01e65a34b6266b2ecebea849d85749760a9b3023a961d9a709d99caa7</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 11:22:31 +0000</pubDate>
-<description>The ICJ is preparing to rule on whether Myanmar committed genocide against the Rohingya, in a case brought by The Gambia after the 2017 crackdown. The key legal test is proving intent to destroy a group, which is notoriously hard, and the court’s reading of it could also weigh on South Africa’s case against Israel.</description>
-<enclosure url="https://s.france24.com/media/display/92ec7f8c-e406-11f1-8385-6d75ed565170/w:1024/p:16x9/EN-20261119-111234-111441-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/92ec7f8c-e406-11f1-8385-6d75ed565170/w:1024/p:16x9/EN-20261119-111234-111441-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>What to know before Anthropic goes public</title>
-<link>https://abcnews.com/Business/anthropic-public/story?id=138174650</link>
-<guid isPermaLink="false">0bbb79527ec417f4fd8aca7340b51ec02066605f8a1bf52c18426ed5dfda2d90</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 11:21:50 +0000</pubDate>
-<description>Artificial intelligence giant Anthropic stands poised to go public at a valuation north of $1 trillion, marking a major test for the AI boom.</description>
-<enclosure url="https://s.abcnews.com/images/Business/anthropic-gty-jef-261118_1795014337681_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Business/anthropic-gty-jef-261118_1795014337681_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Incoming House majority leader Katherine Clark stresses Democratic unity</title>
 <link>https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats</link>
 <guid isPermaLink="false">892f970dcb70f1c46bc59c028993087b29f17cdd8eda5c3820ac6e24cb6a545e</guid>
@@ -365,17 +123,6 @@
 <description>As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks. (Image credit: Anna Moneymaker)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5168x3445+0+0/resize/5168x3445!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2F5b%2Faf2131c84519b9380c490cd6fae6%2Fgettyimages-2305757836.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5168x3445+0+0/resize/5168x3445!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2F5b%2Faf2131c84519b9380c490cd6fae6%2Fgettyimages-2305757836.jpg" medium="image"/>
-</item>
-<item>
-<title>AI lab Anthropic sets stock market record with $81 billion IPO</title>
-<link>https://www.france24.com/en/tv-shows/business/20261119-ai-lab-anthropic-sets-stock-market-record-with-81-billion-ipo</link>
-<guid isPermaLink="false">d7818ee6ffea53066d9ec7d41d260e288523e40fc5d7ba0bb3cc26f410f2661c</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 11:02:54 +0000</pubDate>
-<description>Anthropic becomes the first "pure play" AI lab to go public, with an eye-watering $1.5 trillion valuation, a bellwether moment amid growing concerns of a financial bubble in the sector. Meanwhile, a scientific study shows US data centres are emitting as much greenhouse gas as entire nations.</description>
-<enclosure url="https://s.france24.com/media/display/432826a6-e3fa-11f1-af2c-1ba7ddfab527/w:1024/p:16x9/191126-BUSINESS-DAILY.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/432826a6-e3fa-11f1-af2c-1ba7ddfab527/w:1024/p:16x9/191126-BUSINESS-DAILY.jpg" medium="image"/>
 </item>
 <item>
 <title>Judge extends temporary restraining order that blocks construction of Trump's arch</title>
@@ -412,8 +159,8 @@
 </item>
 <item>
 <title>Muslims will outnumber Christians worldwide by 2035, report says</title>
-<link>https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2070-report-says</link>
-<guid isPermaLink="false">532fc0ced78a4b563b56680d07b038ba409cd35fe24f9facd7dcadd94dd19a93</guid>
+<link>https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says</link>
+<guid isPermaLink="false">cd1cc82e314257f6a9a15c2695b7e9e66c843b705421596db554acff09ab742b</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Thu, 19 Nov 2026 10:00:00 +0000</pubDate>
@@ -486,6 +233,17 @@
 <description>Braden Peters is accused of giving alcohol to a teen and sexually assaulting her at his family's Cape Cod home.</description>
 <enclosure url="https://s.abcnews.com/images/WNT/261118_wn_ramos_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/WNT/261118_wn_ramos_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Nearly 10K pounds of lead azide to be blasted at Army plant, causing lead dust plume</title>
+<link>https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613</link>
+<guid isPermaLink="false">812b9d9298bef71373146e5e2c1c4d8f9f72702acd877bf5dff757731a0ab7ff</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 18 Nov 2026 22:57:51 +0000</pubDate>
+<description>Two rapid controlled detonations are scheduled to take place at the Iowa Army Ammunition Plant in Middletown on Friday.</description>
+<enclosure url="https://s.abcnews.com/images/US/iowa-army-ammunition-plant-ht-jt-261118_1795034684135_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/iowa-army-ammunition-plant-ht-jt-261118_1795034684135_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Mullin grilled about nationwide ground stop as FAA administrator says 'blame me'</title>
@@ -640,17 +398,6 @@
 <description>ABC News' Danny New talks to a mother in England whose family dog's actions helped alert her that her baby boy had a congenital heart condition.</description>
 <enclosure url="https://s.abcnews.com/images/International/261118_gmafl_dog_baby_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/International/261118_gmafl_dog_baby_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>US loses measles-free status amid worst outbreak in 35 years</title>
-<link>https://news.sky.com/story/us-loses-measles-free-status-amid-worst-outbreak-in-35-years-13613526</link>
-<guid isPermaLink="false">eb3cdf8f161de507d53468cd465278fdbd8ac2f5a8c35c5c8d94879cc9ee6bf0</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Wed, 18 Nov 2026 10:42:00 +0000</pubDate>
-<description>The US has lost its measles-free status after 26 years - for failing to prevent the virus spreading for more than a year.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-measles-testing-texas_7409438.jpg?20261118105509" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-measles-testing-texas_7409438.jpg?20261118105509" medium="image"/>
 </item>
 <item>
 <title>WATCH: Eagles Autism Foundation staff shine on game day</title>

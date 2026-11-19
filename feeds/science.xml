@@ -26,17 +26,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/uyuB8CbDgvkMvsRakAizzg-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>Uncontacted Awá of Brazil Emerge From Rainforest Seeking Food</title>
-<link>https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html</link>
-<guid isPermaLink="false">87c7bc63471ca93c5c4288b56a2052bb469f2f16a17fa20860beaa8036b9270c</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 16:34:41 +0000</pubDate>
-<description>A group of 20 people emerged from the forest and asked for food, an Indigenous peoples’ rights group said, raising fears that environmental degradation had left them with no choice but to reach out.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>Woman entered hibernation-like state during winter for more than 30 years</title>
 <link>https://www.newscientist.com/article/2599918-woman-entered-hibernation-like-state-during-winter-for-more-than-30-years</link>
 <guid isPermaLink="false">a27555a31264e3b6a2fd98a4427cff7070cdeb9797afaee399bf8d1437521f3d</guid>
@@ -66,30 +55,8 @@
 <category>science</category>
 <pubDate>Thu, 19 Nov 2026 15:33:55 +0000</pubDate>
 <description>5 min read NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars NASA’s Fermi Gamma-ray Space Telescope, illustrated here, scans the entire sky every three hours as it orbits Earth. Its publicly available data helps scientists find the rapidly spinning cores of dead stars, known as pulsars. NASA’s Goddard Space Flight Center/Chris Smith (USRA/GESTAR) An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. This opens the door to discovering many more of these rapidly spinning objects. A paper describing the results published Thursday in the Physical Review Letters. Using 15 years of data from NASA’s Fermi Gamma-ray Space Telescope and a cryptography-based method developed by study co-authors Dotan Gazith and Barak Zackay from the Weizmann Institute of Science in Israel, the team found PSR J1622−7204, an isolated pulsar spinning 261 times per second, using the equivalent of 10 hours of computing time on a standard computer processor. By comparison, the previous best method failed to find the pulsar, despite using enough computing power that a standard processor would take 600 years to perform the calculation. A pulsar is a rapidly spinning neutron star that sweeps beams of radiation toward Earth, much like a lighthouse. Finding pulsars in gamma-ray data is extraordinarily difficult because Fermi detects only a tiny number of photons from a given pulsar, mixed in with background noise from other gamma-ray-emitting sources and the broader universe. To find the signal, researchers must accurately guess several unknowns at once: how fast the star spins, how quickly the spin is slowing down, and precisely where it sits in the sky. Searching every possible combination would require an impossible number of computations. “We don’t see every rotation from the pulsar, and we can’t just count the rotations to work out where the photon came from,” said lead author Daniel Pook-Kolb, a scientist at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Germany. “We have a four-dimensional grid, and we must search each direction with millions of trials in it. There’s just not enough computing power on Earth to do it.” This artist’s concept shows a pulsar, which emits light in regular pulses as it rotates, like a cosmic lighthouse. Pulsars are dense remnants of exploded stars, and are part of a class of objects called neutron stars. Openly available data from NASA’s Fermi space telescope can help scientists spot pulsars in the gamma-ray spectrum. NASA/JPL-Caltech Traditionally, scientists have searched for these pulsars by breaking Fermi data into smaller chunks and analyzing them by crowdsourcing computing power from volunteers around the world. Even with these volunteers contributing their computers’ unused processing power to run searches, it typically took the equivalent of hundreds of computer-years to identify a single</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png?w=1652&amp;h=928&amp;fit=clip" type="image/png"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png?w=1652&amp;h=928&amp;fit=clip" medium="image"/>
-</item>
-<item>
-<title>The Permitting Bill Is Splitting the Environmental Movement</title>
-<link>https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html</link>
-<guid isPermaLink="false">960fcdf47e0439a017fb38ad2e1a58308fff2ef0a8efc8a4e93c2b17232c4e78</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 15:33:17 +0000</pubDate>
-<description>Speeding up approvals for clean energy could help fight global warming — but many green groups fear its other provisions go too far.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/18/multimedia/18cli-permitting-debate-stillpromo/18cli-permitting-debate-stillpromo-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/18/multimedia/18cli-permitting-debate-stillpromo/18cli-permitting-debate-stillpromo-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Lake Pelku</title>
-<link>https://www.nasa.gov/image-article/lake-pelku</link>
-<guid isPermaLink="false">438a9e6570896922c8a5b50e085d1d7db0dcfacc56ff03760573df4d0a828c5f</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 15:32:39 +0000</pubDate>
-<description>CSA/Joshua Kutryk An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real time and support research and disaster relief. Learn more about Lake Pelku. Image credit: CSA/Joshua Kutryk</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg?w=2048" medium="image"/>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png?w=1280&amp;h=928&amp;fit=clip" type="image/png"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png?w=1280&amp;h=928&amp;fit=clip" medium="image"/>
 </item>
 <item>
 <title>Empire State Building glows gold for NASA's Voyager spacecraft | Space photo of the day for Nov. 19, 2026</title>
@@ -114,17 +81,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/ssc-20261118-s01364.jpg?w=1024" medium="image"/>
 </item>
 <item>
-<title>NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth</title>
-<link>https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth</link>
-<guid isPermaLink="false">54060f0c128ced079762281dfa0b720f0393b2644d5dcc208d3017a7c7c84ad5</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 14:31:15 +0000</pubDate>
-<description>Voyager 1, depicted in this artist’s concept, reached one light-day from Earth on Nov. 18, 2026. Credit: NASA/JPL-Caltech NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team members at NASA’s Jet Propulsion Laboratory in Southern California, managed by Caltech, heard from the probe 24 hours later, the time it took for the spacecraft’s radio signal traveling at the speed of light to reach Earth, early Thursday. “Traveling a light-day is a singular feat for a spacecraft, but Voyager is so much more than a distant traveler. The Voyager mission would be remarkable just for what it contributed to planetary science with the Grand Tour of the outer planets,” said Joe Westlake, director, Heliophysics Division at NASA Headquarters in Washington. “But it went on to become central to NASA’s fleet of heliophysics missions offering insights into the star that we all revolve around, the Sun.” Scientists use light to measure the vast distances of space. Light travels at about 186,000 miles (299,000 kilometers) a second in a vacuum. A ray of sunlight passing Earth takes about 1.3 seconds to reach the Moon, about four hours to reach Neptune, and another 20 hours to reach Voyager 1. For comparison, a light-year is 5.88 trillion miles (9.46 trillion kilometers). Even though the team has not received science and engineering data from Voyager 1 since Nov. 14, the spacecraft is sending what is called a carrier signal, which typically conveys that data to Earth. Mission engineers used the carrier signal and trajectory calculations to confirm the light-day milestone. They continue to analyze the issue impacting the science and engineering data. Humanity’s only probes in interstellar space, Voyager 1 and its twin, Voyager 2, launched in 1977 to take advantage of a rare planetary alignment. Managed by JPL, they were only the third and fourth spacecraft to visit Jupiter and Saturn, and the first to return high-resolution imagery, transforming our understanding of these worlds and their moons. Voyager 2 went on to study the ethereal ice giants, Neptune and Uranus. Both spacecraft continue to measure changes in the Sun’s magnetic field across vast distances. “Voyager 1 crossing the light-day threshold is yet another historic feat on an extraordinary voyage of discovery,” said Dave Gallagher, JPL director. “Above all, this milestone stands as a testament to the exceptional teams who built, programmed, and fly these spacecraft today, and who have overcome countless challenges to keep them connected to Earth across the vastness of space. As NASA pushes toward new frontiers in human and robotic exploration, Voyager and the people behind its success continue to inspire us to reach f</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-light-day-horizontal.png?w=2048" type="image/png"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-light-day-horizontal.png?w=2048" medium="image"/>
-</item>
-<item>
 <title>Leonid meteor shower thrills stargazers worldwide with colorful sky show (photos/video)</title>
 <link>https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-thrills-stargazers-worldwide-with-colorful-sky-show-photos-video</link>
 <guid isPermaLink="false">5cf8f2c563c766ca9f01555d5926bbc326aa62934e431914ac8b202f62ae56ce</guid>
@@ -134,17 +90,6 @@
 <description>null The Leonid meteor shower put on quite the show this week, with bright, colorful meteors thrilling stargazers worldwide and we've got the photos to prove it. The annual meteor shower peaked overnight on Nov. 17-18, with photographers braving chilly temperatures, clouds and even fog in hopes of catching the perfect shot. And for some, their patience certainly paid off. Leonids occur when Earth passes through debris left behind by comet 55P/Tempel-Tuttle, which orbits the sun approximately every 33 years. As tiny pieces of comet debris enter Earth's atmosphere at speeds of up to 44 miles (71 kilometers) per second, they burn up, producing bright streaks of light. The meteor shower is also famous for producing some of the most spectacular meteor storms in history. In fact, this year marks the 60th anniversary of the great Leonid meteor storm of 1966, when observers reported an astonishing 40 meteors per second at the peak. To mark the occasion, we spoke to people who witnessed the extraordinary event first-hand and you can read their remarkable accounts in our special feature . But back to the present! Let's take a look at some of the best photographs and videos captured during this year's impressive display. Photographer Austin Rebello drove several hours to Nubble Lighthouse in York, Maine, to meet up with fellow astrophotographer Rob Wright and hopefully capture a Leonid or two. "I specifically drove a few hours up there for hopes of capturing exactly this, as the radiant of the Leonids rose behind the lighthouse," Rebello told Space.com in an email. Leonid meteor streaks over Nubble Lighthouse, York, Maine. (Image credit: Austin Rebello) "My friend and I were lucky enough to also see it with our eyes, and it was definitely a top 3 meteor for me, as it was even bright enough to briefly cast shadows." A close up view of a Leonid meteor. (Image credit: Austin Rebello) Rebello also revealed on X that the meteor left behind a vibrant blue trail that remained visible to the naked eye for more than 30 seconds. The meteor left a vibrant blue streak that was visible to the naked eye for more than 30 seconds. (Image credit: Austin Rebello) Fellow astrophotographer Rob Wright was also at Nubble Lighthouse that night, where he captured the lingering trail of a particularly bright meteor on camera for an incredible 12 minutes, according to a post on X. "Turns out the smoke from the bright meteor early this morning was visible on camera for TWELVE (12) MINUTES just lingering there," Wright wrote on X . Turns out the smoke from the bright meteor early this morning was visible on camera for TWELVE (12) MINUTES just lingering there. I was able to make a rough timelapse video to show this.--November 18, 2026York, Maine https://t.co/pm9htHcMm3 November 18, 2026 This phenomenon is known as a persistent meteor train and is created when a bright meteor leaves behind a trail of ionized gas that continues to glow long after the meteor itself has disappeared. These</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/cJpanDy9cHRGTeMvi5xpdY-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/cJpanDy9cHRGTeMvi5xpdY-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks</title>
-<link>https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html</link>
-<guid isPermaLink="false">30f4f852256d53706de6e80c29d82840f4b97c5483427c36b76d9f0e8def25a4</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 13:56:48 +0000</pubDate>
-<description>From the Arctic to the tropics, unusual weather and extreme heat is sparking worry about how quickly humans are reshaping the Earth’s natural processes.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027</title>
@@ -180,17 +125,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/x92jSVrYz5idAHyxfXnJRC-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>Inside COP31: Part Trade Show, Part Climate Therapy Session</title>
-<link>https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html</link>
-<guid isPermaLink="false">f535d837030f95fefc6b842ceb4a3122cce3c2d76347bf656a79e6fbdfecad2e</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 10:02:50 +0000</pubDate>
-<description>A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>Otherworldly image of a porcelain crab wins ocean photography contest</title>
 <link>https://www.newscientist.com/article/2599610-otherworldly-image-of-a-porcelain-crab-wins-ocean-photography-contest</link>
 <guid isPermaLink="false">9a6765113a487c50db8994f06a183fda04bf86d37ace881b9b024965ea457cd6</guid>
@@ -224,17 +158,6 @@
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/DEEP-online-image_Vanguard_underwater_deployment_17m-deep-at-Tennessee-Reef_credit_-DEEP-and-Brendan-Hall.jpg" medium="image"/>
 </item>
 <item>
-<title>APOD: 2026 November 19 – The Horsehead and Flame Nebulas</title>
-<link>https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas</link>
-<guid isPermaLink="false">7050bc9bb18cc80eaa17227f1d3f09a26fe68cae9aa4b8846c6507bb3039a832</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 05:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Original Annotated The Horsehead and Flame Nebulas Explanation: Today’s image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion’s Belt . The instantly recognizable shape of a dark horse’s head at the center is the aptly named Horsehead Nebula . It is about five light-years tall and lies approximately 1,500 light-years away. It is made of dust and gas that obscure the red glow behind it, which is caused by hydrogen gas being ionized by the bright star Sigma Orionis at the top. The orange nebula with dark filaments on the left is the Flame Nebula . Closer to the Horsehead, the blue reflection nebula NGC 2023 is actively forming stars. The data for this “painting” were collected for almost six hours at the Utah Desert Remote Observatories , but the equipment was remotely controlled by the astrophotographer from his home, over 2,000 km away in Illinois . Tomorrow’s picture: V-G-R Date November 19, 2026 Credit Mark E. Killion Authors &amp; editors: Cecilia Chirenti, Robert Nemiroff, Jerry Bonnell, Keighley Rockcliffe A service of: ASD at NASA / GSFC , NASA Science Activation &amp; Michigan Tech. U. Random APOD Generator Yesterday’s Image APOD: 2026 November 18 – A Medium-Sized Solar Flare Tomorrow’s Image</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&amp;h=4800&amp;fit=clip" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg?w=6000&amp;h=4800&amp;fit=clip" medium="image"/>
-</item>
-<item>
 <title>El Niño Rains Paint the Atacama</title>
 <link>https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama</link>
 <guid isPermaLink="false">6f3f4555c9292586b858fe4acf1e23b029ba9d35bfde0d6ceecbfeeed7d34e90</guid>
@@ -242,8 +165,8 @@
 <category>science</category>
 <pubDate>Thu, 19 Nov 2026 05:00:00 +0000</pubDate>
 <description>Earth Observatory Science Earth Observatory El Niño Rains Paint the Atacama Earth Earth Observatory Image of the Day EO Explorer Topics All Topics Atmosphere Land Heat &amp; Radiation Life on Earth Human Dimensions Natural Events Oceans Remote Sensing Technology Snow &amp; Ice Water More Content Collections Global Maps World of Change Articles Earth Matters Blog Blue Marble: Next Generation EO Kids Mission: Biomes About About Us Subscribe 🛜 RSS Contact Us Search September 14 October 24 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison September 14 October 24 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison September 14 October 24 Curtain Toggle 2-Up Parts of the Atacama Desert in northern Chile, normally one of the driest places on Earth, turned red-purple, green, and white in austral spring 2026 following an unusually wet winter. The rain woke seeds lying dormant in the soil, setting off what scientists say may be the most extensive desierto florido , or “flowering desert,” of the satellite era. The rains came as El Niño was strengthening in the tropical Pacific. During an El Niño, the subtropical Pacific high that normally keeps the region dry weakens, while a blocking high tends to form in the South Pacific near the tip of South America. Together, these shifts push the Southern Hemisphere storm track equatorward. Beginning in mid-July, a series of storm fronts fed by an atmospheric river brought one of the heaviest July rain events in decades to a long stretch of Chile, from the Atacama region south to Los Lagos, according to Chile’s national weather service (Dirección Meteorológica de Chile). In August, back-to-back winter storms blanketed parts of the Atacama Desert in rare snow . The spring blooms that followed are visible in these satellite image pairs, which show the desert at different stages of flowering on September 14 (left) and on October 24 (right). The OLI (Operational Land Imager) on Landsat 8 acquired the September images, and the OLI on Landsat 9 acquired the October images. The pair above shows a part of the desert about 30 kilometers (20 miles) southwest of Copiapó, near the eastern sector of Desierto Florido National Park. The red-purple areas prominent in the October 24 scene are vast blooms of pata de guanaco, most likely Cistanthe longiscapa or another Cistanthe species, according to Roberto Chávez, a remote sensing scientist at Pontificia Universidad Católica de Valparaíso. Patches of red-purple Cistanthe are visible during a bloom in the Atacama Desert, shown in this photograph taken on October 24, 2026. Matías Pérez-Evens and Roberto O. Chávez/LabGRS-Instituto de Geografía- Pontificia Universidad Católica de Valparaíso. Chávez and colleagues photographed the Cistanthe blooms (above) in the area that same day. They were in the field to study the bloom with satellite data, drones, and digital cameras. The project aims to use these data to map how the bloom’s biodiversit</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=585&amp;h=329&amp;fit=clip" type="image/png"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=585&amp;h=329&amp;fit=clip" medium="image"/>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=1280&amp;h=329&amp;fit=clip" type="image/png"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=1280&amp;h=329&amp;fit=clip" medium="image"/>
 </item>
 <item>
 <title>Turmeric supplements offer little benefit for knee osteoarthritis</title>
@@ -268,17 +191,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/VKtmRF5SVL7rE7pZrqHr7A-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>How Much Do You Know About NASA’s Voyager Mission? Take Our Quiz.</title>
-<link>https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html</link>
-<guid isPermaLink="false">4fb79b6f8542d77248760189f7fafa018297ac81d9459500e0e2cef671dd200c</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 23:51:17 +0000</pubDate>
-<description>Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch</title>
 <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch</link>
 <guid isPermaLink="false">43aaa38ea1841c95fb3cbccaea36ceaa6a92fb5c213c9798054409e427060545</guid>
@@ -286,8 +198,8 @@
 <category>science</category>
 <pubDate>Wed, 18 Nov 2026 22:19:17 +0000</pubDate>
 <description>NASA’s Northrop Grumman Commercial Resupply Services 24 mission launched Saturday, April 11, 2026, aboard the company’s Cygnus XL spacecraft atop a SpaceX Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. NASA’s Northrop Grumman Commercial Resupply Services 25 mission will deliver approximately 11,000 pounds of science and supplies to the International Space Station. Credit: Northrop Grumman NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, or Northrop Grumman CRS-25. After arriving at the International Space Station, NASA astronauts Jessica Watkins and Luke Delaney, who are living and working aboard the space station, will use the Canadarm2 robotic arm to capture the Cygnus XL on Tuesday, Dec. 1. Ground controllers then will install it to the Unity module’s Earth-facing port for cargo unloading. NASA’s live launch and docking coverage will stream through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live Highlights of space station research and technology demonstrations being delivered aboard this Cygnus XL spacecraft include experiments to improve drug delivery for cancer and osteoarthritis, predict cancer spread, and advance treatments for muscle loss, as well as improve radiation sensing and advance food production for future long-duration missions. The spacecraft is scheduled to remain at the orbiting laboratory until May 2027, then depart with several thousand pounds of disposal items and other unneeded cargo, burning up harmlessly during re-entry. Northrop Grumman named the spacecraft the S.S. James “Jim” A. Lovell in honor of the former NASA astronaut. Lovell flew four missions, including Gemini VII, Gemini XII, Apollo 8, and the Apollo 13 mission around the Moon. Monday, Nov. 23 12 p.m.: Prelaunch teleconference will stream on NASA’s YouTube channel with the following participants: Gaurang Patel, operations integration manager, NASA’s Low Earth Orbit Program Jennifer Buchli, chief scientist, NASA’s Low Earth Orbit Program Dave Schiller, vice president, civil space and sciences, Northrop Grumman Jared Metter, director, flight reliability, SpaceX To participate in the teleconference, media must contact the NASA Johnson Space Center newsroom for call details by 11 a.m., Nov. 23, at: jsccommu@mail.nasa.gov or 281-483-5111. To ask questions, media must dial in no later than 10 minutes before the start of the call. The agency’s media credenti</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg?w=1920" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg?w=1920" medium="image"/>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg?w=1280" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg?w=1280" medium="image"/>
 </item>
 <item>
 <title>Astronomers witness a star eating its companion in 1st-of-its-kind observation</title>
@@ -312,17 +224,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/8jyVey3VPrfaF54tkdGT8g-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>Nepal Came to COP31 in Dire Need. It’s a Test for the World.</title>
-<link>https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html</link>
-<guid isPermaLink="false">6e628c0abe731da2d74d9cf3ac9ee8ecd5b9ec963cf296336002346204cb2660</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 20:08:36 +0000</pubDate>
-<description>A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>Earth is missing over a billion years of geological history. Scientists may have discovered why</title>
 <link>https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why</link>
 <guid isPermaLink="false">19a7d6612adad4e437431fd6e84ccc116801ef678afe244663f4b09b355d1010</guid>
@@ -334,17 +235,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/Ct8s5Y3wQjNajro5V9RcA8-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>N.I.H. Will Move Final Group of Retired Research Chimps to Sanctuary</title>
-<link>https://www.nytimes.com/2026/11/18/science/nih-chimpanzees-sanctuary.html</link>
-<guid isPermaLink="false">7ddbfe92b92e10b0dbbdb5983e7b464ad132a0d215ac107219bbd43d9e5bbea4</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 19:09:37 +0000</pubDate>
-<description>The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/18/multimedia/18SCI-NIH-CHIMPS-wmlq/18SCI-NIH-CHIMPS-wmlq-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/18/multimedia/18SCI-NIH-CHIMPS-wmlq/18SCI-NIH-CHIMPS-wmlq-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in</title>
 <link>https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in</link>
 <guid isPermaLink="false">6eed1609012d8d914fc8fc1928049d9221d36764f988a99200d96da95bebefd3</guid>
@@ -352,8 +242,8 @@
 <category>science</category>
 <pubDate>Wed, 18 Nov 2026 18:58:27 +0000</pubDate>
 <description>6 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Feet in woolen socks by the fireplace. Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people love the holidays, and some people are holiday-avoidant… and some live in the middle. What specific stressors or challenges you experience might not bother your sibling, your spouse or your coworker. We want to be aware of and have a clear understanding of what holidays mean to you as a person. The first step is to acknowledge what your feelings and emotions are – you may enjoy seeing the neighborhood holiday lights but not want to decorate yourself (totally okay!!), you may love shopping for the perfect gift for everyone on your list, you may avoid all of the activities — everyone one of these is an okay choice… you can be yourself always in all ways. Give yourself that permission. As you prepare, keep a list or a calendar of events – expected/obligated, okay to go or not go, Holiday Calendar: Expected/ Obligated Need to do Would be fun to do Nope Family dinner Work party off-site Travel Host at my house Religious services Neighborhood party Shopping Restaurants Combine this with your standard calendar and make a schedule. If you want, add to the list what your part is (bring a dish, gift, coordinate a visit, etc.). Having the majority of activities written down will help you not overbook, help you plan ahead, make it easier to say no, spend within your budget. Before you commit to something, say “I have to check my calendar first…. I will get back to you”. Prepare your budget – We often budget for gifts but forget that we will be buying more groceries for those special meals and favorite dishes…. We also need to budget for travel, having guests in your home, clothing, even allow for a higher electric bill. Write it down – keep receipts – let your immediate family know that this is what we have to spend, then track it as you go. Now that you have a current calendar and a working budget, set realistic expectations for your holiday experience. We know that not everything is optional and traditions will continue but none of it has to be perfect…minor stress and family friction can be normal. When telling someone no, use “I” statements and stick to the single issue at hand. In addition to your list/calendar, remember to prioritize time for yourself. Keep your regular sleep schedule as much as possible, eat well (if you have a heavy meal one day, lighten up the next), schedule time to get fresh air and a quick break. ALWAYS focus on what matters. Focus on meaningful connections rather than activities that cause you anxiety. If you feel emotional, take a few moments alone and identify the feeling, honor yourself for being able to face it and breathe thr</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/mafeap-holidays.jpeg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/mafeap-holidays.jpeg?w=2048" medium="image"/>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/mafeap-holidays.jpeg?w=1280" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/mafeap-holidays.jpeg?w=1280" medium="image"/>
 </item>
 <item>
 <title>NASA Announces Mid-Power Electric Rocket Challenge for US Companies</title>
@@ -363,19 +253,8 @@
 <category>science</category>
 <pubDate>Wed, 18 Nov 2026 18:12:32 +0000</pubDate>
 <description>2 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) The Hall thruster is part of an Solar Electric Propulsion (SEP) system that uses 10 times less propellant than equivalent chemical rockets. Image Credit: NASA/Michelle M. Murphy (Wyle Information Systems, LLC) NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep space robotic vehicles, Hall effect thruster systems are critical technology. NASA’s Advanced Mid-Power Electric Rocket (AMPERE) Challenge is offering $500,000, split between two winning U.S. companies, to accelerate the maturation of mid-power systems that could be foundational to supporting future NASA and commercial missions. Interested parties can learn more at an AMPERE Virtual Industry Day hosted by NASA on Thursday, Nov. 19. “This challenge approach seeks to remove key barriers and facilitate commercialization by providing access to NASA subject matter expertise, state-of-the-art technologies, and world-class facilities at no cost to challenge winners,” said Dr. Jason Frieman, AMPERE project co-owner at NASA’s Glenn Research Center in Cleveland. “We hope participants will see this as an opportunity to demonstrate their capabilities to NASA and other government and commercial stakeholders.” The competition is the first of NASA’s Tech Maturation Prize series, which seeks to accelerate development of breakthrough technologies in support of NASA missions while strengthening the U.S. space economy. The competition includes three phases. In Phase 1, each participating team will submit a concept design, manufacturing plan, and cost and performance projections. NASA may select two winners to advance to Phase 2, where teams will develop prototypes and collaborate with NASA personnel. Through no-cost licensing, these teams can gain early access to NASA-developed Hall effect thruster technologies that use krypton as a propellant. In Phase 3, prototypes will be tested at NASA Glenn at no cost to the participating teams. In total, two winning teams may be selected to receive up to $250,000 each. The AMPERE Challenge is open for registration until Jan. 27, 2027, at 5 p.m. EST. The challenge supports the Advanced Mid-Power Electric Rocket project, managed by NASA Glenn and NASA’s Jet Propulsion Laboratory in Southern California. The project is funded by the agency’s Research and Technology Mission Directorate . Yet2 administers the challenge through a contract with the NASA Center of Excellence for Collaborative Innovation within the Research and Technology Mission Directorate. For complete competition details, eligibility requirements, and official rules, visit: ampere.nasatechmaturation.o</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1041" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1041" medium="image"/>
-</item>
-<item>
-<title>An Unspoken Rule Spreads Through Biotech: Share Nothing</title>
-<link>https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html</link>
-<guid isPermaLink="false">8a9650bc16c44c73c362f49f45d114bb1274c1857d1c8c1275a473821e83cda7</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 18:06:58 +0000</pubDate>
-<description>Fears that Chinese companies will seize on biotech discoveries in the U.S. and quickly beat them to market with their own inventions or slightly altered dupes have prompted American companies to keep their discoveries secret.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg" medium="image"/>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1280" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1280" medium="image"/>
 </item>
 <item>
 <title>The real reasons we keep seeing big tech outages – it isn’t just hackers</title>
@@ -440,8 +319,8 @@
 <category>science</category>
 <pubDate>Wed, 18 Nov 2026 17:50:26 +0000</pubDate>
 <description>NASA/Bill Ingalls The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains sounds and images selected to portray the diversity of life and culture on Earth. Image credit: NASA/Bill Ingalls</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg?w=2048" medium="image"/>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg?w=1280" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg?w=1280" medium="image"/>
 </item>
 <item>
 <title>'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?</title>
@@ -453,17 +332,6 @@
 <description>null The pace is picking up on building, testing, and plotting out the flight paths for a trio of NASA Ingenuity-class helicopters to investigate Mars after riding there on a nuclear-powered rocket. NASA's Skyfall mission will see those mini-choppers dropped off at Mars by the space agency's Space Reactor-1 Freedom (SR-1) rocket, the first fission nuclear-powered interplanetary spacecraft slated for launch in late 2028. After its cruise phase and initial Mars flyby in 2029, that nuclear carrier craft will make a second Mars approach in the Fall of 2030 to unleash a SkyFall entry capsule outfitted with a fleet of small aerial vehicles that will soar across the Red Planet . But some experts are questioning why NASA is combining two such high-profile missions into one. "It is clear that SkyFall was approved for programmatic or political reasons," said Scott Hubbard, former director of NASA's Ames Research Center and the first Mars Program Director (aka the " Mars Czar ") at NASA Headquarters, told Space.com. "The connection to Space Reactor-1 seems to me to be a bit of a shotgun marriage, a tech-demo piggybacking on another mission as an opening bid for a 'nuclear NASA.'" Shotgun marriage? Hubbard is a retired adjunct professor of aeronautics and astronautics at Stanford University. He is a major voice in shaping Red Planet exploration goals, drawing upon his expertise as NASA's former foremost Mars authority. His understanding is that the basic concept had been developed as a follow on to Ingenuity, an attempt to move beyond a technology demo and into a science platform. Hubbard said that combining these two observations, the outcome presents "an unusual set of management issues." Since the SkyFall mission concept first appeared, he said, the usual sequence for a science mission is reversed. "The science community is having to scramble to back into a set of requirements and objectives that match the SkyFall capabilities. Fortunately the community is very creative," said Hubbard, "and the basic Planetary Decadal objectives are very broad." Decadal surveys reflect a broad consensus within the scientific community and provide detailed insights into the strategic priorities and mission directives set for the next decade across key scientific domains, including planetary exploration. Lemonade squeeze However, Hubbard said he has heard griping about the "fait accompli" process, "but the planetary community will make lemonade." It should be noted however, Hubbard continued, that this process is not how you would design a strategic set of missions as precursors for human exploration. "SR-1 Freedom is a technology demo that may or may not be ready for the Mars launch window in 2028. It is clear that the Mars Program has a standard launch concept in their back pocket," said Hubbard. "Nuclear Electric Propulsion [NEP] is of little value in traveling to Mars, not shaving any time off the transit. The real value of NEP is for risk reduction, use at the moon, ou</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/5WC4k7CxeW2EBfXrzQcUGV-1920-80.png" type="image/png"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/5WC4k7CxeW2EBfXrzQcUGV-1920-80.png" medium="image"/>
-</item>
-<item>
-<title>California Research Measure Is a Windfall for a Billionaire’s Pet Project</title>
-<link>https://www.nytimes.com/2026/11/18/science/california-prop-38-gary-michelson.html</link>
-<guid isPermaLink="false">2a396d573aa59732a06470bada64d632f2b30b0c6a9de1b8d054f437e69a7c1c</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 16:59:40 +0000</pubDate>
-<description>Dr. Gary Michelson, with his wife, Alya Michelson, at the construction site of the U.C.L.A. Research Park, which will house the California Institute for Immunology and Immunotherapy he co-founded, in 2024.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/17/science/17SCI-PROP-38-FINE-PRINT/17SCI-PROP-38-FINE-PRINT-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/17/science/17SCI-PROP-38-FINE-PRINT/17SCI-PROP-38-FINE-PRINT-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>'Project Hail Mary' is heading back to theaters this December</title>
@@ -532,28 +400,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/2KzTGbpQspGErKYst3M7t4-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner</title>
-<link>https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html</link>
-<guid isPermaLink="false">00594b07353ae2741b0e136b7059ce4f5d3fcd959565d23801ee9b8a3dd24b00</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 03:26:28 +0000</pubDate>
-<description>The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Permitting Bill Would Charge Data Centers Billions for Power</title>
-<link>https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html</link>
-<guid isPermaLink="false">108a32d3b79a7705a0a5586732c2701070e1d8ec80b838182966967f472297de</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 00:59:09 +0000</pubDate>
-<description>The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/16/multimedia/16cli-permitting-data-centers-01-qhbt/16cli-permitting-data-centers-01-qhbt-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/16/multimedia/16cli-permitting-data-centers-01-qhbt/16cli-permitting-data-centers-01-qhbt-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade?</title>
 <link>https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade</link>
 <guid isPermaLink="false">b6e8a51987181f54d0eb3bd58b3e49c10626b5ba8f8fc16cd1629ea924fa5545</guid>
@@ -563,17 +409,6 @@
 <description>null Voyager 1 is about to reach a light-day of distance in space, but Voyager 2 won't hit the mark until about 2035. Why the big difference? On Nov. 18, Voyager 1 will be so far away from Earth that it will take a full light-day (24 hours) to send a signal to the distant spacecraft, at 16,094,799,096 miles (25,902,068,356 kilometers). Since light is essentially the maximum speed in the universe (absent using devices like wormholes, or quantum-physics puzzles), it's a big deal — so big that NASA will be celebrating the milestone by asking fans to shine Morse Code signals at the sky. But why will Voyager 2 take nearly a decade longer? It comes down to choices made for speed and science during the twin missions' nearly 50-year journey, specifically during the first bit when they were flying by planets. The result is Voyager 1 is zooming out at a speed of 3.5 Earth-sun distances (astronomical units a year), while Voyager 2 has a more stately speed of 3.1 Earth-sun distances, according to NASA . Need for speed The original aim of both the spacecraft, which launched about two weeks apart in 1977 with Voyager 2 going first, was to look at Jupiter and Saturn. If funding persisted, which it did, the hope was to bring Voyager 2 past Uranus and Neptune, taking advantage of a rare planetary alignment. Voyager 1, by contrast, made a turn at Saturn to look at the planet's rings and the prebiotic (pre-life-chemistry) moon of Titan , before flying outside the plane of the solar system. NASA had a range of trajectory options to consider when launching the spacecraft, and elected to bring Voyager 1 at a faster trajectory — as illustrated in this video by Britannica, where you can quickly see the spacecraft overtaking Voyager 2 on its way to Jupiter even though Voyager 1. Voyager 1 arrived at Jupiter on March 5, 1979 while Voyager 2 got there four months later on July 9. The trajectories of Voyager 1 and 2 through the outer solar system. (Image credit: NASA/JPL-Caltech) Each of the spacecraft then performed a "gravity assist"—a sort of slingshot around the planet in which they took a tiny bit of momentum from Jupiter to gain speed as the spacecraft flew to Saturn. This technique is used constantly, such as recently when the ESCAPADE Mars mission flew two spacecraft by Earth on the way to the Red Planet, as it allows spacecraft to gain speed while saving on fuel. The planets themselves don't slow down that much. "Because the planet is so much more massive than the spacecraft, the transfer doesn't affect the planet to any measurable extent, but to the spacecraft it's a big deal," the Planetary Society wrote . "For example, we can calculate that during the Voyager encounters with Jupiter in 1979, Jupiter slowed down by roughly 10 to the -24th power kilometers per second — a change much too small to measure." "But each Voyager gained about 10 km/s [6.2 miles/s], a pretty big number," the society continued about the Jupiter encounter. This was "enough to put them on a</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/zZT8rszrQ9SSmarSrsRfiQ-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/zZT8rszrQ9SSmarSrsRfiQ-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>Judge Finds Trump’s Planned Seabed Mining Auction Violated Law</title>
-<link>https://www.nytimes.com/2026/11/17/climate/seabed-mining-lease-auction.html</link>
-<guid isPermaLink="false">186fc286964259c5dcee044cd20fc687a636c2704d6d0a149df2147273885a65</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 21:55:37 +0000</pubDate>
-<description>It’s unclear whether the Trump administration will proceed with a lease sale set for Thursday to permit companies to mine the ocean floor off American Samoa.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/17/science/17CLI-SEABED-MINING/17CLI-SEABED-MINING-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/17/science/17CLI-SEABED-MINING/17CLI-SEABED-MINING-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?</title>
@@ -598,17 +433,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/kmESEqHWcyZPbsQkYToQNX-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>A.I.’s People-Pleasing Problem</title>
-<link>https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html</link>
-<guid isPermaLink="false">a797a9c3fad9c925fdf8a7983be7e14964e5265429ff432b44b6d34567fda23d</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 19:16:41 +0000</pubDate>
-<description>Researchers tested 33 of the most widely used A.I. chatbots on tasks aimed at revealing potential climate disinformation risks.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/17/multimedia/17cli-newsletter-chatbots-sub-whjm/17cli-newsletter-chatbots-sub-whjm-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/17/multimedia/17cli-newsletter-chatbots-sub-whjm/17cli-newsletter-chatbots-sub-whjm-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>Astronomers discover rare black holes that formed when stars failed to go supernova</title>
 <link>https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova</link>
 <guid isPermaLink="false">f7873401a5441e171e826860c307bee4e7bd165231067a56cf85418d35619731</guid>
@@ -618,17 +442,6 @@
 <description>null Gravitational waves have revealed a population of black holes that may have been born when masssive stars failed to go supernova. Most of us know the origin story of black holes , or we thought we did. Massive stars run out of the fuel for nuclear fusion and their cores collapse. As this happens, the stars' outer layers expand outwards. Shockwaves from the core collapse strike the outer layers, triggering a supernova explosion. The collapsed core creates a black hole. However, new research based on gravitational wave data collected by LIGO (Laser Interferometer Gravitational-Wave Observatory) and its gravitational wave detector partners, Virgo and KAGRA (Kamioka Gravitational Wave Detector), suggests this might not be the complete picture of black hole birth. The team behind the research suggests some massive stars go out with a whimper rather than a bang and that these "failed supernovas" can also spawn black holes. The hint of this comes from the over 300 black hole collisions spotted by LIGO-Virgo-KAGRA since the detectors first "heard" ripples in space from these distant events in 2015. "A vast majority of the merging black holes in the universe are about 10 times the mass of our sun," LIGO team member Katerina Chatziioannou, of the California Institute of Technology (Caltech), said in a statement. "Our data are showing that this group of black holes may have a common origin — they may be a distinct subpopulation that failed to go supernova. "These results represent a connection between the gravitational-wave data and underlying astrophysics we are trying to extract." Mass and spin of black holes indicate stars died with a whimper not a bang Currently, there is no hard evidence of failed supernovas, but their existence is well supported theoretically. In fact, scientists think there is a vast population of massive stars out there that imploded rather than exploded, directly collapsing into black holes. And these may be black holes with around ten times the mass of the sun (10 solar masses) found in merging pairs. Chatziioannou led a team that examined gravitational wave data to confirm this concept. To do this, they looked at the distribution of the masses of 257 black hole mergers detected by the LIGO – Virgo – KAGRA network over the past 10 years. This revealed a peak of 10-solar-mass black holes that represented 75% of the entire sample. If this was expected, what the team found that wasn't predicted was a lack of black holes with masses 12 to 16 times the mass of the sun. "We see 10 solar-mass black holes merging all the time," team member Isaac Legred of the University of Illinois Urbana-Champaign said. "But why are, say, 14 solar-mass black holes so rare? The gap we see in the distribution of masses indicates there may be a special cocktail of internal physics that goes into forming the abundance of 10 solar-mass black holes." Hubble images from 2007 and 2015 show an example of a star thought to have died via a failed supernova. A</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/8igT6ZMQ99oyByjRB3923n-1920-80.png" type="image/png"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/8igT6ZMQ99oyByjRB3923n-1920-80.png" medium="image"/>
-</item>
-<item>
-<title>What Can Genes Reveal About Chronic Pain?</title>
-<link>https://www.nytimes.com/2026/11/17/science/genes-chronic-pain.html</link>
-<guid isPermaLink="false">c46df62fe28174b80a212072c7b11d0b71db9e69a83515c25296ef81ef1753a4</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 18:53:19 +0000</pubDate>
-<description>Blood samples at a biobank. The study pooled genetic and health records from more than 1.2 million people across three large biobanks with the aim of mapping chronic pain’s genetic architecture.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/17/science/17SCI-PAIN-GENES/17SCI-PAIN-GENES-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/17/science/17SCI-PAIN-GENES/17SCI-PAIN-GENES-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff</title>
@@ -662,28 +475,6 @@
 <description>null As NASA's Voyager 1 spacecraft prepares to reach a historic distance from Earth, the agency is inviting people around the world to celebrate by shining a light into the night sky in honor of humanity's farthest-flung spacecraft. The event, called "Shine Bright for Voyager's Light-Day," will take place after sunset on Tuesday (Nov. 17), the day before Voyager 1 gets one light-day from Earth . And that's a big milestone: One light-day is the distance light travels in a day — about 16 billion miles (26 billion kilometers). NASA is encouraging "Shine Bright" participants to create a symbolic wave of golden light around the planet by flashing the spacecraft's three-letter mission call sign, VGR, in Morse code, according to a statement from the space agency. To celebrate the spacecraft, participants can use a flashlight, phone, bike light or other portable light source to send the signal skyward. And don't fret if you're unfamiliar with Morse code : NASA has created an automated flasher that can be opened in a smartphone or tablet browser to display the VGR sequence. The spacecraft’s call sign pattern consists of three quick flashes followed by one long flash for the letter V, two long flashes and one quick flash for G, and one quick flash, one long flash and another quick flash for R. Participants are encouraged to repeat the sequence for about a minute, NASA officials said. The three-letter call sign for NASA's Voyager mission, VGR, spelled out in Morse code. (Image credit: NASA/JPL-Caltech) NASA also invites people to photograph or record their light signals and share them on social media, tagging the agency's official account, @NASA. The goal is to create a worldwide display of light marking a milestone nearly five decades in the making. The celebration is intended as a symbolic tribute rather than an actual attempt to communicate with Voyager 1 . At a distance of one light-day from Earth, the spacecraft is so far away that even radio signals traveling at the speed of light take approximately 24 hours to reach it. A flashlight or phone signal from Earth, of course, cannot reach the probe; NASA communicates with it using its Deep Space Network of radio dishes. Voyager 1 will get one light-day from Earth on Nov. 18, 2026. (Image credit: NASA/JPL-Caltech) Launched on Sept. 5, 1977, Voyager 1 has spent nearly 50 years traveling through space and is now the most distant human-made object from Earth. When it reaches the one-light-day milestone, it will have traveled a distance that light itself takes 24 hours to cross. Its twin, Voyager 2 , is expected to reach the same milestone in November 2035. (The two spacecraft took different routes through the solar system.) The public celebration will be followed by another opportunity to learn more about the historic mission. On Thursday (Nov. 19) at 12 p.m. EST (1700 GMT), NASA's Jet Propulsion Laboratory in Southern California will host a moderated discussion with Voyager mission team members and NASA lea</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>John H. Powers III to Lead NIAID Amid Turmoil</title>
-<link>https://www.nytimes.com/2026/11/16/science/niaid-chief-john-powers.html</link>
-<guid isPermaLink="false">d7511bd8edaaef9e950947315348ab0831f9c42ee2dc820e5671465ad6dd5071</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 16:54:30 +0000</pubDate>
-<description>Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Space Selfie</title>
-<link>https://www.nasa.gov/image-detail/iss075e0253155</link>
-<guid isPermaLink="false">9d95b245961adc41ab597c4aaf226d9ab433a21af9d2062639bb4e9d2828bc14</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 16:52:00 +0000</pubDate>
-<description>NASA astronaut and Expedition 75 flight engineer Anil Menon takes an out-of-this-world “space selfie.”</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg" medium="image"/>
 </item>
 <item>
 <title>ISS astronauts 3D print human cells and tissues | Space photo of the day for Nov. 17, 2026</title>
@@ -728,39 +519,6 @@
 <description>&lt;p&gt;Tereza is a London-based science and technology journalist, aspiring fiction writer and amateur gymnast. Originally from Prague, the Czech Republic, she spent the first seven years of her career working as a reporter, script-writer and presenter for various TV programmes of the Czech Public Service Television. She later took a career break to pursue further education and added a Master's in Science from the International Space University, France, to her Bachelor's in Journalism and Master's in Cultural Anthropology from Prague's Charles University. She worked as a reporter at the Engineering and Technology magazine, freelanced for a range of publications including Live Science, Space.com, Professional Engineering, Via Satellite and Space News and served as a maternity cover science editor at the European Space Agency.&lt;/p&gt; More than 700 satellites are crossing the sky over an average mid-latitude town at any moment of the night, outnumbering in many cases the stars visible to the naked eye. That's based on an analysis of the trajectories of the 15,833 active satellites that currently circle the planet in low Earth orbit below an altitude of 1,200 miles (2,000 kilometers). Analyzing data from Oct. 12 and 18 this year, researchers found that with a completely unobstructed horizon, 710 satellites were crossing the sky in every single moment of the night above an average U.K. town. The results were published as a non-peer-reviewed study conducted by engineering firm Accu Components, and is based on satellite monitoring data from the U.S. Space Force available through the public website CelesTrak. Although the researchers specifically focused on the U.K., they say that such heavy satellite traffic flows above most of Europe, the U.S. and other mid-latitude regions, especially between 40 and 50 degrees north or south. "Most Starlink satellites orbit at around 53 degrees to the equator, so the satellites bunch up over the mid-latitudes. These worldwide figures are approximate, based on a global grid over a single day," Accu Components spokesperson told Space.com in an email. "Skies near the equator are the quietest, with around 490 satellites." Not all of those satellites are visible to the naked eye, the researchers said in a statement. Because satellites unlike stars don't produce their own light, they must be illuminated by the sun , while the ground below has already sunk into darkness, to be visible. According to the study, an average of 105 satellites out of those 710 were catching light as they zoomed overhead, shining as bright as stars. The spokesperson said that the actual number of visible satellites varies drastically throughout the night. During the hours after dusk and before dawn, a much greater number of satellites can be seen, while in the middle of the night most no longer catch any light. "For a typical U.K. town, around 300 satellites are catching the sunlight in the first hour or so after dark," the spokesperson said. "That falls</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/Sq8YoimJ4x8q7dGQSJwaLf-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/Sq8YoimJ4x8q7dGQSJwaLf-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>There’s a New Push at COP31 in Turkey: Electrification</title>
-<link>https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html</link>
-<guid isPermaLink="false">04361ccd0337f7be6f32dc681bc5ceaae7cfe4c3cbf1ecf1389a339be7df295e</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 10:03:56 +0000</pubDate>
-<description>With war squeezing global oil and gas supplies, leaders at COP31 are backing a plan that would mirror China’s rapid grid expansion.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/17/multimedia/17CLI-COP-ELECTRIC-01-vwcp/17CLI-COP-ELECTRIC-01-vwcp-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/17/multimedia/17CLI-COP-ELECTRIC-01-vwcp/17CLI-COP-ELECTRIC-01-vwcp-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>A More Precise Clock Is on Its Way</title>
-<link>https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html</link>
-<guid isPermaLink="false">f75c81ee3e9fd71a522ecca7730ac2b1c695330f8f21c1d070d0d33c8604705d</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 10:00:32 +0000</pubDate>
-<description>To measure time, optical clocks use a laser to probe atoms that have been isolated and cooled to a near standstill. The photo shows compact lasers made by the Finnish company Vexlum, which is working with Menlo Systems on commercial production of an optical clock.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/18/multimedia/18sp-watches-atomic-inyt-02-hfvq/18sp-watches-atomic-inyt-02-hfvq-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/18/multimedia/18sp-watches-atomic-inyt-02-hfvq/18sp-watches-atomic-inyt-02-hfvq-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Pipeline Executive Worked for Alan Armstrong During Permitting Push</title>
-<link>https://www.nytimes.com/2026/11/16/climate/alan-armstrong-oklahoma.html</link>
-<guid isPermaLink="false">0d53d80a88338f75c86f316502f57feaa1707476ca8acd9b06bd00854ec7d209</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 00:59:21 +0000</pubDate>
-<description>Senator Alan Armstrong hired his former company’s top lawyer temporarily, while the chamber drafted a sweeping energy bill. Ethics officials signed off on the unusual arrangement.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/16/multimedia/16CLI-INDUSTRY-wklv/16CLI-INDUSTRY-wklv-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/16/multimedia/16CLI-INDUSTRY-wklv/16CLI-INDUSTRY-wklv-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message</title>
@@ -851,17 +609,6 @@
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Default.webp" medium="image"/>
 </item>
 <item>
-<title>This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.</title>
-<link>https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html</link>
-<guid isPermaLink="false">89b3244407811f7bd5db7c70e88c58b111c6e574fecef7a15d4d00e6c4388f9b</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Mon, 16 Nov 2026 15:03:46 +0000</pubDate>
-<description>For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down.</description>
-<enclosure url="https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026</title>
 <link>https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026</link>
 <guid isPermaLink="false">f2ba4bd1b9c29d6d075d7138185844a2e6781c206bdf0889d8e1eb175c4abed6</guid>
@@ -915,28 +662,6 @@
 <description>null Voyager 1 is celebrating a big milestone as it approaches its 50th birthday: reaching one light-day away from Earth. NASA's long-running interstellar Voyager 1 probe will mark one light-day of distance from Earth on Nov. 18, when the spacecraft is 49 years, two months and 11 days old. The agency recently stated the record distance, which will be reached at 5:16:07 a.m. EST (101607 GMT) is "a huge milestone by any measure, and a day worth celebrating." During the light-day crossover, Voyager will be in contact with the Madrid station of the three-antenna Deep Space Network that monitors all deep-space missions. The spacecraft is currently making its way through the constellation Ophiuchus from the perspective of Earth, said Jeffrey Hayes, a NASA official whose work includes Voyager 1. (Image credit: NASA/JPL-Caltech) "This [milestone] essentially kicks off the year's worth of celebrations leading up to the 50th anniversary in August and September of next year," added Hayes, who is discipline scientist in the agency's astrophysics and heliophysics divisions, in a livestreamed discussion with NASA's Night Sky Network on Nov. 4. Going the distance Voyager 1 is the farthest spacecraft from Earth, after launching from Kennedy Space Center in Florida on Sept. 5, 1977 a few weeks after its twin, Voyager 2 . NASA's Voyager 1 spacecraft launches atop a Titan/Centaur-6 rocket from Kennedy Space Center in Florida on Sept. 5, 1977. (Image credit: NASA/JPL-Caltech/KSC) A light-day, as the name implies, represents the distance that light travels in a single day. In other words, at one light-day, a radio-wave message to Voyager 1 takes 24 hours to get to the spacecraft — which is roughly 16 billion miles (26 billion kilometers) from Earth. Voyager's response then takes another day to get back to our planet. Voyager 2 — which is at a distance of 13.5 billion miles (21.7 billion km) from our planet — won't hit the light-day milestone until 2035, NASA stated. While the agency has not offered recent estimates for how long the two spacecraft will last, in 2022 Suzanne Dodd, project manager for Voyager at JPL, said they may keep operating into the 2030s . The two spacecraft had initial funding to survey Jupiter and Saturn, although NASA did launch them at a time when the planets aligned in such a way to bring Voyager 2 past Uranus and Neptune if funding continued — which it did. Voyager 1, meanwhile, took a turn at Saturn to look at the planet's rings, and the pre-biotic (pre-life chemistry) moon of its largest moon Titan , executing maneuvers which brought it high above the solar system's plane. An image of Saturn captured by Voyager on Nov. 16, 1980 four days after the probe's closest approach to the planet, taken from a distance of 3,300,000 miles (5,300,000 kilometers). (Image credit: NASA/JPL-Caltech) Hayes said the original design team likely did not foresee a 50-year lifespan for the mission, even though the Voyagers had many redundancies in them. But NASA</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/FbpUYGY9M3AheaaKciVQSb-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/FbpUYGY9M3AheaaKciVQSb-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>How to Watch the 2026 Leonids Meteor Shower</title>
-<link>https://www.nytimes.com/2026/11/16/science/leonids-meteor-shower-peak.html</link>
-<guid isPermaLink="false">0eb0a9496848e7e2e71ef74f1d237077cbbcba39db03ca1a525c4d0a6056212c</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Mon, 16 Nov 2026 05:01:05 +0000</pubDate>
-<description>Known for bright, fast meteors with long tails, the Leonids come around every November. But the number of streaks visible per hour can be low.</description>
-<enclosure url="https://static01.nyt.com/images/2021/01/20/science/16sci-leonids/01sci-spacecalendar-leonids-mediumSquareAt3X-v3.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2021/01/20/science/16sci-leonids/01sci-spacecalendar-leonids-mediumSquareAt3X-v3.jpg" medium="image"/>
-</item>
-<item>
-<title>F.D.A. Rejects Closely Watched Lung Cancer Drug From China</title>
-<link>https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html</link>
-<guid isPermaLink="false">98bedd5c468710b59dc9bebd7e0cfe4e1c60fdc562663a6f412140f1fcfbdc70</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Sun, 15 Nov 2026 20:33:07 +0000</pubDate>
-<description>Summit Therapeutics of Florida had been seeking to bring to the U.S. market a drug for lung cancer, called ivonescimab, that was invented in China.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes</title>
@@ -994,72 +719,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/T38fmGMPT8J5XSbVo6Ud9L-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>SpaceX Makes History With Successful Rocket Catch in Texas</title>
-<link>https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html</link>
-<guid isPermaLink="false">c2a35fad501d61088ef14e1e649d50e616fa5b7071fc33717f930c85d5150e77</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Sun, 15 Nov 2026 00:36:33 +0000</pubDate>
-<description>The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Starship will play a big role in Artemis III.</title>
-<link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/how-starship-will-play-a-big-role-in-artemis-iii</link>
-<guid isPermaLink="false">fc2a2e276053a6c30675a8b42838a721eb87f17aa54806c18695679e7b5c7b3d</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Sat, 14 Nov 2026 21:03:26 +0000</pubDate>
-<description>An Orion spacecraft sitting on top of the Space Launch System rocket before the Artemis II mission. During Artemis III, Orion will try to dock with Starship.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-live-artemis-iii-topart-qpvc/14starship-live-artemis-iii-topart-qpvc-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-live-artemis-iii-topart-qpvc/14starship-live-artemis-iii-topart-qpvc-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>SpaceX is betting mechanical arms can ‘catch’ its reusable rockets.</title>
-<link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/spacex-is-betting-mechanical-arms-can-catch-its-reusable-rockets</link>
-<guid isPermaLink="false">ad74b918d7d6d104e48269e68c0af8638f56abee70cf0d191787c0be1b7421bb</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Sat, 14 Nov 2026 21:02:13 +0000</pubDate>
-<description>Starship launched on Friday from SpaceX’s “Mechazilla” tower. The company is planning for the tower’s mechanical arms to catch the returning rocket on Saturday.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-live-arms-topart-mwqk/14starship-live-arms-topart-mwqk-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-live-arms-topart-mwqk/14starship-live-arms-topart-mwqk-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Inside Starfactory, where Starships are born.</title>
-<link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/inside-starfactory-where-starships-are-born</link>
-<guid isPermaLink="false">b866b09feba999b2a719bb01287ab34a68b41b7f8a07ab3e69b1a2ab5aad8d0b</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Sat, 14 Nov 2026 20:30:14 +0000</pubDate>
-<description>SpaceX gave reporters a tour of the Starship manufacturing facility in Texas on Friday, but did not allow any photographs or videos to be taken inside.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/14/science/14starship-live-starfactory-topart/14starship-live-starfactory-topart-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/14/science/14starship-live-starfactory-topart/14starship-live-starfactory-topart-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>How Boca Chica Village became Starbase.</title>
-<link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/starbase-spacex-boca-chica-village</link>
-<guid isPermaLink="false">3ef2ab09c34a126192ef9b3375addd1e9760d5269947ca19ddeb6f0c6395b0c7</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Sat, 14 Nov 2026 20:02:26 +0000</pubDate>
-<description>A Starship prototype in Boca Chica Village, Texas, in 2019.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/14/us/14starship-live-2019-vs-2026-topart/14starship-live-2019-vs-2026-topart-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/14/us/14starship-live-2019-vs-2026-topart/14starship-live-2019-vs-2026-topart-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Brain Implants Give A.L.S. Patients the Voice to Speak and Sing</title>
-<link>https://www.nytimes.com/2026/11/14/science/brain-implants-als-voice.html</link>
-<guid isPermaLink="false">56c1bf3dac6a762d88a344b29a5a9216257e65458aff6dc59204fd27b9eaba2a</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Sat, 14 Nov 2026 17:00:09 +0000</pubDate>
-<description>Casey Harrell, an activist who lost his voice to A.L.S., in 2024. He has been using the system since 2023, generating nearly 2 million words over two years.</description>
-<enclosure url="https://static01.nyt.com/images/2024/08/14/multimedia/14SCI-BCI-SING-02/14als-promo-fwcb-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2024/08/14/multimedia/14SCI-BCI-SING-02/14als-promo-fwcb-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>This Week In Space podcast: Episode 236 — Alienspotting</title>
 <link>https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting</link>
 <guid isPermaLink="false">02c7b5635d183bc940dd5a9b22a37e399ef8b56a814627b6abc3aff05aa89a60</guid>
@@ -1104,39 +763,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/L58BN7mnVx7acqZpijhSpi-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>SpaceX’s Latest Starship Launch Skips Attempt to Catch the Booster</title>
-<link>https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html</link>
-<guid isPermaLink="false">6f5ae386265596f3bea2f1d43fcf14261a8ce9b88ba1b4f3bbed0ca355d895a1</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Sat, 14 Nov 2026 03:07:00 +0000</pubDate>
-<description>SpaceX could still try to catch the rocket’s upper stage tomorrow. Progress toward a fully reusable rocket remains mixed.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/13/multimedia/spacex-launch-update-pwvq/spacex-launch-update-pwvq-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/13/multimedia/spacex-launch-update-pwvq/spacex-launch-update-pwvq-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks</title>
-<link>https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html</link>
-<guid isPermaLink="false">f2dc790b0645b1c94c6e00c9b4b6049932bc488cf4879c58ea6fcc71bd60b03a</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Fri, 13 Nov 2026 17:59:45 +0000</pubDate>
-<description>Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>A Key Paris Agreement Goal Is Dead. What Now?</title>
-<link>https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html</link>
-<guid isPermaLink="false">81d13bdcebd3cc2a41941834e810b6296c209c8164b9450e961531caad283db8</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Thu, 12 Nov 2026 20:15:04 +0000</pubDate>
-<description>Leaders at COP31 are confronting a new reality as global warming enters the “unsafe zone.”</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/19/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/19/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>Can Network Science Transform Health and Nutrition?</title>
 <link>https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112</link>
 <guid isPermaLink="false">f9dbd3c56fd3b6c5207ad9a3e16ca7027f16350e992ce990501f22587516f66e</guid>
@@ -1170,28 +796,6 @@
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp" medium="image"/>
 </item>
 <item>
-<title>CHAPEA Crew Leaves a Mark</title>
-<link>https://www.nasa.gov/image-detail/photos-from-chapea-mission-2-arranged-around-boot-print</link>
-<guid isPermaLink="false">4aaf3c7658589f19d2dee4ec970584be5edab1f285f7c4d5a37b6a5344da7b61</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 10 Nov 2026 15:39:00 +0000</pubDate>
-<description>Photos of the CHAPEA Mission 2 crew are arranged around a boot print in the simulated Martian sand outside their habitat.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg" medium="image"/>
-</item>
-<item>
-<title>M30's Sparkling Stars</title>
-<link>https://www.nasa.gov/image-detail/hubble-m30-potm2610a</link>
-<guid isPermaLink="false">2311f7a0466139caae28a2c78adcc6011a4e94be0a488211072769e9f8e6e7f5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 06 Nov 2026 16:28:00 +0000</pubDate>
-<description>This NASA/ESA Hubble Space Telescope image features the globular star cluster called Messier 30 (M30), also called NGC 7099.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg" medium="image"/>
-</item>
-<item>
 <title>Midwestern City Lights</title>
 <link>https://www.nasa.gov/image-detail/iss075e0227352</link>
 <guid isPermaLink="false">24d5ee144c92ac09a7214cbf060670586f0131f45d709ccb59b218bdeac99199</guid>
@@ -1203,59 +807,15 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg" medium="image"/>
 </item>
 <item>
-<title>Astronaut and Earth</title>
-<link>https://www.nasa.gov/image-detail/iss075e0253663</link>
-<guid isPermaLink="false">c70a42f810f4215f1a0926ddb5ebabe98002153767b51deb9e952ed05c095161</guid>
+<title>NASA's James Webb Space Telescope Captures Eerie Cat's Head</title>
+<link>https://www.nasa.gov/image-detail/full-res-for-display-6</link>
+<guid isPermaLink="false">5111d1891f328f8098e2cd8e17d4bfa96e2a457894518379b0724f41af05dec2</guid>
 <source>NASA Image of the Day</source>
 <category>science</category>
-<pubDate>Tue, 03 Nov 2026 16:38:00 +0000</pubDate>
-<description>CSA (Canadian Space Agency) astronaut and Expedition 75 flight engineer Joshua Kutryk is pictured during a spacewalk with his spacesuit's helmet visor down to install a new roll-out solar array on the International Space Station's port side truss structure.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's CHAPEA Crew "Returns" to Earth</title>
-<link>https://www.nasa.gov/image-detail/chapea-mission-2-crew-poses-outdoors-after-exiting-habitat</link>
-<guid isPermaLink="false">42d5b470a57d74bb57c782db30c834a3a1f974e8a3cb0316c15916ee1372c66b</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 18:51:00 +0000</pubDate>
-<description>The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Hubble Marks Way for Roman Space Telescope</title>
-<link>https://www.nasa.gov/image-detail/55606049603-e8822462fe-o</link>
-<guid isPermaLink="false">656e56dd2f4e91c03cb3395552356bd88145dfb2641d6fca3fbb9302293a39ba</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 15:02:00 +0000</pubDate>
-<description>A sinuous spiral galaxy (center) appears in the same field of view as a vivid gravitational lens (right corner) in this Hubble image.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Neo Surveyor Sunshade</title>
-<link>https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2</link>
-<guid isPermaLink="false">cf751a4f21cc8f2a408e578da6f3d5566eeb5f311096e7331341b290ffeebddd</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 18:02:00 +0000</pubDate>
-<description>The large sunshade of NASA’s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space &amp; Mission Systems in Boulder, Colorado, in late July.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's X-59 Aircraft and Test Pilot</title>
-<link>https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3</link>
-<guid isPermaLink="false">3fcf708f42313da9f2d09e1bf0d096a52fa472691c3107c45ca491fc3362bd5e</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 15:29:00 +0000</pubDate>
-<description>NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency's X-59 quiet supersonic research aircraft on Oct. 21, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" medium="image"/>
+<pubDate>Fri, 30 Oct 2026 15:57:00 +0000</pubDate>
+<description>NASA’s James Webb Space Telescope’s mid-infrared view reveals intricate structures within the Cat's Head Nebula, traced by the emission from warm dust and carbon-based molecules excited by starlight.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png" type="image/png"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png" medium="image"/>
 </item>
 <item>
 <title>RS-25 Engine Tests at NASA Stennis</title>
@@ -1269,17 +829,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg" medium="image"/>
 </item>
 <item>
-<title>Science on the Space Station with NASA Astronaut Jessica Watkins</title>
-<link>https://www.nasa.gov/image-detail/iss075e0190239</link>
-<guid isPermaLink="false">5f00aca8df46e2506f7a6e916ebae327aae0b38872c55b91a38e55bcd1b78305</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 21 Oct 2026 15:07:00 +0000</pubDate>
-<description>NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module's Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" medium="image"/>
-</item>
-<item>
 <title>Martian Dawn</title>
 <link>https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2</link>
 <guid isPermaLink="false">a6a14a28737ed87a3ef14e8e321b7b22b3c69cc19fd97312aab882cf347f0342</guid>
@@ -1289,61 +838,6 @@
 <description>The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" type="image/webp"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" medium="image"/>
-</item>
-<item>
-<title>Artemis II Heat Shield After Splashdown</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1320</link>
-<guid isPermaLink="false">bd7ea775e6f02cf018151963e6bbeb538b0eff8129c915bf68bebb3980d24ec5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 16:33:00 +0000</pubDate>
-<description>Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>Transporter-18 SmallSats Encapsulation</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1315</link>
-<guid isPermaLink="false">e4159da664528188a8fd82ed2613bde89d53f23fb96e15a19a83328717fae347</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 13 Oct 2026 17:52:00 +0000</pubDate>
-<description>Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Cosmic House of Mirrors</title>
-<link>https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors</link>
-<guid isPermaLink="false">942a9466c8b66c4e8c29e583bdaf0d3fa330eb489b6ebd292424f136c2cc8766</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 09 Oct 2026 14:28:00 +0000</pubDate>
-<description>This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they’ve stepped into a house of mirrors.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Crew-12 Returns to Earth</title>
-<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2</link>
-<guid isPermaLink="false">c79d542c7c7391869593bec89004ddafe4f5a8d981ea0e2fefded1f3d28f9d4f</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 08 Oct 2026 18:53:00 +0000</pubDate>
-<description>The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Los Angeles, Calif., Thursday, Oct. 8, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Artemis II Crew Moon Photo Annotations</title>
-<link>https://www.nasa.gov/image-detail/fd07_impact-flashes</link>
-<guid isPermaLink="false">aca9374dc368026f5a67eed2b725e5ae423457f3699ddc7ef6f63711a8f42c0c</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 07 Oct 2026 15:46:00 +0000</pubDate>
-<description>A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member's tablet.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
 </item>
 <item>
 <title>Astronomers Solve Cosmic Cold Case with NASA Hubble Data</title>
@@ -1368,72 +862,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" medium="image"/>
 </item>
 <item>
-<title>NASA’s SpaceX Crew-13 Launches</title>
-<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3</link>
-<guid isPermaLink="false">07f5c690e45e94633737ffc40a00e6a269a635b19c6024bf14b670f62bc26804</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 01 Oct 2026 18:07:00 +0000</pubDate>
-<description>A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Star Trails</title>
-<link>https://www.nasa.gov/image-detail/iss075e0144232</link>
-<guid isPermaLink="false">2f9c821724c6cf311138939fbf5d114d76dd53bcf1741a4ef170f481e93f4cad</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 30 Sep 2026 17:51:00 +0000</pubDate>
-<description>This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Crew-13 Rocket and Spacecraft at Launch Pad</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1312</link>
-<guid isPermaLink="false">47cd5f055f779d2d1de59b29bc2e3358cc9091b0da2f013985ec259eda8dc622</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 29 Sep 2026 15:33:00 +0000</pubDate>
-<description>Ahead of launch of NASA’s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova</title>
-<link>https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207</link>
-<guid isPermaLink="false">26ec5e4da7e213b5df4096c233fdfa86e32cf848c1db76707ae23292412979a7</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 23 Sep 2026 18:45:00 +0000</pubDate>
-<description>An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" medium="image"/>
-</item>
-<item>
-<title>COSI Telescope Comes Together</title>
-<link>https://www.nasa.gov/image-detail/cosi-2026july-01</link>
-<guid isPermaLink="false">39bb98da64415a1cb91f491c728ba0e6148bff3c25fb06bce87abe66040713a5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 18 Sep 2026 15:46:00 +0000</pubDate>
-<description>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" medium="image"/>
-</item>
-<item>
-<title>Artemis III Crew Visits NASA Kennedy's Vehicle Assembly Building</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1307</link>
-<guid isPermaLink="false">9212a1e9d8662e960c7092f49c3e8b12a15c44ebb4cd2f3f279df26d2a5b6c07</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 15 Sep 2026 16:16:00 +0000</pubDate>
-<description>NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" medium="image"/>
-</item>
-<item>
 <title>NASA's Chandra Spots Galactic Gem</title>
 <link>https://www.nasa.gov/image-detail/galaxies-iizw096</link>
 <guid isPermaLink="false">6a1d948744d290016a0617c18261d449a216e52c846e957efd5a8ea82c6a5c5e</guid>
@@ -1445,17 +873,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" medium="image"/>
 </item>
 <item>
-<title>Superbubble in the Large Magellanic Cloud</title>
-<link>https://www.nasa.gov/image-detail/hubble-n44-wfc3-large</link>
-<guid isPermaLink="false">026a0bc93661a13b3d9350ebebc36e78a1b5937b2f4ba3b195ce5ec192fb29e3</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 08 Sep 2026 16:49:00 +0000</pubDate>
-<description>N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" medium="image"/>
-</item>
-<item>
 <title>Lunar Occultation of Venus</title>
 <link>https://www.nasa.gov/image-detail/amf-nhq202606170001</link>
 <guid isPermaLink="false">af690fbddda398395e5ec555995241eb80199a3edfe8bcf84d4d105d68844f43</guid>
@@ -1465,17 +882,6 @@
 <description>On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight.</description>
 <enclosure url="https://images-assets.nasa.gov/image/NHQ202606170001/NHQ202606170001~large.jpg" type="image/jpeg"/>
 <media:content url="https://images-assets.nasa.gov/image/NHQ202606170001/NHQ202606170001~large.jpg" medium="image"/>
-</item>
-<item>
-<title>Igniting Roman's Journey</title>
-<link>https://www.nasa.gov/image-detail/amf-nhq202608300037</link>
-<guid isPermaLink="false">11833c8b7341b18d62cfe78ec25ca65ea84e86a8f90af7bf2387066ddadee795</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 03 Sep 2026 14:25:00 +0000</pubDate>
-<description>Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida.</description>
-<enclosure url="https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg" type="image/jpeg"/>
-<media:content url="https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg" medium="image"/>
 </item>
 <item>
 <title>August Lunar Eclipse Rises Over Louisiana</title>
@@ -1498,28 +904,6 @@
 <description>Technicians prepare to transfer the #2 RS-25 SLS (Space Launch System) rocket engine (front) to the work stand with the #3 engine (back) for integration with the Artemis III core stage rocket on Tuesday, Aug. 25, 2026, inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida. During Artemis III, the four RS‑25 engines will launch the Orion spacecraft and its crew of four into low Earth orbit, generating more than two million pounds of thrust at liftoff.</description>
 <enclosure url="https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg" type="image/jpeg"/>
 <media:content url="https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Nancy Grace Roman Space Telescope Launches</title>
-<link>https://www.nasa.gov/image-detail/nancy-grace-roman-space-telescope-launch-2</link>
-<guid isPermaLink="false">cc81e41247ee379a275638a4e31c3fa4941507c886a0f7ca3ad09dbfc9bb9e31</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 31 Aug 2026 14:19:00 +0000</pubDate>
-<description>A SpaceX Falcon Heavy rocket with NASA’s Nancy Grace Roman Telescope on board is seen transiting the sun during launch from Launch Complex 39A, Sunday, Aug. 30, 2026, at NASA’s Kennedy Space Center in Florida.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Artemis II Crew Receives Congressional Space Medal of Honor</title>
-<link>https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2</link>
-<guid isPermaLink="false">08be272fa996fab8e77bfebf01d8fbf7812eb1fd6446482c175fdaf2d2edd0f3</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 28 Aug 2026 22:24:00 +0000</pubDate>
-<description>President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Astronauts Anil Menon and Sophie Adenot on Spacewalk</title>

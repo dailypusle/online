@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Anthropic shares expected to open 26.5% above $83 IPO price</title>
+<link>https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price</link>
+<guid isPermaLink="false">6ea600f4a4fb465a6516ca6d9713e1cf7ff98ab2f1726781678de8a7e0b55874</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 19 Nov 2026 16:07:51 +0000</pubDate>
+<description>The Claude maker’s $81.3 billion offering comes as OKX reports a premium in its pre-IPO contract ahead of the Nasdaq debut.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8ETDTK3X1WT0HPSKQE0AH/hi-the-company-launches-pre-ipo-markets.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8ETDTK3X1WT0HPSKQE0AH/hi-the-company-launches-pre-ipo-markets.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went</title>
+<link>https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went</link>
+<guid isPermaLink="false">64ed92d816ac5472de3aa36c118754feb1c7df645622598f3d68630ce5ac6b56</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 19 Nov 2026 15:54:03 +0000</pubDate>
+<description>The Claude maker beat SpaceX's original share sale, though not its expanded final IPO. Here's who got the money and why the computing bill could be even bigger.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Ledger Finds Tampered Hardware Wallets in Berlin, Probes Two in Dubai</title>
+<link>https://bitcoinmagazine.com/news/ledger-tampered-wallets-berlin-dubai</link>
+<guid isPermaLink="false">dcb79b0dfade29be9c5fbad0e1556fe65e47a59d208147398be9e318a9176b75</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Thu, 19 Nov 2026 15:20:00 +0000</pubDate>
+<description>Bitcoin Magazine Ledger Finds Tampered Hardware Wallets in Berlin, Probes Two in Dubai Ledger has confirmed tampered hardware wallets in Berlin and is investigating two more in Dubai, the wallet maker said Wednesday, widening a probe into spy implants it first traced to resellers in Southeast Asia in October. The new cases are “the same incident,” Ledger said in an update on its support site. Every device it has confirmed carries the same physical modification, built to capture a user’s recovery phrase while the wallet is being set up. “There is no flaw in Ledger’s secure chip or operating system, and no confirmed case involving a device bought on ledger.com,” the company wrote on X. Ledger also found one affected Nano Gen5, its newer model, among the Southeast Asian resellers it had already paused. It did not give a count for Berlin, describing the cases there only as “a few tampered units.” Berlin buyers told to check in Ledger asked anyone who bought one of its devices in Berlin since January 2026 to contact its support team. In Dubai, the company said it is working with distribution partners to learn how the two suspected units entered circulation. Its Donjon security team is examining suspected devices, and resellers have been asked to pause sales wherever inspections are still running. Customers who are worried about a device should stop using it and should not open it themselves, Ledger said. Its advice is to move funds to a new wallet created on a device bought directly from ledger.com, without reusing the old recovery phrase or passphrase, because a tampered unit can capture both. The company also told affected users to file a report with local authorities. For a limited time, Ledger is offering physical inspections, including X-rays, at its factory in Vierzon, France. “This continues to be a small number of devices overall, and we do expect more to be discovered in our investigation and via social media,” Ledger said. How the implant works The probe began in October, after users in Southeast Asia reported drained wallets. Ledger linked the cases to devices sold through CryptoBilis, a Malaysia-based authorized reseller, and asked it to stop selling and shipping Ledger products, BleepingComputer reported . In an Oct. 15 blog post , Ledger said a “highly organized criminal group” spent months buying genuine devices, fitting them with hidden components and slipping them back into distribution through resellers. “They were patient, they spent millions, and they struck in one coordinated operation, draining wallets,” the company wrote. Researchers who opened tampered units found a small chip, an eSIM and a cellular module hidden inside the case. The implant read the 24-word recovery phrase off the screen during setup and sent it out over a mobile network. Ledger’s Genuine Check cannot detect an added implant when the original secure chip is intact, the report said. That is how Ledger can say its chip is sound and still have a problem. Anyone</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-4.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-4.jpg" medium="image"/>
+</item>
+<item>
 <title>Coinbase Launches U.S. Spot Margin Trading With Up to 10x Leverage</title>
 <link>https://bitcoinmagazine.com/news/coinbase-us-spot-margin-10x</link>
 <guid isPermaLink="false">1b39dd3727ca97d2a67e81bd76ddcdf91b2d4d51df60c741be5dd9f4c3d8ff6b</guid>
@@ -587,17 +620,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Analyst: Bitcoin Below $70,000 is a ‘Gift From the Market’</title>
-<link>https://bitcoinmagazine.com/markets/k33-bitcoin-below-70000-gift</link>
-<guid isPermaLink="false">9b6a736c07c7dddfc99a915d1b480dcb8a0e38e8113c9863294ba26a3db1c19c</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 17:30:00 +0000</pubDate>
-<description>Bitcoin Magazine Analyst: Bitcoin Below $70,000 is a ‘Gift From the Market’ K33 Research said bitcoin is trading in “deep value territory” after a 14% weekly drop, arguing that “any entry below $70K is a gift from the market” for medium- to long-term investors. The call comes in the firm’s weekly report, “No gain, plenty of pain,” which published Nov. 16. Head of research Vetle Lunde wrote that bitcoin’s slide has erased its August and September gains and left the market deeply oversold. Bitcoin has posted six straight red weekly candles and is on track for a record 13 consecutive days of lower daily highs, according to K33. Lunde said a streak of six weekly losses has happened only twice before, from Jan. 26 to March 1, 2026, and from April 3 to May 29, 2022. Daily RSI, a momentum gauge, hit 19.95 on Saturday and has stayed below 25 since Friday. Bitcoin also fell below its 200-week moving average, near $68,000, after its worst weekly return since June 7. Bitcoin below its long-term average At the bottom on Nov. 15, bitcoin traded about 8.5% under the 200-week average, a wider gap than the 7.3% recorded at June’s low of $58,500. K33 said 51.5% of the bitcoin supply last moved on-chain at prices above the current level, meaning the average holder could have sold for more at some point in the past four years. Lunde said those readings, taken together, have typically lined up with market bottoms. K33 also noted that crypto has lagged traditional markets, with the Nasdaq and S&amp;P 500 recovering modestly last week while bitcoin sank. Bitcoin was trading near $62,300 on Wednesday, according to Coinbase spot prices, below the roughly $65,000 level cited in the K33 report, which showed bitcoin down 14% on the week and about 20% over 30 days. Ether also fell 14% over the week, to around $1,827. Outflows, liquidations and hedging Capital continues to leave bitcoin funds. Net outflows from bitcoin exchange-traded products reached 44,900 BTC over the 14 trading days since Oct. 29, K33 said, short of the record of about 71,000 BTC set in June. Total ETF holdings fell to about 1.46 million BTC, the lowest since Aug. 19, and leveraged ETF exposure dropped to 21,900 BTC, the lowest since March 2024. Forced selling hit derivatives, too. About $1.3 billion in long positions were liquidated on Nov. 13 and 14 as bitcoin broke below $70,000, K33 said, and funding rates on perpetual futures repeatedly turned negative. Open interest fell by about 30,000 BTC but stayed above 330,000 BTC, leaving leverage elevated against historical norms. Institutional futures players largely stayed on the sidelines. Open interest in bitcoin futures on CME stayed below 100,000 BTC all week, K33 said, a sign that regulated-market participants have not rushed in to buy the dip. Demand for downside protection is also surging. The one-month 25-delta skew, which compares the price of puts to calls, rose above 20 for the first time since July, a level Lunde said has historically coincided wit</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Holds-Near-75800-After-Hot-October-Jobs-Report.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Holds-Near-75800-After-Hot-October-Jobs-Report.jpg" medium="image"/>
-</item>
-<item>
 <title>OneMain gets FDIC green light for ILC charter</title>
 <link>https://www.bankingdive.com/news/onemain-fdic-approves-ilc-charter-subprime-lender-cfpb-13-ag-lawsuit-ncrc/875075</link>
 <guid isPermaLink="false">225e515b87bd86b110807c6054431db60111540a065973454992d4ef14600f2c</guid>
@@ -807,17 +829,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q2P5HGE3ZFSJ3N0EK6V580/zcash-etf.png" medium="image"/>
 </item>
 <item>
-<title>Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out</title>
-<link>https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat</link>
-<guid isPermaLink="false">0abd5579ffbbeef2437313ead73409f40e7902cdfce51faee31de4ab7fcb724c</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 10:31:20 +0000</pubDate>
-<description>Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q0JDHMQTXG5XXY6NN8HAEF/article-covers-255514-bitcoin-tests-fresh-decoupling-trade-tech-correlation-breaks-1280x853.webp" type="image/webp"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q0JDHMQTXG5XXY6NN8HAEF/article-covers-255514-bitcoin-tests-fresh-decoupling-trade-tech-correlation-breaks-1280x853.webp" medium="image"/>
-</item>
-<item>
 <title>Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto</title>
 <link>https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto</link>
 <guid isPermaLink="false">3cac1e3a4cb23d7656e8e1cbec23d084b9f98f26f72b18ed115bce0da18e434e</guid>
@@ -1014,16 +1025,5 @@
 <description>CFTC chairman Mike Selig said he looks forward to building on this milestone, which begs the question—who’s next?</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents</title>
-<link>https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents</link>
-<guid isPermaLink="false">2a1f59f2ab17c0e5185327f158c2a7163a17821898cb44da3a847a46cd17fd01</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 17 Nov 2026 12:50:55 +0000</pubDate>
-<description>The Solana Foundation's head of AI said agents now account for three-quarters of AI token use, and need blockchains to pay for things.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png" medium="image"/>
 </item>
 </channel></rss>

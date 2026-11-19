@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>LIVE: ABC News Live</title>
+<link>https://abcnews.com/video/41463246</link>
+<guid isPermaLink="false">c4dde2f9d4430a48432ef223ef2dea7731f9a2b9448e21ee003bf7e7734a1e77</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 19 Nov 2026 07:10:32 +0000</pubDate>
+<description>24/7 coverage of breaking news and live events</description>
+<enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump Asia trip live updates: Trump, Xi, Putin to meet in historic trilateral talks</title>
+<link>https://abcnews.com/Politics/live-updates/trump-asia-trip-2026?id=138187702</link>
+<guid isPermaLink="false">7de928a733576d78e0f3ceada8e2b3c9d058d0bf7d970fb88a1efb2926f0a50a</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 19 Nov 2026 06:53:52 +0000</pubDate>
+<description>Trump is scheduled this week to participate in the first-ever trilateral meeting with Putin and Xi.</description>
+<enclosure url="https://s.abcnews.com/images/International/donald-trump-4-gty-gmh-261119_1795053919698_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/donald-trump-4-gty-gmh-261119_1795053919698_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>FIFA rankings: France finish the year on the podium, Morocco break into the top five</title>
+<link>https://www.france24.com/en/tv-shows/sports/20261119-fifa-rankings-france-finish-the-year-on-the-podium-morocco-break-into-the-top-five</link>
+<guid isPermaLink="false">f103b3dbc60279091ccda6a7f125bd37ae9f37f2f7690dfa7dd3c5c3f078879b</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Thu, 19 Nov 2026 06:16:49 +0000</pubDate>
+<description>FIFA unveiled its final world ranking of 2026. France remain third in the world, behind Spain and Argentina. Les Bleus have now finished in the top three for the ninth consecutive year. Morocco climb two places to fifth, equalling the best-ever ranking by an African nation, previously achieved by Nigeria in 1994. Brazil drop to seventh, while Senegal remain 18th and Ivory Coast sit 28th.</description>
+<enclosure url="https://s.france24.com/media/display/0e0ba6ac-e3cb-11f1-a163-7908c4e1a3c7/w:1024/p:16x9/france-9.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/0e0ba6ac-e3cb-11f1-a163-7908c4e1a3c7/w:1024/p:16x9/france-9.jpg" medium="image"/>
+</item>
+<item>
 <title>Lindsay Clancy files appeal ahead of March 2027 retrial</title>
 <link>https://abcnews.com/US/lindsay-clancy-files-appeal-ahead-march-2027-retrial/story?id=138277240</link>
 <guid isPermaLink="false">096528c62a1690abc2898eed07506fb3e65df9c458e6eadcb08dcf323d6d66d9</guid>
@@ -13,17 +46,6 @@
 <description>Lindsay Clancy's lawyers are asking Massachusetts' highest court to throw out her triple murder case ahead of her March 2027 retrial.</description>
 <enclosure url="https://s.abcnews.com/images/US/clancy-2-ap-gmh-261116_1794844081437_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/clancy-2-ap-gmh-261116_1794844081437_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump Asia trip live updates: Trump, Xi, Putin to meet in historic trilateral talks</title>
-<link>https://abcnews.com/Politics/live-updates/trump-asia-trip-2026?id=138187702</link>
-<guid isPermaLink="false">7de928a733576d78e0f3ceada8e2b3c9d058d0bf7d970fb88a1efb2926f0a50a</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 05:41:44 +0000</pubDate>
-<description>Trump is scheduled this week to participate in the first-ever trilateral meeting with Putin and Xi.</description>
-<enclosure url="https://s.abcnews.com/images/International/donald-trump-4-gty-gmh-261119_1795053919698_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/donald-trump-4-gty-gmh-261119_1795053919698_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Middle East crisis poses 'largest threat' to energy security in history, warns IEA</title>
@@ -323,13 +345,13 @@
 <media:content url="https://s.france24.com/media/display/fce0ffda-e35c-11f1-91a4-7908c4e1a3c7/w:1024/p:16x9/2026-11-18T135542Z-942132153-RC2DQOAWFQTC-RTRMADP-3-APEC-SUMMIT.jpg" medium="image"/>
 </item>
 <item>
-<title>Anthropic share price revealed ahead of stock market debut</title>
+<title>Anthropic beats SpaceX record ahead of stock market debut</title>
 <link>https://news.sky.com/story/ai-giant-anthropic-raises-more-money-than-any-other-company-when-going-public-13613708</link>
 <guid isPermaLink="false">70c66430a512eaf9b69ff7f600f6944f6718d1854bc1ddbe9568be0d2acdb997</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
-<description>Demand for shares in artificial intelligence company Anthropic have surpassed expectations - signalling confidence in AI investment after a bruising fortnight for the industry.</description>
+<description>Artificial intelligence company Anthropic has raised a record sum for an initial public offering (IPO), trouncing a peak held by SpaceX and signalling confidence in AI investment after a bruising fortnight for the industry.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-anthropic-ai_7409999.jpg?20261119013910" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-anthropic-ai_7409999.jpg?20261119013910" medium="image"/>
 </item>
@@ -409,17 +431,6 @@
 <description>Following Xi Jinping's very friendly rare tarmac greeting for Donald Trump, Erin Ogunkeye is pleased to welcome Kerry Brown, Professor of Chinese Studies and Director of the Lau China Institute at King's College, London. Brown examines the complex relationship between the world's two largest economies, China's growing diplomatic influence and the competition over artificial intelligence.“China is the diplomatic center of the world,” says Brown, pointing to Beijing's ability to bring together leaders from Russia, the United States, Europe and elsewhere. He argues that China now has “extraordinary convening power" and significant influence over Russia.</description>
 <enclosure url="https://s.france24.com/media/display/2bed0054-e370-11f1-905e-7908c4e1a3c7/w:1024/p:16x9/EN-20261118-150609-151600-CS-01.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/2bed0054-e370-11f1-905e-7908c4e1a3c7/w:1024/p:16x9/EN-20261118-150609-151600-CS-01.jpg" medium="image"/>
-</item>
-<item>
-<title>LIVE: ABC News Live</title>
-<link>https://abcnews.com/video/41463246</link>
-<guid isPermaLink="false">c4dde2f9d4430a48432ef223ef2dea7731f9a2b9448e21ee003bf7e7734a1e77</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 18 Nov 2026 17:29:24 +0000</pubDate>
-<description>24/7 coverage of breaking news and live events</description>
-<enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>French ex-PM Philippe pledges to slash spending, hike retirement age as Elysée bid falters</title>
@@ -508,17 +519,6 @@
 <description>Bolstered by their recent military successes, Houthi rebels this week advanced close to the southern port city of Aden, the interim capital of the internationally recognised Yemeni government. Amid territorial ambitions, regional rivalries, and divisions within government forces, the potential fall of this stronghold could permanently alter the balance of power in the country.</description>
 <enclosure url="https://s.france24.com/media/display/8be454f8-c9ee-11f1-a86a-2d1c143cdef3/w:1024/p:16x9/AP26286485676861.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/8be454f8-c9ee-11f1-a86a-2d1c143cdef3/w:1024/p:16x9/AP26286485676861.jpg" medium="image"/>
-</item>
-<item>
-<title>US Democrats nominate Hakeem Jeffries to be first Black speaker of the House</title>
-<link>https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house</link>
-<guid isPermaLink="false">380c6ed3ece312d83e9b0cbddd18583f8dd3a9a4b1acf201d05a27f207681c8c</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Wed, 18 Nov 2026 15:44:18 +0000</pubDate>
-<description>Democrats nominated Hakeem Jeffries on Wednesday to be the next speaker of the House of Representatives, putting him on track to make history as the nation’s first Black American with the gavel.</description>
-<enclosure url="https://s.france24.com/media/display/e98be6bc-e365-11f1-99b1-1ba7ddfab527/w:1024/p:16x9/AP26322520989523.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/e98be6bc-e365-11f1-99b1-1ba7ddfab527/w:1024/p:16x9/AP26322520989523.jpg" medium="image"/>
 </item>
 <item>
 <title>Congressional Republicans push Howard Lutnick, Jensen Huang to testify about Nvidia</title>

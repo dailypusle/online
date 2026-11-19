@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>I’ve tested countless Linux distros, and Pond is unlike anything I’ve tried – here’s why</title>
-<link>https://www.zdnet.com/tech/pond-distro-arch-linux-unique-ui</link>
-<guid isPermaLink="false">4e5f5b37523b11f371de98b4ec19d68ea065089ab86968ad7c8421ac18238f02</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 17:30:38 +0000</pubDate>
-<description>Feeling adventurous? This Linux distribution is exciting, efficient and totally unique.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/pondhero.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/pondhero.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple HomePod mini 2 review: A necessary, but underwhelming update</title>
 <link>https://www.engadget.com/2321939/apple-homepod-mini-2-review</link>
 <guid isPermaLink="false">2c1a5d7a182a265dc32ce634b938a14c168f6499a60d4978002d36396abbfab2</guid>
@@ -263,7 +252,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Thu, 19 Nov 2026 14:04:38 +0000</pubDate>
-<description>Credit: J.M. Iravedra-Garcia et al., 2026 Credit: J.M. Iravedra-Garcia et al., 2026 There's something about watching violent events that broadly appeals to us, whether it's the latest John Wick movie, a video game, or a live UFC bout. Scientists have debated whether watching violent things could make us more aggressive, but it could also be an adaptive survival strategy. Male mice, for instance, who watch other mice fighting learned enough about how to fight to better protect themselves (compared to mice who didn't watch fights) when pitted against stronger, more aggressive opponents, according to a paper published in the journal Nature. The team assigned male mice randomly to three different groups—fighters, spectators, or novices—and then subjected each group to eight days of training involving three 10-minute sessions per day. The novices played with stuffed mice in isolation, while the spectators watched various pairs of fighter mice battle it out from a raised platform behind a transparent barrier—a set-up chosen to let them smell and listen to the fights as well as observe them. The ninth day was "fight night," when all the mice had to face a daunting opponent in three 4-minute rounds. Each fight was filmed from above so that the mouse behavior could be analyzed. To monitor corresponding changes in brain activity, the team engineered the rodents' excitatory brain cells to glow green whenever they were activated, while inhibitory brain cells glowed red. They also implanted tiny optical fibers into 12 interconnected brain regions so they could track changing activity in every brain region simultaneously. Read full article Comments</description>
+<description>Credit: J.M. Iravedra-Garcia et al., 2026 Credit: J.M. Iravedra-Garcia et al., 2026 There's something about watching violent events that broadly appeals to us, whether it's the latest John Wick movie, a video game, or a live UFC bout. Scientists have debated whether watching violent things could make us more aggressive, but it could also be an adaptive survival strategy. Male mice, for instance, who watched other mice fighting learned enough about how to fight to better protect themselves (compared to mice who didn't watch fights) when pitted against stronger, more aggressive opponents, according to a paper published in the journal Nature. The team randomly assigned male mice to three groups—fighters, spectators, or novices—and then subjected each group to eight days of training with three 10-minute sessions per day. The novices played with stuffed mice in isolation, while the spectators watched various pairs of fighter mice battle from a raised platform behind a transparent barrier—a set-up chosen to let them smell and listen to the fights as well as observe them. The ninth day was "fight night," when all the mice had to face a daunting opponent in three 4-minute rounds. Each fight was filmed from above so that the mouse behavior could be analyzed. To monitor corresponding changes in brain activity, the team engineered the rodents' excitatory brain cells to glow green whenever they were activated, while inhibitory brain cells glowed red. They also implanted tiny optical fibers into 12 interconnected brain regions so they could track changing activity in every brain region simultaneously. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1.jpg" medium="image"/>
 </item>
@@ -1366,5 +1355,16 @@
 <description>Similar to Gemini Intelligence and Siri AI, Galaxy Claw could bring cross-app intelligence to your phone.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc09895_4e2842.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc09895_4e2842.jpg" medium="image"/>
+</item>
+<item>
+<title>4 new Google Maps features to try on your next holiday road trip</title>
+<link>https://www.zdnet.com/tech/google-ask-maps-new-features-holiday-travel</link>
+<guid isPermaLink="false">6b1d02a0ed411825fd6de7f279f86a507c579fd539c7a057f7c20235820906ae</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 17:21:42 +0000</pubDate>
+<description>Google’s Ask Maps features start rolling out today on Android and iOS. Here’s what they can do for you now.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304015528.jpg?w=1280&amp;h=300&amp;crop=1" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2304015528.jpg?w=1280&amp;h=300&amp;crop=1" medium="image"/>
 </item>
 </channel></rss>

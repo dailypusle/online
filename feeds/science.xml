@@ -9,10 +9,21 @@
 <guid isPermaLink="false">f88f975c91230aa6fa1f5379b7baf23ce4d2bb536e89941e7d9b76ce6b965b9b</guid>
 <source>New York Times Science</source>
 <category>science</category>
-<pubDate>Thu, 19 Nov 2026 20:07:53 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 20:39:17 +0000</pubDate>
 <description>The first-ever lease sale took place over the objections of a federal judge. The company is leasing the seabed for mapping and preparation, not actual mining.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>Judge Finds Trump’s Planned Seabed Mining Auction Violated Law</title>
+<link>https://www.nytimes.com/2026/11/17/climate/seabed-mining-lease-auction.html</link>
+<guid isPermaLink="false">186fc286964259c5dcee044cd20fc687a636c2704d6d0a149df2147273885a65</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Thu, 19 Nov 2026 20:31:15 +0000</pubDate>
+<description>It’s unclear whether the Trump administration will proceed with a lease sale set for Thursday to permit companies to mine the ocean floor off American Samoa.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/17/science/17CLI-SEABED-MINING/17CLI-SEABED-MINING-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/17/science/17CLI-SEABED-MINING/17CLI-SEABED-MINING-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans</title>
@@ -620,17 +631,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/zZT8rszrQ9SSmarSrsRfiQ-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>Judge Finds Trump’s Planned Seabed Mining Auction Violated Law</title>
-<link>https://www.nytimes.com/2026/11/17/climate/seabed-mining-lease-auction.html</link>
-<guid isPermaLink="false">186fc286964259c5dcee044cd20fc687a636c2704d6d0a149df2147273885a65</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 21:55:37 +0000</pubDate>
-<description>It’s unclear whether the Trump administration will proceed with a lease sale set for Thursday to permit companies to mine the ocean floor off American Samoa.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/17/science/17CLI-SEABED-MINING/17CLI-SEABED-MINING-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/17/science/17CLI-SEABED-MINING/17CLI-SEABED-MINING-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
 <title>Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?</title>
 <link>https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up</link>
 <guid isPermaLink="false">79fc61e5ec8fef8c2ae8cd9bb3068aa6bd3b80a52622b6983264f2ac2fe773de</guid>
@@ -1157,17 +1157,6 @@
 <description>Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>A Key Paris Agreement Goal Is Dead. What Now?</title>
-<link>https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html</link>
-<guid isPermaLink="false">81d13bdcebd3cc2a41941834e810b6296c209c8164b9450e961531caad283db8</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Thu, 12 Nov 2026 20:15:04 +0000</pubDate>
-<description>Leaders at COP31 are confronting a new reality as global warming enters the “unsafe zone.”</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/19/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/19/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>Can Network Science Transform Health and Nutrition?</title>

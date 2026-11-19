@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>GTA 6 Shows Why You Should Never, Ever, Ever Text and Drive (Ever)</title>
+<link>https://www.polygon.com/gta-6-texting-and-driving</link>
+<guid isPermaLink="false">84b7c2ed8f354e0eb4684a5f55a02262f5e33d027c7566ebc5ee4013834f584f</guid>
+<source>Polygon</source>
+<category>gaming</category>
+<pubDate>Thu, 19 Nov 2026 21:00:18 +0000</pubDate>
+<description>You can pull off a lot of heinous crimes in Grand Theft Auto 6 . Stealing a car, mugging an old lady at gunpoint, killing a bird and then beating up a cop with its corpse. All of those are sure to earn you at least a one-star Wanted level. But there’s an even worse crime in GTA 6 that you’ll probably wind up doing more than murder: texting and driving.</description>
+<enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-driving.jpg" type="image/jpeg"/>
+<media:content url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-driving.jpg" medium="image"/>
+</item>
+<item>
 <title>GTA 6 guides and walkthroughs</title>
 <link>https://www.polygon.com/gta-6-guides-walkthroughs-tips</link>
 <guid isPermaLink="false">8f3d873252c258a14809dcece59c8ca6f64a04ed9f4f03d03fc29a88069bea95</guid>
@@ -101,16 +112,5 @@
 <description>Phone apps in Grand Theft Auto 6 serve a purpose, but some are far more useful than others. Scooter Bros and RydeMe are among the best, whereas Snapmatic is mostly very disturbing. Nonetheless, you'd probably like to unlock them all.</description>
 <enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-phone-apps-1.jpg" type="image/jpeg"/>
 <media:content url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-phone-apps-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Huge New Nvidia Bug Is Ruining Gaming Hardware, Users Say</title>
-<link>https://www.polygon.com/nvidia-graphics-driver-bug-gaming-hardware</link>
-<guid isPermaLink="false">a9e42708f29cb6b425df471d8c72a49de7c83c8b8bdc6fcbb4c7d55f33d34e58</guid>
-<source>Polygon</source>
-<category>gaming</category>
-<pubDate>Thu, 19 Nov 2026 17:42:28 +0000</pubDate>
-<description>Nvidia is in rough shape. As the hardware company scrambles to replace its CEO and co-founder, Jensen Huang , after a series of scandals, it seems the needs of lowly gamers aren’t high on the priority list. Earlier this year, the company ran into controversy over its ugly generative AI-fueled DLSS 5 technology . If you need more evidence that Nvidia is focused on cranking out chips for generative AI rather than supporting its gaming hardware, the company has failed to fix a bug reportedly capable of damaging users’ PCs by writing excessive amounts of data to solid-state drives (SSDs).</description>
-<enclosure url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jensen-huang-16-9-reupload.jpg" type="image/jpeg"/>
-<media:content url="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jensen-huang-16-9-reupload.jpg" medium="image"/>
 </item>
 </channel></rss>

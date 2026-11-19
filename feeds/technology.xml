@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>"You’re right"—LLMs will get climate info wrong if you ask</title>
+<link>https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont</link>
+<guid isPermaLink="false">0a0b303c5374aa54ba04cce0512d32e16cf182765f7c95a49d4f998f69e73c80</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 18:44:39 +0000</pubDate>
+<description>Many studies over the years have examined how people encounter climate science information. Some focused on the top results that Google surfaced (back when Google was still in the business of serving links), while others examined social media content or newspaper and TV news coverage. With large language models (LLMs) now forming a share of the public information diet, it's worth looking at how they handle climate change. But there’s no direct way for researchers to look at the information people have seen. It is served ephemerally to individual users, confined to their chat session. A study led by researchers from University College London and the United Nations Educational, Scientific, and Cultural Organization (UNESCO) tried to tackle this question from multiple angles, testing LLMs with different prompts and evaluating their output. They started with benchmarks of simple factual questions (benchmarks that might even be in models’ training data at this point) but also analyzed more complex interactions—including when users think they’re right to push back on an answer. CO 2 Q&amp;A LLM research often faces ( no-true-Scotsman-tinged ) criticism for focusing on a particular model rather than some other frontier model that may have been released after the experiment concluded. In this case, the study used 33 models, including multiple versions of the major frontier and open-weight models. The flagship frontier models used were Claude Fable 5, Claude Opus 5, Gemini 3.1 Pro Preview, Gemini 3.6 Flash, and GPT-5.6 Sol. (You can find the full list in the report .) Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Anthropic is now a public company worth more than $1 trillion</title>
 <link>https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion</link>
 <guid isPermaLink="false">4fc7ccedbfa9a7c3e2ef9bbfb2e285b246ae93a25df5ed186f73f8084e413638</guid>
@@ -92,6 +103,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0542.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>Meta Muse booked an Airbnb without permission – and that’s not the worst of it</title>
+<link>https://www.zdnet.com/tech/meta-muse-privacy-violatons-employees-report</link>
+<guid isPermaLink="false">a08bec0d72b585b1df7f612926b241ade10a97d1a4e2161550082b64da88a038</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 18:11:20 +0000</pubDate>
+<description>Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions. An investigation also found the AI agent accessed private messages.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Meta-Muse.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Meta-Muse.jpg" medium="image"/>
+</item>
+<item>
 <title>How to game share GTA 6 and split the cost with a friend</title>
 <link>https://www.engadget.com/2322043/how-to-game-share-gta-6-split-cost</link>
 <guid isPermaLink="false">935e253120cbe8d4b64f4d405f53c997ab87946500c04a62f32f66c375a904e5</guid>
@@ -142,7 +164,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Thu, 19 Nov 2026 17:36:14 +0000</pubDate>
-<description>AI startup and Claude chatbot maker likely to become one of the world’s most valuable publicly traded businesses Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic debuted on the US stock market on Thursday after raising the largest amount of investment in history for an initial public offering. Anthropic’s chief executive, Dario Amodei , rang the Nasdaq opening bell. “Today puts the company in a stronger financial position, and in doing so, only strengthens our resolve to do the right thing,” Amodei said. Continue reading...</description>
+<description>AI startup and Claude chatbot maker likely to become one of the world’s most valuable publicly traded businesses Anthropic IPO – live updates Anthropic shares soared more than a third when trading got underway on its US market debut on Thursday, valuing the company at more than $2tn in the biggest stock market flotation in history. Shares in the AI company behind the Claude chatbot jumped 34% from its initial public offering price (IPO) of $83 a share to $111.50 when the Nasdaq opened. The gains later eased and shares were up 15% at nearly $96 by early afternoon in New York. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1036b62f47836e2eff2e53f19375cbc" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1036b62f47836e2eff2e53f19375cbc" medium="image"/>
 </item>
@@ -1245,17 +1267,6 @@
 <description>The Home Office has awarded a contract worth £178 million to a public-private hosting services joint venture - without competition - to support critical national infrastructure. According to a notice published last week , Crown Hosting Data Centres (CHDC) won the seven-year contract to support "essential national infrastructure underpinning the Home Office's most critical systems, including border security, the Police National Computer (PNC), and core intelligence environments." CHDC is a joint venture between the Cabinet Office, which owns 25 percent, and Ark Data Centres Ltd, which owns the rest. It was set up in 2015 for the express purpose of providing hosting services for the government. The award was made through an existing framework agreement, set up in February 2022, awarded to CHDC without competition via a Voluntary Ex-Ante Transparency Notice . The service is set to support Critical National Infrastructure, although the notice does not reveal specific services requested. Mention of continued support for the Police National Computer may raise eyebrows. The Home Office is managing the transition of the aging legacy system to the Law Enforcement Data Service (LEDS) under the National Law Enforcement Data Program (NLEDP). A notice in December 2024 said that the Home Office was "focused on the development and adoption of LEDS products to replace existing PNC capability across all police forces and other non-policing PNC consumers, enabling the retirement by March 2026 (the point at which PNC support will expire)." The government had previously set a target of decommissioning the PNC in 2022. The Register has asked the Home Office to clarify why Crown Hosting support is necessary beyond this date. The PNC – which is based on mainframe technology dating from the 1970s – was at the center of a scandal in 2021 when a technology failure led to the loss of 413,000 records of evidence . The incident, which left then Prime Minister Boris Johnson floundering in Parliament, was the result of a scripting error in code designed to weed out records to be deleted from the PNC, a system running on a Fujitsu BS2000/OSD SE700-30 mainframe-based at a datacenter in Hendon, London. In 2022, the Cabinet Office awarded a contract worth up to £250 million to CHDC, also without outside competition. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5251800&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5251800&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Grand Theft Auto VI: The Ars Technica review</title>
-<link>https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review</link>
-<guid isPermaLink="false">02c7594e357016c56ee100577178d1d1c37582f994689fe848e5aa0f09973085</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 11:00:27 +0000</pubDate>
-<description>Just a minute ago, I was shooting my way out of a cocaine deal gone wrong, darting behind furniture for cover. Now I’m sitting on the floor of my home, working through the instructions to construct an Ikea-style coffee table with my partner. A tiny heart with a plus sign pops up, showing that our relationship is stronger for this quotidian domestic effort. This is the contrast at the heart of Grand Theft Auto VI , a game that seems to revel in both action movie bombast and the mundanities of everyday life for an up-and-coming young criminal couple. The reimagined and expanded Vice City is still the grand, crude, satirical criminal playground you’d expect after 25 years of 3D Grand Theft Auto games. And that world is as full, detailed, technically impressive, and polished as you would expect after this latest installment received a reported billion-dollar budget and roughly a decade of development work involving thousands of Rockstar staffers. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg" medium="image"/>
 </item>
 <item>
 <title>SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out</title>

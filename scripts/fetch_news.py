@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
-"""Fetch configured RSS/Atom feeds and create combined, deduplicated RSS files.
-
-Sports category = soccer only: every story must look like soccer news, have a
-real body of text, and come with a large (HD-class) sharp image.
-"""
-import calendar, hashlib, html, json, mimetypes, re
+"""Fetch configured RSS/Atom feeds and create combined, deduplicated RSS files."""
+import hashlib, html, json, mimetypes, re, time
 from datetime import datetime, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 from pathlib import Path
@@ -26,36 +22,6 @@ MIN_IMAGE_HEIGHT = 225
 MIN_SHARPNESS = 55.0
 # Sources marked "require_body": true in feeds.json must include at least this much summary text.
 MIN_BODY_CHARS = 60
-
-# ---- Sports (soccer) rules -------------------------------------------------
-# HD-class images: wide landscape photos only (about 1024x576 or larger).
-SPORTS_MIN_IMAGE_WIDTH = 1000
-SPORTS_MIN_IMAGE_HEIGHT = 560
-# Every sports story needs a real body, not just a one-line teaser.
-SPORTS_MIN_BODY_CHARS = 200
-SPORTS_MIN_TITLE_CHARS = 20
-
-SOCCER_RE = re.compile(
-    r"\b(soccer|football|premier league|epl|la liga|laliga|serie a|bundesliga|ligue 1|"
-    r"champions league|europa league|conference league|fa cup|carabao cup|efl|championship|"
-    r"world cup|afcon|africa cup of nations|caf|uefa|fifa|npfl|nff|super eagles|super falcons|"
-    r"mls|copa america|euro 20\d\d|nations league|transfer|striker|goalkeeper|midfielder|"
-    r"defender|winger|penalty|referee|var|hat-trick|"
-    r"arsenal|chelsea|liverpool|manchester united|man utd|manchester city|man city|tottenham|spurs|"
-    r"newcastle|aston villa|west ham|everton|leicester|real madrid|barcelona|atletico madrid|"
-    r"bayern|dortmund|psg|paris saint-germain|juventus|inter milan|ac milan|napoli|roma|"
-    r"benfica|porto|ajax|celtic|rangers|al nassr|inter miami|enyimba|rangers international)\b",
-    re.I,
-)
-# Anything that clearly belongs to another sport is rejected, even if the word "football" appears.
-OTHER_SPORT_RE = re.compile(
-    r"\b(nfl|super bowl|quarterback|touchdown|american football|college football|ncaa|"
-    r"nba|wnba|mlb|nhl|baseball|basketball|ice hockey|cricket|ipl|rugby|tennis|wimbledon|"
-    r"golf|pga|formula 1|formula one|f1|motogp|nascar|boxing|ufc|mma|wwe|wrestling|"
-    r"athletics|olympics|cycling|tour de france|snooker|darts)\b",
-    re.I,
-)
-
 IMAGE_CHECK_CACHE = {}
 CATEGORIES = {"top", "nigeria", "world", "entertainment", "sports", "technology", "science", "business", "gaming", "fashion", "other"}
 PREVIEW_CATEGORIES = ("top", "nigeria", "world", "business", "entertainment", "sports", "technology", "science")
@@ -81,27 +47,6 @@ def canonical_url(url):
 def text_html(value):
     # Escape untrusted source content so it remains text inside the generated XML.
     return html.escape(clean(value), quote=False)
-
-
-def is_soccer(title, description, soccer_only=False):
-    """True if the story is soccer news. Trusted soccer-only sources skip the keyword requirement."""
-    text = f"{title} {description[:600]}"
-    if OTHER_SPORT_RE.search(text) and not re.search(r"\b(soccer|premier league|la liga|serie a|bundesliga|champions league)\b", text, re.I):
-        return False
-    return True if soccer_only else bool(SOCCER_RE.search(text))
-
-
-def upgrade_image_url(url):
-    """Ask well-known CDNs for a bigger version of a thumbnail (original is tried if this fails)."""
-    new = url
-    # BBC thumbnails: .../standard/240/... -> .../standard/976/...
-    new = re.sub(r"(ichef\.bbci\.co\.uk/(?:ace/)?(?:standard|news|live)/)\d+/", r"\g<1>976/", new)
-    # WordPress resized files: photo-150x150.jpg / photo-300x200.jpg -> photo.jpg
-    new = re.sub(r"-\d{2,4}x\d{2,4}(\.(?:jpe?g|png|webp))(\?|$)", r"\1\2", new, flags=re.I)
-    # Plain width/height query hints (not on signed CDN links)
-    if "i.guim.co.uk" not in new and "s=" not in urlparse(new).query:
-        new = re.sub(r"([?&])(w|width)=\d+", r"\g<1>\g<2>=1280", new)
-    return new
 
 
 def entry_images(entry):
@@ -137,34 +82,29 @@ def entry_images(entry):
     return [url for _, url in candidates]
 
 
-def image_is_usable(url, min_w=MIN_IMAGE_WIDTH, min_h=MIN_IMAGE_HEIGHT):
-    """Reject missing, inaccessible, too-small, or visibly soft images before publishing."""
+def image_is_usable(url):
+    """Reject missing, inaccessible, tiny, or visibly soft images before publishing."""
     if not url or not str(url).startswith(("https://", "http://")):
         return False
-    key = (url, min_w, min_h)
-    if key in IMAGE_CHECK_CACHE:
-        return IMAGE_CHECK_CACHE[key]
+    if url in IMAGE_CHECK_CACHE:
+        return IMAGE_CHECK_CACHE[url]
     usable = False
     try:
         req = Request(url, headers={"User-Agent": USER_AGENT})
         with urlopen(req, timeout=IMAGE_TIMEOUT) as response:
             content_type = response.headers.get("Content-Type", "").lower()
             if not content_type.startswith("image/"):
-                IMAGE_CHECK_CACHE[key] = False
+                IMAGE_CHECK_CACHE[url] = False
                 return False
-            data = response.read(8 * 1024 * 1024 + 1)
-        if len(data) > 8 * 1024 * 1024:
-            IMAGE_CHECK_CACHE[key] = False
+            data = response.read(5 * 1024 * 1024 + 1)
+        if len(data) > 5 * 1024 * 1024:
+            IMAGE_CHECK_CACHE[url] = False
             return False
         with Image.open(BytesIO(data)) as original:
             original.verify()
         with Image.open(BytesIO(data)) as original:
-            if original.width < min_w or original.height < min_h:
-                IMAGE_CHECK_CACHE[key] = False
-                return False
-            # Landscape only, so cards never show awkward tall or square crops.
-            if original.width / original.height < 1.3:
-                IMAGE_CHECK_CACHE[key] = False
+            if original.width < MIN_IMAGE_WIDTH or original.height < MIN_IMAGE_HEIGHT:
+                IMAGE_CHECK_CACHE[url] = False
                 return False
             gray = original.convert("L")
             gray.thumbnail((320, 180))
@@ -174,18 +114,8 @@ def image_is_usable(url, min_w=MIN_IMAGE_WIDTH, min_h=MIN_IMAGE_HEIGHT):
             usable = sharpness >= MIN_SHARPNESS
     except Exception:
         usable = False
-    IMAGE_CHECK_CACHE[key] = usable
+    IMAGE_CHECK_CACHE[url] = usable
     return usable
-
-
-def best_image(entry, min_w, min_h):
-    """First candidate (trying an upgraded URL before the original) that passes the quality checks."""
-    for candidate in entry_images(entry):
-        upgraded = upgrade_image_url(candidate)
-        for url in ([upgraded, candidate] if upgraded != candidate else [candidate]):
-            if image_is_usable(url, min_w, min_h):
-                return url
-    return ""
 
 
 def entry_description(entry):
@@ -210,6 +140,7 @@ def entry_date(entry):
         if parsed:
             try:
                 # feedparser returns UTC struct_time; calendar.timegm avoids local-timezone skew.
+                import calendar
                 return datetime.fromtimestamp(calendar.timegm(parsed), timezone.utc)
             except Exception:
                 pass
@@ -256,7 +187,6 @@ def main():
     seen_urls, seen_titles = set(), set()
     enabled = [s for s in config.get("sources", []) if s.get("enabled", True) and s.get("url")]
     ok_sources, failed_sources, total = 0, 0, 0
-    skipped_not_soccer = skipped_thin = skipped_image = 0
 
     for source in enabled:
         name, url = clean(source.get("name")) or "Source", source["url"].strip()
@@ -266,8 +196,6 @@ def main():
             category = "other"
         elif category == "top":
             category = "world"
-        is_sports = category == "sports"
-        soccer_only = bool(source.get("soccer_only"))
         try:
             parsed = feedparser.parse(url, request_headers={"User-Agent": USER_AGENT}, resolve_relative_uris=True)
             if parsed.bozo and not parsed.entries:
@@ -285,27 +213,12 @@ def main():
                 if link in seen_urls or (title_key and title_key in seen_titles):
                     continue
                 description = entry_description(entry)
-
-                if is_sports:
-                    # Sports = soccer only, with a full headline and a real body.
-                    if not is_soccer(title, description, soccer_only):
-                        skipped_not_soccer += 1
-                        continue
-                    if len(title) < SPORTS_MIN_TITLE_CHARS or len(description) < SPORTS_MIN_BODY_CHARS:
-                        skipped_thin += 1
-                        continue
-                    min_w, min_h = SPORTS_MIN_IMAGE_WIDTH, SPORTS_MIN_IMAGE_HEIGHT
-                else:
-                    # For sources flagged "require_body", skip stories that have a headline but no summary text.
-                    if source.get("require_body") and len(description) < MIN_BODY_CHARS:
-                        continue
-                    min_w, min_h = MIN_IMAGE_WIDTH, MIN_IMAGE_HEIGHT
-
+                # For sources flagged "require_body", skip stories that have a headline but no summary text.
+                if source.get("require_body") and len(description) < MIN_BODY_CHARS:
+                    continue
                 # Try each image candidate; skip the article if none passes quality checks.
-                image = best_image(entry, min_w, min_h)
+                image = next((c for c in entry_images(entry) if image_is_usable(c)), "")
                 if not image:
-                    if is_sports:
-                        skipped_image += 1
                     continue
                 seen_urls.add(link)
                 seen_titles.add(title_key)
@@ -350,8 +263,6 @@ def main():
     )
 
     print(f"Collection complete: {ok_sources}/{len(enabled)} sources OK; {failed_sources} failed; {total} unique articles.")
-    print(f"Sports: {len(grouped['sports'])} soccer stories kept; skipped {skipped_not_soccer} not-soccer, "
-          f"{skipped_thin} thin text, {skipped_image} without an HD image.")
 
 
 if __name__ == "__main__":

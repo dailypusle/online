@@ -1,30 +1,120 @@
 {
   "top": [
     {
+      "title": "Colts vs. Texans score, live updates: Kayshon Boutte’s TD catch extends Houston’s lead over Indy to 14-3",
+      "link": "https://www.nytimes.com/athletic/live-blogs/colts-vs-texans-live-score-updates-nfl-tnf-result/diKaglHf6jta",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T02:24:36Z",
+      "description": "Follow our live coverage as the Texans host the Colts in an AFC South rivalry game to kick off Week 11.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/diKaglHf6jta_yQ2r2t7pHYGd_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "F1 Las Vegas GP live updates: Rain washes out first practice, FP2 still to come at final U.S. race weekend",
+      "link": "https://www.nytimes.com/athletic/live-blogs/f1-las-vegas-gp-live-updates-fp1-fp2-times-results/VxLr959bHnHh",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T02:21:14Z",
+      "description": "Follow live coverage as the Formula 1 season’s final triple-header begins at Las Vegas Strip Circuit.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/VxLr959bHnHh_gJpl3jQDoWnz_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "NBA season live updates: KAT, Knicks visit Wolves; Spurs eye win No. 13 and more",
+      "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T02:19:17Z",
+      "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_1aNsE7LDwkeN_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Bills to retire Andre Reed’s No. 83 next season",
+      "link": "https://www.nytimes.com/athletic/7796607/2026/11/19/bills-andre-reed-number-83-retirement",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T02:17:55Z",
+      "description": "Bills legend Andre Reed’s No. 83 will join the retired numbers of Jim Kelly, Thurman Thomas and Bruce Smith at Highmark Stadium next season.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19211227/GettyImages-453092648-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Padres become latest team to meet with top free agent Tarik Skubal: Source",
+      "link": "https://www.nytimes.com/athletic/7793510/2026/11/19/tarik-skubal-padres-meeting",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T02:10:02Z",
+      "description": "Tarik Skubal has already held meetings with the Mets, Dodgers and Blue Jays.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/28191653/GettyImages-2297182246-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
+      "source": "The Guardian Technology",
+      "date": "2026-11-20T02:00:18Z",
+      "description": "If the government bends to AI companies, artists, creatives and journalists will be the sacrificial lamb – and Australia will become a global pariah Get our breaking news email , free app or daily news podcast Right now, the prime minister faces a choice. Does he stand with Jimmy Barnes and the Working Class Man or does he stand with Big AI? This week, some of the biggest names in Australian music, publishing, journalism and art have thrown down the gauntlet to the government. From Paul Kelly to Anna Funder and Peter Garrett, household names and Australian icons are all singing from the same song sheet. Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/0cdbb6369ce14b701428a723ba8bb7a215b0e3bd/0_0_1828_1463/master/1828.jpg?width=460&quality=85&auto=format&fit=max&s=228b6827e191a41fb6acb9489e299d69",
+      "category": "technology"
+    },
+    {
+      "title": "MLB pitch-rigging trial testimony shifts focus to Luis Ortiz's pitches",
+      "link": "https://www.nytimes.com/athletic/7796387/2026/11/19/mlb-pitch-rigging-trial-ortiz-clase-guardians",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T01:39:41Z",
+      "description": "A cooperating witness says he received insider information on pitches Ortiz threw in games on June 15 and June 27 in the 2025 season.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19194329/AP26306523670431-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "White House fires national cyber director over widespread outages",
+      "link": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages",
+      "source": "France 24",
+      "date": "2026-11-20T01:28:47Z",
+      "description": "The White House fired national cyber director Sean Cairncross on Thursday following a week of technology disruptions affecting US air travel, email services and national security systems. The departure comes as the Trump administration faces criticism over its response to the outages, which officials say were unrelated incidents.",
+      "image": "https://s.france24.com/media/display/e56edbae-d878-11f1-8aa8-bf1914cabd52/w:1024/p:16x9/AP26294693498447.jpg",
+      "category": "world"
+    },
+    {
+      "title": "Army postpones plan to detonate nearly 10,000 pounds of lead azide until Monday",
+      "link": "https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-20T01:25:02Z",
+      "description": "Two rapid controlled detonations scheduled to take place at the Iowa Army Ammunition Plant in Middletown on Friday have been postponed by three days.",
+      "image": "https://s.abcnews.com/images/US/iowa-army-ammunition-plant-ht-jt-261118_1795034684135_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "How to watch Virginia Tech vs. No. 5 Miami (FL): TV channel and streaming options for November 21",
+      "link": "https://www.nytimes.com/athletic/7796539/2026/11/19/virginia-tech-vs-miami-fl-stream-how-to-watch-nov-21",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T01:24:26Z",
+      "description": "Find out how to watch the Virginia Tech Hokies play the Miami Hurricanes, with time, TV channel and streaming information.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19202426/siFO51s.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "How to watch Maryland vs. No. 18 USC: TV channel and streaming options for November 21",
+      "link": "https://www.nytimes.com/athletic/7796518/2026/11/19/maryland-vs-usc-stream-how-to-watch-nov-21",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T01:19:39Z",
+      "description": "Find out how to watch the Maryland Terrapins play the USC Trojans, with time, TV channel and streaming information.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201939/Uq2G8Gn.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "How to watch No. 19 Arizona vs. Kansas State: TV channel and streaming options for November 21",
+      "link": "https://www.nytimes.com/athletic/7796509/2026/11/19/arizona-vs-kansas-state-stream-how-to-watch-nov-21",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T01:17:37Z",
+      "description": "Find out how to watch the Arizona Wildcats play the Kansas State Wildcats, with time, TV channel and streaming information.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201736/BnVJuXV.jpg",
+      "category": "sports"
+    },
+    {
       "title": "How to watch SMU vs. No. 3 Notre Dame: TV channel and streaming options for November 21",
       "link": "https://www.nytimes.com/athletic/7796503/2026/11/19/smu-vs-notre-dame-stream-how-to-watch-nov-21",
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:16:34Z",
       "description": "Find out how to watch the SMU Mustangs play the Notre Dame Fighting Irish, with time, TV channel and streaming information.",
       "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201633/zFkfbtC.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Colts vs. Texans live updates: NFL ‘Thursday Night Football’ score, predictions, odds and latest",
-      "link": "https://www.nytimes.com/athletic/live-blogs/colts-vs-texans-live-score-updates-nfl-tnf-result/diKaglHf6jta",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T01:16:21Z",
-      "description": "Follow our live coverage as the Texans host the Colts in an AFC South rivalry game to kick off Week 11.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/diKaglHf6jta_gbSoIacNKS43_1440x960.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "F1 Las Vegas GP live updates: Follow latest from a wet FP1 as final U.S. race weekend begins today",
-      "link": "https://www.nytimes.com/athletic/live-blogs/f1-las-vegas-gp-live-updates-fp1-fp2-times-results/VxLr959bHnHh",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T01:16:13Z",
-      "description": "Follow live coverage as the Formula 1 season’s final triple-header begins at Las Vegas Strip Circuit.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/VxLr959bHnHh_Imkn4p9F2L4E_1440x960.jpg",
       "category": "sports"
     },
     {
@@ -64,24 +154,6 @@
       "category": "world"
     },
     {
-      "title": "NBA season live updates: KAT, Knicks visit Wolves; Spurs eye win No. 13 and more",
-      "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T01:04:09Z",
-      "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_1aNsE7LDwkeN_1440x960.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Army postpones plan to detonate nearly 10,000 pounds of lead azide until Monday",
-      "link": "https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-20T01:02:45Z",
-      "description": "Two rapid controlled detonations scheduled to take place at the Iowa Army Ammunition Plant in Middletown on Friday have been postponed by three days.",
-      "image": "https://s.abcnews.com/images/US/iowa-army-ammunition-plant-ht-jt-261118_1795034684135_hpMain_16x9_1600.jpg",
-      "category": "world"
-    },
-    {
       "title": "Controversial GTA 6 Easter Egg Will Annoy Millions of Gamers",
       "link": "https://www.polygon.com/gta-6-physical-disc-spoof-game",
       "source": "Polygon",
@@ -109,7 +181,16 @@
       "category": "nigeria"
     },
     {
-      "title": "White Sox trade Luis Castillo, Davis Martin to Rockies for 2 prospects: Source",
+      "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
+      "link": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
+      "source": "The Register",
+      "date": "2026-11-20T00:57:45Z",
+      "description": "If you’ve got a moment to spare in between sorting out emergency patches for PHP , Java , and PostgreSQL , VMware has just bid for any remaining space on your schedule by publishing two critical-rated security advisories. VMSA-2026-0009 addresses CVE-2026-123890 , a 9.8-rated flaw that VMware says means a malicious actor with network access to vCenter may exploit this issue to bypass authentication and gain unauthorized access to the system. vCenter is the tool admins use to manage fleets of virtual machines. The flaw is present in VMware’s flagship Cloud Foundation suite. VMSA-2026-0009 also details four more CVEs, some of them high-severity. VMware’s second advisory, VMSA-2026-0010 , warns that Cloud Foundation, Aria Operations, and VCF Operations HCX products all use Apache – which has a 9.8-rated remote code execution vulnerability (CVE-2026-119618). A KVM curiosity Admins who oversee virtual infrastructure also need to pay attention to Linux KVM, the subject of a curious incident over the last 24 hours. This mess started with the November 18 disclosure of CVE-2026-99312 , a bug which allows an attacker to use a guest virtual machine to inflict Denial of Service (DoS) or memory corruption attacks on the host. It’s bad news whenever someone with access to a guest VM can attack the host, because it means gaining access to a single tenant can potentially harm all the other guest VMs or peer into the memory a guest uses. This flaw, however, isn’t a worst-case scenario guest-host escape, because it only impacts users of AMD processors who employ nested virtualization – the practice of running a hypervisor inside a virtual machine. Nested virtualization isn’t commonly used in the enterprise, but clouds employ it to do things like powering OS emulators. The bug’s CVSSv3 score is therefore a modest 5.5. Security researcher Oren Tomtov of Accomplish.ai says the flaw meant he could access 127 GB of host RAM on a Digital Ocean “Droplet” – the junior cloud’s name for its cloudy VMs. Yomtov says he told Digital Ocean and the Linux kernel security team about the flaw in October. Maintainers got busy and delivered a fix to the mainline kernel on November 2, full fixes landed on the 17 th . The CVE then appeared on November 18. Yomtov and Terra Security quickly posted their analysis of the flaw – but then took the posts down within hours. The Register understands that Digital Ocean asked for the posts to come down because it needed more time to update its Linux implementations. The company has not responded to multiple requests for comment. Terra’s analysis of the flaw asserts that it was introduced to KVM in 2022, when developers wrote a fix for CVE-2022-3344 . The company believes 3.2 percent of CVEs in the Linux kernel were introduced by the fix for another CVE. The good news about CVE-2026-99312 is it’s easy to defeat without an update, by disabling nested virtualization in KVM. ®",
+      "image": "https://image.theregister.com/?imageId=262623&width=800",
+      "category": "technology"
+    },
+    {
+      "title": "White Sox trade Luis Castillo, Davis Martin to Rockies for 2 prospects",
       "link": "https://www.nytimes.com/athletic/7796420/2026/11/19/white-sox-trade-luis-castillo-davis-martin-rockies",
       "source": "The Athletic Sports",
       "date": "2026-11-20T00:53:20Z",
@@ -143,87 +224,6 @@
       "description": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […]",
       "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000_b934d2.jpg",
       "category": "entertainment"
-    },
-    {
-      "title": "Trump pardons late baseball great Pete Rose after historic China trip",
-      "link": "https://abcnews.com/Politics/trump-pardons-late-baseball-great-pete-rose-after/story?id=138304528",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-20T00:20:15Z",
-      "description": "On the way back from his Asia trip, President Donald Trump said Thursday he issued a \"complete and total pardon\" to baseball legend Pete Rose, who died in 2024.",
-      "image": "https://s.abcnews.com/images/Politics/rose-gty-er-261119_1795129558659_hpMain_16x9_1600.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Two Directors, One Oscar: Can Lord and Miller, Los Javis, Fielder and Oppenheim or the Esiri Brothers Break Through?",
-      "link": "https://variety.com/2026/film/awards/directing-duos-lord-miller-javis-fielder-oppenheim-oscars-1236952486",
-      "source": "Variety",
-      "date": "2026-11-20T00:20:00Z",
-      "description": "Are two directors better than one? Nathan Fielder and Lance Oppenheim, Javier Calvo and Javier Ambrossi, Phil Lord and Chris Miller and Nigeria’s Esiri brothers are chasing a prize the Academy’s Director Branch has handed to a duo only three times in its history. Looking at the two-name directing teams in this year’s Oscar race, […]",
-      "image": "https://variety.com/wp-content/uploads/2026/03/You-Can-See-Everything-1000.jpg",
-      "category": "entertainment"
-    },
-    {
-      "title": "LSU president tells Will Wade to not play RJ Luis a day after Tigers debut",
-      "link": "https://www.nytimes.com/athletic/7796209/2026/11/19/rj-luis-jr-lsu-mens-basketball-eligibility-status",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T00:17:56Z",
-      "description": "Wade Rousse's statement came during an SEC presidents meeting where the situation was expected to be discussed.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19180733/WillWadeRJ-scaled.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "UNIZIK VC urges 19,522 graduands to uphold discipline, excellence",
-      "link": "https://www.vanguardngr.com/2026/11/unizik-vc-urges-19522-graduands-to-uphold-discipline-excellence",
-      "source": "Vanguard Nigeria",
-      "date": "2026-11-20T00:16:00Z",
-      "description": "By Nwabueze Okonkwo ONITSHA – The Vice-Chancellor of Nnamdi Azikiwe University, Awka, Prof. Ugochukwu Bond Stanley Anyaehie, has urged the 2025 and 2026 graduating students of the institution to uphold its core values of discipline, excellence and self-reliance as they begin the next phase of their lives. Anyaehie gave the charge on Thursday in Awka while delivering his address at the university’s 20th and 21st combined convocation ceremonies. He urged the graduands to become worthy ambassadors of the institution, named after Nigeria’s first President, Dr. Nnamdi Azikiwe, popularly known as Zik of Africa. Expounding on the university’s motto, the Vice-Chancellor said discipline required the graduands to make integrity, self-control and ethical conduct their guiding principles in an increasingly complex world. On self-reliance, he advised them not to wait for opportunities to come their way but to embrace innovation, create value, build enterprises and develop solutions to real-life challenges. He also urged them to pursue excellence and reject mediocrity, stressing that every task they undertook should reflect world-class standards. Reflecting on his tenure as the institution’s seventh Vice-Chancellor, Anyaehie reaffirmed his commitment to scholarship, clinical integrity, effective higher education governance, staff development and institutional transformation. He said his administration’s philosophy, “A Greater UNIZIK is Possible,” was not merely a slogan but a commitment to repositioning the university as a globally competitive centre of academic excellence, technological innovation and societal impact. Presenting the convocation statistics, the Vice-Chancellor disclosed that a total of 19,522 graduands would receive various qualifications, comprising 16,260 first-degree recipients and 3,262 postgraduate graduands. Of the first-degree recipients, 213 graduated with First Class Honours, 4,623 obtained Second Class Honours (Upper Division), 8,751 earned Second Class Honours (Lower Division), while 2,116 graduated with Third Class Honours and 71 obtained Pass degrees. Another 486 students received unclassified degrees in Medical and Pharmaceutical Sciences. The postgraduate category comprised 701 Doctor of Philosophy (PhD) recipients, 35 Master of Philosophy/Doctor of Philosophy (MPhil/PhD) recipients, 1,224 master’s degree recipients, 323 Postgraduate Diploma (PGD) recipients and 979 Postgraduate Diploma in Education (PGDE-NTI) recipients. Highlighting his administration’s achievements, Anyaehie said institutional reforms had been implemented to strengthen academic standards, improve staff welfare, expand the university’s capacity and modernise its operations. He also identified the full re-accreditation of the university’s Medical programme by the Medical and Dental Council of Nigeria (MDCN) as a major milestone in its academic and professional development. In his remarks, the Chancellor of the university, His Royal Majesty, Da Jacob Gyang Buba,",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2015/03/unizik.gif",
-      "category": "nigeria"
-    },
-    {
-      "title": "Lakers’ Official History Book Gets $9,600 Limited Edition With Magic Johnson Handprints, Staples Center Hardwood and Rare Artwork",
-      "link": "https://variety.com/2026/shopping/news/lakers-photo-book-collectible-deluxe-edition-buy-online-1236953793",
-      "source": "Variety",
-      "date": "2026-11-20T00:15:40Z",
-      "description": "The Los Angeles Lakers’ $100 coffee-table book is getting a five-figure upgrade. Luxury art-book publisher Taschen and the Lakers have unveiled two limited-edition versions of “Lakers: An Official History of the Purple & Gold,” featuring original handprints from Showtime-era legends, authenticated hardwood from the former Staples Center court and exclusive artwork signed by Magic Johnson […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/LA_LAKERS_ART_EDITION_BARNES_LE_GB_ARTPRINT003-X_62188.jpg",
-      "category": "entertainment"
-    },
-    {
-      "title": "Ogun polytechnic students protest ASUP strike, seek Abiodun’s intervention",
-      "link": "https://www.vanguardngr.com/2026/11/ogun-polytechnic-students-protest-asup-strike-seek-abioduns-intervention",
-      "source": "Vanguard Nigeria",
-      "date": "2026-11-20T00:10:00Z",
-      "description": "By James Ogunnaike, Abeokuta ABEOKUTA — Students of state-owned polytechnics in Ogun State on Thursday protested at the Governor’s Office, Oke Mosan, Abeokuta, demanding Governor Dapo Abiodun’s urgent intervention to end the lingering industrial dispute between the state government and the Academic Staff Union of Polytechnics (ASUP). The protest, organised by hundreds of students under the aegis of the National Association of Polytechnic Students (NAPS), followed the expiration of two separate 48-hour ultimatums issued to the government without what the students described as concrete action towards resolving the dispute. The strike, which has kept students out of classrooms for about 10 days, has disrupted academic activities across the six state-owned polytechnics. Armed with placards bearing inscriptions such as “Gov. Dapo Abiodun, please end ASUP strike”, “Save Polytechnic Education Now”, “Our Lecturers Must Return to the Classroom” and “Attend to Our Lecturers’ Demands”, the protesters urged the governor to intervene personally and ensure an immediate resolution of the crisis. Speaking during the demonstration, the Chairman of NAPS, Ogun State Liaison Council, Comrade Joshua Opatunmibi, said the students had exhausted available diplomatic channels and could no longer remain silent while their academic future was being jeopardised. He explained that the protest was not intended to confront the state government but to draw attention to the hardship caused by the prolonged strike and demand decisive action. Opatunmibi said the students had made several appeals to the government and issued two 48-hour ultimatums without the desired response. He said: “On November 12, we issued a 48-hour ultimatum to the state government, appealing to Governor Dapo Abiodun to urgently intervene and bring an end to the ongoing ASUP strike. “The 48 hours elapsed without any meaningful action from the government. Consequently, on Monday, we addressed another press conference, appealing to the government to come to our rescue because the strike had stalled our education. We also issued another 48-hour ultimatum. “That ultimatum expired on Wednesday afternoon, but we were disappointed that nothing had been done to address our concerns. We are really unhappy. Does it mean that the government does not care about our plight? “The closure of all the polytechnics in the state is seriously affecting us. We cannot continue to sit at home while our academic programmes and future plans are being put on hold. “We are here to demonstrate that the voices of students matter. We are not fighting the government; we are simply demanding that the issues responsible for this strike be resolved. “We cannot continue to put our future in jeopardy. We appeal to Governor Abiodun to please attend to the demands of our lecturers so that we can return to our respective institutions and complete our education.” Also speaking, a NAPS member, Kolade Musbau, expressed disappointment over what he de",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/05/dapo-abiodun.jpeg",
-      "category": "nigeria"
-    },
-    {
-      "title": "Commanders gush over ‘Bachelor’ and teammate Sam Hartman: ‘Best-looking guy I’ve ever seen’",
-      "link": "https://www.nytimes.com/athletic/7796066/2026/11/19/bachelor-sam-hartman-commanders-qb-comments",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T00:08:20Z",
-      "description": "Sam Hartman, an undrafted quarterback out of Notre Dame and Wake Forest, signed with the Commanders as a college free agent in 2024 and has been on their practice squad since.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19174632/AP26317526685642-scaled-e1795128410830.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Grizzlies or Wolves likely to move to Eastern Conference after NBA expansion: Sources",
-      "link": "https://www.nytimes.com/athletic/7795746/2026/11/19/nba-expansion-realignment-grizzlies-wolves",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T00:07:23Z",
-      "description": "One team currently in the Western Conference will likely need to switch to the East if the NBA expands to both Seattle and Las Vegas.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19152115/GettyImages-2259321871-scaled.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
-      "link": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks",
-      "source": "Engadget",
-      "date": "2026-11-20T00:03:22Z",
-      "description": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools.",
-      "image": "https://www.engadget.com/img/gallery/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/l-intro-1795132872.jpg",
-      "category": "technology"
     }
   ],
   "nigeria": [
@@ -455,21 +455,30 @@
   ],
   "world": [
     {
-      "title": "WATCH: Motorcyclist survives after fiery crash with Tesla",
-      "link": "https://abcnews.com/video/138305515",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-20T01:04:31Z",
-      "description": "A motorcyclist walked away from a fiery crash on an L.A. freeway after suddenly being cut off by a Tesla in the left lane.",
-      "image": "https://s.abcnews.com/images/WNT/261119_wn_vo_motorcycle_hpMain_16x9_1600.jpg",
+      "title": "White House fires national cyber director over widespread outages",
+      "link": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages",
+      "source": "France 24",
+      "date": "2026-11-20T01:28:47Z",
+      "description": "The White House fired national cyber director Sean Cairncross on Thursday following a week of technology disruptions affecting US air travel, email services and national security systems. The departure comes as the Trump administration faces criticism over its response to the outages, which officials say were unrelated incidents.",
+      "image": "https://s.france24.com/media/display/e56edbae-d878-11f1-8aa8-bf1914cabd52/w:1024/p:16x9/AP26294693498447.jpg",
       "category": "world"
     },
     {
       "title": "Army postpones plan to detonate nearly 10,000 pounds of lead azide until Monday",
       "link": "https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613",
       "source": "ABC News Top Stories",
-      "date": "2026-11-20T01:02:45Z",
+      "date": "2026-11-20T01:25:02Z",
       "description": "Two rapid controlled detonations scheduled to take place at the Iowa Army Ammunition Plant in Middletown on Friday have been postponed by three days.",
       "image": "https://s.abcnews.com/images/US/iowa-army-ammunition-plant-ht-jt-261118_1795034684135_hpMain_16x9_1600.jpg",
+      "category": "world"
+    },
+    {
+      "title": "WATCH: Motorcyclist survives after fiery crash with Tesla",
+      "link": "https://abcnews.com/video/138305515",
+      "source": "ABC News Top Stories",
+      "date": "2026-11-20T01:04:31Z",
+      "description": "A motorcyclist walked away from a fiery crash on an L.A. freeway after suddenly being cut off by a Tesla in the left lane.",
+      "image": "https://s.abcnews.com/images/WNT/261119_wn_vo_motorcycle_hpMain_16x9_1600.jpg",
       "category": "world"
     },
     {
@@ -668,15 +677,6 @@
       "date": "2026-11-19T19:33:56Z",
       "description": "Genie Godula is pleased to welcome Olivia Cheung. The trilateral meeting between Donald Trump, Xi Jinping and Vladimir Putin at the APEC summit was significant despite the absence of concrete agreements, according to Cheung. “The significance is seen in the precedence of the United States seeing and giving recognition that China and Russia are peers of the United States,” she explained, adding that “the image of a G3 is very significant.”",
       "image": "https://s.france24.com/media/display/61a7631a-e447-11f1-ad61-e56ab3dc0809/w:1024/p:16x9/EN-20261119-130423-130957-CS.jpg",
-      "category": "world"
-    },
-    {
-      "title": "NASA's Voyager 1 phones home from record one light-day away, 49 years after launch",
-      "link": "https://www.france24.com/en/nasa-voyager-1-phones-home-from-record-one-light-day-away-49-years-after-launch",
-      "source": "France 24",
-      "date": "2026-11-19T19:26:18Z",
-      "description": "The Voyager 1 probe launched by NASA nearly a half century ago has reached a distance from Earth of one light day (more than 26 billion kilometres), the farthest any human artifact has ever ventured from our planet. The space agency received a signal from the spacecraft Thursday, exactly 24 hours after it was sent.",
-      "image": "https://s.france24.com/media/display/667c80bc-e444-11f1-afff-13439ca2fe89/w:1024/p:16x9/AP24166764529324.jpg",
       "category": "world"
     }
   ],
@@ -1136,30 +1136,93 @@
   ],
   "sports": [
     {
+      "title": "Colts vs. Texans score, live updates: Kayshon Boutte’s TD catch extends Houston’s lead over Indy to 14-3",
+      "link": "https://www.nytimes.com/athletic/live-blogs/colts-vs-texans-live-score-updates-nfl-tnf-result/diKaglHf6jta",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T02:24:36Z",
+      "description": "Follow our live coverage as the Texans host the Colts in an AFC South rivalry game to kick off Week 11.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/diKaglHf6jta_yQ2r2t7pHYGd_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "F1 Las Vegas GP live updates: Rain washes out first practice, FP2 still to come at final U.S. race weekend",
+      "link": "https://www.nytimes.com/athletic/live-blogs/f1-las-vegas-gp-live-updates-fp1-fp2-times-results/VxLr959bHnHh",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T02:21:14Z",
+      "description": "Follow live coverage as the Formula 1 season’s final triple-header begins at Las Vegas Strip Circuit.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/VxLr959bHnHh_gJpl3jQDoWnz_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "NBA season live updates: KAT, Knicks visit Wolves; Spurs eye win No. 13 and more",
+      "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T02:19:17Z",
+      "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_1aNsE7LDwkeN_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Bills to retire Andre Reed’s No. 83 next season",
+      "link": "https://www.nytimes.com/athletic/7796607/2026/11/19/bills-andre-reed-number-83-retirement",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T02:17:55Z",
+      "description": "Bills legend Andre Reed’s No. 83 will join the retired numbers of Jim Kelly, Thurman Thomas and Bruce Smith at Highmark Stadium next season.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19211227/GettyImages-453092648-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Padres become latest team to meet with top free agent Tarik Skubal: Source",
+      "link": "https://www.nytimes.com/athletic/7793510/2026/11/19/tarik-skubal-padres-meeting",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T02:10:02Z",
+      "description": "Tarik Skubal has already held meetings with the Mets, Dodgers and Blue Jays.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/09/28191653/GettyImages-2297182246-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "MLB pitch-rigging trial testimony shifts focus to Luis Ortiz's pitches",
+      "link": "https://www.nytimes.com/athletic/7796387/2026/11/19/mlb-pitch-rigging-trial-ortiz-clase-guardians",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T01:39:41Z",
+      "description": "A cooperating witness says he received insider information on pitches Ortiz threw in games on June 15 and June 27 in the 2025 season.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19194329/AP26306523670431-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "How to watch Virginia Tech vs. No. 5 Miami (FL): TV channel and streaming options for November 21",
+      "link": "https://www.nytimes.com/athletic/7796539/2026/11/19/virginia-tech-vs-miami-fl-stream-how-to-watch-nov-21",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T01:24:26Z",
+      "description": "Find out how to watch the Virginia Tech Hokies play the Miami Hurricanes, with time, TV channel and streaming information.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19202426/siFO51s.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "How to watch Maryland vs. No. 18 USC: TV channel and streaming options for November 21",
+      "link": "https://www.nytimes.com/athletic/7796518/2026/11/19/maryland-vs-usc-stream-how-to-watch-nov-21",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T01:19:39Z",
+      "description": "Find out how to watch the Maryland Terrapins play the USC Trojans, with time, TV channel and streaming information.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201939/Uq2G8Gn.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "How to watch No. 19 Arizona vs. Kansas State: TV channel and streaming options for November 21",
+      "link": "https://www.nytimes.com/athletic/7796509/2026/11/19/arizona-vs-kansas-state-stream-how-to-watch-nov-21",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T01:17:37Z",
+      "description": "Find out how to watch the Arizona Wildcats play the Kansas State Wildcats, with time, TV channel and streaming information.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201736/BnVJuXV.jpg",
+      "category": "sports"
+    },
+    {
       "title": "How to watch SMU vs. No. 3 Notre Dame: TV channel and streaming options for November 21",
       "link": "https://www.nytimes.com/athletic/7796503/2026/11/19/smu-vs-notre-dame-stream-how-to-watch-nov-21",
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:16:34Z",
       "description": "Find out how to watch the SMU Mustangs play the Notre Dame Fighting Irish, with time, TV channel and streaming information.",
       "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201633/zFkfbtC.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Colts vs. Texans live updates: NFL ‘Thursday Night Football’ score, predictions, odds and latest",
-      "link": "https://www.nytimes.com/athletic/live-blogs/colts-vs-texans-live-score-updates-nfl-tnf-result/diKaglHf6jta",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T01:16:21Z",
-      "description": "Follow our live coverage as the Texans host the Colts in an AFC South rivalry game to kick off Week 11.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/diKaglHf6jta_gbSoIacNKS43_1440x960.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "F1 Las Vegas GP live updates: Follow latest from a wet FP1 as final U.S. race weekend begins today",
-      "link": "https://www.nytimes.com/athletic/live-blogs/f1-las-vegas-gp-live-updates-fp1-fp2-times-results/VxLr959bHnHh",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T01:16:13Z",
-      "description": "Follow live coverage as the Formula 1 season’s final triple-header begins at Las Vegas Strip Circuit.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/VxLr959bHnHh_Imkn4p9F2L4E_1440x960.jpg",
       "category": "sports"
     },
     {
@@ -1190,16 +1253,7 @@
       "category": "sports"
     },
     {
-      "title": "NBA season live updates: KAT, Knicks visit Wolves; Spurs eye win No. 13 and more",
-      "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T01:04:09Z",
-      "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_1aNsE7LDwkeN_1440x960.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "White Sox trade Luis Castillo, Davis Martin to Rockies for 2 prospects: Source",
+      "title": "White Sox trade Luis Castillo, Davis Martin to Rockies for 2 prospects",
       "link": "https://www.nytimes.com/athletic/7796420/2026/11/19/white-sox-trade-luis-castillo-davis-martin-rockies",
       "source": "The Athletic Sports",
       "date": "2026-11-20T00:53:20Z",
@@ -1235,7 +1289,7 @@
       "category": "sports"
     },
     {
-      "title": "Las Vegas GP: Heavy rain falling in first practice LIVE!",
+      "title": "Las Vegas GP: No laps completed in first practice due to heavy rain LIVE!",
       "link": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
       "source": "Sky Sports Formula 1",
       "date": "2026-11-19T23:25:00Z",
@@ -1305,63 +1359,36 @@
       "description": "Austin Mock's College Football Projection Model has point differentials and totals for every FBS vs. FBS game in Week 12.",
       "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19144842/GettyImages-2305186595-scaled-e1795117755665.jpg",
       "category": "sports"
-    },
-    {
-      "title": "Shelton books Alcaraz rematch as Zverev continues perfect start",
-      "link": "https://www.skysports.com/tennis/news/12110/13614067/atp-finals-ben-shelton-beats-rafael-jodar-to-book-carlos-alcaraz-semi-final-as-alexander-zverev-secures-group-victory",
-      "source": "Sky Sports Tennis",
-      "date": "2026-11-19T22:00:00Z",
-      "description": "Ben Shelton faces another semi-final reunion with Carlos Alcaraz after securing his progress from the group stage at the Nitto ATP Finals in Turin.",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ben-shelton-atp-finals_7410976.jpg?20261119220837",
-      "category": "sports"
-    },
-    {
-      "title": "Humphries shocked by Sykes in last-leg thriller at Grand Slam of Darts",
-      "link": "https://www.skysports.com/darts/news/12040/13613979/luke-humphries-shocked-by-tom-sykes-in-last-leg-thriller-at-grand-slam-of-darts-a-day-after-luke-littler-exit",
-      "source": "Sky Sports Football",
-      "date": "2026-11-19T22:00:00Z",
-      "description": "Luke Humphries suffered a last-leg 10-9 loss to debutant Tom Sykes in the second round of the Grand Slam of Darts in Wolverhampton.",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-tom-sykes-darts-grand-slam-of-darts_7411000.jpg?20261119222711",
-      "category": "sports"
-    },
-    {
-      "title": "Hull chases Thitikul in LPGA Tour finale and discusses phone 'detox'",
-      "link": "https://www.skysports.com/golf/news/12040/13614064/lpga-tour-charley-hull-lottie-woad-start-strongly-at-cme-group-tour-championship-as-jeeno-thitikul-shares-early-lead",
-      "source": "Sky Sports Football",
-      "date": "2026-11-19T22:00:00Z",
-      "description": "Charley Hull sits within a shot of the lead after a low-scoring opening round at the CME Group Tour Championship, where Lottie Woad and Nelly Korda also impressed.",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-charley-hull-golf_7410939.jpg?20261119212302",
-      "category": "sports"
-    },
-    {
-      "title": "Ben Shelton beats Rafael Jodar, Alexander Zverev drops Arthur Fils at ATP Finals: Live updates and reaction",
-      "link": "https://www.nytimes.com/athletic/live-blogs/atp-finals-2026-live-updates-schedule-scores-results/ZWrCJhdAjkP7",
-      "source": "The Athletic Sports",
-      "date": "2026-11-19T21:45:25Z",
-      "description": "U.S. star Ben Shelton and No. 1 seed Alexander Zverev advanced to the semifinals with straight-set wins.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/ZWrCJhdAjkP7_E8y9g6Y3s2OV_1440x959.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Why Sonny Gray believes Twins can win now: 'Near future is very bright in Minnesota'",
-      "link": "https://www.nytimes.com/athletic/7795849/2026/11/19/sonny-gray-twins-win-now-future-very-bright",
-      "source": "The Athletic Sports",
-      "date": "2026-11-19T21:43:15Z",
-      "description": "Sonny Gray likes the Twins' outlook enough to return to Minnesota three seasons after he departed for the St. Louis Cardinals.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19155456/GettyImages-1717681217-scaled-e1795122413259.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Zverev victorious in intense match against Fils to advance into semi-finals",
-      "link": "https://www.skysports.com/watch/video/13614170/alexander-zverev-vs-arthur-fils-atp-finals-highlights",
-      "source": "Sky Sports Tennis",
-      "date": "2026-11-19T21:36:00Z",
-      "description": "Highlights of Alexander Zverev against Arthur Fils in the ATP Finals.",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-tennis-atp_7410953.jpg?20261119213807",
-      "category": "sports"
     }
   ],
   "technology": [
+    {
+      "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
+      "source": "The Guardian Technology",
+      "date": "2026-11-20T02:00:18Z",
+      "description": "If the government bends to AI companies, artists, creatives and journalists will be the sacrificial lamb – and Australia will become a global pariah Get our breaking news email , free app or daily news podcast Right now, the prime minister faces a choice. Does he stand with Jimmy Barnes and the Working Class Man or does he stand with Big AI? This week, some of the biggest names in Australian music, publishing, journalism and art have thrown down the gauntlet to the government. From Paul Kelly to Anna Funder and Peter Garrett, household names and Australian icons are all singing from the same song sheet. Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/0cdbb6369ce14b701428a723ba8bb7a215b0e3bd/0_0_1828_1463/master/1828.jpg?width=460&quality=85&auto=format&fit=max&s=228b6827e191a41fb6acb9489e299d69",
+      "category": "technology"
+    },
+    {
+      "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
+      "link": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
+      "source": "The Register",
+      "date": "2026-11-20T00:57:45Z",
+      "description": "If you’ve got a moment to spare in between sorting out emergency patches for PHP , Java , and PostgreSQL , VMware has just bid for any remaining space on your schedule by publishing two critical-rated security advisories. VMSA-2026-0009 addresses CVE-2026-123890 , a 9.8-rated flaw that VMware says means a malicious actor with network access to vCenter may exploit this issue to bypass authentication and gain unauthorized access to the system. vCenter is the tool admins use to manage fleets of virtual machines. The flaw is present in VMware’s flagship Cloud Foundation suite. VMSA-2026-0009 also details four more CVEs, some of them high-severity. VMware’s second advisory, VMSA-2026-0010 , warns that Cloud Foundation, Aria Operations, and VCF Operations HCX products all use Apache – which has a 9.8-rated remote code execution vulnerability (CVE-2026-119618). A KVM curiosity Admins who oversee virtual infrastructure also need to pay attention to Linux KVM, the subject of a curious incident over the last 24 hours. This mess started with the November 18 disclosure of CVE-2026-99312 , a bug which allows an attacker to use a guest virtual machine to inflict Denial of Service (DoS) or memory corruption attacks on the host. It’s bad news whenever someone with access to a guest VM can attack the host, because it means gaining access to a single tenant can potentially harm all the other guest VMs or peer into the memory a guest uses. This flaw, however, isn’t a worst-case scenario guest-host escape, because it only impacts users of AMD processors who employ nested virtualization – the practice of running a hypervisor inside a virtual machine. Nested virtualization isn’t commonly used in the enterprise, but clouds employ it to do things like powering OS emulators. The bug’s CVSSv3 score is therefore a modest 5.5. Security researcher Oren Tomtov of Accomplish.ai says the flaw meant he could access 127 GB of host RAM on a Digital Ocean “Droplet” – the junior cloud’s name for its cloudy VMs. Yomtov says he told Digital Ocean and the Linux kernel security team about the flaw in October. Maintainers got busy and delivered a fix to the mainline kernel on November 2, full fixes landed on the 17 th . The CVE then appeared on November 18. Yomtov and Terra Security quickly posted their analysis of the flaw – but then took the posts down within hours. The Register understands that Digital Ocean asked for the posts to come down because it needed more time to update its Linux implementations. The company has not responded to multiple requests for comment. Terra’s analysis of the flaw asserts that it was introduced to KVM in 2022, when developers wrote a fix for CVE-2022-3344 . The company believes 3.2 percent of CVEs in the Linux kernel were introduced by the fix for another CVE. The good news about CVE-2026-99312 is it’s easy to defeat without an update, by disabling nested virtualization in KVM. ®",
+      "image": "https://image.theregister.com/?imageId=262623&width=800",
+      "category": "technology"
+    },
+    {
+      "title": "Germ Network infects Android, but in a good way",
+      "link": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
+      "source": "The Register",
+      "date": "2026-11-20T00:06:35Z",
+      "description": "The Germ Network encrypted messaging client, known as Germ DM, became available for Android on Wednesday, and made a bigger splash than its iOS touchdown back in 2023. \"Our usage took a 20x jump yesterday from our Android launch ,\" co-founder Tessa Brown, a communications scholar and former Stanford lecturer, told The Register in an interview. \"Android has been really exciting for us because not only is it 70 percent of the global mobile market, but we rolled out on iOS first. People were so excited to use Germ for their end-to-end encrypted Bluesky DMs, but half of their friends couldn't talk to them.\" Building a new messaging platform isn't easy, much less one with credible end-to-end encryption. Co-founder Mark Xue hails from Apple, where he worked as a privacy engineer on systems like iMessage and FaceTime. \"At the core level, the end-to-end encryption is built on a standardized encryption and Messaging Layer Security,\" Xue said. \"The premise of Messaging Layer Security was to be as good as Signal and deployable by many, many different parties in different applications, which we're taking advantage of to extend the reach of that encryption.\" Xue said the app is built with its own transport protocol to minimize the amount of message metadata, adding that while the team hasn't gotten around to a formal security audit, it's a step they're considering. Germ Network's goal, said Brown, is to give people more confidence when they communicate. \"We do that by giving you more tools to protect your identity, to control what you're sharing with whom,\" she explained. Instead of using a person's phone number as an identity key, Germ allows users to create cards which represent distinct identities on the network. \"Instead of sharing your number, you share a card,\" Brown explained. \"You can build multiple cards; they're not mutually discoverable. And our vision for the product that will continue shipping over the coming years is that these cards become a more intelligent way to manage your social life, even your work life.\" At some point, AI might play a role in that, but both Xue and Brown expressed reservations about the current state of play. Citing concerns Signal has raised about the integration of AI and messaging, Xue said, \"The products today that I might characterize as technology demos, they're most powerful when they run on someone else's computer. So you end up with these systems where you upload all your messages or you give another entity the power to observe your computing, and that's extremely dangerous for what we protect as private content.\" Xue noted rapid progress toward addressing information exposure concerns and therefore plans to explore the kinds of smart tooling that users want while also meeting security and privacy requirements. \"I think a lot of the AI conversation sometimes is a hammer in search of a nail,\" said Brown. \"But people do want more tools to make sense of their busy lives and following our consumers, our users, and w",
+      "image": "https://image.theregister.com/?imageId=5311190&width=800",
+      "category": "technology"
+    },
     {
       "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
       "link": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks",
@@ -1559,33 +1586,6 @@
       "description": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday , the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison. Jammers are generally banned under Section 333 of the Communications Act of 1934 , though they're used at some federal facilities. FCC Chair Brendan Carr claims that giving correctional facilities access to this technology will help prevent prisoners from using phones for illegal activity. \"These devices [phones] are being used by inmates to order hits, run drug operations, traffic women an … Read the full story at The Verge.",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_B.jpg?quality=90&strip=all&crop=0,0,100,100",
       "category": "technology"
-    },
-    {
-      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-      "link": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
-      "source": "The Verge",
-      "date": "2026-11-19T19:35:52Z",
-      "description": "All four colors of the WH-1000XM5 are in stock at the discounted price. Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones , which are marked down to their lowest price ever, just $169.99 at Best Buy . While their MSRP is $399.99, they’ve been spotted as low as $198 in the last few months. Sony WH-1000XM5 Where to Buy: $399.99 $198 at Amazon $399.99 $198 at Best Buy $399.99 $199.99 at Costco The WH-1000XM5 launched in 2022, and despite having been succeeded by the WH-1000XM6 , they’re still an excellent set of headphones. Their active noise cancellation effect is one of the best out there — competitive with the latest models from Bose and Apple — and the sound profile is tighter and more balanced than the older Sony headphones. There are some minor downsides, like a bulky case and all-plastic design, but those seem easier to overlook at this lower price point. The newer Sony WH-1000XM6 improve the sound and noise cancellation, with quality of life upgrades not present in the XM5, like a folding design and more comfortable headband. However, they’re significantly more expensive, currently discounted to $348 during Black Friday ( Amazon , Best Buy ), down from their MSRP of $450. To make shopping a little more confusing, the newer WH-1000XM4C sit between the XM5 and XM6 in terms of price, and are a slightly updated version of the older XM4 model with its foldable design. Our reviewer John Higgins thinks the XM4C’s noise cancellation lags behind, so I’d opt for the XM5 over them, especially at the sale price. Read our Sony WH-1000XM5 review .",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSCF7932.webp?quality=90&strip=all&crop=0,0,100,100",
-      "category": "technology"
-    },
-    {
-      "title": "You can now buy a Steam Machine without getting on a waitlist",
-      "link": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
-      "source": "The Verge",
-      "date": "2026-11-19T19:33:22Z",
-      "description": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on a waitlist. Initially, interested buyers had to get on Valve's waitlist if they wanted to purchase one, but the console-like PC is now available in an \"add-to-cart\" status, according to the company. As I write this, the 512GB versions with and without a bundled controller are showing estimated delivery dates of three to five business days on Valve's website . If Valve sells through its … Read the full story at The Verge.",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "category": "technology"
-    },
-    {
-      "title": "Apple TV expands its racing coverage with the all-female F1 Academy",
-      "link": "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy",
-      "source": "Engadget",
-      "date": "2026-11-19T19:16:42Z",
-      "description": "The platform will air \"every qualifying session and race throughout the season.\"",
-      "image": "https://www.engadget.com/img/gallery/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/l-intro-1795115497.jpg",
-      "category": "technology"
     }
   ],
   "science": [
@@ -1629,7 +1629,7 @@
       "title": "Studies Could Pave Way for Blood Test to Detect C.T.E. in Living Patients",
       "link": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html",
       "source": "New York Times Science",
-      "date": "2026-11-19T21:08:13Z",
+      "date": "2026-11-19T21:08:14Z",
       "description": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports.",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg",
       "category": "science"
@@ -1719,7 +1719,7 @@
       "title": "The Permitting Bill Is Splitting the Environmental Movement",
       "link": "https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html",
       "source": "New York Times Science",
-      "date": "2026-11-19T17:49:59Z",
+      "date": "2026-11-19T17:50:00Z",
       "description": "Speeding up approvals for clean energy could help fight global warming — but many green groups fear its other provisions go too far.",
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-permitting-debate-stillpromo/18cli-permitting-debate-stillpromo-mediumSquareAt3X.jpg",
       "category": "science"

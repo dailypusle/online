@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>WATCH: New health warning on doomscrolling: What to know and tips to break the habit</title>
+<link>https://abcnews.com/video/138324954</link>
+<guid isPermaLink="false">b035d75b07a9a3c457ed911dce48f36717a2ce8af956f3ea7126673b0b217086</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 20 Nov 2026 20:39:45 +0000</pubDate>
+<description>A Lancet Psychiatry report calls problematic internet use a global health concern, affecting more than 1 in 10 people. ABC News’ Dr. Jennifer Miao explains the impact and how to protect yourself.</description>
+<enclosure url="https://s.abcnews.com/images/Health/261120_abcnl_3p_maio_doomscrolling_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Health/261120_abcnl_3p_maio_doomscrolling_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>LIVE: ABC News Live</title>
+<link>https://abcnews.com/video/41463246</link>
+<guid isPermaLink="false">c4dde2f9d4430a48432ef223ef2dea7731f9a2b9448e21ee003bf7e7734a1e77</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 20 Nov 2026 20:15:26 +0000</pubDate>
+<description>24/7 coverage of breaking news and live events</description>
+<enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Florida plastic surgeon sentenced to death for murdering missing lawyer</title>
+<link>https://abcnews.com/US/florida-plastic-surgeon-sentenced-death-murdering-missing-lawyer/story?id=138327475</link>
+<guid isPermaLink="false">b2a520ad740bce76f08d7174d10da3a08436a107877d036f6fadc7f0fb10a058</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 20 Nov 2026 20:10:56 +0000</pubDate>
+<description>Tomasz Kosowski was found guilty of first-degree murder in the death of 41-year-old Steven Cozzi, who disappeared in March 2023.</description>
+<enclosure url="https://s.abcnews.com/images/US/courtroom-ht-jt-261120_1795204085989_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/courtroom-ht-jt-261120_1795204085989_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Iran live updates: Trump says Iran doesn't want to make a deal 'acceptable' to him</title>
 <link>https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto?id=138171071</link>
 <guid isPermaLink="false">bb33a888ff666c42d2d84827c604115119fc1cb2ba6f04e467af7d338bc1ff69</guid>
@@ -26,7 +59,7 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-mikka-anderson-anderson_7411610.jpg?20261120165432" medium="image"/>
 </item>
 <item>
-<title>'Alpha Sadist' jailed for life for murder of British woman he groomed on fetish website</title>
+<title>Man jailed for murder of British woman he groomed on fetish website</title>
 <link>https://news.sky.com/story/alpha-sadist-jailed-for-life-for-murder-of-british-woman-he-groomed-on-fetish-website-13614463</link>
 <guid isPermaLink="false">f5ccb4c778f1377010b29788487a57e08e5c5231035a1c05b971c9ab0950aeff</guid>
 <source>Sky News Home</source>
@@ -35,17 +68,6 @@
 <description>A sadistic predator has been sentenced to life in prison after being found guilty of the kidnap and first-degree murder of a vulnerable British woman.</description>
 <enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-sonia-exelby-florida_7308098.jpg?20260727205251" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/07/1920x1080/skynews-sonia-exelby-florida_7308098.jpg?20260727205251" medium="image"/>
-</item>
-<item>
-<title>LIVE: ABC News Live</title>
-<link>https://abcnews.com/video/41463246</link>
-<guid isPermaLink="false">c4dde2f9d4430a48432ef223ef2dea7731f9a2b9448e21ee003bf7e7734a1e77</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 18:38:59 +0000</pubDate>
-<description>24/7 coverage of breaking news and live events</description>
-<enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>A second judge blocks Trump's arch, saying it's unlikely to succeed in court</title>
@@ -90,17 +112,6 @@
 <description>🦛Fiona, Cincinnati Zoo’s beloved hippo, has died aged just 9, after swallowing a knitted hat that fell into her enclosure. Born prematurely and weighing only 13kg, she captured millions of hearts around the world and became an internet sensation.</description>
 <enclosure url="https://s.france24.com/media/display/0f53035c-e506-11f1-90ff-ebb478925cf0/w:1024/p:16x9/burnham-00-01-03-04-Still002.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/0f53035c-e506-11f1-90ff-ebb478925cf0/w:1024/p:16x9/burnham-00-01-03-04-Still002.jpg" medium="image"/>
-</item>
-<item>
-<title>US stocks waver as tech sell-off continues and Anthropic falls</title>
-<link>https://abcnews.com/US/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309522</link>
-<guid isPermaLink="false">c40657029952aa1ecb356ea8f2fa2691d516866f343166685ff887c01ed18dd6</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 17:23:09 +0000</pubDate>
-<description>Stocks fell sharply Friday, pulling the S&amp;P 500 10% below its record set last month, as the sell-off for AI stocks accelerates</description>
-<enclosure url="https://s.abcnews.com/images/US/wirestory_c4c3f4878b12989347f8a930ed813dad_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wirestory_c4c3f4878b12989347f8a930ed813dad_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>UK and EU strike ‘landmark’ deal to rebuild ties after Brexit</title>
@@ -244,17 +255,6 @@
 <description>Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be. (Image credit: Andre Calder)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x4480+0+0/resize/6720x4480!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F34%2Fdf%2F22aec2e24cc3b15da15248e56479%2F0d7a40131-1.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x4480+0+0/resize/6720x4480!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F34%2Fdf%2F22aec2e24cc3b15da15248e56479%2F0d7a40131-1.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: New health warning on doomscrolling</title>
-<link>https://abcnews.com/video/138316910</link>
-<guid isPermaLink="false">223cc23391a56e58c6f89f8ccd717222aaecd9a0a37538229e1161f75dca8c02</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 16:12:18 +0000</pubDate>
-<description>ABC News' Dr. Tara Narula breaks down a new report warning that problematic internet use should be considered a global public health concern.</description>
-<enclosure url="https://s.abcnews.com/images/GMA/261120_gma_narula1_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261120_gma_narula1_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Gen Z protests spread across Europe: Mass rallies over cost of living in Spain</title>
@@ -532,17 +532,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5396x3597+0+0/resize/5396x3597!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2F4f%2F895ab11541ccbf16687e335be256%2Fgettyimages-2305445208.jpg" medium="image"/>
 </item>
 <item>
-<title>Pair linked to fake bomb alert outside RAF Fairford to stand trial next year</title>
-<link>https://news.sky.com/story/pair-linked-to-fake-bomb-alert-outside-raf-fairford-to-stand-trial-next-year-13614322</link>
-<guid isPermaLink="false">190b988f7e901d7e75fa836380de8ffd37a3ab99381c81395a3a60f37ffcabd5</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 11:37:00 +0000</pubDate>
-<description>Two men charged over a fake bomb alert outside RAF Fairford allegedly on the orders of Iran will deny wrongdoing and face trial next year, a court has heard.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-fairford-raf-police_7411354.jpg?20261120115824" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-fairford-raf-police_7411354.jpg?20261120115824" medium="image"/>
-</item>
-<item>
 <title>Senate passes bipartisan energy bill amid environmental concerns</title>
 <link>https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill</link>
 <guid isPermaLink="false">e6195056c8412a38858e35cefe33ef1acec3cc3d1ba2290e9135b170534d0934</guid>
@@ -563,6 +552,17 @@
 <description>The West has been trying to isolate the Russian leader for years.</description>
 <enclosure url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>New York City unveils a bold plan to move its jails off Rikers Island</title>
+<link>https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model</link>
+<guid isPermaLink="false">5f5307f0d6bcf55e656423cb06b8647c00b504345ae6ab3d45cd20f377215c98</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+<description>'/&gt; New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths. (Image credit: Nicky Quamina-Woo)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3938x2667+0+0/resize/3938x2667!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2Fa7%2F56ea040c4a49b5aa26d35ea3aff8%2Frikers-woo-day1-0366.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3938x2667+0+0/resize/3938x2667!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2Fa7%2F56ea040c4a49b5aa26d35ea3aff8%2Frikers-woo-day1-0366.jpg" medium="image"/>
 </item>
 <item>
 <title>Myanmar rejects UN court's genocide ruling as 'unfair'</title>

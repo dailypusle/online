@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Signal slams door on prying AI agents to protect privacy</title>
+<link>https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466</link>
+<guid isPermaLink="false">dda47e0da836ea0323df6ae6624483f800c48357fdd4c3ac2a4822011ce98795</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 20:42:04 +0000</pubDate>
+<description>Signal, the encrypted messaging app, has barred Google Gemini, Apple Siri, and other AI agents from accessing messages unless the user has explicitly granted permission, based on privacy concerns. Citing the screenshot blocking implemented last year to defend against Microsoft Recall, Signal CEO Meredith Whittaker said similar measures have become necessary to prevent agentic software available in iOS and Android from gaining access to communication that's intended to be private. "Google and Apple are integrating agentic capabilities like Gemini Intelligence with Google Gemini and Onscreen Awareness with Siri AI deep into their operating systems," wrote Whittaker in a blog post . "In order to gain access to information about you, these OS AI agents 'scan' the information that’s on your screen. In doing so, your Signal data is captured, then made available to these agentic systems in order to allow them to answer your questions and do your bidding." The result is that private messages ingested by these agentic systems may end up on someone else's server where they're no longer private. Updates to Signal's iOS and Android apps now include controls that by default block Siri on iOS and Gemini and other agents on Android from taking screenshots, which AI agents process using optical character recognition to extract text. Whittaker says that those who wish to take screenshots of their messages can disable this protection via Signal's settings menu, but warns doing so risks exposing your Signal content (and that sent by your contacts) to AI agents. Screenshot blocking, Whittaker concedes, is only a partial solution since AI agents may have other ways to access application data through the device file system. "We want to be very clear: it is a serious problem that Signal – and application developers beyond – lack robust tools to prevent AI agents from undermining application-level privacy," she said. "Even where we are able to detect and block AI data access, Google, Apple, Microsoft, and others do not provide ways for developers to easily restrict such AI data access without making drastic compromises to the core user experience. This is also the reason we are currently unable to implement these protections on macOS." Apple is taking some action to implement protection from AI agents on macOS, though it appears to be doing so largely to defend against third-party access to data rather than to limit its own Siri service. Siri can be turned off separately. With macOS 27.3 , currently in public beta testing, Apple's desktop operating system will get more granular controls on two APIs: Device Control and Data Access, and Full Disk Access. The result will be more permission prompts for users of macOS apps that seek access to user data, and the inconvenience of applying for an entitlement from Apple to obtain Full Disk Access for backup software and assistive technologies that use Accessibility APIs. "As AI agents become increasingly capable and autonomous,</description>
+<enclosure url="https://image.theregister.com/?imageId=227546&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=227546&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Watching as a giant star swallowed its neighbor and exploded</title>
+<link>https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion</link>
+<guid isPermaLink="false">85429396aa089ddfdabc92ae4cc8d8e671a22fe87455544e19fbc918f833f316</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 20:41:17 +0000</pubDate>
+<description>In the Andromeda Galaxy, a giant star about seven times as massive as the Sun spent nearly a decade slowly swallowing its much smaller companion. The process, known as common envelope evolution, was proposed in the 1970s to explain how some of the tightest pairs of stars in the Universe form, but no one had ever caught it in the act. In a new Nature study, astronomers led by Viraj Karambelkar, an astrophysicist at Columbia University, finally witnessed the entire spectacle from the decades before it began to the eruption that ended it in late 2025. “It lasts for a few years, maybe a few decades,” Karambelkar said. “Stars evolve on time scales of millions of years. So, it's really like a blip on the entire cosmic time scale.” Shared envelopes Some pairs of stars orbit so close to each other that they could not have formed at that distance, so their orbits must have shrunk. Common envelope evolution is the leading explanation for that shrinkage. When one star in a binary grows old, it expands into a giant, and its outer layers can engulf its companion. The two then share a single, loosely bound envelope of gas. As the engulfed star drags through it, it loses orbital energy to friction and spirals inward. Depending on how much of the envelope gets lost, the pair either ends up in a much tighter orbit or merges. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png" type="image/png"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png" medium="image"/>
+</item>
+<item>
+<title>Germany seems to be serious about a TikTok Europe takeover</title>
+<link>https://www.engadget.com/2323606/germany-seems-to-be-serious-about-a-tiktok-europe-takeover</link>
+<guid isPermaLink="false">35f068ca468c21a7fdfc3a736b8bc79932028297941320d182e1bb788741d492</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 20:35:35 +0000</pubDate>
+<description>The company has called the idea "nonsense."</description>
+<enclosure url="https://www.engadget.com/img/gallery/germany-seems-to-be-serious-about-a-tiktok-europe-takeover/l-intro-1795206896.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/germany-seems-to-be-serious-about-a-tiktok-europe-takeover/l-intro-1795206896.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA’s new Moon plan is taking shape, but some big questions remain</title>
+<link>https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain</link>
+<guid isPermaLink="false">b6e6571fc353d14478bc0749a3d2c2d2aebfde3a89f4b32a491e0920254f523e</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 20:26:33 +0000</pubDate>
+<description>SpaceX's successful recovery of its Starship rocket last weekend cleared a major hurdle on NASA's path to the Moon, opening up possibilities for higher launch rates and an all-important, long-delayed orbital refueling demo next year. For SpaceX's purposes, Saturday's mid-air rocket catch will help engineers learn how to rapidly reuse Starships. That should expedite SpaceX's deployment of its newest generation of Starlink Internet satellites. NASA, meanwhile, believes a higher launch cadence will lead to faster learning as SpaceX develops a deep space version of Starship to ferry astronaut crews to the surface of the Moon. Early next year, SpaceX plans to bring online a second Starship launch site at Kennedy Space Center, Florida. A second Starship factory is also under construction at Kennedy, joining SpaceX's existing SpaceX production line at Starbase, Texas. With two launch sites, SpaceX will have the pieces in place to take the next leap with Starship. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch.jpg" medium="image"/>
+</item>
+<item>
+<title>Signal now blocks screenshots by default to stymie AI agents</title>
+<link>https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents</link>
+<guid isPermaLink="false">427b5464a7860dd65c376cf9cdfc4d04d9972b2f6529a55d40625459c0b787bc</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 20:18:09 +0000</pubDate>
+<description>It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping.</description>
+<enclosure url="https://www.engadget.com/img/gallery/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/l-intro-1795205811.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/l-intro-1795205811.jpg" medium="image"/>
+</item>
+<item>
 <title>Change these settings if you want GTA 6 to feel like old GTA</title>
 <link>https://www.engadget.com/2323542/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta</link>
 <guid isPermaLink="false">0d82df8f43700ea5d0adb049c4a1c7fed9e3b260a1ac31cd9541ccc023efecb1</guid>
@@ -620,28 +675,6 @@
 <media:content url="https://image.theregister.com/?imageId=5311179&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Meta Quest adds 3D movie purchases and rentals to its TV app</title>
-<link>https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app</link>
-<guid isPermaLink="false">cc11d8f9ce1d2cfa73d9e54e120400e7f9e463bcf1dcc7e2e081d09611b13c43</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 21:06:58 +0000</pubDate>
-<description>The headlining film is a Billie Eilish 3D concert experience co-directed by James Cameron.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/l-intro-1795122255.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/l-intro-1795122255.jpg" medium="image"/>
-</item>
-<item>
-<title>You can now purchase the 512GB Steam Machine like a normal console</title>
-<link>https://www.engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console</link>
-<guid isPermaLink="false">601c58d4ff5165401a9c424e1706602e77a84134226170dbaf8fbba0277d3a72</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 20:42:38 +0000</pubDate>
-<description>Valve has worked through the waitlist for the smaller version of its gaming PC.</description>
-<enclosure url="https://www.engadget.com/img/gallery/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/l-intro-1795120492.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/l-intro-1795120492.jpg" medium="image"/>
-</item>
-<item>
 <title>Man hired by Russia spied on Silicon Valley tech and defense company, feds say</title>
 <link>https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia</link>
 <guid isPermaLink="false">e30fbe0f278453b5ef9d417f30c48db176d35ca8ba2004bb2df988304af23c2a</guid>
@@ -906,17 +939,6 @@
 <media:content url="https://image.theregister.com/?imageId=5298439&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>How to tell a cyberattack from a plain old outage</title>
-<link>https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage</link>
-<guid isPermaLink="false">6cadbb246540361915647a6299d7388b060a862de5c9d8a0eaba8e6bb4422bf6</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 11:13:01 +0000</pubDate>
-<description>Over the past week, anyone could be forgiven for wondering whether a Diehard IV –style cyberwar had finally arrived in the US. Across just four consecutive business days, a mass Microsoft exchange outage broke IT services for thousands of companies , a Federal Aviation Administration tech screw-up grounded airplanes across the country, a software problem affecting JPMorgan Chase caused another round of disruption, a United Airlines system glitch delayed flights yet again, and an NSA classified network’s downtime left the agency’s staff sitting at home waiting to return to their office at Fort Meade. In the midst of a US war with Iran and rising fears of AI-enabled hacking , this still-unfolding comedy of IT errors colliding across American infrastructure felt to plenty of observers like more than a coincidence. Yet there’s still no evidence that any one of these clustered technological failures were related, much less caused by hackers. Their improbable, sequential timing left Americans anxiously doomscrolling for signs of foul play. But in cases like these, it’s the job of cybersecurity analysts (and reporters at WIRED) to determine—vibes aside—whether the latest tech outage was actually an accident or the result of a cyberattack. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098.jpg" medium="image"/>
-</item>
-<item>
 <title>TfL takes Oyster photocard website offline after attackers compromise customer accounts</title>
 <link>https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985</link>
 <guid isPermaLink="false">06ebeabb5e45d05de5cfccfa32eae72ca9961fe815848f485f59974f6e732edb</guid>
@@ -992,17 +1014,6 @@
 <description>The USA’s new ban on Chinese companies remotely accessing GPUs will have short-term impact, but ultimately see China accelerate its development of domestic alternatives, according to Martin Lau, the president of Chinese web giant Tencent. Speaking on the company’s Q3 earnings call, Lau said the new US regulation will have an “unfortunate” impact on Tencent’s business. “It does set everyone back. It sets everyone back in China,” Lau said. “So everyone is actually having less advanced compute to work with, no matter when you actually started leasing or building capacities outside of China.” He said the ban will impact Tencent’s ability to train models. “Our training efficiency with Hy4 is actually very high,” he said. “When we look at the next version, it would take probably longer time for us to come up with the next version in the short run.” “But over time, the domestic supply chain would actually come on board.” Lau also thinks the bans won’t hamper Tencent’s ability to run inferencing workloads, because made-in-China chips “should be able to cover it.” “And over the longer run, we believe all Chinese players would actually have to rely on domestic supply chains and domestic chips, which we see the industry is progressing very fast,” he added. “With the latest restriction, we expect it to actually speed up even further, because all the development effort would actually have to be focused on speeding up the domestic supply chain.” Tencent needs GPUs, and lots of them, because the 10 million users of its agentic assistant WorkBuddy are collectively consuming over 100 trillion tokens per day. Lau thinks WorkBuddy is on track to becoming a hit product, partly because many users are outside China. Lau said Tencent can serve WorkBuddy customers outside China because the service can operate with different models, and the company thinks it can find third parties to provide the necessary inferencing services without the new US bans creating a problem. But Lau said that GPU rentals and other cloud services, which are also growing strongly, may be impacted. “In terms of cloud, if it is non-GPU related, we can actually build capacities ourselves outside of China,” he said. “I think there is still a lot of such opportunities because our cloud service is actually very cost competitive. When it comes to GPU, then unfortunately, we cannot actually offer high-end GPU anymore. We may be able to work with some partners in different places.” Tencent doesn’t break out revenue for its cloud services, but said they rose by 35 percent year-on-year, well ahead of the company’s overall eight percent growth. Marketing services also grew strongly, by 19 percent, thanks in part to new AI-powered systems that improve ad targeting. The company’s WeChat and Weixin messaging platforms continued to grow, adding 35 million accounts to exiting the quarter with 1.44 billion monthly active users. One Tencent biz that went backwards was its international gaming unit, which saw reven</description>
 <enclosure url="https://image.theregister.com/?imageId=233376&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=233376&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote</title>
-<link>https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote</link>
-<guid isPermaLink="false">270928cacf0f85395d8ea71bb06eb060ebc05dfa09ccaeb2daacabc6dbebbb98</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 23:25:04 +0000</pubDate>
-<description>A Senate committee chaired by Ted Cruz (R-Texas) voted today to approve a Federal Communications Commission nominee, despite accusations that the nominee gave false testimony about her work as a legal advisor for FCC Chairman Brendan Carr. Democrats attempted to prevent a quorum by not showing up, but Cruz proceeded with a Republican-only vote. All 15 Republicans on the Senate Commerce Committee voted to approve Trump nominee Danielle Thumann, while the committee's 13 Democrats were absent. "We're going to be doing our job today, even if the Democrats refuse to show up to do theirs," Cruz said at today's hearing. Nominees are vetted in committees first, and then require majority approval from the Senate. Republicans are hoping to get Thumann confirmed before Democrats take Senate control in January. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg" medium="image"/>
 </item>
 <item>
 <title>Another critical PHP security release has dropped</title>
@@ -1201,17 +1212,6 @@
 <description>Ticket resale giant StubHub International has warned customers that a recent breach may have exposed their personal information to cybercriminals. The company said it detected "unauthorized access to certain systems" on its platform between late October and early November. Customer notification emails seen by The Register list potentially affected information including names, email addresses, phone numbers, and country or regional settings. StubHub International, operated by Ticketbis S.L., apologized for the intrusion and offered the usual promise to implement security enhancements after the fact. The company said it had addressed "certain vulnerabilities" while containing the incident and was continuing to monitor for suspicious activity. Outside cybersecurity experts are assisting with the ongoing investigation. The company warned that any exposed information could be used to make subsequent scams more convincing. "To date, we have found no evidence of unauthorised access to account passwords , banking information or payment card details," the email stated. "We also have no evidence that the compromised information has been used fraudulently. "However, there is a risk that third parties could use this information to attempt fraud, identity theft or phishing through emails, messages or calls that appear to come from StubHub International or other trusted organizations." The Register contacted StubHub International for more information, such as how many customers were affected, but it did not respond. Digital Fuel Capital bought StubHub International from Viagogo in 2021 after the UK's Competition and Markets Authority (CMA) required the international business to be sold to address competition concerns. In June, the CMA fined Ticketbis £889,200 and ordered refunds exceeding £590,000 after finding that mandatory fees were omitted from upfront ticket prices. StubHub International also recently faced criticism for allowing a single ticket tout to advertise £1 million worth of U2 tickets, despite its stated opposition to ticket-buying bots. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=193147&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=193147&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Business as usual, but Huang ain't coming back, says Nvidia</title>
-<link>https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772</link>
-<guid isPermaLink="false">54153fd6639518bf4e68aa3ceccaff0c40f2e993b8af5e1500b47ff198762112</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 13:54:00 +0000</pubDate>
-<description>Nvidia's board says it has no plans to bring Jensen Huang back as the GPU giant reports quarterly revenue more than double that of a year ago. The AI infrastructure leviathan had some reassuring to do after its leather-jacketed rockstar leader left under a cloud last week. Huang had been central to its rise as the dominant supplier of AI compute. Newly appointed board chair Harvey Jones ruled out an imminent comeback, saying: "The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO." Jones said the board was addressing the fallout and strengthening oversight, pointing to the creation of a committee to scrutinize the firm's security policies and export compliance. Nvidia has also retained the services of talent spotters Heidrick &amp; Struggles to help find a new leader, according to Jones. Interim CEO and chief financial officer Colette Kress struck an upbeat tone on the company's Q3 earnings call. The results gave her plenty to work with : revenue rose 103 percent to $115.8 billion, while operating income climbed 115 percent to $77.5 billion. "We're addressing strong demand for compute across a diverse and expansive set of end customers, including hyperscalers, frontier labs, AI natives, enterprises, and governments," Kress said. She raised Nvidia's outlook for fiscal 2028, saying that the firm now expects revenue to grow approximately 75 percent year-on-year. Analysts immediately questioned this, asking what gave Kress the confidence to raise the outlook, given all the uncertainty surrounding the future direction of the company. Kress cited growing demand and additional supply as reasons for lifting the fiscal 2028 growth forecast from 70 to 75 percent. When asked about the financing deals that Nvidia provides for some of its customers, Kress appeared to hint that some things might change. "Our neoclouds have been so instrumental in terms of both supporting enterprises and supporting many of the different countries around the world, particularly on the sovereign perspective. And we continue to be working with them," she stated. But she added: "I think we would look at this and take a very strong look in terms of the types of companies that we would want to help in terms of the financing, as a lot of things have changed over this last quarter... but we do have some very, very strong existing customers that we will be continuing to work with." Kress also said that Nvidia's rack-scale Rubin platform had generated nearly $20 billion in revenue in its first quarter of production shipments. She said the firm expects the major frontier AI labs to account for approximately 15 percent of its Data Center revenue this year. Kress said that Nvidia is no longer shipping licensed products based on its Hopper silicon to China, as scrutiny grows over Beijing's access to advanced AI technology, and so its future guidance does not count on any Hopper revenue from there. Nvidia sold $2.4 billion worth of Hopper kit to Chin</description>
-<enclosure url="https://image.theregister.com/?imageId=5310782&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310782&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>I’ve tested Ubuntu 27.04 ahead of its April release – and it will wow you</title>

@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host</title>
+<link>https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host</link>
+<guid isPermaLink="false">cd515e63f84489a651b58cd4f1e1a74002c638c85fded3749a5fc5ab8a1dd471</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 17:41:45 +0000</pubDate>
+<description>Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Anthropic shares fall after blockbuster opening as wider tech sell-off continues</title>
+<link>https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">53ba164e0140f69fcddb53a03b7e6640425abacca6403a17447a8b1adaa66437</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 17:36:29 +0000</pubDate>
+<description>Other tech companies have also taken a hit as share markets broadly slump.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" medium="image"/>
+</item>
+<item>
+<title>OakNorth gets Fed, OCC nod for US license</title>
+<link>https://www.bankingdive.com/news/oaknorth-fed-occ-approve-charter-application-michigan-bank-acquisition-digital-uk/875357</link>
+<guid isPermaLink="false">f17205ffcc2d56d12c9e9f0c4e58a44567519f0ec260b88f9ef8daea28a0c4b7</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 17:21:54 +0000</pubDate>
+<description>The British lender waited 20 months to gain the regulatory green light and becomes the first foreign digital bank to get a U.S. national banking charter.</description>
+<enclosure url="https://imgproxy.divecdn.com/ecY1Pq1pBtYuZmDq1qya4QBxiiU-aZPiB0XLOpAm_AQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NzQ2MzE4M18yYXAxZGNYLmpwZw==.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/ecY1Pq1pBtYuZmDq1qya4QBxiiU-aZPiB0XLOpAm_AQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NzQ2MzE4M18yYXAxZGNYLmpwZw==.webp" medium="image"/>
+</item>
+<item>
 <title>Bitcoin falls below $60K for first time since July amid broader market selloff</title>
 <link>https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff</link>
 <guid isPermaLink="false">3df8010467f43d89a0bf1efc40c83aca0f9975058edd410a3db0349ce0bd2ae2</guid>
@@ -48,17 +81,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Anthropic shares fall a day after blockbuster opening</title>
-<link>https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">53ba164e0140f69fcddb53a03b7e6640425abacca6403a17447a8b1adaa66437</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 16:27:47 +0000</pubDate>
-<description>Other tech companies have also taken a hit as share markets broadly slump.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" medium="image"/>
-</item>
-<item>
 <title>U.S. Treasury Secretary Pushes Back on Bigger Fed Hike</title>
 <link>https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin</link>
 <guid isPermaLink="false">a37991a0f24d560e6031671be431cc7c35d621b4e1cdb841d03a2bb26971002e</guid>
@@ -68,6 +90,17 @@
 <description>Bitcoin Magazine U.S. Treasury Secretary Pushes Back on Bigger Fed Hike Treasury Secretary Scott Bessent pushed back Friday on calls for a bigger Federal Reserve rate hike, even as bitcoin broke below $60,000 for the first time since July and stocks sank on bets that the Fed will keep tightening into a selloff. Bessent told CNBC he would encourage the Fed not to embrace a half-point increase at its Dec. 8-9 meeting. He cited the energy supply shock and a drop in crude prices as reasons for the central bank to hold back. Bessent says the Fed should look forward He argued that one governor now backing a 50 basis point hike had wanted a similar cut within the last year. Bessent said it “seems somewhat peripatetic” to want the bigger increase only 11 or 12 months later. He did not name the governor. “I would encourage the Fed to look forward, not backwards,” Bessent said. The comments came two days after Fed Governor Christopher Waller told CNBC a half-point hike is probably necessary in December and that the central bank may need to “shock people.” Waller said inflation is “headed in the wrong direction, and it’s spreading out.” Fed officials split on how far to go Waller is not alone. Minutes of the October meeting showed nearly all officials expect a quarter-point hike in December, and two floated a larger one. Chicago Fed President Austan Goolsbee also declined to rule out a bigger move on Thursday. “We’ve now had multiple months in a row of borderline disturbingly high inflation rates with little progress in the sectors where we would expect to be seeing some progress,” Goolsbee told reporters. “So everything’s always on the table.” Not everyone wants to go bigger. New York Fed President John Williams said Tuesday that “I don’t think the situation calls for dramatic action.” St. Louis Fed President Alberto Musalem has suggested as many as four hikes by the spring of 2027. The Fed raised rates in September for the first time in more than three years and held them steady in October. Inflation has stayed hot since the Iran strikes pushed up energy prices earlier this year. Citi and traders still see a quarter-point hike Citi still expects a quarter-point increase in December. Global chief economist Nathan Sheets said Thursday he does not see a need for 50 basis points despite persistent inflation. In a note Friday, the bank wrote that “Fed officials will consequently have little appetite to hike into an equity sell-off.” Citi expects the Fed to hold after December and begin cutting later in 2027. Traders agree on the next step: the CME Group’s FedWatch tool showed a more than 98% chance of a quarter-point hike, and the 10-year Treasury yield fell more than 10 basis points to 4.95% as investors bought bonds. Stocks fell for another day. The Nasdaq Composite dropped more than 2% in morning trading, and the VIX volatility index topped 30 , its highest level since March. What it means for bitcoin Bitcoin traded near $59,700 shortly before 11 a.m. ET, d</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation.jpg" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation.jpg" medium="image"/>
+</item>
+<item>
+<title>PayPal CEO remakes team</title>
+<link>https://www.bankingdive.com/news/paypal-ceo-remakes-team-cfo-coo-venmo/875355</link>
+<guid isPermaLink="false">a6590fee3db819654dfa18104b5c1e4c26097a588ec2fc1059f68d6129f97762</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 16:08:00 +0000</pubDate>
+<description>CFO Jamie Miller, who served as the digital payment company’s interim CEO at one point, will leave as CEO Enrique Lores installs new managers.</description>
+<enclosure url="https://imgproxy.divecdn.com/BYZm0L6zR8twGcO0KOlFu89edfp0HY-bRF_8-voTDpg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbnJpcXVlTG9yZXMuanBn.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/BYZm0L6zR8twGcO0KOlFu89edfp0HY-bRF_8-voTDpg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbnJpcXVlTG9yZXMuanBn.webp" medium="image"/>
 </item>
 <item>
 <title>Bitcoin Price Crashes to $59,000 as Market Selloff Deepens</title>
@@ -92,6 +125,17 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WS7SH44A7MXA0Q21TD4GY8/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-2.png" medium="image"/>
 </item>
 <item>
+<title>Cases of ‘GTA Flu’ Are Suddenly Spiking Nationwide. Is It Costing Businesses $1 Billion?</title>
+<link>https://www.entrepreneur.com/business-news/cases-of-gta-flu-are-suddenly-spiking-nationwide-is-it-costing-businesses-1-billion</link>
+<guid isPermaLink="false">edca5c17a641e22cd642c005d560df8f29931fb75abdefbf3bbf1763e74bfac8</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 15:54:01 +0000</pubDate>
+<description>Gen Z workers appear to be the super-spreaders as time-off requests surge up to 32% thanks to Grand Theft Auto VI.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/gta-flu-costing-business-1126_g2305234078.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/gta-flu-costing-business-1126_g2305234078.jpg" medium="image"/>
+</item>
+<item>
 <title>Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off</title>
 <link>https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off</link>
 <guid isPermaLink="false">9669b90f4eb1f2b90b6cf3c81a6efcbfdc4735a2108270b0b453da53ee04e694</guid>
@@ -101,6 +145,17 @@
 <description>Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2-960x640.webp" type="image/webp"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2-960x640.webp" medium="image"/>
+</item>
+<item>
+<title>Banks race to patch vulnerabilities amid amplified tech outage risk</title>
+<link>https://www.bankingdive.com/news/banks-patching-vulnerabilities-tech-outage-risk-ai-cybersecurity/875329</link>
+<guid isPermaLink="false">2368f291e0e85473e7b89f2a4b5341e34d04c949a5ad158d2e7e65771192d5e1</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 15:48:43 +0000</pubDate>
+<description>With outages mounting and cyberattackers moving faster with AI, experts during a Banking Dive virtual event said lenders should reassess vendor risk and speed up incident response.</description>
+<enclosure url="https://imgproxy.divecdn.com/wfBUZ8QRISKBLxIKQ9dkBxUlXtFd2QOXugkbSNRabls/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTI3ODgxMjk3LmpwZw==.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/wfBUZ8QRISKBLxIKQ9dkBxUlXtFd2QOXugkbSNRabls/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTI3ODgxMjk3LmpwZw==.webp" medium="image"/>
 </item>
 <item>
 <title>Airbnb's divisive new house rules come into force</title>
@@ -147,6 +202,17 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WNFYH0FRWPZX615E3RNKNQ/sponsored-marina-bay-sand-singapore-light-water11-1.jpg" medium="image"/>
 </item>
 <item>
+<title>How I Turned Professional Relationships Into a Business Growth Strategy</title>
+<link>https://www.entrepreneur.com/building-a-business/how-i-turned-professional-relationships-into-a-business-growth-strategy</link>
+<guid isPermaLink="false">5ebf7b42b236bf75efda0e09339925d7d3f70a08ce2355ef860580d8f503891a</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 15:30:00 +0000</pubDate>
+<description>Leading a franchise network with more than 1,800 locations has taught me that the strongest business opportunities often begin long before a sales conversation.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/turning-business-relationships-into-growth-1126_g2264783237.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/turning-business-relationships-into-growth-1126_g2264783237.jpg" medium="image"/>
+</item>
+<item>
 <title>The secret cyber scramble to protect UK fridge freezers</title>
 <link>https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">acb595aad8920bf6ac7bc7071482cf2e8eeea19119f660588d8ab36c22748f89</guid>
@@ -156,6 +222,28 @@
 <description>A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7ab4/live/c7c315c0-e4e9-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7ab4/live/c7c315c0-e4e9-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
+</item>
+<item>
+<title>Comparing Franchises? Make Sure AI is Working For You, Not Against You</title>
+<link>https://www.entrepreneur.com/business-news/comparing-franchises-make-sure-ai-is-working-for-you-not-against-you</link>
+<guid isPermaLink="false">a831a359a95299e5a89ed7303f8bcc5ad2368314ebb3583effe42bbaf68fc0ef</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 15:00:00 +0000</pubDate>
+<description>AI is a useful tool in the middle phase of franchise research, but NOT at the beginning or end — here's why.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/comparing-franchises-ai-1126_g2268522416.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/comparing-franchises-ai-1126_g2268522416.jpg" medium="image"/>
+</item>
+<item>
+<title>Why Did Wendy’s Fans Line Up for 3 Hours? It Has to Do With ’80s Nostalgia.</title>
+<link>https://www.entrepreneur.com/buying-a-franchise/why-did-wendys-fans-line-up-for-3-hours-it-has-to-do-with-80s-nostalgia</link>
+<guid isPermaLink="false">1e49d5ed3e417d3f46a72d1df8b09ac512c52604faae4ac4bab9b12c47b3a734</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 15:00:00 +0000</pubDate>
+<description>A popup revived the glass-encased dining rooms the chain abandoned when drive-thrus took over.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/wendys-nostalgia-holiday-1126_g2246540166.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/wendys-nostalgia-holiday-1126_g2246540166.jpg" medium="image"/>
 </item>
 <item>
 <title>Block Says Most Bitcoin Payments on Square Are for Coffee and Food</title>
@@ -664,17 +752,6 @@
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/google-losing-its-monopoly-1126-g-1250142483.jpg" medium="image"/>
 </item>
 <item>
-<title>How the Race to Control Product Recommendations Is Changing the Creator Economy</title>
-<link>https://www.entrepreneur.com/building-a-business/how-the-race-to-control-product-recommendations-is-changing-the-creator-economy</link>
-<guid isPermaLink="false">4374d50af6e9f60aff673da2aceecdfa1dec49a2ceab9891b252050a30cb7234</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 19:30:00 +0000</pubDate>
-<description>Reddit’s new ad test points to a bigger shift: Platforms are connecting creators, communities, AI discovery and shopping to influence the decision before a customer buys.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/product-recommendations-1126-g-2281513026.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/product-recommendations-1126-g-2281513026.jpg" medium="image"/>
-</item>
-<item>
 <title>Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street</title>
 <link>https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo</link>
 <guid isPermaLink="false">bce5d856ee64d95110d925bde8936a8a290e3a5ff000b7dad75062580e6d9c29</guid>
@@ -684,50 +761,6 @@
 <description>Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>If Your Business Can’t Run Without You, You Have a Bigger Problem Than You Think</title>
-<link>https://www.entrepreneur.com/leadership/if-your-business-cant-run-without-you-you-have-a-bigger-problem-than-you-think</link>
-<guid isPermaLink="false">1a76b6eed9becab3b39871c1590e854e0799b9a6a4df4cf35efd6450cbf9ff4f</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
-<description>Being indispensable might feel like success, but it can quietly limit your company's growth.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/without-you-your-business-cant-run-1126-g-2227030581.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/without-you-your-business-cant-run-1126-g-2227030581.jpg" medium="image"/>
-</item>
-<item>
-<title>I’ve Been a CFO, a CPA, a Franchisee and a CEO — Here Are the Credentials That Get You Hired Now</title>
-<link>https://www.entrepreneur.com/business-news/ive-been-a-cfo-a-cpa-a-franchisee-and-a-ceo-here-are-the-credentials-that-get-you-hired-now</link>
-<guid isPermaLink="false">151a275860368d63cac98656e9904c37b054eee628905c0e778abe2de8426375</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
-<description>I've worked in a variety of roles, but credentials follow you from job to job. Check out the credentials that get you hired.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/getting-hired-1126-g-2264783281.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/getting-hired-1126-g-2264783281.jpg" medium="image"/>
-</item>
-<item>
-<title>M&amp;A Isn’t Just for Big Companies. Here’s How Startups Can Do It With No Cash.</title>
-<link>https://www.entrepreneur.com/business-news/ma-isnt-just-for-big-companies-heres-how-startups-can-do-it-with-no-cash</link>
-<guid isPermaLink="false">0a9aad3ea64213676a2f491775086d2afb17df2b13b194a17e19c9bb07978f36</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 18:30:00 +0000</pubDate>
-<description>Most entrepreneurs don't realize there is another way to grow their business: through mergers and acquistions.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/startups-merger-and-aquisitions-1126-g-2266858703.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/startups-merger-and-aquisitions-1126-g-2266858703.jpg" medium="image"/>
-</item>
-<item>
-<title>More Than 20,000 Small Businesses Use His Technology. Here’s His Data-Driven Advice—And AI Shortcuts—for Capitalizing On a $1 Trillion Holiday Season.</title>
-<link>https://www.entrepreneur.com/business-news/more-than-20000-small-businesses-use-his-technology-heres-his-data-driven-advice-and-specific-ai-tools</link>
-<guid isPermaLink="false">d2f3d1458a8fe7505e4ee2bf18b6c48f80f50b795c935d71f966c23a3a9bf0cb</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 18:24:45 +0000</pubDate>
-<description>Andrew Stern, co-founder and CEO of Quilt Software, breaks down the success strategies.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Andrew-Stern.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Andrew-Stern.jpg" medium="image"/>
 </item>
 <item>
 <title>Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns</title>
@@ -761,17 +794,6 @@
 <description>Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TCJA0M8WRD0SM02A6P1Y5K/ai-machine-cyber-mind-960x644.webp" type="image/webp"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TCJA0M8WRD0SM02A6P1Y5K/ai-machine-cyber-mind-960x644.webp" medium="image"/>
-</item>
-<item>
-<title>Anthropic’s $81 Billion IPO Is the Biggest Ever — Here’s Who’s Getting Rich and Who Missed Out</title>
-<link>https://www.entrepreneur.com/business-news/anthropics-81-billion-ipo-is-the-biggest-ever-heres-whos-getting-rich-and-who-missed-out</link>
-<guid isPermaLink="false">8ee5d02c805dc0747f61b0f01819d43131c79f6ba3fb753a07fb37723f46fc24</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 18:01:29 +0000</pubDate>
-<description>The company behind the popular AI chatbot Claude is now a $2 trillion public company. Not everyone is happy.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/anthropic-ipo-1126_g2304538421.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/anthropic-ipo-1126_g2304538421.jpg" medium="image"/>
 </item>
 <item>
 <title>Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks</title>
@@ -1280,17 +1302,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Klarna launches AI ‘concierge’</title>
-<link>https://www.bankingdive.com/news/klarna-launches-ai-concierge/875099</link>
-<guid isPermaLink="false">3015ee0cf5e53b3e4b99841b2636bf5fe32fe471f83563661d958ebc38eef92e</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 15:45:00 +0000</pubDate>
-<description>The buy now, pay later provider has waded into agentic commerce with a new tool and aims to expand its longer-term loan portfolio.</description>
-<enclosure url="https://imgproxy.divecdn.com/gwCYvKndPolv_OGuw-OmuUImU7x5exuZGZHtUxfiyLI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM0Njc4NTE3LmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/gwCYvKndPolv_OGuw-OmuUImU7x5exuZGZHtUxfiyLI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM0Njc4NTE3LmpwZw==.webp" medium="image"/>
-</item>
-<item>
 <title>Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire</title>
 <link>https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire</link>
 <guid isPermaLink="false">6d56967c2aa1de98890f82062921c6c85b8096d5e684f65f8a9aeec4eb31e65a</guid>
@@ -1357,28 +1368,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Data silos threaten banks’ competitive edge in AI</title>
-<link>https://www.bankingdive.com/news/banks-running-out-time-benefit-ai-mckinsey-chatgpt-claude-gemini/874934</link>
-<guid isPermaLink="false">5df448a7a798a9389d201627bc82fa945a2b82d136fed8f8cffc5db65d690afc</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 11:11:00 +0000</pubDate>
-<description>Nearly three in four consumers using AI for banking tasks opt for ChatGPT, Claude or Gemini — almost double those using a bank's chatbot, a McKinsey report found.</description>
-<enclosure url="https://imgproxy.divecdn.com/VyyueqaHbBKZ-R31YCCjynRCxswr43XrbWV_QVUblZA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg3MDc1NTAyLmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/VyyueqaHbBKZ-R31YCCjynRCxswr43XrbWV_QVUblZA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg3MDc1NTAyLmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto</title>
-<link>https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto</link>
-<guid isPermaLink="false">3cac1e3a4cb23d7656e8e1cbec23d084b9f98f26f72b18ed115bce0da18e434e</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 10:17:17 +0000</pubDate>
-<description>Scotland's Tyler Buchanan is the last of five defendants sentenced in a phishing and SIM-swapping scheme that targeted crypto holders.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png" medium="image"/>
-</item>
-<item>
 <title>How important are Nvidia and Jensen Huang to the US economy?</title>
 <link>https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">9194ddb079718aecbab35234f6fc5dc965810da128cfd47406029b18cfab4a2d</guid>
@@ -1432,17 +1421,6 @@
 <description>Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg" medium="image"/>
-</item>
-<item>
-<title>Banking disruption resolved after thousands report access issues</title>
-<link>https://www.bankingdive.com/news/jpmorgan-chase-banking-service-disruption-app-website-bofa-wells-capital-one-zelle/874922</link>
-<guid isPermaLink="false">9a708d5af5129f64c78a1a061b652def19aaf192f36964ce2b478f2b77b28ae4</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Tue, 17 Nov 2026 17:06:06 +0000</pubDate>
-<description>JPMorgan Chase has fixed a “technical issue” that caused delays in transactions – and a furious spike in errors reported to Downdetector, including among users of other large banks.</description>
-<enclosure url="https://imgproxy.divecdn.com/4QDKfUpeNoyF8JaEVZtfd037nMrCPugiUxGamaHM8bo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMzNDA0NzQwLmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/4QDKfUpeNoyF8JaEVZtfd037nMrCPugiUxGamaHM8bo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMzNDA0NzQwLmpwZw==.webp" medium="image"/>
 </item>
 <item>
 <title>How a sex scandal at Nvidia is putting pressure on the White House</title>

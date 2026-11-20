@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>DOJ dropping Alaska midterms Senate certification lawsuit, saying case is 'moot'</title>
+<link>https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517</link>
+<guid isPermaLink="false">0d6a86385e2a8c4567121e6f135d07c7320d238b4b002fef943d2693337935de</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 20 Nov 2026 03:55:40 +0000</pubDate>
+<description>The Justice Department is giving up on its controversial lawsuit that sought to potentially block the certification of Alaska's U.S. Senate race.</description>
+<enclosure url="https://s.abcnews.com/images/US/alaska-2-rt-gmh-261030_1793380027346_hpMain_2_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/alaska-2-rt-gmh-261030_1793380027346_hpMain_2_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>White House fires national cyber director over widespread outages</title>
 <link>https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages</link>
 <guid isPermaLink="false">e5d5af4d4476e112da628d776f2f8672e9e43ba43af7c80ee83a949666a36509</guid>
@@ -48,6 +59,17 @@
 <media:content url="https://s.france24.com/media/display/adb0ecfc-e435-11f1-9ff1-13439ca2fe89/w:1024/p:16x9/bfcd4adc17d0c1b4d4952e5c826ecffd1efc0af3.jpg" medium="image"/>
 </item>
 <item>
+<title>Trump China trip: Iran and Ukraine not in 'peace declaration' and more takeaways</title>
+<link>https://abcnews.com/Politics/trump-china-trip-iran-ukraine-peace-declaration-takeaways/story?id=138292154</link>
+<guid isPermaLink="false">f4217f106bed49824400285377590b36a83401bc6826835dc00478be9b37f783</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 20 Nov 2026 00:47:25 +0000</pubDate>
+<description>Trump heads back to Washington after meeting with Xi and Putin -- the first sitdown between the three superpowers -- with no tangible diplomatic breakthroughs in hand.</description>
+<enclosure url="https://s.abcnews.com/images/US/donald-trump-21-ap-gmh-261119_1795095926418_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/donald-trump-21-ap-gmh-261119_1795095926418_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Trump pardons late baseball great Pete Rose after historic China trip</title>
 <link>https://abcnews.com/Politics/trump-pardons-late-baseball-great-pete-rose-after/story?id=138304528</link>
 <guid isPermaLink="false">ef76d66953d17dbb1411582ef674a81d4fee07b9b0609ee31d1496dba3354d97</guid>
@@ -59,15 +81,15 @@
 <media:content url="https://s.abcnews.com/images/Politics/rose-gty-er-261119_1795129558659_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>At China summit, Trump calls Putin 'my friend' amid Ukraine war</title>
-<link>https://abcnews.com/International/china-summit-trump-calls-putin-friend-amid-ukraine/story?id=138282642</link>
-<guid isPermaLink="false">247464adf771c452eaccc0d48efc3a4d9387288aa16e68dea175dd6cc8cb5666</guid>
-<source>ABC News Top Stories</source>
+<title>Met Police can photograph people without consent in facial recognition pilot</title>
+<link>https://news.sky.com/story/met-police-can-photograph-people-without-consent-in-facial-recognition-pilot-13614212</link>
+<guid isPermaLink="false">a4161be329e9f265652dd3a8eb289d9251e2ed2716972577337ce9811193ea9c</guid>
+<source>Sky News Home</source>
 <category>world</category>
-<pubDate>Thu, 19 Nov 2026 23:03:20 +0000</pubDate>
-<description>The West has been trying to isolate the Russian leader for years.</description>
-<enclosure url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Fri, 20 Nov 2026 00:13:00 +0000</pubDate>
+<description>Police officers in London will be able to use their mobile phones to photograph and identify suspects without their consent as part of a new facial recognition pilot.</description>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-police-metpolice_7382797.jpg?20261021122645" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-police-metpolice_7382797.jpg?20261021122645" medium="image"/>
 </item>
 <item>
 <title>Anti-monarchy group hands over 'evidence' on Andrew as it calls for investigation</title>
@@ -224,17 +246,6 @@
 <media:content url="https://s.france24.com/media/display/1caca7f6-e44d-11f1-80ec-e56ab3dc0809/w:1024/p:16x9/2026-11-19T181939Z-2056306323-RC23ROA5DSK2-RTRMADP-3-UKRAINE-CRISIS-GERMANY-BRITAIN.jpg" medium="image"/>
 </item>
 <item>
-<title>Ambulance service declares 'critical incident'</title>
-<link>https://news.sky.com/story/london-ambulance-service-declares-critical-incident-13614111</link>
-<guid isPermaLink="false">8074351455aaacbc4514790716ccfef769e1f06176a40fbb08988eca91d32120</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 20:28:00 +0000</pubDate>
-<description>London Ambulance Service said it has declared a "critical incident" in response to sustained high demand, with more than 7,000 calls a day over three consecutive days.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ambulance-london_7410837.jpg?20261119190414" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ambulance-london_7410837.jpg?20261119190414" medium="image"/>
-</item>
-<item>
 <title>Trump’s CISA pick rejects Jan. 6 as an 'attack,' won't name 2020 election winner</title>
 <link>https://abcnews.com/Politics/wireStory/trumps-cisa-pick-michael-losapio-rejects-jan-6-138299268</link>
 <guid isPermaLink="false">93fe2442e3d60cb1050d2b37541b2cb4ce896b54a625ba530d361e2ec9a02837</guid>
@@ -299,6 +310,17 @@
 <description>The Voyager 1 probe launched by NASA nearly a half century ago has reached a distance from Earth of one light day (more than 26 billion kilometres), the farthest any human artifact has ever ventured from our planet. The space agency received a signal from the spacecraft Thursday, exactly 24 hours after it was sent.</description>
 <enclosure url="https://s.france24.com/media/display/667c80bc-e444-11f1-afff-13439ca2fe89/w:1024/p:16x9/AP24166764529324.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/667c80bc-e444-11f1-afff-13439ca2fe89/w:1024/p:16x9/AP24166764529324.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump-Putin-Xi meeting updates: Schumer calls trip a 'historical embarrassment'</title>
+<link>https://abcnews.com/Politics/live-updates/trump-asia-trip-2026?id=138187702</link>
+<guid isPermaLink="false">7de928a733576d78e0f3ceada8e2b3c9d058d0bf7d970fb88a1efb2926f0a50a</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 19 Nov 2026 19:00:34 +0000</pubDate>
+<description>Trump participated on Thursday in the first-ever trilateral meeting with Putin and Xi.</description>
+<enclosure url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Our colleague skips work to play GTA 6</title>
@@ -609,17 +631,6 @@
 <media:content url="https://s.abcnews.com/images/WNT/261118_wn_ramos_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump administration continues to insist tech outages not cyberattacks</title>
-<link>https://abcnews.com/US/national-intelligence-director-signs-cyberattack-amid-tech-outage/story?id=138229967</link>
-<guid isPermaLink="false">6a00d9a9b12a7afdd5cdd1546c9cacad4d90170d6c2db871a61cf63227773d98</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 18 Nov 2026 21:39:37 +0000</pubDate>
-<description>Sec. of State Rubio also sought to assuage fears over recent outages.</description>
-<enclosure url="https://s.abcnews.com/images/US/clayton-3-gty-gmh-261118_1795019189397_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/clayton-3-gty-gmh-261118_1795019189397_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Israeli troops launch ground operation in central Gaza</title>
 <link>https://news.sky.com/story/israeli-troops-launch-ground-operation-in-central-gaza-13613724</link>
 <guid isPermaLink="false">118cb35472e65d8b0e7b35583652831603502e1752a81d19e1424be36dee0b38</guid>
@@ -673,17 +684,6 @@
 <description>Senate Banking Committee Chairman Tim Scott, a Republican, sent letters to both Huang and Lutnick to publicly testify in front of the committee</description>
 <enclosure url="https://s.abcnews.com/images/US/lutnick-3-ap-gmh-261113_1794580135333_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/lutnick-3-ap-gmh-261113_1794580135333_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Democratic wave upends battle over Ten Commandments in Texas classrooms</title>
-<link>https://abcnews.com/Politics/democratic-wave-upends-battle-ten-commandments-texas-classrooms/story?id=138118010</link>
-<guid isPermaLink="false">7d708d63f945f5e0982adeecd43a4b67b774dd28ad6dc8d732958d822199d1b1</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 18 Nov 2026 14:43:14 +0000</pubDate>
-<description>Sweeping Democratic victories in the midterm elections raise questions about the future of laws mandating Ten Commandments displays in public school classrooms.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/commandments-ap-er-261117_1794944648400_hpMain_23x13_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/commandments-ap-er-261117_1794944648400_hpMain_23x13_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Dog sniffs out baby's medical condition</title>

@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Teenage Engineering's first CD player kind of looks like a turntable</title>
+<link>https://www.engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable</link>
+<guid isPermaLink="false">7b7a6e2f3d7f998970107b0b0d120e292a5629a7f2c8c8e4cf02833da679056d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 18:53:49 +0000</pubDate>
+<description>The EP/BC-1 costs $329 and marks the start of a new line of "broadcast" audio equipment.</description>
+<enclosure url="https://www.engadget.com/img/gallery/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/l-intro-1795200766.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/l-intro-1795200766.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
+<link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
+<guid isPermaLink="false">3afdf5a7b1a6fd8a2421ba8869582ebd1d137c73ac986d081876c34b6c5d390d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
+<description>President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our companies to build data centers outside of our country," Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin. "They allowed that to happen with chips and everything else, and it was very destructive to our country. It's where we started going behind." Should the US allow data centers to be built outside of the country, T … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Nvidia’s journey to forge the one CPU SKU to rule them all</title>
+<link>https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438</link>
+<guid isPermaLink="false">7a22d12b2aa2f59a4054714481c35c745522b15931274da2ffd874a0a1e75454</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 18:45:50 +0000</pubDate>
+<description>Each generation of Intel Xeons or AMD Epycs brings dozens of new SKUs: high-core count parts tuned for throughput, high-frequency ones optimized for latency, low-power chips designed for the edge, and everything in between. But if you ask Ian Finder, who heads development of Nvidia’s datacenter CPUs, for the vast majority of use cases, all those SKUs are overkill. “There was sort of an overskewing, for many years on the other vendors side of things,” he told El Reg on the sidelines of Supercomputing 2026 this week. Nvidia is a relative newcomer to the datacenter CPU space. The company’s first part, called Grace, launched in 2023, but didn’t see widespread deployment outside AI headnodes, high-end NICs, and a handful of standalone CPU deployments by hyperscalers like Meta. We explored the chip in greater detail earlier this year, but the GPU slinger’s latest CPU, Vera, is a different beast. In addition to showing up as part of Nvidia’s Vera-Rubin superchips, the CPU will also be offered in standalone CPU racks, storage, and context memory systems. Just this week, Nvidia announced a new rack with 192 Vera CPUs aimed at high-performance computing (HPC) workloads, which don’t translate well to GPUs. And at least on paper, a single SKU with 88 cores clocking to 3.3 GHz powers all of them. Historically, CPUs with different combinations of cores, clocks, I/O, and power have been used in these roles. According to Finder, most datacenter CPUs haven’t been loaded that heavily, and as a result unloaded latency has been the optimization point. As a consequence, CPUs that rely on high core counts to boost throughput often suffer from elevated loaded latencies. On the flip side, chipmakers can optimize for loaded latency, but this usually comes at the expense of throughput. We see this pretty clearly across AMD’s last few generations of Epycs, where it designed both space-efficient Zen-C cores that prioritize throughput and fatter frequency-optimized versions that prioritize latency. “As more cores are up and running, your latency to memory gets higher because you have to deal with congestion on the connectivity buses,” More than Moore analyst Ian Cutress tells The Reg . “What Nvidia is saying is right. Sometimes, you do have to pick between core count and core latency.” A balanced architecture With Vera, Nvidia sought to thread that needle to design a balanced architecture that maintains low latencies and high throughput even when all 88 cores are loaded. This does mean making some compromises – in particular, the CPU's vector unit isn’t the beefiest. But if you’ve got GPUs capable of running vectorized code, that compromise starts to make a lot more sense – and if you’re buying Vera you almost certainly do. “If you do a few things like that, you can actually get a part that, for the workloads people care about — knowledge agents for CI/CD, for software engineering, or databases and analytics — you can build a part that gets you the same performance per core</description>
+<enclosure url="https://image.theregister.com/?imageId=5228929&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5228929&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Here's everything GTA+ gets you in GTA 6: Is it worth $8 a month?</title>
+<link>https://www.engadget.com/2323323/gta-plus-benefits-gta-6-is-it-worth-it</link>
+<guid isPermaLink="false">6b63369bee458e803394f0590a9db4d20d510b35a68022a6359a384421674855</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 18:27:59 +0000</pubDate>
+<description>A GTA+ membership adds a few extras to GTA 6 for $8 a month. Here's what's included and which players are most likely to get their money's worth.</description>
+<enclosure url="https://www.engadget.com/img/gallery/heres-everything-gta-gets-you-in-gta-6-is-it-worth-8month/l-intro-1795197527.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/heres-everything-gta-gets-you-in-gta-6-is-it-worth-8month/l-intro-1795197527.jpg" medium="image"/>
+</item>
+<item>
+<title>Multiplying your Switch 2’s storage costs less than usual right now</title>
+<link>https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale</link>
+<guid isPermaLink="false">502ba4456945bd31f3dcaf6fbd434267811d82fb626662c5407250119b98dfa5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 18:15:00 +0000</pubDate>
+<description>Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards , while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has dropped to $44.99 at Amazon ahead of Black Friday, which is a few bucks off its usual price but still well below its $79.99 MSRP. Sandisk’s 256GB card, meanwhile, is available for $49.99 ($10 off Amazon’s typical list price) from Amazon and Sandisk , if you prefer one brand over the other for some reason. For those who don’t want to think about upgrading their Switch 2’s storage again, both brands’ 512GB microSD Express cards are selling for a fair $99.99 on Amazon . That gives you double the storage for roughly twice the price of a 256GB card, as it should be. Samsung P9 microSD Express Card Where to Buy: $79.99 $44.99 at Amazon (256GB) $149.99 $99.99 at Amazon (512GB) Sandisk microSD Express card Where to Buy: $166.99 $99.99 at Best Buy (512GB) $73.99 $49.99 at Amazon (256GB) $166.99 $98.99 at Amazon (512GB) I suspect the 256GB option will be enough for most Switch 2 players, unless you buy a lot of games. The Legend of Zelda: Ocarina of Time remake is 24.9 gigabytes, for example. Other Nintendo-developed games tend to be similar in install size, though it’s all over the place for third-party game makers; Resident Evil Requiem (which also recently dropped to $39.99 on Amazon ) is relatively small at 28.7 gigs, while The Witcher 3: Wild Hunt — Remastered is about 50. Some games take up even more storage.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Samsung-P9-MicroSD-Express-Card.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/webp"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Samsung-P9-MicroSD-Express-Card.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Google says it’s going to shut off Google Assistant on smart speakers next year</title>
 <link>https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down</link>
 <guid isPermaLink="false">06eb602957541aaca1434addb87d079a25c9d379285aa172a6e51781c704792c</guid>
@@ -13,6 +68,17 @@
 <description>Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, meaning you'll have to manage your Nest products, including Nest thermostats, cameras, and Nest Protect alarms, from the Google Home app instead. If you get the Google Home app set up, Google will move over your Nest devices, including cameras and video history, to the Home app on that January 25th date. The company will also automatically transfer Nest Aware (1st Gen … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>OpenAI brings its collaborative Space hubs to Plus users</title>
+<link>https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users</link>
+<guid isPermaLink="false">372b14867f9dc25861f379fba36accdc558330dc92beb119ad01daaceddd7483</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
+<description>You can upload documents, files and more to the hubs for easy sharing.</description>
+<enclosure url="https://www.engadget.com/img/gallery/openai-brings-its-collaborative-space-hubs-to-plus-users/l-intro-1795191035.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/openai-brings-its-collaborative-space-hubs-to-plus-users/l-intro-1795191035.jpg" medium="image"/>
 </item>
 <item>
 <title>Here are the Apple deals actually worth picking up ahead of Black Friday</title>
@@ -158,17 +224,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>'Critical' 1970s-era Fujitsu UK police system could remain unsupported for three years</title>
-<link>https://www.theregister.com/public-sector/2026/11/20/critical-1970s-era-fujitsu-uk-police-system-could-remain-unsupported-for-three-years/5311322</link>
-<guid isPermaLink="false">f6a8a4d984564820a69eaee05b5f0da907e1cda5efd85342c9743c612c3dff86</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 15:12:00 +0000</pubDate>
-<description>The UK's Home Office faces running the Police National Computer (PNC) without vendor support for three years or more as it misses another deadline to decommission the ageing crime-fighting system first introduced in 1974. The PNC was first launched in 1974, when Tom Baker began his iconic role playing Doctor Who, and has seen the tenure of 26 UK Home Secretaries, surviving multiple efforts to replace it. A notice in December 2024 said that the Home Office was "focused on the development and adoption of the Law Enforcement Data Service (LEDS) products to replace existing PNC capability across all police forces and other non-policing PNC consumers, enabling the retirement by March 2026 (the point at which PNC support will expire)." We understand that PNC support refers to the Fujitsu support contract for the mainframe, which is housed in north London. Support for the Software AG database on the mainframe OS (BS2000) ran out at the end of 2024. So the database holding the crucial police data remains out of standard support and potentially will stay that way until 2027. The decommissioning date for the PNC had already been pushed back by the need to delay and "reset" the LEDS in 2020. The Home Office launched its successor, National Law Enforcement Data Service, in 2016, and planned to finish the new system by 2020 at a cost of £671 million. The Home Office told The Register this week that it needed more time, and it aimed to begin decommissioning the system from March 2027, raising questions over how it would be supported. A Home Office spokesperson said: "We are modernizing policing systems to adapt to evolving challenges, including rolling out the LEDS to replace the Police National Computer. "While LEDS is already operational, we are continuing to run the legacy Police National Computer system to support the operational needs of all UK police," they said. Officials said the PNC would remain available throughout the transition and would only be disconnected when police forces have confirmed that they no longer need it. Earlier this month, in a written response in the House of Lords, Lord Hanson of Flint, a junior minister, said the PNC might be required until early 2028. Some LEDS services were already live and the program was "targeting completion of the remaining development, adoption and readiness activity in early 2027 as we prepare for our final stages for LEDS deployment before retiring the PNC," he said. "Once the transition of all police users to the LEDS has been completed and policing has confirmed that the PNC is no longer required, the system will be disconnected and decommissioned. The decommissioning process is expected to take place between late 2027 and early 2028," he said . According to the National Audit Office (NAO), the PNC is the most important national policing information system in the UK. It serves front-line officers from all 45 local police forces, as well as by 127 other organisations that need to access its data. In 20</description>
-<enclosure url="https://image.theregister.com/?imageId=5311357&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311357&amp;width=1280" medium="image"/>
-</item>
-<item>
 <title>UN court cites military Facebook posts while finding Myanmar guilty of genocide</title>
 <link>https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un</link>
 <guid isPermaLink="false">1942a91a9f55b1befc5ea256443c00ad283ebc25ab59942ff1d0bac192e12cb2</guid>
@@ -178,17 +233,6 @@
 <description>Rohingya refugees in Bangladesh watch the International Court of Justice’s ruling on Myanmar’s genocide against its Muslim minority. | Photo by Salahuddin Ahmed / AFP via Getty Images In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations' top court says that Facebook played a role in helping Myanmar's military spread hate speech against its Muslim minority. The ruling from the International Court of Justice determined that Facebook posts made by the country's military "dehumanized" the Muslim minority "and at times encouraged and legitimized violence against them," as reported earlier by Reuters . The decision that Myanmar committed genocide comes after The Gambia sued the country in 2019 over the military's violent "clearance operations" targeting t … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305286110.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305286110.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Let’s talk about GTA VI</title>
-<link>https://www.theverge.com/entertainment/1037545/gta-6-discussion</link>
-<guid isPermaLink="false">b683079839bae5071bfaeebb7d023d911a57d89e9ff68ea4aa7fe93fd9164765</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 15:00:00 +0000</pubDate>
-<description>It's hard to believe, but Grand Theft Auto VI is now a real thing that we all can play . Thirteen years after GTA V , and eight years since Red Dead Redemption 2 , Rockstar is back with its latest sprawling, extravagant open world. There's a lot to experience - and a lot to talk about. Perhaps the most impressive thing about GTA VI is how flexible it is, letting you mold the experience to your own play style. You can still be a maniacal criminal, but you can also focus on the new love story that includes an entire button dedicated to holding hands. Or you can spend the hours fishing or driving around listening to the radio. Maybe you just want … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>US will soon announce root cause behind FAA nationwide ground stop</title>
@@ -233,17 +277,6 @@
 <description>Lenders backing SpaceX’s latest $43 billion debt package, which is secured by its advanced AI chips, have tried to bar Elon Musk from firing the collateral into space as part of his plan for orbital data centers. The world’s richest man has outlined ambitious plans to power AI models with data centers cooled by the vacuum of space. That will require packing satellites full of advanced chips. SpaceX has said it plans to use the chips involved in the debt deal on Earth. But lenders have expressed concerns that if the group later decided to shoot the valuable chips that underpin their loans into space, it would prevent them from reclaiming and selling the semiconductors in the event of a default, according to people familiar with the matter. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg" medium="image"/>
-</item>
-<item>
-<title>The week everything fell apart</title>
-<link>https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast</link>
-<guid isPermaLink="false">b3a746945a8955db5b250e0be72688a6fc1fc464f9c45d93c950b19a86368178</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 14:06:59 +0000</pubDate>
-<description>There was a dayslong Outlook outage . A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working . Even iCloud couldn't stay up and running . This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On this episode of The Vergecast , Nilay and David go through the week's many calamities, and try to explain both what happened in each case - which was generally much milder than the conspiracy theories would have you believe - and why all these small issues might still add up to something worth worrying about. In a world filled … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Microsoft suggests Registry hack to work around hotpatch woes</title>
@@ -439,7 +472,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Fri, 20 Nov 2026 04:04:56 +0000</pubDate>
-<description>The US Commerce Department’s Bureau of Industry and Security (BIS) allowed Nvidia and AMD to sell hundreds of thousands of advanced GPUs to entities that the Department of War classifies as “Chinese military companies” that help Beijing to build its military. That news comes courtesy of Brian Mast, chair of the House Foreign Affairs Committee, who asked BIS to provide information about NVIDIA’s and AMD’s applications for the export licenses required to sell advanced AI chips to China. The congressman on Thursday revealed requests to sell 3.4 million AI chips to China, and that BIS approved the sale of 879,000 items. BIS refused to authorize some giant deals for Nvidia, which applied to sell 610,000 chips to Alibaba and 508,000 to TikTok owner Bytedance. But the agency allowed many other sales, including to Alibaba and Tencent. Mast points out that both of those companies are on the Department of War’s List of Chinese Military Companies , the designation it uses for entities deemed to be a “military-civil fusion contributor to the Chinese defense industrial base.” That’s a polite way of saying that Washington thinks China relies on these companies to operate and improve its military, and therefore to challenge America’s national security. Advanced chips are essential when designing nuclear weapons, stealthy submarines, or advanced aircraft. Those applications are the core reason the US bans exports of advanced GPUs to China, so that the People’s Liberation Army can’t develop advanced weapons. A diverting drama The congressman also claims that some of Nvidia’s applications were attempts to sell its wares to “chip-smuggling fronts to facilitate their sales of advanced AI chips to Chinese companies.” The New York Times reports that some of those front entities are linked to Megaspeed, the outfit fronted by suspected Chinese intelligence asset Alice Huang, whose intimate relationship with former Nvidia CEO Jensen Huang was a key factor in his resignation. Megaspeed is accused of what the US calls “diversion” – claiming to buy chips for one reason while intending to either ship them to China or rent them exclusively to Chinese companies in ways that breach the spirit of export restrictions if not the letter of the law. One of the documents Mast shared says “Every Nvidia and AMD application stated that the proposed transfer posed a ‘low’ risk of diversion.” Mast’s point therefore appears to be that the BIS has authorized sales that go against the clear intent of established policy, and the national interest, and that Nvidia and AMD may have been a little too optimistic in their assessment of diversion risk. Earlier this week, Washington adopted a new policy that outlaws allowing remote access to advanced AI chips, in the hope it would stop diversion and dent China’s AI ambitions. Two Chinese tech giants, Tencent and Alibaba, have signaled the policy had immediate impact. Chinese web giant Tencent on Wednesday said that new ban will reduce the quantity o</description>
+<description>The US Commerce Department’s Bureau of Industry and Security (BIS) allowed Nvidia and AMD to sell hundreds of thousands of advanced GPUs to entities that the Department of War classifies as “Chinese military companies” that help Beijing to build its military. That news comes courtesy of Brian Mast (R-FL), chair of the House Foreign Affairs Committee, who asked BIS to provide information about NVIDIA’s and AMD’s applications for the export licenses required to sell advanced AI chips to China. The congressman on Thursday revealed requests to sell 3.4 million AI chips to China, and that BIS approved the sale of 879,000 items. BIS refused to authorize some giant deals for Nvidia, which applied to sell 610,000 chips to Alibaba and 508,000 to TikTok owner Bytedance. But the agency allowed many other sales, including to Alibaba and Tencent. Mast points out that both of those companies are on the Department of War’s List of Chinese Military Companies , the designation it uses for entities deemed to be a “military-civil fusion contributor to the Chinese defense industrial base.” That’s a polite way of saying that Washington thinks China relies on these companies to operate and improve its military, and therefore to challenge America’s national security. Advanced chips are essential when designing nuclear weapons, stealthy submarines, or advanced aircraft. Those applications are the core reason the US bans exports of advanced GPUs to China, so that the People’s Liberation Army can’t develop advanced weapons. A diverting drama The congressman also claims that some of Nvidia’s applications were attempts to sell its wares to “chip-smuggling fronts to facilitate their sales of advanced AI chips to Chinese companies.” The New York Times reports that some of those front entities are linked to Megaspeed, the outfit fronted by suspected Chinese intelligence asset Alice Huang, whose intimate relationship with former Nvidia CEO Jensen Huang was a key factor in his resignation. Megaspeed is accused of what the US calls “diversion” – claiming to buy chips for one reason while intending to either ship them to China or rent them exclusively to Chinese companies in ways that breach the spirit of export restrictions if not the letter of the law. One of the documents Mast shared says “Every Nvidia and AMD application stated that the proposed transfer posed a ‘low’ risk of diversion.” Mast’s point therefore appears to be that the BIS has authorized sales that go against the clear intent of established policy, and the national interest, and that Nvidia and AMD may have been a little too optimistic in their assessment of diversion risk. Earlier this week, Washington adopted a new policy that outlaws allowing remote access to advanced AI chips, in the hope it would stop diversion and dent China’s AI ambitions. Two Chinese tech giants, Tencent and Alibaba, have signaled the policy had immediate impact. Chinese web giant Tencent on Wednesday said that new ban will reduce the qua</description>
 <enclosure url="https://image.theregister.com/?imageId=236466&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=236466&amp;width=1280" medium="image"/>
 </item>
@@ -631,17 +664,6 @@
 <media:content url="https://www.engadget.com/img/gallery/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/l-intro-1795115497.jpg" medium="image"/>
 </item>
 <item>
-<title>Ubisoft lays off 166 more workers, opens a generative AI studio</title>
-<link>https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio</link>
-<guid isPermaLink="false">cec082a12f1eecc1fa08846f49096be42b305be79b65aa0ba173ba0385a67c2c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 19:06:04 +0000</pubDate>
-<description>Even Rockstar developers fear layoffs, as GTA 6 rakes in billions of dollars.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio/l-intro-1795114771.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio/l-intro-1795114771.jpg" medium="image"/>
-</item>
-<item>
 <title>Nvidia adds possible hack to list of very bad things under investigation</title>
 <link>https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153</link>
 <guid isPermaLink="false">b1d23014709d9b5ce5a85f2ca8c0852e4ab42f60e0e8c52cb5c9bbcf015333d5</guid>
@@ -664,17 +686,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135.jpg" medium="image"/>
 </item>
 <item>
-<title>Anthropic is now a public company worth more than $1 trillion</title>
-<link>https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion</link>
-<guid isPermaLink="false">4fc7ccedbfa9a7c3e2ef9bbfb2e285b246ae93a25df5ed186f73f8084e413638</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 18:41:26 +0000</pubDate>
-<description>The company was briefly valued at more than $2 trillion.</description>
-<enclosure url="https://www.engadget.com/img/gallery/anthropic-is-now-a-public-company-worth-more-than-1-trillion/l-intro-1795113508.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/anthropic-is-now-a-public-company-worth-more-than-1-trillion/l-intro-1795113508.jpg" medium="image"/>
-</item>
-<item>
 <title>XXRI-OS explores the lowest end of the Linux desktop</title>
 <link>https://www.theregister.com/os-platforms/2026/11/19/xxri-os-explores-the-lowest-end-of-the-linux-desktop/5311036</link>
 <guid isPermaLink="false">8f4720a930ab7d2b1bb59e44926e558a03fe53ee1dbce391e372ef3fe14ea5e7</guid>
@@ -695,17 +706,6 @@
 <description>Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions. An investigation also found the AI agent accessed private messages.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Meta-Muse.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Meta-Muse.jpg" medium="image"/>
-</item>
-<item>
-<title>How to game share GTA 6 and split the cost with a friend</title>
-<link>https://www.engadget.com/2322043/how-to-game-share-gta-6-split-cost</link>
-<guid isPermaLink="false">935e253120cbe8d4b64f4d405f53c997ab87946500c04a62f32f66c375a904e5</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 18:00:48 +0000</pubDate>
-<description>You can do this on Xbox Series X and PlayStation 5.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-game-share-gta-6-and-split-the-cost-with-a-friend/l-intro-1795110904.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-game-share-gta-6-and-split-the-cost-with-a-friend/l-intro-1795110904.jpg" medium="image"/>
 </item>
 <item>
 <title>Google will launch Android app verification requirement globally in January 2027</title>

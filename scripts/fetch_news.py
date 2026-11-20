@@ -61,7 +61,7 @@ OTHER_SPORT_RE = re.compile(
 IMAGE_CHECK_CACHE = {}
 CATEGORIES = {"top", "nigeria", "world", "entertainment", "sports", "technology", "science", "business", "gaming", "fashion", "other"}
 PREVIEW_CATEGORIES = ("top", "nigeria", "world", "business", "entertainment", "sports", "technology", "science")
-PREVIEW_LIMIT = 25  # stories per category written to news-preview.json
+PREVIEW_LIMIT = 26  # stories per category written to news-preview.json
 
 
 def clean(value):

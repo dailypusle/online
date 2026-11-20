@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history</title>
+<link>https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">5ef06037f3faa4d55810acc96fac19bf92e0101f92a7597d775319f2932019a4</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 22:53:24 +0000</pubDate>
+<description>The mammoth figure surpasses every video game launch and single-day film box office record.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
+</item>
+<item>
+<title>Tech stock sell-off drags markets down as Anthropic shares slide</title>
+<link>https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">53ba164e0140f69fcddb53a03b7e6640425abacca6403a17447a8b1adaa66437</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 22:42:47 +0000</pubDate>
+<description>Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" medium="image"/>
+</item>
+<item>
 <title>Claude Claims Historic Math Breakthrough One Day After Anthropic IPO</title>
 <link>https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo</link>
 <guid isPermaLink="false">8df44a39351f7e5c1031c121ad91422208dcaa4df38f8ee86e59c99ba557dcfa</guid>
@@ -46,17 +68,6 @@
 <description>Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang’s resignation.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Anthropic shares fall after blockbuster opening as wider tech sell-off continues</title>
-<link>https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">53ba164e0140f69fcddb53a03b7e6640425abacca6403a17447a8b1adaa66437</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 20:00:53 +0000</pubDate>
-<description>Other tech companies have also taken a hit as share markets broadly slump.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" medium="image"/>
 </item>
 <item>
 <title>Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit</title>
@@ -134,6 +145,17 @@
 <description>Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Your Business Is Busy. But Is It Actually Growing? Ask These 4 Questions to Find Out.</title>
+<link>https://www.entrepreneur.com/building-a-business/your-business-is-busy-but-is-it-actually-growing-ask-these-4-questions-to-find-out</link>
+<guid isPermaLink="false">9b9370456acda8bd4fed15e9d4bc537c2fc3b679151e6240758ca2a7d3c5a894</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
+<description>The last quarter of the year is the best time to find out what’s actually earning its keep in your business.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/is-business-growing-1126-g-2244450943.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/is-business-growing-1126-g-2244450943.jpg" medium="image"/>
 </item>
 <item>
 <title>Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host</title>
@@ -453,17 +475,6 @@
 <description>The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg" medium="image"/>
-</item>
-<item>
-<title>GTA 6 drives spike in download demand, as estimated sales top $2.3bn</title>
-<link>https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">5ef06037f3faa4d55810acc96fac19bf92e0101f92a7597d775319f2932019a4</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 13:08:30 +0000</pubDate>
-<description>Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
 </item>
 <item>
 <title>MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business</title>
@@ -827,17 +838,6 @@
 <description>The everyday work you take for granted could be the most compelling story your business has to tell.</description>
 <enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/content-into-marketing-1126_g2277147017.jpg" type="image/jpeg"/>
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/content-into-marketing-1126_g2277147017.jpg" medium="image"/>
-</item>
-<item>
-<title>SEO Isn’t Over, But Google Is Losing Its Monopoly. Here’s How to Adapt.</title>
-<link>https://www.entrepreneur.com/building-a-business/seo-isnt-over-but-google-is-losing-its-monopoly-heres-how-to-adapt</link>
-<guid isPermaLink="false">f8a842fb7e7333ebcf4539cd7f325b0f0b3fadefa132f1c2d458fb0fed5d75d0</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 19:30:00 +0000</pubDate>
-<description>The shift from traditional search to AI-powered discovery is changing the future of digital marketing.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/google-losing-its-monopoly-1126-g-1250142483.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/google-losing-its-monopoly-1126-g-1250142483.jpg" medium="image"/>
 </item>
 <item>
 <title>Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street</title>

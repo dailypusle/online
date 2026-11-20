@@ -4,13 +4,35 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis</title>
+<link>https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis</link>
+<guid isPermaLink="false">321844474abd26db4e4f6c65b29724b9d16e573e083d457ea661d185e794ecbb</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Fri, 20 Nov 2026 22:34:53 +0000</pubDate>
+<description>As news spread that an Anthropic researcher used AI to find an answer to one of the longest standing questions in their field, mathematicians expressed awe, uncertainty and at least one claim of having a competing proof in the works</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321424594.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321424594.jpg" medium="image"/>
+</item>
+<item>
+<title>Quantum effect could reverse gravity and violate Einstein’s theory of relativity</title>
+<link>https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity</link>
+<guid isPermaLink="false">da44b66835dcdb4138e807df308c3652d66758fa1ff827d1f199f998a3d17cfe</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Fri, 20 Nov 2026 22:00:00 +0000</pubDate>
+<description>Two mathematical investigations devised a way to possibly make gravity produce repulsion between objects, breaking away from a long-standing understanding of this force</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321280192.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321280192.jpg" medium="image"/>
+</item>
+<item>
 <title>What is the Riemann hypothesis and why is its solution so monumental?</title>
 <link>https://www.newscientist.com/article/2600226-what-is-the-riemann-hypothesis-and-why-is-its-solution-so-monumental</link>
 <guid isPermaLink="false">f72ac5ae4ce89df79e89b54001f80f48db5aecce4b627a3e98cfa936ceaff06f</guid>
 <source>New Scientist</source>
 <category>science</category>
 <pubDate>Fri, 20 Nov 2026 21:24:57 +0000</pubDate>
-<description>It has been called the hardest problem in mathematics, and now through a combination of human ingenuity and relentlessness, and the computational power of AI, the Riemann hypothesis may have finally been solved</description>
+<description>Bernhard Riemann set out a problem mathematicians have been trying solve for more than a century The Granger Collection/Alamy The cadence of prime numbers has a pattern; it isn’t simply chaos. Mathematician Bernhard Riemann suspected this was the case, but he never proved it conclusively, and his mathematical successors have spent more than a century trying to demonstrate that he was right. The Riemann hypothesis may now be proven , and it could reveal the most basic structure of our number system, while also opening the door for a new understanding of the vast world of mathematical functions. Read more Mathematicians and AI in behind-the-scenes battle over what’s true In 1859, Riemann made a casual remark about a mathematical function in his memoir, qualifying a statement about it as “very probably” true. The fact that he never proved it more definitively has held the world of mathematics in suspense ever since, and the “Riemann hypothesis” became the field’s most famous and stubbornly unsolved problem – until now. A new AI-assisted proof by Levent Alpöge at Anthropic may have just ended a whole era of mathematics by confirming Riemann’s hunch from nearly 200 years ago. “This result, if true, will be the culmination of a struggle thousands of mathematicians have attempted in the past,” says Christopher Hughes at the University of York in the UK. The proof of the Reimann hypothesis is also one of the Clay Mathematics Institute ’s Millennium Prize Problems, each of which comes with a $1 million prize for a solution. Advertisement The Riemann hypothesis has loomed so large over mathematicians for decades because it concerns mathematics’ most simple yet hard-to-understand objects: prime numbers . These are numbers that aren’t divisible by any number other than 1 and themselves, and any number can be built by multiplying primes. In this way, primes are the bones of all systems of numbers; everything is built on top of them. But how primes are distributed among all numbers is, on the face of it, unpredictable. This is where Riemann made an intervention. He hypothesised that the way primes are spaced throughout the number line can be inferred from another set of numbers, now tied to a mathematical function called the Riemann zeta function. These numbers are complex – so each is actually a pair of numbers, one called real and one called imaginary – and when they are plugged into the Riemann zeta function, the function spits out zero. Confusingly, these numbers that result in a zero from the function are called “non-trivial zeros”. Riemann discovered that summing over a sequence of these complex numbers allowed him to predict the distribution of primes up to a certain high number. Effectively, he came upon a formula that could make sense of primes’ seemingly random appearances among numbers. But the formula only works if all the zeros always sit on the same vertical line when plotted in a coordinate system where the horizontal axis tracks their real numb</description>
 <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321431557.jpg" type="image/jpeg"/>
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321431557.jpg" medium="image"/>
 </item>
@@ -334,17 +356,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/ttt-publicinputonlife-2026.png?w=1280" medium="image"/>
 </item>
 <item>
-<title>Big tech may finally face legal consequences for AI’s actions</title>
-<link>https://www.newscientist.com/article/2599970-big-tech-may-finally-face-legal-consequences-for-their-ais-actions</link>
-<guid isPermaLink="false">dba6d6f3d1718f05e145107f247f808353ed6b7ed25ea82e62f9ff81aed9e041</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 19:32:00 +0000</pubDate>
-<description>California has filed a lawsuit against OpenAI for the Hugging Face incident Chris Jung/NurPhoto/Shutterstock Can you send a computer to jail? No, obviously not. That’s a stupid question. And yet it is one that AI firms seem to want us to ask when faced with tales of “rogue agents” breaking into other peoples’ computers. As is so often the case with our current AI moment, storytelling has got in the way of reality. Thankfully, that may be starting to change. This week, California announced that it is filing a lawsuit against OpenAI over an incident that occurred earlier this year, when another AI firm, Hugging Face, was hit by an attack that turned out to originate from OpenAI’s servers . Read more The real reasons we keep seeing big tech outages – it isn’t just hackers In OpenAI’s telling , the Hugging Face hack was “driven by a combination of OpenAI models”, models that were “hyperfocused” on achieving a goal and found ways to “cheat” by stealing the answers for a test from Hugging Face’s servers. It is easy to come away with the impression that seemingly no humans were involved, and certainly not to blame. But in the words of California Attorney General Rob Bonta , the attack “was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability”, and he explicitly dismisses “science fiction fantasies of rogue AI systems run amok”. Advertisement Ever since the Hugging Face attack occurred, I have struggled to understand why OpenAI has yet to face legal consequences for what would seem to be a crime – unauthorised computer access under the US Computer Fraud and Abuse Act – if conducted by a human. So far, the legal answer to this seems to be a lack of intent, which the law requires, and it remains an untested legal question whether an AI can have intent , according to an analysis by US firm Ballard Spahr. California is instead bringing a civil suit, alleging that OpenAI created a risk to public safety and violated the state’s Unfair Competition Law, which prohibits harmful or fraudulent business practices even when there is no intent to deceive. OpenAI has objected to the lawsuit. “This lawsuit appears to single out OpenAI over a challenge that’s been identified by every major AI lab,” said OpenAI spokesperson Drew Pusateri . As legal defences go, “everyone is doing it” doesn’t seem like a very good one to me, but that will be for the courts to decide. What is clear is that we need an agreed understanding of liability when it comes to AI, but what I don’t think we need are special AI laws when our existing ones work just fine. For example, in 2024, Air Canada was held liable for misleading information given to a customer by its AI chatbot. A tribunal ruled that Air Canada had effectively tried to argue that the chatbot was a legally separate entity that it was not responsible for – an argument that did not wash. In my view, any similar claims that AI can have its own legal</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321287518.jpg" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321287518.jpg" medium="image"/>
-</item>
-<item>
 <title>China rolls out rocket for launch of 1st international astronaut to Tiangong space station (video)</title>
 <link>https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video</link>
 <guid isPermaLink="false">c242ab4767b16dbe4392bde44ecb09b7d8a1bf5c62657292094d796ad2d02e08</guid>
@@ -354,17 +365,6 @@
 <description>null China's space station is set to receive its first foreign astronaut. A Long March 2F rocket, topped with the Shenzhou-24 crew spacecraft, was rolled out to the pad at Jiuquan Satellite Launch Center in northwest China, on Tuesday (Nov. 17), with launch expected in the next week. The 191-foot-tall (58 meters) rocket was transferred 0.93 miles (1.5 kilometers) from a vertical integration building to the pad over the course of around two hours, starting around 4 a.m. EST (0900 GMT, or 5 p.m. Beijing Time), according to China Central Television (CCTV). China rolls out the Long March 2F rocket for its Shenzhou-24 astronaut mission on Nov. 17, 2026. (Image credit: CCTV) China's human spaceflight agency, CMSA, stated that all facilities and equipment at the launch site are in good condition, adding that the launch is scheduled to take place in the coming days, without providing a date. CMSA typically holds a press conference at Jiuquan a day ahead of launch, during which the crew for the mission is revealed to the public. This time, one of the three crew members will, for the first time, be an international astronaut. One of two Pakistani astronaut candidates will fly to the Tiangong space station on Shenzhou-24, marking a first both for China's outpost and for Pakistan, which will see one its astronauts reach orbit for the first time. Though public details are sparse, it is thought that the Pakistani astronaut, operating as a payload specialist, will stay aboard Tiangong for around a week, returning home on the departing Shenzhou-23 spacecraft. One of the three Shenzhou-23 astronauts — who are approaching the end of their six-month-long mission, having launched on May 24 — will stay aboard Tiangong for another half a year. This will provide the international visitor with a seat home on Shenzhou-23, and allow a Chinese astronaut to make the country's first year-long stay in orbit. This extra-long mission will supply China with data on physiology ahead of crewed lunar flights and other long-duration missions. China approved its human spaceflight program in 1992 and launched its first orbital crewed mission in 2003, with Yang Liwei becoming the first Chinese national in space. The country then completed the three-module Tiangong space station in late 2022 and has kept the orbital outpost constantly crewed ever since, with rotating six-month-long missions with brief handovers between crews. Shenzhou-24 will be China's 18th crewed mission and will mark the first time a foreign national is flying on a Shenzhou spacecraft. China is also looking to double the size of Tiangong in the coming years, potentially opening the way to further international missions and space tourist visits.</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/x2E4iRkmARYuAXnEPdeciJ-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/x2E4iRkmARYuAXnEPdeciJ-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>Huge extinct orca may have eaten other whales</title>
-<link>https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales</link>
-<guid isPermaLink="false">a83e768c837c0cf337216ead6747fa7a45c87b3c1fee64e1167658537e56a8cf</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-<description>A nearly 8-metre-long species of orca lived in the North Sea over 2 million years ago. Its discovery suggests orcas evolved a diet of marine mammals earlier than scientists thought</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321244420.jpg" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_321244420.jpg" medium="image"/>
 </item>
 <item>
 <title>Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock</title>

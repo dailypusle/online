@@ -20,7 +20,7 @@ Example:
 }
 ```
 
-Supported categories: `nigeria`, `world`, `entertainment`, `sports`, `technology`, `science`, `business` (shown on the site as “Business · Crypto & Banks”), `gaming`, `fashion`, `other`. The business category includes crypto-market and banking/business publishers such as CoinDesk, Cointelegraph, Decrypt, BBC Business, and Banking Dive. The `top` feed is generated automatically from all categories.
+Supported categories: `nigeria`, `world`, `entertainment`, `sports`, `technology`, `science`, `business` (shown on the site as “Business · Crypto & Banks”), `gaming`, `fashion`, `other`. The business category includes crypto-market and banking/business publishers such as Yahoo Finance, CoinDesk, Cointelegraph, Decrypt, BBC Business, and Banking Dive. The `top` feed is generated automatically from all categories.
 
 ## Run locally
 
@@ -123,3 +123,6 @@ The homepage includes the blue DailyPulse Assistant chat widget. It sends visito
 - The Worker restricts browser origins to `SITE_ORIGIN` (plus localhost development origins). If you move DailyPulse to a custom domain, update `SITE_ORIGIN` and redeploy.
 - Free plans and Gemini API free-tier quotas have limits and can change. This setup is not unlimited or guaranteed to remain free; monitor Cloudflare and Google usage. Consider adding rate limiting before promoting the chatbot widely.
 - If your deployed site uses a different feed URL or GitHub Pages base path, change `NEWS_FEED_URL` to the exact publicly accessible `top.xml` URL.
+
+- The sports category shows all sports by default. In `scripts/fetch_news.py`, set `SPORTS_SOCCER_ONLY = True` to keep only soccer. Sports stories need a title of 20+ characters, 200+ characters of body text, and a sharp landscape image of at least 1000x560 (adjust the `SPORTS_MIN_*` values to loosen this).
+- On the page, reaching the end of a category no longer jumps ahead. Pull up past the threshold and release (touch), or keep scrolling down at the bottom (wheel), to open the next category.

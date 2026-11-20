@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bitcoin falls below $60K for first time since July amid broader market selloff</title>
+<link>https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff</link>
+<guid isPermaLink="false">3df8010467f43d89a0bf1efc40c83aca0f9975058edd410a3db0349ce0bd2ae2</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 16:55:51 +0000</pubDate>
+<description>Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal</title>
+<link>https://bitcoinmagazine.com/news/blockstream-shrincs-security-shrincs</link>
+<guid isPermaLink="false">e2a3d3009ab345adaa8ed3be9f514d158757db22da6adbef0cc78ed3ed1e3b0b</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 16:55:00 +0000</pubDate>
+<description>Bitcoin Magazine Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal Several researchers have published a 131-page security analysis of SHRINCS, a proposed post-quantum signature scheme for Bitcoin, and are asking the wider community to look for flaws in it. Researcher Mikhail Kudinov announced the first version Thursday in a thread on X, saying the paper reduces SHRINCS’ security to the properties of its underlying hash function. The analysis, dated Nov. 18, estimates classical security of 121.4 to 122.7 bits for SHRINCS, though those figures rest on assumptions that include three unproven conjectures. Kudinov said the work is not finished. The team is still working on a new analysis of a property called SM-DSPR, whose bound has so far been conjectured, and on tightening a reprogramming step and improving a bound against quantum attackers. How SHRINCS works SHRINCS is a hash-based scheme, meaning its security rests on hash functions rather than the elliptic curve math behind today’s Bitcoin signatures. It places two designs under one key: a stateful part built on FXMSS with WOTS+C, and a stateless fallback built on SLH-DSA. Because both use the same hash function, Kudinov said, the proof has to cover both. Signature size is the main cost. Under the draft proposal, stateful SHRINCS signatures run from 548 to 4,619 bytes, while the stateless fallback is 5,777 bytes. Schnorr signatures on Bitcoin today are 64 bytes, and ECDSA signatures typically come in around 71. Signatures take up scarce block space, so larger ones mean fewer transactions per block. The risk of a stateful signature The compact stateful path carries a danger. It relies on one-time keys, and if a wallet accidentally reuses one, an attacker can forge a signature for that address and steal the funds. Wallet software therefore has to track the state of every key. The stateless path avoids the problem, but at a much larger size. Jonas Nick, Blockstream’s director of research, told Isabel Foxen Duke, head of the MARA Foundation, on MARA Foundation TV that wallets must automatically fall back to the stateless path whenever a state counter could be compromised. “It needs to be impossible for the user to behave in a way that this catastrophic event happens,” he said. “Wallet developers need to deal with this stateful component correctly.” Nick also warned that heavy use of the larger signatures would weigh on the network. “We don’t know what the fee market will look like once we have these very big signatures,” he said. “And it’s not just the fee market, it’s also just fewer transactions fit into a block, meaning fewer people can use Bitcoin. And I think this changes the value proposition of Bitcoin.” Researchers ask for review The authors are clear that the analysis needs scrutiny. Kudinov said it has not been sufficiently peer reviewed, and the project’s GitHub repository warns that the documents may contain errors and should not be the sole basis for deploy</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Researchers-Publish-Security-Analysis-of-Bitcoins-Post-Quantum-SHRINCS-Proposal.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Researchers-Publish-Security-Analysis-of-Bitcoins-Post-Quantum-SHRINCS-Proposal.jpg" medium="image"/>
+</item>
+<item>
+<title>Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow</title>
+<link>https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">50da3b38d638e680f25f7d954f35f38232b3e019fb2ba015b7eb156cb42c9167</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 16:41:52 +0000</pubDate>
+<description>The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February</title>
+<link>https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest</link>
+<guid isPermaLink="false">04f944fd88e7fb5bea0e90b88b59df94a5bc98846cb694d4bc8d3465ba3acc8c</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 16:35:59 +0000</pubDate>
+<description>Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic shares fall a day after blockbuster opening</title>
+<link>https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">53ba164e0140f69fcddb53a03b7e6640425abacca6403a17447a8b1adaa66437</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 16:27:47 +0000</pubDate>
+<description>Other tech companies have also taken a hit as share markets broadly slump.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" medium="image"/>
+</item>
+<item>
+<title>U.S. Treasury Secretary Pushes Back on Bigger Fed Hike</title>
+<link>https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin</link>
+<guid isPermaLink="false">a37991a0f24d560e6031671be431cc7c35d621b4e1cdb841d03a2bb26971002e</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 16:22:32 +0000</pubDate>
+<description>Bitcoin Magazine U.S. Treasury Secretary Pushes Back on Bigger Fed Hike Treasury Secretary Scott Bessent pushed back Friday on calls for a bigger Federal Reserve rate hike, even as bitcoin broke below $60,000 for the first time since July and stocks sank on bets that the Fed will keep tightening into a selloff. Bessent told CNBC he would encourage the Fed not to embrace a half-point increase at its Dec. 8-9 meeting. He cited the energy supply shock and a drop in crude prices as reasons for the central bank to hold back. Bessent says the Fed should look forward He argued that one governor now backing a 50 basis point hike had wanted a similar cut within the last year. Bessent said it “seems somewhat peripatetic” to want the bigger increase only 11 or 12 months later. He did not name the governor. “I would encourage the Fed to look forward, not backwards,” Bessent said. The comments came two days after Fed Governor Christopher Waller told CNBC a half-point hike is probably necessary in December and that the central bank may need to “shock people.” Waller said inflation is “headed in the wrong direction, and it’s spreading out.” Fed officials split on how far to go Waller is not alone. Minutes of the October meeting showed nearly all officials expect a quarter-point hike in December, and two floated a larger one. Chicago Fed President Austan Goolsbee also declined to rule out a bigger move on Thursday. “We’ve now had multiple months in a row of borderline disturbingly high inflation rates with little progress in the sectors where we would expect to be seeing some progress,” Goolsbee told reporters. “So everything’s always on the table.” Not everyone wants to go bigger. New York Fed President John Williams said Tuesday that “I don’t think the situation calls for dramatic action.” St. Louis Fed President Alberto Musalem has suggested as many as four hikes by the spring of 2027. The Fed raised rates in September for the first time in more than three years and held them steady in October. Inflation has stayed hot since the Iran strikes pushed up energy prices earlier this year. Citi and traders still see a quarter-point hike Citi still expects a quarter-point increase in December. Global chief economist Nathan Sheets said Thursday he does not see a need for 50 basis points despite persistent inflation. In a note Friday, the bank wrote that “Fed officials will consequently have little appetite to hike into an equity sell-off.” Citi expects the Fed to hold after December and begin cutting later in 2027. Traders agree on the next step: the CME Group’s FedWatch tool showed a more than 98% chance of a quarter-point hike, and the 10-year Treasury yield fell more than 10 basis points to 4.95% as investors bought bonds. Stocks fell for another day. The Nasdaq Composite dropped more than 2% in morning trading, and the VIX volatility index topped 30 , its highest level since March. What it means for bitcoin Bitcoin traded near $59,700 shortly before 11 a.m. ET, d</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation.jpg" medium="image"/>
+</item>
+<item>
 <title>Bitcoin Price Crashes to $59,000 as Market Selloff Deepens</title>
 <link>https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000</link>
 <guid isPermaLink="false">d34283ae4f979022919ed8bb591467e746398ccce625343b6cac5ebdf55bb998</guid>
@@ -46,17 +112,6 @@
 <description>New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3342/live/1c7d3390-e4ca-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3342/live/1c7d3390-e4ca-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
-</item>
-<item>
-<title>Anthropic shares fall a day after blockbuster opening</title>
-<link>https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">53ba164e0140f69fcddb53a03b7e6640425abacca6403a17447a8b1adaa66437</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 15:44:53 +0000</pubDate>
-<description>Other tech companies have also taken a hit as share markets broadly slump.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" medium="image"/>
 </item>
 <item>
 <title>Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death</title>
@@ -145,6 +200,17 @@
 <description>Bitcoin Magazine Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia The bitcoin price slipped to near $61,500 on Friday morning, according to Look Into Bitcoin data, as a selloff in technology stocks that followed Anthropic’s Nasdaq debut spread to Asian markets and dragged bitcoin to its lowest level since July. Bitcoin first broke below $62,000 on Thursday evening, after Thursday afternoon’s report showed it giving back a rebound toward $64,000. The bitcoin price then slid to nearly $61,200 during Asian trading before bouncing back above $61,700. Friday marks a third straight day of losses. Asian stocks extend the AI rout The selling started in Asia. South Korea’s Kospi slid more than 5%, with chipmakers SK Hynix and Samsung Electronics down around 6%. The Korea Exchange halted program selling for five minutes after the drop, while Japan’s Nikkei fell as much as 4.85% to a seven-month low. U.S. futures pointed lower too. Nasdaq-100 futures fell more than 1.7% and S&amp;P 500 futures dropped 0.8%, Yahoo Finance reported. Gold futures lost 3%. The S&amp;P 500 is pointing to a seventh straight daily decline, its longest losing streak since the start of the COVID-19 pandemic in 2020. Anthropic shares fell 8% in premarket trading after closing their first session at $97.17, up 17% from the $83 IPO price. Nvidia was down about 2.4% and AMD fell nearly 7%, CNBC reported. Hawkish signals from Federal Reserve officials this week also weighed on sentiment, Reuters said. ETF outflows and liquidations pressure the bitcoin price Bitcoin funds are feeling the pressure. BlackRock’s iShares Bitcoin Trust (IBIT) recorded $541.1 million in net outflows on Thursday, its largest single-day outflow since launch. That topped the previous record of $528.3 million set on Jan. 30. The fund bled $2 billion over nine straight days of outflows earlier this month. Leveraged traders took heavy losses as the bitcoin price broke support. Bitcoin liquidations hit $712.9 million over 24 hours, with $614 million coming from long positions. Open interest in bitcoin futures fell to $18 billion from $20 billion a week ago, and funding rates flipped broadly negative as traders unwound their bets. Traders are now watching whether the bitcoin price can hold the $60,000 area. A large pocket of long positions sits in the $60,500 to $60,900 band, just below the current price, and could come into play on a further drop. Bitcoin is also on track for a seventh straight weekly loss, which would be its second-longest losing streak after nine weeks of declines in 2022. Crypto stocks slide before the bell Crypto stocks pointed lower in premarket trading. Strategy (MSTR) traded near $83.90, down about 2.6% from Thursday’s close of $86.13, after the stock fell for a sixth straight day on Thursday. Coinbase (COIN) slipped about 2.7% to near $106. Bitcoin miners fell harder. IREN (IREN) dropped about 4.4%, CleanSpark (CLSK) lost about 3.6% and MARA Holdings (MARA) declined about 3.4%. Riot Pl</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-May-Be-Battered-but-Analysts-See-Structural-Adoption-Story-Still-Intact.jpg" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-May-Be-Battered-but-Analysts-See-Structural-Adoption-Story-Still-Intact.jpg" medium="image"/>
+</item>
+<item>
+<title>She Left Bank of America to Sell Empanadas From Her Back Porch. Now Customers Drive From Out of State to Try Her Food.</title>
+<link>https://www.entrepreneur.com/side-hustle/she-left-bank-of-america-to-sell-empanadas-from-her-back-porch-now-customers-drive-from-out-of-state-to-try-her-food</link>
+<guid isPermaLink="false">ccf3d2d0722132d72cf27f75c3d60569d09d9f11f2e0a7365cede588680fa8ab</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+<description>Maria Leon Rodriguez’s La Colombiana went from back-porch side hustle in 2020 to full-time food truck six years later.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/salchipapas-la-colombiana-1126.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/salchipapas-la-colombiana-1126.jpg" medium="image"/>
 </item>
 <item>
 <title>Here’s what happened in crypto today</title>
@@ -296,7 +362,7 @@
 <source>Cointelegraph</source>
 <category>business</category>
 <pubDate>Fri, 20 Nov 2026 08:03:34 +0000</pubDate>
-<description>Fraudsters allegedly used social media ads, chat groups and forged SEC filings to defraud US investors of approximately $37 million.</description>
+<description>The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg" medium="image"/>
 </item>
@@ -510,17 +576,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month</title>
-<link>https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000</link>
-<guid isPermaLink="false">23de52762e1c9c44dfe442b721a5dc6de976cc235ee0a44d74c24fa5d9893fbe</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 21:02:20 +0000</pubDate>
-<description>Bitcoin Magazine Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month The bitcoin price slumped under $62,000 on Thursday afternoon, according to Look Into Bitcoin data, extending a slide of about 24% in one month as Anthropic’s Nasdaq debut set off a broad selloff in tech stocks. Bitcoin was trading near $81,800 on Oct. 19. It touched a low of about $61,650 on Thursday, its weakest level since July, before steadying near $62,200. The drop was about 25% from the Oct. 19 close, based on daily data. The slide came in steps. Bitcoin closed near $80,050 on Oct. 25, about $78,250 on Nov. 1 and about $74,750 on Nov. 8. The steepest leg came last week, when it fell about 12.6% to a Nov. 15 close near $65,300, and the losses have continued this week. Bitcoin had climbed back to about $64,000 early Thursday as Anthropic’s record IPO lifted stock futures, as this morning’s report showed. The rally faded once U.S. markets opened. The bitcoin price fell from roughly $63,900 at the opening bell to about $62,200 by midday. Anthropic debut sparks a tech selloff Anthropic shares opened shortly before noon at $111.50, 34% above the $83 IPO price, CNBC reported. The opening trade valued the Claude maker at more than $2 trillion. The stock quickly pulled back and was last near $97, about 17% above its offering price. The broader market went the other way. The major averages fell to session lows soon after Anthropic began trading, as investors took profits on the AI trade. The Nasdaq Composite dropped about 2% after gaining as much as 2% earlier in the session, and the Dow Jones Industrial Average lost about 1,000 points. Steve Sosnick, chief strategist at Interactive Brokers, told CNBC the premarket rally had faded even before Anthropic began trading. He called it the latest round of “sell the rally” trading. Nvidia (NVDA) fell about 3%, and the S&amp;P 500 headed toward a sixth straight loss, the AP reported. The Cboe Volatility Index, Wall Street’s fear gauge, climbed to about 28 after touching nearly 29 shortly after Anthropic began trading. That was its highest level since March, up from about 24.6 at Wednesday’s close. The bitcoin price moved in step with the Nasdaq through the afternoon. Crypto stocks erase their morning gains Crypto stocks followed the Nasdaq lower in late-afternoon trading, about 3:55 p.m. ET. Strategy (MSTR) traded near $86.70, down about 4% on the day. Galaxy Digital (GLXY) dropped about 6.9%, the steepest decline in the group. Coinbase (COIN) slipped about 0.9% to near $109.50, while Circle (CRCL) fell about 2.2%. Bitcoin miners gave back their early rally too. IREN (IREN) fell about 5.6%, CleanSpark (CLSK) lost about 5.4% and MARA Holdings (MARA) declined about 4.2%. Riot Platforms (RIOT) was down about 2.9%. Fed hike risk keeps pressure on the bitcoin price The Fed remains a headwind. Bets on a December rate hike have grown after minutes from the October meeting showed more policymakers backing higher rates, and some officials cal</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Flash-Crashes-from-61000-to-58000-as-Market-Waits-For-Support.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Flash-Crashes-from-61000-to-58000-as-Market-Waits-For-Support.jpg" medium="image"/>
-</item>
-<item>
 <title>MoonPay seeks US bank charter for stablecoin, custody services</title>
 <link>https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services</link>
 <guid isPermaLink="false">7473caa32b70d7a8855e5e409b2e48b635a4a418410e710ae3f564dddd199cb5</guid>
@@ -574,17 +629,6 @@
 <description>A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Darius Dale: 2027 Should Be a “Great Year for Bitcoin” as Fed Rate Cuts Come</title>
-<link>https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come</link>
-<guid isPermaLink="false">42047e7e5b7aa56bd0a74069181495f331a29809e477262446f90c241b8c63dc</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 20:15:14 +0000</pubDate>
-<description>▶ Bitcoin Magazine Darius Dale: 2027 Should Be a “Great Year for Bitcoin” as Fed Rate Cuts Come Darius Dale, Founder &amp; CEO of 42 Macro, joins BMTV to answer whether the Fed is making a policy mistake with a December rate hike priced in. He says it isn’t, because a policy mistake would mean over-tightening the economy into a significant slowdown, and by 42 Macro’s models the U.S. is nowhere near a recession. He describes an economy that is booming, with inflation as a lagging indicator to growth that is still running hotter than the Fed wants. Looking further out, he says surprising and dramatic easing in 2027 and beyond is still on the table and highly likely to occur. He also agrees that 2027 should be a great year for Bitcoin. Cash App: For a limited time, new customers can get $21 added to their balance. Just use the code BMTV21 when you sign up, and send at least $5 to a friend in the first two weeks. Terms apply. Bitcoin services by Block, Inc. See the Bitcoin disclosures at cash.app/legal/podcast. Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Is the Fed Making a Policy Mistake? 01:27 A Booming Economy and Sticky Inflation 02:33 Dramatic Easing in 2027 and Bitcoin 02:52 AI and the Productivity Boom 05:29 The Case for a Fed-Treasury Accord 08:47 Bitcoin, the Canary in the Liquidity Coal Mine 10:57 Energy, Inflation and Global Liquidity 12:23 Japan, the Yen and the Bank of Japan 13:56 Bullish on 2027, Sloppy Next Few Months 17:23 Anthropic’s IPO and the AI Trade 21:20 China’s Open Source Models and AI Chips 23:25 Bitcoin With No Boogeyman to Blame DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Darius Dale: 2027 Should Be a “Great Year for Bitcoin” as Fed Rate Cuts Come first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
-<enclosure url="https://img.youtube.com/vi/GVYglll7Wgs/hqdefault.jpg" type="image/jpeg"/>
-<media:content url="https://img.youtube.com/vi/GVYglll7Wgs/hqdefault.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading</title>
@@ -730,17 +774,6 @@
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/anthropic-ipo-1126_g2304538421.jpg" medium="image"/>
 </item>
 <item>
-<title>I Built an AI Chatbot for $0. Here’s the Exact Stack.</title>
-<link>https://www.entrepreneur.com/business-news/i-built-an-ai-chatbot-for-0-heres-the-exact-stack</link>
-<guid isPermaLink="false">5606d099fb22bb6ea0f4d35f1c2baa5487ba31509435db5b1ea0e73cc9dedbc0</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-<description>You don't need money to ship a real, production-grade AI chatbot. You need to know which free tiers to stack. Here's the exact toolchain.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/building-chatbot-1126-g-2257858694.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/building-chatbot-1126-g-2257858694.jpg" medium="image"/>
-</item>
-<item>
 <title>Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks</title>
 <link>https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks</link>
 <guid isPermaLink="false">7a15e20c3f0e98a44ccd5b4260bbbbc074225052e8e4cd2d401e1b6dc5800acd</guid>
@@ -838,17 +871,6 @@
 <description>The Claude maker beat SpaceX's original share sale, though not its expanded final IPO. Here's who got the money and why the computing bill could be even bigger.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>More support for households reliant on heating oil</title>
-<link>https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">23704d6b091a33a8f54ae323c23074df81b1c9c35da00e70f5409cae2113d851</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 15:22:31 +0000</pubDate>
-<description>North Northamptonshire Council is encouraging eligible residents to apply for more support.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4a6d/live/4e7d2e10-1ed5-11f1-b8f6-b15aa2adfcf4.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4a6d/live/4e7d2e10-1ed5-11f1-b8f6-b15aa2adfcf4.jpg" medium="image"/>
 </item>
 <item>
 <title>Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'</title>
@@ -1025,17 +1047,6 @@
 <description>The EU’s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SBR8JPRT5JWCMRB1JZBYW5/update.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SBR8JPRT5JWCMRB1JZBYW5/update.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut</title>
-<link>https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut</link>
-<guid isPermaLink="false">5d123660f9cbaf61c6e4c9555cf12a345c8887ce96f4a6d724492d1289989586</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 07:55:56 +0000</pubDate>
-<description>Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SAQX2C3P4SKA31S67KZP1W/article-covers-259292-anthropic-launches-pac-ai-policy-tensions-washington-960x640.webp" type="image/webp"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SAQX2C3P4SKA31S67KZP1W/article-covers-259292-anthropic-launches-pac-ai-policy-tensions-washington-960x640.webp" medium="image"/>
 </item>
 <item>
 <title>Gilts v kilts: What is happening with Scottish government bonds?</title>
@@ -1410,17 +1421,6 @@
 <description>Europe hopes to be a leader in a new generation of computer chips which use light to process data.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
-</item>
-<item>
-<title>Speed camera fault may have allowed drivers to escape fines</title>
-<link>https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">581e2a01b93253d3acaf9dd0490ba6064e64734c090a4f4432db1bf76b75c285</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Tue, 17 Nov 2026 20:04:54 +0000</pubDate>
-<description>The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a189/live/29535f50-e28a-11f1-b166-176de21e2352.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a189/live/29535f50-e28a-11f1-b166-176de21e2352.jpg" medium="image"/>
 </item>
 <item>
 <title>Government backs welfare shake-up to prevent 'lost generation'</title>

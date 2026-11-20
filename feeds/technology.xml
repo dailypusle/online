@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why you shouldn't depend on GTA 6 to auto-save</title>
+<link>https://www.engadget.com/2323929/why-you-shouldnt-rely-on-gta-6-auto-save</link>
+<guid isPermaLink="false">f429a070880c9de84828251b00accc55d36b5869857fc7a9fe74b0bb5ba9b28d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 23:48:00 +0000</pubDate>
+<description>We explain how GTA 6's auto-save system works, so you don't accidentally lose progress in the massive game.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-you-shouldnt-depend-on-gta-6-to-auto-save/l-intro-1795168337.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-you-shouldnt-depend-on-gta-6-to-auto-save/l-intro-1795168337.jpg" medium="image"/>
+</item>
+<item>
+<title>YouTube could pay $3 billion to settle social media addiction lawsuits with school districts</title>
+<link>https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts</link>
+<guid isPermaLink="false">657a619d6a0ba62911b2d73df03d7a9f5fed901df150610f2f51cdd8bc9cb324</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 23:40:10 +0000</pubDate>
+<description>YouTube is facing a growing number of lawsuits alleging that its platform is designed to be addictive and that it has harmed teens.</description>
+<enclosure url="https://www.engadget.com/img/gallery/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/l-intro-1795217872.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/l-intro-1795217872.jpg" medium="image"/>
+</item>
+<item>
 <title>Trump FCC declares California isn't allowed to enforce phone service rules</title>
 <link>https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att</link>
 <guid isPermaLink="false">792d87734c7dd9bb110a7bf3ae1134b33302a7b222ecc1abcfc0a66a57d06e03</guid>
@@ -642,17 +664,6 @@
 <media:content url="https://www.engadget.com/img/gallery/uber-kids-will-let-parents-book-trips-for-their-child-aged-10-to-12-years-old/l-intro-1795155282.jpg" medium="image"/>
 </item>
 <item>
-<title>Google's latest home page redesign makes Gemini even more prominent</title>
-<link>https://www.engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent</link>
-<guid isPermaLink="false">e77659e4c65275c3b101a5ed354c347726caf911bfec0f0ed785896765b5aafd</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 05:45:38 +0000</pubDate>
-<description>Google is doubling down on Gemini AI in its desktop search, despite complaints from users and employees alike.</description>
-<enclosure url="https://www.engadget.com/img/gallery/googles-latest-home-page-redesign-makes-gemini-even-more-prominent/l-intro-1795153348.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/googles-latest-home-page-redesign-makes-gemini-even-more-prominent/l-intro-1795153348.jpg" medium="image"/>
-</item>
-<item>
 <title>Big Tech's compliance with EU market rules is performative, consumer group says</title>
 <link>https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066</link>
 <guid isPermaLink="false">514fccbb7a84b6ab82d6094e6bc6e47ce98ffa08b5b3255d95cb9673e1d729d7</guid>
@@ -695,17 +706,6 @@
 <description>The Germ Network encrypted messaging client, known as Germ DM, became available for Android on Wednesday, and made a bigger splash than its iOS touchdown back in 2023. "Our usage took a 20x jump yesterday from our Android launch ," co-founder Tessa Brown, a communications scholar and former Stanford lecturer, told The Register in an interview. "Android has been really exciting for us because not only is it 70 percent of the global mobile market, but we rolled out on iOS first. People were so excited to use Germ for their end-to-end encrypted Bluesky DMs, but half of their friends couldn't talk to them." Building a new messaging platform isn't easy, much less one with credible end-to-end encryption. Co-founder Mark Xue hails from Apple, where he worked as a privacy engineer on systems like iMessage and FaceTime. "At the core level, the end-to-end encryption is built on a standardized encryption and Messaging Layer Security," Xue said. "The premise of Messaging Layer Security was to be as good as Signal and deployable by many, many different parties in different applications, which we're taking advantage of to extend the reach of that encryption." Xue said the app is built with its own transport protocol to minimize the amount of message metadata, adding that while the team hasn't gotten around to a formal security audit, it's a step they're considering. Germ Network's goal, said Brown, is to give people more confidence when they communicate. "We do that by giving you more tools to protect your identity, to control what you're sharing with whom," she explained. Instead of using a person's phone number as an identity key, Germ allows users to create cards which represent distinct identities on the network. "Instead of sharing your number, you share a card," Brown explained. "You can build multiple cards; they're not mutually discoverable. And our vision for the product that will continue shipping over the coming years is that these cards become a more intelligent way to manage your social life, even your work life." At some point, AI might play a role in that, but both Xue and Brown expressed reservations about the current state of play. Citing concerns Signal has raised about the integration of AI and messaging, Xue said, "The products today that I might characterize as technology demos, they're most powerful when they run on someone else's computer. So you end up with these systems where you upload all your messages or you give another entity the power to observe your computing, and that's extremely dangerous for what we protect as private content." Xue noted rapid progress toward addressing information exposure concerns and therefore plans to explore the kinds of smart tooling that users want while also meeting security and privacy requirements. "I think a lot of the AI conversation sometimes is a hammer in search of a nail," said Brown. "But people do want more tools to make sense of their busy lives and following our consumers, our users, and w</description>
 <enclosure url="https://image.theregister.com/?imageId=5311190&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311190&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks</title>
-<link>https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks</link>
-<guid isPermaLink="false">e032154a5f1bc2f23ac06129e34b3c41a588943688e95247fd0c4f4340490119</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 00:03:22 +0000</pubDate>
-<description>Apple is is hiring a senior engineering manager to build "capable, reliable and safe" agentic tools.</description>
-<enclosure url="https://www.engadget.com/img/gallery/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/l-intro-1795132872.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/l-intro-1795132872.jpg" medium="image"/>
 </item>
 <item>
 <title>Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up</title>

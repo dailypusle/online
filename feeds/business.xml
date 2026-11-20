@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Anthropic shares fall a day after blockbuster opening</title>
+<link>https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">53ba164e0140f69fcddb53a03b7e6640425abacca6403a17447a8b1adaa66437</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 15:02:44 +0000</pubDate>
+<description>Other tech companies have also taken a hit as share markets broadly slump.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg" medium="image"/>
+</item>
+<item>
+<title>Block Says Most Bitcoin Payments on Square Are for Coffee and Food</title>
+<link>https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report</link>
+<guid isPermaLink="false">d1331bcf555c565616a6941f219be8175493911b4e778bd857a4dd9a2a13dcd2</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 14:45:00 +0000</pubDate>
+<description>Bitcoin Magazine Block Says Most Bitcoin Payments on Square Are for Coffee and Food Most bitcoin payments at Square sellers are small, everyday purchases at coffee shops and restaurants, Block said in a new report that it hopes will inform a debate in Congress over a tax break for small crypto purchases. The report, “The State of Bitcoin Payments,” covers completed bitcoin payments at U.S. Square sellers from Nov. 1, 2025, to Oct. 15, 2026. The median payment was about $13, and the average was about $29. Food and drink businesses took 72% of those payments, Block found. That is a bigger share than the category’s 67.5% slice of regular card payments on Square over the same period. “Most bitcoin payments are small and routine,” the company wrote on X Thursday, calling the report one of the first datasets on how people spend bitcoin in the local economy. Coffee, quick bites and repeat visits Coffee shops and fast food businesses accounted for 62.6% of the bitcoin payments in the food and drink category, with a median payment of $9.10. Grocery stores made up a smaller share but had the highest average payment in the group, at $60.73. Small tickets dominated. About 42% of bitcoin payments on Square were under $10, and 65.1% were under $20. Those sub-$20 payments made up just 19.1% of total payment value, though, with a few larger purchases accounting for much of the dollars spent. Customers also came back. Among Cash App users who paid with bitcoin at least twice at the same merchant, the median was three purchases per customer-merchant pair. About 44% of bitcoin payments from Cash App were repeat payments, and 86% of those came within 30 days. The activity was not limited to Block’s own app. External Lightning wallets such as Strike, Wallet of Satoshi, Phoenix and Coinbase handled 56.6% of Square bitcoin payments and about 66% of payment value, while Cash App wallets made up the rest. Square sellers can choose how much of each sale they keep in bitcoin, and Square converts the rest to dollars automatically. Block said zero-fee processing for bitcoin payments on Square has been extended through Dec. 31, 2027. Local governments are testing similar setups, with Miami-Dade County now taking bitcoin for property taxes and converting it to dollars. A push for a de minimis bitcoin exemption Block tied the data to tax policy. Under current U.S. federal rules, paying with bitcoin generally means calculating a capital gain or loss on every purchase, even a $10 coffee, the company said. A Morning Consult survey that Block commissioned found that 23.6% of businesses that don’t accept bitcoin cite tax and accounting complexity as a reason. That is about the same share that cite regulation, refunds or price swings. Among businesses that have considered taking bitcoin but haven’t, the figure was 27%. Consumers pointed to friction, too. Morning Consult surveyed 8,669 U.S. adults who are aware of bitcoin in August. Among those who don’t own it, 29.6% said they would</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Block-Says-Most-Bitcoin-Payments-on-Square-Are-for-Coffee-and-Food.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Block-Says-Most-Bitcoin-Payments-on-Square-Are-for-Coffee-and-Food.jpg" medium="image"/>
+</item>
+<item>
+<title>Thousands join cost of living protests across Europe</title>
+<link>https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">482148d540b9baa130eb9c67490c6106235fcf7c4d3b47f6b5ce12ea4744f8d9</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 14:43:39 +0000</pubDate>
+<description>Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2106/live/d570a170-e4e8-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2106/live/d570a170-e4e8-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping</title>
+<link>https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price</link>
+<guid isPermaLink="false">0a55d25ca80fa329942637e20a950f05887ec29ef48a2fac724ef42ee0ad2726</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 14:25:00 +0000</pubDate>
+<description>Bitcoin Magazine Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping Bitcoin is trading just above its realized price, the average cost of every coin on the network, and a break below that level would put the average holder at a loss for the first time since early 2023, Glassnode, an onchain analytics firm posted Friday. The price of bitcoin sat near $61,700 on Friday after sliding below $62,000. The realized price is a measure of what holders paid, not where the market trades. When bitcoin trades above it, the typical coin is sitting on a gain. Below it, the typical coin is underwater. The margin is thin. The firm said the MVRV ratio, which compares bitcoin’s market value with its realized value, sits “just above 1.” A reading of 1 means the market price has fallen all the way to the realized price. What the realized price measures Realized price values each coin at the price it last moved on the blockchain, then averages across the supply. Look Into Bitcoin describes it as bitcoin’s average cost basis. Because it tracks the price when coins last changed hands, it moves far more slowly than the market. The MVRV ratio expresses the same idea as a multiple. Above 1, holders are in profit on average. Below 1, they are not. A reading just above 1 means the market price is only a sliver higher than what the average coin cost. The firm did not give the exact realized price in its post, which included a chart. That leaves the exact cushion between today’s price and the average cost basis unstated. Bitcoin Magazine Pro’s full realized price chart sits behind a login, so the current level could not be confirmed independently for this report. “The average Bitcoin holder is still in profit,” the firm wrote. “The margin is thin.” Outflows and liquidations add to the pressure The slide has come with heavy selling from funds. BlackRock’s iShares Bitcoin Trust (IBIT) lost about $541 million on Thursday, its largest one-day outflow since it launched in January 2024, Bloomberg reported . U.S. spot bitcoin ETFs lost about $582 million in total that day. The selling stands out against the buying earlier in the fall. Institutions piled into bitcoin ETFs through the third quarter, pushing their combined holdings to a record, Bitcoin Magazine reported this week. Leveraged traders took losses too. More than $700 million in leveraged crypto positions were liquidated over 24 hours, and about 86% of them were bets on higher prices. Bitcoin accounted for roughly $200 million of the total. CoinShares sees range trading through 2027 CoinShares head of research James Butterfill said the drop is part of a longer downturn rather than the start of a new one. “I see this as a continuation of the existing bear market rather than the start of another,” he said in a note dated Nov. 18. The note frames Friday’s price action as a late stage of a decline that began well before November. Butterfill pointed to whale selling that weighed on prices from late 2025,</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/2026-11-12-morning.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/2026-11-12-morning.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia</title>
+<link>https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia</link>
+<guid isPermaLink="false">38039f0f3fcd2d8411bebf4ec71a9004055d95bb9d975694ca77a35c71d4ed71</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 14:00:15 +0000</pubDate>
+<description>Bitcoin Magazine Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia The bitcoin price slipped to near $61,500 on Friday morning, according to Look Into Bitcoin data, as a selloff in technology stocks that followed Anthropic’s Nasdaq debut spread to Asian markets and dragged bitcoin to its lowest level since July. Bitcoin first broke below $62,000 on Thursday evening, after Thursday afternoon’s report showed it giving back a rebound toward $64,000. The bitcoin price then slid to nearly $61,200 during Asian trading before bouncing back above $61,700. Friday marks a third straight day of losses. Asian stocks extend the AI rout The selling started in Asia. South Korea’s Kospi slid more than 5%, with chipmakers SK Hynix and Samsung Electronics down around 6%. The Korea Exchange halted program selling for five minutes after the drop, while Japan’s Nikkei fell as much as 4.85% to a seven-month low. U.S. futures pointed lower too. Nasdaq-100 futures fell more than 1.7% and S&amp;P 500 futures dropped 0.8%, Yahoo Finance reported. Gold futures lost 3%. The S&amp;P 500 is pointing to a seventh straight daily decline, its longest losing streak since the start of the COVID-19 pandemic in 2020. Anthropic shares fell 8% in premarket trading after closing their first session at $97.17, up 17% from the $83 IPO price. Nvidia was down about 2.4% and AMD fell nearly 7%, CNBC reported. Hawkish signals from Federal Reserve officials this week also weighed on sentiment, Reuters said. ETF outflows and liquidations pressure the bitcoin price Bitcoin funds are feeling the pressure. BlackRock’s iShares Bitcoin Trust (IBIT) recorded $541.1 million in net outflows on Thursday, its largest single-day outflow since launch. That topped the previous record of $528.3 million set on Jan. 30. The fund bled $2 billion over nine straight days of outflows earlier this month. Leveraged traders took heavy losses as the bitcoin price broke support. Bitcoin liquidations hit $712.9 million over 24 hours, with $614 million coming from long positions. Open interest in bitcoin futures fell to $18 billion from $20 billion a week ago, and funding rates flipped broadly negative as traders unwound their bets. Traders are now watching whether the bitcoin price can hold the $60,000 area. A large pocket of long positions sits in the $60,500 to $60,900 band, just below the current price, and could come into play on a further drop. Bitcoin is also on track for a seventh straight weekly loss, which would be its second-longest losing streak after nine weeks of declines in 2022. Crypto stocks slide before the bell Crypto stocks pointed lower in premarket trading. Strategy (MSTR) traded near $83.90, down about 2.6% from Thursday’s close of $86.13, after the stock fell for a sixth straight day on Thursday. Coinbase (COIN) slipped about 2.7% to near $106. Bitcoin miners fell harder. IREN (IREN) dropped about 4.4%, CleanSpark (CLSK) lost about 3.6% and MARA Holdings (MARA) declined about 3.4%. Riot Pl</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-May-Be-Battered-but-Analysts-See-Structural-Adoption-Story-Still-Intact.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-May-Be-Battered-but-Analysts-See-Structural-Adoption-Story-Still-Intact.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 13:29:58 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
 <title>Morning Minute: Anthropic IPO Pops, Sinks Markets</title>
 <link>https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets</link>
 <guid isPermaLink="false">57567d3b702b5896532110e8dd2ab4caf21132c214848c9ac320fbe0246ea400</guid>
@@ -13,6 +79,17 @@
 <description>A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Lagarde warns Europe could miss chance to unify tokenized markets</title>
+<link>https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules</link>
+<guid isPermaLink="false">16674e4c63325df267e7e0db488fcf3c28fc4c827aa6dc376052a07216c80e4e</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 13:21:39 +0000</pubDate>
+<description>The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg" medium="image"/>
 </item>
 <item>
 <title>GTA 6 drives spike in download demand, as estimated sales top $2.3bn</title>
@@ -202,17 +279,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
 </item>
 <item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
-</item>
-<item>
 <title>Institutions pile back into US Bitcoin ETFs in Q3 after selling streak</title>
 <link>https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak</link>
 <guid isPermaLink="false">a568d6b34a4467526bca3850f20c972eb129501db22c8944476a70dd0583526e</guid>
@@ -224,7 +290,7 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg" medium="image"/>
 </item>
 <item>
-<title>Eating at your desk? The dos and don'ts of lunch at work</title>
+<title>Fish and eggs al desko? The dos and don'ts of lunch at work</title>
 <link>https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">c470866a6d60f0365183ce7adb2890caa310219d4c068344eebbe6ad753eec29</guid>
 <source>BBC Business</source>
@@ -499,17 +565,6 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Institutions-are-Piling-Into-Bitcoin-ETFs-Pushing-Holdings-to-a-Record.jpg" medium="image"/>
 </item>
 <item>
-<title>Bitcoin’s Last Line of Defense Is $58K</title>
-<link>https://bitcoinmagazine.com/videos/bitcoins-last-line-of-defense-is-58k</link>
-<guid isPermaLink="false">6cb0e7b050fbfff3cf5641cbfbf27d63292b0938e4d5c680ff8ec581bd97de76</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 19:12:55 +0000</pubDate>
-<description>▶ Bitcoin Magazine Bitcoin’s Last Line of Defense Is $58K Katie Stockton, Founder of Fairlead Strategies, joins BMTV as Bitcoin falls below its 200-week moving average, sitting at about $63,000 per the host. She says her longer-term indicators for Bitcoin are somewhat constructive, pointing to a major low in June and July near long-term support between about $58,000 and $60,000. Bitcoin is headed back toward that support on negative short-term momentum, and she says there are no signs yet that the retracement is done. As long as it holds that range, she says, it preserves the potential for a long-term basing phase, backed by indicators like the monthly MACD and monthly stochastic oscillator. Square: Get up to $200 off Square hardware when you sign up at http://square.com/go/bmtv ! Offer expires December 31, 2026 at 11:59 pm PST. Offer for $40 off the cost of one Square Stand, $75 off the cost of one Square Terminal, $100 off the cost of one Square Handheld, or $200 off the cost of one Square Register, excluding applicable taxes. Limited to one discount per product type per seller account. Each code is limited to one redemption per account holder. Valid for new Square customers located in the US only. Offer not valid with guest checkout. Square reserves the right to modify, revoke or cancel the offer at any time. Offer cannot be combined with any other coupon. Void where prohibited, not redeemable for cash, and non-transferable. Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Bitcoin Falls Below Its 200-Week Moving Average 00:34 Long-Term Support at $58,000 to $60,000 01:29 Are Enough Indicators Firing for a Bottom? 02:29 Support Discovery and Finding Its Footing 03:10 Anthropic’s Debut and a Seasonal Relief Rally 04:29 Weakening Momentum on the Monthly Charts 04:50 Gold vs. Bitcoin: Which Turns Higher First? 06:50 Where Bitcoin Could Find Support Next 08:08 How a Technical Analyst Assigns Probabilities 09:45 Technical Indicators Anyone Can Track 10:27 Bitcoin’s Upside Levels From $78K to $92K DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Bitcoin’s Last Line of Defense Is $58K first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
-<enclosure url="https://img.youtube.com/vi/sqFLEyEftIQ/hqdefault.jpg" type="image/jpeg"/>
-<media:content url="https://img.youtube.com/vi/sqFLEyEftIQ/hqdefault.jpg" medium="image"/>
-</item>
-<item>
 <title>Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street</title>
 <link>https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo</link>
 <guid isPermaLink="false">bce5d856ee64d95110d925bde8936a8a290e3a5ff000b7dad75062580e6d9c29</guid>
@@ -631,17 +686,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/anthropic-ipo-protests-nasdaq-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000</title>
-<link>https://bitcoinmagazine.com/markets/sygnum-bitcoin-new-high-128000</link>
-<guid isPermaLink="false">b2863c4e9da03809a9c175acf35fd9b57c6c3f50a052de8538ed73d28e501c66</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 17:45:00 +0000</pubDate>
-<description>Bitcoin Magazine Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000 Sygnum Bank estimates that bitcoin could reach a new all-time high near $128,000. The Swiss digital asset bank laid out the scenario in its 2027 Sygnal outlook on Thursday, alongside a call that bitcoin and ether will both set new highs while the broader market stays narrow. The report also frames the current downturn as the shallowest bear market for bitcoin to date. Sygnum puts the drawdown at around 54%, compared with declines of more than 70% in previous cycles, and says digital assets enter 2027 with lower structural volatility and stronger fundamentals. The outlook arrives as bitcoin trades near $63,000 after six straight weekly losses and a drop below its 200-week moving average. Sygnum’s case is that the market has changed since earlier cycles, not that the slide is over. Sygnum describes a more mature market. Volatility is increasingly driven by broader dollar liquidity and market structure, it said, and institutions have added new channels through ETFs, leveraged trading and crypto-backed credit. By the end of October, stablecoin supply stood near $298 billion and tokenized real-world assets exceeded $39 billion. JUST IN: Switzerland's Sygnum Bank estimates that Bitcoin could hit a new high of $128,000. Its 2027 outlook also calls this Bitcoin's "shallowest bear market yet". pic.twitter.com/KWyFALBAR8 — Bitcoin Magazine (@BitcoinMagazine) November 19, 2026 How bitcoin gets to $128,000 The estimate rests on a rotation out of technology stocks. Digital assets are worth about 6% of the Nasdaq’s market value, and Sygnum calculates that if 0.75% of Nasdaq value, roughly $360 billion, moved into crypto, total market capitalization could rise by more than 60%. In that scenario, bitcoin would reach a new high near $128,000. The report does not put a date on it and describes the figure as an estimate built on Sygnum’s own calculations, not a price target. It also notes that a sell-off in AI stocks could spill into crypto. Currently, Anthropic’s record $81 billion IPO is set to open about 25% to 30% above its $83 offering price, which has lifted AI and chip stocks, but worries about higher interest rates have pulled the Nasdaq back from an early 2% gain to about 0.3%. Bitcoin moves into the reserve bucket Behind the price call is a shift in how institutions treat bitcoin. Sygnum predicts it will move out of the tactical sleeve of portfolios and into the “strategic reserve bucket,” competing with gold for capital that wants protection against currency debasement. BlackRock, Morgan Stanley and Bank of America each recommend allocations of 1% to 4%. The report says 2027 should reward selection over broad market exposure. Sygnum expects adoption to concentrate in stablecoins, tokenized assets, bitcoin as an institutional macro asset and tokens with proven usage, and it believes investors will be rewarded for choosing assets with real usage and revenue. The math is simp</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Swiss-Bank-Sygnum-Says-Bitcoin-Could-Reach-New-High-Near-128000.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Swiss-Bank-Sygnum-Says-Bitcoin-Could-Reach-New-High-Near-128000.jpg" medium="image"/>
-</item>
-<item>
 <title>What Are Perpetual Futures? How Crypto's Most Popular Derivative Works</title>
 <link>https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works</link>
 <guid isPermaLink="false">d0b1898c14af5fb03987db51e3ac6a55ffef12327d2c873300b4dd628170542d</guid>
@@ -673,17 +717,6 @@
 <description>The Claude maker's shares could debut at $110, pushing its valuation toward $2 trillion as enthusiasm for its historic IPO lifts the broader technology sector.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>CLARITY Act Likely Dead Until 2027, Top Crypto Lawmakers Warn</title>
-<link>https://bitcoinmagazine.com/news/french-hill-clarity-act-unlikely-before</link>
-<guid isPermaLink="false">4f9d67024d34a1876bc1d5c749c52ce10304e2de531b6cc6595b5fd83cefdea7</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 16:45:18 +0000</pubDate>
-<description>Bitcoin Magazine CLARITY Act Likely Dead Until 2027, Top Crypto Lawmakers Warn House Financial Services Committee Chairman French Hill said the CLARITY Act is unlikely to pass before the year ends, leaving the crypto market structure bill to a new Congress that Democrats will control. Hill spoke Thursday at the Capitol Crypto Forum in Washington. “We never give up hope in a lame duck, but it is lame, and therefore the chances are not high,” the Arkansas Republican said . He added that he plans to make market structure legislation his pitch in the next Congress, which begins in January. “I regret that it was not something we could get done effectively in this Congress,” Hill said. He said 78 Democrats voted for the CLARITY Act in the House and that he expects that support to continue in the new Congress. Hill also called it encouraging that Rep. Maxine Waters, the committee’s top Democrat, circulated a memo to House Democrats naming digital asset market structure as a topic she intends to work on if she becomes chair. Senate floor time is running out Sen. Bernie Moreno, the lead sponsor of the CLARITY Act in the Senate, told the same forum there is “no scenario” in which crypto legislation passes the chamber during the lame-duck session. Funding the government, the National Defense Authorization Act and the farm bill will take priority, according to The Hill, and the session is set to end in less than a month. The Senate blocked the CLARITY Act on Sept. 15, voting 49-50 on a procedural motion that needed 60 votes. All Democrats and four Republicans opposed it, CBS News reported. Sen. Thom Tillis entered a motion to reconsider, which keeps the option of another vote alive, but the bill dies when this Congress ends Jan. 3 unless the lame-duck session revives it. The House passed the legislation 294-134 in July 2025. President Donald Trump urged lawmakers in August to send it to his desk, but Democrats objected that its ethics provisions did not go far enough to address his potential conflicts of interest in crypto, and regulators have since moved ahead on their own, including an SEC exemption for tokenized stocks. Democrats prepare to take over The industry is now scrambling to repair its relationship with Democrats, Politico reported Thursday. The industry spent $55 million trying to defeat Sen.-elect Sherrod Brown of Ohio, who won his seat back, and Democrats are set to retake both the House and Senate in January. Sen. Ruben Gallego, a crypto-friendly Arizona Democrat who spent months negotiating the Senate bill, gave Politico’s Jasper Goodman a blunt assessment of the industry’s political prospects. “They’re f***ed,” Gallego said, according to a post from journalist Eleanor Terrett. Terrett has reported that House Democrats are discussing turning Waters’ Crypto Investor and Consumer Bill of Rights into their own market structure bill. The proposal would give the SEC a bigger role and the CFTC a smaller one, and she cited three industry sources wh</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/CLARITY-Act-Likely-Dead-Until-2027-Top-Crypto-Lawmakers-Warn.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/CLARITY-Act-Likely-Dead-Until-2027-Top-Crypto-Lawmakers-Warn.jpg" medium="image"/>
 </item>
 <item>
 <title>M&amp;T aims to ‘dial up’ credit card rewards</title>
@@ -939,17 +972,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SAQX2C3P4SKA31S67KZP1W/article-covers-259292-anthropic-launches-pac-ai-policy-tensions-washington-960x640.webp" medium="image"/>
 </item>
 <item>
-<title>Increase in direct cremations since pandemic</title>
-<link>https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">b57113ab172e75fa96f6ba877f7d00611cc24bc68c9c3e8f56047b98d55417f8</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 06:23:22 +0000</pubDate>
-<description>A 2026 Cost of Dying Report found direct cremation was now chosen for about one in five funerals.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
-</item>
-<item>
 <title>Gilts v kilts: What is happening with Scottish government bonds?</title>
 <link>https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">5a9cd3303a442ab6cd0447e5d0ff5fe0bf7e0e5071d2923efd7a62245c37c2db</guid>
@@ -1003,17 +1025,6 @@
 <description>The multi-billionaire also said he was "not Maga", distancing himself from the political movement linked to Trump.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump administration unveils new center to choke off scam payments</title>
-<link>https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments</link>
-<guid isPermaLink="false">a62114b72cf8ca094f151699ad71f38eacebbaba8d8dcd636f63492d5187520e</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 01:45:33 +0000</pubDate>
-<description>Americans reported more than $17.7 billion in online fraud losses in 2025.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7RQMHGXVYSK048FKFF66X40/scam-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7RQMHGXVYSK048FKFF66X40/scam-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Who are the investors ready to jump on Anthropic?</title>
@@ -1335,17 +1346,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Security flaw found in Java, world's third-largest programming language</title>
-<link>https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">4122aa6872a279466aaa8dc85bd3cb3d34bbc7210633d2d89be7ed5f3bea0e3c</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 08:47:06 +0000</pubDate>
-<description>The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
-</item>
-<item>
 <title>How important are Nvidia and Jensen Huang to the US economy?</title>
 <link>https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">9194ddb079718aecbab35234f6fc5dc965810da128cfd47406029b18cfab4a2d</guid>
@@ -1399,17 +1399,6 @@
 <description>Microsoft's new coding, cybersecurity and image models challenge bigger rivals on performance and price. The company's bet is that doing one job exceptionally well matters more than doing absolutely everything.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/microsoft-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/microsoft-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO</title>
-<link>https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback</link>
-<guid isPermaLink="false">97512fed7fec657909533aac055cdb25998a9b4dd69454c8a6cc0210d0ee86d9</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 17 Nov 2026 22:39:53 +0000</pubDate>
-<description>Nvidia's board rejected a comeback for its ousted co-founder as it hired a search firm, backed interim CEO Colette Kress, and tightened oversight of chip exports to China.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>Speed camera fault may have allowed drivers to escape fines</title>

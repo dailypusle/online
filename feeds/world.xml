@@ -4,15 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>White House replaces national cyber director amid widespread tech outages</title>
+<link>https://abcnews.com/Politics/white-house-replaces-national-cyber-director-amid-widespread/story?id=138310514</link>
+<guid isPermaLink="false">b28cca8ba61fe882637a60c1364643abc7e245cc21911b55bcc2e52a8738feb2</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 20 Nov 2026 14:55:13 +0000</pubDate>
+<description>White House National Cyber Director Sean Cairncross has been fired, according to a source close to the White House.</description>
+<enclosure url="https://s.abcnews.com/images/US/Sean-Cairncross-ap-gmh-261120_1795186372761_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/Sean-Cairncross-ap-gmh-261120_1795186372761_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Iran live updates: Republicans block war powers resolution</title>
+<link>https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto?id=138171071</link>
+<guid isPermaLink="false">bb33a888ff666c42d2d84827c604115119fc1cb2ba6f04e467af7d338bc1ff69</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 20 Nov 2026 14:39:30 +0000</pubDate>
+<description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
+<enclosure url="https://s.abcnews.com/images/International/donald-trump-8-rt-gmh-261118_1794974376390_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/donald-trump-8-rt-gmh-261118_1794974376390_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>House Democrat probes agencies' use of messaging apps to discuss official business</title>
 <link>https://abcnews.com/Technology/wireStory/house-democrat-investigates-government-agencies-messaging-apps-discuss-138315690</link>
 <guid isPermaLink="false">2f26924ec3e77fb130688788a12ce60fb01f4363e2ff7eb9b5437265d62cefd7</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 20 Nov 2026 12:47:58 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 14:12:57 +0000</pubDate>
 <description>A top House Democrat is investigating the use of encrypted messaging apps by Justice Department employees to communicate official business</description>
-<enclosure url="https://s.abcnews.com/images/US/wirestory_ce83539343241a4d340eb67cdd20cda6_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wirestory_ce83539343241a4d340eb67cdd20cda6_16x9_1600.jpg" medium="image"/>
+<enclosure url="https://s.abcnews.com/images/US/justice-1-ap-gmh-261120_1795183595200_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/justice-1-ap-gmh-261120_1795183595200_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain</title>
@@ -59,17 +81,6 @@
 <media:content url="https://s.abcnews.com/images/US/LA-earthquake-friday_1795175700145_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>El Salvador: Nayib Bukele, self-proclaimed “coolest dictator on earth”, is seeking a third term</title>
-<link>https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term</link>
-<guid isPermaLink="false">1aebd0b55990d2b3cb696f1e7a5cce2b8883b2c786a6222f602e612cbd9d1c9a</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 12:07:14 +0000</pubDate>
-<description>🇸🇻 El Salvador’s President Nayib Bukele, who calls himself the “coolest dictator on earth”, is seeking a third term after changing the Constitution to scrap presidential term limits. His war on gangs has made him hugely popular, but also sparked serious human rights concerns.</description>
-<enclosure url="https://s.france24.com/media/display/86fc3e64-e4d9-11f1-a0c6-ebb478925cf0/w:1024/p:16x9/Salvador-00-01-50-03-Still001.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/86fc3e64-e4d9-11f1-a0c6-ebb478925cf0/w:1024/p:16x9/Salvador-00-01-50-03-Still001.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: New video angle shows moment of Brooklyn apartment building's deadly collapse</title>
 <link>https://abcnews.com/video/138305617</link>
 <guid isPermaLink="false">977ff1d69529e7e959aa72aa9e14939eb4b1d3ce3acfc7d474a93b8852e0b725</guid>
@@ -92,59 +103,15 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-reinaldodennes-texas_7411349.jpg?20261120115234" medium="image"/>
 </item>
 <item>
-<title>Malaysia's unwanted refugees: The plight of the Rohingya</title>
-<link>https://www.france24.com/en/tv-shows/focus/20261120-malaysia-s-unwanted-refugees-the-plight-of-the-rohingya</link>
-<guid isPermaLink="false">4971af38a2e157bb8e37a04a44139699ec068c14e9f484797f7244f76ab6dbfc</guid>
-<source>France 24</source>
+<title>Pair linked to fake bomb alert outside RAF Fairford to stand trial next year</title>
+<link>https://news.sky.com/story/pair-linked-to-fake-bomb-alert-outside-raf-fairford-to-stand-trial-next-year-13614322</link>
+<guid isPermaLink="false">190b988f7e901d7e75fa836380de8ffd37a3ab99381c81395a3a60f37ffcabd5</guid>
+<source>Sky News Home</source>
 <category>world</category>
-<pubDate>Fri, 20 Nov 2026 11:28:30 +0000</pubDate>
-<description>On November 19, the International Court of Justice delivered a historic ruling: finding Myanmar guilty of committing genocide against the Rohingya in 2017. Malaysia has long been a supporter of the persecuted Muslim minority. But its role as a safe haven is coming to an end, amid a rise in hate speech and calls for the expulsion of Rohingya via social media.</description>
-<enclosure url="https://s.france24.com/media/display/a4133a2c-e441-11f1-beda-e56ab3dc0809/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-MALAYSIA-ROHIGNYA-RACISM-BAIN-Lauren.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/a4133a2c-e441-11f1-beda-e56ab3dc0809/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-MALAYSIA-ROHIGNYA-RACISM-BAIN-Lauren.jpg" medium="image"/>
-</item>
-<item>
-<title>Italy strike draws workers, students into nationwide protests over wages and living costs</title>
-<link>https://www.france24.com/en/video/20261120-italy-strike-draws-workers-students-into-nationwide-protests-over-wages-and-living-costs</link>
-<guid isPermaLink="false">1ef6833dc81631c8a205092ef0e0eeb211b1a22650abbc0b36131c73ee2b6c79</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 11:25:32 +0000</pubDate>
-<description>A nationwide strike was expected to disrupt schools, hospitals and local transport across Italy on Friday as workers and students began marching in dozens of cities to demand higher wages, lower living costs and greater social protections. The labor action coincided with an International Day of Student Mobilisation, with organisers planning demonstrations in more than 45 Italian cities. FRANCE 24's Seema Gupta reports from Rome, Italy.</description>
-<enclosure url="https://s.france24.com/media/display/6abc8560-e4d4-11f1-87e1-e56ab3dc0809/w:1024/p:16x9/EN-20261120-120355-120805-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/6abc8560-e4d4-11f1-87e1-e56ab3dc0809/w:1024/p:16x9/EN-20261120-120355-120805-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>South Africa: High Court examines asylum seekers' detention at Lindela centre</title>
-<link>https://www.france24.com/en/video/20261120-south-africa-high-court-examines-asylum-seekers-detention-at-lindela-centre</link>
-<guid isPermaLink="false">5cab48471759993e55d10a5e6867bc0a1c35c9541a17eb4fc8335f49f96f480c</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 11:23:35 +0000</pubDate>
-<description>South Africa's High Court judges visited the Lindela Repatriation Centre in Krugersdorp this week, ahead of delivering a ruling on 33 urgent applications concerning the detention of asylum seekers. The court is examining conflicting interpretations of a Constitutional Court ruling that prohibits the deportation of asylum seekers whose claims are still being processed. The case comes amid a wider and increasingly tense debate over immigration in South Africa, which has at times spilled over into deadly xenophobic violence. FRANCE 24's Eunice Masson reports from Cape Town, South Africa.</description>
-<enclosure url="https://s.france24.com/media/display/97aba57c-e4d1-11f1-be4a-ebb478925cf0/w:1024/p:16x9/EN-20261119-214548-215033-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/97aba57c-e4d1-11f1-be4a-ebb478925cf0/w:1024/p:16x9/EN-20261119-214548-215033-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>'Our culture and identity': Deaf Nigerians embrace indigenous sign languages</title>
-<link>https://www.france24.com/en/video/20261120-our-culture-and-identity-deaf-nigerians-embrace-indigenous-sign-languages</link>
-<guid isPermaLink="false">88c07fe69111f177541dcd194e5833724804817f5c7ff381b94f1ca79f10744c</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 11:21:33 +0000</pubDate>
-<description>With a quick flick of the wrist, Umaru Zayyanu conveys the phrase "I am a Nigerian". But the 37-year-old is not signing, rather in the west African nation's official sign language. Instead, he's using Hausa sign language. Such indigenous sign languages abound in Africa's most populous country, where deaf people were communicating with each other long before the advent of formal sign language taught in deaf schools, in 1960.</description>
-<enclosure url="https://s.france24.com/media/display/d854d850-e4d1-11f1-89aa-e56ab3dc0809/w:1024/p:16x9/EN-20261119-215248-215434-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/d854d850-e4d1-11f1-89aa-e56ab3dc0809/w:1024/p:16x9/EN-20261119-215248-215434-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Ghana's $60 million presidential jet purchase sparks controversy</title>
-<link>https://www.france24.com/en/video/20261120-ghana-s-60-million-presidential-jet-purchase-sparks-controversy</link>
-<guid isPermaLink="false">cf81ddc3af2ff23d42a63cfef2bf9c398e472ceec2671623de79c1e27067571f</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 11:18:49 +0000</pubDate>
-<description>Ghanaian President John Mahama is facing growing criticism over his government's recent purchase of a $60 million presidential jet. While in opposition, Mahama had criticised similar plans by the previous administration. The government in Accra is now defending the purchase, pointing to the country's improved economic situation. It argues that the question was never whether the ageing presidential aircraft should be replaced, but rather when the timing would be right. FRANCE 24's Justice Baidoo reports.</description>
-<enclosure url="https://s.france24.com/media/display/6fe1eab4-e4d2-11f1-8600-e56ab3dc0809/w:1024/p:16x9/EN-20261119-215100-215228-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/6fe1eab4-e4d2-11f1-8600-e56ab3dc0809/w:1024/p:16x9/EN-20261119-215100-215228-CS.jpg" medium="image"/>
+<pubDate>Fri, 20 Nov 2026 11:37:00 +0000</pubDate>
+<description>Two men charged over a fake bomb alert outside RAF Fairford allegedly on the orders of Iran will deny wrongdoing and face trial next year, a court has heard.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-fairford-raf-police_7411354.jpg?20261120115824" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-fairford-raf-police_7411354.jpg?20261120115824" medium="image"/>
 </item>
 <item>
 <title>Senate passes bipartisan energy bill amid environmental concerns</title>
@@ -158,72 +125,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6686x4457+0+0/resize/6686x4457!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fd7%2F0df997c742bc9403dee2958f61d0%2Fgettyimages-2302559870.jpg" medium="image"/>
 </item>
 <item>
-<title>France awaits verdict in landmark police brutality trial over Michel Zecler assault</title>
-<link>https://www.france24.com/en/video/20261120-france-awaits-verdict-in-landmark-police-brutality-trial-over-michel-zecler-assault</link>
-<guid isPermaLink="false">d5f4e847d445fc7a170a1df87cbcf74fc45f0dc53ca1db2693cde935bccdae3f</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:46:42 +0000</pubDate>
-<description>A French prosecutor on Thursday urged a court to jail three policemen who beat up a black music producer to four to six years, in a rare case of alleged police brutality to go to criminal court. The assault on Michel Zecler, now 47, triggered renewed outrage in France over police violence, which victims and researchers say is systemic but authorities and law enforcement unions claim is limited to isolated cases. The prosecutor argued the case had caused "immense harm to Michel Zecler but also to society as a whole," and that those on trial had "betrayed" their uniform.</description>
-<enclosure url="https://s.france24.com/media/display/f81ed47e-e4cc-11f1-9fd3-ebb478925cf0/w:1024/p:16x9/EN-20261120-110916-111115-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/f81ed47e-e4cc-11f1-9fd3-ebb478925cf0/w:1024/p:16x9/EN-20261120-110916-111115-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Was the historic Shenzhen summit a political win or humiliation for Putin?</title>
-<link>https://www.france24.com/en/asia-pacific/20261120-was-the-historic-shenzhen-summit-political-win-or-humiliation-for-putin</link>
-<guid isPermaLink="false">15f69b1b64a1c1ba6aa40a75b2169dc78352bae59c38d08187297784b8f8e8a3</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:42:26 +0000</pubDate>
-<description>The world watched with bated breath Thursday as the presidents of China, Russia and the United States met for 90 minutes for an unprecedented trilateral summit in Shenzhen. Each leader came to the negotiating table with their own motivations. But Russia's Vladimir Putin was seen as walking away worse off than his counterparts, with some media outlets reporting the Kremlin leader was "humiliated" during the talks.</description>
-<enclosure url="https://s.france24.com/media/display/b2f34066-e421-11f1-999e-e56ab3dc0809/w:1024/p:16x9/main-shenzen-poutine.png" type="image/png"/>
-<media:content url="https://s.france24.com/media/display/b2f34066-e421-11f1-999e-e56ab3dc0809/w:1024/p:16x9/main-shenzen-poutine.png" medium="image"/>
-</item>
-<item>
-<title>Rare EU-UK summit as Andy Burnham seeks to mend Brexit damage</title>
-<link>https://www.france24.com/en/video/20261120-rare-eu-uk-summit-as-andy-burnham-seeks-to-mend-brexit-damage</link>
-<guid isPermaLink="false">1aa7f9cf2988f43ff8459b2c3e3f6ee56a7f591ff5632632157ea881dbc4dbdd</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:42:14 +0000</pubDate>
-<description>UK Prime Minister Andy Burnham and the EU's top officials were set to announce deals to ease trade and youth mobility at a Brussels summit Friday, billed as a first step in a push to rebuild ties after Brexit. But in a potential spoiler for Burnham's "reset", Brussels said the deals coming into force would be conditional on reaching an agreement to cut university fees for EU students in Britain. FRANCE 24's International Affairs Editor Rochelle Ferguson Bouyahi tells us more.</description>
-<enclosure url="https://s.france24.com/media/display/16de0358-e4c8-11f1-87ba-13439ca2fe89/w:1024/p:16x9/EN-20261120-100111-100649-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/16de0358-e4c8-11f1-87ba-13439ca2fe89/w:1024/p:16x9/EN-20261120-100111-100649-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>'Coalition of the Willing': Ukraine's allies meet in Berlin after Trump-Putin-Xi talks</title>
-<link>https://www.france24.com/en/video/20261120-coalition-of-the-willing-ukraine-s-allies-meet-in-berlin-after-trump-putin-xi-talks</link>
-<guid isPermaLink="false">3225d20b2bdad41f86ae973f9465381e209e11d52486ae744d17aabe17c85974</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:41:25 +0000</pubDate>
-<description>Ukraine's allies met Thursday for a "Coalition of the Willing" summit in Berlin with President Volodymyr Zelensky to stress solid wartime support for Kyiv and to push for a European role in any future peace talks. The meeting – co-hosted by the leaders of Germany, France and Britain – was being held shortly after unprecedented three-way talks in China between US President Donald Trump, Russia's Vladimir Putin and China's Xi Jinping.</description>
-<enclosure url="https://s.france24.com/media/display/f8d17efc-e4c8-11f1-8c51-1bac47ab2f5d/w:1024/p:16x9/EN-20261120-100734-100932-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/f8d17efc-e4c8-11f1-8c51-1bac47ab2f5d/w:1024/p:16x9/EN-20261120-100734-100932-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Spain's leaders clash over corruption, economy in tense election debate</title>
-<link>https://www.france24.com/en/video/20261120-spain-s-leaders-clash-over-corruption-economy-in-tense-election-debate</link>
-<guid isPermaLink="false">d22f9e625a228b648c97125de064ba1f3f554eb897d926dd866df67ff5ee6a9d</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:39:58 +0000</pubDate>
-<description>Spain's Socialist Prime Minister Pedro Sanchez acknowledged making "mistakes" as he faced off with his main conservative rival in a key debate on Thursday before an election next week that could leave the far right on the cusp of power. The pair clashed over the economy, housing, immigration, corruption, foreign policy, as well as policies towards women, repeatedly interrupting each other during the live televised showdown.</description>
-<enclosure url="https://s.france24.com/media/display/fad0b33e-e4c9-11f1-889a-e56ab3dc0809/w:1024/p:16x9/EN-20261120-100959-101135-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/fad0b33e-e4c9-11f1-889a-e56ab3dc0809/w:1024/p:16x9/EN-20261120-100959-101135-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Poland's Tusk denounces Russian 'provocation' after Warsaw says missile hit territory</title>
-<link>https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine</link>
-<guid isPermaLink="false">6a169bd9648e570e84e2cc0eee80002446ca4025d079b1c373afee99b376ff1e</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:38:51 +0000</pubDate>
-<description>Poland on Friday said that no one was hurt after what Warsaw alleged was a Russian missile hit southeast Poland during an attack on Ukraine. Polish authorities earlier said they were investigating reports that at ​least two unknown objects had fallen near the border with Ukraine.</description>
-<enclosure url="https://s.france24.com/media/display/0215cd4e-e4cc-11f1-ba35-e56ab3dc0809/w:1024/p:16x9/2026-11-20T091417Z-724863669-RC2KROAVQTVB-RTRMADP-3-UKRAINE-CRISIS-POLAND-OBJECTS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/0215cd4e-e4cc-11f1-ba35-e56ab3dc0809/w:1024/p:16x9/2026-11-20T091417Z-724863669-RC2KROAVQTVB-RTRMADP-3-UKRAINE-CRISIS-POLAND-OBJECTS.jpg" medium="image"/>
-</item>
-<item>
 <title>At China summit, Trump calls Putin 'my friend' amid Ukraine war</title>
 <link>https://abcnews.com/International/china-summit-trump-calls-putin-friend-amid-ukraine/story?id=138282642</link>
 <guid isPermaLink="false">247464adf771c452eaccc0d48efc3a4d9387288aa16e68dea175dd6cc8cb5666</guid>
@@ -233,61 +134,6 @@
 <description>The West has been trying to isolate the Russian leader for years.</description>
 <enclosure url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Iraqi forces strike compromise with powerful pro-Iran militia</title>
-<link>https://www.france24.com/en/video/20261120-iraqi-forces-strike-compromise-with-powerful-pro-iran-militia</link>
-<guid isPermaLink="false">468e3d8eb935f287659b65a3a84d9b7a064d2ba13f2ee2b45a52ed452e7752a0</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:36:47 +0000</pubDate>
-<description>Iraq has reached ​a compromise with the powerful Iran-backed militia Kataib Hezbollah, three senior security officials said, after Prime Minister Ali al-Zaidi readied security forces to move against the group. Iraqi officials had accused the group of running a smuggling ring that siphoned off hundreds of millions ​of dollars' worth of ‌state-owned oil. Under the deal brokered by senior Shi'ite political leaders to avert a confrontation, government ⁠forces were expected to move into the group's stronghold of Jurf al-Sakhar on Friday.</description>
-<enclosure url="https://s.france24.com/media/display/69d1df88-e4ca-11f1-b8e6-6b451f569414/w:1024/p:16x9/EN-20261120-101153-101308-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/69d1df88-e4ca-11f1-b8e6-6b451f569414/w:1024/p:16x9/EN-20261120-101153-101308-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Outcry as fossil fuels scrubbed from draft UN climate deal</title>
-<link>https://www.france24.com/en/video/20261120-outcry-as-fossil-fuels-scrubbed-from-draft-un-climate-deal</link>
-<guid isPermaLink="false">f280ad6cb08b27b9128534b2cbb1de7e3fac3b872bb7e7f7977aa0400be3e160</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:33:20 +0000</pubDate>
-<description>UN climate talks co-host Australia unveiled a new draft agreement Thursday that drops any mention of fossil fuels, the leading driver of global warming, sparking anger from campaign groups. The nearly 200 nations involved in the COP31 global climate talks in Turkey have until Friday to strike a final agreement, though the marathon negotiations often run into overtime. The summit is unfolding against a record-breaking El Nino, disasters fuelled by climate change from Europe to Nepal and a global energy shock triggered by the Iran war.</description>
-<enclosure url="https://s.france24.com/media/display/5a437f70-e41d-11f1-b4a4-1bac47ab2f5d/w:1024/p:16x9/4a2dabdefb95cfb803bdf88b737af2d03e9e8a4a.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/5a437f70-e41d-11f1-b4a4-1bac47ab2f5d/w:1024/p:16x9/4a2dabdefb95cfb803bdf88b737af2d03e9e8a4a.jpg" medium="image"/>
-</item>
-<item>
-<title>DOJ dropping Alaska midterms Senate certification lawsuit, saying case is 'moot'</title>
-<link>https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517</link>
-<guid isPermaLink="false">0d6a86385e2a8c4567121e6f135d07c7320d238b4b002fef943d2693337935de</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:31:20 +0000</pubDate>
-<description>The Justice Department is giving up on its controversial lawsuit that sought to potentially block the certification of Alaska's U.S. Senate race.</description>
-<enclosure url="https://s.abcnews.com/images/US/alaska-2-rt-gmh-261030_1793380027346_hpMain_2_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/alaska-2-rt-gmh-261030_1793380027346_hpMain_2_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Brussels, London eye 'reset' deal at Burnham's EU summit</title>
-<link>https://www.france24.com/en/video/20261120-brussels-london-eye-reset-deal-at-burnham-s-eu-summit</link>
-<guid isPermaLink="false">b6db9196d5965633c08039039cb15dd445771fbccb17227e4fb6e376b89e2965</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:28:09 +0000</pubDate>
-<description>British Prime Minister Andy Burnham is due to meet EU chiefs Ursula von der Leyen and Antonio Costa in Brussels on Friday for a summit aimed at resetting ties after the turbulent years surrounding Brexit. The two sides are hoping to strike several deals, with the talks expected to pave the way for closer cooperation in the future. FRANCE 24's Brussels correspondent Dave Keating explains the main issues on the agenda.</description>
-<enclosure url="https://s.france24.com/media/display/7e1d1a86-dec9-11f1-8a7a-3f371022a770/w:1024/p:16x9/95573a01316e9f2442d9e3bbfadeecdedf1ef781.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/7e1d1a86-dec9-11f1-8a7a-3f371022a770/w:1024/p:16x9/95573a01316e9f2442d9e3bbfadeecdedf1ef781.jpg" medium="image"/>
-</item>
-<item>
-<title>The far right is 'missing the butt' of the GTA VI joke: It's them!</title>
-<link>https://www.france24.com/en/tv-shows/press-review/20261120-the-far-right-is-missing-the-butt-of-the-gta-vi-joke-it-s-them</link>
-<guid isPermaLink="false">a11f517dce265b34dae078837f875570f23085ab8e8e71fe0d3e55f5c1a864ff</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 10:11:52 +0000</pubDate>
-<description>PRESS REVIEW – Friday, November 20: We look at reactions to the historic summit in Shenzhen between Donald Trump, Vladimir Putin and Xi Jinping. Also, COP31 heads into its final stretch, but fossil fuels have vanished from the draft deal. Plus, the Guardian features a long read on "Power Slapping". Finally, we look at a different kind of hobby: "Grand Theft Auto VI" is finally out.</description>
-<enclosure url="https://s.france24.com/media/display/815a345c-e4ca-11f1-84fa-1bac47ab2f5d/w:1024/p:16x9/capture-1ae74750.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/815a345c-e4ca-11f1-84fa-1bac47ab2f5d/w:1024/p:16x9/capture-1ae74750.jpg" medium="image"/>
 </item>
 <item>
 <title>Calls for consent law change after Joanne Young rape case</title>
@@ -321,17 +167,6 @@
 <description>Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/5654x3182!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffe%2F67%2F739e92b8400ab6cec0b96f5e74be%2Fchris-ncuti-mary.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/5654x3182!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffe%2F67%2F739e92b8400ab6cec0b96f5e74be%2Fchris-ncuti-mary.jpg" medium="image"/>
-</item>
-<item>
-<title>Former French prime minister Dominique de Villepin announces presidential bid</title>
-<link>https://www.france24.com/en/france/20261120-former-french-prime-minister-dominique-de-villepin-to-announce-presidential-bid</link>
-<guid isPermaLink="false">df59bbff452bdfa489d78d5867cf85f9e6074f084ecab4ee54926ff9504febd6</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 09:31:33 +0000</pubDate>
-<description>France’s former conservative prime minister Dominique de Villepin, who served as former president Jacques Chirac’s foreign minister during the country’s steadfast opposition to the US-led invasion of Iraq in 2003, formally launched his presidential campaign Friday. But while De Villepin’s opposition to Israel’s Gaza campaign and assured analysis of international affairs has caught the eyes of younger voters, it remains to be seen if he can persuade them to cast a ballot for him.</description>
-<enclosure url="https://s.france24.com/media/display/fd73fc2c-e433-11f1-b4e5-6b451f569414/w:1024/p:16x9/main-Villepin.png" type="image/png"/>
-<media:content url="https://s.france24.com/media/display/fd73fc2c-e433-11f1-b4e5-6b451f569414/w:1024/p:16x9/main-Villepin.png" medium="image"/>
 </item>
 <item>
 <title>Gulf wholesaler makes late entry in dash to save Poundland</title>
@@ -378,28 +213,6 @@
 <media:content url="https://s.abcnews.com/images/Nightline/261119_ntl_video_game_1240_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Iraqi security forces deploy in Hezbollah stronghold under compromise deal</title>
-<link>https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal</link>
-<guid isPermaLink="false">1654847de4721e909f3a5471df685617e3bdde030c0d42a9d9fb565b99d78ee6</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 08:37:27 +0000</pubDate>
-<description>Iraqi security forces deployed ​in the Kataib Hezbollah stronghold of Jurf al-Sakhar, state media said on Friday, under a compromise deal brokered by Shi'ite politicians. Iraq's prime minister ordered a security intervention earlier this week after accusing the Iran-backed militia of smuggling state-owned oil worth ⁠hundreds of millions of dollars.</description>
-<enclosure url="https://s.france24.com/media/display/8d70c954-e4bb-11f1-9f2f-e56ab3dc0809/w:1024/p:16x9/AP26321593824833.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/8d70c954-e4bb-11f1-9f2f-e56ab3dc0809/w:1024/p:16x9/AP26321593824833.jpg" medium="image"/>
-</item>
-<item>
-<title>Europe's youth set to join mass cost of living protests in 25 countries</title>
-<link>https://www.france24.com/en/europe/20261120-europe-s-youth-set-to-join-mass-cost-of-living-protests-in-25-countries</link>
-<guid isPermaLink="false">899f9a82f73c28ffe729cb9347abbb6d99e36a39715c3d91a46dcc6054a000f7</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 07:57:53 +0000</pubDate>
-<description>Youth protests are set to take place in more than 25 countries in Europe on Friday and over the weekend, coalition organisers said, as demostrators seek to increase pressure on governments over issues including soaring housing costs and deteriorating learning conditions with a show of cross-border solidarity.</description>
-<enclosure url="https://s.france24.com/media/display/c479d6d8-e4b7-11f1-9b6e-e56ab3dc0809/w:1024/p:16x9/AP26321479139816.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/c479d6d8-e4b7-11f1-9b6e-e56ab3dc0809/w:1024/p:16x9/AP26321479139816.jpg" medium="image"/>
-</item>
-<item>
 <title>Households stockpiling 'emergency items' boosts retail sales</title>
 <link>https://news.sky.com/story/emergency-items-give-surprise-lift-to-retail-sales-13614254</link>
 <guid isPermaLink="false">5fddced1cce4e6a3bbd3bed3431adb9e5edf7f33a590fd5a7032bbba479576a4</guid>
@@ -409,28 +222,6 @@
 <description>Shoppers appear to be heeding government warnings to stock-up on essentials amid a surprise leap in retail sales.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-emergency-backpack_7384659.jpg?20261023142923" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-emergency-backpack_7384659.jpg?20261023142923" medium="image"/>
-</item>
-<item>
-<title>Live: France seeks UN Security Council meeting after Russian strikes hit European embassies in Kyiv</title>
-<link>https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says</link>
-<guid isPermaLink="false">388c1dca5fe65eeadef975961b070f6528552ce6ead7eea01bcc496d6eca2f16</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 06:32:23 +0000</pubDate>
-<description>France called for a UN Security Council meeting following a salvo of Russian strikes on Ukraine Friday that damaged the Austrian and Dutch embassies in Kyiv, Foreign Minister Jean-Noël Barrot said. The fresh wave of missile and drone attacks came after Russian President Vladimir Putin vowed a "painful" retaliation after Ukraine this week damaged the Crimea bridge. Follow our liveblog for the latest updates.</description>
-<enclosure url="https://s.france24.com/media/display/bc4e63e4-e4c5-11f1-bd73-ebb478925cf0/w:1024/p:16x9/2026-11-20T090314Z-647512984-RC2LROAKCHGW-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/bc4e63e4-e4c5-11f1-bd73-ebb478925cf0/w:1024/p:16x9/2026-11-20T090314Z-647512984-RC2LROAKCHGW-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg" medium="image"/>
-</item>
-<item>
-<title>Infantino, Tashima and Diallo officially enter FIFA presidential race</title>
-<link>https://www.france24.com/en/tv-shows/sports/20261120-fifa-infantino-tashima-and-diallo-enter-presidential-race</link>
-<guid isPermaLink="false">b1f13ff46576ffa983743a4a901274b8851af68139ce7d055f6598a33648007b</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 06:14:03 +0000</pubDate>
-<description>Three candidates have officially submitted their bids for the FIFA presidency. Gianni Infantino, who has been in office for 11 years, is seeking a fourth consecutive term. Backed by UEFA, French Football Federation president Philippe Diallo wants to offer an alternative to Infantino’s leadership. He will face Japan’s Kozo Tashima, honorary president of the Japan Football Association. The election will take place on March 18, 2027 in Rabat, Morocco.</description>
-<enclosure url="https://s.france24.com/media/display/a5b836e4-e48b-11f1-946d-ebb478925cf0/w:1024/p:16x9/fifa-5.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/a5b836e4-e48b-11f1-946d-ebb478925cf0/w:1024/p:16x9/fifa-5.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump-Putin-Xi meeting updates: Schumer calls trip a 'historical embarrassment'</title>
@@ -444,17 +235,6 @@
 <media:content url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261119_1795090525810_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Man accused of killing British woman sent knife with her blood on to friend</title>
-<link>https://news.sky.com/story/man-accused-of-murdering-british-woman-sent-knife-with-her-blood-on-to-friend-us-court-told-13614220</link>
-<guid isPermaLink="false">2197e6db2449d16dcdb05fd476f781ea8e26eb9b25951f286a392c5fab509a39</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 02:48:00 +0000</pubDate>
-<description>A man accused of murdering a British woman he met on a fetish website sent a knife with her blood on it to a friend, a US court has heard.</description>
-<enclosure url="https://e3.365dm.com/26/07/1920x1080/skynews-sonia-exelby-florida_7308098.jpg?20260727205251" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/07/1920x1080/skynews-sonia-exelby-florida_7308098.jpg?20260727205251" medium="image"/>
-</item>
-<item>
 <title>Trump China trip: Iran and Ukraine not in 'peace declaration' and more takeaways</title>
 <link>https://abcnews.com/Politics/trump-china-trip-iran-ukraine-peace-declaration-takeaways/story?id=138292154</link>
 <guid isPermaLink="false">f4217f106bed49824400285377590b36a83401bc6826835dc00478be9b37f783</guid>
@@ -464,6 +244,17 @@
 <description>Trump heads back to Washington after meeting with Xi and Putin -- the first sitdown between the three superpowers -- with no tangible diplomatic breakthroughs in hand.</description>
 <enclosure url="https://s.abcnews.com/images/US/donald-trump-21-ap-gmh-261119_1795095926418_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/donald-trump-21-ap-gmh-261119_1795095926418_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Met Police can photograph people without consent in facial recognition pilot</title>
+<link>https://news.sky.com/story/met-police-can-photograph-people-without-consent-in-facial-recognition-pilot-13614212</link>
+<guid isPermaLink="false">a4161be329e9f265652dd3a8eb289d9251e2ed2716972577337ce9811193ea9c</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 20 Nov 2026 00:13:00 +0000</pubDate>
+<description>Police officers in London will be able to use their mobile phones to photograph and identify suspects without their consent as part of a new facial recognition pilot.</description>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-police-metpolice_7382797.jpg?20261021122645" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-police-metpolice_7382797.jpg?20261021122645" medium="image"/>
 </item>
 <item>
 <title>Anti-monarchy group hands over 'evidence' on Andrew as it calls for investigation</title>
@@ -508,17 +299,6 @@
 <description>Thomas Markle is fit to stand trial on charges of possessing child sexual abuse material, a US court has ruled.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-us_7411020.jpg?20261119231423" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-us_7411020.jpg?20261119231423" medium="image"/>
-</item>
-<item>
-<title>Iran live updates: Republicans block war powers resolution</title>
-<link>https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto?id=138171071</link>
-<guid isPermaLink="false">bb33a888ff666c42d2d84827c604115119fc1cb2ba6f04e467af7d338bc1ff69</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 20:51:15 +0000</pubDate>
-<description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
-<enclosure url="https://s.abcnews.com/images/International/donald-trump-8-rt-gmh-261118_1794974376390_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/donald-trump-8-rt-gmh-261118_1794974376390_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>UK conducting offensive cyber ops against Russia, China, Iran and North Korea, says top commander</title>

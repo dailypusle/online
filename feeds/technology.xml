@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How to stream GTA 6 on your iPhone, iPad or Mac</title>
+<link>https://www.engadget.com/2323793/how-to-stream-gta-6-iphone-ipad-mac</link>
+<guid isPermaLink="false">3d5d84f664cc966e80800d41122a29addfd124aafc7e4e0d10137cf22b6b91f7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 21:50:12 +0000</pubDate>
+<description>If you're excited about GTA 6, chances are you'll want to keep playing it when you're away from your console.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-stream-gta-6-on-your-iphone-ipad-or-mac/l-intro-1795210531.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-stream-gta-6-on-your-iphone-ipad-or-mac/l-intro-1795210531.jpg" medium="image"/>
+</item>
+<item>
+<title>Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers</title>
+<link>https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers</link>
+<guid isPermaLink="false">66eae4612900f2e7c8ef527f9fee1c6d71f284c4e498c1c6d3b99c717516629d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 21:47:10 +0000</pubDate>
+<description>Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030. That revelation in Meta’s latest sustainability report comes as the company reported a record percentage increase in greenhouse gas emissions that exceeds any other Big Tech competitor racing to build new AI data centers. The company’s 2026 sustainability report claims that “our long-term ambitions haven’t changed, but our operating environment has,” according to an introduction from Rachel Peterson, vice president of data centers at Meta, and Blair Swedeen, global head of net zero and sustainability at Meta. In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.” “We are re-evaluating our timelines, sequencing, and interim milestones—including the 2030 timeframe for our net zero emissions goal and our near-term intensity targets—so our approach reflects current operating realities while keeping progress transparent year over year,” Peterson and Swedeen wrote in the report. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security</title>
+<link>https://www.engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security</link>
+<guid isPermaLink="false">bd271598618c4a3ca4bc0f6a9d5087c4d0fcfdf8077bc6d14c070683742e9171</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 21:02:54 +0000</pubDate>
+<description>The historic launch is happening while Rockstar workers vote on union recognition.</description>
+<enclosure url="https://www.engadget.com/img/gallery/gta-6-made-3-79-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security/l-intro-1795208536.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/gta-6-made-3-79-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security/l-intro-1795208536.jpg" medium="image"/>
+</item>
+<item>
+<title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</title>
+<link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate</link>
+<guid isPermaLink="false">f22d46a83ecd25c4b9af6d0ff25f287b78e78bcd7a1a6874250934d6587d79ee</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
+<description>Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services to find out what happened to sensitive information entrusted to them. What they discovered was an ecosystem that leaked highly sensitive data like a sieve. The exposure was found through an ingenious experiment designed to test if sensitive information can leak through the vast chain of widely used AI services and how that information is exploited when it does. Many of today’s AI apps use services such as OpenRouter or Vercel that act as brokers. These “AI routers,” sometimes also known as “AI gateways,” receive large numbers of prompts sent from AI app end users and route them to an available inference engine based on criteria such as the one charging the lowest price or being best suited for the given task. Instead of using Anthropic, OpenAI, or another big provider, the developer hires an AI router to find the most suitable model. Security breaches, prompt theft, and privacy violations To test for potential leakage, researcher HD Moore assembled a collection of AWS access keys, functioning credentials tied to empty AWS accounts, passwords for services such as SSH, and unique URLs, DNS names, and private git repository references. None of the secrets had ever been used before, and he controlled the infrastructure that received any requests using the credentials. He then seeded each secret into exactly one prompt sent to a single provider. In the event any of the secrets were leaked, these “canaries”—so called because they resemble the role of that bird when taken into coal mines—would allow Moore to identify each link in the chain that was responsible. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage.jpg" medium="image"/>
+</item>
+<item>
+<title>YouTube is reportedly preparing to settle social media addiction claims for $3 billion</title>
+<link>https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement</link>
+<guid isPermaLink="false">28a72b175fa002be3c86f69205575b51de8a6c31f13f439354c6854ad977a875</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 20:43:52 +0000</pubDate>
+<description>YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its "addictive design" harmed kids, according to Bloomberg . Sources tell the publication that YouTube reached the agreement "in principle," and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave of lawsuits filed by US school districts that accuse YouTube, Meta, Snap, and TikTok of negatively impacting the mental health of teen users. The first "bellwether" trial of these federal multidistrict litigation (MDL) cases was supposed to start in Kentucky in June, but all four companies settled fo … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Signal slams door on prying AI agents to protect privacy</title>
 <link>https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466</link>
 <guid isPermaLink="false">dda47e0da836ea0323df6ae6624483f800c48357fdd4c3ac2a4822011ce98795</guid>
@@ -109,7 +164,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 20 Nov 2026 19:21:50 +0000</pubDate>
-<description>In a swirl of questions, fears, and outrage, the US Army announced late Thursday that it would delay a plan to blow up 68 deteriorating barrels of lead azide, which would launch toxic gas and lead into the air. The plume, containing neurotoxic lead, could potentially drift 100 miles north of the Army installation housing it in Middletown, Iowa, according to modeling released by the Army earlier this week. The Army had planned to carry out two controlled detonations, set off simultaneously around noon Friday, to destroy the barrels where they lie, which is in earth-covered concrete containment structures (called earth-covered magazines or ECMs). Now the Army plans to wait until November 23 to provide more time to communicate about the situation with Iowans, who have reported being unaware of the detonations until earlier this week. "Public communication is essential to public trust," Acting Secretary of the Army Adam Telle said in a post on social media at 7:31 pm ET Thursday . "Therefore, the Army will continue to actively engage with state and local officials throughout the region to distribute accurate, up-to-date information." Read full article Comments</description>
+<description>In a swirl of questions, fears, and outrage, the US Army announced Thursday that it would delay a plan to blow up 68 deteriorating barrels of lead azide, which would launch toxic gas and lead into the air. A federal appeals court further halted plans later on Thursday with an emergency order. The plume, containing neurotoxic lead, could potentially drift 100 miles north of the Army installation housing it in Middletown, Iowa, according to modeling released by the Army earlier this week. The Army had planned to carry out two controlled detonations, set off simultaneously around noon Friday, to destroy the barrels where they lie, which is in earth-covered concrete containment structures (called earth-covered magazines or ECMs). Prior to the court stay, the Army rescheduled the blast until November 23 to provide more time to communicate about the situation with Iowans, who have reported being unaware of the detonations until earlier this week. "Public communication is essential to public trust," Acting Secretary of the Army Adam Telle said in a post on social media at 7:31 pm ET Thursday . "Therefore, the Army will continue to actively engage with state and local officials throughout the region to distribute accurate, up-to-date information." Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751.jpg" medium="image"/>
 </item>
@@ -321,17 +376,6 @@
 <description>The electronics industry faces a printed circuit board (PCB) shortage that could rival the pandemic-era chip crunch – with AI once again accused of hogging supplies. The Global Electronics Association says demand is arriving "at a scale the supply chain was not built for," straining everything from glass fabric and resin to finished boards. Its report, " The PCB Squeeze: A Wake-Up Call for Global Electronics ," says AI servers need increasingly complex boards. While a typical PC board has about 12 layers of tracks, AI server boards can have 40 to 60 layers or more, and each additional layer requires more resin, copper foil, and laminate. The supply of materials is set to be constrained through at least the first half of 2027, the report says, with meaningful relief unlikely before mid-2028. Programs to deliver PCBs for automotive, industrial, medical and even the defense industries are being crowded out as AI soaks up scarce capacity, it claims. The association's North American figures show orders growing much faster than deliveries. PCB bookings rose 56.1 percent in the first nine months of 2026 compared with the same period last year, while PCB shipments increased 13.3 percent. Fabrication capacity is expanding, aimed at meeting the increased demand from the AI infrastructure sector, especially in Asia, where more than 90 percent of the world's boards are made. The report says that $10 billion has gone toward new PCB plants in Southeast Asia, and at least as much has been invested in China over the past three years, but the raw materials are themselves constrained. It warns of lengthening lead times for those raw materials. Standard FR-4 laminate now takes six to eight weeks to ship, up from two to three weeks a year ago, while advanced low-loss laminates now take 14 to 18 weeks for delivery, for example. Tightening supplies usually lead to price increases, and the report says that suppliers raised laminate costs by 30 percent in September, and that the price tag of some types of E-glass cloth for circuit boards has risen by 300 percent. The report also puts copper prices up 37 percent over the past year. Concerns have been raised about copper supplies before, as The Register has reported multiple times. The association compares the risk with the 2021 chip shortage , when disrupted supplies left manufacturers unable to secure even relatively mundane components. New capacity is coming, but it is late and comes in dribs and drabs, according to the report, while AI demand just keeps on absorbing it as soon as it arrives. The association's advice is for buyers to plan early, and to share realistic forecasts with suppliers rather than double-booking. Board makers should qualify alternative suppliers of materials such as laminate and copper foil before shortages bite, but it warns against stockpiling beyond real need, which adds to forward-buying pressure. But it would like governments to step in, of course, by tracking board and material lead times</description>
 <enclosure url="https://image.theregister.com/?imageId=247172&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=247172&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives</title>
-<link>https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director</link>
-<guid isPermaLink="false">1dd44ac28af8e887dfa5aee663670e83ea2f5071852eeea115b03996ab4a9737</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 16:00:00 +0000</pubDate>
-<description>The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur , set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. For Galina, carrying on means an affair, which we deduce from a scene of her texting with a faint smile, her face lit in the dark by the light of her phone. ( Minotaur is a remake of Claude Chabrol's 1969 film The Unfaithful Wife, whose title gives the plot away more readily than Zvyagintsev's.) Meanwhile, Gleb runs a kind of private contracting concern and is soon asked to scare up mili … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Minotaur_Still_5_MKProductions_CGCinema-scaled-1.avif?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/avif"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Minotaur_Still_5_MKProductions_CGCinema-scaled-1.avif?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>US will soon announce root cause behind FAA nationwide ground stop</title>
@@ -620,28 +664,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-gta-6-star-system-says-a-lot-more-than-just-your-wanted-level/l-intro-1795130347.jpg" medium="image"/>
 </item>
 <item>
-<title>Leaked images may show Motorola's answer to the iPhone Duo</title>
-<link>https://www.engadget.com/2322557/leaked-images-may-show-motorolas-answer-to-the-iphone-duo</link>
-<guid isPermaLink="false">d460849d820fbd104c87ced42967750b910ed9e03d3a31fee047158b423f971f</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 23:13:40 +0000</pubDate>
-<description>We may have our best look yet at Motorola's upcoming foldable.</description>
-<enclosure url="https://www.engadget.com/img/gallery/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/l-intro-1795129766.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/l-intro-1795129766.jpg" medium="image"/>
-</item>
-<item>
-<title>Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G</title>
-<link>https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g</link>
-<guid isPermaLink="false">cff6f9dc5a882a5e7534753037ca3379e427915f1dd9b7e334f1d9c4a666c4d4</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 22:56:42 +0000</pubDate>
-<description>Meta's standalone AI gadget won't be cheap, but it might come with a free data plan.</description>
-<enclosure url="https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/l-intro-1795128747.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/l-intro-1795128747.jpg" medium="image"/>
-</item>
-<item>
 <title>Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up</title>
 <link>https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up</link>
 <guid isPermaLink="false">b3b89bf75b3862de680315c38f0ea006cebf608da201fa57d116baff2f401521</guid>
@@ -851,17 +873,6 @@
 <media:content url="https://image.theregister.com/?imageId=5311112&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Mouse fight club might explain why we like to watch violent things</title>
-<link>https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight</link>
-<guid isPermaLink="false">f32b297db0281e652d6f32da31e78d877cabf99fe726ea475141d8e20a437bdb</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 14:04:38 +0000</pubDate>
-<description>Credit: J.M. Iravedra-Garcia et al., 2026 Credit: J.M. Iravedra-Garcia et al., 2026 There's something about watching violent events that broadly appeals to us, whether it's the latest John Wick movie, a video game, or a live UFC bout. Scientists have debated whether watching violent things could make us more aggressive, but it could also be an adaptive survival strategy. Male mice, for instance, who watched other mice fighting learned enough about how to fight to better protect themselves (compared to mice who didn't watch fights) when pitted against stronger, more aggressive opponents, according to a paper published in the journal Nature. The team randomly assigned male mice to three groups—fighters, spectators, or novices—and then subjected each group to eight days of training with three 10-minute sessions per day. The novices played with stuffed mice in isolation, while the spectators watched various pairs of fighter mice battle from a raised platform behind a transparent barrier—a set-up chosen to let them smell and listen to the fights as well as observe them. The ninth day was "fight night," when all the mice had to face a daunting opponent in three 4-minute rounds. Each fight was filmed from above so that the mouse behavior could be analyzed. To monitor corresponding changes in brain activity, the team engineered the rodents' excitatory brain cells to glow green whenever they were activated, while inhibitory brain cells glowed red. They also implanted tiny optical fibers into 12 interconnected brain regions so they could track changing activity in every brain region simultaneously. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1.jpg" medium="image"/>
-</item>
-<item>
 <title>Qualcomm offers test drive of its rack-scale Nvidia AI challenger</title>
 <link>https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966</link>
 <guid isPermaLink="false">efdc2673e401c08c76591194fb40f5c373f37740602bec17d8673ac23035ca5b</guid>
@@ -871,17 +882,6 @@
 <description>Qualcomm has opened cloud-based trials of its Dragonfly AI200 rack-scale inference system to selected customers through Cirrascale Cloud Services. Dragonfly AI200 is Qualcomm's pitch for running large language, multimodal, and other AI models without Nvidia-sized power and operating bills. Whether it delivers those savings is something customers can now put to the test on Cirrascale's AI Innovation Cloud, with a route into production deployments, Qualcomm says. Cirrascale also demonstrated the system at SC26 in Chicago on November 17-18. The AI200 is part of Qualcomm's Dragonfly datacenter lineup, which also includes the AI250 and AI300 accelerators and the C1000 server CPU. The company set out its broader ambitions at its Investor Day in June . Each AI200 accelerator card carries 768 GB of LPDDR memory, with 56 cards providing about 43 TB in a liquid-cooled rack. Qualcomm says the system supports models ranging from 7 billion to 10 trillion parameters, including long-context, retrieval-augmented generation (RAG), and agentic workloads. As we previously explored , packing in memory doesn't necessarily mean matching Nvidia's performance. Its Blackwell-based NVL72 systems use fast – and costly – HBM3e stacks, while Qualcomm has opted for LPDDR, more commonly found in mobile devices. "AI inference is becoming one of the largest and most important computing workloads in the datacenter, and the industry needs a more efficient approach," said Tony Pialis, Qualcomm's executive vice president and general manager for datacenter. He claimed that the AI200 brings the company's experience with high-performance, low-power computing to a rack-scale infrastructure, in an architecture designed around the performance, memory, and cost requirements of inference workloads. "Our customers need efficient, scalable infrastructure that can support increasingly sophisticated models without allowing power and operating costs to become the limiting factor," said Cirrascale CEO Dave Driggers. "By working with Qualcomm, we can give customers evaluation access to a compelling new architecture purpose-built for the next generation of AI inference." The chip firm also has its own software stack, the Dragonfly AI Infrastructure Management Suite, for provisioning, monitoring, workload orchestration, and fault handling across rack-scale deployments. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5310970&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5310970&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>NASA's new Moon plans have a problem: Orion wasn't designed to fly this way</title>
-<link>https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion</link>
-<guid isPermaLink="false">05db192faeb4668a14f90e7664268223dcf859ed238db512d32e6c7454b17986</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 13:40:02 +0000</pubDate>
-<description>NASA recently announced a significant shakeup to the Artemis program that will land humans on the Moon. The moves were designed to give the agency's lunar lander providers—SpaceX with its Starship vehicle, and Blue Origin with Blue Moon—more flexibility in reaching the Moon. For Starship, this means docking with Orion in Earth orbit, and then traveling to the Moon in tandem. For Blue Moon, it shifts the rendezvous with Orion all the way to low-lunar orbit. These changes benefit the lunar landers, but in turn impose more of a burden on the Orion spacecraft, which is built for NASA by Lockheed Martin. To understand the implications for the spacecraft, Ars spoke with Kirk Shireman, Human Spaceflight Exploration and Orion program manager at Lockheed. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large.jpg" medium="image"/>
 </item>
 <item>
 <title>The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter</title>

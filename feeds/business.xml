@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
 <title>Institutions pile back into US Bitcoin ETFs in Q3 after selling streak</title>
 <link>https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak</link>
 <guid isPermaLink="false">a568d6b34a4467526bca3850f20c972eb129501db22c8944476a70dd0583526e</guid>
@@ -871,17 +882,6 @@
 <description>This marks the 10th proposed acquisition of a bank by a credit union this year, and the Sunshine State has been a hotbed of activity.</description>
 <enclosure url="https://imgproxy.divecdn.com/pWGH5OmrtA8iws4Fqdiw7OcNrFVHxClKaFx6ALgqqeQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUyNjA2MzI0LmpwZw==.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/pWGH5OmrtA8iws4Fqdiw7OcNrFVHxClKaFx6ALgqqeQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUyNjA2MzI0LmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>$25M Ethereum MEV acquittal tests criminal enforcement limits</title>
-<link>https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits</link>
-<guid isPermaLink="false">0c15d36b8828092b8a16a8c430bda0e3c493456e8c782a8a3757c191a52fd090</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 17:05:04 +0000</pubDate>
-<description>BlackRock’s staked Ether ETF earns a cut of what traders pay for priority on Ethereum, the acquittal left the legal risk to that income unresolved.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QHP33KYEEN9JBBBFRAHBHY/hi-what-is-mev-a-beginners-guide-to-ethereums-invisible-tax.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QHP33KYEEN9JBBBFRAHBHY/hi-what-is-mev-a-beginners-guide-to-ethereums-invisible-tax.jpg" medium="image"/>
 </item>
 <item>
 <title>'It Speaks in Tongues That Only 6.2 Astra Understands': Why Early Testers Hate OpenAI’s New Model</title>

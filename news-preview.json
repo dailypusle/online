@@ -1,38 +1,146 @@
 {
   "top": [
     {
-      "title": "Colts vs. Texans score, live updates: Kayshon Boutte’s TD catch extends Houston’s lead over Indy to 14-3",
-      "link": "https://www.nytimes.com/athletic/live-blogs/colts-vs-texans-live-score-updates-nfl-tnf-result/diKaglHf6jta",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T02:24:36Z",
-      "description": "Follow our live coverage as the Texans host the Colts in an AFC South rivalry game to kick off Week 11.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/diKaglHf6jta_yQ2r2t7pHYGd_1440x960.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "F1 Las Vegas GP live updates: Rain washes out first practice, FP2 still to come at final U.S. race weekend",
-      "link": "https://www.nytimes.com/athletic/live-blogs/f1-las-vegas-gp-live-updates-fp1-fp2-times-results/VxLr959bHnHh",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T02:21:14Z",
-      "description": "Follow live coverage as the Formula 1 season’s final triple-header begins at Las Vegas Strip Circuit.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/VxLr959bHnHh_gJpl3jQDoWnz_1440x960.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "NBA season live updates: KAT, Knicks visit Wolves; Spurs eye win No. 13 and more",
+      "title": "NBA season live updates: KAT, Knicks beat Wolves; Spurs get win No. 13 and more",
       "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
       "source": "The Athletic Sports",
-      "date": "2026-11-20T02:19:17Z",
+      "date": "2026-11-20T03:59:05Z",
       "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
       "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_1aNsE7LDwkeN_1440x960.jpg",
       "category": "sports"
     },
     {
-      "title": "Bills to retire Andre Reed’s No. 83 next season",
+      "title": "Colts vs. Texans score, live updates: Houston dominating Indy 26-3 in 4th quarter of ‘Thursday Night Football’",
+      "link": "https://www.nytimes.com/athletic/live-blogs/colts-vs-texans-live-score-updates-nfl-tnf-result/diKaglHf6jta",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:58:09Z",
+      "description": "Follow our live coverage as the Texans host the Colts in an AFC South rivalry game to kick off Week 11.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/diKaglHf6jta_S911nqK3Cmuu_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "F1 Las Vegas GP live updates: FP2 latest after rain washes out first practice at final U.S. race weekend",
+      "link": "https://www.nytimes.com/athletic/live-blogs/f1-las-vegas-gp-live-updates-fp1-fp2-times-results/VxLr959bHnHh",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:55:13Z",
+      "description": "Follow live coverage as the Formula 1 season’s final triple-header begins at Las Vegas Strip Circuit.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/VxLr959bHnHh_DMCY45UoP0cE_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Minnesota Wild vs. Calgary Flames: Live updates from Michael Russo and Joe Smith",
+      "link": "https://www.nytimes.com/athletic/live-blogs/minnesota-wild-results-season/y2Xyq3gsFEog",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:47:59Z",
+      "description": "Michael Russo and Joe Smith bring you the ultimate fan spot for news, discussion and access to the Wild.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/y2Xyq3gsFEog_hgJbPnLeRCWf_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Senate Passes Major Permitting Bill to Speed Up Energy Projects",
+      "link": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html",
+      "source": "New York Times Science",
+      "date": "2026-11-20T03:35:38Z",
+      "description": "The bill would overhaul federal environmental laws to make it easier to build everything from gas pipelines to wind farms. But it faces hurdles in the House.",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20cli-permitting-senate-HFO2-qlhz/20cli-permitting-senate-HFO2-qlhz-mediumSquareAt3X.jpg",
+      "category": "science"
+    },
+    {
+      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak",
+      "source": "Cointelegraph",
+      "date": "2026-11-20T03:33:22Z",
+      "description": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
+      "category": "business"
+    },
+    {
+      "title": "Researchers discover link that could help diagnose CTE in living patients",
+      "link": "https://www.nytimes.com/athletic/7796667/2026/11/19/cte-blood-test-living-patient-studies",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:32:57Z",
+      "description": "The inability to test living patients and lack of verifiable prevention methods have fueled concerns among athletes and parents.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19215556/GettyImages-2123636327-e1795144081584.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "How to watch San Diego State vs. No. 15 Boise State: TV channel and streaming options for November 21",
+      "link": "https://www.nytimes.com/athletic/7796823/2026/11/19/san-diego-state-vs-boise-state-stream-how-to-watch-nov-21",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:30:53Z",
+      "description": "Find out how to watch the San Diego State Aztecs play the Boise State Broncos, with time, TV channel and streaming information.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19223052/SKpI1Zy.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "‘Hanuman Ansh,’ ‘Pyre’ and Shah Rukh Khan Classics Lead International Film Festival of India’s Inflatable Cinema Lineup as NFDC, ESG Renew PictureTime Partnership",
+      "link": "https://variety.com/2026/film/festivals/hanuman-ansh-pyre-iffi-inflatable-cinema-lineup-goa-1236952961",
+      "source": "Variety",
+      "date": "2026-11-20T03:30:00Z",
+      "description": "Vishal Chaturvedi’s hit “Hanuman Ansh” and Vinod Kapri’s “Pyre” will headline a pop-up inflatable cinema at the International Film Festival of India (IFFI) in Goa, where the National Film Development Corporation (NFDC) and the Entertainment Society of Goa (ESG) have teamed with PictureTime Digiplex again. The mobile auditorium is going up on the Kala Academy […]",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Hanuman-Ansh.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "Damian Lillard, after thoughts on 2025 waiver, lights up Bucks' defense",
+      "link": "https://www.nytimes.com/athletic/7796734/2026/11/19/damian-lillard-bucks-trail-blazers-waive-2025",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:28:43Z",
+      "description": "Shortly after the Bucks waived him, Lillard signed a three-year, $42 million deal to return to Portland, where he started his NBA career.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19221820/2026-11-20T020611Z_844755076_MT1USATODAY30386186_RTRMADP_3_NBA-PORTLAND-TRAIL-BLAZERS-AT-MILWAUKEE-BUCKS-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Mets sign former Red Sox reliever Darwinzon Hernández to 3-year, $12 million deal: Source",
+      "link": "https://www.nytimes.com/athletic/7796629/2026/11/19/mets-darwinzon-hernandez-free-agent-contract",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:21:42Z",
+      "description": "Darwinzon Hernández spent the past four seasons in Japan after pitching for the Red Sox from 2019 to 2022.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19211844/GettyImages-1409307228-scaled-e1795145405995.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "How to watch No. 2 Utah vs. TCU: TV channel and streaming options for November 21",
+      "link": "https://www.nytimes.com/athletic/7796774/2026/11/19/utah-vs-tcu-stream-how-to-watch-nov-21",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:20:08Z",
+      "description": "Find out how to watch the Utah Utes play the TCU Horned Frogs, with time, TV channel and streaming information.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19222007/7af4bFc.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Connor McDavid's point streak ends at 23 games in Oilers' loss to Lightning",
+      "link": "https://www.nytimes.com/athletic/7787632/2026/11/19/connor-mcdavid-point-streak-oilers",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:11:45Z",
+      "description": "Connor McDavid's season-opening point streak ended at 23 games on Thursday night.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19220613/GettyImages-2305377939-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "After shoulder surgery, Rockies' Hunter Goodman expected to be ready for spring training: Sources",
+      "link": "https://www.nytimes.com/athletic/7796558/2026/11/19/hunter-goodman-rockies-shoulder-surgery",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:01:40Z",
+      "description": "Goodman, 27, strained his shoulder on a swing Aug. 12 and did not play again until Aug. 25.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/26202333/2026-07-11T052808Z_592041666_MT1USATODAY29369339_RTRMADP_3_MLB-COLORADO-ROCKIES-AT-SAN-FRANCISCO-GIANTS-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "‘War’ Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: ‘Gwyneth Paltrow Ran So That the Rest of Us Could Walk’",
+      "link": "https://variety.com/2026/tv/global/war-finale-sienna-miller-dominic-west-final-scene-who-won-divorce-1236951845",
+      "source": "Variety",
+      "date": "2026-11-20T03:00:00Z",
+      "description": "SPOILER ALERT: This article contains major spoilers for “War,” which had its season finale on Nov. 19 on HBO and HBO Max in the U.S., and drops on Nov. 20 on Sky and NOW in the U.K. The climactic season finale of “War”— the Sky and HBO drama series starring Sienna Miller and Dominic West […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Sienna-Miller-Dominic-West-War.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "Bills to retire Hall of Fame receiver Andre Reed’s No. 83 next season",
       "link": "https://www.nytimes.com/athletic/7796607/2026/11/19/bills-andre-reed-number-83-retirement",
       "source": "The Athletic Sports",
       "date": "2026-11-20T02:17:55Z",
-      "description": "Bills legend Andre Reed’s No. 83 will join the retired numbers of Jim Kelly, Thurman Thomas and Bruce Smith at Highmark Stadium next season.",
+      "description": "Reed’s No. 83 will join the retired numbers of Jim Kelly, Thurman Thomas and Bruce Smith at Highmark Stadium.",
       "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19211227/GettyImages-453092648-scaled.jpg",
       "category": "sports"
     },
@@ -87,7 +195,7 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:24:26Z",
       "description": "Find out how to watch the Virginia Tech Hokies play the Miami Hurricanes, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19202426/siFO51s.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19222721/DGmd8SN.jpg",
       "category": "sports"
     },
     {
@@ -96,7 +204,7 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:19:39Z",
       "description": "Find out how to watch the Maryland Terrapins play the USC Trojans, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201939/Uq2G8Gn.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19222109/SThjCuQ.jpg",
       "category": "sports"
     },
     {
@@ -105,7 +213,7 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:17:37Z",
       "description": "Find out how to watch the Arizona Wildcats play the Kansas State Wildcats, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201736/BnVJuXV.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19221226/WIC1TMA.jpg",
       "category": "sports"
     },
     {
@@ -114,116 +222,8 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:16:34Z",
       "description": "Find out how to watch the SMU Mustangs play the Notre Dame Fighting Irish, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201633/zFkfbtC.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19222406/KHCmvVx.jpg",
       "category": "sports"
-    },
-    {
-      "title": "How to watch No. 1 Georgia vs. South Carolina: TV channel and streaming options for November 21",
-      "link": "https://www.nytimes.com/athletic/7796496/2026/11/19/georgia-vs-south-carolina-stream-how-to-watch-nov-21",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T01:15:35Z",
-      "description": "Find out how to watch the Georgia Bulldogs play the South Carolina Gamecocks, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201534/jiA7NiG.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "How to watch No. 17 Kentucky vs. Missouri: TV channel and streaming options for November 21",
-      "link": "https://www.nytimes.com/athletic/7796486/2026/11/19/kentucky-vs-missouri-stream-how-to-watch-nov-21",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T01:13:50Z",
-      "description": "Find out how to watch the Kentucky Wildcats play the Missouri Tigers, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201349/TQEeeCO.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "How to watch Pittsburgh vs. No. 21 Louisville: TV channel and streaming options for November 21",
-      "link": "https://www.nytimes.com/athletic/7796480/2026/11/19/pittsburgh-vs-louisville-stream-how-to-watch-nov-21",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T01:12:47Z",
-      "description": "Find out how to watch the Pittsburgh Panthers play the Louisville Cardinals, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201247/NkBvbCB.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "WATCH: Motorcyclist survives after fiery crash with Tesla",
-      "link": "https://abcnews.com/video/138305515",
-      "source": "ABC News Top Stories",
-      "date": "2026-11-20T01:04:31Z",
-      "description": "A motorcyclist walked away from a fiery crash on an L.A. freeway after suddenly being cut off by a Tesla in the left lane.",
-      "image": "https://s.abcnews.com/images/WNT/261119_wn_vo_motorcycle_hpMain_16x9_1600.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Controversial GTA 6 Easter Egg Will Annoy Millions of Gamers",
-      "link": "https://www.polygon.com/gta-6-physical-disc-spoof-game",
-      "source": "Polygon",
-      "date": "2026-11-20T01:00:17Z",
-      "description": "Grand Theft Auto 6 is now out everywhere, and players are discovering just how much this game is filled to the brim with an overwhelming amount of things to do. In the game’s opening hours, you’ll land a place on the water, steal a car from a police impound, get into a car chase, and more. There are a million little things to do, like playing video games inside GTA 6 itself.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-gt-6-cal-and-jaosn-playing-games-2.jpeg",
-      "category": "gaming"
-    },
-    {
-      "title": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
-      "link": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893",
-      "source": "Variety",
-      "date": "2026-11-20T01:00:00Z",
-      "description": "SPOILER ALERT: This article contains spoilers for the ending of “Hunger Games: Sunrise on the Reaping,” now playing in theaters. The mutt is out of the bag: Jennifer Lawrence, Josh Hutcherson and Woody Harrelson are back for a cameo scene at the end of “Hunger Games: Sunrise on the Reaping,” a prequel to their mega-hit […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305449621.jpg",
-      "category": "entertainment"
-    },
-    {
-      "title": "Obalende MTN bus park to open December, accommodate 1,000 buses — Wahab",
-      "link": "https://www.vanguardngr.com/2026/11/obalende-mtn-bus-park-to-open-december-accommodate-1000-buses-wahab",
-      "source": "Vanguard Nigeria",
-      "date": "2026-11-20T00:58:00Z",
-      "description": "By Olasunkanmi Akoni The Lagos State Government has said the ongoing redevelopment of the Obalende Bus Park, known as the Y’ello Bus Park, will be completed and ready for public use by the end of December 2026. The facility, being developed by MTN Nigeria as part of its Corporate Social Responsibility (CSR) initiative, is designed to accommodate more than 1,000 buses. Commissioner for the Environment and Water Resources, Tokunbo Wahab, disclosed this during an inspection tour of the Obalende project and another MTN-sponsored under-bridge recreational park at Falomo, Ikoyi. Wahab, who was accompanied by key government officials, including the Special Adviser to the Governor on Transportation, Sola Giwa; Special Adviser on Environment, Engr. Adekunle Akodu; General Manager of the Lagos State Parks and Gardens Agency (LASPARK), Adetoun Popoola; and Director of Drainage Services, Engr. Mahamood Adegbite, said the six-week completion window was agreed upon after consultations with stakeholders to resolve operational challenges. He explained that the project was initially scheduled for completion within 21 weeks following an inspection of the area by Governor Babajide Sanwo-Olu and his deputy as part of efforts to transform the previously degraded environment into a modern transport hub. However, construction was delayed by logistical challenges involving existing transport operators conducting business at the site. Wahab said the government had engaged the transport unions, contractors and the Special Adviser on Transportation to agree on temporarily relocating operators from the immediate construction area to enable the contractors to complete the work. “Today was just to see how far they’ve gone. Thankfully, they had one or two logistics issues that had to do with the businesses that have been operating there, legacy things like the transport business. “We had to engage the Special Adviser to the Governor on Transportation, the transport unions, and the contractors to see how we can give them a space for a maximum of six weeks—not shutting the place down 100 per cent, but moving them out of that immediate workspace to enable the contractors to complete it and hand it over to them to operate,” he said. The upgraded facility is designed to accommodate approximately 1,000 buses and will feature dedicated parking and loading bays, sleeping facilities for drivers, modern toilet facilities and green areas. The design also incorporates collapsible barriers along the perimeter to allow drainage maintenance teams access to the adjoining canal for regular cleaning and maintenance. Addressing concerns about possible commercialisation of the facility and increases in transport fares, Giwa assured commuters and commercial transport operators that access to the terminal would be free. “No, there’s no toll at all. It is for them; they are the ones using it. We are just making it a standard park that we will replicate all over the state as time goes on,” he said. O",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-19-at-1.03.46-PM-1024x770.jpeg",
-      "category": "nigeria"
-    },
-    {
-      "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
-      "link": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
-      "source": "The Register",
-      "date": "2026-11-20T00:57:45Z",
-      "description": "If you’ve got a moment to spare in between sorting out emergency patches for PHP , Java , and PostgreSQL , VMware has just bid for any remaining space on your schedule by publishing two critical-rated security advisories. VMSA-2026-0009 addresses CVE-2026-123890 , a 9.8-rated flaw that VMware says means a malicious actor with network access to vCenter may exploit this issue to bypass authentication and gain unauthorized access to the system. vCenter is the tool admins use to manage fleets of virtual machines. The flaw is present in VMware’s flagship Cloud Foundation suite. VMSA-2026-0009 also details four more CVEs, some of them high-severity. VMware’s second advisory, VMSA-2026-0010 , warns that Cloud Foundation, Aria Operations, and VCF Operations HCX products all use Apache – which has a 9.8-rated remote code execution vulnerability (CVE-2026-119618). A KVM curiosity Admins who oversee virtual infrastructure also need to pay attention to Linux KVM, the subject of a curious incident over the last 24 hours. This mess started with the November 18 disclosure of CVE-2026-99312 , a bug which allows an attacker to use a guest virtual machine to inflict Denial of Service (DoS) or memory corruption attacks on the host. It’s bad news whenever someone with access to a guest VM can attack the host, because it means gaining access to a single tenant can potentially harm all the other guest VMs or peer into the memory a guest uses. This flaw, however, isn’t a worst-case scenario guest-host escape, because it only impacts users of AMD processors who employ nested virtualization – the practice of running a hypervisor inside a virtual machine. Nested virtualization isn’t commonly used in the enterprise, but clouds employ it to do things like powering OS emulators. The bug’s CVSSv3 score is therefore a modest 5.5. Security researcher Oren Tomtov of Accomplish.ai says the flaw meant he could access 127 GB of host RAM on a Digital Ocean “Droplet” – the junior cloud’s name for its cloudy VMs. Yomtov says he told Digital Ocean and the Linux kernel security team about the flaw in October. Maintainers got busy and delivered a fix to the mainline kernel on November 2, full fixes landed on the 17 th . The CVE then appeared on November 18. Yomtov and Terra Security quickly posted their analysis of the flaw – but then took the posts down within hours. The Register understands that Digital Ocean asked for the posts to come down because it needed more time to update its Linux implementations. The company has not responded to multiple requests for comment. Terra’s analysis of the flaw asserts that it was introduced to KVM in 2022, when developers wrote a fix for CVE-2022-3344 . The company believes 3.2 percent of CVEs in the Linux kernel were introduced by the fix for another CVE. The good news about CVE-2026-99312 is it’s easy to defeat without an update, by disabling nested virtualization in KVM. ®",
-      "image": "https://image.theregister.com/?imageId=262623&width=800",
-      "category": "technology"
-    },
-    {
-      "title": "White Sox trade Luis Castillo, Davis Martin to Rockies for 2 prospects",
-      "link": "https://www.nytimes.com/athletic/7796420/2026/11/19/white-sox-trade-luis-castillo-davis-martin-rockies",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T00:53:20Z",
-      "description": "Luis Castillo had an 8.42 ERA over 31 innings after the White Sox acquired him from the Mariners at the trade deadline.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19194322/GettyImages-2289390667-scaled.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "PM Sánchez admits 'mistakes' in key debate ahead of Spain's election",
-      "link": "https://www.france24.com/en/europe/20261120-pm-s%C3%A1nchez-admits-mistakes-in-key-debate-ahead-of-spain-election",
-      "source": "France 24",
-      "date": "2026-11-20T00:49:44Z",
-      "description": "Spain's Prime Minister Pedro Sánchez acknowledged shortcomings in his government on Thursday as he faced conservative rival Alberto Núñez Feijóo in the campaign's only televised debate. The November 29 election could leave the far-right Vox party in a position to enter government.",
-      "image": "https://s.france24.com/media/display/adb0ecfc-e435-11f1-9ff1-13439ca2fe89/w:1024/p:16x9/bfcd4adc17d0c1b4d4952e5c826ecffd1efc0af3.jpg",
-      "category": "world"
-    },
-    {
-      "title": "Bill Hader’s Feature Directorial Debut ‘They Know’ Acquired by Black Bear",
-      "link": "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795",
-      "source": "Variety",
-      "date": "2026-11-20T00:30:46Z",
-      "description": "Black Bear has acquired the North American rights to Bill Hader’s feature directorial debut “They Know.” Hader also wrote and stars in the horror-thriller with Linda Cardellini. Based on an idea from Hader and his “Barry” collaborator Duffy Boudreau, “‘They Know’ follows a divorced dad who becomes increasingly suspicious and paranoid that his ex-wife’s new […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-19-Nov-2026-04-22-PM-3973.jpg",
-      "category": "entertainment"
-    },
-    {
-      "title": "Oscar Predictions: Amanda Seyfried and Matt Damon Take the Top Spots for the First Time as Hollywood Heads Into Thanksgiving",
-      "link": "https://variety.com/lists/2027-oscars-predictions",
-      "source": "Variety",
-      "date": "2026-11-20T00:30:00Z",
-      "description": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000_b934d2.jpg",
-      "category": "entertainment"
     }
   ],
   "nigeria": [
@@ -509,7 +509,7 @@
       "category": "world"
     },
     {
-      "title": "Anti-monarchy group hands over 'evidence' on Andrew to police and CPS as it calls for investigation",
+      "title": "Anti-monarchy group hands over 'evidence' on Andrew as it calls for investigation",
       "link": "https://news.sky.com/story/republic-hands-over-evidence-on-andrew-mountbatten-windsor-to-police-and-cps-as-it-calls-for-investigation-13614007",
       "source": "Sky News Home",
       "date": "2026-11-19T23:00:00Z",
@@ -572,7 +572,7 @@
       "category": "world"
     },
     {
-      "title": "Thomas Markle fit to stand trial, US court rules",
+      "title": "Thomas Markle fit to stand trial over child abuse images, US court rules",
       "link": "https://news.sky.com/story/thomas-markle-fit-to-stand-trial-over-child-abuse-images-us-court-rules-13614172",
       "source": "Sky News Home",
       "date": "2026-11-19T21:39:00Z",
@@ -614,6 +614,15 @@
       "date": "2026-11-19T20:41:06Z",
       "description": "US envoy Jared Kushner said Thursday that President Donald Trump was open to extending to Ukraine a security guarantee similar to NATO's mutual defense clause, but stressed that Washington has to protect its interests too. The comments came as German Chancellor Friedrich Merz qualified the summit between the presidents of the United States, Russia and China as a \"photo op\". FRANCE 24's international affairs commentator Douglas Herbert explains.",
       "image": "https://s.france24.com/media/display/25b84e6c-e444-11f1-a13d-ebb478925cf0/w:1024/p:16x9/2026-11-19T175030Z-1149809636-RC24ROAX76LX-RTRMADP-3-UKRAINE-CRISIS-GERMANY-BRITAIN.jpg",
+      "category": "world"
+    },
+    {
+      "title": "UK conducting offensive cyber ops against Russia, China, Iran and North Korea, says top commander",
+      "link": "https://news.sky.com/story/uk-conducting-offensive-cyber-ops-against-russia-china-iran-and-north-korea-top-commander-reveals-13614163",
+      "source": "Sky News Home",
+      "date": "2026-11-19T20:35:00Z",
+      "description": "The UK is conducting offensive cyber operations against Russia, China, Iran and North Korea, a top military commander has for the first time revealed.",
+      "image": "https://e3.365dm.com/26/11/1920x1080/skynews-soldier-cyber-ops_7410955.jpg?20261119214131",
       "category": "world"
     },
     {
@@ -669,18 +678,18 @@
       "description": "Gang of three or glorified photo op? Xi Jinping hosting Donald Trump and Vladimir Putin on the sidelines of the APEC summit. Already, our Monday panel rejected attempts to paint the three-way meeting as a new Yalta, as in the 1945 sit-down on the Black Sea that defined the post-war security architecture of Europe.",
       "image": "https://s.france24.com/media/display/1cf1dff8-e44b-11f1-81ed-ebb478925cf0/w:1024/p:16x9/2026-11-19T112415Z-149699658-RC2ZQOAH0BR6-RTRMADP-3-APEC-SUMMIT.jpg",
       "category": "world"
-    },
-    {
-      "title": "Xi-Trump-Putin trilateral meeting: Trump's recognition of China and Russia as 'peers of the US'",
-      "link": "https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us",
-      "source": "France 24",
-      "date": "2026-11-19T19:33:56Z",
-      "description": "Genie Godula is pleased to welcome Olivia Cheung. The trilateral meeting between Donald Trump, Xi Jinping and Vladimir Putin at the APEC summit was significant despite the absence of concrete agreements, according to Cheung. “The significance is seen in the precedence of the United States seeing and giving recognition that China and Russia are peers of the United States,” she explained, adding that “the image of a G3 is very significant.”",
-      "image": "https://s.france24.com/media/display/61a7631a-e447-11f1-ad61-e56ab3dc0809/w:1024/p:16x9/EN-20261119-130423-130957-CS.jpg",
-      "category": "world"
     }
   ],
   "business": [
+    {
+      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak",
+      "source": "Cointelegraph",
+      "date": "2026-11-20T03:33:22Z",
+      "description": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
+      "category": "business"
+    },
     {
       "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
       "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company",
@@ -733,15 +742,6 @@
       "date": "2026-11-19T21:45:00Z",
       "description": "Bitcoin Magazine SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam The SEC charged eight Colorado-based entities on Thursday with running a fake investment adviser and crypto trading platform scheme that took more than $37 million from U.S. investors. The agency said the defendants are likely operated by people overseas. According to the SEC’s complaint , filed in the U.S. District Court for the District of Colorado, the defendants defrauded more than 1,500 investors from at least August 2024 through May 2026. The advisers and the trading platforms they pointed victims to were fronts, the agency alleged, and none of the crypto assets investors thought they were buying existed. How the scheme worked Social media ads sent prospective victims to WhatsApp group and private chats run by the scammers. People in those chats posing as investment advisers first gave advice on trading U.S. stocks, then pushed victims to send as much money as possible to a supposed crypto trading platform. The complaint says the scheme ran in four adviser and platform pairs, each active for roughly six months. Advisor WeChat Capital and Tech Brokerage Asset Alliance operated from about August to December 2024. HB Wealth Advisors and IdeaCrypto Exchange followed from January to July 2025. Convergent Wealth Advisors and RealSimple Crypto Exchange ran from about July to December 2025. Associated Wealth Advisors and Essential Crypto Exchange closed out the scheme from January to May 2026. Each pair vanished after collecting millions, the SEC said, and a new one took its place. Victims were told to buy ether, tether or USDC on a U.S. exchange and move it to a self-custody wallet. They then sent it to an address supplied by the adviser, and a realistic app showed balances and gains that were invented. When investors tried to withdraw their supposed profits, they were told they first had to pay a fee, calculated as a percentage of those profits, in crypto to a separate address. The complaint says investors who balked were threatened and pressured. Eventually the websites went down and the chats went silent. Fake certificates and real losses To look legitimate, the defendants made fake SEC certificates and pointed skeptical investors to real filings with the SEC, FINRA and FinCEN. The complaint says those filings carry no regulatory approval, since registering for access to its EDGAR system is ministerial and Forms ADV are not reviewed before publication. The complaint says Convergent Wealth and Essential Crypto also filed false Forms ADV listing regulatory contacts who do not appear to be real and offices in Colorado that did not exist. The SEC said a Form D and the two Forms ADV have been removed from its website. Three unnamed investors illustrate the damage. One lost nearly $500,000, including money borrowed from a 401(k), a son and a neighbor. Another lost about $850,000, partly by liquidating a 401(k), and a third lost close to $1.6 million, including ",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/02/U.S.-Government-Seizes-Over-580-Million-in-Crypto-Linked-to-Southeast-Asian-Scams.jpg",
-      "category": "business"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "source": "Cointelegraph",
-      "date": "2026-11-19T21:42:20Z",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
       "category": "business"
     },
     {
@@ -909,6 +909,24 @@
   ],
   "entertainment": [
     {
+      "title": "‘Hanuman Ansh,’ ‘Pyre’ and Shah Rukh Khan Classics Lead International Film Festival of India’s Inflatable Cinema Lineup as NFDC, ESG Renew PictureTime Partnership",
+      "link": "https://variety.com/2026/film/festivals/hanuman-ansh-pyre-iffi-inflatable-cinema-lineup-goa-1236952961",
+      "source": "Variety",
+      "date": "2026-11-20T03:30:00Z",
+      "description": "Vishal Chaturvedi’s hit “Hanuman Ansh” and Vinod Kapri’s “Pyre” will headline a pop-up inflatable cinema at the International Film Festival of India (IFFI) in Goa, where the National Film Development Corporation (NFDC) and the Entertainment Society of Goa (ESG) have teamed with PictureTime Digiplex again. The mobile auditorium is going up on the Kala Academy […]",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Hanuman-Ansh.jpg",
+      "category": "entertainment"
+    },
+    {
+      "title": "‘War’ Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: ‘Gwyneth Paltrow Ran So That the Rest of Us Could Walk’",
+      "link": "https://variety.com/2026/tv/global/war-finale-sienna-miller-dominic-west-final-scene-who-won-divorce-1236951845",
+      "source": "Variety",
+      "date": "2026-11-20T03:00:00Z",
+      "description": "SPOILER ALERT: This article contains major spoilers for “War,” which had its season finale on Nov. 19 on HBO and HBO Max in the U.S., and drops on Nov. 20 on Sky and NOW in the U.K. The climactic season finale of “War”— the Sky and HBO drama series starring Sienna Miller and Dominic West […]",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Sienna-Miller-Dominic-West-War.jpg",
+      "category": "entertainment"
+    },
+    {
       "title": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
       "link": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893",
       "source": "Variety",
@@ -969,15 +987,6 @@
       "date": "2026-11-19T23:55:48Z",
       "description": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect […]",
       "image": "https://variety.com/wp-content/uploads/2026/11/LA-BOLA-NEGRA-1000_003d90.jpg",
-      "category": "entertainment"
-    },
-    {
-      "title": "Lance Broadway, Former MLB Pitcher and ‘Agents Of S.H.I.E.L.D.’ Actor, Dies at 43",
-      "link": "https://variety.com/2026/tv/news/lance-broadway-dead-mlb-pitcher-agents-of-shield-1236953699",
-      "source": "Variety",
-      "date": "2026-11-19T23:54:48Z",
-      "description": "Lance Broadway, a former Major League Baseball pitcher-turned-actor who appeared in Marvel’s “Agents of S.H.I.E.L.D.,” has died at 43. Broadway was found dead on Nov. 17 in an apartment complex stairwell in Dallas, Texas, according to the Dallas County Medical Examiner. His cause of death is pending autopsy results. Broadway was a pitcher who played […]",
-      "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-167250168.jpg",
       "category": "entertainment"
     },
     {
@@ -1123,51 +1132,114 @@
       "description": "Newlyweds Efya and Tomi Thomas at their white wedding reception in Accra. Photo Credit: Thret Studio/Instagram Two music stars, two countries, one beautiful love story! Nigerian singer Tomi Thomas and Ghanaian songstress Efya have made things official, celebrating their union in Accra with a wedding that brought Nigerian and Ghanaian traditions together. From their coordinated traditional looks to their elegant white wedding outfits and a song Tomi made especially for his bride, there was plenty to love about this celebration. If you’ve followed the music scenes in Nigeria and Ghana, you’ll know that Tomi and Efya have each carved out their own place in contemporary African music. Tomi Thomas, who hails from Delta State, Nigeria, first gained recognition as part of the music collective L.O.S (Loud On Sound), before building a solo catalogue that moves across Afro-fusion and alternative sounds. Efya, born Jane Awindor in Kumasi, Ghana, is one of the country’s most celebrated vocalists, known for her soulful music and multiple Ghana Music Awards. Now, the two have added a beautiful new chapter to their story, bringing their families, friends and two cultures together in Accra. Efya and Tomi Thomas in black and olive-green outfits for their wedding reception. Photo Credit: Photo Humor/Instagram One of the lovely fashion moments from the celebration was their Nigerian traditional attire. The couple coordinated in rich bronze-brown shades, with Tomi wearing a woven traditional robe, complete with a matching traditional cap. He accessorised with layered orange coral neck beads, matching wrist beads and black loafers, while carrying a circular feathered fan inscribed with “OGENEE”. Efya was every bit his match in a fitted, floor-length bronze-brown gown, with gold and silver beadwork covering the corset bodice and sheer sleeves. The structured peplum details at the hips added shape to the dress, while a beaded treble clef motif on the skirt made a sweet reference to the music that brought so much of their story together. She finished with a pleated gold-and-bronze headwrap, a white-and-coral beaded choker, coral earrings and gold strappy heels. Tomi Thomas and Efya in coordinated bronze-brown traditional attire for their wedding in Accra. Photo Credit: Tomi Thomas/Instagram For their white wedding, the couple opted for a timeless black-and-white palette. Tomi kept things classic in a double-breasted white tuxedo jacket, complete with a white pocket square, crisp dress shirt and black bow tie. Black tailored trousers and matching dress shoes completed his look. Efya, meanwhile, made a beautiful bridal entrance in a fitted white lace mermaid gown with an embellished illusion neckline, sheer floral lace long sleeves and a corset-style waist. The voluminous detachable overskirt added another dimension to the dress, while her sleek low bun and large white structured bouquet with a jewelled centre completed her bridal look. Against a setting of chandeliers an",
       "image": "https://www.bellanaija.com/wp-content/uploads/2026/11/SaveClip.App_893578862_18634732027061003_8399688535143465177_n-scaled.jpg",
       "category": "entertainment"
-    },
-    {
-      "title": "Detty December 2026 Travel Guide: Hotels, Resorts and Things to Do in Lagos and Enugu",
-      "link": "https://www.bellanaija.com/2026/11/detty-december-2026-lagos-enugu",
-      "source": "BellaNaija",
-      "date": "2026-11-18T09:13:20Z",
-      "description": "December in Nigeria is practically a season of its own. Group chats are buzzing, flights are being booked, wedding invitations are coming in, an everyone seems to have holiday plans. From concerts, parties, and social gatherings to family reunions and Christmas celebrations, there is always something happening. For many, it is the most anticipated time of the year, a chance to reconnect with loved ones, explore new places, and make the most of the holidays. For some, it’s the excitement of Detty December in Lagos. For others, it’s finally getting everyone together for Christmas, taking a much-needed break, or planning a getaway after a long year. With so much happening, one thing deserves a little more attention than it usually gets: where you’ll be staying. A good hotel can make all the difference to your holiday. Think relaxing mornings, comfortable rooms, good food, a convenient location, exciting experiences nearby, and somewhere to unwind after a long day of activities. After all, where you stay can shape your entire holiday experience. Whether you’re planning to experience Detty December in Lagos or spend Christmas in Enugu, we’ve put together a guide to some accommodation options and experiences worth considering as you plan your holiday. Where to Stay in Lagos for Detty December Anyone who has experienced Lagos in December knows that the city takes the festive season seriously. Concerts, weddings, parties, restaurant dates, beach outings, family gatherings and the occasional last-minute plan that turns into the highlight of your holiday, there’s always something happening. With so much going on across the city, staying in a convenient location can save you time and make getting around much easier. Victoria Island remains one of Lagos’s most popular areas for visitors during the festive season, thanks to its restaurants, entertainment destinations, and proximity to major lifestyl attractions; it’s a top pick for visitors looking for the best of the city in December. A top hotel choice located in Landmark Lagos, Oniru, Victoria Island would be the Landmark Hotel, which offers an appealing option for visitors looking to enjoy the best of Lagos while having a comfortable place to retreat to at the end of the day. With ocean and city views, comfortable accommodation and access to the wider Landmark Lagos leisure and lifestyle ecosystem, Landmark Hotel gives guests more than just a place to stay. It puts them close to a range of experiences, dining options and entertainment destinations, making it easier to enjoy the festive season without having to travel too far. And the best part? There’s plenty to explore! Guests can enjoy dining experiences within the Landmark ecosystem, visit the Landmark Upside Down House, and attend events at POP Landmark, Landmark Center, or simply spend time exploring the recreational attractions available in the area. Families visiting with children can also plan outings to the Landmark Kids Club. For visitors coming",
-      "image": "https://www.bellanaija.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-17-at-3.07.57-PM.jpeg",
-      "category": "entertainment"
     }
   ],
   "sports": [
     {
-      "title": "Colts vs. Texans score, live updates: Kayshon Boutte’s TD catch extends Houston’s lead over Indy to 14-3",
-      "link": "https://www.nytimes.com/athletic/live-blogs/colts-vs-texans-live-score-updates-nfl-tnf-result/diKaglHf6jta",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T02:24:36Z",
-      "description": "Follow our live coverage as the Texans host the Colts in an AFC South rivalry game to kick off Week 11.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/diKaglHf6jta_yQ2r2t7pHYGd_1440x960.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "F1 Las Vegas GP live updates: Rain washes out first practice, FP2 still to come at final U.S. race weekend",
-      "link": "https://www.nytimes.com/athletic/live-blogs/f1-las-vegas-gp-live-updates-fp1-fp2-times-results/VxLr959bHnHh",
-      "source": "The Athletic Sports",
-      "date": "2026-11-20T02:21:14Z",
-      "description": "Follow live coverage as the Formula 1 season’s final triple-header begins at Las Vegas Strip Circuit.",
-      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/VxLr959bHnHh_gJpl3jQDoWnz_1440x960.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "NBA season live updates: KAT, Knicks visit Wolves; Spurs eye win No. 13 and more",
+      "title": "NBA season live updates: KAT, Knicks beat Wolves; Spurs get win No. 13 and more",
       "link": "https://www.nytimes.com/athletic/live-blogs/nba-news-schedule-scores-games-live-updates-2026/CzqWv0txVItd",
       "source": "The Athletic Sports",
-      "date": "2026-11-20T02:19:17Z",
+      "date": "2026-11-20T03:59:05Z",
       "description": "Follow our live coverage of the latest news, scores and and NBA action from across the league.",
       "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/CzqWv0txVItd_1aNsE7LDwkeN_1440x960.jpg",
       "category": "sports"
     },
     {
-      "title": "Bills to retire Andre Reed’s No. 83 next season",
+      "title": "Colts vs. Texans score, live updates: Houston dominating Indy 26-3 in 4th quarter of ‘Thursday Night Football’",
+      "link": "https://www.nytimes.com/athletic/live-blogs/colts-vs-texans-live-score-updates-nfl-tnf-result/diKaglHf6jta",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:58:09Z",
+      "description": "Follow our live coverage as the Texans host the Colts in an AFC South rivalry game to kick off Week 11.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/diKaglHf6jta_S911nqK3Cmuu_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "F1 Las Vegas GP live updates: FP2 latest after rain washes out first practice at final U.S. race weekend",
+      "link": "https://www.nytimes.com/athletic/live-blogs/f1-las-vegas-gp-live-updates-fp1-fp2-times-results/VxLr959bHnHh",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:55:13Z",
+      "description": "Follow live coverage as the Formula 1 season’s final triple-header begins at Las Vegas Strip Circuit.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/VxLr959bHnHh_DMCY45UoP0cE_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Minnesota Wild vs. Calgary Flames: Live updates from Michael Russo and Joe Smith",
+      "link": "https://www.nytimes.com/athletic/live-blogs/minnesota-wild-results-season/y2Xyq3gsFEog",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:47:59Z",
+      "description": "Michael Russo and Joe Smith bring you the ultimate fan spot for news, discussion and access to the Wild.",
+      "image": "https://theathletic-media-production.s3-us-west-2.amazonaws.com/y2Xyq3gsFEog_hgJbPnLeRCWf_1440x960.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Researchers discover link that could help diagnose CTE in living patients",
+      "link": "https://www.nytimes.com/athletic/7796667/2026/11/19/cte-blood-test-living-patient-studies",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:32:57Z",
+      "description": "The inability to test living patients and lack of verifiable prevention methods have fueled concerns among athletes and parents.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19215556/GettyImages-2123636327-e1795144081584.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "How to watch San Diego State vs. No. 15 Boise State: TV channel and streaming options for November 21",
+      "link": "https://www.nytimes.com/athletic/7796823/2026/11/19/san-diego-state-vs-boise-state-stream-how-to-watch-nov-21",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:30:53Z",
+      "description": "Find out how to watch the San Diego State Aztecs play the Boise State Broncos, with time, TV channel and streaming information.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19223052/SKpI1Zy.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Damian Lillard, after thoughts on 2025 waiver, lights up Bucks' defense",
+      "link": "https://www.nytimes.com/athletic/7796734/2026/11/19/damian-lillard-bucks-trail-blazers-waive-2025",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:28:43Z",
+      "description": "Shortly after the Bucks waived him, Lillard signed a three-year, $42 million deal to return to Portland, where he started his NBA career.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19221820/2026-11-20T020611Z_844755076_MT1USATODAY30386186_RTRMADP_3_NBA-PORTLAND-TRAIL-BLAZERS-AT-MILWAUKEE-BUCKS-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Mets sign former Red Sox reliever Darwinzon Hernández to 3-year, $12 million deal: Source",
+      "link": "https://www.nytimes.com/athletic/7796629/2026/11/19/mets-darwinzon-hernandez-free-agent-contract",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:21:42Z",
+      "description": "Darwinzon Hernández spent the past four seasons in Japan after pitching for the Red Sox from 2019 to 2022.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19211844/GettyImages-1409307228-scaled-e1795145405995.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "How to watch No. 2 Utah vs. TCU: TV channel and streaming options for November 21",
+      "link": "https://www.nytimes.com/athletic/7796774/2026/11/19/utah-vs-tcu-stream-how-to-watch-nov-21",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:20:08Z",
+      "description": "Find out how to watch the Utah Utes play the TCU Horned Frogs, with time, TV channel and streaming information.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19222007/7af4bFc.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Connor McDavid's point streak ends at 23 games in Oilers' loss to Lightning",
+      "link": "https://www.nytimes.com/athletic/7787632/2026/11/19/connor-mcdavid-point-streak-oilers",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:11:45Z",
+      "description": "Connor McDavid's season-opening point streak ended at 23 games on Thursday night.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19220613/GettyImages-2305377939-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "After shoulder surgery, Rockies' Hunter Goodman expected to be ready for spring training: Sources",
+      "link": "https://www.nytimes.com/athletic/7796558/2026/11/19/hunter-goodman-rockies-shoulder-surgery",
+      "source": "The Athletic Sports",
+      "date": "2026-11-20T03:01:40Z",
+      "description": "Goodman, 27, strained his shoulder on a swing Aug. 12 and did not play again until Aug. 25.",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/26202333/2026-07-11T052808Z_592041666_MT1USATODAY29369339_RTRMADP_3_MLB-COLORADO-ROCKIES-AT-SAN-FRANCISCO-GIANTS-scaled.jpg",
+      "category": "sports"
+    },
+    {
+      "title": "Bills to retire Hall of Fame receiver Andre Reed’s No. 83 next season",
       "link": "https://www.nytimes.com/athletic/7796607/2026/11/19/bills-andre-reed-number-83-retirement",
       "source": "The Athletic Sports",
       "date": "2026-11-20T02:17:55Z",
-      "description": "Bills legend Andre Reed’s No. 83 will join the retired numbers of Jim Kelly, Thurman Thomas and Bruce Smith at Highmark Stadium next season.",
+      "description": "Reed’s No. 83 will join the retired numbers of Jim Kelly, Thurman Thomas and Bruce Smith at Highmark Stadium.",
       "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19211227/GettyImages-453092648-scaled.jpg",
       "category": "sports"
     },
@@ -1195,7 +1267,7 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:24:26Z",
       "description": "Find out how to watch the Virginia Tech Hokies play the Miami Hurricanes, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19202426/siFO51s.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19222721/DGmd8SN.jpg",
       "category": "sports"
     },
     {
@@ -1204,7 +1276,7 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:19:39Z",
       "description": "Find out how to watch the Maryland Terrapins play the USC Trojans, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201939/Uq2G8Gn.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19222109/SThjCuQ.jpg",
       "category": "sports"
     },
     {
@@ -1213,7 +1285,7 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:17:37Z",
       "description": "Find out how to watch the Arizona Wildcats play the Kansas State Wildcats, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201736/BnVJuXV.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19221226/WIC1TMA.jpg",
       "category": "sports"
     },
     {
@@ -1222,7 +1294,7 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:16:34Z",
       "description": "Find out how to watch the SMU Mustangs play the Notre Dame Fighting Irish, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201633/zFkfbtC.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19222406/KHCmvVx.jpg",
       "category": "sports"
     },
     {
@@ -1231,7 +1303,7 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:15:35Z",
       "description": "Find out how to watch the Georgia Bulldogs play the South Carolina Gamecocks, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201534/jiA7NiG.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19221404/OEwqkSX.jpg",
       "category": "sports"
     },
     {
@@ -1240,7 +1312,7 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:13:50Z",
       "description": "Find out how to watch the Kentucky Wildcats play the Missouri Tigers, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201349/TQEeeCO.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19222621/iT48uwe.jpg",
       "category": "sports"
     },
     {
@@ -1249,7 +1321,7 @@
       "source": "The Athletic Sports",
       "date": "2026-11-20T01:12:47Z",
       "description": "Find out how to watch the Pittsburgh Panthers play the Louisville Cardinals, with time, TV channel and streaming information.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19201247/NkBvbCB.jpg",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19221827/CoM48KN.jpg",
       "category": "sports"
     },
     {
@@ -1286,78 +1358,6 @@
       "date": "2026-11-20T00:07:23Z",
       "description": "One team currently in the Western Conference will likely need to switch to the East if the NBA expands to both Seattle and Las Vegas.",
       "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19152115/GettyImages-2259321871-scaled.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Las Vegas GP: No laps completed in first practice due to heavy rain LIVE!",
-      "link": "https://www.skysports.com/f1/live-blog/12433/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
-      "source": "Sky Sports Formula 1",
-      "date": "2026-11-19T23:25:00Z",
-      "description": "",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-f1-las-vegas-sergio-perez_7411046.jpg?20261120005444",
-      "category": "sports"
-    },
-    {
-      "title": "LAPD responds to break-in call on block where Justin Herbert, Madison Beer have home",
-      "link": "https://www.nytimes.com/athletic/7796050/2026/11/19/justin-herbert-madison-beer-break-in",
-      "source": "The Athletic Sports",
-      "date": "2026-11-19T23:09:01Z",
-      "description": "The investigation is ongoing and the LAPD did not confirm whether the house in question was Beer’s or a neighbor's.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19171751/GettyImages-2269320330-scaled-e1795126881250.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Sykes ready to go 'all the way' on debut at Grand Slam after stunning Humphries",
-      "link": "https://www.skysports.com/darts/news/12040/13614196/tom-sykes-ready-to-go-all-the-way-on-debut-at-grand-slam-of-darts-after-defeating-luke-humphries",
-      "source": "Sky Sports Football",
-      "date": "2026-11-19T22:39:00Z",
-      "description": "Tom Sykes pulled off the biggest win of his darting career with a 10-9 victory over Luke Humphries in the last 16 at the Grand Slam of Darts - but he does not want to stop there.",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-tom-sykes-darts-grand-slam-of-darts_7411001.jpg?20261119222737",
-      "category": "sports"
-    },
-    {
-      "title": "President Trump says he’s given pardon to Pete Rose. Does it change anything?",
-      "link": "https://www.nytimes.com/athletic/7796018/2026/11/19/donald-trump-pete-rose-pardon-hall-of-fame-chances",
-      "source": "The Athletic Sports",
-      "date": "2026-11-19T22:34:11Z",
-      "description": "The announcement does little to alter the Hall of Fame status for Pete Rose, whose first chance to be elected to the body won't come before December 2027.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19170855/GettyImages-2268513630-1.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Scott Parker backs West Ham goalkeeper Mads Hermansen: 'He is having a bit of a tough time'",
-      "link": "https://www.nytimes.com/athletic/7795989/2026/11/19/west-ham-hermansen-parker-form",
-      "source": "The Athletic Sports",
-      "date": "2026-11-19T22:30:34Z",
-      "description": "Hermansen, 26, was booed by sections of the fanbase during the 2-1 loss to Blackburn Rovers on November 7.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19163300/GettyImages-2296089686-scaled-e1795124003954.jpg",
-      "category": "sports"
-    },
-    {
-      "title": "Hull one shot off the lead at the CME Group Tour Championship",
-      "link": "https://www.skysports.com/watch/video/13614193/cme-group-tour-championship-day-one-highlights",
-      "source": "Sky Sports Football",
-      "date": "2026-11-19T22:21:00Z",
-      "description": "Highlights from day one of the CME Group Tour Championship at Tiburón Golf Club, Florida.",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-cme-hull_7410993.jpg?20261119222105",
-      "category": "sports"
-    },
-    {
-      "title": "Svensson leads on day one of the RSM Classic",
-      "link": "https://www.skysports.com/watch/video/13614188/rsm-classic-day-one-highlights",
-      "source": "Sky Sports Football",
-      "date": "2026-11-19T22:17:00Z",
-      "description": "Highlights from day one of the RSM Classic at the Sea Island Seaside Course, Georgia.",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-rsm-golf_7410996.jpg?20261119222212",
-      "category": "sports"
-    },
-    {
-      "title": "College football score projections Week 12: Model predicts every FBS vs. FBS game",
-      "link": "https://www.nytimes.com/athletic/7795661/2026/11/19/college-football-score-projections-week-12-model-spreads",
-      "source": "The Athletic Sports",
-      "date": "2026-11-19T22:02:16Z",
-      "description": "Austin Mock's College Football Projection Model has point differentials and totals for every FBS vs. FBS game in Week 12.",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/11/19144842/GettyImages-2305186595-scaled-e1795117755665.jpg",
       "category": "sports"
     }
   ],
@@ -1590,6 +1590,15 @@
   ],
   "science": [
     {
+      "title": "Senate Passes Major Permitting Bill to Speed Up Energy Projects",
+      "link": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html",
+      "source": "New York Times Science",
+      "date": "2026-11-20T03:35:38Z",
+      "description": "The bill would overhaul federal environmental laws to make it easier to build everything from gas pipelines to wind farms. But it faces hurdles in the House.",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20cli-permitting-senate-HFO2-qlhz/20cli-permitting-senate-HFO2-qlhz-mediumSquareAt3X.jpg",
+      "category": "science"
+    },
+    {
       "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
       "link": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
       "source": "Space.com",
@@ -1803,15 +1812,6 @@
       "date": "2026-11-19T14:44:39Z",
       "description": "1 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA conducts a hot fire test of RS-25 engine No. 10001 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, on Nov. 18, 2026. NASA/Danny Nowlin NASA conducts a hot fire test of RS-25 engine No. 10001 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, on Nov. 18, 2026. NASA/Danny Nowlin NASA conducts a hot fire test of RS-25 engine No. 10001 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, on Nov. 18, 2026. NASA/Danny Nowlin NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot fire test provides NASA and NASA’s prime contractor L3Harris Technologies with the capability to capture critical data to improve engine performance and reliability for future Artemis missions. For the Artemis IV Moon landing mission in 2028, the SLS rocket will launch astronauts aboard the Orion spacecraft from NASA’s Kennedy Space Center in Florida. This mission will be a key step in the agency’s broader goals to explore the lunar South Pole, establish an enduring human presence on the lunar surface, and build on the agency’s foundation for the first crewed mission to Mars. For each Artemis mission, four RS-25 engines produce up to 2 million pounds of combined thrust to help launch the SLS rocket. All RS-25 engines are tested and proven flightworthy at NASA Stennis prior to use. Tests are conducted by a team of operators from NASA, L3Harris, and Nova Space Solutions. Learn more about Artemis",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ssc-20261118-s01364.jpg?w=1024",
-      "category": "science"
-    },
-    {
-      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
-      "link": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth",
-      "source": "NASA Breaking News",
-      "date": "2026-11-19T14:31:15Z",
-      "description": "Voyager 1, depicted in this artist’s concept, reached one light-day from Earth on Nov. 18, 2026. Credit: NASA/JPL-Caltech NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team members at NASA’s Jet Propulsion Laboratory in Southern California, managed by Caltech, heard from the probe 24 hours later, the time it took for the spacecraft’s radio signal traveling at the speed of light to reach Earth, early Thursday. “Traveling a light-day is a singular feat for a spacecraft, but Voyager is so much more than a distant traveler. The Voyager mission would be remarkable just for what it contributed to planetary science with the Grand Tour of the outer planets,” said Joe Westlake, director, Heliophysics Division at NASA Headquarters in Washington. “But it went on to become central to NASA’s fleet of heliophysics missions offering insights into the star that we all revolve around, the Sun.” Scientists use light to measure the vast distances of space. Light travels at about 186,000 miles (299,000 kilometers) a second in a vacuum. A ray of sunlight passing Earth takes about 1.3 seconds to reach the Moon, about four hours to reach Neptune, and another 20 hours to reach Voyager 1. For comparison, a light-year is 5.88 trillion miles (9.46 trillion kilometers). Even though the team has not received science and engineering data from Voyager 1 since Nov. 14, the spacecraft is sending what is called a carrier signal, which typically conveys that data to Earth. Mission engineers used the carrier signal and trajectory calculations to confirm the light-day milestone. They continue to analyze the issue impacting the science and engineering data. Humanity’s only probes in interstellar space, Voyager 1 and its twin, Voyager 2, launched in 1977 to take advantage of a rare planetary alignment. Managed by JPL, they were only the third and fourth spacecraft to visit Jupiter and Saturn, and the first to return high-resolution imagery, transforming our understanding of these worlds and their moons. Voyager 2 went on to study the ethereal ice giants, Neptune and Uranus. Both spacecraft continue to measure changes in the Sun’s magnetic field across vast distances. “Voyager 1 crossing the light-day threshold is yet another historic feat on an extraordinary voyage of discovery,” said Dave Gallagher, JPL director. “Above all, this milestone stands as a testament to the exceptional teams who built, programmed, and fly these spacecraft today, and who have overcome countless challenges to keep them connected to Earth across the vastness of space. As NASA pushes toward new frontiers in human and robotic exploration, Voyager and the people behind its success continue to inspire us to reach f",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-light-day-horizontal.png?w=2048",
       "category": "science"
     }
   ]

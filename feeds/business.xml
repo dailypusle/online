@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges</title>
+<link>https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec</link>
+<guid isPermaLink="false">90917f310dc029d329946f4fb9d0fa3034d00b093f337e75fea917d902a681f8</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Sat, 21 Nov 2026 17:01:02 +0000</pubDate>
+<description>The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It</title>
 <link>https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots</link>
 <guid isPermaLink="false">93911cdcd78594af4def2d871bb6738d4af122f4dc8a5fd672ac514781bf9885</guid>
@@ -1333,17 +1344,6 @@
 <description>Bitcoin slid toward $63,000 as Anthropic prepared its blockbuster debut. Analysts dispute whether the IPO is draining crypto liquidity, pointing instead to ETF outflows, forced selling and rising interest rates.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom</title>
-<link>https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom</link>
-<guid isPermaLink="false">7344c491d91fb69bb58367f6d8c4fb6d55109e783b3b94c6eed3caa935963aad</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 18:46:03 +0000</pubDate>
-<description>MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>OneMain gets FDIC green light for ILC charter</title>

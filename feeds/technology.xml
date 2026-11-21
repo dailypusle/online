@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Anthropic employee claims to have proven the most famous math problem using Claude</title>
+<link>https://www.engadget.com/2324141/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude</link>
+<guid isPermaLink="false">a3b191eee961261d681815baa11c73f5d08fe2f0dca74b9bd18836ffc1dfa4c5</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 19:45:01 +0000</pubDate>
+<description>Levent Alpöge says he worked with Claude to discover a proof of the Riemann Hypothesis.</description>
+<enclosure url="https://www.engadget.com/img/gallery/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude/l-intro-1795290107.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude/l-intro-1795290107.jpg" medium="image"/>
+</item>
+<item>
+<title>Here's how much a Sony Walkman cost in 1980 vs. 2026</title>
+<link>https://www.engadget.com/2318873/how-much-sony-walkman-cost-1980-vs-2026</link>
+<guid isPermaLink="false">5fc902ce0b422475c38cb1ff2d667c8375442e6a361cc8db819354a3fecd5b95</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 19:45:00 +0000</pubDate>
+<description>What would the original Sony Walkman cost today? Here's the inflation-adjusted price of the TPS-L2 and how it paved the way for modern hi-res audio players.</description>
+<enclosure url="https://www.engadget.com/img/gallery/heres-how-much-a-sony-walkman-cost-in-1980-vs-2026/l-intro-1794562570.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/heres-how-much-a-sony-walkman-cost-in-1980-vs-2026/l-intro-1794562570.jpg" medium="image"/>
+</item>
+<item>
+<title>Signs it's time to replace your phone's screen protector</title>
+<link>https://www.engadget.com/2318871/signs-when-replace-phone-screen-protector</link>
+<guid isPermaLink="false">524aa848d8b2b4218bedeb21fac2c86006816d104cbf24777d438fb0b95f18c6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 19:30:00 +0000</pubDate>
+<description>Should you stick with a smashed screen protector or not bother? Here's how to tell when it's time for a new one and unsuspecting signs you need to look for.</description>
+<enclosure url="https://www.engadget.com/img/gallery/signs-its-time-to-replace-your-phones-screen-protector/l-intro-1794579381.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/signs-its-time-to-replace-your-phones-screen-protector/l-intro-1794579381.jpg" medium="image"/>
+</item>
+<item>
+<title>How does iCloud Private Relay's security compare to VPN alternatives?</title>
+<link>https://www.engadget.com/2318772/how-does-icloud-private-relay-security-compare-vpn-alternatives</link>
+<guid isPermaLink="false">8d402164982809c9b98b4d167bcd4e886e609a636f10b1064d7d26707887b318</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 19:15:00 +0000</pubDate>
+<description>iCloud+ subscribers get access to Private Relay, which protects some of their online privacy without being an outright replacement for a traditional VPN.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-does-icloud-private-relays-security-compare-to-vpn-alternatives/l-intro-1794890895.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-does-icloud-private-relays-security-compare-to-vpn-alternatives/l-intro-1794890895.jpg" medium="image"/>
+</item>
+<item>
+<title>Which car has the largest infotainment touchscreen?</title>
+<link>https://www.engadget.com/2318759/largest-car-infotainment-touchscreen</link>
+<guid isPermaLink="false">82b75c1d64c4ff82ad3c7bde9e55b0e8c2f583aca63e0a0618c0fd8cdd44e0d3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 19:00:00 +0000</pubDate>
+<description>Most modern cars will have some kind of infotainment touchscreen, though not all are created equal. One car, in particular, rules the roost for sheer size.</description>
+<enclosure url="https://www.engadget.com/img/gallery/which-car-has-the-largest-infotainment-touchscreen/l-intro-1794886675.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/which-car-has-the-largest-infotainment-touchscreen/l-intro-1794886675.jpg" medium="image"/>
+</item>
+<item>
 <title>Six simple Raspberry Pi projects for beginners</title>
 <link>https://www.engadget.com/2318530/simple-raspberry-pi-projects-for-beginners</link>
 <guid isPermaLink="false">abfe0003fdfec84722659cbaf7d4b7e0de636b5e6d43cbda01c846f7a13a0d91</guid>
@@ -191,28 +246,6 @@
 <media:content url="https://www.engadget.com/img/gallery/ways-you-can-help-your-fitbits-battery-last-longer/l-intro-1794855759.jpg" medium="image"/>
 </item>
 <item>
-<title>The pros and cons of using a VPN over encrypted DNS</title>
-<link>https://www.engadget.com/2317883/pros-cons-using-vpn-over-encrypted-dns</link>
-<guid isPermaLink="false">600291e4ef9f8e216ce27e820bdc3bae20813445f151fe320e7ace8770e11805</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 15:30:00 +0000</pubDate>
-<description>Explore the perks and drawbacks of choosing a VPN over encrypted DNS, from privacy and security to speed, costs, and control over your browsing habits.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-a-vpn-over-encrypted-dns/l-intro-1794592469.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-a-vpn-over-encrypted-dns/l-intro-1794592469.jpg" medium="image"/>
-</item>
-<item>
-<title>Why your ping is terrible (even though you have fast internet)</title>
-<link>https://www.engadget.com/2318153/fast-internet-but-terrible-ping-why</link>
-<guid isPermaLink="false">01f1371375ab469e1bce5a121bd459db1895eb06a66c29c63a9e6acf1f9d3422</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 15:15:00 +0000</pubDate>
-<description>Having a fast internet speed helps with online performance, but ping is the value that matters much more for games and video calls.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-ping-is-terrible-even-though-you-have-fast-internet/l-intro-1794855544.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-ping-is-terrible-even-though-you-have-fast-internet/l-intro-1794855544.jpg" medium="image"/>
-</item>
-<item>
 <title>Can Anthropic afford to put safety first?</title>
 <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
 <guid isPermaLink="false">3298713995b153167b4788ea43cf57a71b1a70643c88b3c40d33ce8bb8414d0a</guid>
@@ -222,17 +255,6 @@
 <description>Today, I’m talking with Hayden Field, The Verge ’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet. The real story is what happens now — and whether Anthropic can continue to thread the needle of caring about and investing in AI safety while also being a public company beholden to shareholders. Oh, and it also continuously growing the amount of money it makes so it can keep paying its ever-increasing compute bills, which total roughly $900 billion over the coming years. All of these ideas sit in a fascinating tension with one another, and so Hayden and I really tried to break down how we think this might play out as Anthropic navigates the pressures of the public markets. You’ll hear us talk about the company’s unique corporate governance structure , something that is especially relevant in the wake of the ongoing Jensen Huang saga. We also get into why OpenAI seems happy to have let Anthropic go public first , and why Anthropic’s whole pitch to big customers boils down to the same safety branding that now sits in conflict with the profit-oriented part of its business. Before we get going, do me a favor and subscribe to Decoder on YouTube, where we put out new episodes every Monday and Thursday. Okay: Hayden Field, The Verge ’s senior AI reporter, on the Anthropic IPO and the economics of frontier AI. Here we go. This interview has been lightly edited for length and clarity. Hayden Field, welcome back to Decoder . Thanks. Great to be here. I’m excited to talk to you today because it’s not pure soap opera drama chaos. I know. It’s like a normal thing that happened. It’s for once not personality-based and soap opera. It’s about cold, hard would-be cash. [Laughs] Well, there is some personality in it because we’re going to talk a lot about Anthropic’s IPO, which has a bunch of big personalities in it, and the way they have structured this company to repel the rapacious pressures of capitalism is, I would say, very eccentric. It reflects the beliefs of a number of eccentric people. Yep, absolutely. It’s really been interesting digging into the S-1 again and just seeing who was on what committee and which founders have the most control here and how much control the founders actually have, which is more than it may seem. Let’s start at the start. You and I are talking on IPO day. Anthropic is the first pure AI lab to go public. They priced the IPO at $83 a share and they got all the way up to $111. By the time people are listening to this, who knows what the price will actually be, but it’s been a real victory lap for all the people who are invested in Anthropic. A bunch of law firms have changed their homepages to be like, “Congratulations, guys!” What do yo</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>How do those 'metal detector' apps for your phone actually work?</title>
-<link>https://www.engadget.com/2318137/how-phone-metal-detector-apps-work</link>
-<guid isPermaLink="false">b9ccf6b151ce9b8e370919aee14d30a30b4853cb070d3c8bd1f4190f6a99216e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
-<description>Your phone can be turned into something of a metal detector, but don't expect the range of a dedicated machine.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-do-those-metal-detector-apps-for-your-phone-actually-work/l-intro-1794854973.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-do-those-metal-detector-apps-for-your-phone-actually-work/l-intro-1794854973.jpg" medium="image"/>
 </item>
 <item>
 <title>Our go-to earbuds for taking calls have fallen to their lowest price to date</title>
@@ -246,17 +268,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>5 gadgets you should never buy used</title>
-<link>https://www.engadget.com/2318096/gadgets-you-should-never-buy-used</link>
-<guid isPermaLink="false">cfbf84ad3839a25eacb20a76452abf2ceb3e9ec5cc8c954ed5e95b62f0c7be4f</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 14:45:00 +0000</pubDate>
-<description>Buying used tech could save you money, but some gadgets aren't worth the risk. Here's what you should avoid buying secondhand unless it's refurbished.</description>
-<enclosure url="https://www.engadget.com/img/gallery/5-gadgets-you-should-never-buy-used/l-intro-1794851054.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/5-gadgets-you-should-never-buy-used/l-intro-1794851054.jpg" medium="image"/>
-</item>
-<item>
 <title>AWS got hit by an outage too. Here's why you didn't hear about it</title>
 <link>https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511</link>
 <guid isPermaLink="false">6c18d82363310c2360f3338e5255b97433224ad7fa73a785231ef1414f3fbc52</guid>
@@ -266,17 +277,6 @@
 <description>My editor asked me this week "why is everything except AWS breaking?" It's a great question! They haven't been in the headlines! In fact, as they are wont to do, AWS spokesperson Patrick Neighorn g ot salty to a reporter about how unreliable Downdetector is when it started showing them as impacted. If you'll permit me a small digression, this stems from a misunderstanding of what Downdetector is for. Historically the AWS status site was so hilariously slow to reflect the lived customer experience that some jackass (me) built a rewriter that sits at stop.lying.cloud to make it a smidgen more realistic. As a result, the question people are really trying to answer when they visit Downdetector is "my app just broke; is it my crappy code or is there a global event going on?" There are mitigations for both, but they look nothing alike. AWS view crowdsourced reports of the form "the internet is broken, must be AWS" as a stain upon their honor. In fact, it's a badge of their own success, as "the internet" and "AWS" have become inextricably linked in people's minds. But back to my editor's question, "why didn't AWS go down?" Easy: it did. Everything breaks, all the time, including the narrative AWS now has 34 generally available commercial regions, of which two are currently smoking craters due to the Iran conflict. Each of these has hundreds of services that AWS offers to customers, of which a dozen or so are high quality, if I'm being characteristically uncharitable. They experience degradation in various ways, and they go largely unnoticed. But on November 15, AWS confirmed an incident that disrupted 11 of those ~12 good services in their oldest and most important region, us-east-1. At 3:05 AM PST, they stated that they started seeing sign-up errors, authentication issues, and connectivity issues. Five minutes later engineers were engaged. Not to be outdone, their status page swung into action after a leisurely coffee, and posted its first indication of an incident 93 minutes later. (See previous comments on stop.lying.cloud ). The all-clear showed up at 6:53 AM. Every site has downtime. Sometimes it blows up publicly, other times nobody seems to notice. Heck, AWS said in September that it had experienced permanent data loss in its two smoking craters, but after that news cycle passed I haven't heard a thing about it. I do think it's patently unreasonable to blame them for this specific problem; "acts of war" are kinda hard to predict from the corporate planning meeting. A few things combined to help AWS out on November 15. First, it was pre-dawn Pacific time on Sunday. Most of us slept through it; my kids aren't even up that early. Further, the services that were most impacted (IAM Identity Center) were for engineers signing in to AWS accounts, not consumers staring at an app that stopped working. Plus, the competition sucked all the oxygen out of the room: a day-plus Microsoft 365 364 outage and a four-hour nationwide air traffic ground stop had done</description>
 <enclosure url="https://image.theregister.com/?imageId=5311515&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311515&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Why so many desktop PC cases have glass walls (and why you might not want that)</title>
-<link>https://www.engadget.com/2318044/desktop-pc-why-tempered-glass-walls-downsides</link>
-<guid isPermaLink="false">3338533595267ded1922539088581b03adcdc357e1658296a0a835e2904a616c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 14:30:00 +0000</pubDate>
-<description>Tempered glass has taken over the PC case market. Learn what drives the trend and the trade-offs that could make a glass-panel build a poor fit for you.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-so-many-desktop-pc-cases-have-glass-walls-and-why-you-might-not-want-that/l-intro-1794852287.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-so-many-desktop-pc-cases-have-glass-walls-and-why-you-might-not-want-that/l-intro-1794852287.jpg" medium="image"/>
 </item>
 <item>
 <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>

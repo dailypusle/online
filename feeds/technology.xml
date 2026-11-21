@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Our go-to earbuds for taking calls have fallen to their lowest price to date</title>
+<link>https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale</link>
+<guid isPermaLink="false">85f686144b1fcd07bb32ffd7a98696b843322efdbc854159b0419d510486f4e6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 14:55:28 +0000</pubDate>
+<description>The Liberty 5 Pro are Soundcore’s most ambitious earbuds to date. | Photo: John Higgins / The Verge If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon , Best Buy , and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of which are discounted through November 30th as part of Anker’s ongoing Black Friday promo . Soundcore Liberty 5 Pro Where to Buy: $169.99 $129.99 at Amazon $169.99 $129.99 at Walmart $169.99 $129.99 at Best Buy While the Liberty 5 Pro have a number of great features — including support LDAC for high-res audio and an IP55 dust and water resistance rating — the call quality is what stands out. The microphone does an impressive job cutting out background noise, and my colleague John Higgins praised the Liberty 5 Pro for filtering out emergency vehicles, arborists cutting tree branches, and even loud children. The active noise cancellation is excellent, which helps when you’re trying to hear someone on the other end of the phone whose earbuds aren’t as clear as yours. The charging case also features a handy 0.96-inch screen, so you can adjust the ANC and sound profile on the fly. Read our Anker Soundcore Liberty 5 Pro review .</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>5 gadgets you should never buy used</title>
+<link>https://www.engadget.com/2318096/gadgets-you-should-never-buy-used</link>
+<guid isPermaLink="false">cfbf84ad3839a25eacb20a76452abf2ceb3e9ec5cc8c954ed5e95b62f0c7be4f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 14:45:00 +0000</pubDate>
+<description>Buying used tech could save you money, but some gadgets aren't worth the risk. Here's what you should avoid buying secondhand unless it's refurbished.</description>
+<enclosure url="https://www.engadget.com/img/gallery/5-gadgets-you-should-never-buy-used/l-intro-1794851054.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/5-gadgets-you-should-never-buy-used/l-intro-1794851054.jpg" medium="image"/>
+</item>
+<item>
+<title>AWS got hit by an outage too. Here's why you didn't hear about it</title>
+<link>https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511</link>
+<guid isPermaLink="false">6c18d82363310c2360f3338e5255b97433224ad7fa73a785231ef1414f3fbc52</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 14:35:00 +0000</pubDate>
+<description>My editor asked me this week "why is everything except AWS breaking?" It's a great question! They haven't been in the headlines! In fact, as they are wont to do, AWS spokesperson Patrick Neighorn g ot salty to a reporter about how unreliable Downdetector is when it started showing them as impacted. If you'll permit me a small digression, this stems from a misunderstanding of what Downdetector is for. Historically the AWS status site was so hilariously slow to reflect the lived customer experience that some jackass (me) built a rewriter that sits at stop.lying.cloud to make it a smidgen more realistic. As a result, the question people are really trying to answer when they visit Downdetector is "my app just broke; is it my crappy code or is there a global event going on?" There are mitigations for both, but they look nothing alike. AWS view crowdsourced reports of the form "the internet is broken, must be AWS" as a stain upon their honor. In fact, it's a badge of their own success, as "the internet" and "AWS" have become inextricably linked in people's minds. But back to my editor's question, "why didn't AWS go down?" Easy: it did. Everything breaks, all the time, including the narrative AWS now has 34 generally available commercial regions, of which two are currently smoking craters due to the Iran conflict. Each of these has hundreds of services that AWS offers to customers, of which a dozen or so are high quality, if I'm being characteristically uncharitable. They experience degradation in various ways, and they go largely unnoticed. But on November 15, AWS confirmed an incident that disrupted 11 of those ~12 good services in their oldest and most important region, us-east-1. At 3:05 AM PST, they stated that they started seeing sign-up errors, authentication issues, and connectivity issues. Five minutes later engineers were engaged. Not to be outdone, their status page swung into action after a leisurely coffee, and posted its first indication of an incident 93 minutes later. (See previous comments on stop.lying.cloud ). The all-clear showed up at 6:53 AM. Every site has downtime. Sometimes it blows up publicly, other times nobody seems to notice. Heck, AWS said in September that it had experienced permanent data loss in its two smoking craters, but after that news cycle passed I haven't heard a thing about it. I do think it's patently unreasonable to blame them for this specific problem; "acts of war" are kinda hard to predict from the corporate planning meeting. A few things combined to help AWS out on November 15. First, it was pre-dawn Pacific time on Sunday. Most of us slept through it; my kids aren't even up that early. Further, the services that were most impacted (IAM Identity Center) were for engineers signing in to AWS accounts, not consumers staring at an app that stopped working. Plus, the competition sucked all the oxygen out of the room: a day-plus Microsoft 365 364 outage and a four-hour nationwide air traffic ground stop had done</description>
+<enclosure url="https://image.theregister.com/?imageId=5311515&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5311515&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Why so many desktop PC cases have glass walls (and why you might not want that)</title>
+<link>https://www.engadget.com/2318044/desktop-pc-why-tempered-glass-walls-downsides</link>
+<guid isPermaLink="false">3338533595267ded1922539088581b03adcdc357e1658296a0a835e2904a616c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 14:30:00 +0000</pubDate>
+<description>Tempered glass has taken over the PC case market. Learn what drives the trend and the trade-offs that could make a glass-panel build a poor fit for you.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-so-many-desktop-pc-cases-have-glass-walls-and-why-you-might-not-want-that/l-intro-1794852287.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-so-many-desktop-pc-cases-have-glass-walls-and-why-you-might-not-want-that/l-intro-1794852287.jpg" medium="image"/>
+</item>
+<item>
+<title>Etsy says it will not use sellers' content to train AI after they revolt over policy changes</title>
+<link>https://www.engadget.com/2324090/etsy-not-use-seller-content-train-ai</link>
+<guid isPermaLink="false">755fcb1e6c7374b59635725d90fb1be32e5cb165627ff990a7f672240266d6e7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 14:25:25 +0000</pubDate>
+<description>Etsy changed its terms of use, adding a clause on AI training. Now, it has clarified that it will not use sellers' content to train AI that can copy their work.</description>
+<enclosure url="https://www.engadget.com/img/gallery/etsy-says-it-will-not-use-sellers-content-to-train-ai-after-they-revolt-over-policy-changes/l-intro-1795270607.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/etsy-says-it-will-not-use-sellers-content-to-train-ai-after-they-revolt-over-policy-changes/l-intro-1795270607.jpg" medium="image"/>
+</item>
+<item>
+<title>What data storage looked like in the early 2000s vs. today</title>
+<link>https://www.engadget.com/2318027/what-data-storage-looked-like-early-2000s-vs-today</link>
+<guid isPermaLink="false">9d26e00c0e78d38113871cefafc2f5dbec09c9a14b41a304e1c94e213405246c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 14:15:00 +0000</pubDate>
+<description>We've come a long way in storage technology in just 25 years, from floppies and tiny USB drives to massive SSDs and cloud storage.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-data-storage-looked-like-in-the-early-2000s-vs-today/l-intro-1794851487.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-data-storage-looked-like-in-the-early-2000s-vs-today/l-intro-1794851487.jpg" medium="image"/>
+</item>
+<item>
 <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>
 <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
 <guid isPermaLink="false">0a3e8c674a4c46f69d72fa75fb05e3b3e077579a5395373b7816e41b0b926e9c</guid>
@@ -13,6 +79,17 @@
 <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit , a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word . They're all part of Chess's new Classic Games platform, which is launching its public beta on Saturday on the web and through a new app for iOS and Android . "Our cofounders have had many people come up to them and say, 'Hey, I run a mahjong night on Wednesdays' or 'I go to this local bar in Chicago with like five people, and we love playing go, but we lack a Chess.c … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Why deep discounts on used Apple AirPods just aren't worth it</title>
+<link>https://www.engadget.com/2317961/used-apple-airpods-deep-discounts-not-worth-it</link>
+<guid isPermaLink="false">6b96612df9a8f472a9cbe62c930d1cd17640a5c579513e8569f3570569d5598a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
+<description>Before you click buy on used AirPods, learn about the risks most sellers never mention and the smarter ways to save on a brand new pair of earbuds.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-deep-discounts-on-used-apple-airpods-just-arent-worth-it/l-intro-1794505811.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-deep-discounts-on-used-apple-airpods-just-arent-worth-it/l-intro-1794505811.jpg" medium="image"/>
 </item>
 <item>
 <title>The pros and cons of using a dumb phone over a smartphone in 2026</title>
@@ -121,8 +198,8 @@
 <category>technology</category>
 <pubDate>Sat, 21 Nov 2026 11:46:00 +0000</pubDate>
 <description>If you’ve ever wondered how small an instance of ChatGPT could get, wonder no longer. Someone has actually rigged up a tiny version of the chatbot to run on a Super Nintendo cartridge. Tech journalist and retro tech enthusiast Benj Edwards is responsible for ChatGPT for SNES . He's published it online running in an emulator, complete with SNES-era music and sound effects, and for download as an SNES ROM, too. It’s not a big model, mind you, and performance is thus pretty limited: According to the website, it’s a 2.2 million-parameter offshoot of OpenAI’s GPT-OSS-120b, which was used to develop its training conversations – so in that sense it truly is a ChatGPT that runs on an SNES cartridge. Edwards described it to The Register as a distilled version of the aforementioned open-weight model. There are two options built into ChatGPT for SNES: One that’s purely the model, with every word generated coming right from its tiny little silicon brain, and another that includes a fact book culled from the opening sentences of around 150,000 simple English Wikipedia articles. If you opt to run both versions and ask it the same questions, you’ll notice a massive difference. Given some of the other responses we got while testing, there’s really no good reason to run the base model – memory isn’t really an issue given the basic build is about 4MB and the factbook build is just 19MB. Edwards admits that it’s not the most helpful AI model, either – this is just an experiment after all. “It is not a useful assistant: the model is millions of times smaller than the models behind ChatGPT, knows about 8,000 words, and often gets things wrong, sometimes confidently,” Edwards noted in his writeup. In that sense, it really is vintage AI on vintage hardware. “The fact book can carry mistakes too.” If you have an SNES lying around (lucky you), you can download the ROM from this link. If you want to get it running on an SNES you’ll need a cartridge that allows running of custom ROMs, and that supports Nintendo’s Super FX graphics coprocessor. Cartridges like the FXPak Pro and SD2SNES support it. The factbook version also requires support for the aftermarket Media Streaming Unit 1 (MSU-1), which adds CD-ROM like features to the SNES. MSU-1 is available in both of the flash carts mentioned above. If you have some real hardware skills, however, you could technically make your own ChatGPT cartridge. “The ‘pure’ version, which generates all responses from the AI language model, could run from a real custom SNES cart,” Edwards told us – it doesn’t even actually need the Super FX chip. “I do have a version of ChatGPT for SNES that can run without the Super FX chip, but without the extra processing power the answers are not as good.” That said, Edwards believes its absolutely crazy and nonsensical answers are part of the fun. “ChatGPT for SNES can definitely make mistakes too, but it's almost cute when it does it because of its limited knowledge and its playful interface,” Edward</description>
-<enclosure url="https://image.theregister.com/?imageId=5311423&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311423&amp;width=800" medium="image"/>
+<enclosure url="https://image.theregister.com/?imageId=5311423&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5311423&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>NASA Mars rover and orbiter suffer glitches</title>
@@ -444,17 +521,6 @@
 <media:content url="https://image.theregister.com/?imageId=5228929&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Here's everything GTA+ gets you in GTA 6: Is it worth $8 a month?</title>
-<link>https://www.engadget.com/2323323/gta-plus-benefits-gta-6-is-it-worth-it</link>
-<guid isPermaLink="false">6b63369bee458e803394f0590a9db4d20d510b35a68022a6359a384421674855</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 18:27:59 +0000</pubDate>
-<description>A GTA+ membership adds a few extras to GTA 6 for $8 a month. Here's what's included and which players are most likely to get their money's worth.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-everything-gta-gets-you-in-gta-6-is-it-worth-8month/l-intro-1795197527.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-everything-gta-gets-you-in-gta-6-is-it-worth-8month/l-intro-1795197527.jpg" medium="image"/>
-</item>
-<item>
 <title>Multiplying your Switch 2’s storage costs less than usual right now</title>
 <link>https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale</link>
 <guid isPermaLink="false">502ba4456945bd31f3dcaf6fbd434267811d82fb626662c5407250119b98dfa5</guid>
@@ -466,39 +532,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Samsung-P9-MicroSD-Express-Card.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Google says it’s going to shut off Google Assistant on smart speakers next year</title>
-<link>https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down</link>
-<guid isPermaLink="false">06eb602957541aaca1434addb87d079a25c9d379285aa172a6e51781c704792c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
-<description>Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, meaning you'll have to manage your Nest products, including Nest thermostats, cameras, and Nest Protect alarms, from the Google Home app instead. If you get the Google Home app set up, Google will move over your Nest devices, including cameras and video history, to the Home app on that January 25th date. The company will also automatically transfer Nest Aware (1st Gen … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>OpenAI brings its collaborative Space hubs to Plus users</title>
-<link>https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users</link>
-<guid isPermaLink="false">372b14867f9dc25861f379fba36accdc558330dc92beb119ad01daaceddd7483</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
-<description>You can upload documents, files and more to the hubs for easy sharing.</description>
-<enclosure url="https://www.engadget.com/img/gallery/openai-brings-its-collaborative-space-hubs-to-plus-users/l-intro-1795191035.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/openai-brings-its-collaborative-space-hubs-to-plus-users/l-intro-1795191035.jpg" medium="image"/>
-</item>
-<item>
-<title>Nothing's AI device debuts December 8, and it looks like two vapes stuck together</title>
-<link>https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together</link>
-<guid isPermaLink="false">0abcb5fa48805fd5f8f2859eaa8b6e4b5661abca67c96fc36f3ce1fb5224ddf1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 17:32:02 +0000</pubDate>
-<description>Thanks, Swedish House Mafia. I guess.</description>
-<enclosure url="https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg" medium="image"/>
-</item>
-<item>
 <title>China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server</title>
 <link>https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382</link>
 <guid isPermaLink="false">2165e5382ec0d52996fbcdcf6a27963db08fb4b91219b984615712bf612325a5</guid>
@@ -508,17 +541,6 @@
 <description>Suspected Chinese spies deployed AI agents which worked autonomously to find a zero-day in an open source application and then abuse the flaw to break into university networks, gaining full control of a server, according to Amazon CISO CJ Moses. The China-linked attacker used Cairn, an open source, penetration-testing framework that has become increasingly popular with cybercriminals who use the AI tool to carry out multi-stage intrusions with no human assistance . In this case, the agents found and exploited a zero-day MONAI Label, an open-source medical imaging AI application. Amazon notified the project's maintainers of the vulnerability, and they released a fix and a security advisory . On September 10, Amazon's Threat Intelligence Team found a server with a publicly hosted instance of Cairn that provided visibility into the campaign targeting universities in East Asia, outside Mainland China, Moses said in a Friday report shared with The Register . The campaign occurred over a period of 48 hours beginning on September 8, and the prompts were written in Simplified Chinese, with timestamps in executed scripts configured to China Standard Time. Before the AI agents found and exploited the zero day, however, they tried to break into another university’s Redis server over about 16 hours and 148 sequential actions, including abusing Redis's replication feature to load unauthorized code, escaping its scripting sandbox, writing to its configuration files, and corrupting its memory. None of these were successful, and when those actions failed, the agents also attempted a Log4Shell injection against a different service, a server-side request forgery (SSRF) attack against a vulnerability in a co-located Qdrant instance, and several credential sprays against PostgreSQL, SSH, and other tools. Meanwhile, a separate operation running for more than 6 hours targeted a university GPU server with another credential-spray attack, compiling a list of 80 real user names found across the school’s public websites, academic papers and other documents. "Neither operation succeeded, yet together they show that the agents kept adapting for nearly a full day without human direction," Moses wrote. Then the AI agents found the zero-day path traversal vulnerability in MONAI Label, and this time they were able to gain access to the server. "The agents identified the application's framework, mapped its API endpoints, and found an upload endpoint with a filename parameter," Moses wrote. They tested that parameter for path traversal, and the parameter was vulnerable. In about 11 minutes, the agents went from mapping the application’s API to arbitrarily writing files on the server." Later, the agents abused the same flaw to execute a Python reverse shell running as root. In another session, after the agents discovered the zero-day, the human operator provided them with a proxy that tunneled into a second university network, and connected to a server running the same vulnerable</description>
 <enclosure url="https://image.theregister.com/?imageId=5311400&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311400&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>You can reveal the full GTA 6 map in minutes using this simple plane trick</title>
-<link>https://www.engadget.com/2323145/full-gta-6-map-reveal-plane-trick</link>
-<guid isPermaLink="false">ef9fe5774347b66fd7eae0f908d62fc0b7081635c397daa024d5b7ef8f82ac8b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 17:13:31 +0000</pubDate>
-<description>Clear up that fog in no time at all, but be careful.</description>
-<enclosure url="https://www.engadget.com/img/gallery/you-can-reveal-the-full-gta-6-map-in-minutes-using-this-simple-plane-trick/l-intro-1795194209.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/you-can-reveal-the-full-gta-6-map-in-minutes-using-this-simple-plane-trick/l-intro-1795194209.jpg" medium="image"/>
 </item>
 <item>
 <title>Signal to restrict screenshots over AI agent concerns – again</title>
@@ -574,17 +596,6 @@
 <description>The US government will announce soon the root cause of the router outage that led to the third-ever nationwide ground stop issued by the US Federal Aviation Administration. But questions remain about whether the FAA's effort to modernize the national airspace system is being done with all the proper risk assessments and adequate agency oversight of the private contractors involved. The nationwide ground stop blocked flight departures and impacted more than 1 million passengers across the United States for more than four hours on Friday, November 13. More than 12,000 flights were canceled on that day alone, with the number rising to more than 20,000 over the weekend as stranded travelers scrambled to find accommodations or alternative transportation. Some international flights were allowed to depart prior to the broader resumption of air traffic. Nearly one week later, FAA Administrator Bryan Bedford told news reporters that government investigators are “very close” to figuring out the root cause of the nationwide ground stop, according to CNN . Bedford also said that Transportation Secretary Sean Duffy plans to announce the findings at a news conference as soon as Friday, November 20. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop.jpg" medium="image"/>
-</item>
-<item>
-<title>Ray-Ban Meta (Gen 3) review: Minor upgrades that cost too much</title>
-<link>https://www.engadget.com/2322827/ray-ban-meta-gen-3-review</link>
-<guid isPermaLink="false">658b97c693284ebb2a51459d2b8aa7add907d48ad62650c997f00215238c0a31</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 14:30:00 +0000</pubDate>
-<description>Meta's very best AI glasses are only slightly better than other recent models.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft's last non-security preview of 2026 packs a punch</title>
@@ -1201,17 +1212,6 @@
 <description>It could make your Pixel Watch or Samsung Galaxy Watch more power efficient.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00138_8b66e2.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00138_8b66e2.jpg" medium="image"/>
-</item>
-<item>
-<title>The wrong setting for AI cache can cost you a lot of cash</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831</link>
-<guid isPermaLink="false">4fb75e9223501829ffad23ae488e920b0259b2ef5eb0ba8c2f69ed4400a9e324</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 16:17:00 +0000</pubDate>
-<description>Be wary of AI costs. You may be spending more than you think and end up with nothing to show for it but an eye-popping invoice. Register readers are finding themselves on the sharp, pointy end of AI billing, confused about which costs are covered by what, and surprised by "features" that burn through credit, seemingly without warning. Startups without the deep pockets of established companies are the first to feel the squeeze. Sometimes, the approach feels more like an app that urges users to deposit extra cash to keep that streak going than a helpful coding assistant. Take one reader, who told The Register about Claude burning through credits at a ferocious rate after a cache setting was reset in the background. The cache setting controlled how long Claude "remembered" requests and was set to one hour. It's a useful feature, and it lets Claude reuse material that has already been processed. Once it expires, continuing unfinished work can mean paying to process old material again. "After hitting my $200 Ultra plan limit," our reader told us, "I bought $250 in additional credits to finish 8 coding threads." There didn't seem to be much work left to do, so the extra credits should have been plenty. Alas, no, after just under two hours, the entire balance was gone, and no meaningful progress was made. They dug deeper and found that the newer request had switched back to the five-minute cache "without my action or knowledge." The figures didn't add up either, so he made a request to Anthropic to explain the cache setting change and the cost discrepancy. "I found myself stuck with its support chatbot, Fin. It described the cache switch behavior as a 'feature' and said it couldn't provide the reconciliation or investigation." The support thread was then closed. Our reader asked again for an explanation. "Fin kept closing the support thread, sometimes just 31 seconds after I asked for human escalation." The Register asked Anthropic for an explanation, and how users might reach a human when a chatbot comes to the end of its usefulness, but the company has yet to respond. It's all a bit of a cautionary tale. Our reader said, "The money was gone, the work was unfinished, and I was spending time chasing answers that I needed to spend building my app. "I wish I'd known this could happen before buying those credits." Indeed. There are endless stories of how using AI has resulted in unexpected costs. Even celebrity mathematician Dr Hannah Fry found the token costs of sending an agent on an errand a surprise. And then there are the misunderstandings when credits gifted under one program turn out to be inapplicable for another, and support teams play a variant of ping-pong , just with customer requests. The problem is that burning through credits or running up bills that could wipe out a start-up is all too easy. We've been here before with the cloud , and it appears the lessons need to be learned again. Our reader complained, "We deserve to understand what we'r</description>
-<enclosure url="https://image.theregister.com/?imageId=5310849&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310849&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>I’ve tested Ubuntu 27.04 ahead of its April release – and it will wow you</title>

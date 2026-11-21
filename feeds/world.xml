@@ -4,15 +4,103 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Russian attacks on Ukraine's energy grid intensify ahead of winter</title>
-<link>https://abcnews.com/International/russian-attacks-ukraines-energy-grid-intensify-ahead-winter/story?id=138313849</link>
-<guid isPermaLink="false">40c9268bb98f1bbd2fdce2512b35a5514820141707674c917ffcdd39557c1038</guid>
-<source>ABC News Top Stories</source>
+<title>Perspective: Defining 'human'</title>
+<link>https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human</link>
+<guid isPermaLink="false">439bcfcb48ad47a729cd37a02f96889b21ee0f851138d1ff79e71cc3e5904f24</guid>
+<source>NPR News</source>
 <category>world</category>
-<pubDate>Sat, 21 Nov 2026 11:09:26 +0000</pubDate>
-<description>As Russian attacks on Ukraine's energy grid intensify ahead of winter, Hanna Grishkevich fears for her mother in Kyiv, whose apartment building depends on electricity.</description>
-<enclosure url="https://s.abcnews.com/images/International/ukraine-energy-snow_1795167285796_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/ukraine-energy-snow_1795167285796_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
+<description>The Cambridge Dictionary has chosen the word "human" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored? (Image credit: Andreea Alexandru)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2Fdd%2F590c0a4048d2afc4cfee2373c16d%2Fap24253399940383-1.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2Fdd%2F590c0a4048d2afc4cfee2373c16d%2Fap24253399940383-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Cargo ship runs aground off French coast</title>
+<link>https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast</link>
+<guid isPermaLink="false">bad0e101e42babd846ec9432abda066cc0325dd45cd4ad4bfa5d4e4f6fe138f2</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 12:52:27 +0000</pubDate>
+<description>A Maltese-flagged cargo ship remains stranded off the coast of south-western France after running aground. French authorities are preparing an operation to prevent the vessel from capsizing and potentially causing pollution. The ship was not carrying any cargo, and all 19 crew members were safely evacuated by helicopter. Dan Quinlan reports.</description>
+<enclosure url="https://s.france24.com/media/display/1aac89e8-e5a7-11f1-b43d-e56ab3dc0809/w:1024/p:16x9/EN-20261121-121013-121127-CS-01.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/1aac89e8-e5a7-11f1-b43d-e56ab3dc0809/w:1024/p:16x9/EN-20261121-121013-121127-CS-01.jpg" medium="image"/>
+</item>
+<item>
+<title>Russia tests NATO’s eastern defences</title>
+<link>https://www.france24.com/en/russia-tests-nato-s-eastern-defences</link>
+<guid isPermaLink="false">177315271fc43af353f45c2e61a1ca290664dc5fbb9c2913196ee54e63186ec0</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 12:50:35 +0000</pubDate>
+<description>Two Russian missiles and a suspected drone came down in Poland on Friday in what Prime Minister Donald Tusk said was likely an "intentional provocation" timed to coincide with European military exercises in the country for a possible postwar mission in Ukraine. Senior Lecturer in Conflict and Security at King's College in London, Domitilla Sagramoso, shares further insights.</description>
+<enclosure url="https://s.france24.com/media/display/3cf13c10-e5a7-11f1-ab89-ebb478925cf0/w:1024/p:16x9/EN-20261121-130402-131505-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/3cf13c10-e5a7-11f1-ab89-ebb478925cf0/w:1024/p:16x9/EN-20261121-130402-131505-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Thousands protest overs prices, education, military spending in France and Europe</title>
+<link>https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe</link>
+<guid isPermaLink="false">ad0a7be34014bcbbbeb0cf332652e99c5ab2b40da732ca9a71891e67e94b4e37</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 12:48:46 +0000</pubDate>
+<description>France is bracing for a sixth consecutive Saturday of protests, with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. France 24 journalist Antonia Kerrigan tells us the latest from Paris.</description>
+<enclosure url="https://s.france24.com/media/display/c489cff2-e5a7-11f1-bb16-ebb478925cf0/w:1024/p:16x9/EN-20261121-131728-132120-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/c489cff2-e5a7-11f1-bb16-ebb478925cf0/w:1024/p:16x9/EN-20261121-131728-132120-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Drone attack sets Russian cargo ship ablaze in Gulf of Finland</title>
+<link>https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland</link>
+<guid isPermaLink="false">c7c9c4110e34855248f63155395b8d0fb7e5d52464ea0834ecdf2d850c4465ba</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 12:35:54 +0000</pubDate>
+<description>A Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic Sea.</description>
+<enclosure url="https://s.france24.com/media/display/d14e7d92-e5a1-11f1-ada4-e56ab3dc0809/w:1024/p:16x9/Cargo-Finland.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/d14e7d92-e5a1-11f1-ada4-e56ab3dc0809/w:1024/p:16x9/Cargo-Finland.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI</title>
+<link>https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai</link>
+<guid isPermaLink="false">b9f55373dafe7bac7d35a22070ba4d663f89f8d88a1dadc43816e474bc7a5506</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 12:30:16 +0000</pubDate>
+<description>A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed unsolved math problem. (Image credit: Seth Wenig)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8565x5710+0+0/resize/8565x5710!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F26%2F578525af4450b59d88792c06e0da%2Fap26323821321779.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8565x5710+0+0/resize/8565x5710!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F26%2F578525af4450b59d88792c06e0da%2Fap26323821321779.jpg" medium="image"/>
+</item>
+<item>
+<title>Ethiopia: Tackling period poverty and stigma</title>
+<link>https://www.france24.com/en/ethiopia-tackling-period-poverty-and-stigma</link>
+<guid isPermaLink="false">4f0bded21225cf6996ffe94aec14edf81b37a2ebbd46fc6a74587b9ab3eee71a</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 12:22:44 +0000</pubDate>
+<description>In Ethiopia, entrepreneur Hanan Ahmed is tackling period poverty and the stigma surrounding menstruation. By producing affordable reusable sanitary pads and raising awareness in schools, she hopes to make menstrual health more accessible and help girls stay in class. Report by Awa Diouf &amp; Guillaume Gougeon.</description>
+<enclosure url="https://s.france24.com/media/display/2a9827a2-e5a4-11f1-8650-1bac47ab2f5d/w:1024/p:16x9/EN-20261120-215007-215136-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/2a9827a2-e5a4-11f1-8650-1bac47ab2f5d/w:1024/p:16x9/EN-20261120-215007-215136-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Ethiopia - Eritrea: Troops mobilise along the border</title>
+<link>https://www.france24.com/en/ethiopia-eritrea-troops-mobilise-along-the-border</link>
+<guid isPermaLink="false">34962d781eeb041ccbca8c8f7ecf894db9dcb5d9f4526ead47f857f46f01aa07</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 12:19:21 +0000</pubDate>
+<description>More than 200 former Tigray People’s Liberation Front (TPLF) fighters surrendered to Ethiopia’s federal military Friday, state-affiliated media reported, amid escalating border tensions with neighboring Eritrea. France 24 correspondent Tom Canetti tells us the latest.</description>
+<enclosure url="https://s.france24.com/media/display/70cf5590-e59c-11f1-9f1a-ebb478925cf0/w:1024/p:16x9/EN-20261120-214828-214939-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/70cf5590-e59c-11f1-9f1a-ebb478925cf0/w:1024/p:16x9/EN-20261120-214828-214939-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Music strikes a chord at French protest</title>
+<link>https://www.france24.com/en/music-strikes-a-chord-at-french-protest</link>
+<guid isPermaLink="false">24382a03f5b20d2287b0a8840bc94ddb231abef76ad35e951139dc2f3f42f74f</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 12:17:52 +0000</pubDate>
+<description>Throughout history, protest songs have brought people together across genres, rallying against war, racism, inequality and the establishment. Music is also playing a key role in the youth-led demonstrations here in France. Our reporters went to meet some of the musicians using their voices to express the protesters’ demands.</description>
+<enclosure url="https://s.france24.com/media/display/914fa248-e592-11f1-844d-e56ab3dc0809/w:1024/p:16x9/EN-20261121-100844-101113-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/914fa248-e592-11f1-844d-e56ab3dc0809/w:1024/p:16x9/EN-20261121-100844-101113-CS.jpg" medium="image"/>
 </item>
 <item>
 <title>Strait of Hormuz attacks have increased to highest level since Iran war began</title>
@@ -92,17 +180,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F72%2F1359b5e7441995e3b5ba9e5c6d90%2Fgettyimages-2305894185.jpg" medium="image"/>
 </item>
 <item>
-<title>The AI boom had a really bad week — and it's raising loud alarms</title>
-<link>https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia</link>
-<guid isPermaLink="false">51823041dbdc3f1d92453c4479e733ac65c344197fe705c9b117171037440e60</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
-<description>AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know. (Image credit: Spencer Platt)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg" medium="image"/>
-</item>
-<item>
 <title>An effort to circumvent the Electoral College may be within reach. But hurdles remain</title>
 <link>https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact</link>
 <guid isPermaLink="false">b1f12833e221941f7d4a1da81b56c4097870bbb45c3df6e606322e37c51eddcd</guid>
@@ -112,6 +189,17 @@
 <description>A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon. (Image credit: Mark Felix)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8055x5370+0+0/resize/8055x5370!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fe0%2F5117a4fb400e8b75168010b72ece%2Fgettyimages-1244621687.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8055x5370+0+0/resize/8055x5370!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fe0%2F5117a4fb400e8b75168010b72ece%2Fgettyimages-1244621687.jpg" medium="image"/>
+</item>
+<item>
+<title>The AI boom had a really bad week — and it's raising loud alarms</title>
+<link>https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia</link>
+<guid isPermaLink="false">51823041dbdc3f1d92453c4479e733ac65c344197fe705c9b117171037440e60</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
+<description>AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know. (Image credit: Spencer Platt)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg" medium="image"/>
 </item>
 <item>
 <title>Denmark accuses Russia of assassination plot, expels diplomat</title>
@@ -176,8 +264,8 @@
 <category>world</category>
 <pubDate>Sat, 21 Nov 2026 08:29:53 +0000</pubDate>
 <description>France is bracing for a sixth consecutive Saturday of protests, with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. Follow our liveblog for the latest developments.</description>
-<enclosure url="https://s.france24.com/media/display/d32f2854-e584-11f1-99ca-13439ca2fe89/w:1024/p:16x9/2026-11-20T132656Z-204991454-RC2PROA8887Z-RTRMADP-3-EUROPE-PROTEST-FRANCE.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/d32f2854-e584-11f1-99ca-13439ca2fe89/w:1024/p:16x9/2026-11-20T132656Z-204991454-RC2PROA8887Z-RTRMADP-3-EUROPE-PROTEST-FRANCE.jpg" medium="image"/>
+<enclosure url="https://s.france24.com/media/display/9682c2f0-e5aa-11f1-8719-ebb478925cf0/w:1024/p:16x9/2026-11-21T122156Z-506982537-RC2CSOATMIMV-RTRMADP-3-FRANCE-PROTEST.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/9682c2f0-e5aa-11f1-8719-ebb478925cf0/w:1024/p:16x9/2026-11-21T122156Z-506982537-RC2CSOATMIMV-RTRMADP-3-FRANCE-PROTEST.jpg" medium="image"/>
 </item>
 <item>
 <title>Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in</title>
@@ -246,15 +334,26 @@
 <media:content url="https://s.abcnews.com/images/US/wirestory_ae9ff8d3f63dc93f7ed123c801f39051_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>England captain Harry Kane out injured for 'next few months'</title>
+<title>Harry Kane shares image from hospital bed after ankle injury</title>
 <link>https://news.sky.com/story/england-captain-harry-kane-expected-to-be-out-for-next-few-months-with-ankle-injury-13614594</link>
 <guid isPermaLink="false">20cb1e0f6b6b0814e2915bf3c52c6bb598be9a142b580d12d68591d1174b720b</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Sat, 21 Nov 2026 03:03:00 +0000</pubDate>
-<description>England captain Harry Kane is expected to be out of action for a few months after tearing a ligament in his left ankle.</description>
+<description>England captain Harry Kane has vowed to be back for the "business end of the season" after undergoing surgery on a torn ligament in his left ankle.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-kane-bayern_7411980.jpg?20261121034449" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-kane-bayern_7411980.jpg?20261121034449" medium="image"/>
+</item>
+<item>
+<title>Man accused of starting blaze that became Palisades Fire found guilty of arson</title>
+<link>https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631</link>
+<guid isPermaLink="false">e4e546dd235b0082272cc56f0b7b9213de0d2f97fbbecd0428fb4e920bdee558</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 00:59:34 +0000</pubDate>
+<description>The defendant was found guilty of two arson counts during a retrial.</description>
+<enclosure url="https://s.abcnews.com/images/US/Rinderknecht-ap-er-261120_1795217240993_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/Rinderknecht-ap-er-261120_1795217240993_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Administration tries to intervene after Kalshi is threatened with restraining order</title>
@@ -367,17 +466,6 @@
 <media:content url="https://s.france24.com/media/display/8e31d6f6-e52b-11f1-9535-e56ab3dc0809/w:1024/p:16x9/capture-a6bd8a5c.jpg" medium="image"/>
 </item>
 <item>
-<title>MLK's handwritten draft of iconic speech on display for the first time</title>
-<link>https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display</link>
-<guid isPermaLink="false">2f71395d5a95198867d04d448e3708511ba0df19551e0567882640f5d8790208</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 21:38:05 +0000</pubDate>
-<description>The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page. (Image credit: Lynsey Weatherspoon for NPR)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F33%2F92970e6b49c98705abbfd291cc49%2Flwa-2971.JPG" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F33%2F92970e6b49c98705abbfd291cc49%2Flwa-2971.JPG" medium="image"/>
-</item>
-<item>
 <title>'Licence to kill': France adopts law presuming 'legitimate' self-defence in police shootings</title>
 <link>https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists</link>
 <guid isPermaLink="false">f621fb1622a78a9136fdf3a8bcd55c8090ca80fde873d3828a5e8c7d0dcd0d0e</guid>
@@ -464,72 +552,6 @@
 <description>🦛Fiona, Cincinnati Zoo’s beloved hippo, has died aged just 9, after swallowing a knitted hat that fell into her enclosure. Born prematurely and weighing only 13kg, she captured millions of hearts around the world and became an internet sensation.</description>
 <enclosure url="https://s.france24.com/media/display/0f53035c-e506-11f1-90ff-ebb478925cf0/w:1024/p:16x9/burnham-00-01-03-04-Still002.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/0f53035c-e506-11f1-90ff-ebb478925cf0/w:1024/p:16x9/burnham-00-01-03-04-Still002.jpg" medium="image"/>
-</item>
-<item>
-<title>UK and EU strike ‘landmark’ deal to rebuild ties after Brexit</title>
-<link>https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit</link>
-<guid isPermaLink="false">fb622c5a1ee8951be63e6e10e290650054ab53c2f7414b28d688b76164e0253e</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 17:06:59 +0000</pubDate>
-<description>🇬🇧🇪🇺 A fresh start after #Brexit? The #UK and #EU have agreed on a landmark #deal to rebuild ties, following a summit in Brussels this Friday. The agreement covers easier food export checks, youth mobility and carbon emission quotas.</description>
-<enclosure url="https://s.france24.com/media/display/9c262fdc-e4ef-11f1-b8c1-6b451f569414/w:1024/p:16x9/burnham-00-00-07-21-Still001.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/9c262fdc-e4ef-11f1-b8c1-6b451f569414/w:1024/p:16x9/burnham-00-00-07-21-Still001.jpg" medium="image"/>
-</item>
-<item>
-<title>A cultural stroll through Paris with singer-songwriters Mariam Doumbia and Zaho</title>
-<link>https://www.france24.com/en/tv-shows/paris-des-arts/20261120-a-cultural-stroll-through-paris-with-singer-songwriters-mariam-doumbia-and-zaho</link>
-<guid isPermaLink="false">252c4dd334725351fccc5ca1fe9ce7e87ebd063b85a3e9cbf252149560439116</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 17:04:59 +0000</pubDate>
-<description>Two women, two voices, two destinies: Malian performer Mariam continues her musical journey after the 2025 passing of Amadou, her partner in life and on stage. "Amadou and I sang about love. We wanted to share love with everyone. We sang of peace, of love, of justice."</description>
-<enclosure url="https://s.france24.com/media/display/b07cb1f2-e429-11f1-9e1b-6b451f569414/w:1024/p:16x9/MARIAM-ZAHO-PANACLOC-213426-2026-10-15-F24.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/b07cb1f2-e429-11f1-9e1b-6b451f569414/w:1024/p:16x9/MARIAM-ZAHO-PANACLOC-213426-2026-10-15-F24.jpg" medium="image"/>
-</item>
-<item>
-<title>‘A more expensive EU is not a better EU’: Austria's Minister for Europe, Claudia Bauer</title>
-<link>https://www.france24.com/en/tv-shows/talking-europe/20261120-a-more-expensive-eu-is-not-a-better-eu-austria-s-minister-for-europe-claudia-bauer</link>
-<guid isPermaLink="false">aeea629ca19f2b417ca208f169536fccb321b0483c9ffd705a7456f9eef66a9e</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 16:53:27 +0000</pubDate>
-<description>This week's programme hosted Claudia Bauer, Austria’s Federal Minister for Europe, Integration and Family while she was in Paris for the recent G7 meeting. She offered her thoughts on the diplomatic moves surrounding Ukraine, transatlantic relations, EU enlargement and a headscarf ban in Austrian schools that has caused disquiet. We also talked about the thorny negotiations involved in the EU’s next long-term budget: the Multiannual Financial Framework.</description>
-<enclosure url="https://s.france24.com/media/display/2ec2d102-e355-11f1-9179-1ba7ddfab527/w:1024/p:16x9/PHOTO-CLAUDIA-BAUER-TALKING-EUROPE-1.png" type="image/png"/>
-<media:content url="https://s.france24.com/media/display/2ec2d102-e355-11f1-9179-1ba7ddfab527/w:1024/p:16x9/PHOTO-CLAUDIA-BAUER-TALKING-EUROPE-1.png" medium="image"/>
-</item>
-<item>
-<title>Trump hails 'fantastic' relationships with China's Xi, Russia's Putin after three-way talks</title>
-<link>https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin</link>
-<guid isPermaLink="false">de6586fb5a55709ca6b43ea9399e1854386cbbb81155f3db55476f77c02853b9</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 16:30:04 +0000</pubDate>
-<description>US President Donald Trump played up his "fantastic" relationships with China's Xi Jinping and Russia's Vladimir Putin during a White House press conference on Friday following his return to Washington after a first-ever trilateral meeting with the Chinese and Russian leaders. Here are key takeaways from his wide-ranging briefing.</description>
-<enclosure url="https://s.france24.com/media/display/428cc9ae-e508-11f1-bdfe-1bac47ab2f5d/w:1024/p:16x9/2026-11-20T172732Z-2021650949-RC2TROAG4YP7-RTRMADP-3-USA-TRUMP.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/428cc9ae-e508-11f1-bdfe-1bac47ab2f5d/w:1024/p:16x9/2026-11-20T172732Z-2021650949-RC2TROAG4YP7-RTRMADP-3-USA-TRUMP.jpg" medium="image"/>
-</item>
-<item>
-<title>Photography: A very French history</title>
-<link>https://www.france24.com/en/video/20261120-photography-a-very-french-history</link>
-<guid isPermaLink="false">88d8d87c2e87141aed0fc9ee18c0a547433e8ead11783feea30fb3736dbd6ad1</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 16:28:29 +0000</pubDate>
-<description>From its use as creative expression to documenting our everyday reality, photography has become an essential and widely-accessible medium since its invention. Did you know, however, that the technology was developed in France? FRANCE 24's Tanishk Saha takes a look at the French legacy of photography.</description>
-<enclosure url="https://s.france24.com/media/display/73198654-e4fc-11f1-ab3a-e56ab3dc0809/w:1024/p:16x9/Thumb-01-2.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/73198654-e4fc-11f1-ab3a-e56ab3dc0809/w:1024/p:16x9/Thumb-01-2.jpg" medium="image"/>
-</item>
-<item>
-<title>France investigates actor Depardieu, writer Houellebecq over alleged gang rape</title>
-<link>https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape</link>
-<guid isPermaLink="false">a109fb153c3cd1451f98a4b5d2d0c8e85fe0237bad047cdc75046951449bd5e2</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 16:27:56 +0000</pubDate>
-<description>French police are investigating allegations actor and convicted sex offender Gérard Depardieu raped and assaulted a woman with the complicity of bestselling author Michel Houellebecq during a 2018 film shoot, two sources following the case said Friday. The plaintiff has accused the film's director Guillaume Nicloux of being complicit in the abuse.</description>
-<enclosure url="https://s.france24.com/media/display/c09677fe-e4f5-11f1-add1-13439ca2fe89/w:1024/p:16x9/000-D7ZY6NQ.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/c09677fe-e4f5-11f1-add1-13439ca2fe89/w:1024/p:16x9/000-D7ZY6NQ.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Reporter goes undercover as porch pirate</title>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It</title>
+<link>https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots</link>
+<guid isPermaLink="false">93911cdcd78594af4def2d871bb6738d4af122f4dc8a5fd672ac514781bf9885</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Sat, 21 Nov 2026 16:01:02 +0000</pubDate>
+<description>The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2021/01/signal-app-ios-android-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2021/01/signal-app-ios-android-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm</title>
 <link>https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm</link>
 <guid isPermaLink="false">4bd3900dd7cd061ef9eaf0bcc26f0f1b75b53df5721e707b906cfdabcade6ce7</guid>
@@ -1333,17 +1344,6 @@
 <description>MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks</title>
-<link>https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks</link>
-<guid isPermaLink="false">aa4c8555e43dff429889bcfc01933258ab4587abe91382e79f15dd76f74dac4c</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 18:16:02 +0000</pubDate>
-<description>Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>OneMain gets FDIC green light for ILC charter</title>

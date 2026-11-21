@@ -4,15 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Body found during search for missing 19-year-old Marine: Investigators</title>
+<link>https://abcnews.com/US/19-year-marine-reported-missing-california-desert/story?id=138320350</link>
+<guid isPermaLink="false">dda1852639b5f2837e7051a3cfb35b6eb87830d60b1027ef4d9aa765aceefaff</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 01:05:33 +0000</pubDate>
+<description>A body was found Friday as the authorities and families searched the California desert Friday for a 19-year-old Marine who went missing two weeks ago.</description>
+<enclosure url="https://s.abcnews.com/images/US/Marriner-Richards-1-ht-gmh-261120_1795189322985_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/Marriner-Richards-1-ht-gmh-261120_1795189322985_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Man accused of starting blaze that became Palisades Fire found guilty of arson</title>
 <link>https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631</link>
 <guid isPermaLink="false">e4e546dd235b0082272cc56f0b7b9213de0d2f97fbbecd0428fb4e920bdee558</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 20 Nov 2026 23:43:46 +0000</pubDate>
+<pubDate>Sat, 21 Nov 2026 00:59:34 +0000</pubDate>
 <description>The defendant was found guilty of two arson counts during a retrial.</description>
 <enclosure url="https://s.abcnews.com/images/US/Rinderknecht-ap-er-261120_1795217240993_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/Rinderknecht-ap-er-261120_1795217240993_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Tips for hosting Friendsgiving this year</title>
+<link>https://abcnews.com/video/138331305</link>
+<guid isPermaLink="false">5af5b37c21b6b9ed8d101db8525382c8455ed0da012e9a983e87834289ffe68b</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 00:26:17 +0000</pubDate>
+<description>Digital creator Kerra Masella shares her tips for planning and hosting a Friendsgiving celebration, from getting organized ahead of time to making friends feel welcome around the table.</description>
+<enclosure url="https://s.abcnews.com/images/US/261121_abcnl_6p_friends_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/261121_abcnl_6p_friends_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>NHS warns of 'alarming' rise in hospital admissions for 'silent killer'</title>
+<link>https://news.sky.com/story/nhs-warns-of-alarming-rise-in-hospital-admissions-for-high-blood-pressure-13614403</link>
+<guid isPermaLink="false">d75dc0d64e26edd42c48bcd92515018b8592c5eb9dfefeee441c90a23bd7afce</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 00:01:00 +0000</pubDate>
+<description>NHS leaders are warning of an "alarming" rise in hospital admissions for high blood pressure across the UK.</description>
+<enclosure url="https://e3.365dm.com/22/11/1920x1080/skynews-blood-pressure-health_5957608.jpg?20221107151420" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/22/11/1920x1080/skynews-blood-pressure-health_5957608.jpg?20221107151420" medium="image"/>
 </item>
 <item>
 <title>Judge denies Alex Murdaugh's bid to dismiss murder charges</title>
@@ -32,9 +65,9 @@
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Fri, 20 Nov 2026 23:09:00 +0000</pubDate>
-<description>A man has been found guilty of starting the Palisades fire that displaced thousands of people and became the most destructive wildfire in Los Angeles' history.</description>
-<enclosure url="https://e3.365dm.com/25/10/1920x1080/skynews-pacific-palisades-jonathan-rinderknecht_7046111.jpg?20251008171705" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/25/10/1920x1080/skynews-pacific-palisades-jonathan-rinderknecht_7046111.jpg?20251008171705" medium="image"/>
+<description>A man has been found guilty of starting the Palisades fire that displaced thousands of people and became the most destructive in Los Angeles' history.</description>
+<enclosure url="https://e3.365dm.com/25/12/1920x1080/skynews-2025-year-in-pictures_7101056.jpg?20251204162101" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/25/12/1920x1080/skynews-2025-year-in-pictures_7101056.jpg?20251204162101" medium="image"/>
 </item>
 <item>
 <title>WATCH: Is travel insurance worth it after the FAA ground stop?</title>
@@ -92,6 +125,17 @@
 <media:content url="https://s.france24.com/media/display/8e31d6f6-e52b-11f1-9535-e56ab3dc0809/w:1024/p:16x9/capture-a6bd8a5c.jpg" medium="image"/>
 </item>
 <item>
+<title>MLK's handwritten draft of iconic speech on display for the first time</title>
+<link>https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display</link>
+<guid isPermaLink="false">2f71395d5a95198867d04d448e3708511ba0df19551e0567882640f5d8790208</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 20 Nov 2026 21:38:05 +0000</pubDate>
+<description>The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page. (Image credit: Lynsey Weatherspoon for NPR)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F33%2F92970e6b49c98705abbfd291cc49%2Flwa-2971.JPG" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F33%2F92970e6b49c98705abbfd291cc49%2Flwa-2971.JPG" medium="image"/>
+</item>
+<item>
 <title>'Licence to kill': French parliament adopts police shootings law slammed by activists</title>
 <link>https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists</link>
 <guid isPermaLink="false">f621fb1622a78a9136fdf3a8bcd55c8090ca80fde873d3828a5e8c7d0dcd0d0e</guid>
@@ -145,17 +189,6 @@
 <description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
 <enclosure url="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-261120_1795196699669_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/donald-trump-7-gty-gmh-261120_1795196699669_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>19-year-old Marine reported missing in California desert</title>
-<link>https://abcnews.com/US/19-year-marine-reported-missing-california-desert/story?id=138320350</link>
-<guid isPermaLink="false">dda1852639b5f2837e7051a3cfb35b6eb87830d60b1027ef4d9aa765aceefaff</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 18:48:37 +0000</pubDate>
-<description>Investigators and family are looking for a 19-year-old Marine who has been missing for two weeks and was last seen at a casino in the California desert.</description>
-<enclosure url="https://s.abcnews.com/images/US/Marriner-Richards-1-ht-gmh-261120_1795189322985_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/Marriner-Richards-1-ht-gmh-261120_1795189322985_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>White supremacist convicted of plotting to firebomb migrant hotel</title>
@@ -378,17 +411,6 @@
 <media:content url="https://s.france24.com/media/display/2bb9420a-e4f1-11f1-aeb6-13439ca2fe89/w:1024/p:16x9/TRUMP-JINPING-POUTINE-000-D7XR8CA.jpg" medium="image"/>
 </item>
 <item>
-<title>Poundland chief shares pain with staff amid last-ditch rescue talks</title>
-<link>https://news.sky.com/story/poundland-chief-shares-pain-with-staff-amid-last-ditch-rescue-talks-13614407</link>
-<guid isPermaLink="false">24424ef78c9fa7166d08a64cdce2494d0b21bc712557acbf58911049f7011e2d</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 15:32:00 +0000</pubDate>
-<description>Poundland's boss has told thousands of employees at the discount chain of his "hurt" at the parlous position in which it finds itself, days before it faces collapsing into administration.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" medium="image"/>
-</item>
-<item>
 <title>Spain’s political crossroads, Europe’s wider stakes: Spaniards to vote in key election</title>
 <link>https://www.france24.com/en/tv-shows/talking-europe/20261120-spains-political-crossroads-europes-wider-stakes-spaniards-to-vote-in-key-election</link>
 <guid isPermaLink="false">45b0fdce8813197229853b71e00e2230f24d5eed0d677ea0d178cad397f9b166</guid>
@@ -530,17 +552,6 @@
 <description>Shares in Anthropic have fallen by more than 10% at Friday's open on Wall Street, just a day after their record-breaking Nasdaq debut, as part of a global stock market rout.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-anthropic-nasdaq_7410960.jpg?20261119214359" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-anthropic-nasdaq_7410960.jpg?20261119214359" medium="image"/>
-</item>
-<item>
-<title>Train attack knifeman was 'in clutches of acute psychotic episode', court told</title>
-<link>https://news.sky.com/story/train-attack-knifeman-was-in-clutches-of-acute-psychotic-episode-court-told-13614351</link>
-<guid isPermaLink="false">e1dcd6382e7dc4b0e4cc30195caa06306e96f742bf84305f41ae64488093d1a5</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 13:14:00 +0000</pubDate>
-<description>A knifeman who stabbed 10 people on a London-bound train was "in the clutches of an acute psychotic episode", a jury has been told.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-anthony-williams-knife_7411616.jpg?20261120170318" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-anthony-williams-knife_7411616.jpg?20261120170318" medium="image"/>
 </item>
 <item>
 <title>Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain</title>
@@ -717,17 +728,6 @@
 <description>"GMA" sponsor Chevrolet teams up with rising country star Zach Top to surprise a military family.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261119_gma_spencer_cma_veteran1_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261119_gma_spencer_cma_veteran1_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: NASA's Voyager 1 now a light-day away after 1977 launch</title>
-<link>https://abcnews.com/video/138265738</link>
-<guid isPermaLink="false">dde0c5c3111a9bfe06303c53f3cfae77b6ba6c714aac6050f14c32542f18811b</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 19 Nov 2026 12:38:32 +0000</pubDate>
-<description>NASA launched its Voyager 1 space probe in 1977. It's made it more than 16 billion miles in space, marking the farthest any human made object has ever traveled.</description>
-<enclosure url="https://s.abcnews.com/images/WNT/261118_wn_ender_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/WNT/261118_wn_ender_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Burnham says Europe 'ready to enter negotiations' to help end Russia's war in Ukraine</title>

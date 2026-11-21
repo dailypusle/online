@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Mexican cartel leader on FBI's 10 most wanted fugitive list arrested</title>
+<link>https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100</link>
+<guid isPermaLink="false">85a57378d1dabc2202a0fc1762deb71bdc31b61d8563ce03c259465b8bb6b109</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 18:35:26 +0000</pubDate>
+<description>Fausto Isidro Meza-Flores, known as "Chapo Isidro," was captured in an operation in Sinaloa.</description>
+<enclosure url="https://s.abcnews.com/images/International/cartel-leader-ht-jt-261121_1795274682402_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/cartel-leader-ht-jt-261121_1795274682402_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Storms expected on both coasts threatens Thanksgiving travel</title>
+<link>https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino</link>
+<guid isPermaLink="false">c0e63ae4f741bd105e846df326bad691ec9e0c4321ac2db54465efdc45656858</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 18:22:46 +0000</pubDate>
+<description>The mayor of San Francisco is asking people in the city not to travel unless "absolutely essential." Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving. (Image credit: Joe Raedle)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F0b%2F4ca5429c4444a8280c4ead69cf19%2Fgettyimages-2305764692.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F0b%2F4ca5429c4444a8280c4ead69cf19%2Fgettyimages-2305764692.jpg" medium="image"/>
+</item>
+<item>
+<title>Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence</title>
+<link>https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained</link>
+<guid isPermaLink="false">5b76dfe3de30c0fc5f04678394b79cadf63b60625dcf77bd164416ba8b15f487</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 18:08:55 +0000</pubDate>
+<description>Fausto Isidro Meza Flores, better known as "El Chapo Isidro," was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region. (Image credit: Claudia Rosel)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2769+0+0/resize/4153x2769!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2F888e5ba6425cae1b50ebbe90e6a1%2Fap26325506754293.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2769+0+0/resize/4153x2769!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2F888e5ba6425cae1b50ebbe90e6a1%2Fap26325506754293.jpg" medium="image"/>
+</item>
+<item>
+<title>Drone attack sets Russian cargo ship ablaze in Gulf of Finland</title>
+<link>https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland</link>
+<guid isPermaLink="false">6ddedb55210cdd4bfd5f11b5a5a3b8edcb4acba65549ec78d1e0a46d2651a93a</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 21 Nov 2026 18:02:23 +0000</pubDate>
+<description>A Russian cargo ship caught fire after ​being hit by drones in the Baltic Sea on Saturday and drifted into Finnish waters. Reporting from Kyiv, FRANCE 24's Gulliver Cragg notes that the ship is affiliated with a major Russian military logistics company. While Ukrainian authorities typically neither confirm nor deny responsibility, analysts cite a clear motive for the targeting, Cragg explains.</description>
+<enclosure url="https://s.france24.com/media/display/8752a08e-e5d2-11f1-bad2-e56ab3dc0809/w:1024/p:16x9/EN-20261121-180424-180619-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/8752a08e-e5d2-11f1-bad2-e56ab3dc0809/w:1024/p:16x9/EN-20261121-180424-180619-CS.jpg" medium="image"/>
+</item>
+<item>
 <title>COP31: Deep divisions persist over energy, finance and science</title>
 <link>https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science</link>
 <guid isPermaLink="false">f06c745cb2616346c4eb2befcfe666b157f98cdf2ee3e79965c2b606c3f49cb9</guid>
@@ -180,17 +224,6 @@
 <media:content url="https://s.france24.com/media/display/c489cff2-e5a7-11f1-bb16-ebb478925cf0/w:1024/p:16x9/EN-20261121-131728-132120-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Drone attack sets Russian cargo ship ablaze in Gulf of Finland</title>
-<link>https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland</link>
-<guid isPermaLink="false">c7c9c4110e34855248f63155395b8d0fb7e5d52464ea0834ecdf2d850c4465ba</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Sat, 21 Nov 2026 12:35:54 +0000</pubDate>
-<description>A Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday and later drifted into Finnish ⁠territorial waters, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic Sea.</description>
-<enclosure url="https://s.france24.com/media/display/d14e7d92-e5a1-11f1-ada4-e56ab3dc0809/w:1024/p:16x9/Cargo-Finland.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/d14e7d92-e5a1-11f1-ada4-e56ab3dc0809/w:1024/p:16x9/Cargo-Finland.jpg" medium="image"/>
-</item>
-<item>
 <title>Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI</title>
 <link>https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai</link>
 <guid isPermaLink="false">b9f55373dafe7bac7d35a22070ba4d663f89f8d88a1dadc43816e474bc7a5506</guid>
@@ -290,17 +323,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4356x2904+0+0/resize/4356x2904!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3e%2F55%2F5987a64f424b84b128aba38ba342%2Fnpr-lr-stop-thinking-about-work-harlan-3.jpg" medium="image"/>
 </item>
 <item>
-<title>Anthropic says it will put humanity first. Will its IPO change that?</title>
-<link>https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety</link>
-<guid isPermaLink="false">0b289d41d6e24f316d57f7e0c36cd19c90ff359316db1302d484bccb2540e7bf</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
-<description>Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested. (Image credit: Michael M. Santiago)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F72%2F1359b5e7441995e3b5ba9e5c6d90%2Fgettyimages-2305894185.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F72%2F1359b5e7441995e3b5ba9e5c6d90%2Fgettyimages-2305894185.jpg" medium="image"/>
-</item>
-<item>
 <title>An effort to circumvent the Electoral College may be within reach. But hurdles remain</title>
 <link>https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact</link>
 <guid isPermaLink="false">b1f12833e221941f7d4a1da81b56c4097870bbb45c3df6e606322e37c51eddcd</guid>
@@ -312,15 +334,15 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8055x5370+0+0/resize/8055x5370!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fe0%2F5117a4fb400e8b75168010b72ece%2Fgettyimages-1244621687.jpg" medium="image"/>
 </item>
 <item>
-<title>The AI boom had a really bad week — and it's raising loud alarms</title>
-<link>https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia</link>
-<guid isPermaLink="false">51823041dbdc3f1d92453c4479e733ac65c344197fe705c9b117171037440e60</guid>
+<title>Anthropic says it will put humanity first. Will its IPO change that?</title>
+<link>https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety</link>
+<guid isPermaLink="false">0b289d41d6e24f316d57f7e0c36cd19c90ff359316db1302d484bccb2540e7bf</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
-<description>AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know. (Image credit: Spencer Platt)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg" medium="image"/>
+<description>Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested. (Image credit: Michael M. Santiago)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F72%2F1359b5e7441995e3b5ba9e5c6d90%2Fgettyimages-2305894185.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F72%2F1359b5e7441995e3b5ba9e5c6d90%2Fgettyimages-2305894185.jpg" medium="image"/>
 </item>
 <item>
 <title>Denmark accuses Russia of assassination plot, expels diplomat</title>
@@ -378,28 +400,6 @@
 <media:content url="https://s.france24.com/media/display/b9dec5f4-e58d-11f1-9664-ebb478925cf0/w:1024/p:16x9/EN-20261121-091304-091457-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Live: Interior ministry says 82,500 people protest across France, unions claim 150,000</title>
-<link>https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week</link>
-<guid isPermaLink="false">ba7b313f65f2c775635fb807c478cc10c87268ac794215e7ee33843847565425</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Sat, 21 Nov 2026 08:29:53 +0000</pubDate>
-<description>Turnout ⁠was down ​at largely peaceful demonstrations on Saturday compared to a week earlier, with 82,500 people protesting across France, including 21,500 in Paris, according to the interior ministry. Organisers ⁠put the figure at 150,000, including 45,000 in the capital. Follow our liveblog for the latest developments.</description>
-<enclosure url="https://s.france24.com/media/display/d69a9eb2-e5cd-11f1-820c-6b451f569414/w:1024/p:16x9/000-D88L88H.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/d69a9eb2-e5cd-11f1-820c-6b451f569414/w:1024/p:16x9/000-D88L88H.jpg" medium="image"/>
-</item>
-<item>
-<title>Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in</title>
-<link>https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in</link>
-<guid isPermaLink="false">64d023909b39cab85e4c444d5fc4a42939e29f8c439b2e232cf2a1ea913300f0</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Sat, 21 Nov 2026 08:08:01 +0000</pubDate>
-<description>Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years. (Image credit: Omer Urer)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg" medium="image"/>
-</item>
-<item>
 <title>German bidder stages last-gasp bid to rescue Poundland</title>
 <link>https://news.sky.com/story/german-bidder-stages-last-gasp-bid-to-rescue-poundland-13614626</link>
 <guid isPermaLink="false">57885e66681bb9b2903218a164f497f822522f2ee973b382f358e3e177859bd6</guid>
@@ -453,17 +453,6 @@
 <description>England captain Harry Kane has vowed to be back for the "business end of the season" after undergoing surgery on a torn ligament in his left ankle.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-kane-bayern_7411980.jpg?20261121034449" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-kane-bayern_7411980.jpg?20261121034449" medium="image"/>
-</item>
-<item>
-<title>Man accused of starting blaze that became Palisades Fire found guilty of arson</title>
-<link>https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631</link>
-<guid isPermaLink="false">e4e546dd235b0082272cc56f0b7b9213de0d2f97fbbecd0428fb4e920bdee558</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 21 Nov 2026 00:59:34 +0000</pubDate>
-<description>The defendant was found guilty of two arson counts during a retrial.</description>
-<enclosure url="https://s.abcnews.com/images/US/Rinderknecht-ap-er-261120_1795217240993_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/Rinderknecht-ap-er-261120_1795217240993_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Administration tries to intervene after Kalshi is threatened with restraining order</title>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bitcoin briefly drops to $17K on Kraken, exchange upholds trades</title>
+<link>https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand</link>
+<guid isPermaLink="false">67d23e87402eb322969cfbbfa740fdec3c472b87e0e40e8e2adf78dd63f8b8ed</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 22 Nov 2026 09:33:06 +0000</pubDate>
+<description>Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg" medium="image"/>
+</item>
+<item>
 <title>South Korean exchanges halt CYBER transfers amid suspected bridge exploit</title>
 <link>https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit</link>
 <guid isPermaLink="false">06d3b9f737f6a4954e4b39e47c04247f427c34343c8f3af470d071e8bff9ec03</guid>
@@ -1179,17 +1190,6 @@
 <description>The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3865/live/755fe980-e407-11f1-ab35-e1af93fa5cce.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3865/live/755fe980-e407-11f1-ab35-e1af93fa5cce.jpg" medium="image"/>
-</item>
-<item>
-<title>Ethereum’s new DeFi security tool raises questions over censorship</title>
-<link>https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship</link>
-<guid isPermaLink="false">b3fdba0977476ecbc87fd9be4dc1ce4550e74989699cb6f4dcfd1f24c9d8a1f8</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 13:30:00 +0000</pubDate>
-<description>Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s concentrated builder market.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q178B6E75WCCC6M7HFQ7YG/magazine-ethereum-pectra-upgrade.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q178B6E75WCCC6M7HFQ7YG/magazine-ethereum-pectra-upgrade.png" medium="image"/>
 </item>
 <item>
 <title>Morning Minute: Google’s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO</title>

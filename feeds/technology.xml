@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>We haven’t seen the last of the major tech outages</title>
+<link>https://www.theverge.com/tech/1039851/major-tech-outages</link>
+<guid isPermaLink="false">7d27fffa3906bd9ac7f9426261752d0e40282d15cac34ab9d5716328c5bd1d95</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 22:48:02 +0000</pubDate>
+<description>Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase . But the consensus is that there are more to come . Director of National Intelligence Jay Clayton told CNN : "The American people should be prepared for a great deal of investment in upgrading our systems; they should be prepared for investment in cybersecurity, and they should be prepared that any time there is a step change in technology, a step change in both compute and applications, there will be bumps in the road." Microsoft President Brad Smith issued a … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Can you safely use a 140w charger on an iPhone?</title>
+<link>https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger</link>
+<guid isPermaLink="false">c89d88a26abd4ed5a01d6f67e86d6a24b1ae45c9a3d0312a3c4b05c82f3cbec0</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 22:30:00 +0000</pubDate>
+<description>A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.</description>
+<enclosure url="https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg" medium="image"/>
+</item>
+<item>
+<title>This free app connects your Android phone to your Windows PC wirelessly</title>
+<link>https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp</link>
+<guid isPermaLink="false">26249c4aee0dac0d1a795fe9ef78501e1152a960870823e29704f53b82af3571</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 22:15:00 +0000</pubDate>
+<description>Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.</description>
+<enclosure url="https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg" medium="image"/>
+</item>
+<item>
+<title>How to safely clean your PC's GPU to avoid damaging it in the process</title>
+<link>https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage</link>
+<guid isPermaLink="false">81ece38df7c3159a1c522a48f7e199d44d77e202e704fa8273063af345866a6d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 22:00:00 +0000</pubDate>
+<description>Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-safely-clean-your-pcs-gpu-to-avoid-damaging-it-in-the-process/l-intro-1794604743.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-safely-clean-your-pcs-gpu-to-avoid-damaging-it-in-the-process/l-intro-1794604743.jpg" medium="image"/>
+</item>
+<item>
+<title>Why your monitor flickers when you turn it on and can it be fixed?</title>
+<link>https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix</link>
+<guid isPermaLink="false">7b75515b800d05a33ca6ba221302318978766644f4a803faf04467f2c1256b35</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 21:45:00 +0000</pubDate>
+<description>A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-your-monitor-flickers-when-you-turn-it-on-and-can-it-be-fixed/l-intro-1794601400.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-your-monitor-flickers-when-you-turn-it-on-and-can-it-be-fixed/l-intro-1794601400.jpg" medium="image"/>
+</item>
+<item>
 <title>The cool phone camera trick that can test your remote control's battery</title>
 <link>https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery</link>
 <guid isPermaLink="false">b14433f4fe4b9e0eb34f4ec4818379eae1cd59f6036818d5d6ef617f64cd9822</guid>
@@ -191,17 +246,6 @@
 <media:content url="https://www.engadget.com/img/gallery/you-can-mass-delete-all-of-your-emails-on-gmail-in-only-a-few-clicks/l-intro-1794781970.jpg" medium="image"/>
 </item>
 <item>
-<title>How to cancel your Nintendo Switch Online subscription</title>
-<link>https://www.engadget.com/2319401/cancel-nintendo-switch-online-subscription</link>
-<guid isPermaLink="false">49f10b8ee60939215ce32a60b3f19bdf90e3bbc6aadf43eb130389cb0282bd47</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 17:30:00 +0000</pubDate>
-<description>You'll have to switch off Nintendo Switch Online's auto-renewal to cancel it. Here's how.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-cancel-your-nintendo-switch-online-subscription/l-intro-1794668965.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-cancel-your-nintendo-switch-online-subscription/l-intro-1794668965.jpg" medium="image"/>
-</item>
-<item>
 <title>Binding of Isaac developer removes AI music from Repentance Plus</title>
 <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
 <guid isPermaLink="false">28c764e2cf8a36efd027dea031ee6d3d87104c6d9c827e15c2d038df19795afa</guid>
@@ -213,17 +257,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>5 iOS 27.3 changes coming to your Apple devices by 2027</title>
-<link>https://www.engadget.com/2319400/apple-ios-27-3-changes-by-2027</link>
-<guid isPermaLink="false">604dc4c7905663174d2d9e73c071f53ea408066a1adfb5afeda7f3edd3024d84</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 17:15:00 +0000</pubDate>
-<description>iOS 27.3's first developer beta is out ahead of a possible December 2026 launch, and it brings with it a handful of notable changes and new features.</description>
-<enclosure url="https://www.engadget.com/img/gallery/5-ios-27-3-changes-coming-to-your-apple-devices-by-2027/l-intro-1794567265.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/5-ios-27-3-changes-coming-to-your-apple-devices-by-2027/l-intro-1794567265.jpg" medium="image"/>
-</item>
-<item>
 <title>Some of our favorite Switch 2 games are cheaper through Black Friday</title>
 <link>https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale</link>
 <guid isPermaLink="false">3bca3cc3786597675352ea8c4b5d986c996ca0f02950d5b08643e148309309ef</guid>
@@ -233,28 +266,6 @@
 <description>This ain’t gonna buff out. Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles , Nintendo is also knocking $20 off some of the Switch 2’s best titles. Some of the most notable games include Donkey Kong Bananza , which is $49.99 (usually $69.99) at Amazon , Target , and Best Buy , and Super Mario Party Jamboree Plus Jamboree TV for $59.99 (usually $79.99) at Amazon , Walmart , and Best Buy . Amazon, Best Buy, Walmart, and GameStop are offering discounts on several more Switch 2 games, though their respective end times and availability varies. Nintendo shared that some game sales will end on November 29th. Even if deals dry up for physical games on your wishlist, digital game deals are happening through Nintendo’s eShop until 11:59 PM PT on Wednesday, December 2nd, 2026. Metroid Prime 4: Beyond Where to Buy: $69.99 $49.99 at Amazon (Switch 2) $69.99 $49.99 at Best Buy (Switch 2) $69.99 $49.99 at Target (Switch 2) Donkey Kong Bananza Where to Buy: $69.99 $49.99 at Amazon $69.99 $49.99 at Best Buy $69.99 $49.99 at Target The Legend of Zelda: The Ocarina of Time Where to Buy: $59.99 $54.99 at Amazon (digital) Super Mario Party Jamboree Plus Jamboree TV Where to Buy: $79.99 $59.99 at Walmart $79.99 $59.99 at Best Buy $79.99 $59.99 at Amazon EA Sports FC 27 Where to Buy: $69.99 $29.99 at Amazon (Switch 2, physical) $69.99 $34.99 at Nintendo (Switch 2, digital) Monster Hunter Wilds Where to Buy: $39.99 $29.99 at Monster Hunter Wilds (Switch 2, preorder) Kirby and the Forgotten Land Plus Star-Crossed World Where to Buy: $79.99 $55.99 at Nintendo EA Sports Madden NFL 27 Where to Buy: $69.99 $34.99 at Nintendo (Switch 2) RuneScape: Dragonwilds Deluxe Edition Where to Buy: $39.99 $31.99 at Nintendo (Switch 2, digital) Orbitals: Deluxe Edition Where to Buy: $49.99 $39.99 at Nintendo Star Wars Outlaws: Gold Edition Where to Buy: $59.99 $24.99 at Amazon (Switch 2, physical) Elden Ring: Tarnished Edition Where to Buy: $79.99 $59.99 at Amazon (Switch 2, physical) NBA 2K27 Where to Buy: $69.99 $29.97 at Amazon (Switch 2, physical) Pokémon Legends: Z-A Where to Buy: $69 $49.94 at Amazon (Switch 2)</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>You can reuse your old GoPro in a couple different ways</title>
-<link>https://www.engadget.com/2319397/reuse-old-gopro-different-ways</link>
-<guid isPermaLink="false">b1d1f54fda9eb0fb589211caa10f2a7d4bc040b851953697c4cbd0df123605a1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 17:00:00 +0000</pubDate>
-<description>An old GoPro may not be of much use as an action camera, but that doesn't mean it's destined for e-waste. Here are two ways to repurpose it.</description>
-<enclosure url="https://www.engadget.com/img/gallery/you-can-reuse-your-old-gopro-in-a-couple-different-ways/l-intro-1794706592.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/you-can-reuse-your-old-gopro-in-a-couple-different-ways/l-intro-1794706592.jpg" medium="image"/>
-</item>
-<item>
-<title>Here's how to properly test your USB speed</title>
-<link>https://www.engadget.com/2319388/how-to-test-usb-speed</link>
-<guid isPermaLink="false">5b3d27a00a5a96569016b60e2bf8a99aec5464e4d3f36c4d02325936e545d6eb</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 16:45:00 +0000</pubDate>
-<description>Your USB ports and devices are all rated for certain speeds, but how do you know everything's performing as it should? It's actually not that hard.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-how-to-properly-test-your-usb-speed/l-intro-1794562926.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-how-to-properly-test-your-usb-speed/l-intro-1794562926.jpg" medium="image"/>
 </item>
 <item>
 <title>As cars go digital, US consumers pay an extra $12 billion a year for repairs</title>
@@ -321,17 +332,6 @@
 <description>Apple’s HomeView is a great music controller and a decent speaker for its size. | Photo: Hunter McRae for The Verge After I published my review of the HomeView , Apple's first smart display , y'all still had a ton of questions about how it works as a smart speaker . So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrations along the way. Here are the answers to all your burning questions. Have more? I'll answer them in the comments. How does the HomeView sound compared to the HomePod Mini, Sonos One, and HomePod? The HomeView isn't a replacement for a Sonos One, a full-size HomePod, or a similar-size speaker. Those are much better speakers. In size and sound, the HomeView is clos … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE94.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE94.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The vibe-coding revolution is coming to all the gadgets</title>
-<link>https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</link>
-<guid isPermaLink="false">e8029993afd719ae83793ee160287cd471a44b54c75b1e5ddb14ea0c26773e0f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 13:00:00 +0000</pubDate>
-<description>This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started Like so many things with AI, it's not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to their liking. What is new is that it's easy now. People all over the world are discovering that they can use large language models to hack their hardwar … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>GLP-1 drugs could have a surprisingly large environmental payoff</title>

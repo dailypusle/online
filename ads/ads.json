@@ -1,3 +1,15 @@
 {
-  "ads": []
+  "categories": {
+    "top": [],
+    "nigeria": [],
+    "world": [],
+    "entertainment": [],
+    "sports": [],
+    "technology": [],
+    "science": [],
+    "business": [],
+    "gaming": [],
+    "fashion": [],
+    "other": []
+  }
 }

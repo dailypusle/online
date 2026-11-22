@@ -101,6 +101,11 @@
       item.classList.contains("story") && !item.classList.contains("sponsored-story")
     );
     const sixthStory = stories[5];
+    // Do nothing if the ad is already in the right place. Re-inserting it would
+    // fire the MutationObserver again and cause an infinite loop that freezes the page.
+    if (card.parentNode === news) {
+      if (sixthStory ? card.nextElementSibling === sixthStory : news.lastElementChild === card) return;
+    }
     if (sixthStory) news.insertBefore(card, sixthStory);
     else news.appendChild(card);
   }

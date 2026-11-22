@@ -95,6 +95,16 @@
     return article;
   }
 
+  function placeAdAtSixthCard(card) {
+    // Count only news cards; the sponsored card itself must not affect its position.
+    const stories = [...news.children].filter(item =>
+      item.classList.contains("story") && !item.classList.contains("sponsored-story")
+    );
+    const sixthStory = stories[5];
+    if (sixthStory) news.insertBefore(card, sixthStory);
+    else news.appendChild(card);
+  }
+
   async function renderAd() {
     try {
       const category = news.dataset.category || "top";
@@ -113,16 +123,21 @@
         existing?.remove();
         return;
       }
-      if (existing && existing.dataset.campaignId === String(campaign.id || "")) return;
+
+      const campaignId = String(campaign.id || "");
+      if (existing && existing.dataset.campaignId === campaignId) {
+        placeAdAtSixthCard(existing);
+        return;
+      }
 
       const card = makeAd(campaign);
       if (!card) {
         existing?.remove();
         return;
       }
-      card.dataset.campaignId = String(campaign.id || "");
+      card.dataset.campaignId = campaignId;
       existing?.remove();
-      news.prepend(card);
+      placeAdAtSixthCard(card);
     } catch (error) {
       console.warn("DailyPulse sponsored ad unavailable:", error.message);
     }

@@ -114,12 +114,9 @@
     try {
       const category = news.dataset.category || "top";
       const categories = await loadCampaigns();
-      // A top campaign may also run in other categories; category-specific
-      // campaigns are preferred and shown before any top-wide campaign.
-      const candidates = [
-        ...(Array.isArray(categories[category]) ? categories[category] : []),
-        ...(category !== "top" && Array.isArray(categories.top) ? categories.top : [])
-      ];
+      // Each category shows only its own campaigns. A campaign assigned to
+      // "top" runs on the Top category alone and is never reused elsewhere.
+      const candidates = Array.isArray(categories[category]) ? categories[category] : [];
       const enabled = candidates.filter(campaign => campaign && campaign.enabled === true);
       const existing = news.querySelector(":scope > .sponsored-story");
       const campaign = enabled[0];

@@ -1,0 +1,24 @@
+{
+  "categories": {
+    "top": [
+      {
+        "advertiser": "Moniepoint",
+        "headline": "Get Your Moniepoint Account Today!",
+        "body": "Enjoy convenient, secure, and seamless banking with Moniepoint. Open your account today and experience easier payments, transfers, and everyday financial transactions.",
+        "image": "ads/images/images.jpeg",
+        "destinationUrl": "https://join.moniepoint.com?adj_t=15ha060e&rC=HWMD196",
+        "enabled": true
+      }
+    ],
+    "nigeria": [],
+    "world": [],
+    "entertainment": [],
+    "sports": [],
+    "technology": [],
+    "science": [],
+    "business": [],
+    "gaming": [],
+    "fashion": [],
+    "other": []
+  }
+}

@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How to clear your cache on Google TV</title>
+<link>https://www.engadget.com/2319567/how-to-clear-cache-google-tv</link>
+<guid isPermaLink="false">8794d8328b40786ba869ebd2562d255d0eb19fa319a4e593e1ec3de565698aef</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 01:00:00 +0000</pubDate>
+<description>Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-clear-your-cache-on-google-tv/l-intro-1794808574.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-clear-your-cache-on-google-tv/l-intro-1794808574.jpg" medium="image"/>
+</item>
+<item>
+<title>This free 'Swiss Army Knife' for macOS can replace your utility apps</title>
+<link>https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps</link>
+<guid isPermaLink="false">a132d6ec4d6e049ca58a860ca39b0be167596e15fb6a728a7bf9fb3ba64a2b84</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 00:45:00 +0000</pubDate>
+<description>Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.</description>
+<enclosure url="https://www.engadget.com/img/gallery/this-free-swiss-army-knife-for-macos-can-replace-your-utility-apps/l-intro-1794595062.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/this-free-swiss-army-knife-for-macos-can-replace-your-utility-apps/l-intro-1794595062.jpg" medium="image"/>
+</item>
+<item>
+<title>Should you go with a headphone DAC/amp combo or a stack?</title>
+<link>https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack</link>
+<guid isPermaLink="false">aa0bcdb4f0f362437bd0685339f59123c6007631f15b40cd6230606133fb8683</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 00:30:00 +0000</pubDate>
+<description>If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?</description>
+<enclosure url="https://www.engadget.com/img/gallery/should-you-go-with-a-headphone-dacamp-combo-or-a-stack/l-intro-1794285377.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/should-you-go-with-a-headphone-dacamp-combo-or-a-stack/l-intro-1794285377.jpg" medium="image"/>
+</item>
+<item>
+<title>$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall</title>
+<link>https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532</link>
+<guid isPermaLink="false">82cf2a2e564dc585bbdeded284299b2113a939408a725f3f351a5e73aef3bce3</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 00:23:31 +0000</pubDate>
+<description>Researchers have found new ways to evade China’s Great Firewall after spending just $1 worth of tokens. That result appeared last week in a paper titled “CircumVolve: Automated Discovery of Censorship Evasion Strategies Using Large Language Models” presented at the Conference on Computer and Communications Security run by the Association for Computing Machinery’s Special Interest Group on Security, Audit and Control. Penned by six researchers from the University of Massachusetts Amherst, University of Colorado Boulder, and activist group the Great Firewall Report, the paper points out that finding holes in the Great Firewall is a laborious process – so just the kind of task worth handing to AI. The authors came up with a tool they call “CircumVolve” and describe as “a system for automated discovery of censorship circumvention strategies across the full network stack.” “CircumVolve combines LLM code generation with iterative feedback-driven evaluation to produce verifiable and deployable evasion techniques,” they wrote. “CircumVolve models different censorship techniques as discrete scenarios, each capturing the specific context, protocol constraints, and blocking mechanisms of real-world censors. Within each scenario, evasion strategies are represented as executable Python programs that implement packet and protocol manipulations — from rewriting TCP/IP header fields, to crafting DNS queries that exploit parser ambiguities, to modifying the internal structure of encrypted QUIC Initial packets — while maintaining protocol correctness within tolerable bounds or strategically violating it when beneficial.” The authors tested CircumVolve on simulated censorship tools used by China, Iran, Pakistan, and Kazakhstan, and on virtual private servers deployed on clouds in those countries. Those tests found the median API cost to the first successful evasion was less than $1 in token expenditure costs when using GPT-5.1. The authors acknowledge that operators of censorship infrastructure might be able to observe CircumVolve at work, but feel its relatively small payloads – 80 KB of outgoing and 150 KB of incoming traffic – and 25-45-second pauses between tests might see it fly under the radar. “CircumVolve represents a first step in leveraging LLMs to accelerate the censorship-circumvention lifecycle,” the authors wrote. “By automating the labor-intensive tasks of protocol analysis, implementation, and testing, AI-driven approaches make studying circumvention capabilities far more accessible to the comparatively under-resourced Internet freedom community [and] demonstrates how AI-assisted systems can narrow the resource gap between Internet freedom advocates and well-funded censoring states.” Lenovo finally cracks monster datacenter profits Ever since acquiring IBM’s x86 server business in 2014, Chinese hardware giant Lenovo has struggled to turn a profit from datacenter sales, even as it expanded its business into storage, networking, and selling to hypersc</description>
+<enclosure url="https://image.theregister.com/?imageId=246780&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=246780&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>8 Windows apps you should probably remove from your PC</title>
+<link>https://www.engadget.com/2317781/windows-apps-remove-from-pc</link>
+<guid isPermaLink="false">9edb9e667f4c4d5a9358cd08bd6f9a2522dd3b4cd9c22c15f402a02970ce46ff</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 00:15:00 +0000</pubDate>
+<description>From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.</description>
+<enclosure url="https://www.engadget.com/img/gallery/8-windows-apps-you-should-probably-remove-from-your-pc/l-intro-1794237490.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/8-windows-apps-you-should-probably-remove-from-your-pc/l-intro-1794237490.jpg" medium="image"/>
+</item>
+<item>
+<title>Public vs. private IP addresses: what's the difference?</title>
+<link>https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences</link>
+<guid isPermaLink="false">35f9744a64f5c359e2de6f76420e6920f5fa0fca29457ab05fe7f1be797abb79</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<description>One identifies your network, the other identifies the devices using your network.</description>
+<enclosure url="https://www.engadget.com/img/gallery/public-vs-private-ip-addresses-whats-the-difference/l-intro-1794236251.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/public-vs-private-ip-addresses-whats-the-difference/l-intro-1794236251.jpg" medium="image"/>
+</item>
+<item>
 <title>What is the best way to secure your PlayStation 5 for a flight?</title>
 <link>https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel</link>
 <guid isPermaLink="false">6b4442fa92771d6188937f76c05cffacced85f1d671a717b0f1f05a3add5d0af</guid>
@@ -178,61 +244,6 @@
 <description>YouTube's custom feeds feature allows you to search for exactly what you want to see on your homepage. Discover how to use this tool.</description>
 <enclosure url="https://www.engadget.com/img/gallery/want-more-control-over-your-youtube-homepage-try-using-custom-feeds/l-intro-1794432277.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/want-more-control-over-your-youtube-homepage-try-using-custom-feeds/l-intro-1794432277.jpg" medium="image"/>
-</item>
-<item>
-<title>How long is a new Fitbit actually supposed to last?</title>
-<link>https://www.engadget.com/2319487/how-long-new-fitbit-last-lifespan-software-support</link>
-<guid isPermaLink="false">595c25d5385cecfd26616047a6e6eb42486726e032512e400318cd7292d60ae3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 19:30:00 +0000</pubDate>
-<description>Fitbit longevity is threefold. You'll need to consider the fitness tracker's durability, battery life, and how long it will receive software support.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-long-is-a-new-fitbit-actually-supposed-to-last/l-intro-1794499519.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-long-is-a-new-fitbit-actually-supposed-to-last/l-intro-1794499519.jpg" medium="image"/>
-</item>
-<item>
-<title>Here's when a Raspberry Pi 5 could be considered overkill</title>
-<link>https://www.engadget.com/2319480/when-raspberry-pi-5-considered-overkill</link>
-<guid isPermaLink="false">bf8c4d645aa4b941fc4c44cfb402d13f264bf4473a8cde0c038535b135693129</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 19:15:00 +0000</pubDate>
-<description>From home servers to DIY gadgets, Raspberry Pi boards can handle countless tasks, though the power of the newest Pi 5 isn't always the only option.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-when-a-raspberry-pi-5-could-be-considered-overkill/l-intro-1794642152.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-when-a-raspberry-pi-5-could-be-considered-overkill/l-intro-1794642152.jpg" medium="image"/>
-</item>
-<item>
-<title>5 Apple Watch settings that can help you save its battery life</title>
-<link>https://www.engadget.com/2319475/apple-watch-settings-help-save-battery-life</link>
-<guid isPermaLink="false">5808080d947d9ff8705a52f45ba39b8577c34a1422465bca7db49385d33be2ba</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 19:00:00 +0000</pubDate>
-<description>By giving up some of the Apple Watch's slick features, you can use its core functions for much longer before needing a charge.</description>
-<enclosure url="https://www.engadget.com/img/gallery/5-apple-watch-settings-that-can-help-you-save-its-battery-life/l-intro-1794592644.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/5-apple-watch-settings-that-can-help-you-save-its-battery-life/l-intro-1794592644.jpg" medium="image"/>
-</item>
-<item>
-<title>What the little clock icon at the top of your Samsung phone means</title>
-<link>https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means</link>
-<guid isPermaLink="false">03c7d413dfeb3257b3f4c3467cad313da077cb6fab889b90a33868a614619393</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 18:45:00 +0000</pubDate>
-<description>A mystery clock in your Galaxy status bar can be confusing. Find out what the symbol could mean and the simple steps to make it disappear for good.</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-the-little-clock-icon-at-the-top-of-your-samsung-phone-means/l-intro-1794937166.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-the-little-clock-icon-at-the-top-of-your-samsung-phone-means/l-intro-1794937166.jpg" medium="image"/>
-</item>
-<item>
-<title>The drawbacks of adding solar panels to your home</title>
-<link>https://www.engadget.com/2319431/adding-solar-panels-home-disadvantages</link>
-<guid isPermaLink="false">625a6d8c15acf38230f319ef90751b0c16053416bae13115a91030183c2965cc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 18:30:00 +0000</pubDate>
-<description>Installing solar panels at your home could be a bright idea, but there are some serious financial factors to consider before making the investment.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-drawbacks-of-adding-solar-panels-to-your-home/l-intro-1794592127.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-drawbacks-of-adding-solar-panels-to-your-home/l-intro-1794592127.jpg" medium="image"/>
 </item>
 <item>
 <title>Delta flights in and out of Atlanta delayed due to system outage</title>
@@ -505,7 +516,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Fri, 20 Nov 2026 20:42:04 +0000</pubDate>
-<description>Signal, the encrypted messaging app, has barred Google Gemini, Apple Siri, and other AI agents from accessing messages unless the user has explicitly granted permission, based on privacy concerns. Citing the screenshot blocking implemented last year to defend against Microsoft Recall, Signal CEO Meredith Whittaker said similar measures have become necessary to prevent agentic software available in iOS and Android from gaining access to communication that's intended to be private. "Google and Apple are integrating agentic capabilities like Gemini Intelligence with Google Gemini and Onscreen Awareness with Siri AI deep into their operating systems," wrote Whittaker in a blog post . "In order to gain access to information about you, these OS AI agents 'scan' the information that’s on your screen. In doing so, your Signal data is captured, then made available to these agentic systems in order to allow them to answer your questions and do your bidding." The result is that private messages ingested by these agentic systems may end up on someone else's server where they're no longer private. Updates to Signal's iOS and Android apps now include controls that by default block Siri on iOS and Gemini and other agents on Android from taking screenshots, which AI agents process using optical character recognition to extract text. Whittaker says that those who wish to take screenshots of their messages can disable this protection via Signal's settings menu, but warns doing so risks exposing your Signal content (and that sent by your contacts) to AI agents. Screenshot blocking, Whittaker concedes, is only a partial solution since AI agents may have other ways to access application data through the device file system. "We want to be very clear: it is a serious problem that Signal – and application developers beyond – lack robust tools to prevent AI agents from undermining application-level privacy," she said. "Even where we are able to detect and block AI data access, Google, Apple, Microsoft, and others do not provide ways for developers to easily restrict such AI data access without making drastic compromises to the core user experience. This is also the reason we are currently unable to implement these protections on macOS." Apple is taking some action to implement protection from AI agents on macOS, though it appears to be doing so largely to defend against third-party access to data rather than to limit its own Siri service. Siri can be turned off separately. With macOS 27.3 , currently in public beta testing, Apple's desktop operating system will get more granular controls on two APIs: Device Control and Data Access, and Full Disk Access. The result will be more permission prompts for users of macOS apps that seek access to user data, and the inconvenience of applying for an entitlement from Apple to obtain Full Disk Access for backup software and assistive technologies that use Accessibility APIs. "As AI agents become increasingly capable and autonomous,</description>
+<description>Signal, the encrypted messaging app, has barred Google Gemini, Apple Siri, and other AI agents from accessing messages unless the user has explicitly granted permission, based on privacy concerns. Citing the screenshot blocking implemented last year to defend against Microsoft Recall, Signal President Meredith Whittaker said similar measures have become necessary to prevent agentic software available in iOS and Android from gaining access to communication that's intended to be private. "Google and Apple are integrating agentic capabilities like Gemini Intelligence with Google Gemini and Onscreen Awareness with Siri AI deep into their operating systems," wrote Whittaker in a blog post . "In order to gain access to information about you, these OS AI agents 'scan' the information that’s on your screen. In doing so, your Signal data is captured, then made available to these agentic systems in order to allow them to answer your questions and do your bidding." The result is that private messages ingested by these agentic systems may end up on someone else's server where they're no longer private. Updates to Signal's iOS and Android apps now include controls that by default block Siri on iOS and Gemini and other agents on Android from taking screenshots, which AI agents process using optical character recognition to extract text. Whittaker says that those who wish to take screenshots of their messages can disable this protection via Signal's settings menu, but warns doing so risks exposing your Signal content (and that sent by your contacts) to AI agents. Screenshot blocking, Whittaker concedes, is only a partial solution since AI agents may have other ways to access application data through the device file system. "We want to be very clear: it is a serious problem that Signal – and application developers beyond – lack robust tools to prevent AI agents from undermining application-level privacy," she said. "Even where we are able to detect and block AI data access, Google, Apple, Microsoft, and others do not provide ways for developers to easily restrict such AI data access without making drastic compromises to the core user experience. This is also the reason we are currently unable to implement these protections on macOS." Apple is taking some action to implement protection from AI agents on macOS, though it appears to be doing so largely to defend against third-party access to data rather than to limit its own Siri service. Siri can be turned off separately. With macOS 27.3 , currently in public beta testing, Apple's desktop operating system will get more granular controls on two APIs: Device Control and Data Access, and Full Disk Access. The result will be more permission prompts for users of macOS apps that seek access to user data, and the inconvenience of applying for an entitlement from Apple to obtain Full Disk Access for backup software and assistive technologies that use Accessibility APIs. "As AI agents become increasingly capable and autono</description>
 <enclosure url="https://image.theregister.com/?imageId=227546&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=227546&amp;width=1280" medium="image"/>
 </item>
@@ -1124,17 +1135,6 @@
 <description>Hot on the heels of serious vulnerabilities in seemingly every other widely used software powering the entire internet, F5 today released emergency patches for 10 bugs in open source NGINX. These include critical remote code execution flaws that let attackers hijack NGINX servers with HTTP/2 enabled, as well as the millions of websites running NGINX, to steal sensitive data and disrupt services. “At this time, we have found no evidence of active exploitation of any of these vulnerabilities in the wild,” and F5 spokesperson told The Register . “We continue to monitor closely and will share updates via myF5 as we learn more.” As with all of the other recently disclosed vulnerabilities in foundational technologies like PHP, Apache, and Java, these critical NGINX bugs were uncovered by researchers using AI. One of them has been hiding in the code for at least 10 years. Tomer Schwartz, Wiz’s chief technology officer of exposure management and AppSec, helped find the bug, along with researchers from Ikotas Labs, Metnir, Rapid7, and Xint working independently. Schwartz told The Register that this wave of AI-discovered flaws “point to a new reality.” “We need to treat every internet-connected system as potentially vulnerable,” Schwartz said. “AI has changed not only which vulnerabilities can be found, but how quickly longstanding risks can become real threats.” NGINX is the world’s most widely used open source web server, handling HTTPS requests and routing incoming traffic to the right application or API. It powers about a third of all websites (around 225 million ), and F5 maintains the open source version. On Wednesday, F5 published an out-of-band security notification that addressed 10 CVEs in open source NGINIX. If you run NGINX, update to 1.31.9 as soon as possible. CVE-2026-123633 and CVE-2026-123007 Two of the vulns are especially serious as they allow a remote attacker to execute code on the NGINX server without authentication. These two, tracked as CVE-2026-123633 and CVE-2026-123007 , both received a critical, 9.2 CVSS rating, and CVE-2026-123007 affects versions dating back to NGINX 1.9.5 in 2015. Both vulnerabilities require HTTP/2 to be enabled on the affected NGINX server. All of the security shops listed earlier independently found at least one of these two CVEs - most, if not all, with an AI assist - and reported them to F5. “Both vulnerabilities are memory-safety issues in how NGINX handles HTTP/2 traffic,” Schwartz and fellow Wiz kid Nir Ohfeld said in a Wednesday blog about the two bugs. “In CVE-2026-123633, a connection's memory is freed while a request still needs it, creating a use-after-free. In CVE-2026-123007, incorrect flow-control accounting leads to an invalid memory copy.” Rapid7’s team also published a proof-of-concep t to demonstrate leveraging CVE-2026-123007 for unauthenticated remote code execution against a vulnerable linux/amd64 Docker image running nginx version 1.31.8. Xint found three other NGINX flaws, plus a sepa</description>
 <enclosure url="https://image.theregister.com/?imageId=228044&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=228044&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>To rank the world's biggest supercomputers, we're gonna need a bigger bench</title>
-<link>https://www.theregister.com/hpc/2026/11/18/to-rank-the-worlds-biggest-supercomputers-were-gonna-need-a-bigger-bench/5310878</link>
-<guid isPermaLink="false">6514dac7b89184f301666017481be258680ee00589b94c26fd1c6e01e05a106d</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 20:15:44 +0000</pubDate>
-<description>For decades, the Top500 list has tirelessly ranked the world’s biggest, most powerful, and often most unique publicly-known supercomputers. With the rise of generative AI, the list no longer lives up to its name. China’s Lineshine supercomputer at 2.2 exaFLOPS of double precision compute in the High-Performance Linpack (HPL) benchmark may be the top system on the bi-annual ranking, but it’s nowhere near the biggest compute cluster in the world. Superclusters like SpaceXAI’s Colossus, Meta’s Promethius, and OpenAI’s Stargate pack hundreds of thousands of GPUs, dwarfing anything on the Top500 today. “These [companies] are not interested in submitting to the Top500,” Eth Zürich’s Torsten Hoefler said during his Supercomputing address this week. It’s a dilemma that the founders of the Top500 ranking are now grappling with. And some believe it may be time for a rethink. “What’s really needed for tracking that more appropriately is not just a different benchmark but also different methodology,” Top500 author Erich Strohmaier said. For a long time, Strohmaier explains, compute capability was roughly aligned with capacity. What happened in the last few years with AI is “capacity really pulled ahead of capability in terms of market size,” he said. “We were and we still are very focused on capability.” By capability, Strohmaier is referring to the ability to run one code across the entire cluster. “Our prime rule for benchmarking is, you have to benchmark your whole system with one code and you cannot just add two parts up to make up a number,” he explained. This is problematic for the large clusters major hyperscalers and cloud providers are now building to fuel the AI boom. “All those systems are capacity systems,” Strohmaier said. They’re not designed to run one piece of code but have instead been architected to run many, many smaller or medium-sized code instantiations, which may include training, fine-tuning, reinforcement learning, and of course inference. Because of this, Strohmaier says, it wouldn’t be reasonable to expect SpaceXAI to run something High-Performance Linpack (HPL) on a cluster like Colossus. But these clusters are still worth tracking. They'll just need a new benchmark better suited to judging the capability of these arrays while at the same time preventing operators from gaming the system. What shape or form such a benchmark might take remains to be seen. Developing a new benchmark or methodology is no small task, and changing the existing benchmarks isn’t ideal. ”If we do anything to the benchmark itself, we’re going to lose the historic trends, which is extremely valuable,” Hoefler said. Allowing for lower precisions — HPL-MxP already does this to some extent — is one avenue for addressing the fact that these accelerators are increasingly trading FP64 performance for lower-accuracy floating-point data types like FP8 or FP4. Another avenue is developing a separate AI benchmark. This would be immediately applicable to these clusters</description>
-<enclosure url="https://image.theregister.com/?imageId=119575&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=119575&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>Google Wallet comes to your iPhone – but without this feature</title>

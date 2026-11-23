@@ -4,6 +4,182 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>US government reassured Nvidia board over Huang</title>
+<link>https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">de9a73c591d338515e175a1cfdcb8cb0a3b84b82c499aac29f0a2e38b0ee6def</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:51:05 +0000</pubDate>
+<description>President Trump backed Nvidia's decision to reinstate Jensen Huang as CEO</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/eb5f/live/44ab16f0-e74c-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/eb5f/live/44ab16f0-e74c-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe</title>
+<link>https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe</link>
+<guid isPermaLink="false">f85e9e8089b8f7d9c2cc27537f9de7a8aa77536f07cdba474435d6b155f6cebb</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:47:00 +0000</pubDate>
+<description>Nvidia shares surged nearly 29% after the company’s board reinstated Jensen Huang as CEO following consultations with the US government.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84EH3YK0JXNPTCK9M1RS4SD/analys-analytics-bisiness-man-woman-down-city-crash-nvidia-2.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84EH3YK0JXNPTCK9M1RS4SD/analys-analytics-bisiness-man-woman-down-city-crash-nvidia-2.png" medium="image"/>
+</item>
+<item>
+<title>Bitcoin Core Patches Node-Stall Bug Found by Block’s AI Scanner</title>
+<link>https://bitcoinmagazine.com/news/bitcoin-core-patches-ai-found-node-bug</link>
+<guid isPermaLink="false">c42b2dfc0bd751305b1d725f94a6947e8e32cccf23a0bb01e328d95d341cb83c</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:45:00 +0000</pubDate>
+<description>Bitcoin Magazine Bitcoin Core Patches Node-Stall Bug Found by Block’s AI Scanner Bitcoin Core developers have disclosed and patched a medium-severity bug that let an attacker temporarily freeze a node’s processing of blocks and transactions, a flaw first flagged by an AI scanner built by Block’s Spiral. The vulnerability, tracked as CVE-2026-117348, is fixed in Bitcoin Core versions 30.5, 31.3 and 32.1. The 30.5 and 31.3 releases shipped Friday alongside the public advisory, while 32.1 has carried the fix since Oct. 27. Affected versions run from 29.0 through 29.5, 30.0 through 30.4 and 31.0 through 31.2. The 29.x series has reached end of life and will not get a fix, so operators on that branch need to move to a newer release. How the Core bug worked Bitcoin Core keeps “orphan” transactions, whose parent transactions it has not yet seen, and asks peers that announce them for the missing pieces. Since version 29.0, the software builds a list of an orphan’s parents and checks each one against its mempool and filters before deciding what to request. A single inv message can carry up to 50,000 entries, and the software did not skip duplicates. An attacker could send a node an orphan with thousands of missing parents, then send messages repeating that transaction’s ID 50,000 times. “Each such message stalls the node for over a dozen seconds, during which it processes no messages from other peers, including blocks,” the advisory said. Sending more messages could stretch the disruption out. The fix makes the node process each transaction announced in an inv message only once. The advisory describes a temporary denial-of-service problem and does not describe any way to steal bitcoin or permanently damage a node. It also does not say whether the bug was ever exploited. For a business running an affected node, the stalls could still matter. An exchange could be slow to credit deposits, and a miner could keep working on an outdated view of the chain while its node is stuck. An AI-found bug under a faster disclosure policy The advisory credits an automated LLM scan run through Elias Rohrer’s Project Loupe at Spiral, Block’s open-source bitcoin development arm. Bitcoin Core developer Gregory Sanders validated the finding and brought it to the project’s security team. Loupe is a free scanner that runs AI agents over open-source bitcoin code and only reports findings backed by a working test case. Bitcoin Core, BDK, LDK, rust-bitcoin, Cashu, Blockstream Jade, bitcoinj and SRI signed up for its first round of scans. Rohrer said on a recent podcast that Spiral started the project around March and began continuous scanning in May, with Bitcoin Core in the first batch. Loupe reported the issue on July 8. A developer known as Stutxo independently reported it on Aug. 4, the same day Sanders opened a pull request with the fix, which was merged two days later. The fix was backported to the 30.x and 31.x branches on Nov. 17. Bitcoin Core rated the bug “easily discovera</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Core-Patches-Node-Stall-Bug-Found-by-Blocks-AI-Scanner.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Core-Patches-Node-Stall-Bug-Found-by-Blocks-AI-Scanner.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO</title>
+<link>https://bitcoinmagazine.com/markets/bitcoin-price-surges-64000-nvidia</link>
+<guid isPermaLink="false">4261de68974adb1c0ffc28d54037edd50cbf4b9130dd1243ad9e5855c75daf4c</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:33:18 +0000</pubDate>
+<description>Bitcoin Magazine Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO The bitcoin price surged to above $64,000 on Monday morning, according to Look Into Bitcoin data, as Nvidia reinstated Jensen Huang as chief executive and sent stocks sharply higher. Bitcoin is up about $8,500 from its weekend low of roughly $55,100, which came at about 1:17 a.m. ET on Saturday. Nvidia’s board voted unanimously to bring Huang back as president, CEO and director, effective immediately, the company said Monday morning. The board said it spoke with Huang and received input from “senior levels of the United States government,” concluding that his return “poses no national security risk.” Nvidia board restores Huang after 12 days Huang resigned on Nov. 11 after reports of an affair with a woman U.S. intelligence officials believe is a Chinese spy. CFO Colette Kress took over as interim CEO. The board has said an investigation into the reported foreign intelligence effort will continue, and Huang said he supports it. Nvidia chair Harvey Jones said the board believes Huang “is the right person to lead” the company. Huang called it an honor to return and said he “can’t wait to get back to work.” The company also formed a national security and export control committee and is searching for a chief compliance officer. The stock had lost nearly half its value during a seven-week losing streak, even after Nvidia reported better-than-expected quarterly results on Nov. 17. Investors worried about life without Huang, and bitcoin traded in step with the rout in technology shares. Nvidia (NVDA) shares were up roughly 31% to near $165 in premarket trading. Shares had tumbled 14% on Friday, closing out that seventh straight weekly decline, after a report that the SEC is examining the company’s accounting. Nasdaq-100 futures were up about 6.6% and S&amp;P 500 futures about 4.2% at 9:21 a.m. ET. Crypto stocks and miners jump Bitcoin-linked equities rallied with the chipmaker. Coinbase (COIN) was up about 9% to near $111 in premarket trading, and Strategy (MSTR) gained about 16% to near $90.50. Miners with AI data center businesses led the move, with IREN up about 27%, MARA up about 16%, Riot Platforms (RIOT) up about 14% and Core Scientific (CORZ) up about 17%. Strategy also disclosed in an 8-K that it bought 457 bitcoin last week at an average of about $64,898, lifting its total to 851,305 BTC. The company’s average cost is about $75,446 per coin, so its stack is still under water at current prices. Weekend low and a bruised market The rally follows a brutal stretch. The Nasdaq Composite fell 5.28% on Friday, and the S&amp;P 500 lost 8.61% for the week while the Nasdaq dropped 10.02%. Bitcoin slid with stocks and finished last week down about 6%, its seventh straight red weekly candle. Spot bitcoin ETFs shed about $1.79 billion last week, their fourth straight week of net outflows, including roughly $669 million on Friday. Lyn Alden captured the gloom on Saturday, posting that “Bitc</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Surges-Above-64000-as-Nvidia-Reinstates-CEO.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Surges-Above-64000-as-Nvidia-Reinstates-CEO.jpg" medium="image"/>
+</item>
+<item>
+<title>UK FCA Bars Crypto Exchanges From Market Making on Their Own Venues</title>
+<link>https://bitcoinmagazine.com/news/uk-bars-crypto-exchanges-market-making</link>
+<guid isPermaLink="false">b98701b740038e5e6f3ecda719f0e6797c5c729e21a38e839ecb3b061e045e78</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:20:29 +0000</pubDate>
+<description>Bitcoin Magazine UK FCA Bars Crypto Exchanges From Market Making on Their Own Venues The U.K. will bar crypto exchange operators from trading against their own capital on the venues they run, while a new Treasury order clears independent market makers to trade on those platforms without a separate dealing permission. The Financial Conduct Authority’s final rules say a firm “must not execute any orders against its proprietary capital” on a qualifying trading platform it operates. The FCA’s guidance spells out the effect: a firm “cannot act as a market maker” on its own platform. The restriction takes effect Oct. 25, 2027. The FCA rule itself is not new. The regulator published it on June 30 in policy statement PS26/11, part of a five-document package that completed its crypto rulebook. What changed last week was the Treasury’s side of the framework. What the FCA rule covers The FCA’s rulebook defines a market maker as a person who holds themselves out on a platform on a continuous basis as willing to buy and sell qualifying cryptoassets against their own capital at prices they set. That is the activity operators will be barred from on their own venues. There is one carve-out. An operator with the appropriate permission may still engage in matched principal trading to execute client orders on its platform, as long as it follows the platform’s non-discretionary rules. The FCA warned that this model does not rule out settlement risk, so firms should take steps to minimize it. The bar applies only to the operator’s own platform. Under the same rules, an operator with the right permission can still trade against its own capital outside the venue it runs. It must make clear to clients which capacity it is acting in, and it must manage conflicts of interest. Treasury clears outside market makers The Treasury made the Financial Services and Markets Act 2000 (Cryptoassets) (Miscellaneous Amendments) Regulations 2026 on Nov. 18. They add a new Article 9UA to the U.K.’s crypto legislation. The article carves two kinds of activity out of the regulated activity of dealing in qualifying cryptoassets as principal. One is activity carried on “otherwise than for the purpose of providing a service to another person.” The other is activity carried on “as a market maker on a qualifying cryptoasset trading platform.” In practice, a third-party firm quoting prices on a U.K. crypto platform would not need the principal-dealing permission for that activity. The text does not say who the market maker has to be, so the bar on operators comes from the FCA’s rules rather than from the Treasury order. The explanatory note says no impact assessment was prepared because no significant new costs are expected. The FCA’s rules also put new duties on platforms that rely on market makers. Operators must identify, document and monitor users running market-making strategies. If they offer incentive schemes or other arrangements to liquidity providers, they must document and disclose t</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/UK-FCA-Bars-Crypto-Exchanges-From-Market-Making-on-Their-Own-Venues.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/UK-FCA-Bars-Crypto-Exchanges-From-Market-Making-on-Their-Own-Venues.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return</title>
+<link>https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return</link>
+<guid isPermaLink="false">b75ec221ee0b54e09a12714c5066caa78346d09ed15d2b7ae0701e7cf5dd680e</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:07:21 +0000</pubDate>
+<description>The board said senior U.S. officials' input left it confident Huang's return poses no national security risk. Shares jumped 26% premarket.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:06:36 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Strategy (MSTR) Adds 457 Bitcoin for $29.6 million</title>
+<link>https://bitcoinmagazine.com/news/strategy-mstr-adds-457-bitcoin</link>
+<guid isPermaLink="false">042d16ebdfb25aa671f7ef61d691c5b4a341222632c6aab59461e58a3705e394</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:03:21 +0000</pubDate>
+<description>Bitcoin Magazine Strategy (MSTR) Adds 457 Bitcoin for $29.6 million Strategy (MSTR) bought 457 bitcoin last week for $29.6 million at an average of about $64,898 per coin, an 8-K filing shows, lifting its total to 851,305 BTC as the bitcoin price trades about under the company’s average cost. The purchase ran from Nov. 16 to Nov. 22. Strategy said it paid $64.23 billion for its stack, an average of $75,446 per coin including fees and expenses. That is $6 below the $75,452 average it reported a week earlier, so the new coins barely moved the cost basis. The buy is also smaller than the 485 bitcoin Strategy added the week before . Strategy shares were trading near $83.50 in premarket on Monday, up about 7% from Friday’s close near $78. How Strategy paid for the coins Strategy funded the purchase entirely with common stock. It sold 1,925,676 MSTR shares under its at-the-market program for net proceeds of $176.7 million, and no preferred stock was sold during the week. Only $29.6 million of that cash went into bitcoin. The rest went to buy back Strategy’s own STRC preferred stock, which is the pattern the company has followed for several weeks. Strategy repurchased 2,183,747 STRC shares for $211.8 million. It paid $147.0 million of that with MSTR proceeds and $64.8 million from its USD Cash balance. The preferred buyback was roughly seven times the bitcoin spend. The board also lifted the size of its digital credit securities repurchase program from $3.0 billion to $4.0 billion. After the increase, $1.12 billion remains available. About $17.9 billion of MSTR stock is still available under the ATM. The 457 coins were bought at an average of $64,898, which is above where bitcoin trades now. They also continue a slowdown: Strategy added 1,036 bitcoin in its Nov. 9 filing, 485 in its Nov. 16 filing and 457 in the latest one, while the preferred buybacks have grown. The stack equals about 4% of bitcoin’s 21 million supply cap. Last week’s $29.6 million bitcoin spend was about 17% of the $176.7 million the ATM raised. Weekend low put Strategy deep under water Bitcoin hit a weekend low near $55,100, according to Bitcoin Magazine Pro data. At that level, Strategy’s coins were worth about 27% less than the $75,446 it paid on average. The price has since recovered to around $61,000. At that level the 851,305 bitcoin are worth roughly $52 billion, about $12 billion below what Strategy paid. That is a paper loss only, since the filing shows no bitcoin sales during the week and the coins are still on the balance sheet. The slide has hit the stock hard. Strategy shares tumbled for a sixth straight day to about $86 on Thursday, and they fell again on Friday. A week ago the company said it was holding bitcoin modestly below cost , and the gap has widened since. Cash reserve moves to general use Strategy also changed how it labels its dollar cash. The board authorized management to reallocate up to $1.0 billion from the USD Reserve, which backs dividends and interest</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2025/12/Strategy-MSTR-Buys-Nearly-1-Billion-Worth-of-Bitcoin.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2025/12/Strategy-MSTR-Buys-Nearly-1-Billion-Worth-of-Bitcoin.jpg" medium="image"/>
+</item>
+<item>
+<title>OKX, ICE launch 113 tokenized assets despite issuer objections</title>
+<link>https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections</link>
+<guid isPermaLink="false">67c8677c470415b69523eb5deeb0eddbdfab1b10b5dcd8590b6a568a969bc183</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:00:00 +0000</pubDate>
+<description>The venture named Coinbase and Fidelity among the issuers and asset managers in the rollout after 67 companies objected to having their shares traded on the venue.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M847R7KH9YB0GT3Q7D1K530Y/12312312312312312.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M847R7KH9YB0GT3Q7D1K530Y/12312312312312312.png" medium="image"/>
+</item>
+<item>
+<title>American Bitcoin (ABTC) Lands $150 Million Bitcoin-Backed Credit Line From FalconX</title>
+<link>https://bitcoinmagazine.com/news/american-bitcoin-150-million-credit</link>
+<guid isPermaLink="false">ecaaacaab32d4ce884580686045407db0969858aa36891eb2e5dd967f61bce97</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 13:53:25 +0000</pubDate>
+<description>Bitcoin Magazine American Bitcoin (ABTC) Lands $150 Million Bitcoin-Backed Credit Line From FalconX American Bitcoin Corp. (ABTC) has secured a $150 million revolving credit facility from FalconX that is backed by its bitcoin, the miner said Monday, giving it a way to raise cash without selling coins from its reserve. The facility was signed by an American Bitcoin subsidiary and is secured by certain of the company’s bitcoin holdings. American Bitcoin said the money can go toward strategic growth opportunities and general corporate purposes. “This $150 million facility provides American Bitcoin with non-dilutive capital to support our continued operations and growth initiatives,” CEO Mike Ho said in the release. Terms of the FalconX facility The FalconX line is committed up to $150 million, and each draw is subject to bitcoin collateral requirements and other customary conditions. Because it is revolving, the company can draw, repay and redraw funds during the term. Borrowings carry a 5.95% loan fee, plus a commitment fee on any undrawn amount. The initial term is two years, with an optional three-year extension at FalconX’s discretion, subject to customary conditions. The company did not name the size of the commitment fee. The facility has an initial collateral ratio of 143%. At that level, drawing the full $150 million would require about $214.5 million in pledged bitcoin, or roughly 3,500 BTC with bitcoin trading near $61,300 early Monday. American Bitcoin did not say whether it has drawn on the line yet. Its release lists the risks, including the possible liquidation of pledged bitcoin if its value falls below required levels, and requirements to post more collateral or repay borrowings on short notice. “Collateralized lending gives American Bitcoin a way to access liquidity while it continues to grow its Bitcoin reserve and scale its business,” said Oliver Sitt, a sales director at FalconX. The prime broker said the deal shows how it can structure working capital for public companies that do not want to sell their holdings. FalconX provides financing, trading and asset management services to institutional clients. A miner that has avoided selling its reserve American Bitcoin is majority-owned by Hut 8 and counts Eric Trump as a co-founder and chief strategy officer. On its third-quarter earnings call on Nov. 4, the company said it held 8,427 BTC at the end of September and that its reserve had since passed 8,500 BTC. Eric Trump said on the call that the company did not buy any bitcoin on the open market in the quarter or issue shares through its at-the-market program. Every coin added came from its own mining, though the company did sell part of its production to cover operating costs. It mined about 891 BTC in the third quarter, down from 932 in the second. The company reported net income of $126 million, largely from gains on its bitcoin as the price rose about 39% in the quarter. That price has since reversed. Bitcoin ended September nea</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/01/Trump-Family-Backed-American-Bitcoin-Buys-More-Bitcoin-Holdings-Reach-5843-BTC.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/01/Trump-Family-Backed-American-Bitcoin-Buys-More-Bitcoin-Holdings-Reach-5843-BTC.jpg" medium="image"/>
+</item>
+<item>
+<title>Welfare cuts: What's been happening with Pip and universal credit?</title>
+<link>https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">12607bb5a36a50406b63a8c1d83caaf526c0294f63599a33521bfd1f540ddf64</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 13:52:40 +0000</pubDate>
+<description>The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fa84/live/7e5f5ec0-03c7-11f0-9bb2-ab6d3a01d537.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fa84/live/7e5f5ec0-03c7-11f0-9bb2-ab6d3a01d537.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump-linked American Bitcoin secures $150M credit line from FalconX</title>
+<link>https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx</link>
+<guid isPermaLink="false">26db8c8da8e032d9a8b149a5e6e9e2f479c0d733e56bcf1b5e095d85e88c95f3</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 13:44:16 +0000</pubDate>
+<description>The miner can borrow against its Bitcoin to fund operations and expansion after selling about 465 BTC to cover expenses in the third quarter.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M848QBJCBYBJTBN7FD3P21WD/donald-trump-b2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M848QBJCBYBJTBN7FD3P21WD/donald-trump-b2.jpg" medium="image"/>
+</item>
+<item>
+<title>Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff</title>
+<link>https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff</link>
+<guid isPermaLink="false">2af0684b9aa482b0adc3e4069f341a36d08fb68b46dffb222e29a7fc208caf63</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 13:34:13 +0000</pubDate>
+<description>The Nasdaq dropped 10% last week. Bitcoin lost 10% in a single day on Friday amidst cascading selloffs, though a relief rally is underway.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Flights and train services cancelled in Belgium due to strike</title>
+<link>https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">c3f0c850050ebaf6cc0d88ce9ef5c912385850171edb3e245066b1e4fa7818ab</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 13:34:02 +0000</pubDate>
+<description>A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg" medium="image"/>
+</item>
+<item>
+<title>Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks</title>
+<link>https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses</link>
+<guid isPermaLink="false">9f3870a4652c8ef372aad94cc5484eb84c1a3452ff265bfa04d9531bf792e399</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 13:31:01 +0000</pubDate>
+<description>Strategy raised its preferred stock buyback limit to $4 billion and authorized the transfer of up to $1 billion from its dollar reserve.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QZS9YXDW2XY08FHFBXVMGD/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-3.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4QZS9YXDW2XY08FHFBXVMGD/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-3.jpg" medium="image"/>
+</item>
+<item>
+<title>AI agents are using credit cards. Where does that leave crypto?</title>
+<link>https://cointelegraph.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto</link>
+<guid isPermaLink="false">059ef180d63a8da6cb83b6d02930a2cb470e2a6c4acd01af7ea65aa41286d025</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 13:30:00 +0000</pubDate>
+<description>AI agents are already using credit cards to transact, raising questions about where crypto fits in the emerging agent economy.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M81KPV0M9CF68V4DWCFN377B/magazine-ai-agents-are-trading-crypto-now-but-beware-these-rookie-mistakes.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M81KPV0M9CF68V4DWCFN377B/magazine-ai-agents-are-trading-crypto-now-but-beware-these-rookie-mistakes.jpg" medium="image"/>
+</item>
+<item>
 <title>Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot</title>
 <link>https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot</link>
 <guid isPermaLink="false">b2583598e215c2c371d2319975c603844ba9eae48cdf3b8d3d6c32dbd85a7a50</guid>
@@ -59,15 +235,15 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/fiona-hippo-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Flights and train services cancelled in Belgium due to strike</title>
-<link>https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">c3f0c850050ebaf6cc0d88ce9ef5c912385850171edb3e245066b1e4fa7818ab</guid>
+<title>Next data accessed in cyber breach</title>
+<link>https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">631f92e9a86c8817967310d22f0989749501ac315f65c0e2585bd1d8095bd43d</guid>
 <source>BBC Business</source>
 <category>business</category>
-<pubDate>Mon, 23 Nov 2026 12:27:34 +0000</pubDate>
-<description>A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg" medium="image"/>
+<pubDate>Mon, 23 Nov 2026 12:34:07 +0000</pubDate>
+<description>The fashion retailer says there is no evidence customers' personal data was compromised.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/295f/live/f2adb050-e738-11f1-8294-033bd8ee7e95.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/295f/live/f2adb050-e738-11f1-8294-033bd8ee7e95.jpg" medium="image"/>
 </item>
 <item>
 <title>ECB to let banks pledge more tokenized securities as collateral</title>
@@ -154,8 +330,8 @@
 <category>business</category>
 <pubDate>Mon, 23 Nov 2026 09:25:52 +0000</pubDate>
 <description>President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1809/live/4a45f590-e71e-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1809/live/4a45f590-e71e-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1816/live/87274fe0-e74b-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1816/live/87274fe0-e74b-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
 </item>
 <item>
 <title>‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones</title>
@@ -189,17 +365,6 @@
 <description>The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0dfe/live/811446d0-e683-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0dfe/live/811446d0-e683-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump renews call for Nvidia to rehire Jensen Huang as CEO</title>
@@ -774,17 +939,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg" medium="image"/>
 </item>
 <item>
-<title>Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal</title>
-<link>https://bitcoinmagazine.com/news/blockstream-shrincs-security-shrincs</link>
-<guid isPermaLink="false">e2a3d3009ab345adaa8ed3be9f514d158757db22da6adbef0cc78ed3ed1e3b0b</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 16:55:00 +0000</pubDate>
-<description>Bitcoin Magazine Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal Several researchers have published a 131-page security analysis of SHRINCS, a proposed post-quantum signature scheme for Bitcoin, and are asking the wider community to look for flaws in it. Researcher Mikhail Kudinov announced the first version Thursday in a thread on X, saying the paper reduces SHRINCS’ security to the properties of its underlying hash function. The analysis, dated Nov. 18, estimates classical security of 121.4 to 122.7 bits for SHRINCS, though those figures rest on assumptions that include three unproven conjectures. Kudinov said the work is not finished. The team is still working on a new analysis of a property called SM-DSPR, whose bound has so far been conjectured, and on tightening a reprogramming step and improving a bound against quantum attackers. How SHRINCS works SHRINCS is a hash-based scheme, meaning its security rests on hash functions rather than the elliptic curve math behind today’s Bitcoin signatures. It places two designs under one key: a stateful part built on FXMSS with WOTS+C, and a stateless fallback built on SLH-DSA. Because both use the same hash function, Kudinov said, the proof has to cover both. Signature size is the main cost. Under the draft proposal, stateful SHRINCS signatures run from 548 to 4,619 bytes, while the stateless fallback is 5,777 bytes. Schnorr signatures on Bitcoin today are 64 bytes, and ECDSA signatures typically come in around 71. Signatures take up scarce block space, so larger ones mean fewer transactions per block. The risk of a stateful signature The compact stateful path carries a danger. It relies on one-time keys, and if a wallet accidentally reuses one, an attacker can forge a signature for that address and steal the funds. Wallet software therefore has to track the state of every key. The stateless path avoids the problem, but at a much larger size. Jonas Nick, Blockstream’s director of research, told Isabel Foxen Duke, head of the MARA Foundation, on MARA Foundation TV that wallets must automatically fall back to the stateless path whenever a state counter could be compromised. “It needs to be impossible for the user to behave in a way that this catastrophic event happens,” he said. “Wallet developers need to deal with this stateful component correctly.” Nick also warned that heavy use of the larger signatures would weigh on the network. “We don’t know what the fee market will look like once we have these very big signatures,” he said. “And it’s not just the fee market, it’s also just fewer transactions fit into a block, meaning fewer people can use Bitcoin. And I think this changes the value proposition of Bitcoin.” Researchers ask for review The authors are clear that the analysis needs scrutiny. Kudinov said it has not been sufficiently peer reviewed, and the project’s GitHub repository warns that the documents may contain errors and should not be the sole basis for deploy</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Researchers-Publish-Security-Analysis-of-Bitcoins-Post-Quantum-SHRINCS-Proposal.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Researchers-Publish-Security-Analysis-of-Bitcoins-Post-Quantum-SHRINCS-Proposal.jpg" medium="image"/>
-</item>
-<item>
 <title>Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow</title>
 <link>https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">50da3b38d638e680f25f7d954f35f38232b3e019fb2ba015b7eb156cb42c9167</guid>
@@ -807,17 +961,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>U.S. Treasury Secretary Pushes Back on Bigger Fed Hike</title>
-<link>https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin</link>
-<guid isPermaLink="false">a37991a0f24d560e6031671be431cc7c35d621b4e1cdb841d03a2bb26971002e</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 16:22:32 +0000</pubDate>
-<description>Bitcoin Magazine U.S. Treasury Secretary Pushes Back on Bigger Fed Hike Treasury Secretary Scott Bessent pushed back Friday on calls for a bigger Federal Reserve rate hike, even as bitcoin broke below $60,000 for the first time since July and stocks sank on bets that the Fed will keep tightening into a selloff. Bessent told CNBC he would encourage the Fed not to embrace a half-point increase at its Dec. 8-9 meeting. He cited the energy supply shock and a drop in crude prices as reasons for the central bank to hold back. Bessent says the Fed should look forward He argued that one governor now backing a 50 basis point hike had wanted a similar cut within the last year. Bessent said it “seems somewhat peripatetic” to want the bigger increase only 11 or 12 months later. He did not name the governor. “I would encourage the Fed to look forward, not backwards,” Bessent said. The comments came two days after Fed Governor Christopher Waller told CNBC a half-point hike is probably necessary in December and that the central bank may need to “shock people.” Waller said inflation is “headed in the wrong direction, and it’s spreading out.” Fed officials split on how far to go Waller is not alone. Minutes of the October meeting showed nearly all officials expect a quarter-point hike in December, and two floated a larger one. Chicago Fed President Austan Goolsbee also declined to rule out a bigger move on Thursday. “We’ve now had multiple months in a row of borderline disturbingly high inflation rates with little progress in the sectors where we would expect to be seeing some progress,” Goolsbee told reporters. “So everything’s always on the table.” Not everyone wants to go bigger. New York Fed President John Williams said Tuesday that “I don’t think the situation calls for dramatic action.” St. Louis Fed President Alberto Musalem has suggested as many as four hikes by the spring of 2027. The Fed raised rates in September for the first time in more than three years and held them steady in October. Inflation has stayed hot since the Iran strikes pushed up energy prices earlier this year. Citi and traders still see a quarter-point hike Citi still expects a quarter-point increase in December. Global chief economist Nathan Sheets said Thursday he does not see a need for 50 basis points despite persistent inflation. In a note Friday, the bank wrote that “Fed officials will consequently have little appetite to hike into an equity sell-off.” Citi expects the Fed to hold after December and begin cutting later in 2027. Traders agree on the next step: the CME Group’s FedWatch tool showed a more than 98% chance of a quarter-point hike, and the 10-year Treasury yield fell more than 10 basis points to 4.95% as investors bought bonds. Stocks fell for another day. The Nasdaq Composite dropped more than 2% in morning trading, and the VIX volatility index topped 30 , its highest level since March. What it means for bitcoin Bitcoin traded near $59,700 shortly before 11 a.m. ET, d</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation.jpg" medium="image"/>
-</item>
-<item>
 <title>PayPal CEO remakes team</title>
 <link>https://www.bankingdive.com/news/paypal-ceo-remakes-team-cfo-coo-venmo/875355</link>
 <guid isPermaLink="false">a6590fee3db819654dfa18104b5c1e4c26097a588ec2fc1059f68d6129f97762</guid>
@@ -827,17 +970,6 @@
 <description>CFO Jamie Miller, who served as the digital payment company’s interim CEO at one point, will leave as CEO Enrique Lores installs new managers.</description>
 <enclosure url="https://imgproxy.divecdn.com/BYZm0L6zR8twGcO0KOlFu89edfp0HY-bRF_8-voTDpg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbnJpcXVlTG9yZXMuanBn.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/BYZm0L6zR8twGcO0KOlFu89edfp0HY-bRF_8-voTDpg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FbnJpcXVlTG9yZXMuanBn.webp" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Price Crashes to $59,000 as Market Selloff Deepens</title>
-<link>https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000</link>
-<guid isPermaLink="false">d34283ae4f979022919ed8bb591467e746398ccce625343b6cac5ebdf55bb998</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 15:59:50 +0000</pubDate>
-<description>Bitcoin Magazine Bitcoin Price Crashes to $59,000 as Market Selloff Deepens The bitcoin price crashed below $60,000 on Friday for the first time since early July, falling about $1,800 in roughly an hour as a deepening U.S. tech stock selloff dragged risk assets lower. Bitcoin traded near $61,400 at 9:40 a.m. ET and slid to about $59,600 by 10:45 a.m., a drop of nearly 3%, according to Look Into Bitcoin data . The bitcoin price is down about $3,400, or more than 5%, from the same time Thursday, when it traded near $63,000. The break of $60,000 is a key psychological level, and it came with little warning. Bitcoin price had held above $61,000 for most of the morning, even after a third straight daily loss. Stocks and rate hike bets drive the selloff Wall Street opened sharply lower. The Nasdaq Composite fell more than 2% in morning trading as shares of Anthropic extended losses in its second day since a record Nasdaq debut. Nvidia and AMD also traded lower. Bitcoin has been moving with tech stocks. The market has questioned whether heavy spending on artificial intelligence will pay off, and Friday’s open did nothing to ease that worry. Rate expectations are adding pressure. Traders see a roughly 94% chance the Federal Reserve raises rates in December, CME Group’s FedWatch tool showed . Higher rates tend to hurt bitcoin and other assets that pay no yield. Earlier Friday, South Korea’s Kospi index fell more than 5% and chipmakers sank across Asia. That selling carried into U.S. trading and then into bitcoin. Some analysts had flagged $60,000 as a floor. Katie Stockton of Fairlead Strategies told CNBC the bottom of bitcoin’s trading range sits “just below 60,000,” and that it “appears to be trying to find a footing.” Friday’s drop tests that view. CoinShares head of research James Butterfill said this week the drop is a “continuation of the existing bear market.” His base case is range trading around $60,000 to $90,000 through much of 2027. JUST IN: Bitcoin falls below $60,000 for the first time since June. BTC is now less than 4% away from a new cycle low pic.twitter.com/GSZkbGdzZz — Bitcoin Magazine (@BitcoinMagazine) November 20, 2026 ETF outflows and liquidations Funds have been sellers. BlackRock’s iShares Bitcoin Trust (IBIT) lost $541.1 million on Thursday, its biggest one-day outflow on record. U.S. spot bitcoin ETFs lost about $582 million in total, extending a streak of heavy withdrawals this week. Leveraged traders were hit as well. More than $700 million in crypto positions were liquidated in the 24 hours before the latest drop, and about 86% were bets on higher prices. The slide below $60,000 likely forced out more of them. The move extends a month-long slump. Bitcoin has dropped roughly $20,000 in the past month, a slide tracked as the price fell under $62,000 on Thursday. Crypto stocks fall harder than bitcoin price Crypto stocks fell even faster. Strategy (MSTR) was down about 7% near $79.85, a day after it tumbled for a sixth straight</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Crashes-Below-60000-as-Market-Selloff-Deepens.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Crashes-Below-60000-as-Market-Selloff-Deepens.jpg" medium="image"/>
 </item>
 <item>
 <title>US Senate advances prediction market restrictions with DEATH BETS Act</title>
@@ -917,28 +1049,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7ab4/live/c7c315c0-e4e9-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
 </item>
 <item>
-<title>Block Says Most Bitcoin Payments on Square Are for Coffee and Food</title>
-<link>https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report</link>
-<guid isPermaLink="false">d1331bcf555c565616a6941f219be8175493911b4e778bd857a4dd9a2a13dcd2</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 14:45:00 +0000</pubDate>
-<description>Bitcoin Magazine Block Says Most Bitcoin Payments on Square Are for Coffee and Food Most bitcoin payments at Square sellers are small, everyday purchases at coffee shops and restaurants, Block said in a new report that it hopes will inform a debate in Congress over a tax break for small crypto purchases. The report, “The State of Bitcoin Payments,” covers completed bitcoin payments at U.S. Square sellers from Nov. 1, 2025, to Oct. 15, 2026. The median payment was about $13, and the average was about $29. Food and drink businesses took 72% of those payments, Block found. That is a bigger share than the category’s 67.5% slice of regular card payments on Square over the same period. “Most bitcoin payments are small and routine,” the company wrote on X Thursday, calling the report one of the first datasets on how people spend bitcoin in the local economy. Coffee, quick bites and repeat visits Coffee shops and fast food businesses accounted for 62.6% of the bitcoin payments in the food and drink category, with a median payment of $9.10. Grocery stores made up a smaller share but had the highest average payment in the group, at $60.73. Small tickets dominated. About 42% of bitcoin payments on Square were under $10, and 65.1% were under $20. Those sub-$20 payments made up just 19.1% of total payment value, though, with a few larger purchases accounting for much of the dollars spent. Customers also came back. Among Cash App users who paid with bitcoin at least twice at the same merchant, the median was three purchases per customer-merchant pair. About 44% of bitcoin payments from Cash App were repeat payments, and 86% of those came within 30 days. The activity was not limited to Block’s own app. External Lightning wallets such as Strike, Wallet of Satoshi, Phoenix and Coinbase handled 56.6% of Square bitcoin payments and about 66% of payment value, while Cash App wallets made up the rest. Square sellers can choose how much of each sale they keep in bitcoin, and Square converts the rest to dollars automatically. Block said zero-fee processing for bitcoin payments on Square has been extended through Dec. 31, 2027. Local governments are testing similar setups, with Miami-Dade County now taking bitcoin for property taxes and converting it to dollars. A push for a de minimis bitcoin exemption Block tied the data to tax policy. Under current U.S. federal rules, paying with bitcoin generally means calculating a capital gain or loss on every purchase, even a $10 coffee, the company said. A Morning Consult survey that Block commissioned found that 23.6% of businesses that don’t accept bitcoin cite tax and accounting complexity as a reason. That is about the same share that cite regulation, refunds or price swings. Among businesses that have considered taking bitcoin but haven’t, the figure was 27%. Consumers pointed to friction, too. Morning Consult surveyed 8,669 U.S. adults who are aware of bitcoin in August. Among those who don’t own it, 29.6% said they would</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Block-Says-Most-Bitcoin-Payments-on-Square-Are-for-Coffee-and-Food.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Block-Says-Most-Bitcoin-Payments-on-Square-Are-for-Coffee-and-Food.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping</title>
-<link>https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price</link>
-<guid isPermaLink="false">0a55d25ca80fa329942637e20a950f05887ec29ef48a2fac724ef42ee0ad2726</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 14:25:00 +0000</pubDate>
-<description>Bitcoin Magazine Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping Bitcoin is trading just above its realized price, the average cost of every coin on the network, and a break below that level would put the average holder at a loss for the first time since early 2023, Glassnode, an onchain analytics firm posted Friday. The price of bitcoin sat near $61,700 on Friday after sliding below $62,000. The realized price is a measure of what holders paid, not where the market trades. When bitcoin trades above it, the typical coin is sitting on a gain. Below it, the typical coin is underwater. The margin is thin. The firm said the MVRV ratio, which compares bitcoin’s market value with its realized value, sits “just above 1.” A reading of 1 means the market price has fallen all the way to the realized price. What the realized price measures Realized price values each coin at the price it last moved on the blockchain, then averages across the supply. Look Into Bitcoin describes it as bitcoin’s average cost basis. Because it tracks the price when coins last changed hands, it moves far more slowly than the market. The MVRV ratio expresses the same idea as a multiple. Above 1, holders are in profit on average. Below 1, they are not. A reading just above 1 means the market price is only a sliver higher than what the average coin cost. The firm did not give the exact realized price in its post, which included a chart. That leaves the exact cushion between today’s price and the average cost basis unstated. Bitcoin Magazine Pro’s full realized price chart sits behind a login, so the current level could not be confirmed independently for this report. “The average Bitcoin holder is still in profit,” the firm wrote. “The margin is thin.” Outflows and liquidations add to the pressure The slide has come with heavy selling from funds. BlackRock’s iShares Bitcoin Trust (IBIT) lost about $541 million on Thursday, its largest one-day outflow since it launched in January 2024, Bloomberg reported . U.S. spot bitcoin ETFs lost about $582 million in total that day. The selling stands out against the buying earlier in the fall. Institutions piled into bitcoin ETFs through the third quarter, pushing their combined holdings to a record, Bitcoin Magazine reported this week. Leveraged traders took losses too. More than $700 million in leveraged crypto positions were liquidated over 24 hours, and about 86% of them were bets on higher prices. Bitcoin accounted for roughly $200 million of the total. CoinShares sees range trading through 2027 CoinShares head of research James Butterfill said the drop is part of a longer downturn rather than the start of a new one. “I see this as a continuation of the existing bear market rather than the start of another,” he said in a note dated Nov. 18. The note frames Friday’s price action as a late stage of a decline that began well before November. Butterfill pointed to whale selling that weighed on prices from late 2025,</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/2026-11-12-morning.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/2026-11-12-morning.jpg" medium="image"/>
-</item>
-<item>
 <title>Morning Minute: Anthropic IPO Pops, Sinks Markets</title>
 <link>https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets</link>
 <guid isPermaLink="false">57567d3b702b5896532110e8dd2ab4caf21132c214848c9ac320fbe0246ea400</guid>
@@ -1005,28 +1115,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>VanEck to end Gemini ETF custody deals, keeps Coinbase</title>
-<link>https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase</link>
-<guid isPermaLink="false">1ee77096670d93f1ff20b0dea0e3a3f5b4b39cc787e3f08e1735f89e9f668df7</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 10:54:38 +0000</pubDate>
-<description>VanEck plans to end Gemini’s custody agreements for three crypto ETFs in February 2027, while Coinbase will continue serving as a custodian for the funds.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv.png" medium="image"/>
-</item>
-<item>
-<title>Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest</title>
-<link>https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k</link>
-<guid isPermaLink="false">aa84f81a5c8821eb729047e27ba23457f9f647c78aa0661b117d8b2188ce69f3</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 10:29:10 +0000</pubDate>
-<description>Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W5JM0BJ0Z5FQEW9GD5YQE3/article-covers-252484-bitcoin-price-chart-death-cross-back-late-cycle-fears-960x640.webp" type="image/webp"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W5JM0BJ0Z5FQEW9GD5YQE3/article-covers-252484-bitcoin-price-chart-death-cross-back-late-cycle-fears-960x640.webp" medium="image"/>
-</item>
-<item>
 <title>CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default</title>
 <link>https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default</link>
 <guid isPermaLink="false">9d5afebcc75f162324438299c7544f5ca71a533a709c8dfe617a537c21b707a3</guid>
@@ -1049,28 +1137,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg" medium="image"/>
 </item>
 <item>
-<title>BlackRock’s IBIT loses record $541M amid Anthropic market debut</title>
-<link>https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow</link>
-<guid isPermaLink="false">e2ad7e4fca8b053a87af36e365ea85dfbd42b8084b72062615365419c13e7e85</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 08:18:42 +0000</pubDate>
-<description>BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWM2HDCADQ2AM2AK506KFS/btc-1.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWM2HDCADQ2AM2AK506KFS/btc-1.png" medium="image"/>
-</item>
-<item>
-<title>SEC charges 8 firms over fake crypto platforms tied to $37M fraud</title>
-<link>https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud</link>
-<guid isPermaLink="false">1593abec3faac24be2787067742bd81bc0a7103f871f127d9c56dfdb356ed317</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 08:03:34 +0000</pubDate>
-<description>The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg" medium="image"/>
-</item>
-<item>
 <title>Should AI be judging our credit worthiness?</title>
 <link>https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">b6973fc351e5f01d481682a3cec13bfcd413418f752e0cc3a45b503126086346</guid>
@@ -1080,28 +1146,6 @@
 <description>Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
-</item>
-<item>
-<title>Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s</title>
-<link>https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains</link>
-<guid isPermaLink="false">2525e58dda1bec7d521b53b647f189f6e717f3555f30df07bcb2ff474349b002</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 06:24:41 +0000</pubDate>
-<description>Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VR4SBEADEQX33JBG2WPEJD/hi-ipo-market-september-overview.jpg" medium="image"/>
-</item>
-<item>
-<title>How did Anthropic's stock market debut unfold?</title>
-<link>https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">068c8774918ba6569bff07af97d48ef647bd72cf0462e4990e606e98f162b602</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 23:52:25 +0000</pubDate>
-<description>The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d424/live/6731c740-e478-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d424/live/6731c740-e478-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
 </item>
 <item>
 <title>Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack</title>
@@ -1267,39 +1311,6 @@
 <description>Anthropic bulls seem to be shrugging off the news, as ANT pops 25% over IPO price on Hyperliquid pre-debut.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain</title>
-<link>https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain</link>
-<guid isPermaLink="false">342853e7d57c4b59604bbb76732a7993af55acb52f6a902494921fd9a6b49267</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 12:59:14 +0000</pubDate>
-<description>An Abu Dhabi court's worldwide injunction targets the unknown hackers, backed by a "living list" of 26,000 wallets holding stolen funds.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs</title>
-<link>https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs</link>
-<guid isPermaLink="false">327904189d3175918433071ec8981f33b791c63e3a4c18d895cb9d11c0470108</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 11:15:08 +0000</pubDate>
-<description>Ryan Cohen said publishers are cutting out trade-ins, as he backs a U.S. bill that would guarantee gamers keep access to games they buy.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November</title>
-<link>https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november</link>
-<guid isPermaLink="false">5cd461c591be37c9d07fa5b15883a2d6ec921842c4e259e815828af1f5bf0f83</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 10:25:05 +0000</pubDate>
-<description>Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>Supreme Court spurns Custodia’s master-account fight</title>

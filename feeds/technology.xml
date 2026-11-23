@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI</title>
+<link>https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai</link>
+<guid isPermaLink="false">c3079baa07ae12d88dd7cd13babf98544e65ea671825b21efde6d209a655ab77</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+<description>Buying a new computer in the last few years has meant wading through all manner of AI branding nonsense . Most of the AI pitches for laptops are little more than marketing hype, but the launch of Nvidia RTX Spark could bring a meaningful improvement in AI capabilities to the device you use every day. Asus has adopted Nvidia's new chip in its latest ProArt lineup, offering a staggering amount of memory to run local AI models. While it doesn't have a traditional GPU, the Asus ProArt P16 , with up to 128GB of memory, can also be your primary gaming and productivity machine, but this unified experience comes at a high price. If you want to run a small army of agents on your laptop, you're looking at $7,000 for the top-end ProArt P16, and despite being more approachable on Windows, local AI still requires a lot of trial and error. The PC stuff Before we dive into the AI agents, let's talk about the ProArt P16 as a laptop. Nvidia's pitch is that the RTX Spark can be your one true machine for AI, productivity, and gaming. And it doesn't skimp on the specs. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3.jpg" medium="image"/>
+</item>
+<item>
 <title>Meta Muse can now do your Black Friday shopping at Walmart</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</link>
 <guid isPermaLink="false">599ec3a9c12f02c6cc12b6316389425a8ee9910f1034aab5922186f6b865e018</guid>
@@ -893,17 +904,6 @@
 <description>The Germ Network encrypted messaging client, known as Germ DM, became available for Android on Wednesday, and made a bigger splash than its iOS touchdown back in 2023. "Our usage took a 20x jump yesterday from our Android launch ," co-founder Tessa Brown, a communications scholar and former Stanford lecturer, told The Register in an interview. "Android has been really exciting for us because not only is it 70 percent of the global mobile market, but we rolled out on iOS first. People were so excited to use Germ for their end-to-end encrypted Bluesky DMs, but half of their friends couldn't talk to them." Building a new messaging platform isn't easy, much less one with credible end-to-end encryption. Co-founder Mark Xue hails from Apple, where he worked as a privacy engineer on systems like iMessage and FaceTime. "At the core level, the end-to-end encryption is built on a standardized encryption and Messaging Layer Security," Xue said. "The premise of Messaging Layer Security was to be as good as Signal and deployable by many, many different parties in different applications, which we're taking advantage of to extend the reach of that encryption." Xue said the app is built with its own transport protocol to minimize the amount of message metadata, adding that while the team hasn't gotten around to a formal security audit, it's a step they're considering. Germ Network's goal, said Brown, is to give people more confidence when they communicate. "We do that by giving you more tools to protect your identity, to control what you're sharing with whom," she explained. Instead of using a person's phone number as an identity key, Germ allows users to create cards which represent distinct identities on the network. "Instead of sharing your number, you share a card," Brown explained. "You can build multiple cards; they're not mutually discoverable. And our vision for the product that will continue shipping over the coming years is that these cards become a more intelligent way to manage your social life, even your work life." At some point, AI might play a role in that, but both Xue and Brown expressed reservations about the current state of play. Citing concerns Signal has raised about the integration of AI and messaging, Xue said, "The products today that I might characterize as technology demos, they're most powerful when they run on someone else's computer. So you end up with these systems where you upload all your messages or you give another entity the power to observe your computing, and that's extremely dangerous for what we protect as private content." Xue noted rapid progress toward addressing information exposure concerns and therefore plans to explore the kinds of smart tooling that users want while also meeting security and privacy requirements. "I think a lot of the AI conversation sometimes is a hammer in search of a nail," said Brown. "But people do want more tools to make sense of their busy lives and following our consumers, our users, and w</description>
 <enclosure url="https://image.theregister.com/?imageId=5311190&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311190&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up</title>
-<link>https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up</link>
-<guid isPermaLink="false">b3b89bf75b3862de680315c38f0ea006cebf608da201fa57d116baff2f401521</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 22:16:37 +0000</pubDate>
-<description>In an unprecedented move, Amazon is using its app and website to try to convince shoppers to not support a New York City bill. When I log in to Amazon today, I’m met with a vertical banner that reads: “ATTENTION NYC Council could add up to $5 per order” with a button that says “Act now.” A screenshot of the top of Amazon's homepage. Credit: Scharon Harding/Amazon I also saw a smaller version of the notice on an order confirmation page on Amazon's website. The message is delivered as a pop-up for users of the Amazon app, Bloomberg reported. Amazon hasn't specified whether the messaging targets NYC residents based on addresses saved in their Amazon account or uses other techniques, such as device location services, but I only see the banner if I'm logged in to Amazon. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669.jpg" medium="image"/>
 </item>
 <item>
 <title>Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info</title>

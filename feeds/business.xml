@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Pip assessments need 'fundamental overhaul', report to say</title>
+<link>https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">89a22c5c973fa7b5fd7aeabc8c035d56dc5835bc0dd9f60c8c405d4c8890d01c</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 04:01:13 +0000</pubDate>
+<description>Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
+</item>
+<item>
 <title>Trump renews call for Nvidia to rehire Jensen Huang as CEO</title>
 <link>https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo</link>
 <guid isPermaLink="false">4c0461a87ac6e24e071c671eb9646647e93fad21838913ada5c79d78482eab52</guid>
@@ -134,17 +145,6 @@
 <description>Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 22 Nov 2026 11:25:27 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>Bitcoin briefly drops to $17K on Kraken, exchange upholds trades</title>
@@ -1047,6 +1047,17 @@
 <description>A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading</title>
+<link>https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks</link>
+<guid isPermaLink="false">065b1445f2b4c7bfa4a29c8d8cc866b9f45b667bf3058e0c035cfff1b42aefc9</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 19 Nov 2026 20:06:34 +0000</pubDate>
+<description>Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TFD02FRZ10BM2N4QZ1NBPG/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2027.png" medium="image"/>
 </item>
 <item>
 <title>Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street</title>

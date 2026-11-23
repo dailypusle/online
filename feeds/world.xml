@@ -4,15 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Stock market rebounds sharply after sell-off, Nvidia soars</title>
-<link>https://abcnews.com/Business/stock-market-rebounds-sharply-after-selloff/story?id=138373790</link>
-<guid isPermaLink="false">49523e676017c0c12f6294aa85ca4b197354a8d095378dd2d1ad546795e21edc</guid>
+<title>NYC Mayor Mamdani to undergo surgery this week following soccer injury</title>
+<link>https://abcnews.com/US/nyc-mayor-mamdani-undergo-surgery-week-soccer-injury/story?id=138380557</link>
+<guid isPermaLink="false">b50ae771d18c7d35b0d84669ad812473df46484a66523ec914657a90e4ef269e</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Mon, 23 Nov 2026 17:56:20 +0000</pubDate>
-<description>The major stock indexes rebounded sharply at the open of trading on Monday as Nvidia shares soared more than 25%.</description>
-<enclosure url="https://s.abcnews.com/images/Business/nyse-1-rt-gmh-261123_1795440195200_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Business/nyse-1-rt-gmh-261123_1795440195200_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Mon, 23 Nov 2026 19:12:44 +0000</pubDate>
+<description>"I'm scared; it will be my first surgery," Mamdani said during an unrelated news conference on Monday.</description>
+<enclosure url="https://s.abcnews.com/images/US/mamdani-abc-er-261123_1795454701039_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/mamdani-abc-er-261123_1795454701039_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump says he has ordered military to hold off on Iowa explosives detonation for now</title>
+<link>https://abcnews.com/Politics/trump-ordered-military-hold-off-iowa-explosives-detonation/story?id=138384845</link>
+<guid isPermaLink="false">15ca3466b039b2a025b629a04a717de98b8989e1c05a3a66d8882492b356270b</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 23 Nov 2026 19:09:26 +0000</pubDate>
+<description>Trump said he wants the OK from the federal appeals court and incoming Iowa governor to proceed.</description>
+<enclosure url="https://s.abcnews.com/images/US/donald-trump-10-gty-gmh-261120_1795198035901_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/donald-trump-10-gty-gmh-261120_1795198035901_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>'Deeply shocked': Gisèle Pelicot to sue publisher after nude photos used in book campaign</title>
@@ -24,17 +35,6 @@
 <description>French feminist icon Gisèle Pelicot, who became a worldwide symbol against sexual violence during the 2024 rape trials against her husband and dozens of other men, said Monday she will take legal action after nude images of her were sent out without her permission to publicise a psychoanalyst's book on coercive control.</description>
 <enclosure url="https://s.france24.com/media/display/dc823ac4-e758-11f1-96c6-13439ca2fe89/w:1024/p:16x9/000-D8DK8WE.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/dc823ac4-e758-11f1-96c6-13439ca2fe89/w:1024/p:16x9/000-D8DK8WE.jpg" medium="image"/>
-</item>
-<item>
-<title>EU proposes sweeping new Russia sanctions targeting banks, crypto and sports events</title>
-<link>https://abcnews.com/International/wireStory/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-138382150</link>
-<guid isPermaLink="false">d018c95fe7230bb10368ab9976a77d35a97557be91a354af986cef90ef391798</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 23 Nov 2026 17:47:03 +0000</pubDate>
-<description>The European Commission has proposed new sanctions against Russia, targeting banks, crypto platforms, and sporting teams competing under the Russian flag</description>
-<enclosure url="https://s.abcnews.com/images/International/wirestory_ecad86868390f6602b346c70d1fa5757_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/wirestory_ecad86868390f6602b346c70d1fa5757_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump says he 'convinced' Nvidia board to reinstate Jensen Huang</title>
@@ -169,7 +169,7 @@
 <media:content url="https://s.france24.com/media/display/82683ebc-e74e-11f1-babf-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-141410-142045-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Nvidia's board of directors brings Jensen Huang back as CEO</title>
+<title>Trump claims credit as Jensen Huang returns to Nvidia</title>
 <link>https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump</link>
 <guid isPermaLink="false">c3b11d52c658cc93fb36d63fb7532f818f21b36b075de970ac3ca5da0aa57420</guid>
 <source>NPR News</source>
@@ -365,6 +365,17 @@
 <description>The Northern Irish company which has been attempting to seal a solvent rescue of Poundland for more than six weeks has made a last-gasp plea to its owner to engage in talks on a deal which could save thousands of high street jobs.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-poundland-kleinman_7406316.jpg?20261114102016" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-poundland-kleinman_7406316.jpg?20261114102016" medium="image"/>
+</item>
+<item>
+<title>Dems holding 12 debates in 2028 cycle, requiring candidates denounce 'dark money'</title>
+<link>https://abcnews.com/Politics/democrats-holding-12-debates-2028-cycle-requiring-candidates/story?id=138321896</link>
+<guid isPermaLink="false">b53b68037822bd5074e632c9304afd2783434f502485d3584b159d3180c958aa</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 23 Nov 2026 11:03:02 +0000</pubDate>
+<description>The Democratic National Committee announced on Monday that it will hold 12 primary debates in the 2028 presidential primary cycle.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/AP23320564327652_1795430094260_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/AP23320564327652_1795430094260_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Papers discuss James Bond's soft power and the next Bond girl</title>
@@ -618,17 +629,6 @@
 <description>A New York Times reporter went undercover as a porch pirate to help identify the best ways to keep your home and packages safe as package deliveries ramp up this holiday season.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261120_gma_champion_porch_pirate8_0741_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261120_gma_champion_porch_pirate8_0741_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>White House replaces national cyber director amid widespread tech outages</title>
-<link>https://abcnews.com/Politics/white-house-replaces-national-cyber-director-amid-widespread/story?id=138310514</link>
-<guid isPermaLink="false">b28cca8ba61fe882637a60c1364643abc7e245cc21911b55bcc2e52a8738feb2</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 20 Nov 2026 15:16:47 +0000</pubDate>
-<description>White House National Cyber Director Sean Cairncross has been fired, according to a source close to the White House.</description>
-<enclosure url="https://s.abcnews.com/images/US/Sean-Cairncross-ap-gmh-261120_1795186372761_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/Sean-Cairncross-ap-gmh-261120_1795186372761_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Riverboat captain celebrates more than 50 years on the Mississippi River</title>

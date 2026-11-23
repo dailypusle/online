@@ -4,6 +4,105 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft mega outage: Report reveals testing gaps and emails that never arrived</title>
+<link>https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656</link>
+<guid isPermaLink="false">a58b1a4fd1605432433ce9b12063f6e8294d9a4d3baca7a3ca5a294a473b1671</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 16:16:00 +0000</pubDate>
+<description>Some emails never reached their recipients during November's Microsoft 365 outage, the company has confirmed in a final report that also exposes gaps in its testing and recovery procedures. The post-incident report details how a Windows defect brought down Exchange Online and disrupted features across other Microsoft 365 services. For affected users, the cloud became someone else's unavailable computer. A preliminary report had already blamed a July code change, combined with a failover and reduced capacity. The final report confirms those findings and sets out Microsoft's plans to improve change auditing and recovery procedures, and add spare capacity. The defect affected Microsoft's gateway server configuration, not standard Windows deployments. The epic outage (named the "Microsoft long weekend" by some wags) kicked off on November 12 and wasn't fully resolved until November 14. Microsoft extended its delivery retry window to 48 hours, but some delayed messages destined for consumer mailboxes inactive for more than 30 days still expired, generating non-delivery reports. The company said all queued enterprise messages were eventually delivered, with none found permanently lost. The report is grim, particularly in how the failure ramped up as US users came online to find gateway servers toppling over. At the worst point, more than 80 percent of North American gateway servers were unresponsive. The problem proved elusive, and it took Microsoft some time to identify the change and deploy a fix. Microsoft has had a week to ponder what it did and did not do, and the report has some next steps to avoid a repeat of November's events. Some are obvious, and some are a little surprising. Working to reduce the blast radius of failures is an obvious one, and actions include partitioning and isolation to ensure failures can be contained before taking down traffic globally. Recovery procedures also need improvement, along with communication and capacity to ensure there is sufficient headroom. Microsoft's load tests used older, lower-core-count hardware, making them less likely to expose a defect that worsened on newer machines. The company now plans to test newer hardware with more realistic traffic and peak loads, and broaden its failover testing. Microsoft also plans to improve diagnostics and change auditing so engineers can identify troublesome Windows changes faster. July's defect had been running worldwide for more than three months before it brought the gateways down. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5295388&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5295388&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>What the green flashing light on your Roku remote is telling you</title>
+<link>https://www.engadget.com/2321531/what-green-flasing-light-roku-remote-telling-you</link>
+<guid isPermaLink="false">3ed5477f58ab9225e9c9002048ec1c1148dd94064bc3f8fa90584d3b60c85675</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 16:15:00 +0000</pubDate>
+<description>Find out what your Roku remote's green light means, when it's harmless and when it signals a problem, plus what to do if your remote isn't working as it should.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-the-green-flashing-light-on-your-roku-remote-is-telling-you/l-intro-1795026720.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-the-green-flashing-light-on-your-roku-remote-is-telling-you/l-intro-1795026720.jpg" medium="image"/>
+</item>
+<item>
+<title>Tech leaders are celebrating Jensen Huang’s return</title>
+<link>https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay</link>
+<guid isPermaLink="false">54b870a4c86e13f83ce329ec06c0b9c78a10627f0727945bda8296270ab22146</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 16:14:04 +0000</pubDate>
+<description>Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates , and (allegedly!) "terrorized" your employees , a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken a tumble, for obvious reasons.) And now you're back, baby - and all your friends are so eager to congratulate you. Elon Musk, for one, is thrilled. It is done - Elon Musk (@elonmusk) November 23, 2026 The mistake has been corrected https://t.co/UKvEng9rCD - Elon Musk (@elonmusk) November 23, 2026 An … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>My trusty 27-inch Alienware QD-OLED gaming monitor is just $280</title>
+<link>https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale</link>
+<guid isPermaLink="false">817b9255ada53982705f045f6d56ee863b01a77fbd54d107dfe99afdb4bb29a6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
+<description>Alienware’s AW2726DM QD-OLED gaming monitor was a great deal even at its original $349.99 price. The low price and impressive specs were enough to convince me to get one at launch, and I’m glad that I did . I’m a little jealous that you have the opportunity to save $70 on the monitor I’ve been using for work and play for several months. Best Buy and Dell are selling the 27-inch 1440p monitor for $279.99 ahead of Black Friday. Alienware AW2726DM QD-OLED monitor If you’re on a tight budget, but want spectacular contrast and brightness control that only an OLED can provide, here’s a deal for you. Alienware’s 1440p 27-inch QD-OLED monitor with 240Hz refresh rate is selling at its lowest price yet. Read our hands-on . Where to Buy: $349.99 $279.99 at Best Buy $349.99 $279.99 at Dell The AW2726DM has more features than other similarly-priced monitors that I was comparing it to, and that still holds true when comparing it to more modern models. It has a 1440p QD-OLED screen that delivers tremendous contrast and deep blacks, and its 240Hz refresh rate provides a high ceiling for my graphics card to deliver fast frames. It’s equipped with HDMI and DisplayPort inputs, and really one of its only flaws is that it lacks USB-C video support. The monitor works great for PC games, as well as console titles. I think it’d be a sweet gift to yourself or to a gamer in your life this holiday. Read my Alienware AW2726DM hands-on.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/aw1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/aw1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Two states sue SpaceX over sexually explicit Grok deepfakes</title>
+<link>https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes</link>
+<guid isPermaLink="false">6bef9ebeca73f6b4b936e70918fe04c687683d191b0f85fb4b5aaf9e52d668f6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 15:57:49 +0000</pubDate>
+<description>Oregon and Virginia's attorneys general said the company broke state consumer protection laws.</description>
+<enclosure url="https://www.engadget.com/img/gallery/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/l-intro-1795449366.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/l-intro-1795449366.jpg" medium="image"/>
+</item>
+<item>
+<title>Marvel crams every superhero ever into Avengers: Doomsday final trailer</title>
+<link>https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer</link>
+<guid isPermaLink="false">df8b068bc78eff522d266edc0ffad840e492e0fca46d5778c6979838eeab3369</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 15:55:12 +0000</pubDate>
+<description>Rumors have been swirling for days that we'd be getting a final trailer for Avengers: Doomsday , the penultimate film in the MCU’s Phase Six, heralding the end of the so-called “Multiverse Saga.” The rumors were true: Marvel just released the trailer, featuring pretty much every superhero ever represented in the MCU. And it looks like the Avengers will face consequences for messing with the timeline to reverse the blip in End Game . As previously reported , the film takes place 14 months after the events of Thunderbolts* . Per the official logline: “Beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they’ve ever encountered.” Those universes are Earth-616 (the Avengers, Wakandans, and New Avengers), Earth-828 (Fantastic Four), and the “original” X-Men. Cast-wise, we have Avengers favorites Thor (Chris Hemsworth), the new Captain America (Anthony Mackie), Bucky Barnes (Sebastian Stan), Ant-Man (Paul Rudd), Falcon (Danny Ramirez), and Loki (Tom Hiddleston). Then there’s the Wakandan contingent: Shuri as the new Black Panther (Letitia Wright), M’Baku (Winston Duke), and Namor (Tenoch Huerta Mejia), as well as Alex Livinalli as Namor’s ally, Attuma. And, of course, Robert Downey Jr. as Doctor Doom. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/doomsday1.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/doomsday1.jpg" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang reinstated as Nvidia CEO, board chair</title>
+<link>https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair</link>
+<guid isPermaLink="false">27a6b6af092d6a67400e584e0246a6103f5274308401e78c032d5b5f9caadedb</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 15:46:18 +0000</pubDate>
+<description>Nvidia's board of directors has voted to reinstate Jensen Huang as CEO and chairman of the board, just 11 days after he resigned in the wake of multiple scandals . The reinstatement, announced Monday morning , is "effective immediately" and was based in part on "input from senior levels of the United States government" that assured the board members that "Mr. Huang’s reinstatement poses no national security risk." That assurance comes despite Huang's admitted affair with a woman who, US intelligence sources believe, was working as a Chinese spy and allegations that Nvidia had subverted export controls meant to keep Nvidia chips from reaching China. It also comes despite multiple developing investigations from multiple different government departments into those and other alleged national security, accounting, and corporate governance failures. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096.jpg" medium="image"/>
+</item>
+<item>
+<title>What is Sound Glow on HomePods, and how do you get it on your Apple speaker?</title>
+<link>https://www.engadget.com/2320280/what-is-apple-homepod-sound-glow</link>
+<guid isPermaLink="false">b939bed71e61f008ced6e5c3bbee050de0bf21d59b97510364c4380bc8ae1c3b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 15:45:00 +0000</pubDate>
+<description>Apple's latest HomePod update makes the top of your speaker glow in sync with music.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-is-sound-glow-on-homepods-and-how-do-you-get-it-on-your-apple-speaker/l-intro-1794947532.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-is-sound-glow-on-homepods-and-how-do-you-get-it-on-your-apple-speaker/l-intro-1794947532.jpg" medium="image"/>
+</item>
+<item>
+<title>COP31 ends in failure as countries split over fossil fuels, climate finance</title>
+<link>https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance</link>
+<guid isPermaLink="false">4184f87ddae68dc15aed0571f7bd1931c92d9e2830bdb00123aa72459d6e9dc9</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 15:23:26 +0000</pubDate>
+<description>ANTALYA, Turkey—By the time the United Nations COP31 climate talks ended Sunday afternoon, the conference center resembled a going-out-of-business sale at a pawnshop for broken dreams. As cleaning crews cleared away the debris left by more than 100,000 participants, Murat Kurum, president of the Conference of the Parties and Turkey’s minister of environment, urbanization, and climate change, tried to tie together disparate parts of a draft climate deal with a shiny ribbon of multilateralism. Many countries were not buying it. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31.jpg" medium="image"/>
+</item>
+<item>
 <title>British retailer Next downplays data breach at tech supplier</title>
 <link>https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684</link>
 <guid isPermaLink="false">70a7ca8335716f5a44d22606e642d64f511c6b7b6ff1e628048b79770cbe3aa6</guid>
@@ -37,6 +136,28 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>How one router caused the worst ground stop since 9/11</title>
+<link>https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety</link>
+<guid isPermaLink="false">5460e2430eb2185db37780625406209f284f9f041f9c49e791cd2f87df771734</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
+<description>Today I’m talking with Darryl Campbell, a freelance journalist, aviation expert, and author of the book Fatal Abstraction: Why the Managerial Class Loses Control of Software . Darryl covers aviation and the FAA, and earlier this month, when the US suffered a sudden nationwide ground stop on air travel, Darryl was all over the story. He published a great report for us on The Verge about what happened, what and who was to blame, and what we might do about the underlying infrastructure failures in the aviation business. So ahead of Thanksgiving, one of the country’s major holiday travel weeks, I wanted to have Darryl on the show to walk us through this incident on Friday, November 13th, when the FAA grounded every departing flight in the country for more than four hours. You’ll hear us work backward from how a single router could cause this kind of damage to why our aviation infrastructure is so painfully out of date and what the government plans to do about it. Also, why incidents like this are creating a kind of swirling paranoia about AI and cyberattacks, even when the real culprit is far more mundane. Before we get going, do me a favor and subscribe to Decoder on YouTube, where we put out new episodes every Monday and Thursday. Okay: aviation journalist Darryl Campbell on the FAA ground stop. Here we go. This interview has been lightly edited for length and clarity. Darryl Campbell, you’re a journalist, you’re an aviation expert, and you’re the author of the book Fatal Abstraction: Why the Managerial Class Loses Control of Software , which is potentially the most Decoder title in all of publishing history. Welcome to Decoder . Thanks very much. Longtime listener, first-time caller. So thanks for having me. I love that book title. I love all the ideas that it suggests. We’ll have you back to talk about the book, but I feel like we’re going to use that idea to talk about air traffic control today on Decoder with you. Yeah, I think so much of what we’ve found out, even in the week since my report came out, has really just been a lot of boring management failures that have somehow cascaded to affect millions of people on thousands of flights. And it’s just the importance of actually having people who know what they’re doing in charge. There’s a lot there already. There’s a whole hour of Decoder right there. But what you’re referencing is the fact that you wrote a story for us about the nationwide ground stop the FAA had to call because of a bad router. Tell us what we know. What happened here? Why did air traffic control ground you all? Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . I’m going to take you back to Friday the 13th in a part of the country that nobody really associates with aviation, which is a little place called El Dorado, Arkansas. It’s the very tail end of part of this big backbone of data and telecommunications that’s r</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FAA_dcd.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FAA_dcd.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang is back as Nvidia CEO after a stunning reversal</title>
+<link>https://www.zdnet.com/innovation/jensen-huang-is-back-as-nvidia-ceo-after-a-stunning-reversal</link>
+<guid isPermaLink="false">8ed4b3224a81784e34c83a2d9c675829e719c7bbd5851f599ded005839dcfe58</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 14:51:37 +0000</pubDate>
+<description>Nvidia’s board unanimously reinstated Huang 11 days after his removal, but his troubles may not be over.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2301328017.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2301328017.jpg" medium="image"/>
+</item>
+<item>
 <title>How to pair your Bluetooth headphones to your Windows PC</title>
 <link>https://www.engadget.com/2320151/how-to-pair-bluetooth-headphones-windows-pc</link>
 <guid isPermaLink="false">e559d2a05cf8c54b8187478f55b5d06140d338e959dc98b3592e18e5695d9e9d</guid>
@@ -54,7 +175,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Mon, 23 Nov 2026 14:35:50 +0000</pubDate>
-<description>There's no telling what caused the Nvidia board to unanimously vote to reinstate Huang less than a week after saying his return wasn’t under consideration - except reportedly the threat of having one's head ripped off and brain peed on - but that really doesn't matter, at least as far as shareholders need to be concerned: Jensen's back in charge and all’s right in the world of chip stocks. "I take this responsibility with the greatest humility and renewed commitment," Huang said of the decision to reinstate him, calling it an honor. Nvidia kicked its former-cum-current CEO and president to the curb on November 12, but not over allegations that he may have been sleeping with a suspected Chinese spy - it was affairs at Nvidia with his subordinates that appears to have been the last straw with Nvidia directors. Nvidia stock has tumbled since Huang’s ouster, and much of the rest of the tech stock world followed suit . Nvidia insiders and tech heavyweights have been pushing for Huang’s return for about as long as he was unemployed, but calls for his return from the US federal government may have been the catalyst for a change of heart among Nvidia leadership who didn’t want Huang back. "In the process of reaching its decision, the Board received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang’s reinstatement poses no national security risk," Nvidia said in its statement announcing Huang’s return. "The Board believes Jensen is the right person to lead Nvidia, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers," board chair Harvey Jones added. Jones was made Nvidia's first board chair upon Huang’s resignation, and will remain in that role. It's not clear what senior levels of the US government weighed in on Huang's return, but President Donald Trump opined that the company had made "the correct and proper decision" in welcoming Huang back. "The United States Government has no reason to believe that Jensen’s return to Nvidia poses any risk to National Security," Trump said in a post on Truth Social. "The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct." ®</description>
+<description>There's no telling what caused the Nvidia board to unanimously vote to reinstate Huang less than a week after saying his return wasn’t under consideration - except reportedly the threat of having one's head ripped off and brain peed on - but that really doesn't matter, at least as far as shareholders need to be concerned: Jensen's back in charge and all’s right in the world of chip stocks. "I take this responsibility with the greatest humility and renewed commitment," Huang said of the decision to reinstate him, calling it an honor. Nvidia kicked its former-cum-current CEO and president to the curb on November 12, but not over allegations that he may have been sleeping with a suspected Chinese spy - it was affairs at Nvidia with his subordinates that appears to have been the last straw with Nvidia directors. Nvidia stock has tumbled since Huang’s ouster, and much of the rest of the tech stock world followed suit . Nvidia insiders and tech heavyweights have been pushing for Huang’s return for about as long as he was unemployed, but calls for his return from the US federal government may have been the catalyst for a change of heart among Nvidia leadership who didn’t want Huang back. "In the process of reaching its decision, the Board received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang’s reinstatement poses no national security risk," Nvidia said in its statement announcing Huang’s return. "The Board believes Jensen is the right person to lead Nvidia, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers," board chair Harvey Jones added. Jones was made Nvidia's first board chair upon Huang’s resignation, and will remain in that role. The White House has since confirmed that the senior-level official involved in Huang’s reinstatement was President Trump. According to a White House statement to Semafor, Trump personally dialed in to an Nvidia board meeting hours before Huang was reinstated to argue for his return. “President Trump was totally involved and this is a great decision by the NVIDIA board,” White House comms director Steven Cheung told Semafor. “We have to protect our geniuses.” "The United States Government has no reason to believe that Jensen’s return to Nvidia poses any risk to National Security," Trump said in a post on Truth Social. "The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct." ® Updated at 1607 to include the fact that Trump dialed into a board meeting.</description>
 <enclosure url="https://image.theregister.com/?imageId=5311670&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311670&amp;width=1280" medium="image"/>
 </item>
@@ -66,8 +187,8 @@
 <category>technology</category>
 <pubDate>Mon, 23 Nov 2026 14:16:53 +0000</pubDate>
 <description>So much for the board not intending to bring him back.</description>
-<enclosure url="https://www.engadget.com/img/gallery/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/l-intro-1795445657.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/l-intro-1795445657.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/l-intro-1795450398.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/l-intro-1795450398.jpg" medium="image"/>
 </item>
 <item>
 <title>5 underrated Apple Watch shortcuts you can set up in minutes</title>
@@ -90,17 +211,6 @@
 <description>Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system. The centerpiece is Reality View, a real-time generative display that swaps out old wireframe graphics for a live, overhead camera angle that lets drivers see and tap to influence what the car plans to do next. The third-person perspective renders buildings, crosswalks, pedestrians, and surrounding traffic with a photorealism that has drawn immediate comparisons to Grand Theft Auto VI (which conveniently launched just days earlier). Even Elon Musk couldn't resist the comparison on X, posting "FSD is GTA irl" … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-8.51.20-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-8.51.20-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Jensen Huang reinstated as Nvidia CEO, board chair</title>
-<link>https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair</link>
-<guid isPermaLink="false">27a6b6af092d6a67400e584e0246a6103f5274308401e78c032d5b5f9caadedb</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 14:10:18 +0000</pubDate>
-<description>Nvidia's board of directors has voted to reinstate Jensen Huang as CEO and chairman of the board, just 11 days after he resigned in the wake of multiple scandals . The reinstatement, announced Monday morning , is "effective immediately" and was based in part on "input from senior levels of the United States government" that assured the board members that "Mr. Huang’s reinstatement poses no national security risk." That assurance comes despite Huang's admitted affair with a woman who, US intelligence sources believe, was working as a Chinese spy and allegations that Nvidia had subverted export controls meant to keep Nvidia chips from reaching China. It also comes despite multiple developing investigations from multiple different government departments into those and other alleged national security, accounting, and corporate governance failures. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096.jpg" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang is back as Nvidia’s CEO</title>
@@ -268,17 +378,6 @@
 <media:content url="https://image.theregister.com/?imageId=226311&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Meta Muse can do your Black Friday shopping at Walmart</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</link>
-<guid isPermaLink="false">599ec3a9c12f02c6cc12b6316389425a8ee9910f1034aab5922186f6b865e018</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
-<description>Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month , which helps AI agents find relevant products for you without sharing your purchase history, according to Walmart. Muse can make purchases through Walmart's "Agent Profiles," which provide a dedicated space for agent activity within your Walmart customer account. These profiles also allow you to set spending limits, approve purchases, and check the purchase history of everything … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Old-school Linux desktops find fresh routes to Wayland</title>
 <link>https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349</link>
 <guid isPermaLink="false">e5471ecd6cb33492ad31bf1d3b8d798da88d39489460de242e3f39598a2640b0</guid>
@@ -354,17 +453,6 @@
 <description>Google’s Mandiant unit has claimed that the critical flaw VMware last week revealed in its vCenter product was under attack by a China-linked threat actor which knew of the bug in July and exploited it in September. VMware revealed several flaws on November 19. The big nasty is CVE-2026-123890, which allows unauthorized access to vCenter, the management console for hosts and guest VMs. According to seven researchers from Google’s threat intelligence group (formerly Mandiant), a crew it calls ARMORY CASTLE that it suspects of having links to the People’s Republic of China exploited CVE-2026-123890 by first compromising remote access appliances from BeyondTrust. Google’s analysis suggests the crew uses that toehold to establish access to other Linux appliances before moving deeper into victims’ networks. If the crew finds vCenter, it deploys a custom malware tool called “BONESAW” designed to slice into the VMware product. In the incident Google observed, BONESAW let attackers “forge authentication tokens, bypass MFA, and impersonate any user.” The gang put that access to work by conducting an inventory of the victim’s VMware setup, scooping up data describing the ESXi file system, attached disks, and mounted Virtual Machine File System volumes. ARMORY CASTLE also added an SSH public key to the root account’s authorized keys, and “conducted further reconnaissance and data theft on the ESXi filesystem using the root account.” Google also found evidence of BONESAW being used in July, on a server an unidentified entity had patched against CVE-2026-59309 – another authentication bypass vulnerability in vCenter. And BONESAW was just one of five tools Google thinks ARMORY CASTLE created as part of its plan to attack vCenter. It also made webshells named SLIMSAVAGE and CAGEMATCH, a backdoor called BEARBONES, and a SAML utility called SAWSNAKE. “The use of three separate specialized sets of malware and two zero-days in the course of a single campaign indicates that there are significant resources supporting ARMORY CASTLE operations,” Google’s researchers wrote. “It also shows the extent of the threat actor’s operational commitment to compromise high priority targets.” Few targets are as juicy as vCenter, because it can literally give attackers access to thousands of virtual machines and the hosts they run on. Google hasn't said how many attacks is saw on vCenter using BONESAW. The Register asked VMware if it was aware of the September attack, if it took any measures to defend its customers at the time, and to share a timeline for disclosure and remediation of CVE-2026-123890. A spokesperson responded by pointing to VMware’s Q&amp;A document and stating “In today's threat environment, customers should assume any publicly disclosed critical vulnerability can and will be exploited by threat actors under the right conditions and should apply the recommended patches immediately.” VMware has tried to make that easier by adding non-disruptive patching to several of it</description>
 <enclosure url="https://image.theregister.com/?imageId=261387&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=261387&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker</title>
-<link>https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink</link>
-<guid isPermaLink="false">587386f956d0e5457b0e1ece11dbf88d7d01672e458f11e90d482e9489d9dec1</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-<description>After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos , the Kodak SlideTag goes one step further. It also functions as a Bluetooth tracker that's compatible with either Apple's Find My or Google's Find Hub tracking networks. The Kodak SlideTag will be available for $34.99 each and, like the Charmera, will feature a series of retro designs distributed in mystery boxes so you don … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Here's how much Starlink cost in 2020 vs. 2026</title>
@@ -477,17 +565,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-sharing-your-location/l-intro-1794603681.jpg" medium="image"/>
 </item>
 <item>
-<title>We haven’t seen the last of the major tech outages</title>
-<link>https://www.theverge.com/tech/1039851/major-tech-outages</link>
-<guid isPermaLink="false">7d27fffa3906bd9ac7f9426261752d0e40282d15cac34ab9d5716328c5bd1d95</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 22:48:02 +0000</pubDate>
-<description>Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase . But the consensus is that there are more to come . Director of National Intelligence Jay Clayton told CNN : "The American people should be prepared for a great deal of investment in upgrading our systems; they should be prepared for investment in cybersecurity, and they should be prepared that any time there is a step change in technology, a step change in both compute and applications, there will be bumps in the road." Microsoft President Brad Smith issued a … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Can you safely use a 140w charger on an iPhone?</title>
 <link>https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger</link>
 <guid isPermaLink="false">c89d88a26abd4ed5a01d6f67e86d6a24b1ae45c9a3d0312a3c4b05c82f3cbec0</guid>
@@ -519,39 +596,6 @@
 <description>Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-to-safely-clean-your-pcs-gpu-to-avoid-damaging-it-in-the-process/l-intro-1794604743.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-to-safely-clean-your-pcs-gpu-to-avoid-damaging-it-in-the-process/l-intro-1794604743.jpg" medium="image"/>
-</item>
-<item>
-<title>Why your monitor flickers when you turn it on and can it be fixed?</title>
-<link>https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix</link>
-<guid isPermaLink="false">7b75515b800d05a33ca6ba221302318978766644f4a803faf04467f2c1256b35</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 21:45:00 +0000</pubDate>
-<description>A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-monitor-flickers-when-you-turn-it-on-and-can-it-be-fixed/l-intro-1794601400.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-monitor-flickers-when-you-turn-it-on-and-can-it-be-fixed/l-intro-1794601400.jpg" medium="image"/>
-</item>
-<item>
-<title>The cool phone camera trick that can test your remote control's battery</title>
-<link>https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery</link>
-<guid isPermaLink="false">b14433f4fe4b9e0eb34f4ec4818379eae1cd59f6036818d5d6ef617f64cd9822</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 21:30:00 +0000</pubDate>
-<description>Trying to figure out whether a remote control needs new batteries? Your phone camera can tell you if it's time to replace them. Here's how.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-cool-phone-camera-trick-that-can-test-your-remote-controls-battery/l-intro-1794630742.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-cool-phone-camera-trick-that-can-test-your-remote-controls-battery/l-intro-1794630742.jpg" medium="image"/>
-</item>
-<item>
-<title>Which solar panel type is best for your home?</title>
-<link>https://www.engadget.com/2319531/solar-panel-types-best-home-use</link>
-<guid isPermaLink="false">912f234d36fb8881cb1a869ba22b2100079ce0f63657450a8252035bac1b1ddb</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 21:15:00 +0000</pubDate>
-<description>Find out how monocrystalline, polycrystalline and thin-film solar panels compare on efficiency, cost and roof space, and which type suits your home and budget.</description>
-<enclosure url="https://www.engadget.com/img/gallery/which-solar-panel-type-is-best-for-your-home/l-intro-1794509643.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/which-solar-panel-type-is-best-for-your-home/l-intro-1794509643.jpg" medium="image"/>
 </item>
 <item>
 <title>As cars go digital, US consumers pay an extra $12 billion a year for repairs</title>
@@ -884,17 +928,6 @@
 <media:content url="https://image.theregister.com/?imageId=5238981&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>SpaceX lenders don’t want Elon Musk launching their collateral into space</title>
-<link>https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space</link>
-<guid isPermaLink="false">c17e9f0b533427e612d5841592c458800ccc4fcda1c4871ea800d754732d2fe7</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 14:15:21 +0000</pubDate>
-<description>Lenders backing SpaceX’s latest $43 billion debt package, which is secured by its advanced AI chips, have tried to bar Elon Musk from firing the collateral into space as part of his plan for orbital data centers. The world’s richest man has outlined ambitious plans to power AI models with data centers cooled by the vacuum of space. That will require packing satellites full of advanced chips. SpaceX has said it plans to use the chips involved in the debt deal on Earth. But lenders have expressed concerns that if the group later decided to shoot the valuable chips that underpin their loans into space, it would prevent them from reclaiming and selling the semiconductors in the event of a default, according to people familiar with the matter. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg" medium="image"/>
-</item>
-<item>
 <title>Microsoft suggests Registry hack to work around hotpatch woes</title>
 <link>https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279</link>
 <guid isPermaLink="false">69888785b22655ff83fda9526365f42dbc6d6448925bc72399f564e4eb2ab61b</guid>
@@ -904,17 +937,6 @@
 <description>Some Windows 11 applications might fail to install or launch after Microsoft's November hotpatch, but not to worry: there's a Registry tweak to work around it. Microsoft has confirmed it isn't administrators' imaginations. The November hotpatch is causing application errors, including in little-used and obscure apps such as Outlook. Affected applications may fail during installation, launch, or use, displaying errors such as " ERROR_ALLOTTED_SPACE_EXCEEDED (0xC0000099) ." Microsoft's investigation points to applications that load the 32-bit Windows Installer DLL, msi.dll. The problem is more common with 32-bit software, but can also affect 64-bit applications "under certain circumstances." The workaround involves fiddling with the Registry on affected devices, so is not for the faint of heart and a backup is a good idea before diving in. Microsoft says the key " HotPatchTableSize " in the folder " HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management " needs to be set to " 2000 " followed by a restart. Just the thing to round out the week for administrators. The issue affects the November hotpatch, not the standard monthly cumulative security update. "Devices which installed the November 2026 Windows monthly security update are not expected to be affected by this issue," Microsoft said. Windows hotpatches are security updates that don't require a device restart (unless, as in this instance, administrators have to do so to address errors after a hotpatch is installed). Windows 11 hotpatching requires version 24H2 or later, an eligible subscription, and the necessary management and security configuration. "Hotpatch update package size is significantly smaller than the standard cumulative updates," Microsoft said, and the goal is to "streamline the installation process and enhance compliance efficiency." The offending hotpatch, KB5132043 , was released on November 10. It followed the October 13 baseline , which was a prerequisite. Microsoft made hotpatching the default in Windows Autopatch earlier this year. At the time, we asked: " What could possibly go wrong? " Thanks to November's hotpatch, we have our answer. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5311310&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311310&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone</title>
-<link>https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone</link>
-<guid isPermaLink="false">34daf2348b900e74c91993ea7a2fb4d47b061031c3ae576cd2e7030f4ecb2540</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 13:35:45 +0000</pubDate>
-<description>Welcome to Edition 9.20 of the Rocket Report! Last weekend was a picture of the US launch business in miniature, and emblematic of the opposing trajectories of two of the nation's most experienced rocket makers. First, on Saturday, SpaceX completed a perfect midair catch of its Starship upper stage at its launch pad in Texas after spending nearly a day in orbit. The Super Heavy booster was lost at sea, but SpaceX proved it can recover that piece of the rocket on previous flights. While SpaceX showed it is well on the way to fielding a fully reusable rocket, United Launch Alliance suffered its first-ever total launch failure with the Vulcan rocket. That is terrible news for not only ULA, but also the US Space Force and Amazon, which have booked some 70 launches on Vulcan over the next few years. Your faithful correspondents will take a break from the Rocket Report next week for the Thanksgiving holiday, so we'll see you again the first week of December. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Europe's leading satellite startup eyes Italian rocket maker . Finnish satellite developer ICEYE announced Tuesday that it is seeking to buy Italian rocket-maker Avio for more than $2.2 billion in a transaction aimed at creating Europe’s first true vertically integrated end-to-end space company, Ars reports . Avio builds the Vega C rocket, a solid-fueled launcher designed to carry up to 3.3 metric tons (7,300 pounds) of payload to low-Earth orbit. ICEYE is, by far, the most successful space startup in Europe, with a valuation of more than $12 billion after the company's most recent fundraising round in June. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/1795097197088.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/1795097197088.jpg" medium="image"/>
 </item>
 <item>
 <title>AI could open wallets where ERP upgrade pitches can't, says PwC</title>
@@ -1137,17 +1159,6 @@
 <media:content url="https://image.theregister.com/?imageId=5311057&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>European Commission scrambles to contain AI-assisted cyberattack</title>
-<link>https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103</link>
-<guid isPermaLink="false">4818f937ae62cd72f531216e3155fbcf6bd4251fd75a48959c97691417dc76cc</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 15:14:54 +0000</pubDate>
-<description>The European Commission is picking up the pieces after hackers wielding an AI-powered security testing tool targeted its internal IT systems, potentially exposing staff members' personal data. The attack, first reported by Politico, has caused more than 10 days of disruption at the EU's executive arm. Among the applications temporarily taken offline were Sysper, which staff use to access payslips, submit timesheets, and request vacation time, and MyPMO, which handles medical reimbursements. Both were brought back online earlier this week, though Sysper fell over again on Wednesday. The Commission's translation services were also affected. "The European Commission has taken the necessary steps in response to a detected cyber campaign," Commission spokesperson Thomas Regnier told Politico. "Individual systems were targeted and, in line with our standard practice, we have informed those concerned." According to Politico's sources, the Commission's cybersecurity defenders detected hackers using ARTEX, a publicly available AI-powered penetration testing framework. The incident prompted an emergency meeting of the Commission's Corporate Management Board earlier this month, and tech commissioner Henna Virkkunen briefed her fellow commissioners on Wednesday. The Commission has yet to respond to The Register 's questions about the attack, including whether the crooks got their hands on employee data or whether the applications were simply taken offline as a precaution. The attack might not come as much of a surprise to the Commission's own security bods. CERT-EU, which looks after the cybersecurity of EU institutions, warned on November 5 that it had spotted what it believed to be ARTEX-assisted attacks against organizations under its watch. The developer behind ARTEX pulled the project's GitHub repository in October after reports that hackers were putting the software to use. But by then, the code was out in the wild, and anyone wanting to have a crack at an organization's IT estate could get hold of one of several forks. The FBI also sounded the alarm last week [PDF], revealing that researchers had found more than 1,600 ARTEX consoles exposed to the internet. In some of the attacks detailed by the Feds, hackers went from identifying a target to obtaining privileged access in less than three hours. “What used to take a skilled operator days or weeks of chaining is now happening in hours because frameworks like ARTEX let a single actor stand up fleets of agents that plan, probe, exploit, and move laterally with almost no further human input after the initial goal is set,” Snehal Antani, CEO of security firm Horizon3.ai, told The Register. Antani said the proliferation of these tools could also make life harder for investigators trying to establish who's behind an attack, as government-backed hackers and garden-variety cybercriminals increasingly draw from the same toolbox. Commission staff at least appear to have been paid on time. According to Politico,</description>
-<enclosure url="https://image.theregister.com/?imageId=5311112&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311112&amp;width=1280" medium="image"/>
-</item>
-<item>
 <title>The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter</title>
 <link>https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter</link>
 <guid isPermaLink="false">b30c8a80b443adbc9d4e597acc1bcd4e27d3fb64424b7cf3fb54a8735e8c9c69</guid>
@@ -1355,16 +1366,5 @@
 <description>Oura just launched a Jet Lag Plan to help you stay alert when you switch time zones, whether you’re traveling for business or pleasure.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png" type="image/png"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png" medium="image"/>
-</item>
-<item>
-<title>Apple could build its AI health chatbot from this study – how to enroll</title>
-<link>https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll</link>
-<guid isPermaLink="false">6fefddc39fa7192eda9b0e6573763aeb63dc2eb1518a398b4ad145732db60bed</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 19:25:57 +0000</pubDate>
-<description>Apple is leaning into AI-powered health tools with the launch of its Apple Health AI Usage Study.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/63e6c0eb-8321-4e2c-a17a-50dd35f33946.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/63e6c0eb-8321-4e2c-a17a-50dd35f33946.jpg" medium="image"/>
 </item>
 </channel></rss>

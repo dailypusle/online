@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Amazon is taking orders for the Moto Tag 3 before it’s even been announced</title>
+<link>https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak</link>
+<guid isPermaLink="false">f835e416fc0685719fd10da3a0f730670f0fd19c025577fd2e62461eb7156e6b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 13:09:32 +0000</pubDate>
+<description>Are these actually new, or just fresh color variants of the Moto Tag 2? | Image: Evan Blass Motorola's unannounced Moto Tag 3 has been listed for sale online, just five months after the Moto Tag 2 went on sale in the US, and before any official announcement of a follow-up. The listing on Amazon UK was spotted by X user @matteventu , and shows the tracker in a "Pantone Lucent White" color option, with a price of £24.96 (about $33) and a 1-4 month shipping estimate. A second image shared by leaker Evan Blass also shows a vibrant purple version of the new tracking tag, which is described as "Pantone Indigo Blue" on a separate Amazon Italy listing . Both are new color options, with the Moto Tag 2 only currently available in orange or a … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Motorola-Moto-Tag-3-.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Motorola-Moto-Tag-3-.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99</title>
+<link>https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor</link>
+<guid isPermaLink="false">2689ffd966504fe7cdbcf662e6cee268d7b683ea4257bd1c0cc9e1c6ddea57b5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 13:00:00 +0000</pubDate>
+<description>Congratulations on your pointlessly fast gaming monitor! | Image: Samsung After being teased in December 2025 and getting an arguably unnecessary pre-release spec bump in August , the Samsung Odyssey G6 G60H rolls out next month for $899.99. The 27-inch gaming monitor will have an absurd 1,100Hz refresh rate, narrowly edging out LG's UltraGear 25G590B , which tops out at 1,000Hz. Is there any value in these ultra-fast refresh rates? That's up for debate . But whether or not you can actually see the difference, it does give the company bragging rights. So there is that, I guess. The G60H will only be able ot hit 1,100Hz in 1080p. Bumping the resolution up to 1440p will drop the refresh rate to 600Hz, which is still … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/01.-Odyssey-G6_Front.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/01.-Odyssey-G6_Front.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Tri-screen portable monitors aren’t for the faint of heart</title>
+<link>https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk</link>
+<guid isPermaLink="false">cfaa4440faaabe0ab5ab2b994bc2ff7f8e356217356a702493253dbf0fcd30ef</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 23 Nov 2026 12:15:16 +0000</pubDate>
+<description>Living in New York City means making the most of limited space. As a result, I’m always interested in tools that can boost my productivity at a small desk, in a cramped office, or working on the go. I’ve experimented with dual-screen laptops in multiple form factors and numerous portable monitors, including ones with projection capabilities . I’ve had particularly good results with dual-screen portable monitors . Naturally, a portable monitor with three full-size screens was the next logical step. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261120_163720.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261120_163720.jpg" medium="image"/>
+</item>
+<item>
 <title>Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI</title>
 <link>https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai</link>
 <guid isPermaLink="false">c3079baa07ae12d88dd7cd13babf98544e65ea671825b21efde6d209a655ab77</guid>
@@ -15,13 +48,13 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3.jpg" medium="image"/>
 </item>
 <item>
-<title>Meta Muse can now do your Black Friday shopping at Walmart</title>
+<title>Meta Muse can do your Black Friday shopping at Walmart</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</link>
 <guid isPermaLink="false">599ec3a9c12f02c6cc12b6316389425a8ee9910f1034aab5922186f6b865e018</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
-<description>Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month , which helps AI agents find relevant products for you without sharing your purchase history, according to Walmart. Muse can make purchases through Walmart's "Agent Profiles," which provide a dedicated space for agent activity within your Walmart customer account. These profiles also allow you to set spending limits, approve purchases, and check the purchase history of everything bought by Muse. While other onl … Read the full story at The Verge.</description>
+<description>Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month , which helps AI agents find relevant products for you without sharing your purchase history, according to Walmart. Muse can make purchases through Walmart's "Agent Profiles," which provide a dedicated space for agent activity within your Walmart customer account. These profiles also allow you to set spending limits, approve purchases, and check the purchase history of everything … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -398,28 +431,6 @@
 <description>Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN . Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta for censoring speech that Prime Minister Narendra Modi and his BJP party disagree with, and has placed banners accusing Mark Zuckerberg of favoring BJP around the city. While two accounts in question were restored Friday, Manu Jain, who oversees social media for the party's youth wing, told Reuters that "thousands of … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Nintendo’s Switch 2 console is $50 off for Black Friday</title>
-<link>https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale</link>
-<guid isPermaLink="false">0e79d72565d3b36f6580dcd7f2d4aa83e08d3d97f4e3819dd041224195f143aa</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 14:00:00 +0000</pubDate>
-<description>Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporarily rolling back the $50 price increase that went into effect in early September. It’s tough to predict which bundle will be most popular for your household. The Mario Kart World bundle runs $499.99 (previously $549.99) and includes the console, a digital copy of the aforementioned game, and three months of Nintendo Switch Online. Then there’s the Nintendo Switch Sports Resort bundle for $529.99 (price unchanged for Black Friday), which includes the more recent minigame-filled title instead. Both are currently available from Amazon , Best Buy , Walmart , and Nintendo . Nintendo Switch 2 + Mario Kart World Bundle Where to Buy: $549.99 $499.99 at Amazon $549.99 $499 at Walmart $549.99 $499.99 at Best Buy Nintendo has delivered hit after hit since the console launched in mid-2025. There are now plenty of excellent games to justify snagging a Switch 2, including, most recently, the stellar remake of The Legend of Zelda: Ocarina of Time . Plus, the newer console can play nearly all of the original Switch games, and it’s wirelessly compatible with the older system’s Joy-Con and Switch Pro controllers. If you’re planning to get a Switch 2, below are some useful guides filled with accessory recommendations. From tempered glass screen protectors and protective cases to controllers, there are plenty of goodies that’ll help you take better care of your Switch 2 and get more enjoyment from it.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>‘The show is starting soon. Please turn on your headphones.’</title>
-<link>https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast</link>
-<guid isPermaLink="false">04ef9a262a51c092d3912b9d28d6203926cba637257f0a000fa12006cc8ca110</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 14:00:00 +0000</pubDate>
-<description>Love Me uses Auracast broadcasts both for accessibility and the sound design. | Photo: Curtis Brown Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wired headphones connected to a small Auracast receiver . Then, soon after the play begins, we're instructed to put them on. The headphones are an integral storytelling tool of Love Me - a one-man show from the minds of stand-up comedian and former Saturday Night Live writer Drew Michael and director Prashanth Venkataramanujam. It's a show about love and the bid for connection, told in five chapters … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>GLP-1 drugs could have a surprisingly large environmental payoff</title>
@@ -816,17 +827,6 @@
 <description>It's now been 21 years since I first published an article at Ars Technica. It has been the only home I've known as a writer, and it has been essential to my development from scientist to blogger to journalist. It's no exaggeration to say that Ars has helped make me who I am today. So, asking you to support Ars via a subscription is very personal (and a bit selfish) for me—I'd like to stay here! Jobs that give you this sort of independence, that let you both edit and write, are very rare in journalism, and I'm unlikely to find another. Helping secure Ars' future through your support will mean I don't have to. But I'd rather make a case for why you'll benefit from supporting Ars. In fact, I'll make three: the writing, the people, and the community. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US</title>
-<link>https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us</link>
-<guid isPermaLink="false">1974e85995540625fc132352836d1531043c83ba83d10094fc8acdd46dfffcd6</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 12:00:43 +0000</pubDate>
-<description>TP-Link, which may be the top provider of wireless routers for US homes and small businesses, isn't allowed to sell its latest Wi-Fi routers in the US. The Trump administration imposed a sweeping ban on foreign-made consumer routers in March 2026, and TP-Link hasn't been able to obtain an exemption. The rules prevent the import or sale of all new router models that are manufactured, assembled, designed, or developed outside the US. The Trump administration has control over which router makers receive special permission to import and sell new products through a waiver-review process involving the Federal Communications Commission, the Department of Defense, and the Department of Homeland Security. While some of its competitors have obtained exemptions to the ban, TP-Link appears to be having a hard time making its case to government officials. Its routers approved before the March 2026 ban remain available for sale in the US, but its newly released Wi-Fi 8 routers cannot be imported or sold. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg" medium="image"/>
 </item>
 <item>
 <title>Windows 11 passkey bug cries failure after successful sign-in</title>

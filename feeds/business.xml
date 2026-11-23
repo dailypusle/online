@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Who is behind the recent street protests in France?</title>
+<link>https://www.bbc.co.uk/news/videos/cw5y188vzxn8o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">d4cb95a734715081ab93b517727becdca4cfa866acb0f4758be4904dcdea74b9</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 09:25:52 +0000</pubDate>
+<description>President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1809/live/4a45f590-e71e-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1809/live/4a45f590-e71e-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
+</item>
+<item>
+<title>Pip assessments need 'fundamental overhaul', report to say</title>
+<link>https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">89a22c5c973fa7b5fd7aeabc8c035d56dc5835bc0dd9f60c8c405d4c8890d01c</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 09:12:54 +0000</pubDate>
+<description>Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
+</item>
+<item>
+<title>‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones</title>
+<link>https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap</link>
+<guid isPermaLink="false">1ca7dc640457b792a53b2b4bcdcbb5b1142b42c84c060d45315184a88ca67a2f</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 09:05:44 +0000</pubDate>
+<description>The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83RJPB5W0JGE4R8CY2NR656/hi-how-to-identify-crypto-scams-ads-on-social-media.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83RJPB5W0JGE4R8CY2NR656/hi-how-to-identify-crypto-scams-ads-on-social-media.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin ETFs shed $1.8B in third-largest weekly outflow</title>
+<link>https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion</link>
+<guid isPermaLink="false">5e389e1c83d2c074853bcfa4a5b8cb64321665d7d7f3f9fd5c5ed630b807a596</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 08:08:52 +0000</pubDate>
+<description>Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June’s $4.51 billion total.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83K98XBWCQA16XQH3TE1CEA/hi-bitcoin-arbitrage-in-2020-can-still-be-profitable1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M83K98XBWCQA16XQH3TE1CEA/hi-bitcoin-arbitrage-in-2020-can-still-be-profitable1.jpg" medium="image"/>
+</item>
+<item>
+<title>Poundland is facing collapse - what's gone wrong?</title>
+<link>https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">8b1572b79a8c7c3b756cc74301ffe0dd560aff07b7d0abf0de760ec20ac78b7c</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 08:00:20 +0000</pubDate>
+<description>Poundland has a matter of days to find a buyer or face collapsing into administration. Why?</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
+</item>
+<item>
 <title>Man swaps Australia for south Wales over 'unreal' house prices as locals struggle to buy</title>
 <link>https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">b7aa43c53d52dc4741465d6708aae075fd3b2365fec7d987afd15adbf4f8a56d</guid>
@@ -24,17 +79,6 @@
 <description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
-</item>
-<item>
-<title>Pip assessments need 'fundamental overhaul', report to say</title>
-<link>https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">89a22c5c973fa7b5fd7aeabc8c035d56dc5835bc0dd9f60c8c405d4c8890d01c</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 04:01:13 +0000</pubDate>
-<description>Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump renews call for Nvidia to rehire Jensen Huang as CEO</title>
@@ -92,17 +136,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg" medium="image"/>
 </item>
 <item>
-<title>What is going on with Poundland?</title>
-<link>https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">8b1572b79a8c7c3b756cc74301ffe0dd560aff07b7d0abf0de760ec20ac78b7c</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 00:22:27 +0000</pubDate>
-<description>Poundland has a matter of days to find a buyer or face collapsing into administration. Why?</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg" medium="image"/>
-</item>
-<item>
 <title>San Francisco is enjoying an AI boom, but worries about a crash are growing</title>
 <link>https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">6352bd0d59b48f2b0e31c68cf003464b694f66476a4e2054fbd6ddf25bd37292</guid>
@@ -110,8 +143,8 @@
 <category>business</category>
 <pubDate>Mon, 23 Nov 2026 00:08:00 +0000</pubDate>
 <description>AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg" medium="image"/>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
 </item>
 <item>
 <title>Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest</title>
@@ -134,6 +167,17 @@
 <description>Your team may be busy thanks to AI, but robotic productivity is a poor substitute for outstanding human performance.</description>
 <enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ai-helping-team-do-more-1126-g-2231487646.jpg" type="image/jpeg"/>
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ai-helping-team-do-more-1126-g-2231487646.jpg" medium="image"/>
+</item>
+<item>
+<title>ByteTree CEO: This $170 Trillion Industry Is “The Most Important Thing for Bitcoin”</title>
+<link>https://bitcoinmagazine.com/videos/bytetree-ceo-this-170-trillion-industry-is-the-most-important-thing-for-bitcoin</link>
+<guid isPermaLink="false">474b7a26401ec4798027f762117c6a5b94f110384debecaf347727838ad192a5</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Sun, 22 Nov 2026 15:00:33 +0000</pubDate>
+<description>▶ Bitcoin Magazine ByteTree CEO: This $170 Trillion Industry Is “The Most Important Thing for Bitcoin” Bitcoin used to fall five points for every one point on the Nasdaq, and Charlie Morris says it now falls “one for one.” He calls that “a sign of maturing,” and says Bitcoin’s volatility is now in line with names like Meta and Nvidia. He also explains why Bitcoin works as a gauge of market liquidity, and why he believes “the authorities will ultimately have to restore liquidity.” Charlie says that when liquidity floods back into the system, that’s when Bitcoin does best. Host: Spencer Nichols — Bitcoin Magazine Charlie Morris — CEO and Founder of ByteTree https://www.bytetree.com ByteTrend: https://bytetrend.io 𝕏 Charlie: https://x.com/AtlasPulse 𝕏 ByteTree: https://x.com/ByteTree Grab your copy of THE QUANTUM ISSUE https://store.bitcoinmagazine.com/products/the-quantum-issue-42 Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Bitcoin’s $170 Trillion Opportunity 01:00 Inflation, Bonds and the Fed 03:58 Stock Valuations and the Rotation Out of AI 06:10 Why Markets Look Like 1999 09:46 Bitcoin’s Maturing Volatility and Liquidity 14:41 Oil Shocks, an AI Crash and Liquidity Risk 17:33 Bond Vigilantes, Debt and the Swiss Lesson 19:56 France, UK Gilts and Euro Debt Stress 23:13 Central Banks’ Gold Buying vs. Bitcoin 27:35 Why Combine Bitcoin and Gold 30:30 Low Correlation, Rebalancing and Valuation 35:24 Wealth Managers: Bitcoin’s Next Big Buyer DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post ByteTree CEO: This $170 Trillion Industry Is “The Most Important Thing for Bitcoin” first appeared on Bitcoin Magazine and is written by Mark Mason .</description>
+<enclosure url="https://img.youtube.com/vi/DGMfkLRqqUU/hqdefault.jpg" type="image/jpeg"/>
+<media:content url="https://img.youtube.com/vi/DGMfkLRqqUU/hqdefault.jpg" medium="image"/>
 </item>
 <item>
 <title>The future of onchain FX could start with users, not institutional liquidity</title>
@@ -785,17 +829,6 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/2026-11-12-morning.jpg" medium="image"/>
 </item>
 <item>
-<title>Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia</title>
-<link>https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia</link>
-<guid isPermaLink="false">38039f0f3fcd2d8411bebf4ec71a9004055d95bb9d975694ca77a35c71d4ed71</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 14:00:15 +0000</pubDate>
-<description>Bitcoin Magazine Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia The bitcoin price slipped to near $61,500 on Friday morning, according to Look Into Bitcoin data, as a selloff in technology stocks that followed Anthropic’s Nasdaq debut spread to Asian markets and dragged bitcoin to its lowest level since July. Bitcoin first broke below $62,000 on Thursday evening, after Thursday afternoon’s report showed it giving back a rebound toward $64,000. The bitcoin price then slid to nearly $61,200 during Asian trading before bouncing back above $61,700. Friday marks a third straight day of losses. Asian stocks extend the AI rout The selling started in Asia. South Korea’s Kospi slid more than 5%, with chipmakers SK Hynix and Samsung Electronics down around 6%. The Korea Exchange halted program selling for five minutes after the drop, while Japan’s Nikkei fell as much as 4.85% to a seven-month low. U.S. futures pointed lower too. Nasdaq-100 futures fell more than 1.7% and S&amp;P 500 futures dropped 0.8%, Yahoo Finance reported. Gold futures lost 3%. The S&amp;P 500 is pointing to a seventh straight daily decline, its longest losing streak since the start of the COVID-19 pandemic in 2020. Anthropic shares fell 8% in premarket trading after closing their first session at $97.17, up 17% from the $83 IPO price. Nvidia was down about 2.4% and AMD fell nearly 7%, CNBC reported. Hawkish signals from Federal Reserve officials this week also weighed on sentiment, Reuters said. ETF outflows and liquidations pressure the bitcoin price Bitcoin funds are feeling the pressure. BlackRock’s iShares Bitcoin Trust (IBIT) recorded $541.1 million in net outflows on Thursday, its largest single-day outflow since launch. That topped the previous record of $528.3 million set on Jan. 30. The fund bled $2 billion over nine straight days of outflows earlier this month. Leveraged traders took heavy losses as the bitcoin price broke support. Bitcoin liquidations hit $712.9 million over 24 hours, with $614 million coming from long positions. Open interest in bitcoin futures fell to $18 billion from $20 billion a week ago, and funding rates flipped broadly negative as traders unwound their bets. Traders are now watching whether the bitcoin price can hold the $60,000 area. A large pocket of long positions sits in the $60,500 to $60,900 band, just below the current price, and could come into play on a further drop. Bitcoin is also on track for a seventh straight weekly loss, which would be its second-longest losing streak after nine weeks of declines in 2022. Crypto stocks slide before the bell Crypto stocks pointed lower in premarket trading. Strategy (MSTR) traded near $83.90, down about 2.6% from Thursday’s close of $86.13, after the stock fell for a sixth straight day on Thursday. Coinbase (COIN) slipped about 2.7% to near $106. Bitcoin miners fell harder. IREN (IREN) dropped about 4.4%, CleanSpark (CLSK) lost about 3.6% and MARA Holdings (MARA) declined about 3.4%. Riot Pl</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-May-Be-Battered-but-Analysts-See-Structural-Adoption-Story-Still-Intact.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-May-Be-Battered-but-Analysts-See-Structural-Adoption-Story-Still-Intact.jpg" medium="image"/>
-</item>
-<item>
 <title>Morning Minute: Anthropic IPO Pops, Sinks Markets</title>
 <link>https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets</link>
 <guid isPermaLink="false">57567d3b702b5896532110e8dd2ab4caf21132c214848c9ac320fbe0246ea400</guid>
@@ -1016,17 +1049,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>MoonPay seeks US bank charter for stablecoin, custody services</title>
-<link>https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services</link>
-<guid isPermaLink="false">7473caa32b70d7a8855e5e409b2e48b635a4a418410e710ae3f564dddd199cb5</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 21:01:42 +0000</pubDate>
-<description>MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TRZBKZ9CRA2JGQ7AM7G08Z/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TRZBKZ9CRA2JGQ7AM7G08Z/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.png" medium="image"/>
-</item>
-<item>
 <title>Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature</title>
 <link>https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature</link>
 <guid isPermaLink="false">513b72e25ec83a94c7dd31f0403070d303b72cf482e7d540a5ef17b30ad8c1b3</guid>
@@ -1036,17 +1058,6 @@
 <description>A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price</title>
-<link>https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price</link>
-<guid isPermaLink="false">9a48c6ba5c6bca48f7bb51adfba31f6279d2023c95807327b9624e0d025c7d92</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 20:33:24 +0000</pubDate>
-<description>Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as trading surged ahead of the AI company’s IPO.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TJNVM868BCDV9G2DVS1TSG/hi-kraken-ipo.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TJNVM868BCDV9G2DVS1TSG/hi-kraken-ipo.png" medium="image"/>
 </item>
 <item>
 <title>Hackers Leak Visa, Mastercard and JPMorgan Customer Data</title>
@@ -1223,17 +1234,6 @@
 <description>Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Who are the investors ready to jump on Anthropic?</title>
-<link>https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">0e74cf8e826ca90793d86a0b66ab8c6b79108a0c5cf83b3705a808b4d4164d85</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 01:22:38 +0000</pubDate>
-<description>The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8d1a/live/8e8f8740-e3b6-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8d1a/live/8e8f8740-e3b6-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
 </item>
 <item>
 <title>Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia</title>

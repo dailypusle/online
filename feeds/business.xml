@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts</title>
+<link>https://bitcoinmagazine.com/news/coldcard-postmortem-seed-flaw</link>
+<guid isPermaLink="false">3fa9250c8e3e454c38c5f15ccba44ec1b07602d4b5632ee94e06e6c08803679e</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 16:20:00 +0000</pubDate>
+<description>Bitcoin Magazine Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts Coinkite on Tuesday published its full postmortem on the Coldcard seed-generation flaw that let thieves drain bitcoin from customer wallets starting in July, saying no device was hacked and that the stolen keys were rebuilt offline from weak seeds. The 18-page report , dated Nov. 23 and modeled on a National Transportation Safety Board accident report, lays out how the defect shipped in Coldcard firmware from March 29, 2021, through July 30, 2026, and why years of outside reviews missed it. “The losses are real and, for some customers, life-changing. No report or firmware update can undo that. We are sorry,” Coinkite wrote. A silent swap in the random number generator A seed is the list of recovery words that controls a bitcoin wallet, and it is only as safe as the randomness used to create it. Coldcard devices were supposed to draw that randomness from the hardware random number generator built into their STM32 chip. Instead, a firmware setting switched that hardware source off, and a safeguard in Coinkite’s libNgU code library failed to catch it. Seed generation quietly fell back to Yasmarang, a predictable software generator built into MicroPython, the programming environment the firmware runs on. Nothing crashed, and the devices produced normal-looking seed words. Coinkite estimates affected seeds carried roughly 40 bits of effective security on the older Mk2 and Mk3 models and about 72 bits on the Mk4, Mk5 and Q, against an intended 128 bits. That shrinks the pool of possible seeds enough for attackers to search it offline. The report says Coinkite’s release checks confirmed the hardware code was present, but never confirmed that seed generation actually reached it. At least 15 independent review efforts since 2021 also missed the flaw, including two paid third-party reviews and an AI-assisted firmware review this year that produced 85 candidate findings. Hundreds of Coldcard owners report losses Unexpected transactions from affected seeds began July 29. Coinkite said it identified the defect the next day, after users discovered thefts, and shipped fixed firmware for every supported release track on July 31. As of Nov. 18, Coinkite had received about 300 loss-related support tickets tied to 242 customer accounts, or about 0.21% of its estimated Coldcard user base. The company’s blog post cites 236 accounts. Because Coldcard is self-custodial, Coinkite can only count losses that customers report, and it says the true number is likely higher. The report cites Galaxy Research figures showing 1,778.84 BTC stolen from more than 8,600 addresses, worth about $107 million at today’s price. Galaxy pegged losses above $115 million in August, based on prices when the coins were taken, and white hats later moved some exposed coins into a recovery trust. Who found and exploited the flaw is still unknown, and law enforcement is investigating. The report calls AI</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Coldcard-Postmortem-Says-Weak-Seeds-Not-Hacked-Devices-Drove-Bitcoin-Thefts.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Coldcard-Postmortem-Says-Weak-Seeds-Not-Hacked-Devices-Drove-Bitcoin-Thefts.jpg" medium="image"/>
+</item>
+<item>
+<title>Stacks Opens Bond 4 With 1,050 BTC of Bitcoin Staking Capacity</title>
+<link>https://bitcoinmagazine.com/press-releases/stacks-opens-bond-4-with-1050-btc-of-bitcoin-staking-capacity</link>
+<guid isPermaLink="false">adc49bd1da8d247c3b5a0f3527bbd98e0c66d570b6a36e425d0c07521e243fb6</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 16:03:03 +0000</pubDate>
+<description>Bitcoin Magazine Stacks Opens Bond 4 With 1,050 BTC of Bitcoin Staking Capacity GRAND CAYMAN, Cayman Islands, Nov. 24, 2026. Stacks Labs today announced 1,050 BTC of capacity for Bond 4 of Bitcoin staking with Stacks, a Bitcoin layer where BTC holders earn BTC. The bond starts ~Dec. 5, and institutions can register at stacks.co/institutional-bitcoin-staking. Bond 4 carries a 3% target annual yield, paid in BTC weekly over a six-month term. Each BTC staked is paired with STX worth 5% of its value, so filling Bond 4’s 1,050 BTC of capacity requires a corresponding STX commitment. Rewards come from Stacks miners, who commit BTC through Proof of Transfer (PoX), the consensus mechanism Stacks has run since January 2021. Every bond since the Genesis Bond launched in September has filled. 21shares returned for Bond 3, and Bullish (NYSE: BLSH) joined as the first top-10 public Bitcoin treasury company to stake BTC. “Opening more than 1,000 BTC of new capacity for institutions shows how strong the demand for Bitcoin yield has become,” said Muneeb Ali, CEO, Stacks Labs, and founder of Stacks. Institutions can stake from qualified custody, including BitGo. During the bootstrap phase, self-custodial Bitcoin staking is whitelisted. Holders who are not on the whitelist can take part through pooled Bitcoin staking at stacks.co/bitcoin-staking . About Stacks Stacks is a Bitcoin layer where BTC holders earn BTC. With Bitcoin staking, holders stake BTC with STX, and their BTC stays on the Bitcoin L1 under their own custody. Stacks has distributed over 4,200 BTC in rewards to participants since 2021. Learn more at stacks.co . Media contact: Shannon Voight, PR &amp; Events, Stacks Labs, press@stackslabs.com Institutional onboarding: https://www.stacks.co/institutional-bitcoin-staking Disclaimer : This is a sponsored press release. Readers are encouraged to perform their own due diligence before acting on any information presented in this article. This post Stacks Opens Bond 4 With 1,050 BTC of Bitcoin Staking Capacity first appeared on Bitcoin Magazine and is written by Bitcoin Magazine .</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/stacks-press-release.jpeg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/stacks-press-release.jpeg" medium="image"/>
+</item>
+<item>
+<title>Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry</title>
+<link>https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry</link>
+<guid isPermaLink="false">80de72ee140e7c1a3340ba83a9f6ab0c30ca7b5928920419967de9bdafc8c80d</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 16:00:44 +0000</pubDate>
+<description>Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/europol-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/europol-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Global Debt Will Make Bitcoin the Best Performing Asset in the World</title>
 <link>https://bitcoinmagazine.com/videos/global-debt-will-make-bitcoin-the-best-performing-asset-in-the-world</link>
 <guid isPermaLink="false">637f2445741a9f18c9530b26816a65e1e29c9305509a505a9ceec95c9edc886e</guid>
@@ -123,17 +156,6 @@
 <description>Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86T456D4TB4XDA273PK6Z1E/hi-dao-governance-models-crypto.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86T456D4TB4XDA273PK6Z1E/hi-dao-governance-models-crypto.jpg" medium="image"/>
-</item>
-<item>
-<title>The Counterintuitive Sales Strategy That Built My Business</title>
-<link>https://www.entrepreneur.com/building-a-business/the-counterintuitive-sales-strategy-that-built-my-business</link>
-<guid isPermaLink="false">973024978e7b0c7861105495a8006a3444476188f399765f5ca730cc037aa5c5</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 13:30:00 +0000</pubDate>
-<description>I used to carry a seven-figure sales quota working for a large consulting firm. Selling as a solopreneur is a totally different game — but I like it much more.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/counterintuitive-sales-strategy-1126-g-2190909929.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/counterintuitive-sales-strategy-1126-g-2190909929.jpg" medium="image"/>
 </item>
 <item>
 <title>Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks</title>
@@ -455,17 +477,6 @@
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/gift-GettyImages-2289425016.jpg" medium="image"/>
 </item>
 <item>
-<title>Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang’s Return</title>
-<link>https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang</link>
-<guid isPermaLink="false">675f95c7f3265d4a1e8da19346072e1386a3b1565869817bf3484e1f6b5fa530</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 20:58:21 +0000</pubDate>
-<description>Bitcoin Magazine Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang’s Return The bitcoin price slipped back to near $61,100 on Monday afternoon, giving up nearly all of its morning spike even as Wall Street held one of its biggest rallies in years on Nvidia’s decision to reinstate Jensen Huang as CEO. Bitcoin jumped above $64,000 shortly after the Nvidia news broke before 10 a.m. ET and topped out near $64,500. The move reversed within hours , and the bitcoin price dipped to around $60,800 by 2:45 p.m. ET. It remains up only modestly on the day. The round trip was costly for leveraged traders. Bitcoin liquidations reached about $321 million , with short bets making up $224 million of that total. Liquidations across the broader crypto market topped $762 million. Stocks hold gains as bitcoin fades Stocks kept climbing while bitcoin slid. The Nasdaq Composite was up about 6.9% near 24,170 at about 3:40 p.m. ET, while the S&amp;P 500 gained about 5% and the Dow rose about 3.2%. The S&amp;P 500 had fallen seven straight days before Monday. Nvidia (NVDA) led the move, trading near $165.66, up about 32% from Friday’s close of $125.53. The board voted unanimously to bring Huang back as president, CEO and director, 12 days after he resigned. A stronger dollar may be weighing on the bitcoin price. The dollar index rose about 0.65% to 104.40 , its strongest level since April 2025, as the stock rebound put more Federal Reserve rate hikes back in play. The Fed meets Dec. 8-9, and a quarter-point hike remains the base case. Adam Haeems, head of asset management at Tesseract Group, pointed to steady selling during U.S. market hours since Huang first stepped down. “Bitcoin has fallen in seven of the eight U.S. sessions since Huang went, today’s included, and last week each session’s fall lined up with that day’s ETF outflow,” he said. Crypto stocks keep most of their gains Crypto stocks held up far better than the bitcoin price. Strategy (MSTR) was up about 9.3% near $85.03 in afternoon trading, after it disclosed a purchase of 457 bitcoin last week. Coinbase (COIN) gained about 6.7% to near $108.78, Robinhood (HOOD) rose about 8.8% to near $67.64 and Circle (CRCL) added about 8% to near $51.33. Miners with AI data center businesses posted the biggest moves. IREN (IREN) jumped about 23% to near $14.57, CleanSpark (CLSK) rose about 12.6% and MARA Holdings (MARA) gained about 10%. Core Scientific (CORZ) climbed about 9.4% and Riot Platforms (RIOT) added about 7.1%. ETF flows and inflation data are next Monday’s spot bitcoin ETF flows are the next test. The funds lost about $1.79 billion last week, their fourth straight week of net outflows, as bitcoin slid toward $58,000 on Friday and hit a weekend low near $55,100. “Tonight’s ETF flow figure is the first real test of this bounce,” Haeems said. Strong inflows would suggest buyers are returning, while another round of outflows would raise doubts about how far the rebound can run. Traders also face Wednesday’s inflati</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Holds-Near-75800-After-Hot-October-Jobs-Report.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Holds-Near-75800-After-Hot-October-Jobs-Report.jpg" medium="image"/>
-</item>
-<item>
 <title>Kalshi secures temporary win in New York gambling law dispute</title>
 <link>https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute</link>
 <guid isPermaLink="false">6d8fa3f67aee9febc3abc965b9bf1c33a91b38425b3aa35d5020c5c986e671f6</guid>
@@ -486,17 +497,6 @@
 <description>Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these."</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch</title>
-<link>https://bitcoinmagazine.com/videos/bitcoin-gold-ratio-signals-potential-bottom-what-to-watch</link>
-<guid isPermaLink="false">c4aa8481609d98001bbaf61b9d9a0a0304919c356488957e489811248cda8852</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 20:30:12 +0000</pubDate>
-<description>▶ Bitcoin Magazine Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch Sean Hagan revisits the Bitcoin-in-gold chart BMTV first ran in late September, when one Bitcoin bought about 19.7 ounces. Back then, he said to watch whether Bitcoin turned green on the year against gold before it did against the dollar. It did that by October 3, peaking at 20.9 ounces the next day. That breakout didn’t hold, but the higher-low trend did, and it has continued up to today. Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Bitcoin’s Weekend Wick to $55K 01:12 Lower Low or Double Bottom in Dollars 01:43 Priced in Gold: Four Higher Lows This Year 02:33 Gold Down 18% as the Dollar and Fed Squeeze Hard Assets 03:13 Why Bitcoin Is Winning Against Gold DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
-<enclosure url="https://img.youtube.com/vi/Qseds_vaT-I/hqdefault.jpg" type="image/jpeg"/>
-<media:content url="https://img.youtube.com/vi/Qseds_vaT-I/hqdefault.jpg" medium="image"/>
 </item>
 <item>
 <title>An SEO Expert’s 3 Tactics for Getting Your Business Found Beyond Google</title>
@@ -783,6 +783,17 @@
 <description>I get a lot of LinkedIn requests, but I don’t connect for the sake of connecting. A thoughtful note and a 15-minute call have done more for my business than any press hit.</description>
 <enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/businesswoman-on-a-call-1126-g-1438308245.jpg" type="image/jpeg"/>
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/businesswoman-on-a-call-1126-g-1438308245.jpg" medium="image"/>
+</item>
+<item>
+<title>He Used to Sell Cat Prints on Etsy. Now His ‘Dungeon Crawler Carl’ Book Series Has Sold 20 Million Copies: ‘It’s Insane’</title>
+<link>https://www.entrepreneur.com/business-news/he-used-to-sell-cat-prints-on-etsy-now-his-dungeon-crawler-carl-book-series-has-sold-20-million-copies-its-insane</link>
+<guid isPermaLink="false">841f29b5d23e26567ae870350139f24b3ba55d9d52ec84e9d4155e0b36d9d571</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
+<description>How this 52-year-old dad's creation went from a free online series to a publishing behemoth.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/matt-dinniman-dungeon-crawler-carl-1126_g2299410042.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/matt-dinniman-dungeon-crawler-carl-1126_g2299410042.jpg" medium="image"/>
 </item>
 <item>
 <title>Nvidia reinstates CEO after affair with alleged spy</title>
@@ -1377,17 +1388,6 @@
 <description>Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Morning Minute: Anthropic IPO Pops, Sinks Markets</title>
-<link>https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets</link>
-<guid isPermaLink="false">57567d3b702b5896532110e8dd2ab4caf21132c214848c9ac320fbe0246ea400</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 13:23:01 +0000</pubDate>
-<description>A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Should AI be judging our credit worthiness?</title>

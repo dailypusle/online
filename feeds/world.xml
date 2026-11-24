@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Trump owned at least $12 million in Nvidia stock at the end of last year</title>
+<link>https://abcnews.com/US/trump-owned-12-million-nvidia-stock-end-year/story?id=138393684</link>
+<guid isPermaLink="false">a9a91fd5f1949f0cb3d80486505a1af6e804b932f0f30f399eb009dc77afa496</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 24 Nov 2026 04:51:04 +0000</pubDate>
+<description>President Donald Trump owned at least $12 million in Nvidia stock at the end of 2025, according to his annual financial disclosure report reviewed by ABC News.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/Jensen-Huang-3-rt-gmh-261030_1793366808855_hpMain_2_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/Jensen-Huang-3-rt-gmh-261030_1793366808855_hpMain_2_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Nearly four million in destitution across UK, study suggests</title>
 <link>https://news.sky.com/story/nearly-four-million-people-in-destitution-across-uk-study-suggests-13615711</link>
 <guid isPermaLink="false">058c8f09cce3f5ce5eec406e770dbd111ba71a43760178c4f0e896f0a45cadb9</guid>
@@ -70,6 +81,17 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-vape-vaping_7414674.jpg?20261123174043" medium="image"/>
 </item>
 <item>
+<title>Victims failed at every step of criminal justice system - report</title>
+<link>https://news.sky.com/story/victims-of-crime-being-failed-at-every-step-of-justice-system-report-warns-13615855</link>
+<guid isPermaLink="false">21d42b9945ad628a2c4b590ac2bbbbef2d08c8501e23b83c2754ec43748e66a5</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Tue, 24 Nov 2026 01:37:00 +0000</pubDate>
+<description>Victims of crime are being failed at every step of the criminal justice system, a major new report has warned.</description>
+<enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-old-bailey-courts-london_7221010.jpg?20260415194737" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/04/1920x1080/skynews-old-bailey-courts-london_7221010.jpg?20260415194737" medium="image"/>
+</item>
+<item>
 <title>Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'</title>
 <link>https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible</link>
 <guid isPermaLink="false">354e3c5e6ad8cbee6489fa9e867e98f23d344fdb2b899656099475bfdf6638c6</guid>
@@ -81,18 +103,7 @@
 <media:content url="https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump granted new chance to potentially erase his hush money case</title>
-<link>https://abcnews.com/US/trump-granted-new-chance-potentially-erase-hush-money/story?id=138391922</link>
-<guid isPermaLink="false">9e6453caeb67b8504583770ccbbe2cdfa956a6bd255ca196a12240bd076bae84</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 24 Nov 2026 00:01:43 +0000</pubDate>
-<description>An appeals court is giving President Trump a new chance to move his criminal hush money case into federal court, where he could then attempt to overturn his conviction.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/trump-7-ap-er-261123_1795472436653_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/trump-7-ap-er-261123_1795472436653_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Donald Trump given chance to erase his criminal record by appeals court</title>
+<title>Donald Trump given chance to erase his criminal record</title>
 <link>https://news.sky.com/story/donald-trump-given-chance-to-erase-his-criminal-record-by-appeals-court-13615829</link>
 <guid isPermaLink="false">d96612396208ca772e656c72c260501ca6dd0812afb20b92543a8a6ee883b398</guid>
 <source>Sky News Home</source>

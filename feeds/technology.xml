@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Improve your Starlink Wi-Fi speed with this app setting</title>
+<link>https://www.engadget.com/2321248/starlink-wifi-speed-split-network-app-setting</link>
+<guid isPermaLink="false">6e2856761cb995714306f963ebb8a3d4e583699478708a36a1fe4f268cb73647</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 23:00:00 +0000</pubDate>
+<description>See how a single setting in the Starlink app can improve your home internet speed, and figure out whether switching it on makes sense for your setup.</description>
+<enclosure url="https://www.engadget.com/img/gallery/improve-your-starlink-wi-fi-speed-with-this-app-setting/l-intro-1795012955.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/improve-your-starlink-wi-fi-speed-with-this-app-setting/l-intro-1795012955.jpg" medium="image"/>
+</item>
+<item>
+<title>Half of NASA's aging Mars fleet knocked offline by technical issues</title>
+<link>https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues</link>
+<guid isPermaLink="false">239d5156f08bd8a999d570ec84531155094dd2bd2943aa640196e57b128b0d78</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 22:50:11 +0000</pubDate>
+<description>Two of NASA's four missions operating at Mars have suspended science operations after encountering separate technical issues in recent weeks. The missions affected by the outages — hopefully temporary — are NASA's Perseverance rover and Odyssey orbiter. Both are operating beyond their original design lifetimes. Perseverance is in its sixth year exploring the surface of Mars, having collected rock and soil samples for eventual return to Earth. The rover is now studying the rim of a crater that once contained an ancient lake of liquid water. Odyssey arrived in orbit around Mars in 2001, and is the longest-lived Mars mission in history. Losing its voice The problem on Perseverance stems from the rover's communications system. The rover has two redundant UHF radios for high-rate communications with a fleet of orbiters that relay data to Earth. A separate X-band system is available for direct-to-Earth communications at a lower data rate. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg" medium="image"/>
+</item>
+<item>
+<title>Huawei is guilty of conspiracy to steal trade secrets, US jury rules</title>
+<link>https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules</link>
+<guid isPermaLink="false">0ab86c7870fee031f20ca608b43482e33d05a283ce42af4d544f6648c17490fe</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 22:40:07 +0000</pubDate>
+<description>The charges against the Chinese tech company date back to 2019.</description>
+<enclosure url="https://www.engadget.com/img/gallery/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/l-intro-1795559783.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/l-intro-1795559783.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft's historic cloud outage exposed an engineering “fog of war”</title>
+<link>https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war</link>
+<guid isPermaLink="false">76aca383ca5b948c9a10a07b0b11133c1de43d692c139df7c442677a5eb2e38c</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 22:36:28 +0000</pubDate>
+<description>According to internal memos reviewed by Reuters , Microsoft has declared a "Code Red" overhaul of its engineering response practices after the November 12 outage that lost access to Exchange Online, Teams, and Outlook for users worldwide. Per the memos, Microsoft 365 Core President Jason Henderson described the outage as having the most customer impact in the history of Exchange Online. In a separate memo, Henderson wrote that an urgent production fix in a recent incident took five to six days to reach worldwide saturation. Microsoft's target for its most urgent security fixes is to move from detection to safe worldwide deployment in one hour. "Needless to say, we aren't here yet," Henderson wrote. The memos, which Reuters reviewed but Microsoft has not published, outline the response to the November 12 disruption. The company's post-incident report , dated November 20, attributed the downtime to an undetected Windows scalability defect introduced in July, which caused lock contention in the gateway processes. A Teams traffic failover then dumped additional load onto infrastructure already under stress, as maintenance had left nearly 14 percent of gateway server capacity offline at the time of the incident. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured.jpg" medium="image"/>
+</item>
+<item>
+<title>Huawei found guilty of stealing trade secrets</title>
+<link>https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial</link>
+<guid isPermaLink="false">c8eac803e623f9c2d25cc89cf2d804e4787812e2263d3c4cf3636b6e09d0d5fd</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 22:23:27 +0000</pubDate>
+<description>A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg . The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile , Cisco, and Motorola. The Department of Justice's 2018 criminal indictment against Huawei came to light following the arrest of the company's CFO, Wanzhou Meng , whom the agency accused of fraud. Though the indictment against Meng was eventually dismissed, she admitted to misleading banks over Huawei's operations … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>GTA VI PC recompilation project shut down by Take-Two</title>
 <link>https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two</link>
 <guid isPermaLink="false">6cd9634b07ace6f4b22375ab7dee7bf018bd8a56d013fe05af0730751f13fb33</guid>
@@ -312,17 +367,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/testing-matic-cues-gesture-control.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Tidal will start banning AI-generated music next month</title>
-<link>https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</link>
-<guid isPermaLink="false">09e62d6e11167de49a84f0ef5391070e9d34331c0ec1e5ac633f5d0df89b133a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 17:17:09 +0000</pubDate>
-<description>Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen . The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated. In a post on X, Andersen says Tidal needed to take a more "drastic" measure, as AI music made up 43 percent of the tracks distributed to the platform in the last 90 days. "We believe this will resonate with both artists and listeners alike, as 96% of all AI-generated songs recei … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Why your MacBook desktop Spaces keep rearranging themselves and how to stop it</title>
 <link>https://www.engadget.com/2320960/macbook-desktop-spaces-rearranging-fix</link>
 <guid isPermaLink="false">7516d9301a1820599d35ec5f69f91f8628e7455319643149038dc2a83476cbd3</guid>
@@ -554,17 +598,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/disney-plus-hulu.jpg" medium="image"/>
 </item>
 <item>
-<title>Why the FAA doesn't want you to put AirPods in your luggage</title>
-<link>https://www.engadget.com/2320357/why-faa-doesnt-want-airpods-in-luggage</link>
-<guid isPermaLink="false">290e037a0464f71bb8698b653c03a93dbcadf6c26dbfda59955e5c93aac7be29</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 13:45:00 +0000</pubDate>
-<description>Here's what aviation regulators think about the AirPods in your luggage, plus a few tips that can get you and your gadgets through security faster.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-the-faa-doesnt-want-you-to-put-airpods-in-your-luggage/l-intro-1794925800.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-the-faa-doesnt-want-you-to-put-airpods-in-your-luggage/l-intro-1794925800.jpg" medium="image"/>
-</item>
-<item>
 <title>FCC proposes 'tit-for-tat' restrictions on foreign satellite operators</title>
 <link>https://www.theregister.com/networks/2026/11/24/fcc-proposes-tit-for-tat-restrictions-on-foreign-satellite-operators/5311889</link>
 <guid isPermaLink="false">304f08b389ece485c7c4d535fc128160f7dcf8fed78bedf2edfc22f69294ceae</guid>
@@ -574,17 +607,6 @@
 <description>The US Federal Communications Commission (FCC) will vote in December on proposals [PDF] that would restrict foreign satellite operators in the same way their home countries restrict US providers. The telecoms regulator says the move is to "ensure reciprocity and fair dealing" in the rules governing satellite operators. The main aim appears to be hitting back at European efforts to build up the region's own space communications industries. According to the FCC, the US has so far welcomed satellite systems licensed abroad on a level playing field, but that regulators elsewhere have begun holding US systems to different rules than they apply to their own domestic suppliers. "This has operated to the disadvantage of American satellite providers that are or may be burdened with regulatory and spectrum limitations that their competitors in foreign nations simply do not face," said FCC chairman Brendan Carr. The FCC has singled out the EU's Digital Networks Act , which proposes harmonized connectivity rules across the bloc. A separate proposal would overhaul authorization for mobile satellite services (MSS) in the 2 GHz band after existing rights expire in May 2027. Earlier this year, the FCC laid out some of its concerns, saying that EU-wide authorization of satellite spectrum would replace the national licensing by member states "with which US satellite operators have become accustomed," and could require wholesale relicensing of any US systems operating in Europe. "The FCC voting on foreign satellite companies is consistent with the Digital Networks Act, but is more of a response to the EU's decisions on how it plans to allocate the EU-wide 2 GHz spectrum," CCS Insight analyst Joe Gardiner told The Register . "The EU outlined in its proposal that, for two-thirds of the spectrum, only operators based in the EU with EU ownership and aligned with the EU's strategic goals will be considered for the spectrum. "This has locked out companies like SpaceX and Amazon Leo from attaining access to spectrum that is highly valuable for satellite direct-to-device services. The US government is looking to retaliate, to support the US constellations that would have attempted to win this EU-wide spectrum." Following an initial consultation in March, the FCC will vote in December on opening a rulemaking to reconsider how foreign-licensed satellite operators gain access to the US market. "It is time for this regulatory asymmetry to end," Carr said, adding that the FCC now proposes to mirror any regulations that foreign nations apply to American satellite providers. "If there are limits or restrictions on American providers operating abroad, then the notice proposes to apply those or similar regulatory restraints to satellite providers from those countries that are operating here." Britain is outside the EU, but does not escape the FCC's ire. The agency previously claimed the UK Space Agency allocates a significant portion of its budget, circa 75 percent in 2023/24, to E</description>
 <enclosure url="https://image.theregister.com/?imageId=4094220&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=4094220&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Why your smart TV keeps losing its Wi-Fi connection</title>
-<link>https://www.engadget.com/2320276/smart-tv-wifi-disconnecting-5ghz-fixes</link>
-<guid isPermaLink="false">0fc1ae25660b9c1204f0258e42cec972a0ed9189ecbac73108f303bfbdeebedf</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 13:15:00 +0000</pubDate>
-<description>Is your smart TV constantly dropping its Wi-Fi connection? Learn how to troubleshoot your router, clear network settings and stop buffering for good.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-smart-tv-keeps-losing-its-wi-fi-connection/l-intro-1794912555.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-smart-tv-keeps-losing-its-wi-fi-connection/l-intro-1794912555.jpg" medium="image"/>
 </item>
 <item>
 <title>Amazon says hackers' AI agents found and exploited 0-day with little human input</title>
@@ -752,17 +774,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k.jpg" medium="image"/>
 </item>
 <item>
-<title>Surveillance pricing uses our personal data to make us pay more</title>
-<link>https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more</link>
-<guid isPermaLink="false">d475d1892e13fd8a0fc59dc091327a37c4e757153a691ee015d67bb0c3b7ed7c</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 20:11:43 +0000</pubDate>
-<description>“It costs what it costs” is a mindset I’ve found useful when encountering a sizable, but highly necessary or desired, expense. The sentiment encourages me to accept the price because that’s the accepted value of the gadget, app, or service that I really need or want. But with surveillance pricing, that comfort is no longer a given. I could end up paying more for my TV because of where I am or more for a software subscription because of my age. Surveillance pricing leverages data collected from our web history , smart devices , and apps with the goal of getting us to pay more. That obfuscates the value of products, challenges smart shopping and budgets, and makes it harder for people to get products and services at a fair price. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1527415822.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1527415822.jpg" medium="image"/>
-</item>
-<item>
 <title>Claude can ship code for you now – how to try it (if you dare)</title>
 <link>https://www.zdnet.com/innovation/claude-ship-code-how-to-try</link>
 <guid isPermaLink="false">00d61abfad74335c7e2253be89d68cc36349a8f572d11e38adce09fa1cbc5068</guid>
@@ -772,17 +783,6 @@
 <description>Would you let a few Claude agents review and ship your code for you?</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271847888.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271847888.jpg" medium="image"/>
-</item>
-<item>
-<title>Amazon fights Delivery Protection Act by putting stickers on its packages</title>
-<link>https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages</link>
-<guid isPermaLink="false">a623625e86edac771d6c4d5a4d67d7d063acdca1eee43efe14e87d97386b3695</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 19:38:13 +0000</pubDate>
-<description>Amazon is placing a sticker on some of its delivery boxes to urge customers to oppose a New York City bill. This weekend, some Amazon shoppers reported getting a delivery from Amazon with a sticker on it that reads: “NYC Council could add up to $5 per order. Act now to protect low prices.” The sticker reportedly includes a QR code that leads to a link for contacting NYC Councilmembers. The sticker encourages the package’s recipient to “Scan to tell your council member: no increases for New Yorkers.” Amazon is looking to stoke opposition to Introduction 0518-2026 ( 518 ), also known as the Delivery Protection Act. The proposed law would require Amazon and other companies with last-mile delivery facilities in the city, such as FedEx, to directly employ third-party contractors Amazon uses for making deliveries. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/something-about-this-just-feels-off-to-me-v0-d584x10nr83i1-1152x648-1795460892.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/something-about-this-just-feels-off-to-me-v0-d584x10nr83i1-1152x648-1795460892.jpg" medium="image"/>
 </item>
 <item>
 <title>Bluetooth brakes are broken as researchers find anyone can control them</title>

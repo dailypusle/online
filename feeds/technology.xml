@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>This underrated Pixel feature is more versatile than you realize</title>
+<link>https://www.engadget.com/2321246/underrated-pixel-feature-more-versatile-realize-quick-tap</link>
+<guid isPermaLink="false">8e6d819faf563da09a18161aed6a1bc329b14e14b15cf7b01b44b6806b0701a3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 21:00:00 +0000</pubDate>
+<description>Google's Pixel phones have a very cool feature that will make your phone easier to use one-handed. Here's what it does.</description>
+<enclosure url="https://www.engadget.com/img/gallery/this-underrated-pixel-feature-is-more-versatile-than-you-realize/l-intro-1795017284.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/this-underrated-pixel-feature-is-more-versatile-than-you-realize/l-intro-1795017284.jpg" medium="image"/>
+</item>
+<item>
+<title>I gave Gemini access to my Wallet, and it immediately started saving me money</title>
+<link>https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence</link>
+<guid isPermaLink="false">b036f19874f030bd67ce4ab475ab231d2a90e7edee5abd2c0bef67b3962975f9</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 20:38:08 +0000</pubDate>
+<description>Gemini gave me a little tough love and told me what I needed to hear about my finances.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GoogleWallet_72b775.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GoogleWallet_72b775.jpg" medium="image"/>
+</item>
+<item>
+<title>What's going on with the Riemann hypothesis?</title>
+<link>https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis</link>
+<guid isPermaLink="false">ea655aef5669054dfec31f7c5ac4e50bb10e15244f0c17a8e609b8f8e3d15e46</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 20:34:53 +0000</pubDate>
+<description>Last week, news broke that a mathematician had used AI to help crack one of the biggest outstanding problems in math, a proof of the Riemann hypothesis . The news follows on several other major breakthroughs in math that have either been enabled by or managed entirely by Large Language Model-based systems, a development that has left the entire field of mathematics in a state of upset. It's too early to say much about the proof itself—mathematicians are still in the process of digesting it. But we can say a little about how the proof came about, and what it tells us about the state of math. Tackling Riemann The Riemann hypothesis dates from the mid-1800s and was formulated by (you will be surprised to learn) Bernhard Riemann. There's not an obvious way to describe the details of the actual hypothesis simply, but it has implications for the distribution of prime numbers. This gives it significance for areas ranging from number theory to cryptography. As Wikipedia accurately states, "It is considered by pure mathematicians to be one of the most important problems in the field." Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413.jpeg" medium="image"/>
+</item>
+<item>
+<title>TikTok was down</title>
+<link>https://www.theverge.com/tech/1041618/tiktok-down-outage</link>
+<guid isPermaLink="false">2faf2fedd6b84aa69fd67ca8a69910398e3fe0f7aa0f150227b53d80388e8bee</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 20:27:27 +0000</pubDate>
+<description>Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or on the web. Even trying to pull up a profile would show a blank page, while links to videos are dead in the water too. However, as of 3:45PM ET or so, things appear to be working normally again. Downdetector showed around 25,000 reports of issues at around 2:56PM ET, and many people on social media were saying that TikTok was down for them . "We … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Jensen Huang reportedly tells Nvidia staff it&amp;#8217;s ‘not true’ Trump got him rehired</title>
 <link>https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology</link>
 <guid isPermaLink="false">555529a69b5d605cd299198c83291b9aed8c58ef9a808ad58d4d83e03d6005ae</guid>
@@ -15,7 +59,7 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Measles death toll rises to 14 as national case tally nears 6,000</title>
+<title>Back-to-back measles deaths is our new reality; US tally now at 14</title>
 <link>https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000</link>
 <guid isPermaLink="false">35bd8d272963987e2baa159d39762481974d640cdd81435728297b9a276ab330</guid>
 <source>Ars Technica</source>
@@ -367,17 +411,6 @@
 <media:content url="https://www.engadget.com/img/gallery/commerce-department-adds-megaspeed-to-trade-blacklist/l-intro-1795536612.jpg" medium="image"/>
 </item>
 <item>
-<title>The New York Times warns photographers not to update Photoshop over AI features</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
-<guid isPermaLink="false">1bfb90103b3c1d8e3d87c8f4fa689f779fc4191ffc5abac373e7e67f807bf6b2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 16:09:23 +0000</pubDate>
-<description>The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI "in ways that may not be apparent to users." In an email seen by The Verge and posted on Threads , two of the Times ' photography leaders, Meaghan Looram and Josh Haner, write that the use of these features "can result in metadata identifying photographs as AI-generated." Adobe has spent the past few years filling Photoshop and other apps in its creative suite with a trove of AI-powered tools. The November update cited by the NYT 's email adds several new AI features, including Adobe's new "AI Assiste … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Homo erectus lived in the rainforest alongside Denisovans</title>
 <link>https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans</link>
 <guid isPermaLink="false">8d5fdf717370cb371b0750d590e8b66b44163a63bb2a3a2d9eecab65d08dddb9</guid>
@@ -464,17 +497,6 @@
 <description>Is your smart TV constantly dropping its Wi-Fi connection? Learn how to troubleshoot your router, clear network settings and stop buffering for good.</description>
 <enclosure url="https://www.engadget.com/img/gallery/why-your-smart-tv-keeps-losing-its-wi-fi-connection/l-intro-1794912555.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/why-your-smart-tv-keeps-losing-its-wi-fi-connection/l-intro-1794912555.jpg" medium="image"/>
-</item>
-<item>
-<title>Uber and Lucid start testing fully driverless rides for their robotaxis in San Francisco</title>
-<link>https://www.engadget.com/2326365/uber-and-lucid-start-testing-fully-driverless-rides-for-their-robotaxis-in-san-francisco</link>
-<guid isPermaLink="false">ba3cf436a988a9c1a2ecd3917eb74c53afdceaac6aae6c898b342b7161398585</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
-<description>Uber's Lucid-made robotaxis, powered by Nuro, are almost ready to give rides to the public.</description>
-<enclosure url="https://www.engadget.com/img/gallery/uber-and-lucid-start-testing-fully-driverless-rides-for-their-robotaxis-in-san-francisco/l-intro-1795524624.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/uber-and-lucid-start-testing-fully-driverless-rides-for-their-robotaxis-in-san-francisco/l-intro-1795524624.jpg" medium="image"/>
 </item>
 <item>
 <title>Amazon says hackers' AI agents found and exploited 0-day with little human input</title>
@@ -574,17 +596,6 @@
 <description>Amazon is placing a sticker on some of its delivery boxes to urge customers to oppose a New York City bill. This weekend, some Amazon shoppers reported getting a delivery from Amazon with a sticker on it that reads: “NYC Council could add up to $5 per order. Act now to protect low prices.” The sticker reportedly includes a QR code that leads to a link for contacting NYC Councilmembers. The sticker encourages the package’s recipient to “Scan to tell your council member: no increases for New Yorkers.” Amazon is looking to stoke opposition to Introduction 0518-2026 ( 518 ), also known as the Delivery Protection Act. The proposed law would require Amazon and other companies with last-mile delivery facilities in the city, such as FedEx, to directly employ third-party contractors Amazon uses for making deliveries. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/something-about-this-just-feels-off-to-me-v0-d584x10nr83i1-1152x648-1795460892.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/something-about-this-just-feels-off-to-me-v0-d584x10nr83i1-1152x648-1795460892.jpg" medium="image"/>
-</item>
-<item>
-<title>Reports: Russia may launch nuclear weapon into orbit as soon as next month</title>
-<link>https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought</link>
-<guid isPermaLink="false">b59c1a7f8d8778d5dc3b9f751491400fc5265f5a152996d17945f98e154f58f4</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 19:28:30 +0000</pubDate>
-<description>Western intelligence officials worry that Russia could launch a nuclear-armed satellite into orbit before the end of the year, suggesting the country's development of a satellite-killing weapon of mass destruction is more advanced than previously thought, German media reported Monday. The orbiting nuclear weapon would threaten thousands of satellites in low-Earth orbit, including military and commercial communications networks like Starshield and Starlink. A nuclear-armed satellite would also put at risk Western military surveillance satellites and human spaceflight platforms like the International Space Station. A nuclear detonation in orbit would be indiscriminate, also knocking out Russia's own spacecraft and Chinese satellites. US lawmakers briefed on government intelligence first disclosed Russia's ambition to deploy a space-based nuclear weapon in early 2024 . At the time, US officials said Russia had launched a test satellite in 2022 to test the effects of radiation on space hardware and pave the way for a future nuclear-armed craft, but that Russia had not yet sent a nuclear weapon into orbit. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886.jpg" medium="image"/>
 </item>
 <item>
 <title>How to save your Google Nest app videos before the January shutdown</title>
@@ -816,16 +827,5 @@
 <description>Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg" medium="image"/>
-</item>
-<item>
-<title>Goodbye, Gemini Gems: How to use Google’s new Skills – and share them</title>
-<link>https://www.zdnet.com/business/gemini-gems-google-skills-transition</link>
-<guid isPermaLink="false">5c61812ff74d5857155cd235171cc2cde039ccfb83d720883b8456ea2996b19b</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 19:54:04 +0000</pubDate>
-<description>Google is retiring Gemini Gems. Here’s what to do to access the same tools as Skills.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2295330247.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2295330247.jpg" medium="image"/>
 </item>
 </channel></rss>

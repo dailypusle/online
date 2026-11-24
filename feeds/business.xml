@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%</title>
+<link>https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain</link>
+<guid isPermaLink="false">29507f031a1db7a61c36d8ab78143282fc633b691d4c4383f0fe3b2d381272e0</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 07:41:50 +0000</pubDate>
+<description>BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Here’s what happened in crypto today</title>
 <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
 <guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
@@ -59,15 +70,26 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85DS27NQE002XJJS1QRWYQV/hi-eth-dragon-fire.jpg" medium="image"/>
 </item>
 <item>
-<title>Britain's landlords are getting bigger. A two-tier rental market may follow</title>
+<title>Why the rise of the corporate landlord could lead to a two-tier rental market</title>
 <link>https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">d116c3d9f1d390741d8251edbb9d7af80c57205d89620048b1bfed096a75d165</guid>
 <source>BBC Business</source>
 <category>business</category>
 <pubDate>Tue, 24 Nov 2026 00:28:48 +0000</pubDate>
-<description>Increasing numbers of corporate landlords could usher in big changes for renters</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
+<description>Companies building flats that they then rent out could usher in big changes for renters</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
+</item>
+<item>
+<title>BBC secret filming shows dog breeder selling sick puppies for £2k each</title>
+<link>https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">f53d7a9d4f31c892a618b64c48c63217a33fe77fc02dedfa2480cbcf204de8f2</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 00:11:08 +0000</pubDate>
+<description>The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg" medium="image"/>
 </item>
 <item>
 <title>I pay £250 a month for someone else to do my life admin - it's worth it</title>
@@ -1016,17 +1038,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg" medium="image"/>
 </item>
 <item>
-<title>South Korean exchanges halt CYBER transfers amid suspected bridge exploit</title>
-<link>https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit</link>
-<guid isPermaLink="false">06d3b9f737f6a4954e4b39e47c04247f427c34343c8f3af470d071e8bff9ec03</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 22 Nov 2026 07:24:05 +0000</pubDate>
-<description>Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png" medium="image"/>
-</item>
-<item>
 <title>MP criticises Guernsey and Jersey company ownership register plans</title>
 <link>https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">ea9526b5723a2b32cbc4599a87c25f370a7ce09bf92db072e9f2667d83f2367b</guid>
@@ -1410,6 +1421,17 @@
 <description>As the rise of AI-generated advice makes human guidance more desired, investments in hospitality training for PNC employees will “be worth 10x a year from now,” an executive said.</description>
 <enclosure url="https://imgproxy.divecdn.com/y0YLdqYxDN2yLV72iubjgDbAAAPwL5YvX6cNlI6JI0E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTkMtRmxvd2VyLU1vdW5kLUludGVyaW9yLmpwZw==.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/y0YLdqYxDN2yLV72iubjgDbAAAPwL5YvX6cNlI6JI0E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTkMtRmxvd2VyLU1vdW5kLUludGVyaW9yLmpwZw==.webp" medium="image"/>
+</item>
+<item>
+<title>Supreme Court spurns Custodia’s master-account fight</title>
+<link>https://www.bankingdive.com/news/custodia-supreme-court-deny-petition-fed-master-account-access-waller/875102</link>
+<guid isPermaLink="false">b502aac5164fee4f115d92ed4ee47ea4c416e21405cdea14adb6d2acfc9278b9</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 18 Nov 2026 19:48:34 +0000</pubDate>
+<description>The high court denied the Wyoming digital lender’s petition to access Federal Reserve rails, leaving intact a barrier to entry in the payment system.</description>
+<enclosure url="https://imgproxy.divecdn.com/8sUWwgd_ZTPEW6fvAIgsHBVkFa9nh6Z9tr8w8fP6m8I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ3NDg5MjczLmpwZw==.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/8sUWwgd_ZTPEW6fvAIgsHBVkFa9nh6Z9tr8w8fP6m8I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ3NDg5MjczLmpwZw==.webp" medium="image"/>
 </item>
 <item>
 <title>Europe plans to catch the next computer chip wave</title>

@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>CFTC staff say exchanges can count Bitcoin toward operating reserves</title>
+<link>https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves</link>
+<guid isPermaLink="false">9ba3958a034f46674cd6766cf7b3c5b7b924864e6d753797fd79e85a3531c556</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 23:43:34 +0000</pubDate>
+<description>The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85B9CDHGAHS6MHGSVMX0BWZ/hi-report-suggests-women-underrepresented-on-memecoin-market-structure-cftc.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85B9CDHGAHS6MHGSVMX0BWZ/hi-report-suggests-women-underrepresented-on-memecoin-market-structure-cftc.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'</title>
+<link>https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">25d043b118adad46fcdfb8127df291055126b8f20d6b6399eb48b20b843d88f5</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 23:10:27 +0000</pubDate>
+<description>Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg" medium="image"/>
+</item>
+<item>
+<title>China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size</title>
+<link>https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size</link>
+<guid isPermaLink="false">380575272c74da7b0a3beb138f93ac5576daf9a868b22011a1110d12a7734d35</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 23:06:02 +0000</pubDate>
+<description>GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-brain-hand-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-brain-hand-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses</title>
 <link>https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses</link>
 <guid isPermaLink="false">f9854152ebb14b9ddb9fd32e69bf0c0b445b3af384f72e6f87a7ea2b38d93a89</guid>
@@ -1038,17 +1071,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg" medium="image"/>
 </item>
 <item>
-<title>Hong Kong pushes to bring crypto custodians, advisers under licensing rules</title>
-<link>https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill</link>
-<guid isPermaLink="false">fa2e228887f202439b4a1a25f58b9038c4d6aa584c86af94be100faa259ad5c2</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sat, 21 Nov 2026 05:40:35 +0000</pubDate>
-<description>Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg" medium="image"/>
-</item>
-<item>
 <title>Can AI really help spot Black Friday deals? We put it to the test</title>
 <link>https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">47de4a29b250ca717d7b1348dffe61d992d209cffeb4ac491af26459d02ac04e</guid>
@@ -1333,17 +1355,6 @@
 <description>Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature</title>
-<link>https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature</link>
-<guid isPermaLink="false">513b72e25ec83a94c7dd31f0403070d303b72cf482e7d540a5ef17b30ad8c1b3</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 20:46:02 +0000</pubDate>
-<description>A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>6 highlights of the OCC’s plan for AI, charters and community banks</title>

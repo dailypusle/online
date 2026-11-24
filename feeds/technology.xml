@@ -4,6 +4,105 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why your smart TV keeps losing its Wi-Fi connection</title>
+<link>https://www.engadget.com/2320276/smart-tv-wifi-disconnecting-5ghz-fixes</link>
+<guid isPermaLink="false">0fc1ae25660b9c1204f0258e42cec972a0ed9189ecbac73108f303bfbdeebedf</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 13:15:00 +0000</pubDate>
+<description>Is your smart TV constantly dropping its Wi-Fi connection? Learn how to troubleshoot your router, clear network settings and stop buffering for good.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-your-smart-tv-keeps-losing-its-wi-fi-connection/l-intro-1794912555.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-your-smart-tv-keeps-losing-its-wi-fi-connection/l-intro-1794912555.jpg" medium="image"/>
+</item>
+<item>
+<title>Uber, Nuro, and Lucid kick off fully driverless robotaxi testing</title>
+<link>https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area</link>
+<guid isPermaLink="false">168dc9e0fda6e685b93a00e2e1ddb207064a8d85f4cb7ddcff9ef7d822ab6991</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
+<description>Uber's high-stakes robotaxi bet is officially ditching its human safety net. Nuro, Lucid, and Uber are starting fully driverless public road testing in the San Francisco Bay Area, with employee-only rides launching shortly after. First announced in July 2025 , this three-way alliance represents Uber's aggressive comeback in autonomous ride-hailing, after having abandoned its own troubled in-house efforts years ago . By pulling human safety operators from behind the wheel of Lucid Gravity SUVs, the companies say they are clearing a critical hurdle toward a public launch. That debut is now slated for early 2027, marking a slight slip from the p … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Driverless-Image-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Driverless-Image-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Uber and Lucid start testing fully driverless rides for their robotaxis in San Francisco</title>
+<link>https://www.engadget.com/2326365/uber-and-lucid-start-testing-fully-driverless-rides-for-their-robotaxis-in-san-francisco</link>
+<guid isPermaLink="false">ba3cf436a988a9c1a2ecd3917eb74c53afdceaac6aae6c898b342b7161398585</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
+<description>Uber's Lucid-made robotaxis, powered by Nuro, are almost ready to give rides to the public.</description>
+<enclosure url="https://www.engadget.com/img/gallery/uber-and-lucid-start-testing-fully-driverless-rides-for-their-robotaxis-in-san-francisco/l-intro-1795524624.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/uber-and-lucid-start-testing-fully-driverless-rides-for-their-robotaxis-in-san-francisco/l-intro-1795524624.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon says hackers' AI agents found and exploited 0-day with little human input</title>
+<link>https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input</link>
+<guid isPermaLink="false">44bd775b8ffe162aa816a6f064a380684d98e649b7b5a1d1ae9d860bb611fb8d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 12:30:05 +0000</pubDate>
+<description>Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server. The agents were running on Cairn, an open source AI penetration-testing framework. The hackers, who provided prompts in simplified Chinese and configured the model to the Chinese Standard Time zone, gave the agents a list of IP addresses and the goal: “obtain shell access.” In short order, the agents discovered a zero-day in an open source medical imaging AI application running on one of the target servers. The agents then exploited the vulnerability and gained full control of the system. “These findings show that agentic offensive operations are already happening, and defenders should prepare for the speed and persistence these tools enable,” Amazon said . Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg" medium="image"/>
+</item>
+<item>
+<title>CrowdStrike splashes $44B on Zscaler, customers brace for the bill</title>
+<link>https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877</link>
+<guid isPermaLink="false">95d6be49a516ef0634d47cdb5e604bb5deccd93ac8dea3ca8f5a8f678f554e44</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 12:22:17 +0000</pubDate>
+<description>CrowdStrike has agreed to buy Zscaler for $43.9 billion in what would be the biggest cybersecurity acquisition on record, and customers are already bracing for pricier renewals. The all-stock deal, announced on Monday , will see Zscaler shareholders receive 1.135 CrowdStrike shares for every share they own, representing a 34 percent premium on Friday's closing price. The transaction dwarfs even Google's $32 billion acquisition of cloud security upstart Wiz . Buying Zscaler gives CrowdStrike a sizeable foothold in the network security market, where it will be going up against the likes of Palo Alto Networks and Fortinet. The plan is to combine Falcon's endpoint protection capabilities with Zscaler's zero-trust network security technology, giving customers a single platform for securing devices and the connections between them. Naturally, there's an AI angle to the biggest cyber deal in history. CrowdStrike reckons owning both technologies will allow it to keep tabs on what AI agents are doing on corporate devices, where they're connecting, and what data they're getting their hands on. CrowdStrike CEO George Kurtz described the proposed combination as "cybersecurity’s operating system." The acquisition also gives CrowdStrike's salespeople plenty to get excited about. Around 8,000 Zscaler customers don't currently buy CrowdStrike's wares, and the companies already have more than 2,000 customers in common. CrowdStrike reckons it can boost its annualized revenue by around $1 billion within 30 months of closing the deal by selling more products to the two companies' existing customers. Some of those customers, however, don't sound particularly keen on being cross-sold to. Over on Reddit's r/sysadmin subreddit, news of the purchase was met with a familiar set of concerns from IT professionals who've lived through big-ticket enterprise software acquisitions before. "As a zscaler customer, this does worry me. Cost increase, forced move to Falcon, integration issues, etc," wrote one sysadmin. Another, whose organization already uses both vendors' products, added: "I think they're both great products but I imagine they'll jack up the price for our next renewal. Fun." CrowdStrike intends to make Zscaler's products available through its Falcon Flex licensing scheme, which allows customers to commit to a certain level of spending and pick and choose the products they deploy. Monday's acquisition announcement didn't spell out what the deal would mean for customers who want to continue using Zscaler alongside a rival endpoint security product. Others raised concerns about the fate of Red Canary, the managed detection and response specialist snapped up by Zscaler in August 2025. CrowdStrike already operates a competing service in Falcon Complete. There may also be some nervous employees at both companies. CrowdStrike is targeting $500 million in annual cost savings within two years of completing the acquisition, identifying datacenter infrastructure, supplier spe</description>
+<enclosure url="https://image.theregister.com/?imageId=252462&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=252462&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>One terminal command gave my forgotten Android device a desk job</title>
+<link>https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job</link>
+<guid isPermaLink="false">17e578298cde8481116fb6bebdd58539e6fbe2e2c5d9cff79cef108da08b659a</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 12:15:38 +0000</pubDate>
+<description>My kitchen junk drawer used to hold takeout menus and coupons, but it has since become a storage spot for old tablets or phones. Like me, you probably have a few devices lying around that are perfectly functional, but might not meet your daily driving needs. It's tucked away out of view, meant to live out the rest of its life in a drawer before finally being cleaned out and donated the next time someone opens the drawer and asks why you're holding on to outdated, unused devices. Thankfully, PhoneBox has a solution. You weren't hoarding old tech; you were waiting for the proper use. The PhoneBox home screen displays useful stats and what's currently playing in your browser. Credit: Nick Indge I had an old AllDoCube iPlay 50 mini Pro 8.4-inch tablet that seemed like the perfect candidate. I bought the tablet second-hand as a possible big-screen gaming and emulation tablet to use with a telescopic control deck, but I quickly found I vastly preferred just using a dedicated device. Since that realization, this decent little unit has lived its life like so many other forgotten devices in a drawer. Launch applications on your PC from the connected Android device. Credit: Nick Indge Installation is a doddle Getting PhoneBox up and running on my tablet and PC couldn't have been any simpler. After making sure that the Android tablet was in developer mode, the process was as simple as plugging the tablet into my PC via USB and executing a single copied command in my Linux terminal. The script downloaded the PhoneBox 0.9.29 software for my PC, verified the downloaded checksum against the release, and walked me through a few quick Y/N installation questions. The script offers to create a systemd user service so the desktop agent launches after initial login, and even asks if you'd like it to install the PhoneBox APK to your connected Android device. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PhoneBox_Tablet_Home_Screen_TYS.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PhoneBox_Tablet_Home_Screen_TYS.jpg" medium="image"/>
+</item>
+<item>
+<title>GTA 6 is the biggest PlayStation launch of all time</title>
+<link>https://www.engadget.com/2326351/grand-theft-auto-6-is-the-biggest-playstation-launch-of-all-time</link>
+<guid isPermaLink="false">34403eadfa79800a35b941921752f80a8e13b46b8acb0ed0e642f74d781dd0c8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 12:09:54 +0000</pubDate>
+<description>Sony says GTA 6 is the biggest launch in PlayStation history, across five generations of consoles.</description>
+<enclosure url="https://www.engadget.com/img/gallery/grand-theft-auto-6-is-the-biggest-playstation-launch-yet/l-intro-1795522019.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/grand-theft-auto-6-is-the-biggest-playstation-launch-yet/l-intro-1795522019.jpg" medium="image"/>
+</item>
+<item>
+<title>Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic</title>
+<link>https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation</link>
+<guid isPermaLink="false">e80f6ff9a249b4855112b3c9e892c0b32026a0dfe8027b96cf9257925e5a20a5</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 12:00:57 +0000</pubDate>
+<description>Ukrainian explosive naval drones sank a Russian warship docked in the port city of Benghazi in Libya while also striking a Russian cargo ship that it was escorting. The incident demonstrates the expanding scope of Ukrainian military strikes on Russian ships from the coast of North Africa to the Gulf of Finland. The Russian Navy’s missile corvette Merkury sank at port after being struck by at least two Ukrainian naval drones on November 22, according to The Associated Press . Ukraine’s Security Service described using seven naval drones launched from a mother ship to target the Merkury , and Ukrainian President Volodymyr Zelenskyy shared video footage showing the drone boats approaching and exploding against both the burning Russian warship and a Russian dry cargo ship, MV Angara . Zelenskyy noted that a Ka-27 combat helicopter onboard the Merkury was also destroyed. He described the cargo ship MV Angara as transporting weapons—Russia provides material support to the Libyan National Army that currently controls Benghazi and is battling the internationally recognized Libyan government based in Tripoli. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/merkury-fire_benghazi-libya_20261122_054739_ssc4_rgb_flat_50cm_1920px_logo_geo-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/merkury-fire_benghazi-libya_20261122_054739_ssc4_rgb_flat_50cm_1920px_logo_geo-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>European Commission confirms personal data stolen in AI-assisted cyberattack</title>
+<link>https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834</link>
+<guid isPermaLink="false">2a07f630263b44a940c83d94b674d93e8755334ac1edd1788b445ecbd472ebfa</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 11:32:41 +0000</pubDate>
+<description>The European Commission has confirmed that hackers made off with personal data in the AI-assisted cyberattack disclosed last week, but has relied on a website notice rather than contacting affected users directly. Speaking at a press briefing on Monday , Commission spokesperson Thomas Regnier confirmed that EU Academy, an online learning platform offering courses on EU policies and initiatives, was among the systems compromised during the cyber campaign targeting the bloc's executive arm. The stolen data includes the names and email addresses of people outside the EU institutions, though the Commission has yet to figure out how many users are affected or whether other personal information was compromised. Public access to the platform has been disabled as a precaution. Despite confirming the theft, the Commission hasn't contacted affected individuals directly. Instead, it has posted a notice on the EU Academy website, a decision Regnier defended when quizzed by reporters on Monday. "There was no reach out to individual users, but rather a general message to all users on the website out of transparency," Regnier said. The notice warns users that they could find themselves on the receiving end of spearphishing attacks, impersonation attempts, and spam as a result of the breach. The Commission is also advising users not to hand over personal information to anyone who contacts them claiming to be involved in EU Academy activities. The trouble with notifying users via the EU Academy website is that they've already been told not to come back until January. A separate notice says the platform will be offline from November 11 through January 14, 2027, while the Commission rebuilds it. When it reopens, users will have to register again, and any record of their previous coursework won't be transferred. The Register has asked the Commission whether the downtime and the requirement to create new accounts are connected to the cyberattack.A spokesperson didn't answer those points. The Commission has informed the European Data Protection Supervisor (EDPS), the watchdog responsible for policing EU institutions' handling of personal data. The EDPS told The Register that the Commission had notified it of the incident in stages, but declined to say whether it considered the Commission's approach to notifying affected users sufficient. "I can confirm that the EDPS has been informed and notified in phases by the European Commission," a spokesperson said. "Our colleagues remain in regular contact with EC services on the cyberattack and its implication. This is an ongoing case, so I cannot tell you more at this stage on the actions the EDPS might take as supervisory authority." The Commission first publicly acknowledged the cyberattack last Thursday , almost a month after suspicious activity was detected on October 22. Several internal applications were temporarily taken offline, and while most had since been restored, some remained unavailable at the time of Thursday'</description>
+<enclosure url="https://image.theregister.com/?imageId=5311112&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5311112&amp;width=1280" medium="image"/>
+</item>
+<item>
 <title>OpenAI employee who secretly recorded meetings allegedly affiliated with the Saudi government</title>
 <link>https://www.engadget.com/2326288/openai-employee-recorded-meetings-allegedly-affiliated-saudi-government</link>
 <guid isPermaLink="false">be4a0cbabc2b9121b9253bf6d526db88ea4d4d82d0a78b378155d83ee5ad00a6</guid>
@@ -312,17 +411,6 @@
 <media:content url="https://www.engadget.com/img/gallery/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/l-intro-1795466976.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple renews Ted Lasso for season 5</title>
-<link>https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv</link>
-<guid isPermaLink="false">a5308ba62a5f2de2373c117ec5fedd078c161f00d5a5c9f67899639635799f57</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 20:56:00 +0000</pubDate>
-<description>One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a "record-breaking season four debut." There are currently no details about the new season nor when it might debut. Ted Lasso has proven to be one of the tentpole series for Apple TV, and it returned in 2026 after a three-year hiatus. While the season 3 finale seemed to mark the end for the show , season 4 introduced a new cast of characters with head coach Ted - played by Jason Sudeikis, who also just appeared as a voice actor in Grand Theft Au … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ted_Lasso_Photo_041001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ted_Lasso_Photo_041001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>GTA 6 player gets social ban on PSN after sending a photo of in-game nudity</title>
 <link>https://www.engadget.com/2325800/gta-6-player-gets-social-ban-on-psn-after-sending-a-photo-of-in-game-nudity</link>
 <guid isPermaLink="false">ba12f87ba86a1cadd75bac6934b3bbddb153a4adf993483be973ce207c989d1d</guid>
@@ -464,39 +552,6 @@
 <description>The SlideTag will come in a blind box with nine fun designs.</description>
 <enclosure url="https://www.engadget.com/img/gallery/kodaks-slidetag-combines-a-digital-photo-frame-and-an-airtag/l-intro-1795461541.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/kodaks-slidetag-combines-a-digital-photo-frame-and-an-airtag/l-intro-1795461541.jpg" medium="image"/>
-</item>
-<item>
-<title>These underrated smart rings are more affordable than the Oura Ring 5</title>
-<link>https://www.engadget.com/2320286/underrated-smart-rings-more-affordable-oura-ring-5</link>
-<guid isPermaLink="false">4bb657ad6ebf329628350d50671c815bcd24bb96241ab7988e5f82cfc1e61ade</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 19:00:00 +0000</pubDate>
-<description>Find out how affordable smart rings compare with the Oura Ring 5 on upfront price and long-term cost and know which trade-offs come with paying less.</description>
-<enclosure url="https://www.engadget.com/img/gallery/these-underrated-smart-rings-are-more-affordable-than-the-oura-ring-5/l-intro-1794494729.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/these-underrated-smart-rings-are-more-affordable-than-the-oura-ring-5/l-intro-1794494729.jpg" medium="image"/>
-</item>
-<item>
-<title>Uber now lets riders request drivers who are recording their trips</title>
-<link>https://www.engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips</link>
-<guid isPermaLink="false">78934448b26c55b0f5e1a15fdf7b30e64cac0d99fded886ddbe590ad578fed2b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 18:24:49 +0000</pubDate>
-<description>Uber's Recorded Rides option is rolling out to Baltimore, Raleigh, Indianapolis and St. Louis first.</description>
-<enclosure url="https://www.engadget.com/img/gallery/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/l-intro-1795457566.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/l-intro-1795457566.jpg" medium="image"/>
-</item>
-<item>
-<title>How to clear the cache on your Fire TV</title>
-<link>https://www.engadget.com/2320174/how-to-clear-cache-fire-tv</link>
-<guid isPermaLink="false">761c2ed4a91fb6856d1d0bb2ab251d2180b460363f949aaa37b9d3f3047dae41</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 18:15:00 +0000</pubDate>
-<description>Cache keeps software running smoothly, but can lead to problems if it gets too big and your device runs out of storage - which is quite easy with Fire TV.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-fire-tv/l-intro-1794985217.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-fire-tv/l-intro-1794985217.jpg" medium="image"/>
 </item>
 <item>
 <title>Critical Cisco remote code execution bug under attack</title>
@@ -950,28 +1005,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757.jpg" medium="image"/>
 </item>
 <item>
-<title>Google rolls out new search homepage with AI chat history and no search button</title>
-<link>https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar</link>
-<guid isPermaLink="false">ff62a6d0a83feae45bdbdd571d10f1d6ece7a9b1d524ba6843d1e8d1fc4494d4</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 21:58:29 +0000</pubDate>
-<description>Google's flagship search experience is evolving into an AI experience with stunning speed. Even time-tested elements of search are getting AI makeovers, and the latest to get this treatment is the search homepage on Google.com. A redesign that has been in testing for the past few weeks is now official, bringing easier access to AI chats and dropping the dedicated search button entirely. Google search VP Robby Stein confirmed on X that Google is deploying the new desktop search page after a successful test. The page will now have a few more buttons under the search bar, all connected to AI features. There's an image-generation button, one for analyzing files, and one for brainstorming with Gemini. The "I'm Feeling Lucky" button remains, but the Google Search button that sat next to it is gone. The search button has obviously been a part of Google's search page forever. However, it wasn't in a very convenient location in the modern interface. When you begin typing a query, the autocomplete suggestions cover that button. You have to click out of the text field to access the button, which is an extra step compared to simply mashing the Enter key to run your search. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo.jpg" medium="image"/>
-</item>
-<item>
-<title>Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers</title>
-<link>https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers</link>
-<guid isPermaLink="false">66eae4612900f2e7c8ef527f9fee1c6d71f284c4e498c1c6d3b99c717516629d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 21:47:10 +0000</pubDate>
-<description>Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030. That revelation in Meta’s latest sustainability report comes as the company reported a record percentage increase in greenhouse gas emissions that exceeds any other Big Tech competitor racing to build new AI data centers. The company’s 2026 sustainability report claims that “our long-term ambitions haven’t changed, but our operating environment has,” according to an introduction from Rachel Peterson, vice president of data centers at Meta, and Blair Swedeen, global head of net zero and sustainability at Meta. In the November 19, 2026, report, they attributed the changing conditions and the need for a rethink to how “demand for AI infrastructure has grown faster than almost anyone projected.” “We are re-evaluating our timelines, sequencing, and interim milestones—including the 2030 timeframe for our net zero emissions goal and our near-term intensity targets—so our approach reflects current operating realities while keeping progress transparent year over year,” Peterson and Swedeen wrote in the report. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers</title>
 <link>https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478</link>
 <guid isPermaLink="false">527b531a96b5460cb29d3211af1942e9bd408dc003996f5c9119989d6405004f</guid>
@@ -981,17 +1014,6 @@
 <description>Visa and Mastercard customer info leaked by the data thieves and extortionists who claim to have stolen it from the financial giants doesn’t include card numbers, passwords, or home addresses. On Thursday, Visa, Mastercard, and JPMorgan Chase confirmed to The Register that they are investigating third-party breaches that may involve customer information. Ransomware and extortion crew n0n claimed to be responsible for all three, and on Thursday published samples of the stolen files – data-theft groups typically leak some of the compromised data ahead of the official extortion deadline in an effort to put more pressure on victim companies to pay the ransom demand. Researchers at SOCRadar, a threat-intelligence firm that has been tracking n0n since it emerged in September, have parsed all 14 files in the n0n’s published Visa and Mastercard archives, and told us that the files don’t contain any financial details belonging to banking customers. “We found no card numbers, expiry dates, CVVs, passwords, dates of birth, or home addresses in any file,” Ensar Seker, SOCRadar chief information security officer, told The Register . “Visa's statement that no card numbers were affected matches our scan.” Mastercard previously said that stolen data included a “limited amount of email addresses – non-payments information” from a subset of cardholders in a benefits program. According to SOCRadar’s analysis, the leaked files do contain mobile numbers, Bank Identification Number (BIN) prefixes, and dated airline, hotel, and restaurant bookings. So while the data doesn’t include card or account numbers that crooks could use to drain customers' bank accounts or rack up massive credit card bills, “that detail is what a fraudster needs to pose as a concierge desk or a bank,” in an email or voice-phishing social engineering attack, Seker said. It’s also worth noting that the published files only represent about 0.4 percent of the data n0n claims to have hoovered up in the breach: about 4.3 GB and 1.9 million marketing events. “So a further release is possible,” according to Seker. Plus, both datasets come from the same upstream provider, we’re told. They use the same 27-column booking layout, placeholder text, and CRM ID format, Seker said, noting that the most recent record in each stops 69 seconds apart on Oct 26. “This looks like two card programs run on one provider's platform,” he said. “The pattern looks like a batch copy from a marketing and reporting store.” Customer data has left the building The security shop hasn’t analyzed the Chase customer data that n0n also claimed to have published. All three financial firms attributed the compromises to a third-party provider, and while nothing in the stolen files name the vendor, the timing matches up with a Qubole supply-chain campaign disclosed earlier this month by Wiz, working with Google's Mandiant incident responders and AI data security company Sentra. In that attack, which the threat hunters said began on Octob</description>
 <enclosure url="https://image.theregister.com/?imageId=5311482&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311482&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</title>
-<link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate</link>
-<guid isPermaLink="false">f22d46a83ecd25c4b9af6d0ff25f287b78e78bcd7a1a6874250934d6587d79ee</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
-<description>Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services to find out what happened to sensitive information entrusted to them. What they discovered was an ecosystem that leaked highly sensitive data like a sieve. The exposure was found through an ingenious experiment designed to test if sensitive information can leak through the vast chain of widely used AI services and how that information is exploited when it does. Many of today’s AI apps use services such as OpenRouter or Vercel that act as brokers. These “AI routers,” sometimes also known as “AI gateways,” receive large numbers of prompts sent from AI app end users and route them to an available inference engine based on criteria such as the one charging the lowest price or being best suited for the given task. Instead of using Anthropic, OpenAI, or another big provider, the developer hires an AI router to find the most suitable model. Update, Nov 21: Posts on both Hacker News and X report that OpenRouter has sent customers an email notifying them that some of their prompts may have been read. OpenRouter cited the research and said that it received a report that the potential exposure involved prompts sent to MiniMax, a China-based model provider. OpenRouter said the researchers' planted URLs were accessed whether the prompts were sent to MiniMax directly or through three other resellers: AtlasCloud, Novita, and StreamLake. OpenRouter has removed a "Zero Data Retention" label from MiniMax-model endpoints. Hat tip: Sulat.com . Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage.jpg" medium="image"/>
 </item>
 <item>
 <title>Signal slams door on prying AI agents to protect privacy</title>
@@ -1113,50 +1135,6 @@
 <description>The Investigatory Powers Tribunal (IPT) has confirmed that the UK government served Apple with a secret Technical Capability Notice (TCN), rejecting the Home Office's argument that acknowledging its existence would damage national security. The order has been widely reported as demanding access to end-to-end encrypted iCloud data. The three judges pointed to extensive public reporting, statements by US officials, and media briefings they concluded had been authorized by the UK government. The Home Office had previously adopted its "neither confirm nor deny" (NCND) policy, as is standard when discussing national security matters. The story broke in February 2025, when The Washington Post reported that the Home Office had demanded an iCloud backdoor the previous month. A TCN is a notice issued under the Investigatory Powers Act 2016, which compels recipients, such as tech companies, to implement technical changes that facilitate the UK government's legal surveillance powers. For Apple, a company that has long made privacy central to its marketing, and famously rejected an FBI order to break open an iPhone to assist a terror probe, being served the TCN meant it either had to somehow defy a legal order issued by the UK, or undermine the encryption technology that customers expected. While it remained officially unconfirmed at the time, Apple's decision to revoke Advanced Data Protection (ADP) for UK users in February 2025 was widely interpreted as indirect confirmation of the demand. At the same time, US policymakers urged then-director of national intelligence Tulsi Gabbard to oppose the UK's demands under the assumption that they also sought to backdoor Apple's data in a way that would affect US citizens. In August 2025, Gabbard announced that the UK had agreed to drop its demand for access to Americans' encrypted data. ADP is still available to users in the US. Apple's ADP extends end-to-end encryption to additional categories of iCloud data, including backups, photos, and notes. Only trusted devices retain access to the relevant encryption keys, leaving Apple unable to decrypt that protected content for investigators. Without ADP, those additional categories revert to standard protection: the data remains encrypted, but Apple holds the keys and can disclose content in response to valid legal demands. Some categories remain end-to-end encrypted regardless. Apple has an explainer on what data types remain end-to-end encrypted, even without ADP enabled, and those that are not. What the judgment does not confirm While the IPT's judgment confirms that the Home Office served Apple with a TCN, judges have yet to decide whether key details about the case can be made public. "Although there has been extensive media coverage and public statements about the existence of a technical capability notice, there has been no publication of its precise content," the judgment stated. "All parties recognize that there may be matters of detail that must be kept secret</description>
 <enclosure url="https://image.theregister.com/?imageId=5220278&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5220278&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Windows 11 passkey bug cries failure after successful sign-in</title>
-<link>https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263</link>
-<guid isPermaLink="false">81d32fb1add0942f89f20e77d0befcb1a2a07eee658f91c75fe5a8273d1761b3</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 11:09:44 +0000</pubDate>
-<description>A Windows 11 passkey bug can leave Android phones announcing that authentication failed even when it succeeded. Microsoft has now released a fix for versions 25H2 and 26H2. The problem occurs when users sign in on a Windows 11 PC using a passkey stored on an Android phone. Scan the QR code, and the Android device might display the message: "Something went wrong. Restart the process on your other device and try again." Except it might not have gone wrong at all. Microsoft's guidance explains: "In cases where authentication completes successfully on the Windows device, the error message on the Android device is not supposed to appear and can be safely ignored." Cross-device authentication lets users sign in on one device using a passkey held on another, without typing a password or copying a verification code. Microsoft says the issue affects operations using Microsoft Authenticator and Google Password Manager, and can occur in Edge or Chrome – not just when signing in through Microsoft Entra ID. Cross-device passkey operations with an iPhone aren't affected. An authentication system that cries failure after a successful sign-in isn't doing much for user confidence. Nor will it endear itself to support teams fielding the resulting tickets. Microsoft has included a fix in KB5132057 , the optional non-security preview update released on November 19 for Windows 11 25H2 and 26H2. Until affected devices are patched, users can ignore the Android error if authentication has completed successfully on the PC. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5289791&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5289791&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Ubuntu Core Desktop targets 28.04 debut, with default status in its sights</title>
-<link>https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837</link>
-<guid isPermaLink="false">b3e1882cb65578eb083a613015991a487e50be8a943bcc9075059399358b3014</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 09:29:00 +0000</pubDate>
-<description>Canonical is targeting Ubuntu 28.04 LTS for the release of its immutable Core Desktop, with a stretch goal of making it the default download for Ubuntu 30.04. Canonical's VP of engineering, Jon Seager, set out the timetable in his opening keynote at Ubuntu Summit 26.10. Yes, we know, we have heard this before: we reported on his plans last month . But this time, there's the beginning of a release schedule. Seager said that Ubuntu Core is already out there in tens of thousands of IoT devices – which seems like a modest estimate to us, and to him too, as he quickly added "maybe more." Despite some noise a few years ago, though, what's still missing is the desktop version. Seager's slides listed three bullet points: that Core Desktop will be "immutable," "composable," and "attestable." As he put it, they are "taking the whole of the Linux operating system, and cramming the whole thing into snaps." Acknowledging that this is going to be wildly controversial, he said: "This is one for the Redditors." He's right. There is a lot of resistance to snap, and in direct response, advocacy of the Red Hat-backed Flatpak instead – but we have seen almost none that is based on either system's technical merits. Much of that opposition concerns claims of one being more open than the other. We've looked at how both systems work, and our impression is that the implementation of snap is cleaner, simpler, easier to use, and more comprehensible. Snap does depend on systemd, which Flatpak does not – but only for now. Flatpak NG is in development and will also need everyone's favorite init system. Ubuntu Core's immutability is not new technology: even Core 16 is now a decade old. It has supported in-place version upgrades since Core 22. We have reported before that Canonical remains strongly committed to its packaging format, and that commitment seems stronger than ever. Seager continued: "Never has a model like snap confinement been more relevant… we're finally in a position where we can bring this to the desktop." The core idea of an immutable OS is that "much more of the system is not writable at runtime," meaning that it "can't be messed with once the system has booted." He talked about the same three use cases we discussed last month. The "browser-centric machine" is the company's analog to Google ChromeOS, and he said that it's essentially ready now, suggesting that everyone listening probably has a family member whose computer is basically just a way to use a web browser. The second was the dedicated games machine, which we interpret as a response to Valve's SteamOS. This edition, he said, would "boot straight to Steam," with "just enough of a shell to launch games." There's also an immutable "development workstation," and here, he offered the example of developers who need to work on some long-unsupported hardware or software, for whom an immutable OS means that you "can't brick your system by installing some weird old dependencies, unmaintained for 20 years." An</description>
-<enclosure url="https://image.theregister.com/?imageId=5252431&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5252431&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Support tech fixed malware by charging client less for their services</title>
-<link>https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959</link>
-<guid isPermaLink="false">a3fcd75c7057f60ee35fe349513349cbb76e6493bb4f45d4690a3a6d1e730a84</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 06:29:00 +0000</pubDate>
-<description>Welcome to Friday and therefore to another edition of On Call , The Register 's reader-contributed tech support column in which we share your tales of cleaning up messes made by clients and colleagues. This week, meet a reader we'll Regomize as "Dennis" who told us he once ran a tech support business in a major US city. "I got a call from a very well-known lawyer's office," he told On Call. "Over the two decades I spent supporting his office, this attorney and I became close friends." The attorney was also a good client because Dennis found himself billing a three-figure sum every month for malware removal that resulted from the lawyer’s – ahem – personal browsing habits. Dennis eventually tired of malware removal and told his client to expect a substantial bill for the iMac he was about to buy as a replacement for his PC. "I told him this would pay for itself in 18 months," Dennis wrote, because he figured it wouldn't get malware all the time. "He actually said, with genuine concern: 'If you do that, you will make less money'." Dennis replied that he aimed to give his clients the best advice, and that on this occasion his counsel was to pay Apple instead of himself! "It took him about five years to stumble across anything that could harm that iMac," Dennis wrote. "When he did, I had no idea what to do: I had never seen an infected Apple product." So he did what all tech support people do: reinstalled the OS and crossed his fingers. Dennis was rewarded when the machine came back to life, with all data and settings intact. "I had given up at least $6,000 in support revenue by solving his problem and I'd do it again," he wrote, before winding up his story by letting us know "I retired five years ago. It’s still on his desk!" Have you done less tech support to deliver more value? If so, click here to send On Call an email and charge us with the responsibility of telling your story on a future Friday. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=252539&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=252539&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Big Tech's compliance with EU market rules is performative, consumer group says</title>
-<link>https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066</link>
-<guid isPermaLink="false">514fccbb7a84b6ab82d6094e6bc6e47ce98ffa08b5b3255d95cb9673e1d729d7</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 04:30:00 +0000</pubDate>
-<description>Big Tech has earned a finger-wagging from the European Consumer Organisation (BEUC), which says the industry's compliance with the EU's Digital Markets Act (DMA) still leaves consumers short of meaningful choice. BEUC said : "Big Tech companies Alphabet, Amazon, Apple, ByteDance, Meta and Microsoft (so-called 'gatekeepers') still likely breach the EU's Digital Markets Act (DMA) far too often for consumers to reap the full benefits of real choice over their digital services and products." The European Commission designated the six companies as gatekeepers in 2023 , imposing obligations on specified core platform services such as search engines, messaging services, and app stores. The DMA aims to make digital markets fairer and more open to competition. The devil is in the details. In the years since, the EC has lined up Amazon and Microsoft's cloud businesses for gatekeeper status. In March 2025, the Commission issued preliminary findings against Alphabet over Search and Google Play, while separately specifying measures Apple had to take to meet its interoperability obligations. In 2024, Microsoft's browser rivals argued that Edge should also be covered by the DMA's gatekeeper obligations, and so on. BEUC is a fan of the act – it published a report on its consumer benefits in 2025 – but is less impressed with industry's implementation. Its latest analysis draws together evidence of potential breaches submitted to the Commission between June 2025 and June 2026. In the case of Microsoft, BEUC stated that the company used "behavioural techniques" and "non-neutral interfaces" to elicit consent from users for data sharing across services – emphasizing benefits, while not explaining why a user might want to decline. The Windows behemoth is also accused of making it tricky to change defaults and stop behavior such as apps opening links in Edge or using Bing as a search engine. "Microsoft also regularly prompts users who have selected an alternative browser or search engine to switch to Edge or Bing using increasingly subliminal techniques, such as prompts coming from the device manufacturer, which undermine effective compliance with the DMA," BEUC said. Then there's Google, which was fined €890 million in July for favoring its own services in Search and restricting developers' ability to direct Play Store users to alternative purchasing channels. As with Microsoft, BEUC expressed concerns about the non-neutral language Google used to obtain user consent, as well as how it allegedly made it difficult to change default settings or uninstall gatekeeper applications. The alleged behavior of Apple, ByteDance, Amazon, and Meta was also highlighted, with examples including Apple's restrictions on alternative app distribution and Amazon using interface design techniques to nudge users into handing over their data. Apple announced new terms for developers earlier this year in response to its App Store dispute with the European Commission, but BEUC said it was "co</description>
-<enclosure url="https://image.theregister.com/?imageId=5311087&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311087&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>Meta Muse booked an Airbnb without permission – and that’s not the worst of it</title>

@@ -4,15 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Europol follows $28.5M crypto trail in streaming piracy crackdown</title>
+<link>https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown</link>
+<guid isPermaLink="false">42ec3005b7855987160575d0c90851a191019bdeffe1869022f7883a315f1593</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 21:50:25 +0000</pubDate>
+<description>Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png" medium="image"/>
+</item>
+<item>
+<title>Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code</title>
+<link>https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code</link>
+<guid isPermaLink="false">7b108ad0c168350abf56a031a6bc4eb40a17b3a2a01e96ca474c6eb4e3f4dcd2</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 21:46:02 +0000</pubDate>
+<description>Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-ai-robots-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-ai-robots-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Huawei found guilty of stealing trade secrets but acquitted of racketeering</title>
 <link>https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">762ce6d7fedd6d19f353495e1e2d060b51e9ec2a66b98e3d78465b806cda9e6e</guid>
 <source>BBC Business</source>
 <category>business</category>
-<pubDate>Tue, 24 Nov 2026 20:59:21 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 21:32:34 +0000</pubDate>
 <description>The verdict follows a months-long trial in New York.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg" medium="image"/>
+</item>
+<item>
+<title>US attorney general dodges questions about Nvidia investigation</title>
+<link>https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">2a1422ea57bb08bb754c146868180d69c729e5afb1de0161993521f1689afe8e</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 21:19:42 +0000</pubDate>
+<description>Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png" type="image/png"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png" medium="image"/>
+</item>
+<item>
+<title>Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits</title>
+<link>https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits</link>
+<guid isPermaLink="false">7c82979904da138c506f67a50ba5c858320841462e0014ff3636873d9460af1b</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 21:16:02 +0000</pubDate>
+<description>Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>Utah moves to dismiss criminal charges against Kalshi after trading halt</title>
@@ -35,6 +79,17 @@
 <description>The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot</title>
+<link>https://bitcoinmagazine.com/videos/andre-dragosch-bitcoin-at-fire-sale-valuations-heading-into-fed-pivot</link>
+<guid isPermaLink="false">406ea26258bdcf393871a8ccc5db72ed55c5f419b7fdf94a54ef36720fe1e656</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 20:20:57 +0000</pubDate>
+<description>▶ Bitcoin Magazine André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot André Dragosch says Fed language is already as hawkish as it was in 2022, and “we are probably close to peak hawkishness.” With the 2s10s spread under 30 basis points, a 50 basis point hike in December could invert the yield curve and bring back recession calls. He says what usually follows an inversion is a pause, then cuts, and “every time we reached this kind of maximum tightening in macro, Bitcoin also bottomed.” Thanks to Plaud for sponsoring BMTV! Get 20% off the Plaud Note Pin S through November 30 → https://plaud.ai/BMTV Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Bitcoin Selling Is “Most Likely Done” 00:52 Capitulation Among the Biggest Since FTX 02:13 Are On-Chain Bottom Signals Overrated? 04:43 Peak Hawkishness: The Fed and the Yield Curve 07:14 A Possible Retest Near $53.5K and “Fire Sale” Valuations 07:44 Jensen Huang, NVIDIA and the AI Trade 10:56 The Strong Dollar and Bitcoin 12:39 Gold and Bitcoin Falling in Lockstep 15:07 Bitcoin vs. Gold: Higher Lows as a Leading Signal 18:13 Fiscal Dominance: Fed vs. Treasury 20:13 Is a Santa Claus Rally Coming? DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
+<enclosure url="https://img.youtube.com/vi/HS5covt-oog/hqdefault.jpg" type="image/jpeg"/>
+<media:content url="https://img.youtube.com/vi/HS5covt-oog/hqdefault.jpg" medium="image"/>
 </item>
 <item>
 <title>Will I get the £100 energy payment and when will I receive it?</title>
@@ -90,17 +145,6 @@
 <description>Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it has yet to decide on compensation for affected customers.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87AWRBC8FGN1Y9J8122FYZF/thief-bitcoin-1280x854.webp" type="image/webp"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87AWRBC8FGN1Y9J8122FYZF/thief-bitcoin-1280x854.webp" medium="image"/>
-</item>
-<item>
-<title>US attorney general dodges questions about Nvidia investigation</title>
-<link>https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">2a1422ea57bb08bb754c146868180d69c729e5afb1de0161993521f1689afe8e</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 18:55:59 +0000</pubDate>
-<description>Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png" type="image/png"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png" medium="image"/>
 </item>
 <item>
 <title>What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t</title>
@@ -178,17 +222,6 @@
 <description>The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png" type="image/png"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png" medium="image"/>
-</item>
-<item>
-<title>Not Every Client Is Worth Taking On. The Wrong Ones Could Cost You More Than You Think.</title>
-<link>https://www.entrepreneur.com/building-a-business/not-every-client-is-worth-taking-on-the-wrong-ones-could-cost-you-more-than-you-think</link>
-<guid isPermaLink="false">6f8619d2b9e5c484b551b2e8a47a85b9bf155ebc39da7b5d9526be6dc03b6756</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 18:00:00 +0000</pubDate>
-<description>Sometimes, the smartest business decision is turning away a prospective client.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/not-every-client-is-worth-it-1126_g1974638831.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/not-every-client-is-worth-it-1126_g1974638831.jpg" medium="image"/>
 </item>
 <item>
 <title>What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained</title>
@@ -453,17 +486,6 @@
 <description>The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86VV86WEBASNMG35FPTXVR5/hi-switzerland-crypto-valley-crypto-regulation2.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86VV86WEBASNMG35FPTXVR5/hi-switzerland-crypto-valley-crypto-regulation2.jpg" medium="image"/>
-</item>
-<item>
-<title>Relai Launches Stacks, Letting Bitcoin Savers Split Plans by Goal</title>
-<link>https://bitcoinmagazine.com/news/relai-launches-stacks-bitcoin-savings</link>
-<guid isPermaLink="false">911515de2a8418731a7b39ac16625465d82290ea079b9b15af1ec45a31c846af</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 13:50:58 +0000</pubDate>
-<description>Bitcoin Magazine Relai Launches Stacks, Letting Bitcoin Savers Split Plans by Goal Swiss bitcoin app Relai launched Stacks on Tuesday, a feature that lets users run several recurring bitcoin savings plans side by side, one for each goal, such as a house, a wedding or a child’s first car. Stacks is live for all Relai users in Switzerland and the European Union. Each Stack carries its own amount and schedule, and users can change either at any time without starting over, the company said. A savings plan is Relai’s version of dollar-cost averaging: buying a fixed amount of bitcoin on a set schedule, weekly or monthly, regardless of price. Savers use it to avoid timing the market. Since September, Relai users have been able to change the amount and buy date of an active plan. Stacks applies that to several goals at once, so a saver can put more toward a house one month, slow down a car fund the next and leave an emergency reserve untouched. In practice, Stacks is an organizing layer, not a new account. Relai’s help pages describe each Stack as a separate pot with its own bitcoin address inside the same wallet. Users get up to five custom Stacks plus a main balance, and moving bitcoin between them takes a regular on-chain transaction with a network fee. Self-custody cuts both ways Relai is self-custodial, meaning it does not hold customers’ bitcoin. The coins in every Stack sit in a wallet controlled by a 12-word recovery phrase, or seed phrase, that only the user has. All Stacks share that one phrase, and restoring the wallet with it brings every Stack back. The trade-off is responsibility. A saver who loses the phrase and the phone has no password reset and no support desk that can recover the coins. Anyone who gets the phrase can take them, which is why attackers have gone as far as tampering with hardware wallets to capture it. “Everyone saves for something. A home, their kids, the freedom to stop working one day,” said Julian Liniger, Relai’s co-founder and CEO. “With Stacks, you can save for each of those goals in Bitcoin, at your own pace.” How Relai is regulated In the EU, Relai’s French unit is authorized by France’s financial markets regulator, the AMF, as a crypto-asset service provider under MiCA, the bloc’s Markets in Crypto-Assets regulation . Relai secured that license in October 2025, and under MiCA a firm licensed in one member state can “passport” its services across the bloc. Swiss and Liechtenstein customers are served by Relai AG, which is affiliated with VQF , a self-regulatory organization recognized by Swiss regulator FINMA under the country’s anti-money laundering law. Goal-based saving in bitcoin also carries price risk that a bank savings account does not. Bitcoin traded near $60,000 on Tuesday, more than 50% below its record above $126,000 set in October 2025, after falling below $60,000 last week. Relai, founded in Zurich in 2020, says it has processed more than $1 billion in trading volume. The app charges a standard 1% f</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Relai-Launches-Stacks-Letting-Bitcoin-Savers-Split-Plans-by-Goal.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Relai-Launches-Stacks-Letting-Bitcoin-Savers-Split-Plans-by-Goal.jpg" medium="image"/>
 </item>
 <item>
 <title>CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto</title>
@@ -785,6 +807,17 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M852ASST1D3G389ZE09VJZTA/hi-how-binance-plans-to-bring-tokenized-us-stocks-1.png" medium="image"/>
 </item>
 <item>
+<title>The 10 Best Gifts for Entrepreneurs to Buy During Black Friday Week</title>
+<link>https://www.entrepreneur.com/business-news/the-10-best-gifts-for-entrepreneurs-to-buy-during-black-friday-week</link>
+<guid isPermaLink="false">8d7acd075b7eee38976ce96c64e53f922c051e3809ead016705d1536132f8b1d</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 21:02:36 +0000</pubDate>
+<description>Struggling to know what to get for the entrepreneurs and small business owners in your life? Here's the answer.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/gift-GettyImages-2289425016.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/gift-GettyImages-2289425016.jpg" medium="image"/>
+</item>
+<item>
 <title>Kalshi secures temporary win in New York gambling law dispute</title>
 <link>https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute</link>
 <guid isPermaLink="false">6d8fa3f67aee9febc3abc965b9bf1c33a91b38425b3aa35d5020c5c986e671f6</guid>
@@ -1047,17 +1080,6 @@
 <description>The board said senior U.S. officials' input left it confident Huang's return poses no national security risk. Shares jumped 26% premarket.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>OKX, ICE launch 113 tokenized assets despite issuer objections</title>
-<link>https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections</link>
-<guid isPermaLink="false">67c8677c470415b69523eb5deeb0eddbdfab1b10b5dcd8590b6a568a969bc183</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 14:00:00 +0000</pubDate>
-<description>The venture named Coinbase and Fidelity among the issuers and asset managers in the rollout after 67 companies objected to having their shares traded on the venue.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M847R7KH9YB0GT3Q7D1K530Y/12312312312312312.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M847R7KH9YB0GT3Q7D1K530Y/12312312312312312.png" medium="image"/>
 </item>
 <item>
 <title>Welfare cuts: What's been happening with Pip and universal credit?</title>
@@ -1335,17 +1357,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg" medium="image"/>
 </item>
 <item>
-<title>Claude Claims Historic Math Breakthrough One Day After Anthropic IPO</title>
-<link>https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo</link>
-<guid isPermaLink="false">8df44a39351f7e5c1031c121ad91422208dcaa4df38f8ee86e59c99ba557dcfa</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 21:36:02 +0000</pubDate>
-<description>Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg" medium="image"/>
-</item>
-<item>
 <title>Trump threatens ban on US firms building AI data centres overseas</title>
 <link>https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">d020b8aa67dc21540cb4908c9fe0626e2c60532d2e7d041cda7ae07038ee6c9c</guid>
@@ -1355,17 +1366,6 @@
 <description>The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
-</item>
-<item>
-<title>Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting</title>
-<link>https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting</link>
-<guid isPermaLink="false">dcf5ab8f47eb24c9b15bc8001e0b8c7271b28a69bb0d85afa43294f22b5963d5</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 20 Nov 2026 20:36:54 +0000</pubDate>
-<description>Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang’s resignation.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>UK to explore even closer ties with EU after agreeing deal, says Burnham</title>

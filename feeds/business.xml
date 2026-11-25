@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Energy bills to rise by 26% from January</title>
+<link>https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">42887a31417738a7d599f45f3c75c95cab59dd9c2d893be0b93ecb541c0f696e</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 07:17:15 +0000</pubDate>
+<description>A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 under the cap.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a30b/live/889ad760-e89b-11f1-801d-b916df288324.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a30b/live/889ad760-e89b-11f1-801d-b916df288324.jpg" medium="image"/>
+</item>
+<item>
+<title>South Korea’s crypto bill could move stablecoin race beyond token issuance</title>
+<link>https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance</link>
+<guid isPermaLink="false">cde75c060e7705ee9bfe81270be5b0d6ef8fa8a11117aafaf365f6fee1cf7f36</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 06:54:59 +0000</pubDate>
+<description>South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-south-korea-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-south-korea-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 05:50:43 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Solana DEX Velocity halts trading over bug just months after relaunch</title>
+<link>https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch</link>
+<guid isPermaLink="false">5734b6c30255846355bc46eab886731942631c3f072eb0922ed223d0259fd31f</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 05:32:55 +0000</pubDate>
+<description>Velocity relaunched in September as a rebuilt version of Drift Protocol, which was attacked by North Korean hackers in April.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88JSSX9DYE28AA0D8E6126E/stop-hand-logo-laptop-sensor-switch.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88JSSX9DYE28AA0D8E6126E/stop-hand-logo-laptop-sensor-switch.jpg" medium="image"/>
+</item>
+<item>
 <title>Trump willing to pardon Jensen Huang, says it won’t be necessary</title>
 <link>https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary</link>
 <guid isPermaLink="false">be6b8825897df6d7b8c14c8147e98b8b63d0cbb895b37194fc9307ac9cfe71a2</guid>
@@ -26,7 +70,7 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png" medium="image"/>
 </item>
 <item>
-<title>Huawei found guilty of stealing trade secrets but acquitted of racketeering</title>
+<title>Huawei found guilty of stealing US trade secrets but acquitted of racketeering</title>
 <link>https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">762ce6d7fedd6d19f353495e1e2d060b51e9ec2a66b98e3d78465b806cda9e6e</guid>
 <source>BBC Business</source>
@@ -48,7 +92,7 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-2.jpg" medium="image"/>
 </item>
 <item>
-<title>With Huang rescue, Trump riskily ties his political fortunes to Nvidia</title>
+<title>Trump's rescue of Nvidia's Huang brings political risks</title>
 <link>https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">912dcc7ffb345aa14cdf1c4a3e4f7830cc83c16ef70d57e0aded609fd8bffbee</guid>
 <source>BBC Business</source>
@@ -114,17 +158,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
 </item>
 <item>
-<title>Households braced for soaring energy bills with new price cap to be announced</title>
-<link>https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">42887a31417738a7d599f45f3c75c95cab59dd9c2d893be0b93ecb541c0f696e</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 00:29:58 +0000</pubDate>
-<description>Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg" medium="image"/>
-</item>
-<item>
 <title>Hackers breach CIA intelligence network in latest US cyberattack</title>
 <link>https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack</link>
 <guid isPermaLink="false">b1aee1c5312baa16d456e9a2a5bf1f960913dc7efca09bc05d42043143c8e7d2</guid>
@@ -156,17 +189,6 @@
 <description>▶ Bitcoin Magazine Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse Since 2016, the only time Bitcoin closed below its six-year moving average was the FTX crash. That lasted about two months, with the worst closes about 9% under the line, and a year later Bitcoin was up 128%. Sean Hagan explains why this cycle has only wicked below it, and why FTX is the one that looks out of place on the chart. Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Bitcoin Tests Its Six-Year Moving Average 01:28 The Longest Round Trip in Bitcoin’s History 02:00 Why $56.7K Has Held on Every Daily Close 03:36 Shrinking Cycles: How Far Bitcoin Runs Above the Line 06:20 The Level to Watch on the Weekly Close 07:34 Is This Like the FTX Low? DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
 <enclosure url="https://img.youtube.com/vi/pNl3YXLFOfk/hqdefault.jpg" type="image/jpeg"/>
 <media:content url="https://img.youtube.com/vi/pNl3YXLFOfk/hqdefault.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 22:12:10 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>Europol follows $28.5M crypto trail in streaming piracy crackdown</title>
@@ -1038,17 +1060,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/decrypt-trade-the-news-learn-gID_1-pID_2.png" medium="image"/>
 </item>
 <item>
-<title>Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks</title>
-<link>https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks</link>
-<guid isPermaLink="false">190f4f4440e4bb1f11a6be58398830a6cc2f1d83709ee38bb5ee38b4c255e290</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 17:42:18 +0000</pubDate>
-<description>Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86YS09ABYZ3T24DZZX29WHG/hi-play-to-earn-vs-move-to-earn-explained-okx.png" type="image/png"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86YS09ABYZ3T24DZZX29WHG/hi-play-to-earn-vs-move-to-earn-explained-okx.png" medium="image"/>
-</item>
-<item>
 <title>Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion</title>
 <link>https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt</link>
 <guid isPermaLink="false">72756612afb70ef28655dfa63df55e61ad65f5b449fb12c36e3fdbdc8c6ac317</guid>
@@ -1069,17 +1080,6 @@
 <description>The cross-border payments company, which applied for a trust charter in February, is one of several payments firms seeking such a charter from the OCC this year.</description>
 <enclosure url="https://imgproxy.divecdn.com/cIKktZ5OM6rvrJmHRQXHu7dGhG4sFanRh4IpgzBPWYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MTQ3ODY2LmpwZ19yZXNpemUuanBn.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/cIKktZ5OM6rvrJmHRQXHu7dGhG4sFanRh4IpgzBPWYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MTQ3ODY2LmpwZ19yZXNpemUuanBn.webp" medium="image"/>
-</item>
-<item>
-<title>Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations</title>
-<link>https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations</link>
-<guid isPermaLink="false">8d3866870a1dd673a8e128492bb6a6fae1f8661fbb63dd518d1273bc7a1faecd</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 16:51:17 +0000</pubDate>
-<description>Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp" type="image/webp"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp" medium="image"/>
 </item>
 <item>
 <title>Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More</title>

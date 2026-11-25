@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds</title>
+<link>https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds</link>
+<guid isPermaLink="false">a695a360ab732968495684f576f47774f23da4a827994bd7af1d40651d1dfd91</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 20:01:08 +0000</pubDate>
+<description>The ESA's Hera mission has begun capturing images of the aftermath of DART's impact.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/l-intro-1795636789.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/l-intro-1795636789.jpg" medium="image"/>
+</item>
+<item>
+<title>EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa</title>
+<link>https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant</link>
+<guid isPermaLink="false">8cc9974ff0c2f15e6b793f143cddb69862131971f2974c64d0316ef759a2899e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 19:45:51 +0000</pubDate>
+<description>Debris flies into the air after the Army detonated several tons of highly-volatile, degraded lead azide on the grounds of the Iowa Army Ammunition Plant on November 25th, 2026. | Photo: Getty Images Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several hundred feet high drifting south before quickly dissipating. Following the explosion, the Army confirmed that all of the barrels at the plant had been destroyed without any secondary explosions or infrastructure damage. "I believe, absolutely, that we reduced, as close to zero as it's absolutely humanly poss … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>1Password breach leaked customer names and emails, but not passwords</title>
+<link>https://www.theverge.com/tech/1042409/1password-data-breach-leak</link>
+<guid isPermaLink="false">cc6e960d226fca72222e0bd911bbe9547296df6e529d4c7ca564b380bd6af326</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 19:10:15 +0000</pubDate>
+<description>1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident . It's unclear how many users are affected. The password manager began investigating the incident on November 19th, after an attacker gained access to an employee's corporate GitHub account. Using the compromised account, the hacker accessed 1Password's source code and pushed malicious code to backend services to download customer data. Along with customer nam … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>You can turn Claude artifacts into Windows and Mac apps now – here’s how</title>
+<link>https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows</link>
+<guid isPermaLink="false">8b2f5d977911a228fdecac09d6e42857747071829ae40651091009179d9f30a5</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 18:54:05 +0000</pubDate>
+<description>Anthropic’s new ‘install as app’ feature makes it easy to turn your Claude artifacts into desktop apps on your computer – with some limitations.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/How-to-turn-Claude-artifact-into-desktop-app-on-Mac-or-Windows-computer.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/How-to-turn-Claude-artifact-into-desktop-app-on-Mac-or-Windows-computer.jpg" medium="image"/>
+</item>
+<item>
 <title>Backblaze explains why it's sharing customer information with advertisers</title>
 <link>https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers</link>
 <guid isPermaLink="false">78a2de901a3f77aa53ab3ba131764738a6fec4feee4aa4631fa2977ecc38327d</guid>
@@ -98,7 +142,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Wed, 25 Nov 2026 17:33:30 +0000</pubDate>
-<description>After four years of work to build a browser engine from scratch, the Ladybird project released its first downloadable alpha on November 23, offering prebuilt versions for macOS and Linux. Previously, curious users had to compile the browser themselves from its source. Now it's an installable package with automatic updating. Ladybird is most notable for what it isn't: another browser fork. Where Chrome, Edge, Brave, and Opera all run on Google's Blink engine, and Firefox depends on Gecko, Ladybird's rendering engine and its LibJS JavaScript engine were written from scratch. "The engine is our own, built from the ground up, and not a fork," project lead Andreas Kling wrote in Monday's announcement. "The browser around it is modest, but functional." A fourth engine Nearly the entire modern web currently runs on three browser engines. There's WebKit (Safari), Gecko (Firefox), and the biggest of them all, Blink (Chromium). Those limited options mean that web developers often end up optimizing sites for Chromium specifically, since that's where the majority of traffic is, and as a result, the whole web platform tends to follow suit toward whatever the dominant engine supports. Read full article Comments</description>
+<description>Note: At the time of writing, I was unaware of criticism directed at Ladybird creator Andreas Kling’s public statements. Readers interested in this background can find further context in accounts by Kelson Vibber and Drew DeVault . After four years of work to build a browser engine from scratch, the Ladybird project released its first downloadable alpha on November 23, offering prebuilt versions for macOS and Linux. Previously, curious users had to compile the browser themselves from its source. Now it's an installable package with automatic updating. Ladybird is most notable for what it isn't: another browser fork. Where Chrome, Edge, Brave, and Opera all run on Google's Blink engine, and Firefox depends on Gecko, Ladybird's rendering engine and its LibJS JavaScript engine were written from scratch. "The engine is our own, built from the ground up, and not a fork," project lead Andreas Kling wrote in Monday's announcement. "The browser around it is modest, but functional." Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png" type="image/png"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png" medium="image"/>
 </item>
@@ -299,28 +343,6 @@
 <description>Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much cheaper — or considerably smaller — the Xteink X4 Classic is in a league of its own. Thankfully, the tiny e-reader is down to a new low of $54.87 ($55 off) at Amazon , making it an especially affordable alternative to Amazon’s latest Kindle. Xteink X4 Classic pocket e-reader Where to Buy: $109 $54.87 at Amazon (black) $109 $54.87 at Amazon (white) $109 $59 at Xteink The X4 Classic is an updated version of Xteink’s original pocket-sized e-reader, one that features a miniature 4.3-inch E Ink display that makes it more pocketable than any current Kindle or Kobo model. Like the pricier X4 Pro — which also happens to be on sale direct from Xteink for $84 — it features both physical page-turning buttons and magnets that let you attach it to compatible smartphones. At just 2.4 ounces and 4.9mm thick, it’s also easy to slip into a pocket, while its larger 920mAh battery can last up to 10 days on a single charge. That said, unlike the X4 Pro , the Classic lacks a touchscreen and built-in reading light, meaning you’ll need an external light to read in the dark. It also uses a proprietary magnetic charging connector instead of USB-C, and transferring books isn’t as straightforward as on a Kindle or Kobo. However, like the Pro, it does support the excellent CrossPoint Reader software , which you can install yourself to improve the reading experience. You can even use it to read books borrowed through Libby or purchased from stores like Kobo, though it takes a few extra steps to do so. Still, if you want an inexpensive, distraction-free way to read on the go, the X4 Classic is hard to beat for less than half the price of a Kindle. Read our hands-on impressions of the Xteink X4.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xteink1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xteink1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV</title>
-<link>https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa</link>
-<guid isPermaLink="false">fc3699d37bd70878153199d7d99377a289fb66c365bc1c1e65c43568a7c1765d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
-<description>As a longtime fan of the films, Blade Runner 2099 showrunner Silka Luisa says she was more excited than scared when it came to adapting the series for TV. The new show is set 50 years after the 2017 film Blade Runner 2049 and imagines a bleak future where artificial humans known as replicants have taken over society after a brutal war. Luisa, who previously served as showrunner on Apple TV's Shining Girls adaptation , says she largely had to put any concerns about the monumental task of following up Blade Runner out of her mind while working on the show. "I just don't think you can approach Blade Runner with fear," she tells The Verge . "It's … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Tapo’s new indoor security camera includes a touchscreen for video calls</title>
-<link>https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt</link>
-<guid isPermaLink="false">93052b5f65b287fffe90e029cee9f8b5883fb924cadb5e5245769cddb792bae1</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 13:30:00 +0000</pubDate>
-<description>TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or misbehaving pets, it can be used to make hands-free video calls. The Tapo C825 is available starting today for $149.99. That's a little expensive for a 2K camera, but its tracking capabilities could make up for it not being 4K. Using a rotating base, the C825 can pan 360 degrees while its camera module on top can tilt up and down up to 156 degre … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Debian wakes up wearing Windows XP's actual skin</title>
@@ -706,17 +728,6 @@
 <description>The 2020 Oregon wildfires burned over 1 million acres, destroyed thousands of structures, and killed 11 people. Smoke from the fires spread across the entire region; this "smoke taint" adversely affected not only local wine production , but also hops grown for beer brewing. Since the Pacific Northwest produces more than 95 percent of US hops and about 40 percent of the global supply, the potential economic impact is significant. That's why Oregon State University (OSU) scientists have been studying how brewers could offset the negative impacts of smoke taint while still incorporating affected hops in their brews. Most recently, they found that it all depends on the quantity of tainted hops that are included and when hops are added during the brewing process, according to a new paper published in the Journal of the American Society of Brewing Chemists. As previously reported , the chemistry of brewing beer is a very active area of research. For instance, in 2018 , OSU chemist Thomas Shellhammer—who also co-authored this latest paper— identified the growing popularity of " dry hopping " (adding hops after fermentation, common for pale ales) among craft brewers as the likely culprit of the exploding beer bottle phenomenon. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/hops3-1152x648-1795358176.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/hops3-1152x648-1795358176.jpg" medium="image"/>
-</item>
-<item>
-<title>GTA 6 cloud streaming comes to PS5 and PlayStation Portal</title>
-<link>https://www.engadget.com/2326845/gta-6-cloud-streaming-comes-to-ps5-and-playstation-portal</link>
-<guid isPermaLink="false">37ebfca444f3660fabe485f0136b4edf406b35401dda4f0f9f3d3cfdb56c3203</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 18:15:41 +0000</pubDate>
-<description>You no longer need to free up 212GB on your PS5 for Rockstar's blockbuster.</description>
-<enclosure url="https://www.engadget.com/img/gallery/gta-6-cloud-streaming-comes-to-ps5-and-playstation-portal/l-intro-1795544089.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/gta-6-cloud-streaming-comes-to-ps5-and-playstation-portal/l-intro-1795544089.jpg" medium="image"/>
 </item>
 <item>
 <title>Kalshi makes “difficult decision” to halt Utah trading after losing court fights</title>
@@ -1289,16 +1300,5 @@
 <description>The company also released new ROI tracking tools for companies monitoring their AI spend.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png" type="image/png"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png" medium="image"/>
-</item>
-<item>
-<title>Microsoft wants to put a dollar value on AI’s work – but can you trust the math?</title>
-<link>https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite</link>
-<guid isPermaLink="false">da0965fdf83255a69866af7cffa58da9cd9f0c1b8b54dc85323e321a7a8fe538</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 23:05:48 +0000</pubDate>
-<description>With Agent 365 Business Analytics, Microsoft could reshape enterprise spending, but there’s a critical difference between estimated value and money saved.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Satya.png" type="image/png"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Satya.png" medium="image"/>
 </item>
 </channel></rss>

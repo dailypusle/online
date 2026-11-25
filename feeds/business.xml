@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>US attorney general dodges questions about Nvidia investigation</title>
+<link>https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">2a1422ea57bb08bb754c146868180d69c729e5afb1de0161993521f1689afe8e</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 03:44:07 +0000</pubDate>
+<description>Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png" type="image/png"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png" medium="image"/>
+</item>
+<item>
 <title>Huawei found guilty of stealing trade secrets but acquitted of racketeering</title>
 <link>https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">762ce6d7fedd6d19f353495e1e2d060b51e9ec2a66b98e3d78465b806cda9e6e</guid>
@@ -26,7 +37,7 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-2.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump's Nvidia intervention ties his political fortunes to the AI boom</title>
+<title>With Huang rescue, Trump riskily ties his political fortunes to Nvidia</title>
 <link>https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">912dcc7ffb345aa14cdf1c4a3e4f7830cc83c16ef70d57e0aded609fd8bffbee</guid>
 <source>BBC Business</source>
@@ -48,7 +59,7 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg" medium="image"/>
 </item>
 <item>
-<title>US preparing to unveil new tariffs on global trading partners</title>
+<title>US preparing to unveil plan for new tariffs on global trading partners</title>
 <link>https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">be54e905a796b4cee0cd01426abfd367a24a103d3316a9af411ae0aa6acd28d0</guid>
 <source>BBC Business</source>
@@ -167,17 +178,6 @@
 <description>Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-ai-robots-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-ai-robots-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>US attorney general dodges questions about Nvidia investigation</title>
-<link>https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">2a1422ea57bb08bb754c146868180d69c729e5afb1de0161993521f1689afe8e</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 21:19:42 +0000</pubDate>
-<description>Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png" type="image/png"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png" medium="image"/>
 </item>
 <item>
 <title>Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits</title>

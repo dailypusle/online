@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</title>
+<link>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</link>
+<guid isPermaLink="false">c91a30b4e6522b01bf534e47099b9230e9b91f5f60dacb22893a7b8dd0e94932</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 21:51:26 +0000</pubDate>
+<description>Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come to market. First spotted by Patentlyze , the patent - which was filed last May and published last week - describes how My Channel would use a person's demographic data and viewing history to create its own prompts that would then be fed into an LLM to help generate AI videos tailored to that … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&amp;strip=all&amp;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303" type="image/png"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&amp;strip=all&amp;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303" medium="image"/>
+</item>
+<item>
+<title>7 gadgets that'll instantly upgrade your Thanksgiving feast</title>
+<link>https://www.engadget.com/2328767/gadgets-instantly-upgrade-thanksgiving-feast</link>
+<guid isPermaLink="false">8737d6db3ab500eee6411b48fa5f90e83ae8ff32c6386d71925d8c29f622b58d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 21:41:43 +0000</pubDate>
+<description>These tools will make turkey day just a little easier.</description>
+<enclosure url="https://www.engadget.com/img/gallery/7-cool-gadgets-to-instantly-upgrade-your-thanksgiving-feast/l-intro-1795617573.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/7-cool-gadgets-to-instantly-upgrade-your-thanksgiving-feast/l-intro-1795617573.jpg" medium="image"/>
+</item>
+<item>
 <title>Google search alternative Kagi launches Gmail rival</title>
 <link>https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival</link>
 <guid isPermaLink="false">e2dddde7b7e1bafa0edaaa80e0c711ca221d2862ca358c80330953bad873e6d9</guid>
@@ -57,6 +79,17 @@
 <description>Debris flies into the air after the Army detonated several tons of highly-volatile, degraded lead azide on the grounds of the Iowa Army Ammunition Plant on November 25th, 2026. | Photo: Getty Images Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several hundred feet high drifting south before quickly dissipating. Following the explosion, the Army confirmed that all of the barrels at the plant had been destroyed without any secondary explosions or infrastructure damage. "I believe, absolutely, that we reduced, as close to zero as it's absolutely humanly poss … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The security of US water systems is even leakier than we thought</title>
+<link>https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243</link>
+<guid isPermaLink="false">3b84acad3afe82d2b9200896e14afc21bbd9555534cdec700143fdbfecf60097</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 19:40:17 +0000</pubDate>
+<description>American water systems are even less secure than we thought, according to a study of 236 technology vendors that provide gear to US drinking water, wastewater, and industrial water systems. The federal government has issued 4,014 security advisories for industrial control systems and cataloged 1,792 vulnerabilities known to have been exploited in cyberattacks. A new index, called Water Supply Chain Watch and published by exposure management firm Securin, however, found almost twice as many vulnerabilities as public records identified – including 20 exploited flaws that weren't even in the federal government's Known Exploited Vulnerabilities (KEV) catalog. The security provider compared data on water-tech vendors with records from the US Cybersecurity and Infrastructure Security Agency (CISA), the Environmental Protection Agency (EPA), the FBI, and WaterISAC, drawing on CISA advisory data through November 20 and KEV catalog entries through November 23. It found that federal water advisories hit their highest level this year since 2020. However, the volume of security alerts isn't a reliable predictor of real-world attacks, the researchers noted. Five vendors – Rockwell Automation (58), Advantech (48), Schneider Electric (35), Siemens (26), and ABB (24) – account for 191 of the 376 water-tagged security advisories. The No. 2 firm, Advantech, accounted for the highest number of vulnerabilities rated critical, but none of the CVEs in its advisories appear in CISA's KEV catalog. Unitronics, on the other hand, accounted for only two water-tagged security advisories, but at least 75 of its controllers were compromised between November 2023 and January 2024 by attackers taking advantage of default or missing passwords. The report also highlights another disconnect between water-related CVEs and real-world cyberattacks, which don't always require attackers to exploit software bugs. The July intrusions, which security researchers suspect were the work of Iran-linked attackers , targeted more than 100 water systems , with incidents reported across at least 12 states , and involved poorly secured internet-connected controllers . According to Securin, 791 Rockwell MicroLogix 1400 controllers across multiple industries in the US were exposed to the internet as of November 17. Additionally, research by Forescout cited by the security shop found that most exposed Rockwell controllers in the US – seven in 10 – sit on mobile carrier networks, where poorly secured cellular modems can provide an entry point for attackers. A CISA advisory from July describes this technique: The authoring agencies observed Iranian-affiliated APT actors using several foreign-based IP addresses to access internet-facing PLCs manufactured by Rockwell Automation/Allen-Bradley, Schneider Electric, Siemens, and potentially other manufactured PLCs [ T0883 ]. The actors used leased, third-party hosted infrastructure and manufacturers’ PLC programming software to connect to misconfigured victi</description>
+<enclosure url="https://image.theregister.com/?imageId=5312249&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312249&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>1Password breach leaked customer names and emails, but not passwords</title>
@@ -343,17 +376,6 @@
 <description>Save 20 to 40 percent on models from Anker, EcoFlow and more.</description>
 <enclosure url="https://www.engadget.com/img/gallery/five-solar-generators-going-for-deep-discounts-on-black-friday/l-intro-1795554171.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/five-solar-generators-going-for-deep-discounts-on-black-friday/l-intro-1795554171.jpg" medium="image"/>
-</item>
-<item>
-<title>Amazon is reportedly in talks to end Muse AI shopping block</title>
-<link>https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions</link>
-<guid isPermaLink="false">8309588c20e1138eb4c3bfafefc001fc73e6c57f37e5e290f0398d8514259c41</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 14:12:33 +0000</pubDate>
-<description>Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune . The discussions, which could end Amazon's block on Muse , reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune , Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online marketplace. It's also reportedly worried about the quality of the product search results that Muse will present to users, as well as whether the AI age … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>JetBrains finds agents may cheat with open source</title>
@@ -684,17 +706,6 @@
 <description>Let the recompilation efforts begin.</description>
 <enclosure url="https://www.engadget.com/img/gallery/desperate-gamers-are-trying-bring-gta-6-to-pcs-and-break-free-of-its-30-fps-cap/l-intro-1795549745.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/desperate-gamers-are-trying-bring-gta-6-to-pcs-and-break-free-of-its-30-fps-cap/l-intro-1795549745.jpg" medium="image"/>
-</item>
-<item>
-<title>Why you should never reply with STOP when you receive spam texts</title>
-<link>https://www.engadget.com/2321243/why-never-reply-stop-when-receive-spam-texts</link>
-<guid isPermaLink="false">f3675bdbfce4575198345b73c90849971c554233899aba107c4227bbd97c4193</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 19:30:00 +0000</pubDate>
-<description>Replying STOP can certainly stop unwanted messages from reputable senders, but replying to scam texts can do more harm that good.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-you-should-never-reply-with-stop-when-you-receive-spam-texts/l-intro-1795013536.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-you-should-never-reply-with-stop-when-you-receive-spam-texts/l-intro-1795013536.jpg" medium="image"/>
 </item>
 <item>
 <title>This hidden iOS 27 feature ensures you’ll never sleep through an alarm again</title>
@@ -1135,17 +1146,6 @@
 <description>Microsoft has issued a critical vulnerability advisory after attackers were caught raiding Azure API Management (APIM) instances for secrets and performing admin operations. According to a nonpublic advisory, seen by The Register , Microsoft said the attacks, which have already affected two major energy companies , only impact customers on Azure API Management Classic tiers, not Azure API Management v2. It said of the now-patched vuln: "Our investigation found that customers were exposed and an unauthorized party could have used the issue to access secrets stored in Azure API Management Classic instances before Microsoft identified the security issue." Microsoft linked exposure to Classic-tier configurations that did not follow its network security guidance or stored secrets directly in APIM rather than referencing them from Azure Key Vault. Microsoft directs customers to its security guidance for the recommended configuration. The advisory lists potentially exposed secrets, including named values, client secrets associated with identity providers and OpenID Connect providers, subscription keys, and tokens used to call direct management APIs. Security expert Anders Kristiansen warned that stolen credentials could also give attackers access to services behind APIM. "If someone obtains a credential from that configuration, they may be able to use it directly against the service it protects, outside APIM," he wrote . "What they can reach depends on the credential's permissions and whether it is still valid." Norway's National Security Authority (NSM) urged organizations using APIM to assume their secrets and named values had been exposed and rotate all tokens and secrets. The agency also advised mapping the information accessible through each APIM instance to assess the potential scope of any compromise. NSM credited Norway's energy sector with first detecting the vulnerability last week. It named gas giant Equinor and hydropower company Skagerak Energi among the affected organizations. The authority commended Equinor for its early detection and rapid information-sharing, and warned that growing use of AI increased the risk of further exploitation. "The vulnerability affects several sectors in Norway and also beyond Norway's borders," it said . "NSM has close dialogue and cooperation with national and international partners and businesses about the situation. "When a vulnerability becomes known, multiple actors will be able to attempt to exploit it. Rapid escalation in the use of artificial intelligence is affecting the situation. This poses a risk to Norwegian businesses." Customers who spoke to The Register warned that forgotten development and test instances could leave more organizations exposed. The extent of exploitation remains unclear. Microsoft said it identified the security issue on November 18 and automatically applied a mitigation to close the access path the following day. The Windows giant said customers still needed to investigate wh</description>
 <enclosure url="https://image.theregister.com/?imageId=260104&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=260104&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Cleverbridge admits attackers stole customers' credit card and CVV numbers. Yep, you read that right</title>
-<link>https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573</link>
-<guid isPermaLink="false">9e091215c980a1803ed735a0e4e5bb0713ccd7a1acc1cbfa4c34187a588934c5</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 11:48:00 +0000</pubDate>
-<description>Software e-commerce platform Cleverbridge has admitted that hackers stole customers' card numbers and CVV security codes, raising questions about how the attackers captured data that payment security rules prohibit retaining after authorization. The Germany-headquartered company, which handles software sales and subscriptions on behalf of other businesses, detected unauthorized activity on its platform on November 4. In an incident update , Cleverbridge said it had cut off the intruders' access and launched an investigation that later established payment card information had been copied from its systems. The public notice doesn't spell out exactly what was stolen, but an email sent to affected customers, seen by The Register , fills in some rather important blanks. "Based on our investigation to date, the information involved includes payment card details you used to make a purchase through Cleverbridge, notably your card number, expiry date, card security code (CVV/CVC), and contact details," the company told customers. Email addresses, billing addresses, and phone numbers were also among the information potentially exposed, although Cleverbridge reckons account passwords escaped the breach. More concerning are the stolen CVV codes. PCI DSS rules prohibit retaining card verification codes after authorization, even in encrypted form. Cleverbridge hasn't explained how the attackers obtained the codes, whether they were retained after transactions, or whether the criminals intercepted them during payment processing. The company didn't respond to The Register's questions about the breach. Cleverbridge handles the business of selling software online, from taking payments to managing subscriptions, and its client roster includes some familiar names in enterprise IT, such as Red Hat, SUSE, Tenable, Veeam, Jamf, Parallels, and Plesk. That doesn't mean customers of all those companies had their card details stolen. Cleverbridge hasn't named the vendors affected by the intrusion, nor has it disclosed how many people were caught up in the breach or how long the hackers were poking around its systems. In its notification to customers, the company said it had contacted data protection authorities, payment card schemes, and its payment partners, and was working with a specialist police cybercrime unit. It began notifying affected individuals on November 20, more than two weeks after discovering the intrusion. Affected customers are being offered 24 months of free credit monitoring and fraud assistance. That may help detect identity misuse, but it won't stop a crook armed with their card number, expiration date, and CVV from attempting a fraudulent purchase. Two years of credit monitoring is a nice gesture, but customers whose card numbers and CVVs are now in criminal hands might prefer a new bit of plastic. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=258553&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=258553&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>Signal to restrict screenshots over AI agent concerns – again</title>

@@ -4,15 +4,81 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Switzerland clears 57 jurisdictions for crypto tax data sharing</title>
+<link>https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing</link>
+<guid isPermaLink="false">fa5e01d74333b877a1b94dc532dc61aa3affe9ea0e36b9e41bf6167e732c22b9</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 21:53:38 +0000</pubDate>
+<description>The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A4536P99DZ11ZD4K1M4RQA/hi-how-to-file-crypto-taxes-in-the-us.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A4536P99DZ11ZD4K1M4RQA/hi-how-to-file-crypto-taxes-in-the-us.png" medium="image"/>
+</item>
+<item>
+<title>What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?</title>
+<link>https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal</link>
+<guid isPermaLink="false">2473c904596c8d1bdc3cc6345692ad537b59917037a11d7be28d7ee0973265ec</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 21:46:02 +0000</pubDate>
+<description>U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia’s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/alice-huang-social-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/alice-huang-social-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>US stocks fall further as fears over AI intensify</title>
+<link>https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">42b954009353f086b60c4595b68150c624927a58f3f991399cde424acc8354b2</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 21:43:18 +0000</pubDate>
+<description>All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
+</item>
+<item>
 <title>Poundland collapses putting 11,000 jobs at risk</title>
 <link>https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">fcba5c9d7e3f7593e60a3b818992ee1499e498eef5e805a9dfe2803dfef820c5</guid>
 <source>BBC Business</source>
 <category>business</category>
-<pubDate>Wed, 25 Nov 2026 20:43:58 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 21:31:10 +0000</pubDate>
 <description>The discount chain has fallen into administration after its owners failed to find a buyer.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
+</item>
+<item>
+<title>Braiins warns of Bitcoin mining attacks affecting over 1,000 sites</title>
+<link>https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites</link>
+<guid isPermaLink="false">e13929df64ca2f9197098946393b1555ca1ed86622d21e3f46ec009f21bd3ea7</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 21:22:19 +0000</pubDate>
+<description>Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners’ computing power and potentially steal rewards.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A6MMEPRZNERDMM8DPPCV1R/hi-hacker-launders-nearly-all-money-in-stolen-funds.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A6MMEPRZNERDMM8DPPCV1R/hi-hacker-launders-nearly-all-money-in-stolen-funds.jpg" medium="image"/>
+</item>
+<item>
+<title>The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might</title>
+<link>https://decrypt.co/384002/1password-breach-vaults-phishing-emails</link>
+<guid isPermaLink="false">e5a8de5817a73b362b65585348a82327100b5198a77de2701f2cae002e621985</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 21:16:02 +0000</pubDate>
+<description>An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2023/07/scammers-impersonators-gID_7.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2023/07/scammers-impersonators-gID_7.jpeg" medium="image"/>
+</item>
+<item>
+<title>Why ECB collateral eligibility could boost demand for tokenized bonds</title>
+<link>https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds</link>
+<guid isPermaLink="false">0ab1aa119ed22e45e6f45bcfdbcd8d111807f4e492a957ba90cb032df10595bf</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 21:11:39 +0000</pubDate>
+<description>Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SGJ98DS23Q9G7WEFX07KJ/lift-rise-rising-digital-euro-man-up.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SGJ98DS23Q9G7WEFX07KJ/lift-rise-rising-digital-euro-man-up.jpg" medium="image"/>
 </item>
 <item>
 <title>Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards</title>
@@ -37,17 +103,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Top 10 Best Office Gadgets On Sale for Black Friday</title>
-<link>https://www.entrepreneur.com/business-news/top-10-best-office-gadgets-on-sale-for-black-friday</link>
-<guid isPermaLink="false">8cf120698a6b8e0b0ec102d03e0ecf6b40d5c791556122ad4aa833ec25e5ea2f</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 19:53:47 +0000</pubDate>
-<description>From Aura digital picture frames to the Pocket AI voice recorder, here are great office gadgets that are discounted for Black Friday.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Aura-digital-photo-frame.-Photo-credit-Aura.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Aura-digital-photo-frame.-Photo-credit-Aura.jpg" medium="image"/>
-</item>
-<item>
 <title>Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor</title>
 <link>https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor</link>
 <guid isPermaLink="false">35d8ab2fae29df6bd27d1b03edfe42ba61b3d170d503b506a413eb5657994b0f</guid>
@@ -70,17 +125,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9742/live/bc650a50-e906-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
 </item>
 <item>
-<title>I Paid My Team a Bonus for Doing More — and the Work Got Worse. Here’s What It Taught Me.</title>
-<link>https://www.entrepreneur.com/building-a-business/i-paid-my-team-a-bonus-for-doing-more-and-the-work-got-worse-heres-what-it-taught-me</link>
-<guid isPermaLink="false">5ffcba034346dd6228c1694c660c3bf5f890e8a44e647f77cde66e410b045b21</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 19:30:00 +0000</pubDate>
-<description>I paid my team a cash bonus for hitting a video target. Complaints rose, and cancellations hit 13%. Here is what the data showed and what fixed it.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/paying-team-more-backfires-1126_g2289027938.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/paying-team-more-backfires-1126_g2289027938.jpg" medium="image"/>
-</item>
-<item>
 <title>Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit</title>
 <link>https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit</link>
 <guid isPermaLink="false">2eb13ea8d0cf206f3d06f5b54bca93bf8cd03d9677e225e6ce2082cdce8beeb8</guid>
@@ -90,17 +134,6 @@
 <description>The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Your Plan for Next Year Could Be in Trouble Before It Even Begins — Unless You Ask the Right Question</title>
-<link>https://www.entrepreneur.com/building-a-business/your-plan-for-next-year-could-be-in-trouble-before-it-even-begins-unless-you-ask-the-right-question</link>
-<guid isPermaLink="false">12405347ef32886c2e1bfe9ae48504a52b200295a0491e7703bf6d408c3ee3d9</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 19:00:00 +0000</pubDate>
-<description>Unfinished work from this year consumes next year's people and budget without appearing among the new priorities leaders are asked to rank.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/plan-for-next-year-1126-g-863559056.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/plan-for-next-year-1126-g-863559056.jpg" medium="image"/>
 </item>
 <item>
 <title>Ethereum Foundation backs Keccak-256 to counter quantum, AI threats</title>
@@ -189,17 +222,6 @@
 <description>Bitcoin Magazine DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud The U.S. Justice Department said Tuesday that its largest-ever crackdown on scammers has produced actions against more than 800 defendants since March, with cryptocurrency investment fraud run out of Southeast Asian scam centers among its top targets. The department announced the results of an anti-scam surge that followed President Donald Trump’s Executive Order 14390, signed March 6. Since then, prosecutors have acted in more than 400 cases, bringing new charges, extraditions, guilty verdicts and sentences across 85 federal districts. U.S. agents also helped police in more than 10 countries raid foreign scam call centers and compounds that targeted Americans. Thirty defendants were extradited to face charges in U.S. courts. “Predatory scams against the American people will not be tolerated,” Attorney General Todd Blanche said. “The unprecedented results of this surge are just the beginning.” More than $1 billion in crypto frozen Crypto sits at the center of much of the effort. The State Department said the U.S. and Southeast Asian law enforcement it funds and trains have helped freeze more than $1 billion in stolen cryptocurrency and take down more than 1.4 million fraudulent websites and accounts. The Justice Department’s Scam Center Strike Force, formed in 2025 to go after Southeast Asian crypto fraud, says its crypto seizure team has restrained about $1.08 billion in cryptocurrency from these schemes. The team is focused on returning stolen funds to victims. The FBI’s Operation Blackout has restrained nearly $17 billion in illicit funds, seized more than 14,000 digital devices and helped dismantle more than 29 scam compounds across Asia, Africa and the Middle East, the department said. The FBI also helped free and repatriate more than 2,200 trafficked workers forced to run scams inside those compounds. “The message to these scam syndicates is clear: if you target Americans, justice will find you,” FBI Director Kash Patel said. Scam cases tied to fake crypto platforms In the past month alone, the Criminal Division filed or unsealed charges against more than 30 scam defendants, including those tied to Southeast Asian scam centers running crypto investment fraud schemes. Other cases involved inheritance fraud, jury duty imposters working from Georgia prisons and sweepstakes schemes aimed at elderly Americans. The Secret Service said it has restrained more than $200 million in illicit funds during the surge. One of its cases identified a crypto investment conspiracy run from scam centers in Cambodia that targeted at least 174 U.S. victims. In October, a Chinese national was extradited from the Netherlands and arraigned in California over his alleged role. In Moldova, State Department-backed raids in October shut down five call centers and led to the detention of eight suspected coordinators who allegedly ran fake crypto trading platforms. The SEC s</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJ-Targets-800-Defendants-in-Largest-Ever-Scam-Crackdown-Including-Crypto-Fraud.jpg" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJ-Targets-800-Defendants-in-Largest-Ever-Scam-Crackdown-Including-Crypto-Fraud.jpg" medium="image"/>
-</item>
-<item>
-<title>US stocks fall further as fears over AI intensify</title>
-<link>https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">42b954009353f086b60c4595b68150c624927a58f3f991399cde424acc8354b2</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 17:48:09 +0000</pubDate>
-<description>All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
 </item>
 <item>
 <title>OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers</title>
@@ -411,6 +433,17 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png" medium="image"/>
 </item>
 <item>
+<title>California fines Afterpay $2.7M</title>
+<link>https://www.bankingdive.com/news/california-fines-afterpay-27m/875794</link>
+<guid isPermaLink="false">d8110cd9fd20d30a4c4252c46ffcb1348240200f95f0fc75f32dcbacb9a9b0eb</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 16:05:00 +0000</pubDate>
+<description>The state imposed the penalty on Block’s buy now, pay later business after finding the company failed to assess customers’ ability to repay loans.</description>
+<enclosure url="https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp" medium="image"/>
+</item>
+<item>
 <title>An Email Avalanche Is Coming to Your Customers on Black Friday. Here’s How to Make Sure Yours Reaches Them</title>
 <link>https://www.entrepreneur.com/building-a-business/an-email-avalanche-is-coming-to-your-customers-on-black-friday-heres-how-to-make-sure-yours-reaches-them</link>
 <guid isPermaLink="false">1b76cb5ad9b14be7f5abc87d7cbd3e5078400ddcb8e3c111393b4f89c09dba92</guid>
@@ -466,6 +499,28 @@
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/signs-youre-ready-for-a-second-location-1126_g1311528532.jpg" medium="image"/>
 </item>
 <item>
+<title>‘Claude Was My First Employee’: Her Tasty Side Hustle Sold Out Fast and Makes $15,000 a Month</title>
+<link>https://www.entrepreneur.com/side-hustle/claude-was-my-first-employee-her-tasty-side-hustle-sold-out-fast-and-makes-15000-a-month</link>
+<guid isPermaLink="false">7edf91d539b21221b9f0dd757d03db1fdf83e9acc69f69058cfeb43c7d61531e</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+<description>Lauren Mahurin lost 100 pounds and was unimpressed by the "better for you" options on grocery store shelves.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Lohso-Lauren-Mahurin.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Lohso-Lauren-Mahurin.jpg" medium="image"/>
+</item>
+<item>
+<title>GLP-1 Meds Like Ozempic Are Having a Weighty Impact on Fast-Food Restaurants</title>
+<link>https://www.entrepreneur.com/buying-a-franchise/glp-1-meds-like-ozempic-are-having-a-weighty-impact-on-fast-food-restaurants</link>
+<guid isPermaLink="false">93304b805ee6ef4ef0a667080dddaf2f5d30703544353f14041b1573f6501df5</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+<description>A new report found that 73% of consumers are eating less at fast-food restaurants since they’ve started taking the drugs.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/fast-food-1126-g-852616208-.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/fast-food-1126-g-852616208-.jpg" medium="image"/>
+</item>
+<item>
 <title>Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open</title>
 <link>https://bitcoinmagazine.com/markets/bitcoin-price-falls-57500-nasdaq</link>
 <guid isPermaLink="false">66e1b83884e1e38be2b42e639cacb3113966330fa1a359ddb8deda2e16830d82</guid>
@@ -519,6 +574,17 @@
 <description>Constance Waing said Netflix used racist stereotypes in its portrayal of CZ and misrepresented life at FTX before the exchange’s collapse.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89EG9XE1SFYT4R3QX10Q2ZA/hi-changpeng-zhao.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89EG9XE1SFYT4R3QX10Q2ZA/hi-changpeng-zhao.jpg" medium="image"/>
+</item>
+<item>
+<title>The Nutty Story of How a Thieving Squirrel Became a Macy’s Thanksgiving Parade Star</title>
+<link>https://www.entrepreneur.com/business-news/the-nutty-story-of-how-a-thieving-squirrel-became-a-macys-thanksgiving-parade-star</link>
+<guid isPermaLink="false">112a84ffd642b23035120685f13af5e481724d904dff9271838ff8bacab86e1e</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 14:17:00 +0000</pubDate>
+<description>The strange story of Earl the Squirrel's ascent from an inside joke at Universal Orlando to valuable IP.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/earl-the-squirrel-1126.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/earl-the-squirrel-1126.jpg" medium="image"/>
 </item>
 <item>
 <title>Energy bills to rise by 26% from January after gas prices surge</title>
@@ -1060,17 +1126,6 @@
 <media:content url="https://imgproxy.divecdn.com/iQr0GmGzV3LRui2z2xBr75dzPYYpWmIJY38xP6sdPZo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yQ0M3RVIxLmpwZw==.webp" medium="image"/>
 </item>
 <item>
-<title>Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price</title>
-<link>https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price</link>
-<guid isPermaLink="false">ac8566f3a0a1f630ed86bfa60340bba64307637e36f62127b4882050dbcfc1ce</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 17:09:11 +0000</pubDate>
-<description>Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875FNTK5A5N7SWKXH8E8RC9/article-covers-143614-the-bitcoin-bottom-is-not-in-btc-traders-set-price-targets-in-low-40k-range-1280x853.webp" type="image/webp"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875FNTK5A5N7SWKXH8E8RC9/article-covers-143614-the-bitcoin-bottom-is-not-in-btc-traders-set-price-targets-in-low-40k-range-1280x853.webp" medium="image"/>
-</item>
-<item>
 <title>Adyen co-founder to step down</title>
 <link>https://www.bankingdive.com/news/adyen-co-founder-van-der-does-step-down-uytdehaage/875640</link>
 <guid isPermaLink="false">874bef8a5ef9dccd56651913e3f36e93ae792ff3972b105eb40673a04e21f259</guid>
@@ -1080,17 +1135,6 @@
 <description>“I feel my cycle is complete,” Pieter van der Does, also co-CEO, wrote after 20 years with Adyen. “This is the right moment for me to step down.”</description>
 <enclosure url="https://imgproxy.divecdn.com/Z6Bim98OeEoFNdTQkJLrV4YBFUrm69UaKLAehIA7-yg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfODQ2MC5qcGc=.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/Z6Bim98OeEoFNdTQkJLrV4YBFUrm69UaKLAehIA7-yg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfODQ2MC5qcGc=.webp" medium="image"/>
-</item>
-<item>
-<title>How South Korea’s proposed 20% cap could change who runs Upbit</title>
-<link>https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit</link>
-<guid isPermaLink="false">e359bc246e9bbd0c28578cdba053b60486445a158dc016b8c1cbc770f81a1ab4</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 16:33:26 +0000</pubDate>
-<description>Naver Financial agreed to buy every share in Upbit’s operator, but a proposed ownership cap could strip away its voting rights on four-fifths of them.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry</title>
@@ -1113,17 +1157,6 @@
 <description>U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/department-of-justice-doj-decrypt-style-scaled-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/department-of-justice-doj-decrypt-style-scaled-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>USDT buyers face 22% VAT when Moscow Exchange opens crypto trading</title>
-<link>https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch</link>
-<guid isPermaLink="false">08b31abd8b8fbda053e64a2effa341e9bb38f446ee5adb05d6ce01c80e34603c</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 14:10:23 +0000</pubDate>
-<description>Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption for foreign digital instruments.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86V69BFN7DVT7AYSE5HQFWR/hi-russias-central-bank-digital-currency-prospects-and-problems-stablecoin-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86V69BFN7DVT7AYSE5HQFWR/hi-russias-central-bank-digital-currency-prospects-and-problems-stablecoin-1.jpg" medium="image"/>
 </item>
 <item>
 <title>CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto</title>
@@ -1324,28 +1357,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/Profeta-do-Hardware-Celestial-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds</title>
-<link>https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot</link>
-<guid isPermaLink="false">dac38ad35dcc5135051b85c168e5327dcd156748506f2302ba84a7e372727a7d</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 18:16:25 +0000</pubDate>
-<description>The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Perps and Swaps: How to Trade the News on Decrypt</title>
-<link>https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt</link>
-<guid isPermaLink="false">769eb00c6cfbbc5b2ccea87efdf0dacd65d1c54e4676db294923a492c92a11ca</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 18:15:45 +0000</pubDate>
-<description>Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/decrypt-trade-the-news-learn-gID_1-pID_2.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/decrypt-trade-the-news-learn-gID_1-pID_2.png" medium="image"/>
-</item>
-<item>
 <title>Payoneer gets conditional approval for trust bank</title>
 <link>https://www.bankingdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875506</link>
 <guid isPermaLink="false">437611961c7e956c5c834faa73cbed94422b75bee0b915e7166f0e68c698c64b</guid>
@@ -1366,17 +1377,6 @@
 <description>The Nvidia chief executive has been at the centre of the artificial intelligence boom.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg" medium="image"/>
-</item>
-<item>
-<title>AI-forward insurance startup Corgi applies for bank charter</title>
-<link>https://www.bankingdive.com/news/corgi-applies-occ-fdic-national-bank-charter-ai-insurance-fintech/875453</link>
-<guid isPermaLink="false">47f082d981a75029c1940ab657addf522a8657b3e8e054ac7f0da3a23bd9d63f</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 14:41:23 +0000</pubDate>
-<description>Corgi wants a national bank charter, which would put its holding company under the Federal Reserve’s purview – a rarity among insurance firms.</description>
-<enclosure url="https://imgproxy.divecdn.com/Ynio67rfYurR3M67S-xE1Tz5L6iqiEEwnnzmJ0vwdmA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/Ynio67rfYurR3M67S-xE1Tz5L6iqiEEwnnzmJ0vwdmA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp" medium="image"/>
 </item>
 <item>
 <title>San Francisco is enjoying an AI boom, but worries about a crash are growing</title>

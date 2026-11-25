@@ -4,6 +4,116 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space</title>
+<link>https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers</link>
+<guid isPermaLink="false">17929128d139e3d01b22009c328b779c737ec4fa82e0f43a237bb3fbc53c40b5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 17:44:51 +0000</pubDate>
+<description>In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative . With several others also pursuing the idea of putting AI data centers in space , including Google and Blue Origin, this is the first approval the agency has granted for a full "constellation" of AI satellites. The FCC's approval requires SpaceX to deploy at least one satellite by 2033, and meet the 1 million satellite milestone by 2040. The FCC also deferred SpaceX's request to dispose of satellites located above 600km in space "graveyard" orbits , rather than … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Ladybird browser's first downloadable alpha is surprisingly capable</title>
+<link>https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium</link>
+<guid isPermaLink="false">ce62745915f817b4df1dc1c5ce64508194da483cb541194ee2a5060befd05b97</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 17:33:30 +0000</pubDate>
+<description>After four years of work to build a browser engine from scratch, the Ladybird project released its first downloadable alpha on November 23, offering prebuilt versions for macOS and Linux. Previously, curious users had to compile the browser themselves from its source. Now it's an installable package with automatic updating. Ladybird is most notable for what it isn't: another browser fork. Where Chrome, Edge, Brave, and Opera all run on Google's Blink engine, and Firefox depends on Gecko, Ladybird's rendering engine and its LibJS JavaScript engine were written from scratch. "The engine is our own, built from the ground up, and not a fork," project lead Andreas Kling wrote in Monday's announcement. "The browser around it is modest, but functional." A fourth engine Nearly the entire modern web currently runs on three browser engines. There's WebKit (Safari), Gecko (Firefox), and the biggest of them all, Blink (Chromium). Those limited options mean that web developers often end up optimizing sites for Chromium specifically, since that's where the majority of traffic is, and as a result, the whole web platform tends to follow suit toward whatever the dominant engine supports. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png" type="image/png"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png" medium="image"/>
+</item>
+<item>
+<title>Hera probe finds DART left a stadium-sized dent in asteroid Dimorphos</title>
+<link>https://www.theregister.com/science/2026/11/25/hera-probe-finds-dart-left-a-stadium-sized-dent-in-asteroid-dimorphos/5312153</link>
+<guid isPermaLink="false">c90da8922c708bc6b02e5210fdbb79ad76e9be6aa4aa0b2698cf4515f0b9316a</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 17:30:00 +0000</pubDate>
+<description>The European Space Agency's Hera probe has revealed a stadium-sized crater on Dimorphos, the asteroid NASA struck with its DART spacecraft in 2022. The Double Asteroid Redirection Test was deliberately crashed into the asteroid on September 26, 2022. The original plan called for a European spacecraft – Asteroid Impact Mission (AIM) – to launch first and observe the before and after effects of DART. AIM was canceled, and the Hera mission launched in 2024. DART was a success. Scientists were able to determine that the impact had indeed changed the orbit of Dimorphos. The question was what else had happened to the asteroid. Scientists spotted ejecta and debris following the DART impact, but the close-up observations by Hera have revealed the full extent of the collision. Hera principal investigator Patrick Michel, Director of Research at CNRS / Observatoire de la Côte d'Azur, said: "Scientists debated whether Dimorphos had sustained an impact crater, changed its shape or stayed the same. "Much to our surprise the answer turns out to be all three at once! The face struck by DART has been flattened into an impact crater the size of a sports stadium, which extends across the asteroid's entire width." Scientists also noted that the asteroid is now tumbling in its orbit. Hera is surveying the 151-meter-wide Dimorphos and its larger companion, the 730-meter-wide Didymos, from about 25 to 30 km away. It moves around the pair at roughly 12 cm/s, using thruster firings to trace rectangular paths rather than conventional circular orbits. The plan is to approach closer, to about 13 km, to get higher-resolution snaps. A complicating factor is the discovery that hundreds of orbiting boulders surround the asteroids. Michael Kueppers, ESA's Hera mission scientist, said: "The team will have to take account of these objects in the coming weeks as the mission moves in closer." Hera will deploy two CubeSats, Juventas and Milani, in early 2027. The Italian-led Milani will study surface composition and surrounding dust, while the Luxembourg-led Juventas will use radar to probe Dimorphos's interior before attempting a landing. Scientists also want to measure Dimorphos's mass. Combined with the observed change in its orbit, that will help them assess how effectively DART transferred momentum to the asteroid and improve predictions for future deflection attempts. Hera mission manager Ian Carnelli said: "NASA's DART mission demonstrated that we can change an asteroid's orbit. Hera is now revealing what happened to the asteroid itself. By combining these two missions, humanity is taking a decisive step towards making asteroid deflection a reliable tool for protecting our planet." ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5312159&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312159&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Etsy clarifies AI terms after seller backlash</title>
+<link>https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash</link>
+<guid isPermaLink="false">9dc01b6ea2baec9bd31632dc33c243dbd49a92c635bf3399c6e5d2a64e64d5c3</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 17:12:57 +0000</pubDate>
+<description>After backlash from sellers frustrated by Etsy’s new AI policies, which appeared to allow the company to train AI on user artwork, Etsy has now clarified its stance. In a note published on Monday, CEO Kruti Patel Goyal discussed recent tweaks to the company's terms of service and admitted that her team "should’ve given you more context on what the updates meant for your creative content." “Our recent terms update was meant to reflect the evolving technologies we're using to build better tools and experiences for sellers and the Etsy community,” Goyal wrote this week. “It was not meant to enable us to train AI models for the purpose of creating copycats of your items. We do not and will not do that.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft's NTLM security changes trip up third-party logins</title>
+<link>https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085</link>
+<guid isPermaLink="false">12634c4f9dea4859df5adacaefe7921e0ff78c16678b6cdc00a4d071be2bf8a7</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 17:01:00 +0000</pubDate>
+<description>Microsoft's November security updates can break authentication in some third-party applications and devices following changes to NTLM message signing. Affected systems include authentication proxy servers, single sign-on (SSO) products, and application packaging tools, the company's support notice says. The failures stem from products that claim to supply required information during NTLM authentication but return incomplete or empty data, Microsoft said: "An affected device might set the NTLMSSP_NEGOTIATE_TARGET_INFO flag in its CHALLENGE_MESSAGE but provide an empty or incomplete TargetInfo field." Administrators can use the notice's network trace and event log examples to identify affected products. For confirmed cases, the temporary workaround is to set the ClientAllowUnsignedNtlm Registry value to 1 on affected clients. This stops the client offering signing, backing out the new default rather than fixing the incompatible product. The recommended long-term options are a vendor update or Kerberos authentication, where supported. The value sits under HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa\MSV1_0 and defaults to 0, enabling clients to offer signing on non-anonymous connections. The NTLM changes arrived in the November 10 update as phase 1 in a 2-phase process. In phase 1, "Windows client devices begin offering NTLM signing on all connections by default. Servers accept both signed and unsigned clients. Auditing events identify clients not using signing." Phase 2, scheduled for May 2027, will make Windows servers require NTLM signing by default. "Clients that do not offer signing will be rejected by secure servers," Microsoft stated. Ominously, Microsoft warned that it "might remove the registry keys at a future date," so the company is not kidding about the temporary workaround thing. The additional protections were added to address CVE-2026-118737 , a vulnerability in which "improper verification of cryptographic signature in Windows Remote Procedure Call Runtime allows an unauthorized attacker to execute code over a network." NTLM is on Microsoft's hit list, having joined the Deprecated Features list in 2024. It dates back to the era of Windows NT, and Microsoft has made clear that it wants customers to move to Kerberos, which became the default in 2000. Even so, NTLM lingers on. Deprecation doesn't remove Microsoft's obligation to secure NTLM while it remains in supported Windows releases. For administrators, though, the immediate task is identifying incompatible products before temporary exceptions give way to stricter enforcement. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5244798&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5244798&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>The Verge’s guide to the best gifts under $100</title>
+<link>https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026</link>
+<guid isPermaLink="false">a4afc2c4dfef9fb358180a57bd38df6bf035950471edf2210e8e2e464f057f7b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 17:00:00 +0000</pubDate>
+<description>Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers, shoppers, and endless tinkerers ourselves, we're well-versed in recommending stuff in this price tier. Below, you'll find our favorite items at $100 or less that we think are fun, eccentric, and surprisingly handy. From open-style earbuds and gaming gear to handheld vacuums and e-readers , our picks should suit just about anyone on your sho … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>WhatsApp is finally offering scheduled messages</title>
+<link>https://www.engadget.com/2328242/whatsapp-is-finally-offering-scheduled-messages</link>
+<guid isPermaLink="false">e5c2120d60ff2d778bad94dd8cd7943857a5fcfadcc0d755caf6b8fc395e3df7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 16:54:10 +0000</pubDate>
+<description>You'll be able to schedule a text, photo or video message up to 14 days in advance.</description>
+<enclosure url="https://www.engadget.com/img/gallery/whatsapp-is-finally-offering-scheduled-messages/l-intro-1795625210.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/whatsapp-is-finally-offering-scheduled-messages/l-intro-1795625210.jpg" medium="image"/>
+</item>
+<item>
+<title>Ars Live recap: Don’t expect military attacks on data centers to stop</title>
+<link>https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop</link>
+<guid isPermaLink="false">e0d965bae52b987512695e474859a5c4ccc7bbc71257ca3035ba8dc243bd4816</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 16:47:14 +0000</pubDate>
+<description>Drone attacks on data centers. Amazon data centers came under military attack for the first time ever in the Middle East this year, and Russia and Ukraine exchanged an unprecedented flurry of drone strikes on each other’s data centers. To examine what such attacks on data centers mean for the future of cloud services that all modern societies depend upon, Ars hosted a live discussion. In a conversation with Ars Technica Tech Reporter Jeremy Hsu, Joseph Jarnecki at the Royal United Services Institute first talked about why public cloud data centers have increasingly become military targets during the 2026 Iran war and the ongoing full-scale Russian invasion of Ukraine: We see an increasing acknowledgement and fact of dual use in particularly the public cloud, but also just across the board in private cloud data centers as well. The dual use that I refer to is the utilization of compute functions within these data centers—within cloud services—by militaries, for example, to run battlefield management systems, to do their HR, to do their resource management. Once a military uses a piece of civilian infrastructure, at least under international law or in terms of the principles of targeting that are taken forward by militaries, it can sometimes become a military object and is therefore of interest to an adversary, and there's an incentive to target it. Jarnecki also highlighted the fact that relatively cheap kamikaze drones can inflict disproportionate economic costs and create widespread cloud disruptions when striking data centers: Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg" medium="image"/>
+</item>
+<item>
+<title>US Treasury financial crimes unit becomes latest fed breach victim</title>
+<link>https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165</link>
+<guid isPermaLink="false">e87ab0f0d91d34afcb318080e790a148bdb1a99976ff045e6d53720fbc6e38cb</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 16:40:16 +0000</pubDate>
+<description>The US Treasury's Financial Crimes Enforcement Network (FinCEN) has taken some systems offline following unauthorized access, disrupting regulatory filings for financial institutions. An alert has gone up on FinCEN's Bank Secrecy Act E-Filing website, as shown in this archived copy , informing those who need to submit reports that they might not be able to while the agency deals with the situation. FinCEN not only enforces compliance with the Bank Secrecy Act and associated regulations but also collects and analyzes financial intelligence for sharing with other US agencies and foreign government partners. In other words, it has some juicy info in its databases. “FinCEN is investigating a cybersecurity incident that resulted in unauthorized access to a limited subset of its systems,” the alert states. “As a proactive measure, FinCEN has taken some systems offline.” FinCEN hasn't said which systems intruders accessed, but clues in the deadline extension notice the agency posted alongside the warning suggest the disruption affects its reporting services for banks and other financial institutions required to submit reports detailing certain financial transactions and suspicious activity that may indicate money laundering or other illicit activity. FinCEN's Secure Data Transfer Mode, one method of submitting those reports, appears to be affected, as do services companies use to submit beneficial ownership information reports and individuals use to update their FinCEN identifiers. Eligible organizations and individuals with filings or updates due from November 18 through December 29 now have until December 30 to submit them. The Register has learned that there’s no evidence of any unauthorized access to Bank Secrecy Act data or beneficial ownership databases. That said, the investigation is ongoing - so that could change. “Treasury is working with the Federal Bureau of Investigation, the Cybersecurity and Infrastructure Security Agency, and third-party forensic examiners to determine the scope and impact of the incident,” a FinCEN official told us in an email. Several US government agencies have experienced cybersecurity incidents in recent months, including the ATF and the FBI , and reports emerged this week that intruders had also compromised an unclassified CIA system . While US authorities have linked previous cyberespionage campaigns to Chinese or other government-backed groups , financially motivated criminal groups have also targeted federal agencies. As the FinCEN breach is still under investigation, the agency hasn’t stated who may be involved and for what purpose. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=232475&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=232475&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets</title>
+<link>https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions</link>
+<guid isPermaLink="false">34afb93aaef7b71fdedde96419ccd27e532f6534287b5fe2c7cb71fc6bc7a23f</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 16:33:45 +0000</pubDate>
+<description>On Tuesday, a US jury convicted one of China’s key telecommunications and AI giants, Huawei Technologies, of stealing trade secrets from US tech firms and evading sanctions against Iran. Although the longrunning charges stem back to 2018, the verdict coming now threatens to inflame US-China tensions at a sensitive time, just as Donald Trump prepares to increase tariffs on China . In a press release , however, the US Department of Justice celebrated the outcome as critical to protecting the US financial system, the global telecommunications industry, and US national security. The jury convicted Huawei of charges including bank fraud, conspiracy to defraud the US, money laundering conspiracy, and “substantive” violations of the International Emergency Economic Powers Act. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306257922.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306257922.jpg" medium="image"/>
+</item>
+<item>
 <title>Nothing's Ear (note) is a pair of earbuds with built-in AI notetaking</title>
 <link>https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking</link>
 <guid isPermaLink="false">70fa059d0f064906fd9b426f0128b7212bab0b1f7288d8d9352880624a095467</guid>
@@ -21,7 +131,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Wed, 25 Nov 2026 15:35:17 +0000</pubDate>
-<description>In a powerful explosion that launched gray-white clouds over southeastern Iowa, the Army detonated 68 barrels containing 9,700 pounds (4.4 tons) of degraded lead azide on Wednesday at about 9 am CT, preventing a spontaneous unmitigated explosion of the crystallized, highly unstable compound. The detonation occurred at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa, a town of less than 400 people. Residents within a 5-mile area of the facility were advised to evacuate, while people farther out were told to shelter in place, close windows and doors tightly, turn off fans, and set indoor air systems to recirculate. Local Iowa outlet KWQC caught the plume from the two earth-covered containers, which were detonated simultaneously. A KWQZ journalist, at a reportedly safe distance from the blast, said on the live broadcast that he could see and then feel the shockwave roll through the crop field in which he was standing. He put a mask on for the rest of the broadcast. Read full article Comments</description>
+<description>In a powerful explosion that launched gray-white clouds over southeastern Iowa, the Army detonated 68 barrels containing 9,700 pounds (4.4 tons) of degraded lead azide on Wednesday at about 9 am CT, preventing a spontaneous unmitigated explosion of the crystallized, highly unstable compound. The detonation occurred at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa, a town of fewer than 400 people. Residents within a 5-mile area of the facility were advised to evacuate, while people farther out were told to shelter in place, close windows and doors tightly, turn off fans, and set indoor air systems to recirculate. Local Iowa outlet KWQC caught the plume from the two earth-covered containers, which were detonated simultaneously. A KWQZ journalist, at a reportedly safe distance from the blast, said on the live broadcast that he could see and then feel the shockwave roll through the crop field in which he was standing. He put a mask on for the rest of the broadcast. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom.jpg" medium="image"/>
 </item>
@@ -301,17 +411,6 @@
 <media:content url="https://image.theregister.com/?imageId=262697&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>US financial crimes bureau discloses ‘cybersecurity incident’</title>
-<link>https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident</link>
-<guid isPermaLink="false">b260aefcebf2b187e437741334b9ff9f8fd274720eb6133d690fbd6085813916</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 01:00:00 +0000</pubDate>
-<description>The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a "cybersecurity incident." The bureau, which is part of the Treasury Department, said it's looking into an "incident that resulted in unauthorized access to a limited subset of its systems." It hasn't offered any information about the full scope or source of the breach, but FinCEN has taken some systems offline as a precaution. The news comes hours after The New York Times reported that the Central Intelligence Agency and Office of the Director of National Security discovered a breach of an open source intelligence system, exposing unclassified i … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Change this Roku TV setting to watch movies how they were filmed</title>
 <link>https://www.engadget.com/2321254/change-roku-tv-setting-watch-movies-how-filmed</link>
 <guid isPermaLink="false">6518b4af37d757773e80cb738961af06d270854770671bbb560c09cfb8ae5b57</guid>
@@ -343,17 +442,6 @@
 <description>Your Apple Watch has a way to share the time that even supports Morse Code. See which of its three modes makes sense for your daily routine.</description>
 <enclosure url="https://www.engadget.com/img/gallery/you-dont-have-to-look-at-your-apple-watch-to-get-the-time/l-intro-1794922556.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/you-dont-have-to-look-at-your-apple-watch-to-get-the-time/l-intro-1794922556.jpg" medium="image"/>
-</item>
-<item>
-<title>The Verge’s 2026 gift guide for dads</title>
-<link>https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026</link>
-<guid isPermaLink="false">508b4d65dc568ac7499f3b0c7b70418512b1d747a6653daac1a72f069e44b9f9</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 23:59:29 +0000</pubDate>
-<description>Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this year's gift list with the modern father in mind, whether he's a gamer, creator, chef, or simply a gadget lover. There's a lot in here we think he'll like, from noise-canceling headphones like the Sonos Ace Ultra and an autonomous drone to a brilliant QD-OLED monitor and a nifty light that's perfect for illuminating his next campsite … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The battery in your Fitbit Edge is replaceable, but it's not as easy as you'd think</title>
@@ -598,17 +686,6 @@
 <media:content url="https://www.engadget.com/img/gallery/ways-you-can-help-your-video-doorbell-stay-charged-in-the-winter/l-intro-1795197275.jpg" medium="image"/>
 </item>
 <item>
-<title>Tidal is banning AI-generated music entirely</title>
-<link>https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely</link>
-<guid isPermaLink="false">cc2ae58cd7fc7c218149e60ce7ac6cd62010a0775d360dec9ef79624dcf5481e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 17:58:04 +0000</pubDate>
-<description>The company expects to purge 29 million tracks starting on December 9.</description>
-<enclosure url="https://www.engadget.com/img/gallery/tidal-is-banning-ai-generated-music-entirely/l-intro-1795543041.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/tidal-is-banning-ai-generated-music-entirely/l-intro-1795543041.jpg" medium="image"/>
-</item>
-<item>
 <title>Arm strongarms site that hosts ad-free documentation and it may disappear</title>
 <link>https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925</link>
 <guid isPermaLink="false">3d3f48ee8e6d9da9b4ad293a78b2e71dbc58e5affe28b9831d8de00cf27c8451</guid>
@@ -719,17 +796,6 @@
 <media:content url="https://image.theregister.com/?imageId=5305665&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>How Trump and Silicon Valley forced Nvidia to take Jensen Huang back</title>
-<link>https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back</link>
-<guid isPermaLink="false">53fd63244ab16fab8f869e21bfb4f40cdc2602e1fdb87363fe64bfaa02ca730d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 14:56:50 +0000</pubDate>
-<description>On Monday morning, Jensen Huang walked into Nvidia’s Santa Clara headquarters to rapturous applause from employees lining the walkways above him. Huang was visibly moved as one colleague threw themselves into his arms for a hug. The spectacular reinstatement of the chief executive of Nvidia, less than two weeks after he resigned in a scandal over an affair with a customer and suspected Chinese spy—as well as a second reported affair with a subordinate—caught even the company’s most senior executives by surprise. The abrupt reversal by Nvidia’s board was spurred by President Donald Trump, who applied pressure to the board over the weekend after watching what was once America’s most valuable company as well as the wider tech sector haemorrhage value last week. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490.jpg" medium="image"/>
-</item>
-<item>
 <title>Claude Ship puts AI at the helm of pull request approvals</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883</link>
 <guid isPermaLink="false">e541071035f06a50f0b4bef1bc76c97456f9b5cebc762758cf9e8253b3eec889</guid>
@@ -763,17 +829,6 @@
 <media:content url="https://image.theregister.com/?imageId=4094220&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Amazon says hackers' AI agents found and exploited 0-day with little human input</title>
-<link>https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input</link>
-<guid isPermaLink="false">44bd775b8ffe162aa816a6f064a380684d98e649b7b5a1d1ae9d860bb611fb8d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 12:30:05 +0000</pubDate>
-<description>Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server. The agents were running on Cairn, an open source AI penetration-testing framework. The hackers, who provided prompts in simplified Chinese and configured the model to the Chinese Standard Time zone, gave the agents a list of IP addresses and the goal: “obtain shell access.” In short order, the agents discovered a zero-day in an open source medical imaging AI application running on one of the target servers. The agents then exploited the vulnerability and gained full control of the system. “These findings show that agentic offensive operations are already happening, and defenders should prepare for the speed and persistence these tools enable,” Amazon said . Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg" medium="image"/>
-</item>
-<item>
 <title>CrowdStrike splashes $44B on Zscaler, customers brace for the bill</title>
 <link>https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877</link>
 <guid isPermaLink="false">95d6be49a516ef0634d47cdb5e604bb5deccd93ac8dea3ca8f5a8f678f554e44</guid>
@@ -783,28 +838,6 @@
 <description>CrowdStrike has agreed to buy Zscaler for $43.9 billion in what would be the biggest cybersecurity acquisition on record, and customers are already bracing for pricier renewals. The all-stock deal, announced on Monday , will see Zscaler shareholders receive 1.135 CrowdStrike shares for every share they own, representing a 34 percent premium on Friday's closing price. The transaction dwarfs even Google's $32 billion acquisition of cloud security upstart Wiz . Buying Zscaler gives CrowdStrike a sizeable foothold in the network security market, where it will be going up against the likes of Palo Alto Networks and Fortinet. The plan is to combine Falcon's endpoint protection capabilities with Zscaler's zero-trust network security technology, giving customers a single platform for securing devices and the connections between them. Naturally, there's an AI angle to the biggest cyber deal in history. CrowdStrike reckons owning both technologies will allow it to keep tabs on what AI agents are doing on corporate devices, where they're connecting, and what data they're getting their hands on. CrowdStrike CEO George Kurtz described the proposed combination as "cybersecurity’s operating system." The acquisition also gives CrowdStrike's salespeople plenty to get excited about. Around 8,000 Zscaler customers don't currently buy CrowdStrike's wares, and the companies already have more than 2,000 customers in common. CrowdStrike reckons it can boost its annualized revenue by around $1 billion within 30 months of closing the deal by selling more products to the two companies' existing customers. Some of those customers, however, don't sound particularly keen on being cross-sold to. Over on Reddit's r/sysadmin subreddit, news of the purchase was met with a familiar set of concerns from IT professionals who've lived through big-ticket enterprise software acquisitions before. "As a zscaler customer, this does worry me. Cost increase, forced move to Falcon, integration issues, etc," wrote one sysadmin. Another, whose organization already uses both vendors' products, added: "I think they're both great products but I imagine they'll jack up the price for our next renewal. Fun." CrowdStrike intends to make Zscaler's products available through its Falcon Flex licensing scheme, which allows customers to commit to a certain level of spending and pick and choose the products they deploy. Monday's acquisition announcement didn't spell out what the deal would mean for customers who want to continue using Zscaler alongside a rival endpoint security product. Others raised concerns about the fate of Red Canary, the managed detection and response specialist snapped up by Zscaler in August 2025. CrowdStrike already operates a competing service in Falcon Complete. There may also be some nervous employees at both companies. CrowdStrike is targeting $500 million in annual cost savings within two years of completing the acquisition, identifying datacenter infrastructure, supplier spe</description>
 <enclosure url="https://image.theregister.com/?imageId=252462&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=252462&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>One terminal command gave my forgotten Android device a desk job</title>
-<link>https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job</link>
-<guid isPermaLink="false">17e578298cde8481116fb6bebdd58539e6fbe2e2c5d9cff79cef108da08b659a</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 12:15:38 +0000</pubDate>
-<description>My kitchen junk drawer used to hold takeout menus and coupons, but it has since become a storage spot for old tablets or phones. Like me, you probably have a few devices lying around that are perfectly functional but don't meet your daily driving needs. It's tucked out of view, living out its life in a drawer until being erased and donated after someone asks why you're holding onto outdated, unused devices. Thankfully, PhoneBox has a solution. You weren't hoarding old tech; you were waiting for the proper use. The PhoneBox home screen displays useful stats and what's currently playing in your browser. Credit: Nick Indge I had an old AllDoCube iPlay 50 mini Pro 8.4-inch tablet that seemed like the perfect candidate. I bought the tablet second-hand as a possible big-screen gaming and emulation tablet to use with a telescopic control deck, but I quickly found I vastly preferred just using a dedicated device. Since that realization, this decent little unit has lived its life in "the drawer." Launch applications on your PC from the connected Android device. Credit: Nick Indge Installation is a doddle Getting PhoneBox up and running on my tablet and PC couldn't have been simpler. After making sure that the Android tablet was in developer mode, the process was as easy as plugging the tablet in to my PC via USB and executing a single copied command in my Linux terminal. The script downloaded the PhoneBox 0.9.29 software for my PC, verified the downloaded checksum against the release, and walked me through a few quick Y/N installation questions. The script offers to create a systemd user service, so the desktop agent launches after initial login, and even asks if you'd like it to install the PhoneBox APK to your connected Android device. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PhoneBox_Tablet_Home_Screen_TYS.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PhoneBox_Tablet_Home_Screen_TYS.jpg" medium="image"/>
-</item>
-<item>
-<title>Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic</title>
-<link>https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation</link>
-<guid isPermaLink="false">e80f6ff9a249b4855112b3c9e892c0b32026a0dfe8027b96cf9257925e5a20a5</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 12:00:57 +0000</pubDate>
-<description>Ukrainian explosive naval drones sank a Russian warship docked in the port city of Benghazi in Libya while also striking a Russian cargo ship that it was escorting. The incident demonstrates the expanding scope of Ukrainian military strikes on Russian ships from the coast of North Africa to the Gulf of Finland. The Russian Navy’s missile corvette Merkury sank at port after being struck by at least two Ukrainian naval drones on November 22, according to The Associated Press . Ukraine’s Security Service described using seven naval drones launched from a mother ship to target the Merkury , and Ukrainian President Volodymyr Zelenskyy shared video footage showing the drone boats approaching and exploding against both the burning Russian warship and a Russian dry cargo ship, MV Angara . Zelenskyy noted that a Ka-27 combat helicopter onboard the Merkury was also destroyed. He described the cargo ship MV Angara as transporting weapons—Russia provides material support to the Libyan National Army that currently controls Benghazi and is battling the internationally recognized Libyan government based in Tripoli. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/merkury-fire_benghazi-libya_20261122_054739_ssc4_rgb_flat_50cm_1920px_logo_geo-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/merkury-fire_benghazi-libya_20261122_054739_ssc4_rgb_flat_50cm_1920px_logo_geo-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>European Commission confirms personal data stolen in AI-assisted cyberattack</title>
@@ -1091,50 +1124,6 @@
 <description>Capita CEO Adolfo Hernandez has stepped down with immediate effect as the outsourcer warned of sharply lower profits next year, nearly a year after its troubled takeover of administration of the UK's Civil Service Pension Scheme (CSPS). In a statement , Capita said CFO Pablo Andres had become CEO, with group financial controller Gemma Bate-Williams succeeding him as finance chief. Capita now expects adjusted operating profit for 2027 to be £85 million to £95 million below previous expectations. That includes £15 million to £25 million in additional costs under a pensions recovery plan agreed with the Cabinet Office, alongside pressure from contract exits and other trading headwinds. Shares fell around 70 percent following the announcement. The company – which is also coming under fire for its £370 million contract with the Department for Work and Pensions (DWP) – said it had made significant progress in its transformation and strategic simplification. It also plans to raise around £190 million through a share issue in the first half of 2027 to reduce borrowing and to "allow the business to move forward from a more stable foundation," subject to support from its financial creditors. James Preece, principal analyst at UK tech research firm Megabuyte, said: "Slow motion car crash comes to mind. It has been a turnaround job for coming up to four years now, with long-suffering shareholders watching dozens of disposals and business exits fail to arrest a structural decline in both margins and growth. "Today's update suggests that management's underlying forecast assumptions alongside other more transient factors were still too punchy, and the leverage situation now calls for action. The share price reaction suggests confidence in this being a one-and-done raise is limited," he said. Capita took over administration of the scheme in December 2025 under a seven-year, £239 million contract, after which The Register exclusively revealed problems with its online systems . The vendor promised AI and automation, but the takeover brought a glitchy online portal, while some members struggled to receive pension payments. By January, it was clear the service was seriously failing, leaving some retired civil servants struggling to make ends meet. Capita missed its deadline to restore normal service by the end of June. It subsequently told MPs that all but the most complex cases would return to normal service by September. The pensions scheme serves around 1.7 million members. Media reports and MPs have described members feeling upset, frustrated, and ignored, with some waiting months for payments. The government said it had withheld £10 million in payments over Capita's performance during the transition of the pensions service and was negotiating further penalties. It also appointed an auditor to assess the case for further penalties for Capita's performance on the contract. Last month, the National Audit Office launched an investigation into the CSPS contract. Res</description>
 <enclosure url="https://image.theregister.com/?imageId=226311&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=226311&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Old-school Linux desktops find fresh routes to Wayland</title>
-<link>https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349</link>
-<guid isPermaLink="false">e5471ecd6cb33492ad31bf1d3b8d798da88d39489460de242e3f39598a2640b0</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 10:17:00 +0000</pubDate>
-<description>Xfce's next release is taking shape for 2027, while MATE users have fresh options for moving their familiar desktop onto Wayland. One of the oldest surviving Linux desktops has a relatively slow release schedule: new stable releases of Xfce tend to appear every two years. The project just updated its release engineering roadmap for the forthcoming Xfce 4.22, and it looks like the next version won't arrive until early next year. We covered the release of Xfce 4.20 in December 2024, but 4.22 is still incubating. The roadmap schedules its first prerelease and feature freeze for December 15, 2026, followed by a second prerelease on January 15, 2027. A third prerelease is optional, and neither that nor the final release has a date. February or March might be plausible, but that's our guess, not the project's promise. The Xfce developers tend not to rush into things. Wayland development continues in 4.22, building on the preliminary support in 4.20. The team is also working on its own compositor, xfwl4, although the roadmap doesn't promise feature parity with X11. (In Wayland terminology, the "compositor" is the combined display server and window manager.) The compositor has its own development roadmap . The name is a nod to the current Xfce X11 window manager, which is called xfwm4 . The main developer of the new xfwl4 compositor is Brian Tarricone , who has been working on other parts of Xfce since 2004. Back in July, he shared a blog post about his use of generative-AI coding assistants called LLMs and xfwl4 . He says: "So yes, I use Claude quite a bit while developing xfwl4. I don't vibe-code, ever, and I probably use the LLM to generate less code than most people do. After all, building things with code is my hobby and passion (and I'm lucky I got to do it professionally for a quarter century), and driving an LLM is kinda boring." We find this somewhat reassuring, but any really passionate anti-LLM Xfce users reading this may be glad that the release schedules of Ubuntu LTS versions and Xfce stable releases are so far out of sync – sticking with Xubuntu 26.04 means there's no immediate need to adopt the new LLM-assisted compositor. Or, of course, simply keep using X11 instead of Wayland – although that might eventually mean choosing a distro that maintains X11 support, perhaps through XLibre, which has other drawbacks for some. There are other options, too. We've also seen an independent fork of xfwm4 called xfwm4-gl . It's in active development and uses OpenGL to perform window compositing directly, while the current version uses the now rather old Xrender extension . Labwc and MATE Wayland, and Wayfire, and Polo too Last year, when we looked at the release candidate of openSUSE Leap 16.0 , we found that it ran Xfce on Wayland by replacing Xfwm4 with the labwc compositor that we first saw in PiOS 5.2 . This worked well – about the only difference we could find was the absence of some window-management shortcuts. (Saying that, this vulture is stil</description>
-<enclosure url="https://image.theregister.com/?imageId=5311355&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311355&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Airbus may be leaving Microsoft Office, but for its 36,000 defense staff, Office isn't leaving them</title>
-<link>https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325</link>
-<guid isPermaLink="false">e8f79721aff1aaf59e2aeb605b9a8835e51e4fa3fdcc34194f0667335862d7e7</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 09:32:00 +0000</pubDate>
-<description>Airbus has a plan to phase out Microsoft Office, but about 22 percent of its roughly 165,000 employees will stay on it because their sensitive data must remain on-premise. In March 2018, Airbus signed a contract with Google to move its workforce - 130,000 strong at that time - onto the cloud-based Workspace suite. Years later, compatibility issues mean some users still need Excel. Catherine Jestin, Airbus's executive vice president of digital, told The Register that Google is still working to resolve software interface conflicts between departments and improve features. Last year, for example, Google tripled the number of cells available in Sheets, which let Airbus "reduce significantly the number of users on Microsoft." This year, Google improved the compatibility of document watermarking. Contracts, for instance, are often exported from Excel to Sheets by one department, edited by another, and sent back. "Sometimes we had compatibility issues when you were commenting, the comments were lost, or they were not transferable in one way or the other," she said. "Now they [Google] have made it totally compatible, which means that it makes it much easier for us to decommission people working on contracts… the legal department, the sales department, purchasing department, making it much easier to have that internal collaboration." Airbus and Google have a roadmap to eliminate Microsoft Office. Jestin expects the migration to finish in "another two to three years." Not every part of the company will switch. The Defence division , which accounts for the 22 percent (more than 36,000 people), will keep using classic Microsoft Office. "We will not get 100 percent out of Microsoft because again, for the defense industry people, they cannot [use] Microsoft Office 365 or Google Workspace, they have to stay on-premise, and the only solution that is available on-premise is Microsoft. So Microsoft Office will remain for colleagues who are working in the defense and space programs." As we pointed out a year ago, kicking the Microsoft habit is no easy feat. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5273664&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5273664&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>When Microsoft, Apple, and the FAA can't keep it up, it's a system of a down</title>
-<link>https://www.theregister.com/columnists/2026/11/23/when-microsoft-apple-and-the-faa-cant-keep-it-up-its-a-system-of-a-down/5311363</link>
-<guid isPermaLink="false">51fc9f4c6860351356950f2365a27e53f52c1d847f8066ad9fc670727e0b6a60</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 08:42:00 +0000</pubDate>
-<description>No Access November is going well this year. Among the many organizations to adopt Outage As A Service (OAAS) were Microsoft , Apple , the FAA , and any number of European supermarkets . Even the NSA has succumbed. For us, at least, outage is word of the year. It's certainly deeply embedded in the public mind, with schoolchildren reportedly referring to the 19th century Irish famine as "the potato outage." There's no danger of an outrage outage. OAAS is synonymous with infrastructure failure, a more useful term that begins to hint at cause and cure as well as effect. In all of the latest crop, what we know is depressingly familiar. Microsoft's O365 meltdown was a cascading failure caused by a botched upgrade that took stuff offline and melted down as it tried to come back. The FAA was a migration from Jurassic hardware that wasn't end of life so much as living fossil. The Eurofridge-cum-fondue-maker was a control system so badly written it fell apart if you raised an eyebrow at it. Clearly, nobody had. Until now. These are all different classes of OAAS that have been around for decades. Security-based outages are still outages, and a packet flood is still a packet flood whether it's a botnet DDoS or finger trouble in the config dashboard. Each of them has a root cause with obvious fixes – a faulty mental model of network/server interaction, chronic underfunding, a complete supply chain with little cyber-security expertise. All these, like the poor, will be with us always. They won't fix themselves. Infrastructure that works is invisible, and invisible things are forgotten until they break. What's needed is an infrastructure that watches itself, that is designed to be adaptive and resilient, one that refuses to connect to danger and nulls out any that gets through. There have been attempts to create a ground-up architecture that is inherently risk resistant. One such is SCION (Scalability, Control, and Isolation On Next-generation networks). It redesigns routing between domains around explicit path selection, separate control and data planes, and mechanisms for trust and failure isolation. The result is a very resilient, very reliable, and very secure infrastructure that reflects the designers' tenet that you can't patch the internet into any of these things. Start from scratch or GTFO. SCION started about 15 years ago, and it works well enough to be adopted by entities like the Secure Swiss Finance Network . If the Gnomes of Zurich trust it, no higher accreditation exists. Well, it was designed by ETH Zürich. Where you won't find it is almost everywhere else. The internet is like Switzerland in the same way the Amazon rainforest is like Central Park. There are trees and sometimes it rains. It is unwise to infer anything else. Given you can't manicure existing infrastructure into true resilience, the only other option is evolution. A couple of billion years of continued life on Earth has proved this is the only way to re-engineer complex systems wh</description>
-<enclosure url="https://image.theregister.com/?imageId=5311379&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311379&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Software issues have even reached Mercury as BepiColombo probe arrives in uncertain state</title>
-<link>https://www.theregister.com/science/2026/11/23/software-issues-have-even-reached-mercury-as-bepicolombo-probe-arrives-in-uncertain-state/5311554</link>
-<guid isPermaLink="false">6164d0735af9de80f58a9a8e7eb4ba95fb32dddd6d2c95e58e59d303f18397ba</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 07:24:00 +0000</pubDate>
-<description>Humanity’s third-ever mission to Mercury has arrived, but a last-minute “software issue” has complicated matters. The BepiColombo mission is a joint effort by the European Space Agency (ESA) and Japan’s Aerospace Exploration Agency (JAXA). Reaching Mercury is not easy because its gravity is weak and its orbit is fast. The tiny planet’s proximity to the Sun further complicates matters, because our star’s gravity accelerates everything that falls towards it. BepiColombo’s journey has therefore seen it whiz past Earth once, Venus twice, and Mercury six times on a complicated path the two space agencies designed to slow it down sufficiently to be captured by mercurial gravity, while also keeping up with its rapid orbit. In 2024, the craft’s thrusters underperformed, leading the ESA and JAXA to re-plot the planned trajectory and reschedule its arrival at Mercury from mid-2025 to this past weekend. The ESA’s operations team sent the commands to insert BepiColombo into orbit on Friday. On Sunday the craft phoned home with news that it entered orbit. A little later, however, the ESA revealed “the thruster burn was shorter than planned following a software issue.” The spacecraft is safe, but the ESA says it is “working to understand what happened” and promised updates early this week. Readers may recall that a pair of NASA missions to Mars are also experiencing software glitches , which have in recent weeks become all-too-prevalent on Earth, too. Fingers crossed If all is well, BepiColombo will deploy two orbiters. The ESA’s craft is called the Mercury Planetary Orbiter (MPO), which the ESA says will map the planet, assess the composition of its surface and interior, measure its magnetic field, and even gather data that scientists hope will “test Einstein's theory of General Relativity to an unprecedented level of accuracy.” JAXA’s Mercury Magnetospheric Orbiter (MIO) will also investigate the planet’s magnetic field, plasma, dust, and atmosphere. Both orbiters are extraordinary feats of engineering. As JAXA explains , MIO is solar-powered but the sunlight it will receive at Mercury is around ten times as powerful as on Earth. Mercury itself is also sufficiently hot that the orbiter needs protection from heat radiated from the planet’s surface. ESA’s MPO keeps itself cool with three to four insulating blankets comprised of layered titanium, aluminum, and a ceramic fabric called Nextel. The blankets alone weigh 94kg. The two space agencies expect to start science operations in April 2027 but haven’t yet said if the two orbiters are in peak condition. JAXA, sadly, last week revealed that its Hayabusa2 probe has deteriorated to the point at which it can no longer make its planned landing on asteroid 1998 KY26. JAXA scheduled that for the year 2031, but problems with the probe’s thrusters mean the agency will instead attempt a high-speed fly-by of asteroid 2015 BM510 in 2028. Hayabusa2 launched in 2014, so is rather older than BepiColombo. Humanity has visite</description>
-<enclosure url="https://image.theregister.com/?imageId=5311561&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311561&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>Signal to restrict screenshots over AI agent concerns – again</title>

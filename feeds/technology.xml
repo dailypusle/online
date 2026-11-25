@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Backblaze explains why it's sharing customer information with advertisers</title>
+<link>https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers</link>
+<guid isPermaLink="false">78a2de901a3f77aa53ab3ba131764738a6fec4feee4aa4631fa2977ecc38327d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 18:38:29 +0000</pubDate>
+<description>Some customers have raised concerns about Backblaze's privacy policy taking effect next month, which says the backup and cloud storage company may sell certain personal information to advertisers. Backblaze’s current privacy policy says that in addition to the personal information that users may provide, such as their email address when creating an account, it may also “automatically” collect information, such as “your software, the operating system you use when accessing our service, your Internet Protocol address, and the date and time of each request you make to Backblaze.” The current policy adds: “Under no circumstances do we rent, trade, or share your address or e-mail address with any other company for their marketing purposes without your consent.” It also makes no mention of advertisers. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299.jpg" medium="image"/>
+</item>
+<item>
+<title>The FCC has authorized SpaceX to deploy 1 million satellites</title>
+<link>https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites</link>
+<guid isPermaLink="false">7aa5d035f1a50c696ab2a918472068a0e783226e16965341e065915e439bc04c</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 18:22:38 +0000</pubDate>
+<description>In an extraordinary decision, the Federal Communications Commission on Wednesday granted SpaceX conditional authorization to deploy a constellation of up to 1 million Starmind satellites designed to serve as orbital data centers. If fully deployed, this constellation would increase the number of satellites in orbit by roughly 50-fold. "The United States is moving decisively to ensure that this breakthrough technology creates opportunity, drives investment, and delivers lasting benefits for the American people," FCC Chairman Brendan Carr said in a statement on Wednesday. "This action opens a bold new frontier for the computing infrastructure needed to power America’s leadership and growth." Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind.jpeg" medium="image"/>
+</item>
+<item>
+<title>Gen Z is the least interested in AI at work – and it’s not even close</title>
+<link>https://www.zdnet.com/innovation/gen-z-employees-ai-survey</link>
+<guid isPermaLink="false">4d36d1088a95b0ea74bcccf6f2ed8b75ba4f3e2f401297747186e0aacb58ed06</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 18:07:00 +0000</pubDate>
+<description>Younger workers don’t find AI useful, according to a recent survey.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1183759564.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1183759564.jpg" medium="image"/>
+</item>
+<item>
+<title>Huawei and crew tout homegrown EDA tools to overcome China’s fab deficit</title>
+<link>https://www.theregister.com/systems/2026/11/25/huawei-and-crew-tout-homegrown-eda-tools-to-overcome-chinas-fab-deficit/5312205</link>
+<guid isPermaLink="false">89bea6514183cf42512bdf5310d4b1a0d883dfd64548152c3555ba74c77ebafa</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 18:02:00 +0000</pubDate>
+<description>Chinese telecom and IT giant Huawei boasted about its advancements in domestic electronic design automation (EDA) software this week, which it needs to accelerate the adoption of homegrown chip manufacturing. EDA is an umbrella term for software, hardware, and services essential to the planning, design, and production of modern chips. Today, Cadence Design Systems, Synopsys, and Siemens dominate the industry, but US export controls have restricted Huawei and other blacklisted Chinese businesses' access to their tools. The US blacklisted Huawei back in 2019 over concerns the telecommunications equipment giant could be forced to inject backdoors into its gear. Unable to access top EDA tools, Huawei’s chip division, HiSilicon, was forced to develop its own with the help of Phlexing Technology. This week, Phlexing chairman Qing He detailed the company’s efforts to bring new EDA tools to support Huawei’s so-called Tau Scaling Law design philosophy. “Tau EDA is the domestic EDA tool chain for Tau chips. It comes from a long, close partnership with Huawei,” he said. We discussed the tech earlier this year, but in a nutshell, it involves using advanced packaging, specifically 3D hybrid bonding, to achieve higher transistor density for a given area. The TSMC of China, Semiconductor Manufacturing International Corporation (SMIC), is still years behind Taiwan, South Korea, and the US on process technology. It currently has the ability to mass-produce chips on the equivalent of a 7 nm process. For comparison, TSMC began producing 5 nm-class products in 2020 and commenced mass production of 2 nm-class chips in late 2025. So, Huawei aims to use 3D packaging to close the gap, but for this to happen, it first needs tools capable of designing such chips, and that’s just what Phlexing claims to have done with its GloryBolt and GloryEX platforms. “Traditional EDA has long handled only single processes. Tau EDA needs to integrate and decompose multiple processes,” He said. “Coupling multi-scale, multi-structure, and multi-physics issues called for new analysis tools.” This, He says, culminated in the co-development of a process design kit (PDK) with Huawei beginning in 2024. These technologies have now gone live. The development comes as Huawei looks to bring larger, more capable processors to market. We previously discussed the company’s latest developments around AI accelerators, near packaged optics, networking, and rack systems. Many of these advancements will depend on multi-die chip packages, enabled by EDA tools, like those built by Phlexing. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5312212&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312212&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>The Fairphone 6 Plus is modular, repairable, and $100 off right now</title>
+<link>https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale</link>
+<guid isPermaLink="false">4f570faddc68b16cdd8fc9d7a2d4f29e9f6080759c5c50c1f81aadc92a26e99d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
+<description>The Fairphone 6 Plus comes with 12 replaceable parts. | Photo: Dominic Preston / The Verge Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the retailer’s ongoing Black Friday sale. Fairphone 6 Plus Where to Buy: $649.99 $552.49 at Amazon (black) $649.99 $552.49 at Amazon (green) $649.99 $552.49 at Amazon (blue) The 6.3-inch Fairphone 6 Plus features 12 user-replaceable parts, including the battery, screen, USB-C port, and cameras, all of which you can swap out with the included screwdriver. Replacement parts are relatively affordable, too; a new battery costs $39.99, which helps offset its middling battery life and lack of wireless charging. It also comes with a five-year warranty and up to six Android OS upgrades, making it a good option if you want a phone you can keep using for years. Although repairability is its marquee feature, the 6 Plus is also a solid midrange Android device. Fairphone prioritizes ethically sourced materials , making it a strong choice for environmentally conscious buyers who don’t want to sacrifice performance. Its Snapdragon 7s Gen 4 processor handles everyday tasks well, and its cameras take decent photos, though they’re not quite on par with those of pricier phones. What’s more, it offers a clean, bloatware-free Android experience and modular back panels, which you can swap for optional accessories like a card holder or crossbody strap. Our own Allison Johnson particularly liked the phone’s dedicated switch for turning on customizable focus modes called Moments, which can simplify your homescreen and limit access to distracting apps — something we could all use a little less of. Read our full Fairphone 6 Plus review .</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/fairphone-6-plus-4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/fairphone-6-plus-4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The loneliest peptide party in New York</title>
+<link>https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow</link>
+<guid isPermaLink="false">3c4e73d43c4012fdc394e0dd5671c48a5adacdf2427f302178b17eb80c5f5e2d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
+<description>This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here . On a rainy fall evening, an experimental art venue in Chelsea Market had a small line out the door. There are always lines in New York City. Viral food trends, gallery exhibitions, pop-ups, and parties. The folks in line looked like your average joe, ready for a Friday night on the town. You wouldn't look twice - except, perhaps, for a man with a wizard beard and a laser sword strapped to his back. Inside, the man with a laser … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268815_Peptide_Party_JCalifano_0019.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268815_Peptide_Party_JCalifano_0019.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>This $1,900 Alienware Aurora is one of the best early Black Friday PC deals</title>
+<link>https://www.engadget.com/2328361/this-dollar1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals</link>
+<guid isPermaLink="false">433f9b9565058303f40f6f8a5c39554709995d4537c4f2f8a95040010c221b9e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 17:54:07 +0000</pubDate>
+<description>If you purchased them separately, just the price of its CPU, GPU and RAM goes for around $1,750.</description>
+<enclosure url="https://www.engadget.com/img/gallery/this-1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/l-intro-1795629186.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/this-1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/l-intro-1795629186.jpg" medium="image"/>
+</item>
+<item>
 <title>FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space</title>
 <link>https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers</link>
 <guid isPermaLink="false">17929128d139e3d01b22009c328b779c737ec4fa82e0f43a237bb3fbc53c40b5</guid>
@@ -257,17 +334,6 @@
 <media:content url="https://image.theregister.com/?imageId=5312115&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Has vibe coding made open source the new normal for synths?</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware</link>
-<guid isPermaLink="false">d7f8df890f989b59e60830daace3d0e9f71e57aaf4a12626f33f8d341d87b768</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
-<description>The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world , leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source. The biggest name to decide "if you can't beat 'em, join 'em" is inMusic , the parent company of Akai, Moog, Native Instruments, and more. "We're going t … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Acer Predator Atlas 8 review: Potent performance at a slightly better price</title>
 <link>https://www.engadget.com/2326961/acer-predator-atlas-8-review</link>
 <guid isPermaLink="false">3e56a9b1b70d664717ca8bd41e2d78a4c1f42ae6dcb6a097217e0f7f20e2e618</guid>
@@ -323,20 +389,9 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft declares ‘Code Red’ after huge Outlook outage</title>
-<link>https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage</link>
-<guid isPermaLink="false">b74e12e389d11a6112f3e1d3284e0ff81a1ce9c7aa54c5217de75cfab4f9d401</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 11:12:42 +0000</pubDate>
-<description>This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual "Code Red" internally, Reuters reports . The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to servers. In a memo to the teams responsible for Exchange Online, Microsoft 365 Core president Jason Henderson revealed the outage was the most significant in history for Microsoft's customers. "Unfortunately, all the work we have done over the years was not sufficient to protect us on Thursday," said … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>The world's fastest computers have a problem: Keeping the work running</title>
-<link>https://www.theregister.com/systems/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710</link>
-<guid isPermaLink="false">e37ea9cf648ad310ffe782e023262ae49c26672043dc5cd95b3fa90777a3ff84</guid>
+<link>https://www.theregister.com/hpc/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710</link>
+<guid isPermaLink="false">25f8bbf67187afd2e5fb3af667194b98ca6be4db617e9bd6b36b8c6347eb1270</guid>
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Wed, 25 Nov 2026 10:15:00 +0000</pubDate>
@@ -576,7 +631,7 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024.jpg" medium="image"/>
 </item>
 <item>
-<title>Desperate gamers are trying bring GTA 6 to PCs and break free of its 30 fps cap</title>
+<title>Desperate gamers are trying to bring GTA 6 to PCs and break free of its 30 fps cap</title>
 <link>https://www.engadget.com/2327074/desperate-gamers-are-trying-bring-gta-6-to-pcs-and-break-free-of-its-30-fps-cap</link>
 <guid isPermaLink="false">0ed2aa72738b7729de89884a850ac9d92820a0403206bf8376a4401bfdc66999</guid>
 <source>Engadget</source>
@@ -675,17 +730,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1010796264.jpg" medium="image"/>
 </item>
 <item>
-<title>Ways you can help your video doorbell stay charged in the winter</title>
-<link>https://www.engadget.com/2324749/video-doorbell-winter-charging-tips</link>
-<guid isPermaLink="false">16aa6f7231413d6a42593d22cd97d7a1b2bca64e6908a827a3609857194af011</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 18:00:00 +0000</pubDate>
-<description>A dead doorbell battery could mean missed visitors or deliveries. Learn how to prepare your battery-powered video doorbell for the challenges of winter weather.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ways-you-can-help-your-video-doorbell-stay-charged-in-the-winter/l-intro-1795197275.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ways-you-can-help-your-video-doorbell-stay-charged-in-the-winter/l-intro-1795197275.jpg" medium="image"/>
-</item>
-<item>
 <title>Arm strongarms site that hosts ad-free documentation and it may disappear</title>
 <link>https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925</link>
 <guid isPermaLink="false">3d3f48ee8e6d9da9b4ad293a78b2e71dbc58e5affe28b9831d8de00cf27c8451</guid>
@@ -750,28 +794,6 @@
 <description>Car buyers in New York may find the cost of ownership reduces a little next year. Maybe. Governor Kathy Hochul signed a bill yesterday that bans car companies and dealerships from locking up car features behind a subscription, a law that goes into effect on February 27 next year. “People spending their hard-earned money on a car shouldn’t have to fork over even more money for features that should automatically come with the car. My message to car companies is clear: this kind of deceptive business model isn’t going to fly in New York State. Keep your hands out of New Yorkers’ wallets,” the governor said. In the old days, the only options you paid to use after you bought a car were mods or upgrades you installed after the fact. That started to change with services like General Motors’ OnStar, which introduced telematics to the vehicle—for a monthly fee. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2153520868.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2153520868.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA may get $2 billion boost as White House seeks to accelerate Artemis</title>
-<link>https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis</link>
-<guid isPermaLink="false">b149fad62477c11c287841b6c14ee9ad3ba82c3c2d7b90555b0d6d8c658aa142</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 16:12:46 +0000</pubDate>
-<description>As part of ongoing wrangling over the US budget for the current fiscal year, the White House on Monday night sent a list of budget exceptions to Congress that it seeks in the near term for the federal government ( PDF ). The list of so-called "funding anomalies" is dominated largely by appropriations for the Department of Defense, including the Golden Dome missile defense program championed by the Trump administration. However, among the highest non-defense exceptions is $2 billion for NASA's Artemis program for a "higher rate of operations." The funding represents a significant 25 percent boost for NASA's Artemis program, which received approximately $7.8 billion in fiscal year 2026. Technically, the White House is seeking to increase the annualized funding rate for Artemis to $9.8 billion, rather than immediately providing NASA with an additional $2 billion. It comes at a time when it is increasingly clear that China's lunar ambitions are as expansive as NASA's, and there is a good chance the country reaches the Moon with astronauts before NASA can get back there. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/NHQ202604010115orig-1152x648-1793950034.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/NHQ202604010115orig-1152x648-1793950034.jpg" medium="image"/>
-</item>
-<item>
-<title>Homo erectus lived in the rainforest alongside Denisovans</title>
-<link>https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans</link>
-<guid isPermaLink="false">8d5fdf717370cb371b0750d590e8b66b44163a63bb2a3a2d9eecab65d08dddb9</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 16:01:19 +0000</pubDate>
-<description>Homo erectus was walking around mainland Asia at least 60,000 years more recently than archaeologists thought. A handful of teeth from two caves in southern China's Guangxi Province just filled in a significant gap in the fossil record of a region that's vital to the story of how our genus, Homo , took over the world. The chemical makeup of the teeth's enamel suggests that, over the course of their lives, these Homo erectus moved across surprisingly large distances and made their living in dense tropical rainforests—an environment we'd previously assumed that only our species had ever gained a real foothold in. And one of the teeth offers a strong clue that Homo erectus probably shared this vast landscape with the Denisovans. A handful of teeth with a lot to say Baxian and Naxian are a pair of limestone caves that lie 15 kilometers apart along a karst valley corridor in southern China. University of Copenhagen paleoanthropologist Frido Welker and his colleagues unearthed a total of nine hominin teeth from among the more than 18,000 bones and fragments from non-hominin animals found there. Macquarie University paleoanthropologist Kira Westaway and her colleagues analyzed proteins and chemical isotopes from the enamel of five of these teeth. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Guangxi-rainforest.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Guangxi-rainforest.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft brings serverless PostgreSQL into Fabric to bridge transactions and analytics</title>
@@ -1115,17 +1137,6 @@
 <media:content url="https://image.theregister.com/?imageId=258553&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Capita CEO leaves following pensions contract disaster</title>
-<link>https://www.theregister.com/public-sector/2026/11/23/capita-ceo-leaves-following-pensions-contract-disaster/5311585</link>
-<guid isPermaLink="false">e44664e0d412bc6b30c35f916a7986777ddd26877a18cd454133473620ecf23d</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 11:11:25 +0000</pubDate>
-<description>Capita CEO Adolfo Hernandez has stepped down with immediate effect as the outsourcer warned of sharply lower profits next year, nearly a year after its troubled takeover of administration of the UK's Civil Service Pension Scheme (CSPS). In a statement , Capita said CFO Pablo Andres had become CEO, with group financial controller Gemma Bate-Williams succeeding him as finance chief. Capita now expects adjusted operating profit for 2027 to be £85 million to £95 million below previous expectations. That includes £15 million to £25 million in additional costs under a pensions recovery plan agreed with the Cabinet Office, alongside pressure from contract exits and other trading headwinds. Shares fell around 70 percent following the announcement. The company – which is also coming under fire for its £370 million contract with the Department for Work and Pensions (DWP) – said it had made significant progress in its transformation and strategic simplification. It also plans to raise around £190 million through a share issue in the first half of 2027 to reduce borrowing and to "allow the business to move forward from a more stable foundation," subject to support from its financial creditors. James Preece, principal analyst at UK tech research firm Megabuyte, said: "Slow motion car crash comes to mind. It has been a turnaround job for coming up to four years now, with long-suffering shareholders watching dozens of disposals and business exits fail to arrest a structural decline in both margins and growth. "Today's update suggests that management's underlying forecast assumptions alongside other more transient factors were still too punchy, and the leverage situation now calls for action. The share price reaction suggests confidence in this being a one-and-done raise is limited," he said. Capita took over administration of the scheme in December 2025 under a seven-year, £239 million contract, after which The Register exclusively revealed problems with its online systems . The vendor promised AI and automation, but the takeover brought a glitchy online portal, while some members struggled to receive pension payments. By January, it was clear the service was seriously failing, leaving some retired civil servants struggling to make ends meet. Capita missed its deadline to restore normal service by the end of June. It subsequently told MPs that all but the most complex cases would return to normal service by September. The pensions scheme serves around 1.7 million members. Media reports and MPs have described members feeling upset, frustrated, and ignored, with some waiting months for payments. The government said it had withheld £10 million in payments over Capita's performance during the transition of the pensions service and was negotiating further penalties. It also appointed an auditor to assess the case for further penalties for Capita's performance on the contract. Last month, the National Audit Office launched an investigation into the CSPS contract. Res</description>
-<enclosure url="https://image.theregister.com/?imageId=226311&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=226311&amp;width=1280" medium="image"/>
-</item>
-<item>
 <title>Signal to restrict screenshots over AI agent concerns – again</title>
 <link>https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns</link>
 <guid isPermaLink="false">993d78b5f46a3fd286fed2abdee6dd444a8570e7f6fef5136dce5ed970569f70</guid>
@@ -1289,16 +1300,5 @@
 <description>With Agent 365 Business Analytics, Microsoft could reshape enterprise spending, but there’s a critical difference between estimated value and money saved.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Satya.png" type="image/png"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Satya.png" medium="image"/>
-</item>
-<item>
-<title>Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost</title>
-<link>https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite</link>
-<guid isPermaLink="false">331c5b8b819bc195609dddbc92fac46c63d5d9ac596c3b5d7f3f918614e12008</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 22:42:44 +0000</pubDate>
-<description>Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg" medium="image"/>
 </item>
 </channel></rss>

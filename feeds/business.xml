@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Poundland collapses putting 11,000 jobs at risk</title>
+<link>https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">fcba5c9d7e3f7593e60a3b818992ee1499e498eef5e805a9dfe2803dfef820c5</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 20:43:58 +0000</pubDate>
+<description>The discount chain has fallen into administration after its owners failed to find a buyer.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
+</item>
+<item>
+<title>Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards</title>
+<link>https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks</link>
+<guid isPermaLink="false">4a7caddbd98ff0c60ae0e8351529835c3ddd9806fbee4b274d9c779b581d2321</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 20:36:03 +0000</pubDate>
+<description>Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-mining-decrypt-style-03-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-mining-decrypt-style-03-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach</title>
 <link>https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach</link>
 <guid isPermaLink="false">82c5ffc414dde990159c78a4a79fdbc6b12a88e15eec25fa07aa9b790e62defa</guid>
@@ -101,17 +123,6 @@
 <description>Bitcoin Magazine Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 Switzerland’s Federal Council has approved 57 countries and territories with which the country plans to automatically share tax information on crypto users starting in 2028, extending its long-standing bank data exchange to bitcoin and other digital assets. The list includes all European Union member states, the United Kingdom and various G20 countries, the State Secretariat for International Finance (SIF) said in a release on Wednesday. The exchange will run under the Organisation for Economic Co-operation and Development’s Crypto-Asset Reporting Framework, known as CARF. With the decision, Switzerland intends to implement the crypto exchange at the same time as other global asset management centers, according to the release. The government did not name the 57 jurisdictions beyond those broad groups, and it did not publish the full list alongside the announcement. Exchanges only with partners that qualify Data will not flow to every name on the list. An exchange will take place only if a partner jurisdiction wants to swap information with Switzerland and meets the conditions of the OECD standard, in particular its requirements on confidentiality and data security. Before any financial account or crypto data changes hands, the Federal Council will run a targeted check of whether each partner complies with OECD standards. It will rely on a review mechanism Parliament approved on Sept. 28, 2026, which covers both the older exchange of bank account data and the new crypto exchange. The domestic legal basis for the crypto exchange took effect on Jan. 1, 2026. Earlier this month, though, the SIF said the framework could not be implemented before Jan. 1, 2027, because the partner list still needed approval and notifications had to go to the OECD. The rules do not apply this year. The Council also approved Armenia and Rwanda as new partners for the exchange of financial account information, with first exchanges due in 2028, and signed off on two notifications needed to carry out the exchange. Both partner lists were broadly supported during public consultations in 2024 and 2025, the government said. Down from 74 partners The final list is shorter than first planned. In June 2025, the Federal Council proposed 74 countries relevant to the crypto market, including all EU states, the UK and most G20 members. That plan left out the United States and Saudi Arabia, and it targeted a 2026 start with first data exchanges in 2027. Wednesday’s release did not say which countries were dropped or whether the U.S. is now on the list. The U.S. has committed to begin CARF exchanges by 2029, according to the OECD’s Global Forum, which lists Switzerland among 27 jurisdictions aiming for first exchanges by 2028. That U.S. timeline is already shaping policy elsewhere. South Korea pushed its 22% crypto tax back to 2029 partly because it will not receive American crypto trading data</description>
 <enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Switzerland-Picks-57-Countries-for-Crypto-Tax-Data-Sharing-Starting-in-2028.jpg" type="image/jpeg"/>
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Switzerland-Picks-57-Countries-for-Crypto-Tax-Data-Sharing-Starting-in-2028.jpg" medium="image"/>
-</item>
-<item>
-<title>Poundland collapses putting 11,000 jobs at risk</title>
-<link>https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">fcba5c9d7e3f7593e60a3b818992ee1499e498eef5e805a9dfe2803dfef820c5</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 18:29:42 +0000</pubDate>
-<description>The discount chain has fallen into administration after its owners failed to find a buyer.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
 </item>
 <item>
 <title>Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space</title>
@@ -1333,17 +1344,6 @@
 <description>Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/decrypt-trade-the-news-learn-gID_1-pID_2.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/decrypt-trade-the-news-learn-gID_1-pID_2.png" medium="image"/>
-</item>
-<item>
-<title>Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion</title>
-<link>https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt</link>
-<guid isPermaLink="false">72756612afb70ef28655dfa63df55e61ad65f5b449fb12c36e3fdbdc8c6ac317</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 17:28:08 +0000</pubDate>
-<description>Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>Payoneer gets conditional approval for trust bank</title>

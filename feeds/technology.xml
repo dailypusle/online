@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Google search alternative Kagi launches Gmail rival</title>
+<link>https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival</link>
+<guid isPermaLink="false">e2dddde7b7e1bafa0edaaa80e0c711ca221d2862ca358c80330953bad873e6d9</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 20:57:09 +0000</pubDate>
+<description>Kagi, a small, Palo Alto, California-based software company that provides a subscription-based search engine as an alternative to Google, has launched a Gmail-like e-mail service. Dubbed Kagi Mail, it makes many of the same claims as the search engine product: privacy, personal data sovereignty, customization, and control. Additionally, Kagi is rolling out a calendar as part of the mail service. Right now, both the email and calendar interfaces are web-only, but native Android and iOS apps are planned for the fourth quarter of next year. The email interface, currently in public beta, is minimalist. It emphasizes keyboard commands, as well as a private and ad-free experience. (You can see more details in Kagi's blog post about what they mean by private.) Other feature offerings include unlimited aliases and domains, an anti-lock-in policy for user data, 50GB of storage, rule-based filtering with Sieve, an MCP server, and several optional, off-by-default AI features, like chatting with an agent to search email history, do large-scale re-labeling, or define additional filtering rules. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement.jpg" medium="image"/>
+</item>
+<item>
+<title>WhatsApp’s new scheduled messages let you choose the right time to send</title>
+<link>https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages</link>
+<guid isPermaLink="false">993a4a76b8db31f9284e72879a232f3cf17865010d5c5b336a974e78502d0e30</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 20:31:48 +0000</pubDate>
+<description>WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a text at an inconvenient time or don't want to forget to fire off a birthday message at 4AM, you can draft it and set it to send anywhere from 10 minutes to two weeks later. The feature works with photos and videos, too. Meta: To schedule a message, press and hold the send button and pick the date and time you want it to arrive. It … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>State AGs are trying to stop Character.AI from auctioning off users' chat histories</title>
+<link>https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories</link>
+<guid isPermaLink="false">ff6907e59b2bd208f192c613635969699ffe38f4a79b724de4e48ec1526a2a92</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 20:04:07 +0000</pubDate>
+<description>The proposed sale would include explicit conversations with children, officials say.</description>
+<enclosure url="https://www.engadget.com/img/gallery/state-ags-are-trying-to-stop-character-ai-from-auctioning-off-users-chat-histories/l-intro-1795637016.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/state-ags-are-trying-to-stop-character-ai-from-auctioning-off-users-chat-histories/l-intro-1795637016.jpg" medium="image"/>
+</item>
+<item>
 <title>NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds</title>
 <link>https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds</link>
 <guid isPermaLink="false">a695a360ab732968495684f576f47774f23da4a827994bd7af1d40651d1dfd91</guid>
@@ -332,17 +365,6 @@
 <description>JetBrains has revamped a benchmark for evaluating large language models after suspecting too many agents gamed their tasks the first time round. The company labelled this agentic practice "reward hacking" in a post summarizing the results of its revised evaluation. Like its predecessor , Kotlin Benchmark 2.0 is a collection of tasks that evaluates how well AI coding agents work with the Kotlin programming language , in order to help Kotlin programmers decide which agent-model configurations to use. The tasks include fixing tricky problems in Kotlin code across different domains, and making corrections to multiple files. Dirty data The revised benchmar k now includes 30 Kotlin multi-file code problems that have not been exposed to the public in any way before. The revised test all but guarantees that the agents have not encountered this set of problems, or potential solutions, before. Another 70 tasks are based on code that resides in public repositories. The test also blocked all network access for the open source tasks, except for what was needed to communicate with the model itself. This minimized the possibility that the agent could look for an existing answer already posted, perhaps through a patch or pull request. A 30-minute limit was set for each task. Overall, the agents were significantly less accurate when solving problems on codebases they had never encountered. Top resolution rates dropped rather suspiciously from 86.2 percent on tasks based on open source repositories to 60 percent on those based on closed source repositories. Although the agents lacked network access, JetBrains boffins theorized that they might have benefited from encountering and internalizing these open source repositories during training. Only the private repositories were completely new to them. Also curious was how a different set of models excelled at the closed source problems, compared to those models that usually did better on the open source tasks. Leaderboard Shakeup When restricted to closed source tasks, two dark horse models rose to the top: Gemini 3.8 Flash, via Antigravity CLI, topped the list with a 60 percent success rate, closely followed by DeepSeek V4.1 Flash (running on OpenCode) at 58.9 percent. Of the two, the open weight DeepSeek was far cheaper (at $0.08 per task) than the closed weight Gemini ($1.74 per task), however. In contrast, Opus 5.5 completed only 53.3 percent of the tasks at $1.21 per task, and Fable 5.1 completed only 44.4 percent of the tasks, at a luxurious $3.27 per task. Claude Code harnessed both of these models. Claude’s lackluster completion rates on closed source tasks are somewhat sus given how both of these Anthropic models scored significantly higher on tasks using open source materials. In fact Claude ran the table when it came to open source: Fable 5.1 topped the charts with 86.2 percent accuracy, closely followed by Opus 5.5 at 84.8 percent accuracy. (Kotlin users will pay dearly for the extra sliver of Anthropic ac</description>
 <enclosure url="https://image.theregister.com/?imageId=1683207&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=1683207&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday</title>
-<link>https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale</link>
-<guid isPermaLink="false">b831dbeefa036a18757471cfda1a226e1cee73c9fa3e440c704a16111f71ea5c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
-<description>Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much cheaper — or considerably smaller — the Xteink X4 Classic is in a league of its own. Thankfully, the tiny e-reader is down to a new low of $54.87 ($55 off) at Amazon , making it an especially affordable alternative to Amazon’s latest Kindle. Xteink X4 Classic pocket e-reader Where to Buy: $109 $54.87 at Amazon (black) $109 $54.87 at Amazon (white) $109 $59 at Xteink The X4 Classic is an updated version of Xteink’s original pocket-sized e-reader, one that features a miniature 4.3-inch E Ink display that makes it more pocketable than any current Kindle or Kobo model. Like the pricier X4 Pro — which also happens to be on sale direct from Xteink for $84 — it features both physical page-turning buttons and magnets that let you attach it to compatible smartphones. At just 2.4 ounces and 4.9mm thick, it’s also easy to slip into a pocket, while its larger 920mAh battery can last up to 10 days on a single charge. That said, unlike the X4 Pro , the Classic lacks a touchscreen and built-in reading light, meaning you’ll need an external light to read in the dark. It also uses a proprietary magnetic charging connector instead of USB-C, and transferring books isn’t as straightforward as on a Kindle or Kobo. However, like the Pro, it does support the excellent CrossPoint Reader software , which you can install yourself to improve the reading experience. You can even use it to read books borrowed through Libby or purchased from stores like Kobo, though it takes a few extra steps to do so. Still, if you want an inexpensive, distraction-free way to read on the go, the X4 Classic is hard to beat for less than half the price of a Kindle. Read our hands-on impressions of the Xteink X4.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xteink1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xteink1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Debian wakes up wearing Windows XP's actual skin</title>
@@ -675,17 +697,6 @@
 <media:content url="https://www.engadget.com/img/gallery/why-you-should-never-reply-with-stop-when-you-receive-spam-texts/l-intro-1795013536.jpg" medium="image"/>
 </item>
 <item>
-<title>The biggest limitations of ChatGPT</title>
-<link>https://www.engadget.com/2321242/chatgpt-biggest-limitations</link>
-<guid isPermaLink="false">74454025c070a8b4aa771d19abab9fad027e67e1b60a117d84fbf91fea27d4fc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
-<description>Here's why paying for a premium ChatGPT plan won't shield you from its biggest weaknesses, and what that means for trusting the chatbot with your work.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-biggest-limitations-of-chatgpt/l-intro-1794925192.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-biggest-limitations-of-chatgpt/l-intro-1794925192.jpg" medium="image"/>
-</item>
-<item>
 <title>This hidden iOS 27 feature ensures you’ll never sleep through an alarm again</title>
 <link>https://www.zdnet.com/tech/iphone-hidden-alarm-volume-ios-27</link>
 <guid isPermaLink="false">b2c223f056f3bad1197a741f30a629425a02173edd37959c612613f5e92b895b</guid>
@@ -794,17 +805,6 @@
 <description>Porsche provided flights from Albany, New York, to Los Angeles and accommodation so Ars could drive the 718 EV prototype. Ars does not accept paid editorial content. It wasn't until I was stuck in traffic on the way back from a run up and down some canyon roads that I realized just how low Porsche's upcoming all-electric 718 Boxster truly is. I was idly looking around at the other cars, doing the math on the EV adoption rate in this small sample of Los Angeles gridlock (roughly 50 percent, impressively) when I noticed that I was eye-level with a Tesla Model Y door handle. That's not particularly low for a sports car, but it's practically unheard of for an EV. Nearly all modern electric cars are built atop a skateboard-style battery pack, a stack of cells that elevates the seating position by a good 3 inches. In these SUV-heady days, that's usually not a problem, possibly even an advantage. But, in a car like this, the closer you can get your keister to the road, the greater the sensation of speed. So, for the company's first all-electric sports car, the 718 Boxster that will be fully revealed next year, Porsche engineers put the battery pack behind the driver. That powers a single motor spinning the rear wheels and creates a driving experience that both honors the simple joy of motoring in a mid-engined Boxster while pushing the 718 to new heights of power and performance. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PORSCHE_983_PROTOTYPE_PECLA_006_DSC06879.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PORSCHE_983_PROTOTYPE_PECLA_006_DSC06879.jpg" medium="image"/>
-</item>
-<item>
-<title>No more heated seat subscriptions for cars in New York from 2027</title>
-<link>https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it</link>
-<guid isPermaLink="false">d52d4bd002a45dd040836ae2835191a021ef7fd79a88c0a1888bee923792556e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 16:20:37 +0000</pubDate>
-<description>Car buyers in New York may find the cost of ownership reduces a little next year. Maybe. Governor Kathy Hochul signed a bill yesterday that bans car companies and dealerships from locking up car features behind a subscription, a law that goes into effect on February 27 next year. “People spending their hard-earned money on a car shouldn’t have to fork over even more money for features that should automatically come with the car. My message to car companies is clear: this kind of deceptive business model isn’t going to fly in New York State. Keep your hands out of New Yorkers’ wallets,” the governor said. In the old days, the only options you paid to use after you bought a car were mods or upgrades you installed after the fact. That started to change with services like General Motors’ OnStar, which introduced telematics to the vehicle—for a monthly fee. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2153520868.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2153520868.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft brings serverless PostgreSQL into Fabric to bridge transactions and analytics</title>

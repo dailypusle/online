@@ -9,10 +9,21 @@
 <guid isPermaLink="false">f079f5a6a65cc3df4b48281cbd5cb8a3cc0d72cd49021d8bfd5d960d84aa22c5</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Wed, 25 Nov 2026 01:24:41 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 01:37:49 +0000</pubDate>
 <description>The U.S. Army is planning a controlled detonation of explosive material at an ammunition plant in rural Iowa on Wednesday. There could be potential health effects.</description>
 <enclosure url="https://s.abcnews.com/images/US/epa-soil-testing-ht-jt-261124_1795547599028_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/epa-soil-testing-ht-jt-261124_1795547599028_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Plane carrying 6 people crashes off Mississippi coast, search ongoing: US Coast Guard</title>
+<link>https://abcnews.com/US/plane-carrying-6-people-crashes-off-mississippi-coast/story?id=138427173</link>
+<guid isPermaLink="false">44ca57d3570584bc834d71b82f17055eccf85901acf69ee233a67b495b612624</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 25 Nov 2026 01:33:07 +0000</pubDate>
+<description>The Federal Aviation Administration said preliminarily that the Cessna 210 aircraft crashed around 3:30 p.m. local time southwest of Pascagoula, Mississippi.</description>
+<enclosure url="https://s.abcnews.com/images/International/coast-guard-logo-gty-jt-260204_1771525657607_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/coast-guard-logo-gty-jt-260204_1771525657607_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says</title>
@@ -24,17 +35,6 @@
 <description>Ukraine will need €115 billion in external financing next year to sustain its economy and war effort against Russia, President Volodymyr Zelensky said Tuesday, adding that Kyiv had secured commitments for about €90 billion from the European Union.</description>
 <enclosure url="https://s.france24.com/media/display/c5b81ec4-d3af-11f1-94da-695cb59fade5/w:1024/p:16x9/2026-10-16T085801Z-1180937654-RC284OA1JXI9-RTRMADP-3-EU-SUMMIT.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/c5b81ec4-d3af-11f1-94da-695cb59fade5/w:1024/p:16x9/2026-10-16T085801Z-1180937654-RC284OA1JXI9-RTRMADP-3-EU-SUMMIT.jpg" medium="image"/>
-</item>
-<item>
-<title>Kilmar Abrego Garcia leaving the US, self-deporting to Spain</title>
-<link>https://abcnews.com/US/kilmar-abrego-garcia-leaves-us-deporting-spain/story?id=138414044</link>
-<guid isPermaLink="false">104a147aed84c4bf07e34d3b56c9dda6928f0092a263fd454fdcdc1d6c150f56</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 25 Nov 2026 00:22:01 +0000</pubDate>
-<description>Kilmar Abrego Garcia, who was returned to the U.S. after being mistakenly deported to a Salvadoran mega-prison, is self-deporting to Spain, sources tell ABC News.</description>
-<enclosure url="https://s.abcnews.com/images/US/garcia-abc-er-261124_1795562193242_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/garcia-abc-er-261124_1795562193242_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>New York jury convicts Huawei of stealing trade secrets</title>
@@ -422,17 +422,6 @@
 <media:content url="https://s.france24.com/media/display/cca0443c-e81d-11f1-8930-c131ae9bfe9c/w:1024/p:16x9/MINI-AFCON.jpg" medium="image"/>
 </item>
 <item>
-<title>Police fear missing woman 'may have come to harm' as man in court charged with murder</title>
-<link>https://news.sky.com/story/police-scotland-fear-missing-woman-kelsey-hunter-may-have-come-to-harm-as-man-charged-with-assault-13615923</link>
-<guid isPermaLink="false">7149b19731f802cd825b5b93f8395b071b9992bb3288a442ba9159f210a1c242</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Tue, 24 Nov 2026 16:10:00 +0000</pubDate>
-<description>A man has appeared in court charged with murder after detectives investigating the disappearance of a young woman said they have to "consider the possibility that she may have come to harm".</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-kelsey-hunter-police-scotland_7415115.jpg?20261124101104" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-kelsey-hunter-police-scotland_7415115.jpg?20261124101104" medium="image"/>
-</item>
-<item>
 <title>London Underground strike to go ahead after talks break down</title>
 <link>https://news.sky.com/story/london-underground-strike-to-go-ahead-after-talks-break-down-13614235</link>
 <guid isPermaLink="false">b3dc0b2c58ecc70304d048cc7ada031012873b74973d8236a7cf98b783bec970</guid>
@@ -664,15 +653,15 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4258x2839+0+0/resize/4258x2839!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F45%2F2eafdbfd4aefb6a733414c644e5d%2Fgettyimages-2280478542.jpg" medium="image"/>
 </item>
 <item>
-<title>Democrats probe whether Trump Jr.-aligned businesses benefit from government access</title>
-<link>https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation</link>
-<guid isPermaLink="false">2ea454409599cb65c2a0691c37f5b591055971d12358d59e8c65d4cab2e46e22</guid>
+<title>The human cost of the electric vehicle boom is at the center of a lawsuit in Congo</title>
+<link>https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals</link>
+<guid isPermaLink="false">25eb94bafb0065e7b0ba8a5fe186fffa8f3cf2aeae9bb26d19d9bc007285bcb8</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
-<description>Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection. (Image credit: Brandon Bell)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/4032x2688!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/4032x2688!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg" medium="image"/>
+<description>A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them. (Image credit: Marie Ruwet)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5979x3986+0+0/resize/5979x3986!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2F61%2F37c7b2df4058900639663f71c5e7%2Fgettyimages-2299683165.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5979x3986+0+0/resize/5979x3986!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2F61%2F37c7b2df4058900639663f71c5e7%2Fgettyimages-2299683165.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: As the holiday season nears, experts warn against so-called porch pirates</title>
@@ -689,7 +678,7 @@
 <title>Morocco 'astonished' at decision to restore Senegal as Africa Cup of Nations champions</title>
 <link>https://news.sky.com/story/senegal-awarded-africa-cup-of-nations-after-winning-appeal-over-title-being-stripped-13615900</link>
 <guid isPermaLink="false">cffcdf4bfb254c5a2633a10120a9430dde2b7ac216b2123868c4b0e465aade6a</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Tue, 24 Nov 2026 08:06:00 +0000</pubDate>
 <description>Senegal have been awarded the Africa Cup of Nations title after successfully appealing against the decision to strip them of it.</description>

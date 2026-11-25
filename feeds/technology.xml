@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>AI can do the calculations. Theoretical physicists are figuring out what comes next.</title>
+<link>https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next</link>
+<guid isPermaLink="false">319f463cce75ff29a26711e1ce30e8ab590dae150eeeede25248dd0af7a19f06</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 12:00:28 +0000</pubDate>
+<description>About six months ago, Suvrat Raju, a professor of theoretical physics at the International Centre for Theoretical Sciences in Bengaluru, India, asked a frontier AI model to solve a physics problem. He didn’t ask because he needed to know the answer. He had actually solved this particular problem already. But he had never published the solution—which made it a perfect question to test how good AI was at physics. LLMs have been trained on the whole Internet, so if a physics problem has been discussed online, it’s likely the model already knows about it and may have memorized the answer. So a fair test of AI capabilities needs to focus on problems that have never appeared online. The model didn’t answer Raju’s problem correctly, but it did better than he expected—well, enough to get him thinking that the experiment should be repeated and formalized. With the help of a colleague, he set out to create a theoretical physics benchmark for AI. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft declares ‘Code Red’ after huge Outlook outage</title>
+<link>https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage</link>
+<guid isPermaLink="false">b74e12e389d11a6112f3e1d3284e0ff81a1ce9c7aa54c5217de75cfab4f9d401</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 11:12:42 +0000</pubDate>
+<description>This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual "Code Red" internally, Reuters reports . The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to servers. In a memo to the teams responsible for Exchange Online, Microsoft 365 Core president Jason Henderson revealed the outage was the most significant in history for Microsoft's customers. "Unfortunately, all the work we have done over the years was not sufficient to protect us on Thursday," said … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>The world's fastest computers have a problem: Keeping the work running</title>
 <link>https://www.theregister.com/systems/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710</link>
 <guid isPermaLink="false">e37ea9cf648ad310ffe782e023262ae49c26672043dc5cd95b3fa90777a3ff84</guid>
@@ -365,17 +387,6 @@
 <description>Replying STOP can certainly stop unwanted messages from reputable senders, but replying to scam texts can do more harm that good.</description>
 <enclosure url="https://www.engadget.com/img/gallery/why-you-should-never-reply-with-stop-when-you-receive-spam-texts/l-intro-1795013536.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/why-you-should-never-reply-with-stop-when-you-receive-spam-texts/l-intro-1795013536.jpg" medium="image"/>
-</item>
-<item>
-<title>Amazon is knocking almost $50 off six months of Apple TV</title>
-<link>https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday</link>
-<guid isPermaLink="false">9b5e3b4b01429c066a4e4b75d62dc73730e445a22f156ddd4548fd02a80e91ff</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
-<description>Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you get it for $6.99 for your first six months (totaling $42 versus $90 without the deal). Amazon hasn’t shared how long this offer will be available for, so I’d strike on it sooner than later. Apple TV subscription Where to Buy: $15 $7 at Amazon (monthly for 6 months) The subscription includes exclusive access to Formula 1 races and Major League Soccer matches, not to mention a bunch of acclaimed shows like Severance , Silo , The Morning Show , Pachinko , Pluribus , Slow Horses , and many more. ( Yo Gabba GabbaLand is amazing for kids who enjoy music.) The service also somewhat recently added movies made outside of Apple’s studios, including classics like Arrival , Dead Poets Society , and Anchorman , to name a few. While the service is technically free of ads, Apple advertises plenty of its own original programming as skippable preroll ahead of content.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The biggest limitations of ChatGPT</title>
@@ -827,17 +838,6 @@
 <description>Amazon has agreed to buy AI optimization technology from an Israeli startup in a bid to speed up its inference operations. The house of Bezos on Monday announced a deal to purchase proprietary AI acceleration tech from Decart AI, known as the Decart Optimization Stack (DOS), for an undisclosed amount. Amazon also plans to bring Decart’s three founders and their engineering team into the fold. Decart’s DOS is designed to push AI hardware closer to its maximum performance across different AI models and hardware platforms. The company claims that most AI chips live their lives without reaching their full potential – practically a sin in this age of increased hardware costs and limited availability – and DOS aims to fix that by operating between the model and the chip, optimizing kernels, compilers, and runtimes for the underlying hardware “so every core stays busy.” DOS is hardware-agnostic, with Decart saying it supports Nvidia GPUs, Google TPUs, and, most critically for our purposes here, AWS Trainium chips. “More efficient compute means better training, better reinforcement learning, faster inference, and better models for customers at a lower cost,” Peter DeSantis, Amazon SVP of foundational AI models, custom silicon, and quantum computing, said in the announcement. “That's the pillar Trainium and our AI efforts are built on, and from our earliest work with Decart, we knew they … would help us push it even further.” Decart doesn’t offer much in the way of details about its proprietary AI-maxxing tech, but claims it can reduce latency, improve throughput, and reduce the costs associated with training and inference runs. An Amazon spokesperson clarified to The Register that the deal is an asset purchase and not a full company acquisition, with Amazon only acquiring DOS and the tech behind it as well as personnel. As for what may become of Decart after the deal, that’s unclear. Amazon told us to reach out to Decart to learn what may happen to any remaining employees and the company’s other technology, but we didn’t hear back. Along with offering its optimization stack, Decart has a couple of different AI models: Lucy, a live video model marketed toward advertisers, live streamers, and the like; and Oasis, a world model AI marketed toward companies working on embodied AI applications. Decart’s non-DOS assets weren’t mentioned in the press release, and per the Amazon spokesperson we talked to, that means they weren’t part of the deal. We can’t imagine that the Decart team is too upset about the potential abandonment of those models, though: While neither company has disclosed a price, Bloomberg claims its sources value the deal at around $7.5 billion. If Bloomberg's figure is accurate, that would make this deal one of the most expensive in Amazon’s history, right between its $3.9 billion acquisition of One Medical and its $8.5 billion purchase of film studio MGM . ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5222824&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5222824&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret</title>
-<link>https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret</link>
-<guid isPermaLink="false">b25e1bf55a272e3f8027db08339b57d6135cbdae9628e38baa4162f58d72e091</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 20:34:51 +0000</pubDate>
-<description>It was the most simple of questions. On Monday afternoon, during a NASA news conference about the International Space Station, Space News reporter Jeff Foust asked about an upcoming launch of a Russian spacecraft. "It's my understanding there's another cargo mission going to the ISS this week, a Russian Progress," Foust said. "Can you confirm that, and give the date and time that will launch?" This Progress MS-36 cargo launch, mind you, is presently scheduled for fewer than 16 hours from now, at 10:13 UTC (05:13 am ET) on Tuesday. It is going to a space station co-operated by the US space agency. But no, NASA would not provide this basic information about the upcoming Progress launch. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k.jpg" medium="image"/>
 </item>
 <item>
 <title>Claude can ship code for you now – how to try it (if you dare)</title>

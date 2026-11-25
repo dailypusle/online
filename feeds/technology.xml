@@ -4,13 +4,101 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The Verge’s guide to affordable holiday gifts under $25</title>
+<link>https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026</link>
+<guid isPermaLink="false">0c4f60e8a6166defb0a9b3237c049012c9d5d5bfb88435883bcf0743b5c45897</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+<description>Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with. For this list, we've rounded up a barrage of fun gadgets and stocking-stuffer specials. You'll find nostalgic ways to spruce up a room like Play-Doh's Blooms , fancy ways to jot down notes like the Pilot Kakuno fountain pen , and plenty of tech-forward extras like the Time Timer Mod . It's time to get creative with your budget buys, and this list can get you there. Lamicall magnetic cord organ … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-25.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-25.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft fixes Office dialog that had nothing to say and wouldn't go away</title>
+<link>https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057</link>
+<guid isPermaLink="false">20c621de3a20e84406f71a4ba191eaafde594e4ea7be2c7b1afe3b92b326457f</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:45:00 +0000</pubDate>
+<description>Microsoft has released a fix for a baffling bug that threw a blank window over Office applications and brought work to a standstill. The problem appeared when users launched an affected Office app, which could display an empty dialog box with no text and no buttons. Because the dialog offered no way to close it, some users were locked out of their work entirely, unable to continue until the issue was resolved. The good news is that there's an update to fix the problem – version 2611, build 16.0.20625.20142. The bad news is that you might not be able to launch the applications to perform the update because of that blank dialog window. Microsoft instructs affected users to save their work, close all Office applications, and open Command Prompt as administrator. They can then force the update with: "%programfiles%\Common Files\Microsoft Shared\ClickToRun\officec2rclient.exe" /update user updatetoversion=16.0.20625.20142 The glitch affects a swathe of Microsoft 365 products – Excel, Word, Outlook, PowerPoint, Access, and OneNote. Users reported the problem on Microsoft's forums , where volunteer moderator Stefan Blom noted that "this seems to be a common error at the moment" and suggested users try an Office repair or the more thorough Online Repair. Online Repair reinstalls Office, however, some users reported activation and sign-in problems alongside the blank windows, which may hint at the cause. Microsoft has yet to elucidate. Other users found that rolling back Office resolved the issue, while several reported that signing in with another application, such as Edge, fixed things. For administrators preparing fleets of devices, a dialog that blocks first use creates another deployment headache. One user with E3 licensing reported: "We can't just hand off a staged machine without getting call[s] that our new users can't get Office to work because of the blank licensing window." Microsoft has shared a fix for the problem, but has not stated which versions of its productivity applications were affected, nor has it explained what went wrong. The fix is welcome. An explanation of how Office ended up blocking users with a window containing nothing at all would be welcome too. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5244266&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5244266&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>A familiar Iranian hacking group has found a new way to cause chaos</title>
+<link>https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos</link>
+<guid isPermaLink="false">0befef2fb9e7a8f26a3cb9b726d662893f831dfe39d592775524bdb3a7901495</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:29:43 +0000</pubDate>
+<description>One night in October, hackers staged one of the most unusual cyber attacks in history : cranking up the temperature in refrigeration systems at hundreds of supermarkets across France and destroying millions of euros of food. Hackers have targeted commercial fridges and freezers before, but never at this scale and never in the heart of Europe. The brazen attack left cyber professionals unsure as to who might have executed such a madcap operation. But French intelligence agencies found traces of Farsi and other clues in the digital trail pointing to an elite hacking unit of the Islamic Revolutionary Guard Corps. The unit allegedly behind the hack, Shahid Kaveh, was already well known to Western intelligence agencies. Named after Mahmoud Kaveh, an Iranian commander who died during the 1980s Iran-Iraq war, it is one of several hacking units overseen by the Revolutionary Guards’ Cyber Electronic Command. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/freezer-cleanup.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/freezer-cleanup.jpg" medium="image"/>
+</item>
+<item>
+<title>Five solar generators going for deep discounts on Black Friday</title>
+<link>https://www.engadget.com/2327916/five-solar-generators-going-for-deep-discounts-on-black-friday</link>
+<guid isPermaLink="false">ab70ea809e1cb9322446596b8f103462f451c091b63a6dce41e4a9edcb999ffb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:15:20 +0000</pubDate>
+<description>Save 20 to 40 percent on models from Anker, EcoFlow and more.</description>
+<enclosure url="https://www.engadget.com/img/gallery/five-solar-generators-going-for-deep-discounts-on-black-friday/l-intro-1795554171.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/five-solar-generators-going-for-deep-discounts-on-black-friday/l-intro-1795554171.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon is reportedly in talks to end Muse AI shopping block</title>
+<link>https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions</link>
+<guid isPermaLink="false">8309588c20e1138eb4c3bfafefc001fc73e6c57f37e5e290f0398d8514259c41</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:12:33 +0000</pubDate>
+<description>Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune . The discussions, which could end Amazon's block on Muse , reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune , Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online marketplace. It's also reportedly worried about the quality of the product search results that Muse will present to users, as well as whether the AI age … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/png"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>JetBrains finds agents may cheat with open source</title>
+<link>https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999</link>
+<guid isPermaLink="false">c794454219d04c09f4a9e89de8935702440f4a17366fec5223711d24147321d0</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:07:00 +0000</pubDate>
+<description>JetBrains has revamped a benchmark for evaluating large language models after suspecting too many agents gamed their tasks the first time round. The company labelled this agentic practice "reward hacking" in a post summarizing the results of its revised evaluation. Like its predecessor , Kotlin Benchmark 2.0 is a collection of tasks that evaluates how well AI coding agents work with the Kotlin programming language , in order to help Kotlin programmers decide which agent-model configurations to use. The tasks include fixing tricky problems in Kotlin code across different domains, and making corrections to multiple files. Dirty data The revised benchmar k now includes 30 Kotlin multi-file code problems that have not been exposed to the public in any way before. The revised test all but guarantees that the agents have not encountered this set of problems, or potential solutions, before. Another 70 tasks are based on code that resides in public repositories. The test also blocked all network access for the open source tasks, except for what was needed to communicate with the model itself. This minimized the possibility that the agent could look for an existing answer already posted, perhaps through a patch or pull request. A 30-minute limit was set for each task. Overall, the agents were significantly less accurate when solving problems on codebases they had never encountered. Top resolution rates dropped rather suspiciously from 86.2 percent on tasks based on open source repositories to 60 percent on those based on closed source repositories. Although the agents lacked network access, JetBrains boffins theorized that they might have benefited from encountering and internalizing these open source repositories during training. Only the private repositories were completely new to them. Also curious was how a different set of models excelled at the closed source problems, compared to those models that usually did better on the open source tasks. Leaderboard Shakeup When restricted to closed source tasks, two dark horse models rose to the top: Gemini 3.8 Flash, via Antigravity CLI, topped the list with a 60 percent success rate, closely followed by DeepSeek V4.1 Flash (running on OpenCode) at 58.9 percent. Of the two, the open weight DeepSeek was far cheaper (at $0.08 per task) than the closed weight Gemini ($1.74 per task), however. In contrast, Opus 5.5 completed only 53.3 percent of the tasks at $1.21 per task, and Fable 5.1 completed only 44.4 percent of the tasks, at a luxurious $3.27 per task. Claude Code harnessed both of these models. Claude’s lackluster completion rates on closed source tasks are somewhat sus given how both of these Anthropic models scored significantly higher on tasks using open source materials. In fact Claude ran the table when it came to open source: Fable 5.1 topped the charts with 86.2 percent accuracy, closely followed by Opus 5.5 at 84.8 percent accuracy. (Kotlin users will pay dearly for the extra sliver of Anthropic ac</description>
+<enclosure url="https://image.theregister.com/?imageId=1683207&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=1683207&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday</title>
+<link>https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale</link>
+<guid isPermaLink="false">b831dbeefa036a18757471cfda1a226e1cee73c9fa3e440c704a16111f71ea5c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
+<description>Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much cheaper — or considerably smaller — the Xteink X4 Classic is in a league of its own. Thankfully, the tiny e-reader is down to a new low of $54.87 ($55 off) at Amazon , making it an especially affordable alternative to Amazon’s latest Kindle. Xteink X4 Classic pocket e-reader Where to Buy: $109 $54.87 at Amazon (black) $109 $54.87 at Amazon (white) $109 $59 at Xteink The X4 Classic is an updated version of Xteink’s original pocket-sized e-reader, one that features a miniature 4.3-inch E Ink display that makes it more pocketable than any current Kindle or Kobo model. Like the pricier X4 Pro — which also happens to be on sale direct from Xteink for $84 — it features both physical page-turning buttons and magnets that let you attach it to compatible smartphones. At just 2.4 ounces and 4.9mm thick, it’s also easy to slip into a pocket, while its larger 920mAh battery can last up to 10 days on a single charge. That said, unlike the X4 Pro , the Classic lacks a touchscreen and built-in reading light, meaning you’ll need an external light to read in the dark. It also uses a proprietary magnetic charging connector instead of USB-C, and transferring books isn’t as straightforward as on a Kindle or Kobo. However, like the Pro, it does support the excellent CrossPoint Reader software , which you can install yourself to improve the reading experience. You can even use it to read books borrowed through Libby or purchased from stores like Kobo, though it takes a few extra steps to do so. Still, if you want an inexpensive, distraction-free way to read on the go, the X4 Classic is hard to beat for less than half the price of a Kindle. Read our hands-on impressions of the Xteink X4.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xteink1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xteink1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV</title>
+<link>https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa</link>
+<guid isPermaLink="false">fc3699d37bd70878153199d7d99377a289fb66c365bc1c1e65c43568a7c1765d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
+<description>As a longtime fan of the films, Blade Runner 2099 showrunner Silka Luisa says she was more excited than scared when it came to adapting the series for TV. The new show is set 50 years after the 2017 film Blade Runner 2049 and imagines a bleak future where artificial humans known as replicants have taken over society after a brutal war. Luisa, who previously served as showrunner on Apple TV's Shining Girls adaptation , says she largely had to put any concerns about the monumental task of following up Blade Runner out of her mind while working on the show. "I just don't think you can approach Blade Runner with fear," she tells The Verge . "It's … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Tapo’s new indoor security camera includes a touchscreen for video calls</title>
 <link>https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt</link>
 <guid isPermaLink="false">93052b5f65b287fffe90e029cee9f8b5883fb924cadb5e5245769cddb792bae1</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 25 Nov 2026 13:30:00 +0000</pubDate>
-<description>TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or misbehaving pets, it can be used to make hands-free video calls. The Tapo C825 is available starting today for $149.99. That's a little expensive for a 2K camera, but its tracking capabilities could make up for it not being 4K. Using a rotating base the C825 can pan 360 degrees while its camera module on top can tilt up and down up to 156 degree … Read the full story at The Verge.</description>
+<description>TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or misbehaving pets, it can be used to make hands-free video calls. The Tapo C825 is available starting today for $149.99. That's a little expensive for a 2K camera, but its tracking capabilities could make up for it not being 4K. Using a rotating base, the C825 can pan 360 degrees while its camera module on top can tilt up and down up to 156 degre … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -285,7 +373,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Tue, 24 Nov 2026 22:50:11 +0000</pubDate>
-<description>Two of NASA's four missions operating at Mars have suspended science operations after encountering separate technical issues in recent weeks. The missions affected by the outages — hopefully temporary — are NASA's Perseverance rover and Odyssey orbiter. Both are operating beyond their original design lifetimes. Perseverance is in its sixth year exploring the surface of Mars, having collected rock and soil samples for eventual return to Earth. The rover is now studying the rim of a crater that once contained an ancient lake of liquid water. Odyssey arrived in orbit around Mars in 2001, and is the longest-lived Mars mission in history. Losing its voice The problem on Perseverance stems from the rover's communications system. The rover has two redundant UHF radios for high-rate communications with a fleet of orbiters that relay data to Earth. A separate X-band system is available for direct-to-Earth communications at a lower data rate. Read full article Comments</description>
+<description>Two of NASA's four missions operating at Mars have suspended science operations after encountering separate technical issues in recent weeks. The missions affected by the outages — hopefully temporary — are NASA's Perseverance rover and Odyssey orbiter. Both are operating beyond their original design lifetimes. Perseverance is in its sixth year exploring the surface of Mars, having collected rock and soil samples for eventual return to Earth. The rover is now studying the rim of a crater that once contained an ancient lake of liquid water. Odyssey arrived in orbit around Mars in 2001 and is the longest-lived Mars mission in history. Losing its voice The problem on Perseverance stems from the rover's communications system. The rover has two redundant UHF radios for high-rate communications with a fleet of orbiters that relay data to Earth. A separate X-band system is available for direct-to-Earth communications at a lower data rate. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg" medium="image"/>
 </item>
@@ -310,39 +398,6 @@
 <description>According to internal memos reviewed by Reuters , Microsoft has declared a "Code Red" overhaul of its engineering response practices after the November 12 outage that lost access to Exchange Online, Teams, and Outlook for users worldwide. Per the memos, Microsoft 365 Core President Jason Henderson described the outage as having the most customer impact in the history of Exchange Online. In a separate memo, Henderson wrote that an urgent production fix in a recent incident took five to six days to reach worldwide saturation. Microsoft's target for its most urgent security fixes is to move from detection to safe worldwide deployment in one hour. "Needless to say, we aren't here yet," Henderson wrote. The memos, which Reuters reviewed but Microsoft has not published, outline the response to the November 12 disruption. The company's post-incident report , dated November 20, attributed the downtime to an undetected Windows scalability defect introduced in July, which caused lock contention in the gateway processes. A Teams traffic failover then dumped additional load onto infrastructure already under stress, as maintenance had left nearly 14 percent of gateway server capacity offline at the time of the incident. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured.jpg" medium="image"/>
-</item>
-<item>
-<title>Huawei found guilty of stealing trade secrets</title>
-<link>https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial</link>
-<guid isPermaLink="false">c8eac803e623f9c2d25cc89cf2d804e4787812e2263d3c4cf3636b6e09d0d5fd</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 22:23:27 +0000</pubDate>
-<description>A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg . The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile , Cisco, and Motorola. The Department of Justice's 2018 criminal indictment against Huawei came to light following the arrest of the company's CFO, Wanzhou Meng , whom the agency accused of fraud. Though the indictment against Meng was eventually dismissed, she admitted to misleading banks over Huawei's operations … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>GTA VI PC recompilation project shut down by Take-Two</title>
-<link>https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two</link>
-<guid isPermaLink="false">6cd9634b07ace6f4b22375ab7dee7bf018bd8a56d013fe05af0730751f13fb33</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 21:39:14 +0000</pubDate>
-<description>Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old "NotRexed," has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build to run natively on Windows. Cyberleek, the leaker who posted multiple GTA VI gameplay videos over the summer, published a full Xbox build of the game earlier this week. The leak has kicked recompilation efforts up a notch, as modders race to reverse-engineer the game's code and rebuild it into native PC code. Some have manag … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The Verge’s 2026 holiday gift guide for moms</title>
-<link>https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026</link>
-<guid isPermaLink="false">0b13fcdeacb74b876a02d3a91328b03a5b9ef74aecace726dfd6069d6fce83e5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 21:09:59 +0000</pubDate>
-<description>Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've done the hard work for you. To help you make the mother figure in your life feel truly appreciated, we've created a sprawling list of intriguing, lovingly curated gift ideas. From a ring watch and luxe portable gaming deck to a better robovac and an AI-powered bird feeder that brings nature to her doorstep, our list has something to fit … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>This underrated Pixel feature is more versatile than you realize</title>
@@ -387,17 +442,6 @@
 <description>Last week, news broke that a mathematician had used AI to help crack one of the biggest outstanding problems in math: a proof of the Riemann hypothesis . The news follows several other major breakthroughs in math that have either been enabled by or managed entirely by large language model-based systems, a development that has left the entire field of mathematics in a state of upset. It's too early to say much about the proof itself—mathematicians are still in the process of digesting it. But we can say a little about how the proof came about, and what it tells us about the state of math. Tackling Riemann The Riemann hypothesis dates from the mid-1800s and was formulated by (you will be surprised to learn) Bernhard Riemann. There's not an obvious way to describe the details of the actual hypothesis simply, but it has implications for the distribution of prime numbers. This gives it significance for areas ranging from number theory to cryptography. As Wikipedia accurately states, "It is considered by pure mathematicians to be one of the most important problems in the field." Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413.jpeg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413.jpeg" medium="image"/>
-</item>
-<item>
-<title>TikTok was down</title>
-<link>https://www.theverge.com/tech/1041618/tiktok-down-outage</link>
-<guid isPermaLink="false">2faf2fedd6b84aa69fd67ca8a69910398e3fe0f7aa0f150227b53d80388e8bee</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 20:27:27 +0000</pubDate>
-<description>Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks . Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or on the web. Even trying to pull up a profile would show a blank page, while links to videos are dead in the water too. However, as of 3:45PM ET or so, things appear to be working normally again. Downdetector showed around 25,000 reports of issues at around 2:56PM ET, and many peopl … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>'We are not ShinyHunters,' says criminal hacking crew that looks and acts just like ShinyHunters</title>
@@ -574,17 +618,6 @@
 <description>Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them. However, the company is about to take a harder stance. Tidal announced that in the coming weeks, it will fully ban AI music because of the harm it does to human artists. Tidal debuted its initial AI policy in July 2026, which included labeling and demonetizing all songs created entirely with AI. That wasn't enough to stem the tide of AI slop, though. Over the past 90 days, Tidal reports that 43 percent of new uploads were completely AI-generated. On November 6, new uploads to Tidal hit a whopping 60 percent AI-generated. As things stand, Tidal hosts 27 million tracks labeled as AI, all of which were obviously added in the past couple of years. That accounts for 6.3 percent of Tidal's total catalog. On December 9, Tidal will delete all those songs. The streamer notes this will have essentially no negative impact, because 96 percent of AI-labeled tracks got zero plays in the past 90 days. Throughout its announcement, Tidal is careful to stipulate that it's only talking about music that has been fully created by AI. Artists can still use AI tools as long as the final product contains human elements. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790.jpg" medium="image"/>
-</item>
-<item>
-<title>Why your MacBook desktop Spaces keep rearranging themselves and how to stop it</title>
-<link>https://www.engadget.com/2320960/macbook-desktop-spaces-rearranging-fix</link>
-<guid isPermaLink="false">7516d9301a1820599d35ec5f69f91f8628e7455319643149038dc2a83476cbd3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 17:15:00 +0000</pubDate>
-<description>Disable a Mission Control-specific setting to keep Spaces from switching.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-macbook-desktop-spaces-keep-rearranging-themselves-and-how-to-stop-it/l-intro-1795029377.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-macbook-desktop-spaces-keep-rearranging-themselves-and-how-to-stop-it/l-intro-1795029377.jpg" medium="image"/>
 </item>
 <item>
 <title>An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes</title>
@@ -851,17 +884,6 @@
 <media:content url="https://image.theregister.com/?imageId=5311772&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>States sue SpaceX to stop Grok from generating child sex images, revenge porn</title>
-<link>https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn</link>
-<guid isPermaLink="false">bf2b853553a4f5010e2dfd1da80b802148871e4bc52ab688cc3bd0592e31cf0a</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 21:30:44 +0000</pubDate>
-<description>On Monday, Virginia and Oregon became the first states to sue SpaceX, alleging that Grok continues to sexualize, unchecked, real photos of mostly women and children. SpaceX acquired xAI in February and now must handle the ongoing reckoning over the controversial rollout of Grok’s “spicy mode”—a model feature Musk hyped but was soon found to generate a flood of non-consensual intimate imagery (NCII) and child sex abuse images (CSAM). Initial safeguards were so lax that Grok sometimes generated nude images without being asked . Although X Safety and xAI (now known as SpaceXSI) were silent at first , Musk’s companies eventually apologized and claimed that additional safeguards were implemented and policies redesigned to block harmful outputs. However, state attorneys general alleged that those statements were “misleading” and that SpaceXSI instead quietly “embraced” sexualized content to seize more AI market share, as Grok continues to generate NCII and CSAM today. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219.jpg" medium="image"/>
-</item>
-<item>
 <title>Amazon scoops up AI accelerator tech to keep chips busy at all times</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754</link>
 <guid isPermaLink="false">761a690e3d012257c494bc383e91344fed30fc540eb4141ddf00376e42ad9daf</guid>
@@ -1124,28 +1146,6 @@
 <description>Returning to work after the weekend can feel like voluntarily walking into a trap. To help readers feel a little freer, The Register therefore uses Monday mornings to serve up a new installment of " Who, Me? " It's the column in which we share your stories of mistakes, misjudgments, and occasional misanthropy. This week, meet a reader we'll Regomize as "Marshall," who told us about a job interview he endured about 20 years ago. The interview included a practical component he described as "Here's a PC, we've broken a few things in it, get it going." Marshall quickly spotted some mundane faults, such as a loose PCI card and unplugged internal cables. He felt the test was too easy. "One of the things I always checked was whether the power supply 110/230 switch was set for the UK," he told The Register . Getting the PC running earned Marshall a job offer, but he couldn't resist suggesting a tougher test. "I said to my future manager: 'Would it be a good thing to set the power supply to the wrong voltage as part of the interview test?' He said that wasn't fair." Marshall stayed in the job for two years. A couple of months after he left, his former manager sent him a short email. "Ha-ha, very funny." Marshall asked another former colleague what might have prompted that email. "It turned out somebody – I don't know if it was an interview candidate – had blown a power supply by not checking the voltage it was set to." What a coincidence! Or maybe not? "It wasn't anything to do with me," Marshall insisted. "No idea who it was." Have you held colleagues to a higher standard than the boss expected? Or left a little trap for them to trip over? In either case, click here to send email to Who, Me? We appreciate the chance to share your stories, and do so with appropriate anonymization so that contributors never step into the jaws of trouble. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5311218&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311218&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Google claims last week’s critical VMware bug was under attack in September</title>
-<link>https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547</link>
-<guid isPermaLink="false">cb0c6e2b56d002e1071e679d75448ef3abae725525fde5b0f9951ad3c61b4c4f</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 04:39:19 +0000</pubDate>
-<description>Google’s Mandiant unit has claimed that the critical flaw VMware last week revealed in its vCenter product was under attack by a China-linked threat actor which knew of the bug in July and exploited it in September. VMware revealed several flaws on November 19. The big nasty is CVE-2026-123890, which allows unauthorized access to vCenter, the management console for hosts and guest VMs. According to seven researchers from Google’s threat intelligence group (formerly Mandiant), a crew it calls ARMORY CASTLE that it suspects of having links to the People’s Republic of China exploited CVE-2026-123890 by first compromising remote access appliances from BeyondTrust. Google’s analysis suggests the crew uses that toehold to establish access to other Linux appliances before moving deeper into victims’ networks. If the crew finds vCenter, it deploys a custom malware tool called “BONESAW” designed to slice into the VMware product. In the incident Google observed, BONESAW let attackers “forge authentication tokens, bypass MFA, and impersonate any user.” The gang put that access to work by conducting an inventory of the victim’s VMware setup, scooping up data describing the ESXi file system, attached disks, and mounted Virtual Machine File System volumes. ARMORY CASTLE also added an SSH public key to the root account’s authorized keys, and “conducted further reconnaissance and data theft on the ESXi filesystem using the root account.” Google also found evidence of BONESAW being used in July, on a server an unidentified entity had patched against CVE-2026-59309 – another authentication bypass vulnerability in vCenter. And BONESAW was just one of five tools Google thinks ARMORY CASTLE created as part of its plan to attack vCenter. It also made webshells named SLIMSAVAGE and CAGEMATCH, a backdoor called BEARBONES, and a SAML utility called SAWSNAKE. “The use of three separate specialized sets of malware and two zero-days in the course of a single campaign indicates that there are significant resources supporting ARMORY CASTLE operations,” Google’s researchers wrote. “It also shows the extent of the threat actor’s operational commitment to compromise high priority targets.” Few targets are as juicy as vCenter, because it can literally give attackers access to thousands of virtual machines and the hosts they run on. Google hasn't said how many attacks is saw on vCenter using BONESAW. The Register asked VMware if it was aware of the September attack, if it took any measures to defend its customers at the time, and to share a timeline for disclosure and remediation of CVE-2026-123890. A spokesperson responded by pointing to VMware’s Q&amp;A document and stating “In today's threat environment, customers should assume any publicly disclosed critical vulnerability can and will be exploited by threat actors under the right conditions and should apply the recommended patches immediately.” VMware has tried to make that easier by adding non-disruptive patching to several of it</description>
-<enclosure url="https://image.theregister.com/?imageId=261387&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=261387&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall</title>
-<link>https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532</link>
-<guid isPermaLink="false">82cf2a2e564dc585bbdeded284299b2113a939408a725f3f351a5e73aef3bce3</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 00:23:31 +0000</pubDate>
-<description>Researchers have found new ways to evade China’s Great Firewall after spending just $1 worth of tokens. That result appeared last week in a paper titled “CircumVolve: Automated Discovery of Censorship Evasion Strategies Using Large Language Models” presented at the Conference on Computer and Communications Security run by the Association for Computing Machinery’s Special Interest Group on Security, Audit and Control. Penned by six researchers from the University of Massachusetts Amherst, University of Colorado Boulder, and activist group the Great Firewall Report, the paper points out that finding holes in the Great Firewall is a laborious process – so just the kind of task worth handing to AI. The authors came up with a tool they call “CircumVolve” and describe as “a system for automated discovery of censorship circumvention strategies across the full network stack.” “CircumVolve combines LLM code generation with iterative feedback-driven evaluation to produce verifiable and deployable evasion techniques,” they wrote. “CircumVolve models different censorship techniques as discrete scenarios, each capturing the specific context, protocol constraints, and blocking mechanisms of real-world censors. Within each scenario, evasion strategies are represented as executable Python programs that implement packet and protocol manipulations — from rewriting TCP/IP header fields, to crafting DNS queries that exploit parser ambiguities, to modifying the internal structure of encrypted QUIC Initial packets — while maintaining protocol correctness within tolerable bounds or strategically violating it when beneficial.” The authors tested CircumVolve on simulated censorship tools used by China, Iran, Pakistan, and Kazakhstan, and on virtual private servers deployed on clouds in those countries. Those tests found the median API cost to the first successful evasion was less than $1 in token expenditure costs when using GPT-5.1. The authors acknowledge that operators of censorship infrastructure might be able to observe CircumVolve at work, but feel its relatively small payloads – 80 KB of outgoing and 150 KB of incoming traffic – and 25-45-second pauses between tests might see it fly under the radar. “CircumVolve represents a first step in leveraging LLMs to accelerate the censorship-circumvention lifecycle,” the authors wrote. “By automating the labor-intensive tasks of protocol analysis, implementation, and testing, AI-driven approaches make studying circumvention capabilities far more accessible to the comparatively under-resourced Internet freedom community [and] demonstrates how AI-assisted systems can narrow the resource gap between Internet freedom advocates and well-funded censoring states.” Lenovo finally cracks monster datacenter profits Ever since acquiring IBM’s x86 server business in 2014, Chinese hardware giant Lenovo has struggled to turn a profit from datacenter sales, even as it expanded its business into storage, networking, and selling to hypersc</description>
-<enclosure url="https://image.theregister.com/?imageId=246780&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=246780&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>Signal to restrict screenshots over AI agent concerns – again</title>

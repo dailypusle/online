@@ -4,15 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>'I'm not looking forward to energy price increase,' says student</title>
-<link>https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">46a6e1efb687bc7876ed7c0c76ed6ac3eb1b782df36e09ff586673a20a620332</guid>
+<title>US stocks fall further as fears over AI intensify</title>
+<link>https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">42b954009353f086b60c4595b68150c624927a58f3f991399cde424acc8354b2</guid>
 <source>BBC Business</source>
 <category>business</category>
-<pubDate>Wed, 25 Nov 2026 13:24:29 +0000</pubDate>
-<description>Student Isaac told the BBC he and his flatmates have no choice but to keep the heating on 'constantly' due to poor insulation.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ac10/live/f7c19070-e8d2-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ac10/live/f7c19070-e8d2-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
+<pubDate>Wed, 25 Nov 2026 15:05:38 +0000</pubDate>
+<description>All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open</title>
+<link>https://bitcoinmagazine.com/markets/bitcoin-price-falls-57500-nasdaq</link>
+<guid isPermaLink="false">66e1b83884e1e38be2b42e639cacb3113966330fa1a359ddb8deda2e16830d82</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 14:54:01 +0000</pubDate>
+<description>Bitcoin Magazine Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open The bitcoin price fell to near $57,500 on Wednesday morning, according to Bitcoin Magazine Pro data, as Wall Street opened sharply lower on a deepening technology selloff, hotter-than-expected core inflation and a fresh round of U.S. tariff proposals. Bitcoin had traded near $58,400 before the 8:30 a.m. ET data release. Bitcoin slipped to $60,000 on Tuesday morning and lost that level later in the day. It has now given back all of Monday’s spike above $64,000, which faded within hours after Jensen Huang’s return as Nvidia CEO. The bitcoin price remains above the weekend low near $55,100, its lowest level in more than two years. The world’s largest cryptocurrency is down about 24% in November and on course for its worst month since 2022. It has also lost more than 30% since the start of the year, as record ETF outflows, rising rate-hike bets and a slide in AI stocks have kept buyers on the sidelines. Nasdaq sinks 4% as tech selloff spreads The selling spread from Asia, where South Korea’s Kospi fell 6.16% overnight, to Wall Street. The Nasdaq Composite tumbled about 4% in early trading, while the S&amp;P 500 fell about 3% and the Dow Jones Industrial Average lost about 2%. Nvidia sank more than 8% to near $142, and Micron and AMD each fell more than 9% as doubts over the returns on AI spending resurfaced. Tariffs added to the risk-off mood. The Trump administration proposed new Section 301 tariffs on 14 trading partners, including China, the European Union, Japan and India, over what it calls excess industrial capacity. China faces a 20% duty on top of the 25% imposed in 2018, CNBC reported. The new duties would take effect after a public comment period, in January at the earliest. PCE data and Fed hike bets weigh on the bitcoin price Inflation came in hotter than expected. The personal consumption expenditures price index rose 0.3% in October and 3.8% from a year earlier, the Commerce Department said. Core PCE, which excludes food and energy and is the Fed’s preferred gauge, climbed 3.3% from a year ago, above the 3.2% economists had expected and up from 3.1% in September. Growth also ran hot. Real gross domestic product increased at a 4.3% annual rate in the third quarter, the Bureau of Economic Analysis said in its second estimate, up from the 3.4% pace first reported. Reuters called it the fastest growth in three years, driven by consumer spending and business investment in AI. The reports solidified bets on another rate increase, with traders pricing in a 98% chance of a quarter-point hike at the Fed’s Dec. 8-9 meeting. The 10-year Treasury yield fell more than 6 basis points to 4.84% as investors bought bonds for protection, but that offered little support to the bitcoin price. ETF selling continues. U.S. spot bitcoin ETFs lost about $231.6 million on Tuesday, less than half of Monday’s $569.7 million, their sixth straight session of outflows. November withdrawals rea</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Falls-Below-72000-as-Nvidia-CEO-Jensen-Huang-Steps-Down-and-Strategy-MSTR-Slides.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Falls-Below-72000-as-Nvidia-CEO-Jensen-Huang-Steps-Down-and-Strategy-MSTR-Slides.jpg" medium="image"/>
 </item>
 <item>
 <title>US announces new tariffs on host of countries including China</title>
@@ -20,10 +31,98 @@
 <guid isPermaLink="false">be54e905a796b4cee0cd01426abfd367a24a103d3316a9af411ae0aa6acd28d0</guid>
 <source>BBC Business</source>
 <category>business</category>
-<pubDate>Wed, 25 Nov 2026 13:19:41 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 14:52:22 +0000</pubDate>
 <description>The new levies would hit many of America's biggest trading partners, including China and the EU.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg" medium="image"/>
+</item>
+<item>
+<title>France’s Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets</title>
+<link>https://bitcoinmagazine.com/news/france-senate-rejects-self-custody</link>
+<guid isPermaLink="false">f87dee58296940aa5bcac893795cb08c51b1a840468b422b955b62e340c22e30</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 14:51:04 +0000</pubDate>
+<description>Bitcoin Magazine France’s Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets France’s Senate has rejected a proposal that would have forced bitcoin holders to report self-custody wallets worth €100,000 or more to the tax authorities, along with two other crypto tax measures in the 2027 budget. Senators voted down two identical amendments on Nov. 24 during debate on the first part of the 2027 finance bill. Both would have required taxpayers to declare crypto wallets they hold directly, outside a crypto service provider, when the total value inside reached at least €100,000 on Dec. 31 of the tax year. The first, amendment I-2447 , came from Sens. Pascal Savoldelli and Pierre Barros and the Communist-led CRCE-K group. The second, amendment I-2992 , came from Sen. Anne-Sophie Romagny and seven other senators. The government opposed both, and both were rejected. The case for a wallet rule in France Backers argued that France already makes taxpayers declare accounts on foreign crypto platforms, just like foreign bank accounts. Wallets that holders manage themselves, without an intermediary, escape any such obligation. “They have become the digital equivalent of the undeclared safe,” the CRCE-K group wrote in its amendment, adding that tax authorities can’t see them, check gains on them or reach them in an estate or when a holder moves abroad. Romagny’s version pointed to a gap in the numbers. Crypto holders in France realized €3.5 billion in gains in 2021, but only €400 million in digital assets were declared to the tax administration that same year, the amendment said. It proposed fines of up to €10,000 for failing to declare. The National Assembly had approved the same wallet rule on Nov. 3. It fell away the next day, when deputies rejected the entire revenue section of the budget. Senators then took up the same measure as an amendment to the budget. Stablecoin swaps and exit tax also rejected Senators also rejected two other proposals from the CRCE-K group. Amendment I-2421 would have ended France’s tax deferral on swaps into electronic money tokens under the EU’s MiCA rules. That would have made converting bitcoin into a regulated stablecoin a taxable event. Amendment I-2428 would have pulled crypto into France’s exit tax on unrealized gains for people who move their tax home abroad. It counted all crypto toward the €800,000 threshold, including coins held in self-custody or outside France. David Amiel, France’s minister for public action and accounts, argued against the wallet rule, saying the EU’s DAC8 directive already puts reporting duties on crypto firms. He said he was “more circumspect” about a “purely declarative” obligation that would not help authorities track crypto used in money laundering or tax fraud. The Senate’s finance committee also opposed the measures, and rapporteur general Christine Lavarde recommended rejecting all three. Lavarde noted that the wallet amendments drew on a recommendation from a Senate</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Frances-Senate-Rejects-Rule-Forcing-Bitcoin-Holders-to-Declare-Self-Custody-Wallets.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Frances-Senate-Rejects-Rule-Forcing-Bitcoin-Holders-to-Declare-Self-Custody-Wallets.jpg" medium="image"/>
+</item>
+<item>
+<title>Dive Deposits: Ex-Jenius president lands at Cambridge Savings Bank</title>
+<link>https://www.bankingdive.com/news/rosenfeld-cambridge-savings-bank-board-jenius/875738</link>
+<guid isPermaLink="false">173c22270fae0f85227ddd2d24835e0ef2226f057df8b949242c25d9feba8b46</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 14:46:24 +0000</pubDate>
+<description>The $7.5 billion-asset lender named a former top executive at SMBC’s shuttered U.S. digital bank to its board of directors.</description>
+<enclosure url="https://imgproxy.divecdn.com/tTVatPnYdtOkJkyUc0SRFBo1tS26iWeJn07L3QzouXI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaXR5X29mX0NhbWJyaWRnZV9za3lsaW5lXy1fR2V0dHlfSW1hZ2VzX0xQTmRkbm4uanBn.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/tTVatPnYdtOkJkyUc0SRFBo1tS26iWeJn07L3QzouXI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaXR5X29mX0NhbWJyaWRnZV9za3lsaW5lXy1fR2V0dHlfSW1hZ2VzX0xQTmRkbm4uanBn.webp" medium="image"/>
+</item>
+<item>
+<title>Fuel price hike will make life 'almost impossible'</title>
+<link>https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">d48283d384e876907ab934871ddcb3c129b1185d0ce2c4944dff5078cd0a4c24</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 14:37:44 +0000</pubDate>
+<description>The Fuel Bank Foundation says many homes are already cutting back and struggling with bills.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8c78/live/e19d6d50-e8c8-11f1-ac76-db9e97f93d67.png" type="image/png"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8c78/live/e19d6d50-e8c8-11f1-ac76-db9e97f93d67.png" medium="image"/>
+</item>
+<item>
+<title>Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal</title>
+<link>https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist</link>
+<guid isPermaLink="false">c0e82c5113353e0256248c91439ce586149d3a1dcca9b60470dc92de9618338a</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 14:21:36 +0000</pubDate>
+<description>Constance Waing said Netflix used racist stereotypes in its portrayal of CZ and misrepresented life at FTX before the exchange’s collapse.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89EG9XE1SFYT4R3QX10Q2ZA/hi-changpeng-zhao.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89EG9XE1SFYT4R3QX10Q2ZA/hi-changpeng-zhao.jpg" medium="image"/>
+</item>
+<item>
+<title>Energy bills to rise by 26% from January after gas prices surge</title>
+<link>https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">42887a31417738a7d599f45f3c75c95cab59dd9c2d893be0b93ecb541c0f696e</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 13:42:08 +0000</pubDate>
+<description>A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/654f/live/9096f7c0-e8df-11f1-a3b9-79c60ec9ab33.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/654f/live/9096f7c0-e8df-11f1-a3b9-79c60ec9ab33.jpg" medium="image"/>
+</item>
+<item>
+<title>Morning Minute: Ethereum Focuses on Security As AI Threats Rise</title>
+<link>https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise</link>
+<guid isPermaLink="false">0bc3c1414a2995c54bbea3ccc645c589d3830a6d959b8dd452bc509dc146316d</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 13:41:38 +0000</pubDate>
+<description>The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 13:26:05 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Why are bills going up?</title>
+<link>https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">46a6e1efb687bc7876ed7c0c76ed6ac3eb1b782df36e09ff586673a20a620332</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 13:24:29 +0000</pubDate>
+<description>BBC correspondent Colletta Smith explains the January increase.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1ca6/live/0e1057f0-e8db-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1ca6/live/0e1057f0-e8db-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
 </item>
 <item>
 <title>French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets</title>
@@ -48,7 +147,7 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9622/live/98603700-e8d0-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
 </item>
 <item>
-<title>Salon owner's chore woes prompt idea for new app</title>
+<title>Salon owner's chore woes prompt skill-swapping app</title>
 <link>https://www.bbc.co.uk/news/articles/c6jren0308xzo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">15e43198fc8cb8c0e8e540466f2ebbefc480a7e7c37ae5566d8a1ca8278d9efc</guid>
 <source>BBC Business</source>
@@ -81,17 +180,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
 </item>
 <item>
-<title>'I use a bowl to wash myself and I'm £400 in debt - energy price rise scares me'</title>
-<link>https://www.bbc.co.uk/news/articles/cmly7q7zk77po?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">8cd2e06ece274fa163a2e38441970cb85d2d55cc770aa58531ceaa9d09bc9c18</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 12:05:29 +0000</pubDate>
-<description>A woman already in energy debt says her anxiety is "through the roof" over further cost increases.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d255/live/137b9b40-e8d2-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d255/live/137b9b40-e8d2-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
-</item>
-<item>
 <title>Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam</title>
 <link>https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam</link>
 <guid isPermaLink="false">b478a09a7b452c5c5573dbe4575353877f025eab60ecd5adb3451d9ddba07f92</guid>
@@ -112,17 +200,6 @@
 <description>SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M896PHE1PD4MWC6ATP71JDFZ/sol-jjapan.png" type="image/png"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M896PHE1PD4MWC6ATP71JDFZ/sol-jjapan.png" medium="image"/>
-</item>
-<item>
-<title>Energy bills to rise by 26% from January after gas prices surge</title>
-<link>https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">42887a31417738a7d599f45f3c75c95cab59dd9c2d893be0b93ecb541c0f696e</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 11:44:26 +0000</pubDate>
-<description>A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
 </item>
 <item>
 <title>Hong Kong launches tokenized debt platform with 24-hour settlement</title>
@@ -165,8 +242,8 @@
 <category>business</category>
 <pubDate>Wed, 25 Nov 2026 11:10:00 +0000</pubDate>
 <description>The bank’s investments in real-time and cloud-based rails are letting it keep pace with technology advances, a top payments executive said.</description>
-<enclosure url="https://imgproxy.divecdn.com/5pfQeh2mCcKMrIumvSJIUTE-z6xs7yg__O_IC8dtk6o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDIzNDU4NTM4LmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/5pfQeh2mCcKMrIumvSJIUTE-z6xs7yg__O_IC8dtk6o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDIzNDU4NTM4LmpwZw==.webp" medium="image"/>
+<enclosure url="https://imgproxy.divecdn.com/CSY5520TDKHlxmcUc-bBMjPe2O3HzA8_GKZX_rRyDuM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU3OTU0MzA5LmpwZw==.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/CSY5520TDKHlxmcUc-bBMjPe2O3HzA8_GKZX_rRyDuM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU3OTU0MzA5LmpwZw==.webp" medium="image"/>
 </item>
 <item>
 <title>Bitcoin price may fall below $53K if bear-market history repeats</title>
@@ -288,17 +365,6 @@
 <description>South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-south-korea-1.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-south-korea-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 05:50:43 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>Solana DEX Velocity halts trading over bug just months after relaunch</title>
@@ -818,28 +884,6 @@
 <media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/grand-theft-auto-vi-1126-g-2306308069.jpg" medium="image"/>
 </item>
 <item>
-<title>Global Debt Will Make Bitcoin the Best Performing Asset in the World</title>
-<link>https://bitcoinmagazine.com/videos/global-debt-will-make-bitcoin-the-best-performing-asset-in-the-world</link>
-<guid isPermaLink="false">637f2445741a9f18c9530b26816a65e1e29c9305509a505a9ceec95c9edc886e</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 15:00:05 +0000</pubDate>
-<description>▶ Bitcoin Magazine Global Debt Will Make Bitcoin the Best Performing Asset in the World CJ Konstantinos — Founder &amp; CEO, Peoples Reserve, makes the case that America’s debt problem is Bitcoin’s biggest tailwind. With $40 trillion in debt and a trillion-dollar deficit every year, CJ argues “the deficit is not going away,” and that as currency units are diluted, Bitcoin “will outperform every other asset simply because it is a finite asset.” He explains why raising rates is only raising the deficit and accelerating inflation, and why that pressure keeps building. CJ then makes his boldest call: that within the next five to 10 years, one Bitcoin “will become worth more than a single family home,” a moment he says will be “a really big wake up call for most Americans.” Cash App: For a limited time, new customers can get $21 added to their balance. Just use the code BMTV21 when you sign up, and send at least $5 to a friend in the first two weeks. Terms apply. Bitcoin services by Block, Inc. See the Bitcoin disclosures at cash.app/legal/podcast. Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Bitcoin’s Bounce From $55K With Yields Above 5% 01:01 Wall Street Is Still Learning to HODL 01:48 Fed Hikes and What the Market Is Pricing In 02:30 Why the Mainstream Inflation Narrative Is Wrong 03:19 $40T in Debt: Higher Rates Mean Higher Deficits 05:11 The Fed Buying Treasuries and Yield Curve Control 07:15 Digital Credit vs. the Bitcoin Bond 08:49 How People’s Reserve’s Bitcoin Bond Works 11:46 Where Bitcoin Is When the Bonds Mature 12:48 Why Endless Deficits Make Bitcoin Outperform 13:33 Oil, Rates and the End of the Road for the Fed 14:29 1 Bitcoin Worth More Than a Home in 5–10 Years DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Global Debt Will Make Bitcoin the Best Performing Asset in the World first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
-<enclosure url="https://img.youtube.com/vi/6qNFLQyppLs/hqdefault.jpg" type="image/jpeg"/>
-<media:content url="https://img.youtube.com/vi/6qNFLQyppLs/hqdefault.jpg" medium="image"/>
-</item>
-<item>
-<title>UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65%</title>
-<link>https://bitcoinmagazine.com/news/unicredit-bitcoin-certificate-italy</link>
-<guid isPermaLink="false">fd412f0c61fbb34125469f9f5cf564c8dfab934426510553b016e0ed8a1a0056</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 14:58:09 +0000</pubDate>
-<description>Bitcoin Magazine UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65% UniCredit on Tuesday began selling a capital-protected certificate that lets retail clients in Italy follow the bitcoin price, a product the bank calls the first investment solution of its kind in the country. The six-year, euro-denominated certificate will be listed on the Munich stock exchange and is linked to the iShares Bitcoin ETP managed by BlackRock, UniCredit said in a release. The placement period runs from Nov. 24 to Dec. 18, 2026. The note is open only to UniCredit Italia retail clients with specific characteristics, and only through the bank’s advisory service. It can’t be bought independently or by investors who aren’t UniCredit clients, and the minimum investment is €1,000, Italian newswire Teleborsa reported . How the certificate works A capital-protected certificate is a structured note. The issuing bank promises to repay the original investment at maturity and pays a return tied to an underlying asset, in this case bitcoin through the BlackRock product. Buyers hold a claim on the bank, not bitcoin itself. If bitcoin is down at maturity, holders get 100% of their capital back. If it rises, they share in the gain up to a maximum return of 65% on the capital invested. Before maturity, the certificate’s price follows market conditions, so the protection applies only at the end of the six years. That cap works out to roughly 8.7% a year at most, no matter how far bitcoin climbs. And because the certificate is UniCredit’s own debt, the protection depends on the bank’s ability to pay. Documents for a similar UniCredit note in Germany state that no third-party guarantee covers an issuer default. “With the launch of this certificate, UniCredit is writing a new page of financial innovation in the country, confirming its market leadership,” said Chicco Di Stasi, Head of Group Investment Product Solutions at UniCredit. “Diversification is no longer just a prudential rule, but the key to capturing the value of the future,” Di Stasi said, adding that the bank is responding to growing client demand and offering the product to Italian savers “for the very first time.” Built on notes sold in Germany and Austria Di Stasi said the bank is bringing to Italy “a pioneering model already proven by its success in Germany and Austria.” Those earlier notes are denominated in dollars and track BlackRock’s U.S.-listed iShares Bitcoin Trust instead. HypoVereinsbank, UniCredit’s German unit, sold a version to private clients in March with a 160% cap, or 60% upside. UniCredit Bank Austria launched its own six-year note in April with a 175% cap, or 75% upside. Italy’s 65% falls between the two. The bank has moved into bitcoin in steps. It first offered a capital-protected bitcoin product to professional clients only in 2025. In May, it placed a bitcoin and ether certificate for professional clients with a €100,000 minimum. A major lender, moving carefully In September, UniCredit wa</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/UniCredit-Opens-Bitcoin-to-Italian-Savers-Capping-Gains-at-65.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/UniCredit-Opens-Bitcoin-to-Italian-Savers-Capping-Gains-at-65.jpg" medium="image"/>
-</item>
-<item>
 <title>Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack</title>
 <link>https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack</link>
 <guid isPermaLink="false">b88ab0144ad1f2c1d1a7cc1300f0a8f29dcce389bdbcfad974747a3608717496</guid>
@@ -1005,17 +1049,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg" medium="image"/>
 </item>
 <item>
-<title>Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s</title>
-<link>https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s</link>
-<guid isPermaLink="false">eb7b9632df401af8123a0293685d281e16eb09c9c38484535312f2a6d8561351</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 09:25:45 +0000</pubDate>
-<description>Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day losing streak during which it fell nearly 25%.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86BHJKQHXMF4CD02MKJ6YRP/hi-what-is-the-stock-to-flow-ratio-of-bitcoin-960x640.webp" type="image/webp"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86BHJKQHXMF4CD02MKJ6YRP/hi-what-is-the-stock-to-flow-ratio-of-bitcoin-960x640.webp" medium="image"/>
-</item>
-<item>
 <title>The shake-up facing renters as a new kind of landlord emerges</title>
 <link>https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">d116c3d9f1d390741d8251edbb9d7af80c57205d89620048b1bfed096a75d165</guid>
@@ -1137,17 +1170,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/Profeta-do-Hardware-Celestial-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia</title>
-<link>https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">4c2b336b765a0af02ff0ba099d33ab7ca44d4f5e03cb9bb8535860d8ac4025d1</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 18:43:00 +0000</pubDate>
-<description>The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
-</item>
-<item>
 <title>Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds</title>
 <link>https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot</link>
 <guid isPermaLink="false">dac38ad35dcc5135051b85c168e5327dcd156748506f2302ba84a7e372727a7d</guid>
@@ -1225,17 +1247,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg" medium="image"/>
 </item>
 <item>
-<title>Nvidia reinstates CEO after affair with alleged spy</title>
-<link>https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">de9a73c591d338515e175a1cfdcb8cb0a3b84b82c499aac29f0a2e38b0ee6def</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 14:51:05 +0000</pubDate>
-<description>Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/eb5f/live/44ab16f0-e74c-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/eb5f/live/44ab16f0-e74c-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
-</item>
-<item>
 <title>AI-forward insurance startup Corgi applies for bank charter</title>
 <link>https://www.bankingdive.com/news/corgi-applies-occ-fdic-national-bank-charter-ai-insurance-fintech/875453</link>
 <guid isPermaLink="false">47f082d981a75029c1940ab657addf522a8657b3e8e054ac7f0da3a23bd9d63f</guid>
@@ -1278,28 +1289,6 @@
 <description>Michael Saylor's firm raised its preferred stock buyback program to $4 billion after repurchasing another $212 million of STRC last week.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino</title>
-<link>https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino</link>
-<guid isPermaLink="false">3554b29e086c2ce8e77c479af658edf3b83a6fa074255401242faf06bfd82d91</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 13:08:23 +0000</pubDate>
-<description>Investigators say "decentralized" casino BETFIN was run centrally, inflated its player numbers with bots and made $12 million illegally.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity</title>
-<link>https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity</link>
-<guid isPermaLink="false">42de20cf0ad37a43f5fd90a143dfd4ba36e1b8cc89229cf2cfea92c46c375750</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 12:43:30 +0000</pubDate>
-<description>A meme coin honoring the Cincinnati Zoo's late pygmy hippo has sent its creator rewards to the zoo's nonprofit.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/fiona-hippo-decrypt-style-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/fiona-hippo-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>San Francisco is enjoying an AI boom, but worries about a crash are growing</title>

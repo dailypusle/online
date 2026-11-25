@@ -4,7 +4,84 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>AI can do the calculations. Theoretical physicists are figuring out what comes next.</title>
+<title>Tapo’s new indoor security camera includes a touchscreen for video calls</title>
+<link>https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt</link>
+<guid isPermaLink="false">93052b5f65b287fffe90e029cee9f8b5883fb924cadb5e5245769cddb792bae1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 13:30:00 +0000</pubDate>
+<description>TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or misbehaving pets, it can be used to make hands-free video calls. The Tapo C825 is available starting today for $149.99. That's a little expensive for a 2K camera, but its tracking capabilities could make up for it not being 4K. Using a rotating base the C825 can pan 360 degrees while its camera module on top can tilt up and down up to 156 degree … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Debian wakes up wearing Windows XP's actual skin</title>
+<link>https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111</link>
+<guid isPermaLink="false">e1a4bd3ff7719476a15710b3dfd45b083eec137b61ef6b4510631c7783a603ef</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 13:23:32 +0000</pubDate>
+<description>Win4Wine is one of the more remarkable and creative hacks we've read about in recent years. It runs Windows XP's genuine Explorer shell through patched Wine on Debian 13, with a custom window manager integrating Linux applications into the desktop. As its GitHub repository explains: "The taskbar, Start menu, desktop and folder windows are XP's real ones, and Linux applications get XP's frames and taskbar buttons." This impressive, possibly demented project has English installation instructions and a README, although its design documents are in Japanese. We found Mozilla's built-in translation handled those pretty well. Its developer goes by miKuta0407 on GitHub, their homepage , and X . Also note, you're going to need some Windows installation media for the full experience. The README says: "No Microsoft files are included. Only the files that are needed are extracted locally from your own ISO." It supports Windows XP Professional SP3 installation images in 32-bit Japanese or English editions, with an experimental option for Windows 7 SP1 x64. Without either Windows image, it can download and use ReactOS's free software shell instead, for what it terms "a Windows 2000-like classic look." In our view, that sounds much better anyway. Before any former Windows users cry hurray and reach for an optical drive, this is not some ready-to-run project. The top of the README warns: "This is a personal, experimental project, not a finished product for daily use." The developer has tested it only on a fresh Debian 13 installation and recommends a VM or spare machine, rather than an existing working desktop, which sounds like an excellent precaution to us. Also, before you ask, yes, it was vibe-coded with Claude. We found ourselves reminded of another crazy-but-is-it project that we wrote about back in January: What if Linux ran Windows... and meant it? Meet Loss32 . The Loss32 proposal was even more extreme. It suggested replacing essentially the entire Linux userland, so it would be a Linux kernel running Wine with a Windows desktop and Windows apps. However, Mikuta-san was way ahead of us – lower down, the README mentions and even links to Loss32. Saying that, since it launched at the end of 2025, the bottom of the Loss32 web page shows a couple of updates, reporting on delays in getting it working. That, to be honest, did not shock us, but we still admire the let's-do-this spirit. The developer also seems to have got slightly distracted by a previous project, touchHLE: high-level emulator for early iOS apps . Loss32, in turn, reminded us of Neptune OS, an attempt to give seL4 a Windows personality transplant . We wrote about that back in 2022, and work on it has continued: the project page shows updates in recent months. The team has also pushed out preview releases in 2022, 2024, 2025, and most recently in September. This OS face transplant also reminded us of our article, Classic 7 is Windows 10 LTSC cosplaying as Windows 7 . Some people really miss the</description>
+<enclosure url="https://image.theregister.com/?imageId=5312115&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312115&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Has vibe coding made open source the new normal for synths?</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware</link>
+<guid isPermaLink="false">d7f8df890f989b59e60830daace3d0e9f71e57aaf4a12626f33f8d341d87b768</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
+<description>The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world , leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source. The biggest name to decide "if you can't beat 'em, join 'em" is inMusic , the parent company of Akai, Moog, Native Instruments, and more. "We're going t … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Acer Predator Atlas 8 review: Potent performance at a slightly better price</title>
+<link>https://www.engadget.com/2326961/acer-predator-atlas-8-review</link>
+<guid isPermaLink="false">3e56a9b1b70d664717ca8bd41e2d78a4c1f42ae6dcb6a097217e0f7f20e2e618</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
+<description>Thanks to its Intel Arc G3 Extreme chip, the Acer Predator Atlas 8 delivers 95 percent of the performance you get from MSI's Claw 8 EX AI+ for $350 less.</description>
+<enclosure url="https://www.engadget.com/img/gallery/acer-predator-atlas-8-review-potent-performance-at-a-slightly-better-price/l-intro-1795546932.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/acer-predator-atlas-8-review-potent-performance-at-a-slightly-better-price/l-intro-1795546932.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft 365 Backup stretches recovery window to ten years</title>
+<link>https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043</link>
+<guid isPermaLink="false">e8600d727083176235dbe1fb37b64b539d63486649bd8282e47d506a1c37b272</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 12:35:00 +0000</pubDate>
+<description>Recovery windows of up to ten years are now available in Microsoft 365 Backup for OneDrive and SharePoint, up from a previous maximum of two. The change took effect on October 31, though Exchange remains capped at two years. Administrators can select recovery windows of three months, six months, or any whole number of years from one to ten. Microsoft's list price is $0.15 per GiB per month of protected content. Extended windows can increase costs by keeping deleted data billable for longer. Switching to a longer recovery window will also not make backups for that period magically available. So no nostalgic trips back to 2016. Wider recovery windows may appeal to organizations that need access to older data, but backups are not a substitute for compliance retention and archiving. Recovery after a breach or ransomware attack is also critical, particularly getting back to a healthy state before any malware seeped into files. Microsoft says backups are physically redundant and geographically replicated while respecting the tenant's data residency requirements. Full OneDrive account and SharePoint site restores offer recovery points every ten minutes for the most recent two weeks, then weekly points through the configured window, up to ten years. Individual file and folder recovery is limited to recovery points from the most recent 14 days, regardless of the configured window. Restore remains free, which is handy since regular testing is a vital part of any disaster recovery plan. The arrival of a ten-year recovery window is good for enterprises that need it and have deep enough pockets. However, it is important to keep in mind that being able to configure a longer recovery window doesn't constitute a disaster recovery plan in itself and may be overkill in many instances. Microsoft notes: "The existing one-year default recovery window remains unchanged. Longer recovery windows must be configured on the applicable backup policies." The company also recommends that users "review your organization's SharePoint and OneDrive backup requirements to determine whether longer recovery windows are needed." A decade of recovery history could be valuable. It also means a decade of data to account for when setting budgets, access controls, and retention policies. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=232945&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=232945&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>WhatsApp is testing stickers with sound</title>
+<link>https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound</link>
+<guid isPermaLink="false">f98740dfa2ecfd7307538f082c25b16337192c2d0a9a241d220576dfd18e032a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 12:24:57 +0000</pubDate>
+<description>WhatsApp's newest public beta includes the ability to create stickers with sounds.</description>
+<enclosure url="https://www.engadget.com/img/gallery/whatsapp-is-testing-stickers-with-sound/l-intro-1795609389.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/whatsapp-is-testing-stickers-with-sound/l-intro-1795609389.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon to flog motors in Britain, but Prime won't deliver</title>
+<link>https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080</link>
+<guid isPermaLink="false">58560a0362acc318e162d17cf794a2dd3551ebc406481cc3ef7c75585f85080a</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 12:19:20 +0000</pubDate>
+<description>Amazon is channeling its inner car salesman as it prepares to flog motors on the UK arm of its online tat bazaar. Amazon Autos will launch in Britain in early 2027, its first expansion outside the US, where it debuted in December 2024. Customers can browse and reserve cars online before completing the purchase with a dealer. Hoping it will be "a nice little earner," Amazon will let punters view real-time dealer inventory, prices, get an instant trade-in valuation, and connect with a local dealer to reserve a car, "all on Amazon." In the US, the service now covers more than 150 cities and offers vehicles from 35 brands. Hyundai is the first announced UK carmaker partner, while dealer group Vertu Motors will list used vehicles. More brands and dealers are due to be confirmed before launch. Hyundai's launch range will include electric, hybrid, and petrol models. "Buying a car is one of the biggest purchases people make, and we think it should feel as simple and transparent as shopping for anything on Amazon," said Matt Nuffort, director of Amazon Autos International. Of course, buying a car isn't quite like adding an air fryer or a memory stick to your basket. How does financing and checkout work for UK buyers? Customers will complete the purchase and paperwork at their chosen dealership. Amazon is not offering financing itself, but buyers can explore financing options via the site, adjusting terms like deposit and duration to see how monthly payments change. Credit applications must be completed with the dealer. In the US, buyers can submit a credit application through the platform, review terms and conditions, then sign electronic contracts online. They typically pay a deposit and visit the dealership to complete the remaining paperwork and pick up the vehicle. Buyers shouldn't expect their new car to arrive in an enormous cardboard box with a smiley logo on it, or to be lowered onto their driveway by a giant Amazon delivery drone. But given that one of the online retailer's flying delivery robots crashed into someone's garage after making a drop-off near Detroit last week, perhaps that's for the best. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=258277&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=258277&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>AI may soon change what it means to be a theoretical physicist</title>
 <link>https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next</link>
 <guid isPermaLink="false">319f463cce75ff29a26711e1ce30e8ab590dae150eeeede25248dd0af7a19f06</guid>
 <source>Ars Technica</source>
@@ -334,17 +411,6 @@
 <media:content url="https://image.theregister.com/?imageId=222661&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Jensen Huang reportedly tells Nvidia staff it&amp;#8217;s ‘not true’ Trump got him rehired</title>
-<link>https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology</link>
-<guid isPermaLink="false">555529a69b5d605cd299198c83291b9aed8c58ef9a808ad58d4d83e03d6005ae</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 20:02:03 +0000</pubDate>
-<description>Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg , The New York Times , and The Handbasket's Marisa Kabas . During the meeting, Huang reportedly called claims that President Donald Trump was directly involved in his reinstatement - an idea publicly promoted by Trump himself - "completely untrue." He added, "Don't think for a second politics played a role in the company. We are the most apolitical company," according to Kabas . Along w … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Back-to-back measles deaths is our new reality; US tally now at 14</title>
 <link>https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000</link>
 <guid isPermaLink="false">35bd8d272963987e2baa159d39762481974d640cdd81435728297b9a276ab330</guid>
@@ -354,17 +420,6 @@
 <description>Last week, international health authorities formally announced that the US had lost its measles-elimination status, meaning that the virus is once again endemic. But the official determination is a bit like getting the technical readout of a cracked dam while the country is already feet under water. The national tally of measles cases is nearing 6,000 for the year, the highest count since 1991. Transmission is widespread, with 47 states and jurisdictions reporting cases. There have been 43 outbreaks this year, which account for 96 percent of the cases. Four states have case counts above 500, including Pennsylvania, which leads with 1,638 cases as of November 23 . Nearly 650 people have been hospitalized nationwide. As of today, 14 people have died. Deaths and transmission On November 23, Pennsylvania's health department announced its ninth confirmed death, an unvaccinated resident of Centre County. On November 24, Wisconsin reported its third measles death , an adult in Lafayette County. The report follows two other deaths in the state, an infant and a child . New York has also reported a death, which was of a 7-month-old baby . On November 20, Virginia reported the death of a child between the age of 0 and 4 . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024.jpg" medium="image"/>
-</item>
-<item>
-<title>The clock is running out for America’s most contentious spying law</title>
-<link>https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave</link>
-<guid isPermaLink="false">9e03187aa2d7946d57c8cd8a7d3c93018d03cc7054481ca2d25b29e3e9502979</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 20:00:00 +0000</pubDate>
-<description>Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligence Surveillance Act (FISA) could be attached to the National Defense Authorization Act. It's the latest in a grueling fight over a major spying rule that hasn't technically lapsed. "We don't have two weeks to work just on FISA," said Rounds, a member of the Senate Select Committee on Intelligence. "But if it's amended onto the NDAA then you can m … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Desperate gamers are trying bring GTA 6 to PCs and break free of its 30 fps cap</title>
@@ -532,17 +587,6 @@
 <media:content url="https://www.engadget.com/img/gallery/why-your-macbook-desktop-spaces-keep-rearranging-themselves-and-how-to-stop-it/l-intro-1795029377.jpg" medium="image"/>
 </item>
 <item>
-<title>Meta is bringing Muse to Instagram</title>
-<link>https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram</link>
-<guid isPermaLink="false">a91876aec5b12850db3cdb1b0afdac0bf7b336ee3100acbf69a2b969555ed837</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 17:00:00 +0000</pubDate>
-<description>Instagram will prompt people to use the agent to sort through their saved content.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-is-bringing-muse-to-instagram/l-intro-1795537071.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-is-bringing-muse-to-instagram/l-intro-1795537071.jpg" medium="image"/>
-</item>
-<item>
 <title>An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes</title>
 <link>https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922</link>
 <guid isPermaLink="false">c2606461d816651ddbc8c2f471b0d76b09df8c4aba05d03aee5b964fb0add95e</guid>
@@ -574,17 +618,6 @@
 <description>Porsche provided flights from Albany, New York, to Los Angeles and accommodation so Ars could drive the 718 EV prototype. Ars does not accept paid editorial content. It wasn't until I was stuck in traffic on the way back from a run up and down some canyon roads that I realized just how low Porsche's upcoming all-electric 718 Boxster truly is. I was idly looking around at the other cars, doing the math on the EV adoption rate in this small sample of Los Angeles gridlock (roughly 50 percent, impressively) when I noticed that I was eye-level with a Tesla Model Y door handle. That's not particularly low for a sports car, but it's practically unheard of for an EV. Nearly all modern electric cars are built atop a skateboard-style battery pack, a stack of cells that elevates the seating position by a good 3 inches. In these SUV-heady days, that's usually not a problem, possibly even an advantage. But, in a car like this, the closer you can get your keister to the road, the greater the sensation of speed. So, for the company's first all-electric sports car, the 718 Boxster that will be fully revealed next year, Porsche engineers put the battery pack behind the driver. That powers a single motor spinning the rear wheels and creates a driving experience that both honors the simple joy of motoring in a mid-engined Boxster while pushing the 718 to new heights of power and performance. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PORSCHE_983_PROTOTYPE_PECLA_006_DSC06879.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PORSCHE_983_PROTOTYPE_PECLA_006_DSC06879.jpg" medium="image"/>
-</item>
-<item>
-<title>Wireless Android Auto has a phone battery draining problem, but you can fix it</title>
-<link>https://www.engadget.com/2320821/wireless-android-auto-battery-drain-fix</link>
-<guid isPermaLink="false">7faba9b7283d59e71c71e4d5839daa48e6606e361af6447302dae32502ece558</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 16:45:00 +0000</pubDate>
-<description>Wireless Android Auto can drain your phone's battery, but a few easy adjustments can help reduce power use and keep your phone cooler while you're driving.</description>
-<enclosure url="https://www.engadget.com/img/gallery/wireless-android-auto-has-a-phone-battery-draining-problem-but-you-can-fix-it/l-intro-1795024197.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/wireless-android-auto-has-a-phone-battery-draining-problem-but-you-can-fix-it/l-intro-1795024197.jpg" medium="image"/>
 </item>
 <item>
 <title>No more heated seat subscriptions for cars in New York from 2027</title>
@@ -1113,39 +1146,6 @@
 <description>Researchers have found new ways to evade China’s Great Firewall after spending just $1 worth of tokens. That result appeared last week in a paper titled “CircumVolve: Automated Discovery of Censorship Evasion Strategies Using Large Language Models” presented at the Conference on Computer and Communications Security run by the Association for Computing Machinery’s Special Interest Group on Security, Audit and Control. Penned by six researchers from the University of Massachusetts Amherst, University of Colorado Boulder, and activist group the Great Firewall Report, the paper points out that finding holes in the Great Firewall is a laborious process – so just the kind of task worth handing to AI. The authors came up with a tool they call “CircumVolve” and describe as “a system for automated discovery of censorship circumvention strategies across the full network stack.” “CircumVolve combines LLM code generation with iterative feedback-driven evaluation to produce verifiable and deployable evasion techniques,” they wrote. “CircumVolve models different censorship techniques as discrete scenarios, each capturing the specific context, protocol constraints, and blocking mechanisms of real-world censors. Within each scenario, evasion strategies are represented as executable Python programs that implement packet and protocol manipulations — from rewriting TCP/IP header fields, to crafting DNS queries that exploit parser ambiguities, to modifying the internal structure of encrypted QUIC Initial packets — while maintaining protocol correctness within tolerable bounds or strategically violating it when beneficial.” The authors tested CircumVolve on simulated censorship tools used by China, Iran, Pakistan, and Kazakhstan, and on virtual private servers deployed on clouds in those countries. Those tests found the median API cost to the first successful evasion was less than $1 in token expenditure costs when using GPT-5.1. The authors acknowledge that operators of censorship infrastructure might be able to observe CircumVolve at work, but feel its relatively small payloads – 80 KB of outgoing and 150 KB of incoming traffic – and 25-45-second pauses between tests might see it fly under the radar. “CircumVolve represents a first step in leveraging LLMs to accelerate the censorship-circumvention lifecycle,” the authors wrote. “By automating the labor-intensive tasks of protocol analysis, implementation, and testing, AI-driven approaches make studying circumvention capabilities far more accessible to the comparatively under-resourced Internet freedom community [and] demonstrates how AI-assisted systems can narrow the resource gap between Internet freedom advocates and well-funded censoring states.” Lenovo finally cracks monster datacenter profits Ever since acquiring IBM’s x86 server business in 2014, Chinese hardware giant Lenovo has struggled to turn a profit from datacenter sales, even as it expanded its business into storage, networking, and selling to hypersc</description>
 <enclosure url="https://image.theregister.com/?imageId=246780&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=246780&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>As cars go digital, US consumers pay an extra $12 billion a year for repairs</title>
-<link>https://www.theregister.com/personal-tech/2026/11/22/as-cars-go-digital-us-consumers-pay-an-extra-12-billion-a-year-for-repairs/5311412</link>
-<guid isPermaLink="false">3b756778f4e94e61736c9165f6b5957d4363364907786edffd7dc00e5eae367b</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 16:08:00 +0000</pubDate>
-<description>The computerization of cars comes at a price to US consumers, according to the Public Interest Research Group (PIRG), which says that software fees and other charges faced by mechanics push up garage costs. An investigation by the non-profit consumer group estimates that car repair costs for Americans have been inflated by $12 billion each year, as vehicles integrate more computerized functions. Its report, Closing Shop , is available online. To find a failed sensor, release an electronic parking brake, or perform diagnostics, a technician has to first connect a laptop or tablet to the vehicle. To so this, the repair shop has to have the right software tools, and that means paying the vehicle manufacturer subscription charges and other fees, in order to get the information they need to complete the job. If smaller independent repair shops can’t afford all the necessary software or subscriptions, they may be forced to steer customers to authorized dealerships for some fixes – about one in five jobs – and this allows the latter to charge more. PIRG claims that drivers pay for this through their insurance premiums, even if they never need to get their car fixed, because higher repair costs mean higher insurance claims. It says the price of auto insurance has risen three times as fast as the rest of the US economy since 2012. Even if mechanics do choose to pay for the software, they spend an estimated collective 83 million hours a year buying, downloading, logging in, and waiting. At typical repair rates, that adds up to $12 billion. A separate report from the PIRG Education Fund claims that a two-tiered repair model now exists, where independent sites conduct repairs with less information, less powerful diagnostic tools, and higher associated costs than the authorized dealerships. The advocacy group wants to see legislators take this issue in hand, and has a number of recommendations for them. One is to stop manufacturers from locking out independent mechanics from simple repair jobs like changing brake pads, and require them to support a standard protocol for authenticating independent diagnostic tools. Another is to give owners control over their vehicle’s data via a standardized platform for accessing telematics repair information, so that the owner can give access to an independent repair shop. Car firms can use the vehicle data to tell owners that a repair is needed and to take it to an approved repair shop, without even disclosing what the issue is. DIY repairers should be able to get everything they need to fix their own cars. Service information and basic diagnostic software should be free, and PIRG also wants a cap on the license fees manufacturers charge for their official software tools. “We’ve allowed car manufacturers to build a toll road between the mechanic and the repair,” says Nathan Proctor, leader of PIRG’s Right to Repair campaign and co-author on the report. “We have a plethora of tolls on the road – subscriptions you need for m</description>
-<enclosure url="https://image.theregister.com/?imageId=5311508&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311508&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Come for the science, stay for the big iron: Supercomputer admin on why he loves the job</title>
-<link>https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247</link>
-<guid isPermaLink="false">862649af3eadb697e26f9b977a4b06f9a289485b03abc209d9f5c63b7160fd97</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 08:48:00 +0000</pubDate>
-<description>Web hosting might seem like an unlikely on-ramp to supercomputer administration, but it set Mark O'Shea on his way to running some of Australia's most powerful machines. O'Shea is team leader for supercomputing operations and senior supercomputing systems administrator at Australia's Pawsey Supercomputing Research Centre . Pawsey is home to Setonix, an HPE Cray EX supercomputer with more than 200,000 AMD EPYC CPU cores and hundreds of AMD Instinct MI250X accelerators. Its GPU partition ranks 87th in the November TOP500 and 37th in the Green500 , which measures computational performance per watt. "Working in web hosting wasn't much different to what I was doing a few years later with supercomputers," O'Shea tells The Register . "Datacenters are essentially several thousand computers, as are supercomputers. "So, we essentially had the same problems," he says, especially as regards cooling and power management. There's no single formal route into supercomputer administration in Australia, O'Shea says. He picked up the necessary skills over time. Andrew Underwood, Dell's chief technology officer for high-performance computing and artificial intelligence across the Asia-Pacific, Japan, and China, says that lack of formal training means some supercomputer admins start in academia. He's observed that many HPC admins emerge from the sciences, catching the computing bug during their studies. A biologist working with a massive genomics database, for example, might discover a taste for running the systems behind it. "The biologist might decide they want to be someone working in IT helping other biologists transform their industry," Underwood says . "One of the things I really admire about people who work in the supercomputing field is they take it so seriously," Underwood adds. "It's almost a passion, a hobby, more so than it is a job." "They want to play that real supporting and foundational role of assisting and engaging with scientists to help them use the technology to solve the problems the world faces." O'Shea agrees, noting that many people who get into supercomputer admin are PhD graduates who stick around their universities after they graduate. Some of them gravitate toward running the departmental computers and then wind up in supercomputing. "There are many roles around universities allowing people to be introduced to [supercomputer administration] while still doing enterprise-style or more departmental admin for researchers and system administration," O'Shea says. Regardless of how a supercomputer admin gets their gig, both O'Shea and Underwood say the supersysadmin community is tight knit – which may not always be a good thing. "As an industry in supercomputing, we need to be open to people from diverse backgrounds," Underwood says, "and we need to build these frameworks like the Student Cluster Competition, conferences like eResearch and the SC Conference, where students can get educated and systems admins get exposed to continual training." B</description>
-<enclosure url="https://image.theregister.com/?imageId=5311252&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311252&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>AWS got hit by an outage too. Here's why you didn't hear about it</title>
-<link>https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511</link>
-<guid isPermaLink="false">6c18d82363310c2360f3338e5255b97433224ad7fa73a785231ef1414f3fbc52</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 14:35:00 +0000</pubDate>
-<description>My editor asked me this week "why is everything except AWS breaking?" It's a great question! They haven't been in the headlines! In fact, as they are wont to do, AWS spokesperson Patrick Neighorn g ot salty to a reporter about how unreliable Downdetector is when it started showing them as impacted. If you'll permit me a small digression, this stems from a misunderstanding of what Downdetector is for. Historically the AWS status site was so hilariously slow to reflect the lived customer experience that some jackass (me) built a rewriter that sits at stop.lying.cloud to make it a smidgen more realistic. As a result, the question people are really trying to answer when they visit Downdetector is "my app just broke; is it my crappy code or is there a global event going on?" There are mitigations for both, but they look nothing alike. AWS view crowdsourced reports of the form "the internet is broken, must be AWS" as a stain upon their honor. In fact, it's a badge of their own success, as "the internet" and "AWS" have become inextricably linked in people's minds. But back to my editor's question, "why didn't AWS go down?" Easy: it did. Everything breaks, all the time, including the narrative AWS now has 34 generally available commercial regions, of which two are currently smoking craters due to the Iran conflict. Each of these has hundreds of services that AWS offers to customers, of which a dozen or so are high quality, if I'm being characteristically uncharitable. They experience degradation in various ways, and they go largely unnoticed. But on November 15, AWS confirmed an incident that disrupted 11 of those ~12 good services in their oldest and most important region, us-east-1. At 3:05 AM PST, they stated that they started seeing sign-up errors, authentication issues, and connectivity issues. Five minutes later engineers were engaged. Not to be outdone, their status page swung into action after a leisurely coffee, and posted its first indication of an incident 93 minutes later. (See previous comments on stop.lying.cloud ). The all-clear showed up at 6:53 AM. Every site has downtime. Sometimes it blows up publicly, other times nobody seems to notice. Heck, AWS said in September that it had experienced permanent data loss in its two smoking craters, but after that news cycle passed I haven't heard a thing about it. I do think it's patently unreasonable to blame them for this specific problem; "acts of war" are kinda hard to predict from the corporate planning meeting. A few things combined to help AWS out on November 15. First, it was pre-dawn Pacific time on Sunday. Most of us slept through it; my kids aren't even up that early. Further, the services that were most impacted (IAM Identity Center) were for engineers signing in to AWS accounts, not consumers staring at an app that stopped working. Plus, the competition sucked all the oxygen out of the room: a day-plus Microsoft 365 364 outage and a four-hour nationwide air traffic ground stop had done</description>
-<enclosure url="https://image.theregister.com/?imageId=5311515&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311515&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>Signal to restrict screenshots over AI agent concerns – again</title>

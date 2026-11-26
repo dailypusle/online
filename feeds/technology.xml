@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Amazon loses its latest attempt to get out of handling more recall notices</title>
+<link>https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc</link>
+<guid isPermaLink="false">4813dbe88c162a413c9c8aadcb0d9c4ad2e779d243cda8ae9b1e7d666a30a072</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 23:56:44 +0000</pubDate>
+<description>Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods , not a logistics provider, making it responsible for carrying out recalls of third-party products. Amazon sued the CPSC in March 2025 after the agency ordered Amazon to recall over 400,000 "Fulfilled by Amazon" products that pose a "substantial product hazard," including faulty carbon monoxide detectors, hair dryers without electrocution protection, and child … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>We reviewed these 10 gadgets, and they're now on sale for Black Friday</title>
+<link>https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets</link>
+<guid isPermaLink="false">1e708c886d7f5650e7731171012e80d68ab7d02c3745198853a48c6dbc9a927f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 23:36:46 +0000</pubDate>
+<description>Multiple gadgets from Engadget's Best of 2026 list are already on sale, including Samsung's flagship foldable and Apple's ultra-popular entry-level laptop.</description>
+<enclosure url="https://www.engadget.com/img/gallery/we-reviewed-these-10-gadgets-and-theyre-now-on-sale-for-black-friday/l-intro-1795649274.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/we-reviewed-these-10-gadgets-and-theyre-now-on-sale-for-black-friday/l-intro-1795649274.jpg" medium="image"/>
+</item>
+<item>
 <title>European spacecraft finds chaotic scene after asteroid deflection experiment</title>
 <link>https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup</link>
 <guid isPermaLink="false">610a8dba03b4f8601b78792627a6f68c71c6d9af5c1f141eacd22fd423ea6a73</guid>
@@ -187,8 +209,8 @@
 <category>technology</category>
 <pubDate>Wed, 25 Nov 2026 18:02:00 +0000</pubDate>
 <description>Chinese telecom and IT giant Huawei boasted about its advancements in domestic electronic design automation (EDA) software this week, which it needs to accelerate the adoption of homegrown chip manufacturing. EDA is an umbrella term for software, hardware, and services essential to the planning, design, and production of modern chips. Today, Cadence Design Systems, Synopsys, and Siemens dominate the industry, but US export controls have restricted Huawei and other blacklisted Chinese businesses' access to their tools. The US blacklisted Huawei back in 2019 over concerns the telecommunications equipment giant could be forced to inject backdoors into its gear. Unable to access top EDA tools, Huawei’s chip division, HiSilicon, was forced to develop its own with the help of Phlexing Technology. This week, Phlexing chairman Qing He detailed the company’s efforts to bring new EDA tools to support Huawei’s so-called Tau Scaling Law design philosophy. “Tau EDA is the domestic EDA tool chain for Tau chips. It comes from a long, close partnership with Huawei,” he said. We discussed the tech earlier this year, but in a nutshell, it involves using advanced packaging, specifically 3D hybrid bonding, to achieve higher transistor density for a given area. The TSMC of China, Semiconductor Manufacturing International Corporation (SMIC), is still years behind Taiwan, South Korea, and the US on process technology. It currently has the ability to mass-produce chips on the equivalent of a 7 nm process. For comparison, TSMC began producing 5 nm-class products in 2020 and commenced mass production of 2 nm-class chips in late 2025. So, Huawei aims to use 3D packaging to close the gap, but for this to happen, it first needs tools capable of designing such chips, and that’s just what Phlexing claims to have done with its GloryBolt and GloryEX platforms. “Traditional EDA has long handled only single processes. Tau EDA needs to integrate and decompose multiple processes,” He said. “Coupling multi-scale, multi-structure, and multi-physics issues called for new analysis tools.” This, He says, culminated in the co-development of a process design kit (PDK) with Huawei beginning in 2024. These technologies have now gone live. The development comes as Huawei looks to bring larger, more capable processors to market. We previously discussed the company’s latest developments around AI accelerators, near packaged optics, networking, and rack systems. Many of these advancements will depend on multi-die chip packages, enabled by EDA tools, like those built by Phlexing. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5312212&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5312212&amp;width=1280" medium="image"/>
+<enclosure url="https://image.theregister.com/?imageId=5312212&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312212&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>The Fairphone 6 Plus is modular, repairable, and $100 off right now</title>
@@ -275,8 +297,8 @@
 <category>technology</category>
 <pubDate>Wed, 25 Nov 2026 17:01:00 +0000</pubDate>
 <description>Microsoft's November security updates can break authentication in some third-party applications and devices following changes to NTLM message signing. Affected systems include authentication proxy servers, single sign-on (SSO) products, and application packaging tools, the company's support notice says. The failures stem from products that claim to supply required information during NTLM authentication but return incomplete or empty data, Microsoft said: "An affected device might set the NTLMSSP_NEGOTIATE_TARGET_INFO flag in its CHALLENGE_MESSAGE but provide an empty or incomplete TargetInfo field." Administrators can use the notice's network trace and event log examples to identify affected products. For confirmed cases, the temporary workaround is to set the ClientAllowUnsignedNtlm Registry value to 1 on affected clients. This stops the client offering signing, backing out the new default rather than fixing the incompatible product. The recommended long-term options are a vendor update or Kerberos authentication, where supported. The value sits under HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa\MSV1_0 and defaults to 0, enabling clients to offer signing on non-anonymous connections. The NTLM changes arrived in the November 10 update as phase 1 in a 2-phase process. In phase 1, "Windows client devices begin offering NTLM signing on all connections by default. Servers accept both signed and unsigned clients. Auditing events identify clients not using signing." Phase 2, scheduled for May 2027, will make Windows servers require NTLM signing by default. "Clients that do not offer signing will be rejected by secure servers," Microsoft stated. Ominously, Microsoft warned that it "might remove the registry keys at a future date," so the company is not kidding about the temporary workaround thing. The additional protections were added to address CVE-2026-118737 , a vulnerability in which "improper verification of cryptographic signature in Windows Remote Procedure Call Runtime allows an unauthorized attacker to execute code over a network." NTLM is on Microsoft's hit list, having joined the Deprecated Features list in 2024. It dates back to the era of Windows NT, and Microsoft has made clear that it wants customers to move to Kerberos, which became the default in 2000. Even so, NTLM lingers on. Deprecation doesn't remove Microsoft's obligation to secure NTLM while it remains in supported Windows releases. For administrators, though, the immediate task is identifying incompatible products before temporary exceptions give way to stricter enforcement. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5244798&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5244798&amp;width=1280" medium="image"/>
+<enclosure url="https://image.theregister.com/?imageId=5244798&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5244798&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>The Verge’s guide to the best gifts under $100</title>
@@ -319,8 +341,8 @@
 <category>technology</category>
 <pubDate>Wed, 25 Nov 2026 16:40:16 +0000</pubDate>
 <description>The US Treasury's Financial Crimes Enforcement Network (FinCEN) has taken some systems offline following unauthorized access, disrupting regulatory filings for financial institutions. An alert has gone up on FinCEN's Bank Secrecy Act E-Filing website, as shown in this archived copy , informing those who need to submit reports that they might not be able to while the agency deals with the situation. FinCEN not only enforces compliance with the Bank Secrecy Act and associated regulations but also collects and analyzes financial intelligence for sharing with other US agencies and foreign government partners. In other words, it has some juicy info in its databases. “FinCEN is investigating a cybersecurity incident that resulted in unauthorized access to a limited subset of its systems,” the alert states. “As a proactive measure, FinCEN has taken some systems offline.” FinCEN hasn't said which systems intruders accessed, but clues in the deadline extension notice the agency posted alongside the warning suggest the disruption affects its reporting services for banks and other financial institutions required to submit reports detailing certain financial transactions and suspicious activity that may indicate money laundering or other illicit activity. FinCEN's Secure Data Transfer Mode, one method of submitting those reports, appears to be affected, as do services companies use to submit beneficial ownership information reports and individuals use to update their FinCEN identifiers. Eligible organizations and individuals with filings or updates due from November 18 through December 29 now have until December 30 to submit them. The Register has learned that there’s no evidence of any unauthorized access to Bank Secrecy Act data or beneficial ownership databases. That said, the investigation is ongoing - so that could change. “Treasury is working with the Federal Bureau of Investigation, the Cybersecurity and Infrastructure Security Agency, and third-party forensic examiners to determine the scope and impact of the incident,” a FinCEN official told us in an email. Several US government agencies have experienced cybersecurity incidents in recent months, including the ATF and the FBI , and reports emerged this week that intruders had also compromised an unclassified CIA system . While US authorities have linked previous cyberespionage campaigns to Chinese or other government-backed groups , financially motivated criminal groups have also targeted federal agencies. As the FinCEN breach is still under investigation, the agency hasn’t stated who may be involved and for what purpose. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=232475&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=232475&amp;width=1280" medium="image"/>
+<enclosure url="https://image.theregister.com/?imageId=232475&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=232475&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets</title>
@@ -651,17 +673,6 @@
 <description>According to internal memos reviewed by Reuters , Microsoft has declared a "Code Red" overhaul of its engineering response practices after the November 12 outage that lost access to Exchange Online, Teams, and Outlook for users worldwide. Per the memos, Microsoft 365 Core President Jason Henderson described the outage as having the most customer impact in the history of Exchange Online. In a separate memo, Henderson wrote that an urgent production fix in a recent incident took five to six days to reach worldwide saturation. Microsoft's target for its most urgent security fixes is to move from detection to safe worldwide deployment in one hour. "Needless to say, we aren't here yet," Henderson wrote. The memos, which Reuters reviewed but Microsoft has not published, outline the response to the November 12 disruption. The company's post-incident report , dated November 20, attributed the downtime to an undetected Windows scalability defect introduced in July, which caused lock contention in the gateway processes. A Teams traffic failover then dumped additional load onto infrastructure already under stress, as maintenance had left nearly 14 percent of gateway server capacity offline at the time of the incident. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured.jpg" medium="image"/>
-</item>
-<item>
-<title>This underrated Pixel feature is more versatile than you realize</title>
-<link>https://www.engadget.com/2321246/underrated-pixel-feature-more-versatile-realize-quick-tap</link>
-<guid isPermaLink="false">8e6d819faf563da09a18161aed6a1bc329b14e14b15cf7b01b44b6806b0701a3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 21:00:00 +0000</pubDate>
-<description>Google's Pixel phones have a very cool feature that will make your phone easier to use one-handed. Here's what it does.</description>
-<enclosure url="https://www.engadget.com/img/gallery/this-underrated-pixel-feature-is-more-versatile-than-you-realize/l-intro-1795017284.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/this-underrated-pixel-feature-is-more-versatile-than-you-realize/l-intro-1795017284.jpg" medium="image"/>
 </item>
 <item>
 <title>AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping</title>

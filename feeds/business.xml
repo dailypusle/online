@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Poundland collapses putting 11,000 jobs at risk</title>
+<link>https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">fcba5c9d7e3f7593e60a3b818992ee1499e498eef5e805a9dfe2803dfef820c5</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Thu, 26 Nov 2026 08:24:29 +0000</pubDate>
+<description>The discount chain has fallen into administration after its owners failed to find a buyer.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
+</item>
+<item>
+<title>New UK-EU treaty has 10-year termination clause, BBC understands</title>
+<link>https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">ab16224e8d1cd5dd506ef208f520deb37f85ba6080002bf54c34bbd4249229e0</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Thu, 26 Nov 2026 07:40:04 +0000</pubDate>
+<description>Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
+</item>
+<item>
 <title>Parents cutting basics at Christmas, charity warns</title>
 <link>https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">c18152116c0d2d3d45f166ceff1e4ad50c1d0470ad0b822f05019c57e642914d</guid>
@@ -79,17 +101,6 @@
 <description>The new levies would hit many of America's biggest trading partners, including China and the EU.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg" medium="image"/>
-</item>
-<item>
-<title>New UK-EU treaties have 10-year termination clause, BBC understands</title>
-<link>https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">ab16224e8d1cd5dd506ef208f520deb37f85ba6080002bf54c34bbd4249229e0</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 02:13:00 +0000</pubDate>
-<description>Text of treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dbe3/live/d6fe8520-e961-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dbe3/live/d6fe8520-e961-11f1-a094-5fdc692f3e33.jpg" medium="image"/>
 </item>
 <item>
 <title>AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says</title>
@@ -200,17 +211,6 @@
 <description>All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
-</item>
-<item>
-<title>Poundland collapses putting 11,000 jobs at risk</title>
-<link>https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">fcba5c9d7e3f7593e60a3b818992ee1499e498eef5e805a9dfe2803dfef820c5</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 21:31:10 +0000</pubDate>
-<description>The discount chain has fallen into administration after its owners failed to find a buyer.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
 </item>
 <item>
 <title>Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”</title>
@@ -423,8 +423,8 @@
 </item>
 <item>
 <title>US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook</title>
-<link>https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook</link>
-<guid isPermaLink="false">8c4e1529c115bcb466df0dafc74976f2c06367ea2a8fb4abc7085b7e2bb6fed4</guid>
+<link>https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook</link>
+<guid isPermaLink="false">5a85d040dc98513c947acce097784e588962bc703f5110ccf64266f06f59ab4c</guid>
 <source>Cointelegraph</source>
 <category>business</category>
 <pubDate>Wed, 25 Nov 2026 17:53:10 +0000</pubDate>
@@ -640,6 +640,17 @@
 <description>The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>California fines Afterpay $2.7M</title>
+<link>https://www.bankingdive.com/news/california-fines-afterpay-27m/875794</link>
+<guid isPermaLink="false">d8110cd9fd20d30a4c4252c46ffcb1348240200f95f0fc75f32dcbacb9a9b0eb</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 25 Nov 2026 16:05:00 +0000</pubDate>
+<description>The state imposed the penalty on Block’s buy now, pay later business after finding the company failed to assess customers’ ability to repay loans.</description>
+<enclosure url="https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp" medium="image"/>
 </item>
 <item>
 <title>Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push</title>
@@ -1322,17 +1333,6 @@
 <description>The cross-border payments company, which applied for a trust charter in February, is one of several payments firms seeking such a charter from the OCC this year.</description>
 <enclosure url="https://imgproxy.divecdn.com/cIKktZ5OM6rvrJmHRQXHu7dGhG4sFanRh4IpgzBPWYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MTQ3ODY2LmpwZ19yZXNpemUuanBn.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/cIKktZ5OM6rvrJmHRQXHu7dGhG4sFanRh4IpgzBPWYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MTQ3ODY2LmpwZ19yZXNpemUuanBn.webp" medium="image"/>
-</item>
-<item>
-<title>AI-forward insurance startup Corgi applies for bank charter</title>
-<link>https://www.bankingdive.com/news/corgi-applies-occ-fdic-national-bank-charter-ai-insurance-fintech/875453</link>
-<guid isPermaLink="false">47f082d981a75029c1940ab657addf522a8657b3e8e054ac7f0da3a23bd9d63f</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 14:41:23 +0000</pubDate>
-<description>Corgi wants a national bank charter, which would put its holding company under the Federal Reserve’s purview – a rarity among insurance firms.</description>
-<enclosure url="https://imgproxy.divecdn.com/Ynio67rfYurR3M67S-xE1Tz5L6iqiEEwnnzmJ0vwdmA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/Ynio67rfYurR3M67S-xE1Tz5L6iqiEEwnnzmJ0vwdmA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp" medium="image"/>
 </item>
 <item>
 <title>San Francisco is enjoying an AI boom, but worries about a crash are growing</title>

@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>New York state bans AI chatbot toys for kids</title>
+<link>https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids</link>
+<guid isPermaLink="false">9c2b9c81d13bfdfd5920e3ac8a73f3a31dc9689c5857eb285fc307bcb61fbe1e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:02:48 +0000</pubDate>
+<description>New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys.</description>
+<enclosure url="https://www.engadget.com/img/gallery/new-york-state-bans-ai-chatbot-toys-for-kids/l-intro-1795672791.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/new-york-state-bans-ai-chatbot-toys-for-kids/l-intro-1795672791.jpg" medium="image"/>
+</item>
+<item>
+<title>India’s government ponders cradle to grave AI oversight</title>
+<link>https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275</link>
+<guid isPermaLink="false">6b2f64a6617d03b681cd0e533f624388d122a005db9e4479091c089014f1d144</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 03:42:56 +0000</pubDate>
+<description>Indian politicians have proposed that AI could take a major role in citizens’ lives, partly through pervasive surveillance. Prime Minister Narendra Modi last week spelled out his vision for an AI-based app that would collect data about children as they grow and analyze it to determine their aptitude for different types of study or careers. Modi suggested that parents of three-year-old children should enter data about their offspring’s activities and accomplishments into a government-run system that is also accessible to teachers and even a child’s friends. Those records, the PM suggested, will “help identify children's interests and aptitude from an early age and redirect them in the study of their choice in future.” That’s not an entirely creepy idea, because gaining access to India’s top tertiary institutions requires students to pay a hefty fee to sit for entrance exams. Modi pitched recommendations from the AI-powered app as something parents will appreciate as they contemplate whether to fund their offspring’s studies. India’s most populous state, Uttar Pradesh (UP), has proposed to build an “AI Stack” to serve its 240 million-plus residents. A 178-page tender seeks bidders to build a system that uses the state’s Family ID – a unique identifier for each household – to link data held by multiple agencies so it can be put to work in a dozen AI use cases. One of those use cases is a tool for “AI-Enabled Social Media Monitoring and Urban Grievance Detection” that “analyses publicly available social media content including online news channels and connected grievance channels to detect emerging urban issues, citizen complaints, service interruptions, and recurring service gaps.” The government wants that system to autonomously route complaints to relevant agencies, to automate actions like sending crews to patch up damaged roads. Critics have pointed to vague wording in the tender as potentially allowing the UP government to link this system to other agencies – a matter of concern given Indian state and national governments have implemented internet shutdowns to stop protestors from communicating on social media services and messaging apps. Another use case is a knowledge assistant for state police that looks up case histories and other data but can’t use it to assess evidence or provide investigative conclusions. An app for teachers will advise them on how to create custom content to meet students’ needs. Healthcare workers would also get an app to help them make recommendations during patient visits. Citizens get natural language interfaces to a system that offers advice on how to identify and access government services and schemes. UP wants to drive these apps with self-hosted open-weight models, and to use only anonymized datasets. India’s Internet Freedom Foundation worries that the systems described in the tender aren’t explicitly authorized by any legislation, and that the document doesn’t mention important oversight measures for the AI St</description>
+<enclosure url="https://image.theregister.com/?imageId=5312280&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312280&amp;width=1280" medium="image"/>
+</item>
+<item>
 <title>Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too</title>
 <link>https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras</link>
 <guid isPermaLink="false">54e67f56863fdec143e46c47a22b7ae1a2312423ce2adddea65b0c0312d129f1</guid>
@@ -664,17 +686,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg" medium="image"/>
 </item>
 <item>
-<title>Huawei is guilty of conspiracy to steal trade secrets, US jury rules</title>
-<link>https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules</link>
-<guid isPermaLink="false">0ab86c7870fee031f20ca608b43482e33d05a283ce42af4d544f6648c17490fe</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 22:40:07 +0000</pubDate>
-<description>The charges against the Chinese tech company date back to 2019.</description>
-<enclosure url="https://www.engadget.com/img/gallery/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/l-intro-1795559783.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/l-intro-1795559783.jpg" medium="image"/>
-</item>
-<item>
 <title>Microsoft's historic cloud outage exposed an engineering “fog of war”</title>
 <link>https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war</link>
 <guid isPermaLink="false">76aca383ca5b948c9a10a07b0b11133c1de43d692c139df7c442677a5eb2e38c</guid>
@@ -1146,17 +1157,6 @@
 <description>Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2263696087.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2263696087.jpg" medium="image"/>
-</item>
-<item>
-<title>New Outlook's attachment issues sent users into the arms of its predecessor</title>
-<link>https://www.theregister.com/saas/2026/11/23/new-outlooks-attachment-issues-sent-users-into-the-arms-of-its-predecessor/5311576</link>
-<guid isPermaLink="false">b768a8447aa2776ac62226b34d5b9ae10eb87344a98a04dde4ca75979a80d023</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 12:30:00 +0000</pubDate>
-<description>A recent update broke attachment handling for some New Outlook users, prompting Microsoft to recommend switching to the web or Classic version of its email client. Things are going swimmingly for New Outlook, the email client that Microsoft would very much like users to migrate to. A code change meant that for some users, opening or uploading email attachments failed. It took the company two attempts to fix the problem. Microsoft confirmed there were issues on November 20, as reports that customers were having problems with attachments began rolling in. By the end of the day, the company had added inline images in email to the litany of woe and "paused the rollout of a recent client update that may be contributing to attachment failures." The advice for affected users was to switch to the web version, or use Outlook Classic to open or upload attachments and view inline images. The good news was that Microsoft produced a fix. The bad news was that this fix only resolved problems with Office attachments and inline images, leaving other attachment types affected, according to incident notice EX1561765. The Windows behemoth tried again with a "supplemental fix" and reported the remaining problems resolved on November 21. Users needed to close and reopen New Outlook for the fix to take effect. Microsoft said it had tested the fixes before deployment. Administrators might reasonably wish the original update had received the same attention. The preliminary root cause was a "recent update to the code which supports embedded web content unexpectedly caused impact." The clock is ticking for Outlook Classic. Microsoft is clear that New Outlook is the future, though Classic Outlook will remain available until at least 2029. The fact that the company had to suggest that affected users fall back on the old warhorse to perform that rarely used email activity – attachment handling – is less than confidence-inspiring. Still, by the time Outlook Classic is finally put out to pasture, we're sure Microsoft's habit of sending out broken updates will also be a thing of the past. Right? ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5237731&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5237731&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>Signal to restrict screenshots over AI agent concerns – again</title>

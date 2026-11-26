@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>What Is Self-Custody? How to Hold Your Own Crypto Keys</title>
+<link>https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys</link>
+<guid isPermaLink="false">d9726acd7e98a1600d54a3dde1bb391368f75696aeabae05f50650c9fbc036c4</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 26 Nov 2026 21:01:03 +0000</pubDate>
+<description>Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2022/11/custodial-vs-non-custodial-2-gID_5-pID_5.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2022/11/custodial-vs-non-custodial-2-gID_5-pID_5.png" medium="image"/>
+</item>
+<item>
 <title>Japan weighs tighter oversight of DeFi, self-custodial wallets</title>
 <link>https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets</link>
 <guid isPermaLink="false">ec2d07f24a9c6ffa5bbdbf89708b80e581ac6b1375f9053b559342fbc1cb7660</guid>
@@ -1278,17 +1289,6 @@
 <description>Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained</title>
-<link>https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained</link>
-<guid isPermaLink="false">02d44940bb91ad9832dfb7f2700d1bb2e8032c1c736698b4bfe3563691537276</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 24 Nov 2026 17:45:22 +0000</pubDate>
-<description>Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/pons-meme-coin-gID_4-pID_1.png" type="image/png"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/pons-meme-coin-gID_4-pID_1.png" medium="image"/>
 </item>
 <item>
 <title>PNC gives No. 2 exec a $20M award, board seat</title>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Mexican president blasts DEA over tip lines</title>
+<link>https://abcnews.com/International/wireStory/mexican-president-blasts-dea-tip-lines-accusing-fighting-138471560</link>
+<guid isPermaLink="false">3dc41786e0b682a15895743897e82bdb07929f4608e9df553b39ec68d5a06b24</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 26 Nov 2026 20:02:26 +0000</pubDate>
+<description>Mexico's president has criticized the U.S. Drug Enforcement Administration for setting up anonymous tip lines in the country</description>
+<enclosure url="https://s.abcnews.com/images/International/wirestory_d4f6be431610f3d0c678b434accbd486_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/wirestory_d4f6be431610f3d0c678b434accbd486_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>New York declares emergency as Thanksgiving storm threatens East Coast</title>
 <link>https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273</link>
 <guid isPermaLink="false">e724ce66c0851a2088601e7b5adf33fc2b837ec3d7440ad07e72b2d4ac1417a2</guid>
@@ -189,17 +200,6 @@
 <description>The trial of Émilie König, one of France's most high-profile Islamic State (IS) group recruits, opened in a Paris court on Thursday with the 41-year-old mother of five apologising to her children, mother and the "French nation" for her actions. König travelled in 2012 to Syria, where she appeared in the jihadist group's propaganda videos. She was repatriated to France in 2022.</description>
 <enclosure url="https://s.france24.com/media/display/3e724ed0-9238-11f0-8810-005056bf30b7/w:1024/p:16x9/8cea49dc093980a21ecf3652f1db07400c032cf1.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/3e724ed0-9238-11f0-8810-005056bf30b7/w:1024/p:16x9/8cea49dc093980a21ecf3652f1db07400c032cf1.jpg" medium="image"/>
-</item>
-<item>
-<title>FIFA says it suffers cyberattack accessing 'personal and business information'</title>
-<link>https://abcnews.com/Sports/wireStory/fifa-victim-cyberattack-accessing-personal-business-information-138465369</link>
-<guid isPermaLink="false">040cc1132259375f569c4423358e2087466b661e614d7cd4af80bd43679740e5</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 26 Nov 2026 14:48:05 +0000</pubDate>
-<description>FIFA says it was the victim of a cyberattack that saw hackers gain access to what soccer’s world governing body describes as a “limited set of personal and business information."</description>
-<enclosure url="https://s.abcnews.com/images/Sports/wirestory_6de93d5f8bcc655c774e2e41e2dfea1f_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Sports/wirestory_6de93d5f8bcc655c774e2e41e2dfea1f_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Season's eatings! Celebrating Thanksgiving in France</title>
@@ -532,6 +532,17 @@
 <media:content url="https://s.abcnews.com/images/Lifestyle/261125_abcnl_searched_spiral_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
+<title>Trump admin proposes new tariffs on China, EU and 12 other trading partners</title>
+<link>https://abcnews.com/Politics/trump-admin-proposes-new-tariffs-china-eu-12/story?id=138442698</link>
+<guid isPermaLink="false">8b2a1afc48b5844b9da09a37b1ffe14b4f79f8a828fa5b696c28c0695db34d38</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 25 Nov 2026 20:23:09 +0000</pubDate>
+<description>A senior admin official said the countries were informed of proposed tariffs.</description>
+<enclosure url="https://s.abcnews.com/images/US/donald-trump-13-gty-gmh-261124_1795551430660_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/donald-trump-13-gty-gmh-261124_1795551430660_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>US authorises SpaceX to deploy one million satellites to space</title>
 <link>https://news.sky.com/story/us-authorises-elon-musks-spacex-to-deploy-one-million-satellites-to-space-13616493</link>
 <guid isPermaLink="false">b394be56452deedd9160870e9d3c5ab3a9f8cee30c6778a03013589c8858939a</guid>
@@ -717,17 +728,6 @@
 <description>ABC News' Will Reeve shares how the Detroit Lions are carrying on a Thanksgiving tradition of giving back to those in need.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261124_gma_reeve2_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261124_gma_reeve2_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump granted new chance to potentially erase his hush money case</title>
-<link>https://abcnews.com/US/trump-granted-new-chance-potentially-erase-hush-money/story?id=138391922</link>
-<guid isPermaLink="false">9e6453caeb67b8504583770ccbbe2cdfa956a6bd255ca196a12240bd076bae84</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 24 Nov 2026 14:11:52 +0000</pubDate>
-<description>An appeals court is giving President Trump a new chance to move his criminal hush money case into federal court, where he could then attempt to overturn his conviction.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/trump-7-ap-er-261123_1795472436653_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/trump-7-ap-er-261123_1795472436653_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump owned at least $12 million in Nvidia stock at the end of last year</title>

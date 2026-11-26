@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Hackers help themselves to 1Password's source code and customer data</title>
+<link>https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317</link>
+<guid isPermaLink="false">c31fa23b20745bdc7b8c0bbec4baa798b2d3c1868af73b69c5c78b5400c077e7</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 11:02:00 +0000</pubDate>
+<description>1Password is reassuring customers that their vaults remain secure after an attacker breached its systems and stole account information and private source code. The Canadian security biz disclosed this week that an attacker had compromised an employee's corporate GitHub account, made off with private source code, and deployed malicious code to its backend services to siphon off customer information. 1Password, which began investigating the intrusion on November 19, hasn't said how many customers were affected, but confirmed that the stolen data includes names and email addresses used to sign in to the service, account identifiers, timestamps showing when users created and last accessed their accounts, and various pieces of non-secret account metadata. The company insists the information that customers actually pay it to protect was beyond the intruder's reach. "At no time were customer vault contents accessed by, or available to, the attacker," 1Password said. Arguably more troubling is the revelation that the intruder gained access to 1Password's continuous integration and continuous delivery (CI/CD) infrastructure, which houses credentials used to keep its products running. The company says it has rotated or revoked potentially exposed credentials and that neither its apps nor its browser extensions were affected. 1Password hasn't explained how access to an employee's GitHub account enabled the attacker to deploy malicious code to its backend services, nor has it detailed the extent of the attacker's access to its software build and distribution infrastructure. The company did not respond to The Register's questions. The miscreant also got their hands on tokens embedded in emails sent to some customers as part of account invitations, provisioning, and recovery processes. These tokens aren't enough to access an account on their own, according to 1Password, as users must also authenticate via single sign-on or enter a verification code sent to their registered email address. The company says it specifically notified the small number of users with affected provisioning or recovery processes underway. It found no internal evidence of account takeovers using the exposed provisioning tokens. Still, the breach has prompted the password management biz to beef up those verification codes, replacing the six-digit numeric variety with ten-character alphanumeric codes to make brute-forcing them considerably more difficult. 1Password has booted the intruder out of its GitHub environment, revoked the stolen token, and rolled back the affected backend services to clean versions of the code. It's since shored up security around its development infrastructure and employees' devices, and brought in outside security specialists to review its handiwork. The incident recalls the first stage of LastPass's 2022 breach, when an attacker compromised its development environment and stole source code. Information obtained in that intrusion helped enable a second attack th</description>
+<enclosure url="https://image.theregister.com/?imageId=5306978&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5306978&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center</title>
+<link>https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center</link>
+<guid isPermaLink="false">871b41fc597d29150213b281d85309b99c5db2d9de59fd54379b21bb7b347b7a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 11:01:32 +0000</pubDate>
+<description>The FCC has granted SpaceX's request to deploy 1 million satellites to build an AI data center in orbit.</description>
+<enclosure url="https://www.engadget.com/img/gallery/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/l-intro-1795690830.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/l-intro-1795690830.jpg" medium="image"/>
+</item>
+<item>
+<title>X is finally getting its first parental controls</title>
+<link>https://www.theverge.com/news/1043078/x-parental-controls-features</link>
+<guid isPermaLink="false">dd248cfa5dd6f290e48b96af0a3ac8bf987bd48816e1328215571e24000879d2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 10:45:50 +0000</pubDate>
+<description>X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spent on X, set daily limits, require approval for new followers, and limit For You recommendations to accounts a teen already follows. "Parents and guardians cannot read private messages, see searches or viewing history, post as their teen, or access the account," explains the X safety team. "Every change is recorded and visible to the teen." The controls will also allow parents and guardians to f … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>45°C inlets just killed the chiller. Most people haven't noticed yet</title>
+<link>https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</link>
+<guid isPermaLink="false">90e2cd8ad7c7ff9dcf601c8c6b8b93e0f8fd521ebc7ffc0279ad9516df32f151</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 10:15:00 +0000</pubDate>
+<description>SC25 in St. Louis looked like a plumbing convention cross booked the supercomputing hall. Pipes, pumps, manifolds, quick-disconnects, and a lot of people who clearly spend more time thinking about pressure drop than floating-point. I kept expecting to see a booth selling industrial fire hoses. Chicago is a much bigger building – McCormick has roughly four times the exhibit space St. Louis had – so the pre-show question was whether SC26 will still look like that or whether the hall is large enough to dilute the effect. If anything, cooling was even more dominant in Chicago. The heat problem didn't get smaller just because the building got bigger. We also saw a lot of new companies displaying their cooling wares at SC26. I follow this stuff closely and see two broad trends. First: consolidation with big industrial suppliers buying up the liquid cooling pioneers. Second: anyone with an angle is heading into the market. Both trends were visible on the floor in Chicago, and everyone had something to say about higher inlet temperatures, whether they have a real story or not. Game changing news The real news, though, is a number Nvidia dropped earlier this year: 45°C (113°F) liquid inlet temperature for their parts. That's not a small tweak. Most liquid-cooled systems have been living in the 30-35°C (86-95°F) world because that's what the chips would tolerate. Jump to 45°C (113°F) and a whole bunch of datacenters that currently need chillers suddenly don't. If AMD, Intel, and the Arm folks can match it – and we’d be shocked if they aren't already working on exactly that – then free cooling stops being a cool climate thing and becomes the default for a lot of places. Rooftop dry coolers can reject nearly any incoming fluid temperature and bring it below 45°C (113°F). There are few places in the world where ambient temperatures approach 113°F, and for the hours when outside temps spike, adiabatic assist is available. This is where water is trickled through a mesh surrounding the dry coolers, which drops the effective temperature another 10–20 percent. So, in our new cooling world, there are two closed loops: one taking heat from the server gear and then passing it to a second, different loop that takes the hot water to the roof, cools it, then brings it back again. What's missing here? It's the chillers. You won't need them anymore. These are essentially huge rooftop refrigerators that cool water even more after the dry cooling. They're expensive, need a lot of maintenance, gulp electricity and are thankfully unnecessary now for new datacenter builds. The power and water savings are not trivial. Legacy designs that rely on chillers and open evaporative towers commonly put 20 percent to 40 percent of total facility energy into cooling. A large share of that is the chiller plant itself – compressors, pumps, and cooling-tower fans. Move to dry coolers running at 45°C (113°F) inlet and that slice collapses. Published estimates and vendor modeling for high-tem</description>
+<enclosure url="https://image.theregister.com/?imageId=5311848&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5311848&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>42 state AGs are trying to stop Character.AI from selling users’ chats</title>
+<link>https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</link>
+<guid isPermaLink="false">e51b021662e92d608165a6d2d57d1cd080cd26951a9a7efd89d9e95bd43d4d6c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 09:54:40 +0000</pubDate>
+<description>A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off "the private chat histories of more than 21 million U.S. accounts - more than 2.1 million of them registered to minors - with no safeguards for the people whose conversations are being sold." In October, Character.AI filed for bankruptcy following years of scandals and legal challenges , including from Disney . Disney ended up buying some of the company's assets and hiring its CEO , K … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>UK Home Office waved through border system without a working fix for bad data</title>
+<link>https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162</link>
+<guid isPermaLink="false">030db2775425c3b61359eedf9de93cc85efd4dafb273cde6947b38219aab4b2e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 09:30:00 +0000</pubDate>
+<description>The Information Commission's Office (ICO) has reprimanded the UK Home Office over a border watchlist system launched without an effective way to correct inaccurate personal information. The regulator said the failings risked people being wrongly detained for additional checks at the UK border, potentially causing distress and other harm. The platform in question, Helios, was slated to replace its predecessor, Warnings Index, in September 2024 and despite an initial delay due to concerns over data quality, went live the following month. Both Helios and Warnings Index are watch-listing systems, designed to allow law enforcement officials – mainly but not exclusively Border Force – to check people's data against official records at the UK border. Helios's federated operating model, whereby the data sources are not centrally managed, yielded quicker results than Warnings Index, but contained a critical flaw in that operational staff could not alter incorrect records. Platform operators, such as Border Force officers, could not amend the data that feeds into it, neither after the fact nor in real time. This was not the case with Warnings Index, which had a dedicated team responsible for correcting data entries in real time. Under Helios, staff were supposed to report inaccuracies to the organization responsible for the relevant source data, which would make the correction. One slight problem: there was no established reporting system at the time Helios was launched on October 2. The platform went live anyway, as officials deemed the data integrity and security risks presented by Warnings Index to be greater than those of Helios. Just nine days passed before the Home Office's data protection officer had to submit a breach report after Helios operational staff said they didn't know how to request data corrections. During the time, Helios operators sent 87 data rectification requests to the Warnings Index correction team, despite it having no capability to make the required changes to the data. The Home Office later said that many other requests likely weren't logged as the proper processes were not in place, and that staff should have logged the issue through a ServiceNow IT ticket, as any other departmental civil servant with any kind of IT issue would have. But the Home Office also said that including personal data in those helpdesk tickets would itself constitute a data breach. The ICO said in its reprimand document [PDF] that it is "unclear" how such a reporting arrangement could realistically work in practice, given that a report would require details from a subject's record that required rectification as well as the new, accurate information that should be used to replace it. The Home Office's proposed workaround was to get operational staff to verbally read out said personal data over a phone call with the IT helpdesk – a procedure it described as possible "but cumbersome." It took the Home Office more than a year to implement a temporary data-re</description>
+<enclosure url="https://image.theregister.com/?imageId=252762&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=252762&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>X is adding its first-ever parental controls</title>
+<link>https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls</link>
+<guid isPermaLink="false">ff8c7cca6da928a86ae273c3a1a3f1b9926feb70eb727d69893f6aa35fddae22</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 09:26:24 +0000</pubDate>
+<description>X (and Twitter before it) have never really had real parental controls. Until now.</description>
+<enclosure url="https://www.engadget.com/img/gallery/x-is-adding-its-first-ever-parental-controls/l-intro-1795684809.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/x-is-adding-its-first-ever-parental-controls/l-intro-1795684809.jpg" medium="image"/>
+</item>
+<item>
 <title>Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients</title>
 <link>https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients</link>
 <guid isPermaLink="false">f167ae115a18432d0b90808989022a90ab64e0157319a570d4d1cf3cbe5bd69c</guid>
@@ -279,17 +356,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/fairphone-6-plus-4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>The loneliest peptide party in New York</title>
-<link>https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow</link>
-<guid isPermaLink="false">3c4e73d43c4012fdc394e0dd5671c48a5adacdf2427f302178b17eb80c5f5e2d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
-<description>This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here . On a rainy fall evening, an experimental art venue in Chelsea Market had a small line out the door. There are always lines in New York City. Viral food trends, gallery exhibitions, pop-ups, and parties. The folks in line looked like your average joe, ready for a Friday night on the town. You wouldn't look twice - except, perhaps, for a man with a wizard beard and a laser sword strapped to his back. Inside, the man with a laser … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268815_Peptide_Party_JCalifano_0019.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268815_Peptide_Party_JCalifano_0019.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>This $1,900 Alienware Aurora is one of the best early Black Friday PC deals</title>
 <link>https://www.engadget.com/2328361/this-dollar1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals</link>
 <guid isPermaLink="false">433f9b9565058303f40f6f8a5c39554709995d4537c4f2f8a95040010c221b9e</guid>
@@ -299,17 +365,6 @@
 <description>If you purchased them separately, just the price of its CPU, GPU and RAM goes for around $1,750.</description>
 <enclosure url="https://www.engadget.com/img/gallery/this-1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/l-intro-1795629186.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/this-1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/l-intro-1795629186.jpg" medium="image"/>
-</item>
-<item>
-<title>FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space</title>
-<link>https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers</link>
-<guid isPermaLink="false">17929128d139e3d01b22009c328b779c737ec4fa82e0f43a237bb3fbc53c40b5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 17:44:51 +0000</pubDate>
-<description>In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative . With several others also pursuing the idea of putting AI data centers in space , including Google and Blue Origin, this is the first approval the agency has granted for a full "constellation" of AI satellites. The FCC's approval requires SpaceX to deploy at least one satellite by 2033, and meet the 1 million satellite milestone by 2040. The FCC also deferred SpaceX's request to dispose of satellites located above 600km in space "graveyard" orbits , rather than … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Ladybird browser's first downloadable alpha is surprisingly capable</title>
@@ -651,28 +706,6 @@
 <description>Your Apple Watch has a way to share the time that even supports Morse Code. See which of its three modes makes sense for your daily routine.</description>
 <enclosure url="https://www.engadget.com/img/gallery/you-dont-have-to-look-at-your-apple-watch-to-get-the-time/l-intro-1794922556.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/you-dont-have-to-look-at-your-apple-watch-to-get-the-time/l-intro-1794922556.jpg" medium="image"/>
-</item>
-<item>
-<title>The battery in your Fitbit Edge is replaceable, but it's not as easy as you'd think</title>
-<link>https://www.engadget.com/2321249/fitbit-edge-replaceable-battery-not-easy</link>
-<guid isPermaLink="false">55603410a13f82d379f0647ef669c7cc9437d481cd05edb1a0b5334d3c6b5942</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 23:30:00 +0000</pubDate>
-<description>Google partnered with iFixit for a step-by-step guide to replacing the Fitbit Edge's battery.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-battery-in-your-fitbit-edge-is-replaceable-but-its-not-as-easy-as-youd-think/l-intro-1795018884.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-battery-in-your-fitbit-edge-is-replaceable-but-its-not-as-easy-as-youd-think/l-intro-1795018884.jpg" medium="image"/>
-</item>
-<item>
-<title>Australia to pass safety bill that could result in massive fines for tech platforms</title>
-<link>https://www.engadget.com/2327499/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms</link>
-<guid isPermaLink="false">c959c21fe63c1b1e4cd6ca725a41b386cc71479083a3d79a5f6aac19575d7834</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 23:21:40 +0000</pubDate>
-<description>Australian lawmakers are close to passing the Digital Duty of Care Bill, an amendment to the country's Online Safety Act of 2021.</description>
-<enclosure url="https://www.engadget.com/img/gallery/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/l-intro-1795562364.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/l-intro-1795562364.jpg" medium="image"/>
 </item>
 <item>
 <title>Half of NASA's aging Mars fleet knocked offline by technical issues</title>
@@ -1113,39 +1146,6 @@
 <description>Nvidia’s board unanimously reinstated Huang 11 days after his removal, but his troubles may not be over.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2301328017.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2301328017.jpg" medium="image"/>
-</item>
-<item>
-<title>Nvidia board puts Jensen Huang back as boss</title>
-<link>https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674</link>
-<guid isPermaLink="false">c627598ce7fe78afc5d38d4ee86173c71b74b3e84f985614da283d575026f405</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 14:35:50 +0000</pubDate>
-<description>There's no telling what caused the Nvidia board to vote unanimously to reinstate Jensen Huang as CEO less than a week after saying his return wasn’t under consideration – except reportedly the threat of having one's head ripped off and brain peed on – but that really doesn't matter, at least as far as shareholders need to be concerned: Jensen's back in charge and all’s right in the world of chip stocks. "I take this responsibility with the greatest humility and renewed commitment," Huang said of the decision to reinstate him, calling it an honor. Nvidia kicked its former-cum-current CEO and president to the curb on November 12, but not over allegations that he may have been sleeping with a suspected Chinese spy – it was affairs at Nvidia with his subordinates that appears to have been the last straw with Nvidia directors. Nvidia stock has tumbled since Huang’s ouster, and much of the rest of the tech stock world followed suit . Nvidia insiders and tech heavyweights have been pushing for Huang’s return for about as long as he was unemployed, but calls for his return from the US federal government may have been the catalyst for a change of heart among Nvidia leadership who didn’t want Huang back. "In the process of reaching its decision, the Board received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang’s reinstatement poses no national security risk," Nvidia said in its statement announcing Huang’s return. "The Board believes Jensen is the right person to lead Nvidia, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers," board chair Harvey Jones added. Jones was made Nvidia's first board chair upon Huang’s resignation, and will remain in that role. The White House has since confirmed that the senior-level official involved in Huang’s reinstatement was President Trump. According to a White House statement to Semafor, Trump personally dialed in to an Nvidia board meeting hours before Huang was reinstated to argue for his return. “President Trump was totally involved and this is a great decision by the NVIDIA board,” White House comms director Steven Cheung told Semafor. “We have to protect our geniuses.” "The United States Government has no reason to believe that Jensen’s return to Nvidia poses any risk to National Security," Trump said in a post on Truth Social. "The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct." The surprise return echoes Sam Altman's return as CEO of OpenAI after the board fired him for a brief five days in 2023 over allegations of dishonesty. Both reinstatements happened around the US Thanksgiving holiday, suggesting that the spirit of forgiveness waxes with the anticipation of that roasted turkey smell wafting through the house. ® Updated at 1607 GMT to include the fact that Trump dialed into a board m</description>
-<enclosure url="https://image.theregister.com/?imageId=5311670&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311670&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Everything going down at once wasn't evidence of a conspiracy – but the truth may be scarier</title>
-<link>https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458</link>
-<guid isPermaLink="false">0727945aa590acb29717e59b7cffa26d2e73903bd19237f682c3d90db47c0ecd</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 14:04:00 +0000</pubDate>
-<description>Have you or someone you love been affected by a tech outage this week? Yeah, us too. You can listen to the latest episode of The Kettle right here on this page, as well as on Spotify , Apple Music , or YouTube . Those platforms also let you subscribe to The Kettle, so you are always notified when the latest episode goes live In a week of big stories the biggest one seems to be the fact that everyone from Microsoft to the NSA was dealing with outages , and here's what might be the worst part: It doesn't seem to be AI, nor hostile countries intent on destroying our infrastructure. Unfortunately for all of us, what the past week of outages reveal is that – as we discussed on The Kettle less than a month ago – all of our essential tech infrastructure is basically held together with duct tape and twine. Join host Brandon Vigliarolo , cybersecurity editor Jessica Lyons , and open source reporter Liam Proven to discuss what comes next, and whether we can fix any of this without tearing all of it out and starting from scratch. A lightly edited transcript is included below: Brandon (00:04) Hi everyone and welcome to the latest episode of the Register's Kettle podcast. I'm your host, Reg reporter Brandon Vigliarolo, and if you're hearing this, then that means there isn't an outage right now, which seems like that might be a lot to ask of our technology in the past week. It's been a busy week. We had Anthropic's IPO , Nvidia drama continuing , and other stuff going on. But the one thing that everyone seems to be talking about is what's become known in the zeitgeist as Outagepalooza, as it seems like everything was offline at some point in the past few days. With me to discuss the chaos and the conspiracy theories they're giving rise to is Reg cybersecurity editor Jessica Lyons and our open source reporter Liam Proven. Guys, what's happening? Jessica Lyons (00:45) I've got my tinfoil hat on right now, so I'm ready. Brandon (00:48) Yes, I've had family calling me being like, my god, what's happening? Who's ending the world right now? Is it AI? Jessica Lyons (00:55) Ha ha ha. Brandon (00:56) We'll get to that part. Liam Proven (00:57) Wonderful. My mum's wardrobe door stuck this week and we found a company on the little rock in the middle of the Irish Sea that fixes sliding doors and he didn't get my emails because he's one hundred percent Microsoft and he uses Hotmail and it's Hotmail. Liam Proven (01:18) And when I got it through, you'd be amazed at the ramifications. I SMS'd him in the end and he got that and then was really angry because I said, "Dude, I've been trying to get you for three days. Can you at least reply and say Friday?" And he's like, "No, I've got no email, I've got no internet, I've got nothing." Brandon (01:32) My god. Yes, it's been an interesting week. So Jess, catch us up on everything that's fallen apart in the past few days. We've got quite a list growing here. Jessica Lyons (01:40) Yes. Well, we'll start with Outlook. I'm sorry, Mic</description>
-<enclosure url="https://image.theregister.com/?imageId=5309241&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5309241&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Trump says he won't allow US companies to build datacenters abroad</title>
-<link>https://www.theregister.com/off-prem/2026/11/23/trump-says-he-wont-allow-us-companies-to-build-datacenters-abroad/5311640</link>
-<guid isPermaLink="false">9e55190251e13e13b0e2a09f03a36b0004bd869826ee02d4637403f19838d09e</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 13:40:00 +0000</pubDate>
-<description>US President Donald Trump has threatened a "tremendous tax" on American companies building datacenters overseas, arguing that the infrastructure should stay at home to preserve the country's AI lead over China. Speaking at a White House press conference after returning from the Asia-Pacific Economic Co-operation (APEC) summit in Shenzhen, Trump portrayed AI leadership as a contest America could not afford to lose. Trump went on to say that "we're not going to allow our companies to build datacenters outside of our country," adding that "they allowed that to happen with chips and everything else and it was very destructive to our country." The threat appeared to catch even his own administration unbriefed. "I haven't even said that to my people, but I'm telling them now," Trump said. The Official White House Rapid Response account posted a video clip on X. We asked the White House if the president intends to follow through, and we will let you know if we get an answer. Trump said: "We're not going to allow companies to build datacenters in other countries. If they do that, they can, but we're going to put a tremendous tax on them. We want them to do it here." The threat comes amid concerns that Chinese entities were able to use Nvidia's cutting-edge GPUs for training AI models by accessing cloud services hosted in third countries. The US Commerce Department's Bureau of Industry and Security (BIS) issued new rules to try and crack down on this practice last week. "We're not allowing datacenters to go into other countries, as China will take all of them, and we're not allowing that to happen," Trump repeated. "We're going to put tremendous penalties on companies that try and do it. They want to build that one in Finland, and we're not allowing that to happen," he added. Google is expanding its facilities in Finland, including one recently in the news because the developer had reportedly illegally felled 250,000 trees to make way for it. Such a policy seems unlikely to be allowed by Congress, where both houses will be under the control of the Democrats when the new term begins in January. Amazon, Google, and Microsoft already operate global datacenter networks to serve customers in different regions. Restrictions on further overseas construction would complicate those businesses. Omdia chief analyst Roy Illsley expressed doubt that this is a serious threat. "There will be ways around that if he does impose some executive order, and the ability to build datacenters is not just an American skill, many countries can build them, it is the equipment in them that is mostly US," he told The Register . "So I do not take this seriously as it would not work, there is no such thing as a US datacenter, they are made up of thousands of components from all over the globe. He could stop US capital from being invested in those countries, but that could have trade consequences." Mike Kharchenko of European hosting firm HostZealot said there are good reasons why the c</description>
-<enclosure url="https://image.theregister.com/?imageId=5223935&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5223935&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>Can AI plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok</title>

@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why GTA VI’s version of Florida feels so real</title>
+<link>https://www.theverge.com/entertainment/1042629/gta-6-city-design</link>
+<guid isPermaLink="false">6e4e7a20ca017409ab7c6c8d8b542e49b937ff3047e3e418e0dc9544bca22c5d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 15:00:00 +0000</pubDate>
+<description>There are plenty of reasons why Grand Theft Auto VI is so popular : the 13 years of anticipation , the relatable lead characters and romantic storyline , the sheer level of depth . But another major factor is the sense of place. The GTA series is unmatched when it comes to re-creating the feeling of a bustling, real-world city, and GTA VI 's fictional rendition of Florida is the studio's most lifelike setting yet. It has functioning buses and trains, plentiful buildings you can go into and explore, residents you can chat with, and huge areas where you can interact with wildlife far away from the bright lights of the Miami-like Vice City. For Emma … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Rackspace pulls plug on Spot cloud service after security breach</title>
+<link>https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352</link>
+<guid isPermaLink="false">44662ce1cbb4e8952b0e2677f9099ad9aa0b5944ad110a428c0993183c17046c</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 14:45:00 +0000</pubDate>
+<description>Rackspace is shutting down its low-cost Spot cloud service after a security breach, giving customers two weeks' notice to move their workloads and retrieve their data. In a notice posted on Tuesday , the cloud computing biz said its Rackspace Spot service will cease operations at 1700 Central Time (2300 UTC) on December 8. Any workloads still running at that point will be terminated, and customers will no longer be able to access their data. "Following the recent security incident affecting Rackspace Spot, Rackspace has made the decision to wind down the service," the company said. "Spot customers are being notified with the wind-down timeline, instructions for retrieving their data and steps to secure their environments." Customers will have to contend with the fallout from the breach while simultaneously trying to get their applications and data off the platform. According to a customer notification seen by The Register , the attackers used leaked credentials to access parts of Rackspace Spot over a period of almost 22 hours on November 17. Rackspace only learned of the intrusion the following day, after a customer raised the alarm. The intruders impersonated legitimate users, created pods in customer Kubernetes clusters, gained access to stored credentials known as Kubernetes Secrets, and listed nodes and storage volumes. "With that access, they could have read any Secret in an affected user's clusters, and any Spot API token or refresh token that user held," Rackspace told customers. Rackspace has since revoked the affected tokens and sessions, removed the pods planted by the intruders, and changed the affected platform and storage keys. Customers must also reissue API tokens, download new Kubernetes configuration files, and rotate credentials stored in their clusters, including database passwords and third-party API keys. Sirish Raghuram, co-founder and chief growth officer of Platform9, which co-developed Spot with Rackspace, shed some light on the root cause in a November 20 GitHub post. "An observability system was breached using a compromised credential," Raghuram wrote. "This was obviously a critical error on our part and we are very sorry we let this happen." Raghuram said the incident necessitated significant changes to the underlying infrastructure clusters, prolonging the outage. Spot's selling point was cheap compute. The service operated an auction-based pricing model, allowing customers to bid for cloud infrastructure at a fraction of the cost of conventional on-demand instances. Rackspace advertised savings of up to 90 percent for customers willing to tolerate interruptions to their workloads. A permanent interruption probably wasn't what they had in mind. Rackspace hasn't explained why it chose closure over recovery, revealed how many customers were affected, or said whether it will offer migration extensions. It did not respond to The Register's questions. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5242796&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5242796&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Wyoming uranium operation shuts down after cyberattack</title>
+<link>https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323</link>
+<guid isPermaLink="false">55795a19da3a739f7bab47fcd9b4076bf858fc7ba92e6c21ca6fc928c167f2ef</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 14:02:00 +0000</pubDate>
+<description>Peninsula Energy has temporarily shut down its Wyoming uranium operation after a "cybersecurity incident" affected plant and wellfield control systems. The Australian uranium producer said on Wednesday that it had activated its response procedures and brought in outside specialists following the attack on its US subsidiary, Strata Energy, which operates the Lance uranium project. Peninsula Energy said it believes the attack is "confined to the plant and wellfield operating and control systems," and that back-office functions, such as payroll and other corporate systems, in both the US and Australia, remain unaffected. "The company's immediate priorities have been to protect the safety of its employees, secure its operating systems, and work towards the restoration of operations in a safe and controlled manner," it said in an update to the Australian Securities Exchange. The notification [PDF] went on to say that Peninsula Energy's investigations into the attack, including whether any data was compromised, remain ongoing. Peninsula has not given a restart date and says it cannot yet assess the impact on its 2027 production guidance. Operations will remain suspended until recovery and safety checks are complete. "Peninsula will provide further updates to the market as material information becomes available," it said. The disclosure of additional information came two days after Peninsula secured a short trading halt, which referenced a cybersecurity incident at its Wyoming site. The November 23 filing [PDF] dated the incident to Friday evening in Western Australia. Wednesday's update clarified that Strata detected it on the morning of November 20, local US time. Peninsula subsequently requested a voluntary suspension of trading until the earlier of November 30 or an announcement on restarting operations and any resulting change to production guidance. Peninsula's Lance project is a uranium mining operation, extracting the element from underground deposits and turning it into uranium concentrate, aka yellowcake or U₃O₈. Uranium concentrate is feedstock for nuclear fuel production, typically undergoing conversion, enrichment, and fabrication into uranium dioxide pellets before use in reactors. The Lance central processing plant was constructed to produce a maximum of 2.0 million pounds (Mlb) of U₃O₈ annually, and is licensed for 3.0 Mlb. Peninsula previously forecast production of 500,000 to 600,000 pounds in 2027, having withdrawn its 2026 guidance earlier this year following operational problems at Lance. It now says it will reassess the 2027 outlook once operations resume. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5312346&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312346&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Here’s where you can save (a little) on the Ocarina of Time remake</title>
+<link>https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale</link>
+<guid isPermaLink="false">8a8e91169aed87950fbaa7ed889f172578e4faed9833325378db83a6f2a6ace0</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 14:00:00 +0000</pubDate>
+<description>The Nintendo Switch 2 remake delivers a complete graphical overhaul and numerous quality-of-life updates to the ‘98 classic. | Image: Nintendo A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can currently grab the cartridge edition for $62.99, down from its regular price of $69.99 (it’s the only retailer currently discounting the physical version). Both Amazon and Costco are also selling the digital version for $54.99, a small $5 discount. The Legend of Zelda: Ocarina of Time Where to Buy: $59.99 $54.99 at Amazon (Digital) $69.99 $62.99 at Costco (Physical) Ocarina of Time is one of Nintendo’s most groundbreaking titles, having served as its first 3D Zelda game when it launched in 1998. Parts of the original game haven’t aged particularly well — namely some dungeon design and the game’s tricky 3D navigation, since there was only one analog stick at the time — which makes it tough for some to enjoy going back to play the N64 version. Thankfully, the Switch 2 remake introduces several fixes, a host of quality-of-life improvements, and, of course, some lovely visuals that make it a graphics powerhouse by today’s standards. If you go the digital route, a recent Switch 2 update lets you gift games to players in your family group. It doesn’t have to be your actual family, either, just up to eight people you designate as part of your group. The digital game will then appear gift-wrapped on their homescreen. Read our full Ocarina of Time review .</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_16.png?w=1280" type="image/png"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_16.png?w=1280" medium="image"/>
+</item>
+<item>
+<title>Samsung’s R95H TV shows what RGB LED is capable of</title>
+<link>https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review</link>
+<guid isPermaLink="false">51041f1b6f9c6c40ada27b6453d1104a6cbfeb8123c288e6b68896ca4967742a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 14:00:00 +0000</pubDate>
+<description>Samsung’s premium RGB LED TV has the widest color gamut I’ve measured this year. RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The Samsung R95H does a lot to deliver some of those promises. It can display more colors than other TVs I've seen so far this year, and the combination of light output and its matte screen makes it great for a bright room. RGB LED TVs might still be in their infancy, but the R95H is a solid TV that shows off the benefits of the new backlight tech. Because RGB LED TVs use individual red, green, and blue LEDs for their backlight (instead of … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268593_Samsung_R95H_RGB_LED_TV_JHiggins_0014.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268593_Samsung_R95H_RGB_LED_TV_JHiggins_0014.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The Screens app will let you turn your iPhone Duo into an itty bitty MacBook</title>
+<link>https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook</link>
+<guid isPermaLink="false">95a5fdc997245f7e75983f321bf4faa258bb9b3c60a1886abcee40fe5611382a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 13:59:06 +0000</pubDate>
+<description>Edovia has updated its Screens remote desktop app with a new Laptop Mode for the iPhone Duo.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/l-intro-1795701363.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/l-intro-1795701363.jpg" medium="image"/>
+</item>
+<item>
 <title>Company was religious about backups but sinned by leaving them exposed</title>
 <link>https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234</link>
 <guid isPermaLink="false">60e11029cc434b4a52326f676b4ff3a87a04e1e38bb4c8575e6b48936536f25b</guid>
@@ -323,17 +389,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement.jpg" medium="image"/>
 </item>
 <item>
-<title>WhatsApp’s new scheduled messages let you choose the right time to send</title>
-<link>https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages</link>
-<guid isPermaLink="false">993a4a76b8db31f9284e72879a232f3cf17865010d5c5b336a974e78502d0e30</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 20:31:48 +0000</pubDate>
-<description>WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a text at an inconvenient time or don't want to forget to fire off a birthday message at 4AM, you can draft it and set it to send anywhere from 10 minutes to two weeks later. The feature works with photos and videos, too. Meta: To schedule a message, press and hold the send button and pick the date and time you want it to arrive. It … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>State AGs are trying to stop Character.AI from auctioning off users' chat histories</title>
 <link>https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories</link>
 <guid isPermaLink="false">ff6907e59b2bd208f192c613635969699ffe38f4a79b724de4e48ec1526a2a92</guid>
@@ -356,17 +411,6 @@
 <media:content url="https://www.engadget.com/img/gallery/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/l-intro-1795636789.jpg" medium="image"/>
 </item>
 <item>
-<title>EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa</title>
-<link>https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant</link>
-<guid isPermaLink="false">8cc9974ff0c2f15e6b793f143cddb69862131971f2974c64d0316ef759a2899e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 19:45:51 +0000</pubDate>
-<description>Debris flies into the air after the Army detonated several tons of highly-volatile, degraded lead azide on the grounds of the Iowa Army Ammunition Plant on November 25th, 2026. | Photo: Getty Images Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several hundred feet high drifting south before quickly dissipating. Following the explosion, the Army confirmed that all of the barrels at the plant had been destroyed without any secondary explosions or infrastructure damage. "I believe, absolutely, that we reduced, as close to zero as it's absolutely humanly poss … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>The security of US water systems is even leakier than we thought</title>
 <link>https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243</link>
 <guid isPermaLink="false">3b84acad3afe82d2b9200896e14afc21bbd9555534cdec700143fdbfecf60097</guid>
@@ -376,17 +420,6 @@
 <description>American water systems are even less secure than we thought, according to a study of 236 technology vendors that provide gear to US drinking water, wastewater, and industrial water systems. The federal government has issued 4,014 security advisories for industrial control systems and cataloged 1,792 vulnerabilities known to have been exploited in cyberattacks. A new index, called Water Supply Chain Watch and published by exposure management firm Securin, however, found almost twice as many vulnerabilities as public records identified – including 20 exploited flaws that weren't even in the federal government's Known Exploited Vulnerabilities (KEV) catalog. The security provider compared data on water-tech vendors with records from the US Cybersecurity and Infrastructure Security Agency (CISA), the Environmental Protection Agency (EPA), the FBI, and WaterISAC, drawing on CISA advisory data through November 20 and KEV catalog entries through November 23. It found that federal water advisories hit their highest level this year since 2020. However, the volume of security alerts isn't a reliable predictor of real-world attacks, the researchers noted. Five vendors – Rockwell Automation (58), Advantech (48), Schneider Electric (35), Siemens (26), and ABB (24) – account for 191 of the 376 water-tagged security advisories. The No. 2 firm, Advantech, accounted for the highest number of vulnerabilities rated critical, but none of the CVEs in its advisories appear in CISA's KEV catalog. Unitronics, on the other hand, accounted for only two water-tagged security advisories, but at least 75 of its controllers were compromised between November 2023 and January 2024 by attackers taking advantage of default or missing passwords. The report also highlights another disconnect between water-related CVEs and real-world cyberattacks, which don't always require attackers to exploit software bugs. The July intrusions, which security researchers suspect were the work of Iran-linked attackers , targeted more than 100 water systems , with incidents reported across at least 12 states , and involved poorly secured internet-connected controllers . According to Securin, 791 Rockwell MicroLogix 1400 controllers across multiple industries in the US were exposed to the internet as of November 17. Additionally, research by Forescout cited by the security shop found that most exposed Rockwell controllers in the US – seven in 10 – sit on mobile carrier networks, where poorly secured cellular modems can provide an entry point for attackers. A CISA advisory from July describes this technique: The authoring agencies observed Iranian-affiliated APT actors using several foreign-based IP addresses to access internet-facing PLCs manufactured by Rockwell Automation/Allen-Bradley, Schneider Electric, Siemens, and potentially other manufactured PLCs [ T0883 ]. The actors used leased, third-party hosted infrastructure and manufacturers’ PLC programming software to connect to misconfigured victi</description>
 <enclosure url="https://image.theregister.com/?imageId=5312249&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5312249&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>1Password breach leaked customer names and emails, but not passwords</title>
-<link>https://www.theverge.com/tech/1042409/1password-data-breach-leak</link>
-<guid isPermaLink="false">cc6e960d226fca72222e0bd911bbe9547296df6e529d4c7ca564b380bd6af326</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 19:10:15 +0000</pubDate>
-<description>1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident . It's unclear how many users are affected. The password manager began investigating the incident on November 19th, after an attacker gained access to an employee's corporate GitHub account. Using the compromised account, the hacker accessed 1Password's source code and pushed malicious code to backend services to download customer data. Along with customer nam … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>You can turn Claude artifacts into Windows and Mac apps now – here’s how</title>
@@ -774,17 +807,6 @@
 <media:content url="https://www.engadget.com/img/gallery/change-this-roku-tv-setting-to-watch-movies-how-they-were-filmed/l-intro-1795038604.jpg" medium="image"/>
 </item>
 <item>
-<title>This helpful Apple Watch feature works seamlessly with Apple CarPlay</title>
-<link>https://www.engadget.com/2321253/haptic-navigation-helpful-apple-watch-feature-works-seamlessly-carplay</link>
-<guid isPermaLink="false">d7961c1c89cd242de21aedb906fa6337d0a685eb4dcf1115ebe502c36a140c33</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 00:30:00 +0000</pubDate>
-<description>Long drives call for every trick you can get. See how your Apple Watch and CarPlay team up to keep you on course and a little more alert behind the wheel.</description>
-<enclosure url="https://www.engadget.com/img/gallery/this-helpful-apple-watch-feature-works-seamlessly-with-apple-carplay/l-intro-1795029567.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/this-helpful-apple-watch-feature-works-seamlessly-with-apple-carplay/l-intro-1795029567.jpg" medium="image"/>
-</item>
-<item>
 <title>Half of NASA's aging Mars fleet knocked offline by technical issues</title>
 <link>https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues</link>
 <guid isPermaLink="false">239d5156f08bd8a999d570ec84531155094dd2bd2943aa640196e57b128b0d78</guid>
@@ -1082,17 +1104,6 @@
 <media:content url="https://image.theregister.com/?imageId=5311772&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Amazon scoops up AI accelerator tech to keep chips busy at all times</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754</link>
-<guid isPermaLink="false">761a690e3d012257c494bc383e91344fed30fc540eb4141ddf00376e42ad9daf</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 21:17:15 +0000</pubDate>
-<description>Amazon has agreed to buy AI optimization technology from an Israeli startup in a bid to speed up its inference operations. The house of Bezos on Monday announced a deal to purchase proprietary AI acceleration tech from Decart AI, known as the Decart Optimization Stack (DOS), for an undisclosed amount. Amazon also plans to bring Decart’s three founders and their engineering team into the fold. Decart’s DOS is designed to push AI hardware closer to its maximum performance across different AI models and hardware platforms. The company claims that most AI chips live their lives without reaching their full potential – practically a sin in this age of increased hardware costs and limited availability – and DOS aims to fix that by operating between the model and the chip, optimizing kernels, compilers, and runtimes for the underlying hardware “so every core stays busy.” DOS is hardware-agnostic, with Decart saying it supports Nvidia GPUs, Google TPUs, and, most critically for our purposes here, AWS Trainium chips. “More efficient compute means better training, better reinforcement learning, faster inference, and better models for customers at a lower cost,” Peter DeSantis, Amazon SVP of foundational AI models, custom silicon, and quantum computing, said in the announcement. “That's the pillar Trainium and our AI efforts are built on, and from our earliest work with Decart, we knew they … would help us push it even further.” Decart doesn’t offer much in the way of details about its proprietary AI-maxxing tech, but claims it can reduce latency, improve throughput, and reduce the costs associated with training and inference runs. An Amazon spokesperson clarified to The Register that the deal is an asset purchase and not a full company acquisition, with Amazon only acquiring DOS and the tech behind it as well as personnel. As for what may become of Decart after the deal, that’s unclear. Amazon told us to reach out to Decart to learn what may happen to any remaining employees and the company’s other technology, but we didn’t hear back. Along with offering its optimization stack, Decart has a couple of different AI models: Lucy, a live video model marketed toward advertisers, live streamers, and the like; and Oasis, a world model AI marketed toward companies working on embodied AI applications. Decart’s non-DOS assets weren’t mentioned in the press release, and per the Amazon spokesperson we talked to, that means they weren’t part of the deal. We can’t imagine that the Decart team is too upset about the potential abandonment of those models, though: While neither company has disclosed a price, Bloomberg claims its sources value the deal at around $7.5 billion. If Bloomberg's figure is accurate, that would make this deal one of the most expensive in Amazon’s history, right between its $3.9 billion acquisition of One Medical and its $8.5 billion purchase of film studio MGM . ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5222824&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5222824&amp;width=1280" medium="image"/>
-</item>
-<item>
 <title>Claude can ship code for you now – how to try it (if you dare)</title>
 <link>https://www.zdnet.com/innovation/claude-ship-code-how-to-try</link>
 <guid isPermaLink="false">00d61abfad74335c7e2253be89d68cc36349a8f572d11e38adce09fa1cbc5068</guid>
@@ -1102,17 +1113,6 @@
 <description>Would you let a few Claude agents review and ship your code for you?</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271847888.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271847888.jpg" medium="image"/>
-</item>
-<item>
-<title>Bluetooth brakes are broken as researchers find anyone can control them</title>
-<link>https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748</link>
-<guid isPermaLink="false">fc370184ad215a4e9b8c34a70d545e10559324fdb3ba25889b840840a771133a</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 19:29:59 +0000</pubDate>
-<description>Imagine something as mission-critical as the brakes on a trailer being vulnerable to unauthorized control. One Australian manufacturer made the interesting choice of building Bluetooth into a trailer brake controller without adequately securing its critical braking functions. Anyone within Bluetooth range of an unpatched Elecbrakes trailer controller could potentially trigger its brakes or apply more braking force than intended, without needing to authenticate. The discovery comes courtesy of a pair of security researchers from Element Digital, Patrick Forck and Jeremy McCarthy. Their investigation began earlier this year when Forck was driving down the road and noticed that his physical Elecbrakes In-Car Remote had connected to someone else's trailer without pairing or prompting him. “It had connected mid-drive, without pairing or a prompt, to a brake controller that wasn’t mine, on a trailer I’d never seen, belonging to a driver who had no idea,” the researchers wrote . That one-off connection triggered a full-scale investigation by the pair. For those unfamiliar with trailer brake controllers, these devices are commonly used on larger trailers. Australian manufacturer Elecbrakes sells such controllers in Australia and New Zealand. Depending on jurisdiction, trailers over a certain weight are required to have their own braking system, which Elecbrakes manufactures. Elecbrakes offers two versions that are designed to be easier to install than traditional controllers: One that’s mounted in a vehicle, and one that is mounted directly on a trailer. That trailer-mounted unit can receive Bluetooth commands from the Elecbrakes smartphone app or a separate in-car remote. Given the importance of such control units to road safety, it’s easy to imagine how serious such a vulnerability could be if it proved to be easy to exploit, and boy, did it. Forck and McCarthy admitted they’re infrastructure security guys, not software devs, so they turned to Claude Code to dissect a decompiled copy of the Elecbrakes app, which Claude was happy to oblige. “What came back from the analysis was a map of the device’s entire Bluetooth GATT profile: 47 characteristics across four services, commands sent as plain unencrypted byte arrays, no checksums, no sequence numbers,” the researchers noted. To make matters worse, there was no authentication required for critical braking commands, even though other Bluetooth functions required pairing. Claude then built a web app that ran in Chrome which was able to access the Bluetooth controls for a nearby Elecbrakes system, and they were able to modify practically every aspect of brake control on a unit owned by one of them. Pairing failed on a few attempts, but not where it mattered: It allowed the connection without issue for actual brake control. They sent a few bytes to the brake control characteristic, and were shocked. “The electromagnetic hum at the brake drums was immediate and, frankly, a little sickening,” the pair said. “I</description>
-<enclosure url="https://image.theregister.com/?imageId=229180&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=229180&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>How to save your Google Nest app videos before the January shutdown</title>

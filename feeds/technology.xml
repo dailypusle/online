@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>1Password says it was hacked but users' vaults are safe</title>
+<link>https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe</link>
+<guid isPermaLink="false">cde11f207edff7e8df49a3cef2fe9cf472026ba73dedca056d7dff077e103b5f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
+<description>1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.</description>
+<enclosure url="https://www.engadget.com/img/gallery/1password-says-it-was-hacked-but-users-vaults-are-safe/l-intro-1795678680.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/1password-says-it-was-hacked-but-users-vaults-are-safe/l-intro-1795678680.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday</title>
+<link>https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday</link>
+<guid isPermaLink="false">78a8a74658c3005f86d636cd1aa1590721a438e9ee5453feee89797ab9d34506</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 19:44:49 +0000</pubDate>
+<description>A campaign demanding that Amazon recognize and bargain with unions will see workers in more than 20 countries mobilize.</description>
+<enclosure url="https://www.engadget.com/img/gallery/amazon-workers-around-the-world-plan-strikes-and-protests-on-black-friday-and-cyber-monday/l-intro-1795722145.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/amazon-workers-around-the-world-plan-strikes-and-protests-on-black-friday-and-cyber-monday/l-intro-1795722145.jpg" medium="image"/>
+</item>
+<item>
 <title>Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems</title>
 <link>https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433</link>
 <guid isPermaLink="false">abacbee203a24ba31bbd0fc9b182d54f3fe2be45e4ac6e1b183c736be76a4875</guid>
@@ -752,17 +774,6 @@
 <media:content url="https://image.theregister.com/?imageId=5312115&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Acer Predator Atlas 8 review: Potent performance at a slightly better price</title>
-<link>https://www.engadget.com/2326961/acer-predator-atlas-8-review</link>
-<guid isPermaLink="false">3e56a9b1b70d664717ca8bd41e2d78a4c1f42ae6dcb6a097217e0f7f20e2e618</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
-<description>Thanks to its Intel Arc G3 Extreme chip, the Acer Predator Atlas 8 delivers 95 percent of the performance you get from MSI's Claw 8 EX AI+ for $350 less.</description>
-<enclosure url="https://www.engadget.com/img/gallery/acer-predator-atlas-8-review-potent-performance-at-a-slightly-better-price/l-intro-1795546932.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/acer-predator-atlas-8-review-potent-performance-at-a-slightly-better-price/l-intro-1795546932.jpg" medium="image"/>
-</item>
-<item>
 <title>Microsoft 365 Backup stretches recovery window to ten years</title>
 <link>https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043</link>
 <guid isPermaLink="false">e8600d727083176235dbe1fb37b64b539d63486649bd8282e47d506a1c37b272</guid>
@@ -772,17 +783,6 @@
 <description>Recovery windows of up to ten years are now available in Microsoft 365 Backup for OneDrive and SharePoint, up from a previous maximum of two. The change took effect on October 31, though Exchange remains capped at two years. Administrators can select recovery windows of three months, six months, or any whole number of years from one to ten. Microsoft's list price is $0.15 per GiB per month of protected content. Extended windows can increase costs by keeping deleted data billable for longer. Switching to a longer recovery window will also not make backups for that period magically available. So no nostalgic trips back to 2016. Wider recovery windows may appeal to organizations that need access to older data, but backups are not a substitute for compliance retention and archiving. Recovery after a breach or ransomware attack is also critical, particularly getting back to a healthy state before any malware seeped into files. Microsoft says backups are physically redundant and geographically replicated while respecting the tenant's data residency requirements. Full OneDrive account and SharePoint site restores offer recovery points every ten minutes for the most recent two weeks, then weekly points through the configured window, up to ten years. Individual file and folder recovery is limited to recovery points from the most recent 14 days, regardless of the configured window. Restore remains free, which is handy since regular testing is a vital part of any disaster recovery plan. The arrival of a ten-year recovery window is good for enterprises that need it and have deep enough pockets. However, it is important to keep in mind that being able to configure a longer recovery window doesn't constitute a disaster recovery plan in itself and may be overkill in many instances. Microsoft notes: "The existing one-year default recovery window remains unchanged. Longer recovery windows must be configured on the applicable backup policies." The company also recommends that users "review your organization's SharePoint and OneDrive backup requirements to determine whether longer recovery windows are needed." A decade of recovery history could be valuable. It also means a decade of data to account for when setting budgets, access controls, and retention policies. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=232945&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=232945&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>WhatsApp is testing stickers with sound</title>
-<link>https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound</link>
-<guid isPermaLink="false">f98740dfa2ecfd7307538f082c25b16337192c2d0a9a241d220576dfd18e032a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 12:24:57 +0000</pubDate>
-<description>WhatsApp's newest public beta includes the ability to create stickers with sounds.</description>
-<enclosure url="https://www.engadget.com/img/gallery/whatsapp-is-testing-stickers-with-sound/l-intro-1795609389.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/whatsapp-is-testing-stickers-with-sound/l-intro-1795609389.jpg" medium="image"/>
 </item>
 <item>
 <title>Amazon to flog motors in Britain, but Prime won't deliver</title>

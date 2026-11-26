@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Company was religious about backups but sinned by leaving them exposed</title>
+<link>https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234</link>
+<guid isPermaLink="false">60e11029cc434b4a52326f676b4ff3a87a04e1e38bb4c8575e6b48936536f25b</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 13:22:00 +0000</pubDate>
+<description>Welcome, once again, to PWNED, where we’re thankful every time someone leaves a password sticky note on a monitor or fails to delete a terminated employee’s admin account. But neither of those common occurrences is what we’ll be talking about today. Instead, our subject broke the number-one rule of backups: you gotta keep ’em separated. Our story comes courtesy of Da Li, who serves as global alliance manager at Info2Soft , a company that provides data protection and recovery software. At one point, a partner called him into a case where a Chinese vehicle parts manufacturer fell victim to a ransomware gang. Unfortunately, its backup was compromised too. The manufacturer had religiously backed up its manufacturing execution system (MES) and SAP orders, inventory, and finance systems every night. There was even a green dashboard that showed the backup process had succeeded, and someone checked that every morning. However, one Friday evening, crims broke into the network and found out that the backup server was joined to the same Windows domain as the rest of the network. The hackers found a plaintext password for the backup service account in a maintenance script on a file share and discovered that someone had used the very same password for a domain admin account. So the first thing the crooks did was delete every restore point on that backup server. Then they started encrypting the production servers to ransom them. “Every backup job had succeeded for three years,” Li said. “The failure was that the thing meant to save them could be reached with the same keys as the thing being attacked.” The results were devastating. With the MES and SAP data both gone, the plant couldn't schedule production, ship parts, or track them. By the time Li was called in, the plant had already resolved its ransomware situation. We don’t know whether it paid or not. The manufacturer did ask Li and his company to make sure that this couldn’t happen again. Li’s fix was not radical, but it was instructive. He made sure that the company now keeps its backup system outside the production domain, uses unique credentials, and requires MFA to reduce the risk of unauthorized access even if a password is compromised. He also made sure that the company keeps at least one offline backup and runs a test restore quarterly to ensure it’s prepared for emergencies.®</description>
+<enclosure url="https://image.theregister.com/?imageId=5312239&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312239&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Stale links on UK public sector websites direct visitors to gambling dens</title>
+<link>https://www.theregister.com/public-sector/2026/11/26/stale-links-on-uk-public-sector-websites-direct-visitors-to-gambling-dens/5312049</link>
+<guid isPermaLink="false">e4c7084d120c500e192af8377611779cc3add5cef73f5d4d2ea71b029ef88bb7</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 13:15:00 +0000</pubDate>
+<description>UK public sector websites are directing visitors to gambling promotions through old links to defunct local enterprise partnerships (LEPs), research by digital consultancy Digital Royalty has found. The consultancy identified 93 links across 79 pages on websites belonging to 26 public bodies. LEPs brought together councils and businesses to promote economic growth in England under a coalition government initiative launched in 2010. Central government funding ended in April 2024, with their core functions transferred to local and combined authorities. Among other things, Digital Royalty builds and looks after websites, which means chasing down old links. In August, it found that a link on Surrey County Council's website led to a former LEP address now displaying casino content. It went looking for more. Digital Royalty founder Alex De Sousa said: "Slow is usually a sign of caution and diligence, but 31 months after the LEPs wound up, it's crossed into inefficient and dangerous." The consultancy offered The Register four examples of websites run by the Department for Digital, Culture, Media and Sport (DCMS), Hull City Council, Parliament, and the Local Government Association. One example is a government page about the Digital Skills Partnership, originally published under an earlier incarnation of DCMS. The page includes a link that appears to be for the Humber Digital Skills Partnership within the Humber LEP website, but in fact takes users to a site advertising "Independent Non GamStop Casinos UK – New Casino Sites Outside GamStop." GamStop is the self-exclusion scheme designed to help people restrict their online gambling, which makes the links more concerning than ordinary website clutter. The same link appears on the Hull City Council website under a list of Joint Committees, Partnerships and Trusts where it appears as Local Economic Partnership (Humber LEP). An old page for the Parliament website detailing the Department for Business, Energy &amp; Industrial Strategy committee's Industrial Strategy report includes a footnote (135) that appears to be for the Business Central funding finder service, but takes the user to the "Highest RTP Non GamStop Casinos for UK Players." The Local Government Association's (LGA) sustainability and waste route map included a link to the former York and North Yorkshire LEP website. The destination initially appeared legitimate but contained links promoting crypto casinos. The LGA now appears to have removed the link. All the organizations mentioned have been contacted by The Register to offer them the opportunity to comment. Digital Royalty checked former web addresses associated with about 70 LEPs and growth hubs, then used a backlink index to identify roughly 3,000 incoming links from public sector sites. Most were simply outdated rather than leading to gambling content. The findings are not exhaustive: the index may miss pages, and the research did not cover other types of defunct public body whose domains may ha</description>
+<enclosure url="https://image.theregister.com/?imageId=5296669&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5296669&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods</title>
+<link>https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods</link>
+<guid isPermaLink="false">c8732f77666f4ac665bf3e7085ad831e4262e659e72566d448e485501b8458ec</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 13:14:18 +0000</pubDate>
+<description>Casetify is releasing a Pokémon collection on December 1, and it includes an AirPods case that looks like a pixel Poké Ball.</description>
+<enclosure url="https://www.engadget.com/img/gallery/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/l-intro-1795698753.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/l-intro-1795698753.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft hotpatches hotpatch that could crash Windows Server 2025</title>
+<link>https://www.theregister.com/os-platforms/2026/11/26/microsoft-hotpatches-hotpatch-that-could-crash-windows-server-2025/5312301</link>
+<guid isPermaLink="false">3df0836a15158047c9a55441f1a6d6da4d222d47031d49aff0f8a085501907be</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 12:27:00 +0000</pubDate>
+<description>Microsoft has released an out-of-band hotpatch to fix a bug in November's Windows Server 2025 security update that could crash some servers when an IPv6 route expires. The patch for the patch, KB5138318 , addresses crashes on systems with Router Advertisement (RA) enabled that receive time-bound IPv6 routes. When a route timer expires, affected servers can halt with error 0x139 (KERNEL_SECURITY_CHECK_FAILURE). Issued on November 25, the corrective update takes effect without requiring a restart, according to Microsoft. KERNEL_SECURITY_CHECK_FAILURE means the kernel has detected corruption of a critical data structure and stopped the system. Microsoft has identified route-timer expiry as the trigger but hasn't explained the underlying coding fault. Good to see the operating system being protected against the impact of the corruption. Less good for administrators wondering why their servers have suddenly misbehaved. Lansweeper puts Windows Server 2025 at 7 percent of the servers it monitors, compared with 32 percent for Server 2022 and 33 percent for Server 2019. Only systems with the affected hotpatch and networking configuration are implicated. Microsoft's Windows Server updates have not gone well over the last few months, with out-of-band updates issued in September, October, and November. An out-of-band update to deal with a problem introduced in a hotpatch (in this case, KB5131077 ) therefore carries with it a certain sense of inevitability. Hotpatches are a way of getting OS security updates on a Windows Server without requiring a restart and so are, in theory, a boon for administrators keen on maximizing uptime. According to Microsoft, in addition to faster installations and better protection, there is "lower workload impact with less need to restart your machine." Avoiding a planned restart is less of a selling point when the alternative is an unplanned crash. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=4093838&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=4093838&amp;width=1280" medium="image"/>
+</item>
+<item>
+<title>Draining peatlands is responsible for a few percent of our global warming</title>
+<link>https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming</link>
+<guid isPermaLink="false">fdb09ed1f29c79af4ed40636cc48f6dbf58ef17f1e98a35c0b63663bde59a117</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 12:15:42 +0000</pubDate>
+<description>Much of the focus for human-caused climate change is on fossil fuels, which are creating most of our problems. But land use change is also a large component of the story, accounting for about one-third of total historical CO 2 emissions. Deforestation plays a major role here, but practices like draining wetlands also factor in. Exactly how much of our history of eliminating wetlands has contributed to warming is challenging to figure out. But thanks to new sources of data that measure emissions from today’s surviving wetlands, it’s possible to put a better number on it. A new study led by Jevan Yu at MIT focuses on peatlands—environments like bogs and fens where organic matter accumulates into thick layers of material. Some 600 billion tons of carbon are held in these vast stores of peat, which is more than you can find in all the world’s living vegetation, the researchers note. Because these areas are permanently inundated, any oxygen in the water is quickly used up, leaving the job of decaying all that organic matter to anaerobic bacteria that work much more slowly and don't digest everything. So instead of seeing organic carbon turning into the CO 2 gas released by aerobic bacteria, in peatlands, a subset of it gradually turns into methane gas. Methane is an even more potent greenhouse gas than CO 2 itself and ultimately gets oxidized into CO 2 . That means there’s a little trade-off from peatlands—most of the carbon they have is kept out of the atmosphere, but the carbon that does escape does so as methane. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1296653735.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1296653735.jpg" medium="image"/>
+</item>
+<item>
 <title>From minimalist to maximalist: Ars staffers show off their home offices</title>
 <link>https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices</link>
 <guid isPermaLink="false">a6b54f835ea026e0023becbe7b76bf2d6d23b49a2cf70cbb544a2a3e03b351d0</guid>
@@ -730,17 +785,6 @@
 <media:content url="https://www.engadget.com/img/gallery/this-helpful-apple-watch-feature-works-seamlessly-with-apple-carplay/l-intro-1795029567.jpg" medium="image"/>
 </item>
 <item>
-<title>You don't have to look at your Apple Watch to get the time</title>
-<link>https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback</link>
-<guid isPermaLink="false">8b66410ced93379a09a1a228ee3a1789e125257159bcf01f85df724a0dad40cf</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-<description>Your Apple Watch has a way to share the time that even supports Morse Code. See which of its three modes makes sense for your daily routine.</description>
-<enclosure url="https://www.engadget.com/img/gallery/you-dont-have-to-look-at-your-apple-watch-to-get-the-time/l-intro-1794922556.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/you-dont-have-to-look-at-your-apple-watch-to-get-the-time/l-intro-1794922556.jpg" medium="image"/>
-</item>
-<item>
 <title>Half of NASA's aging Mars fleet knocked offline by technical issues</title>
 <link>https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues</link>
 <guid isPermaLink="false">239d5156f08bd8a999d570ec84531155094dd2bd2943aa640196e57b128b0d78</guid>
@@ -860,17 +904,6 @@
 <description>The 2020 Oregon wildfires burned over 1 million acres, destroyed thousands of structures, and killed 11 people. Smoke from the fires spread across the entire region; this "smoke taint" adversely affected not only local wine production , but also hops grown for beer brewing. Since the Pacific Northwest produces more than 95 percent of US hops and about 40 percent of the global supply, the potential economic impact is significant. That's why Oregon State University (OSU) scientists have been studying how brewers could offset the negative impacts of smoke taint while still incorporating affected hops in their brews. Most recently, they found that it all depends on the quantity of tainted hops that are included and when hops are added during the brewing process, according to a new paper published in the Journal of the American Society of Brewing Chemists. As previously reported , the chemistry of brewing beer is a very active area of research. For instance, in 2018 , OSU chemist Thomas Shellhammer—who also co-authored this latest paper— identified the growing popularity of " dry hopping " (adding hops after fermentation, common for pale ales) among craft brewers as the likely culprit of the exploding beer bottle phenomenon. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/hops3-1152x648-1795358176.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/hops3-1152x648-1795358176.jpg" medium="image"/>
-</item>
-<item>
-<title>Kalshi makes “difficult decision” to halt Utah trading after losing court fights</title>
-<link>https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights</link>
-<guid isPermaLink="false">a52b1f87b3b70a46ab68e860bc6f09316ad5bd57880254d24106d46668f1d98c</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 18:03:58 +0000</pubDate>
-<description>Kalshi made the “difficult decision” to pause operations in Utah after losing a court fight to block the state’s ongoing enforcement actions under Utah gambling laws, Kalshi spokesperson Jacki McGavick said Monday. It seems Kalshi’s legal troubles in Utah have become too much for the prediction market platform to gamble on continued operations there. In Utah, several lawsuits are still playing out, and Kalshi also lost a bid to persuade a federal appeals court to block those cases until the appeal is resolved. Kalshi also wasn’t saved by an emergency motion from the Commodity Futures Trading Commission—which argues that the CFTC has exclusive jurisdiction over prediction market trading. At this time, the federal district court has not granted that motion to block Utah’s enforcement actions, either. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1010796264.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1010796264.jpg" medium="image"/>
 </item>
 <item>
 <title>Arm strongarms site that hosts ad-free documentation and it may disappear</title>
@@ -1082,17 +1115,6 @@
 <media:content url="https://image.theregister.com/?imageId=229180&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Critical Cisco remote code execution bug under attack</title>
-<link>https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722</link>
-<guid isPermaLink="false">1148fa5b1baf8eb64de332387a5e83a3bd8b4da6000adc776b3b8fbcf9f7cb96</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 17:56:56 +0000</pubDate>
-<description>Attackers are currently exploiting a critical vulnerability tracked as CVE-2026-76466 in Cisco Expressway that allows them to remotely execute commands as root without any authentication, according to warnings from the US government and security researchers. CVE-2026-76466 , which carries a 9.8 CVSS rating, affects Cisco Expressway-C and Cisco Expressway-E gateways configured in clusters, both virtual and physical appliances running vulnerable software. These provide firewall traversal, VPN-less remote access, and call routing for remote users connecting to voice, video, and messaging collaboration services. The bug involves hard-coded authentication credentials and insufficient certificate validation in clustered Expressway deployments. “An attacker with possession of the cookies could exploit this vulnerability by connecting to the database service and invoking specific remote procedure call (RPC) commands,” Cisco said in October, when it disclosed the bug and issued a software update that fixed the flaw. “A successful exploit could allow the attacker to execute arbitrary commands as root on the underlying operating system of an affected device.” At the time, the networking vendor said it wasn’t aware of any abuse of the vulnerability. That all changed late last week, however, when Russian security firm F6 said it was investigating “the first observed case” of miscreants exploiting CVE-2026-76466, shortly after a public proof-of-concept exploit became available. “The attackers initially compromised two Cisco Expressway internet-facing devices,” F6’s Cyber Defense Center said on Thursday. “Through one of them, they gained access to two additional cluster nodes located on the organization’s internal network. After obtaining root access, the attackers began preparing tooling for further lateral movement across the infrastructure.” Specifically, the criminals prepared custom Python code to scan the victim’s network and identify files and folders shared over the Server Message Block (SMB) protocol. The scripts were also designed to interact with SQL Server and WinRM, and search GitLab repositories for credentials and other sensitive information. The Python scripts used in the attack indicated that the operator used an AI assistant, according to F6. The security shop also noted that one of the key indicators of compromise is a nodeup “wombat@127.0.0.1” entry in the Erlang system log (erlang.log) on affected Cisco Expressway devices. A day later, the US Cybersecurity and Infrastructure Security Agency (CISA) added CVE-2026-76466 to its Known Exploited Vulnerabilities catalog, and told federal agencies to patch by Monday. Cisco updated its advisory on Monday to acknowledge CISA’s addition, while noting that it has no direct evidence of active exploitation. The Register reached out to the networking and security vendor for additional details about the scope of the attacks, but did not receive any response. We will update this story as we learn more. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5249134&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5249134&amp;width=1280" medium="image"/>
-</item>
-<item>
 <title>How to save your Google Nest app videos before the January shutdown</title>
 <link>https://www.zdnet.com/home-and-office/how-to-save-your-google-nest-app-videos-switch-to-google-home</link>
 <guid isPermaLink="false">98aa8d59b0ce36b3f5d5e4dc2699d8dac0500d7ef47ded8fb442ece1a135b88c</guid>
@@ -1124,28 +1146,6 @@
 <description>Weather apps are notoriously inaccurate. Google’s new feature can help.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_20261123_112401.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_20261123_112401.jpg" medium="image"/>
-</item>
-<item>
-<title>Bulgaria evicts cyber snoops who lurked inside government networks for 5 years</title>
-<link>https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629</link>
-<guid isPermaLink="false">5b0964a66b065c23f3925914527aed6e463651421562622fd4c5774a3a4b6821</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 17:01:00 +0000</pubDate>
-<description>The Ancient Thracian heartland of Bulgaria says it has shut down a cyberespionage operation that gave intruders access to government networks for five years – the longest-running known campaign against its administration. Bulgaria's Ministry of Innovation and Digital Transformation said the unauthorized and officially unattributed attackers first gained access to infrastructure used by government institutions to exchange information in 2021. It explained that the intrusion went unnoticed for so long because "the previous means of protection did not work as a single, integrated system," and that without a new, recently installed product, it may have gone undetected for much longer. "The incident was discovered thanks to the new national cybersecurity system, which for the first time provides a single picture of what is happening in state networks," the ministry added. "Without it, this activity would most likely have remained hidden for an indefinite period of time." Bulgaria acknowledged that "sensitive information related to the work of the state" was accessed, but did not specify the scale of the compromise. Innovation and Digital Transformation Minister Ivan Vasilev said attackers had downloaded more than 130 GB of data over five years. He also put the volume at 62 million pages. The Register contacted the Bulgarian government for confirmation of these numbers. The ministry said that it has not yet found any evidence that citizens' personal data was compromised, and that the affected infrastructure "will be under increased surveillance for 90 days" in case the attackers try to regain access. Vasilev said multiple international hacking groups had accessed government systems since 2021. He did not specify the names of these groups, however, nor did he name any specific countries that may have been involved. In a follow-up interview with bTV , Vasilev blamed political instability and frequent changes of ministerial leadership for leaving government systems inadequately protected. A representative of the Progressive Bulgaria party, which back in May won Bulgaria's eighth general election in five years, Vasilev said the "constant change of leadership" means "important things for the state do not actually happen." Vasilev said the intrusion was discovered over the summer as the national cybersecurity system was upgraded, and that teams had spent the past three to four months removing the attackers. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=256287&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=256287&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>Microsoft mega outage: Report reveals testing gaps and emails that never arrived</title>
-<link>https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656</link>
-<guid isPermaLink="false">a58b1a4fd1605432433ce9b12063f6e8294d9a4d3baca7a3ca5a294a473b1671</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 16:16:00 +0000</pubDate>
-<description>Some emails never reached their recipients during November's Microsoft 365 outage, the company has confirmed in a final report that also exposes gaps in its testing and recovery procedures. The post-incident report details how a Windows defect brought down Exchange Online and disrupted features across other Microsoft 365 services. For affected users, the cloud became someone else's unavailable computer. A preliminary report had already blamed a July code change, combined with a failover and reduced capacity. The final report confirms those findings and sets out Microsoft's plans to improve change auditing and recovery procedures, and add spare capacity. The defect affected Microsoft's gateway server configuration, not standard Windows deployments. The epic outage (named the "Microsoft long weekend" by some wags) kicked off on November 12 and wasn't fully resolved until November 14. Microsoft extended its delivery retry window to 48 hours, but some delayed messages destined for consumer mailboxes inactive for more than 30 days still expired, generating non-delivery reports. The company said all queued enterprise messages were eventually delivered, with none found permanently lost. The report is grim, particularly in how the failure ramped up as US users came online to find gateway servers toppling over. At the worst point, more than 80 percent of North American gateway servers were unresponsive. The problem proved elusive, and it took Microsoft some time to identify the change and deploy a fix. Microsoft has had a week to ponder what it did and did not do, and the report has some next steps to avoid a repeat of November's events. Some are obvious, and some are a little surprising. Working to reduce the blast radius of failures is an obvious one, and actions include partitioning and isolation to ensure failures can be contained before taking down traffic globally. Recovery procedures also need improvement, along with communication and capacity to ensure there is sufficient headroom. Microsoft's load tests used older, lower-core-count hardware, making them less likely to expose a defect that worsened on newer machines. The company now plans to test newer hardware with more realistic traffic and peak loads, and broaden its failover testing. Microsoft also plans to improve diagnostics and change auditing so engineers can identify troublesome Windows changes faster. July's defect had been running worldwide for more than three months before it brought the gateways down. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5295388&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5295388&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>Nvidia CEO Jensen Huang is back after a stunning reversal</title>

@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Norse Atlantic suspends all flights as it faces potential collapse</title>
+<link>https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">a537e18e84916f22722c0f7e14ac01d5aa6d3c9a81319a2fd701394c435bb193</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Thu, 26 Nov 2026 13:30:12 +0000</pubDate>
+<description>The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg" medium="image"/>
+</item>
+<item>
+<title>Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details</title>
+<link>https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details</link>
+<guid isPermaLink="false">eaa3b7c059a7a14eddf3d22ece47c72e6b1974a8212a2a63c10215b0c1e96d16</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 26 Nov 2026 13:13:19 +0000</pubDate>
+<description>The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Cost of living roadshow highlights support on offer</title>
+<link>https://www.bbc.co.uk/news/articles/cqz0ky4204jlo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">1ae9d9691b9477bf2d1b3f7b22c0962a096087c6c9241f85aeef13714edd3384</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Thu, 26 Nov 2026 12:49:07 +0000</pubDate>
+<description>This event in Sheerness is funded by the Crisis and Resilience Fund for those facing cash issues.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a4f/live/62cdb7c0-e984-11f1-bb43-d1b6102e3b60.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2a4f/live/62cdb7c0-e984-11f1-bb43-d1b6102e3b60.jpg" medium="image"/>
+</item>
+<item>
+<title>Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over</title>
+<link>https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over</link>
+<guid isPermaLink="false">995e34f5dbd350bfc88dee772a860fb32dc9bc5e96d009254e7257a75c8034c4</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 26 Nov 2026 12:26:08 +0000</pubDate>
+<description>A month after saying Bitcoin had bottomed in June, Galaxy now says a daily close below $58,525 would signal a materially lower low.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Bear-market-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Bear-market-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve</title>
+<link>https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve</link>
+<guid isPermaLink="false">3d053bcab499d05a43ea2f437b43faeca4e75befc041dee2d52df12fe715a6ca</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 26 Nov 2026 12:13:59 +0000</pubDate>
+<description>Buterin warned that future attacks could use lookalike chips with hidden malicious functions, making hardware tampering harder to detect.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BRYP0VPBJMFGRFC0AZM22T/vitalik-buerin-on-chips.png" type="image/png"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BRYP0VPBJMFGRFC0AZM22T/vitalik-buerin-on-chips.png" medium="image"/>
+</item>
+<item>
 <title>UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report</title>
 <link>https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report</link>
 <guid isPermaLink="false">42dd403194ed4943444c44b77e8af50fafae2e2e8ff1150507a75257def1c770</guid>
@@ -15,18 +70,7 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Norse Atlantic suspends all flights as it faces potential collapse</title>
-<link>https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">a537e18e84916f22722c0f7e14ac01d5aa6d3c9a81319a2fd701394c435bb193</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 11:43:38 +0000</pubDate>
-<description>The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg" medium="image"/>
-</item>
-<item>
-<title>Standard Chartered’s Zodia Custody suffers data breach: Report</title>
+<title>Standard Chartered’s Zodia Custody suffers data breach</title>
 <link>https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach</link>
 <guid isPermaLink="false">4eccd606d470554a74eadee056b689949c87db1a98661251ad34d7050ac7d204</guid>
 <source>Cointelegraph</source>
@@ -66,8 +110,8 @@
 <category>business</category>
 <pubDate>Thu, 26 Nov 2026 11:21:45 +0000</pubDate>
 <description>The changes could see drivers over 70 stripped of licences if they do not meet standards.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8be7/live/c00f1a90-e98a-11f1-9d1c-4dcc8fcde666.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8be7/live/c00f1a90-e98a-11f1-9d1c-4dcc8fcde666.jpg" medium="image"/>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4b37/live/d36e1fb0-e993-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4b37/live/d36e1fb0-e993-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
 </item>
 <item>
 <title>What's gone wrong at Poundland?</title>
@@ -763,17 +807,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>California fines Afterpay $2.7M</title>
-<link>https://www.bankingdive.com/news/california-fines-afterpay-27m/875794</link>
-<guid isPermaLink="false">d8110cd9fd20d30a4c4252c46ffcb1348240200f95f0fc75f32dcbacb9a9b0eb</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 16:05:00 +0000</pubDate>
-<description>The state imposed the penalty on Block’s buy now, pay later business after finding the company failed to assess customers’ ability to repay loans.</description>
-<enclosure url="https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp" medium="image"/>
-</item>
-<item>
 <title>Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push</title>
 <link>https://bitcoinmagazine.com/news/next-technology-nxtt-sells-500-bitcoin</link>
 <guid isPermaLink="false">4bf105373191305bb730cc15ae35ff69f9ba3c4135d655d559d1843460673670</guid>
@@ -1036,17 +1069,6 @@
 <description>Hackers already use AI to target crypto exchanges, while future quantum computers could break the cryptography that protects users’ funds.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88WT0WPRVQ4457VHKSH5XGT/ai-quantum-tech-eu.png" type="image/png"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88WT0WPRVQ4457VHKSH5XGT/ai-quantum-tech-eu.png" medium="image"/>
-</item>
-<item>
-<title>South Korea’s crypto bill could move stablecoin race beyond token issuance</title>
-<link>https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance</link>
-<guid isPermaLink="false">cde75c060e7705ee9bfe81270be5b0d6ef8fa8a11117aafaf365f6fee1cf7f36</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 06:54:59 +0000</pubDate>
-<description>South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-south-korea-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-south-korea-1.jpg" medium="image"/>
 </item>
 <item>
 <title>US attorney general dodges questions about Nvidia investigation</title>
@@ -1335,28 +1357,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-brain-hand-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses</title>
-<link>https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses</link>
-<guid isPermaLink="false">f9854152ebb14b9ddb9fd32e69bf0c0b445b3af384f72e6f87a7ea2b38d93a89</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 21:46:03 +0000</pubDate>
-<description>OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control</title>
-<link>https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control</link>
-<guid isPermaLink="false">dc75ee9e4ad3580b2baa57703eb06481cf8a2fd04cce9394f46e183f9047324f</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 21:16:03 +0000</pubDate>
-<description>Alexandr Wang says Claude’s role in a verified Riemann Hypothesis proof signals a turning point, warning that powerful self-improving AI systems could advance faster than people can supervise them.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/ai-artificial-intelligence-decrypt-style-1-scaled-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/ai-artificial-intelligence-decrypt-style-1-scaled-gID_7.jpg" medium="image"/>
-</item>
-<item>
 <title>Payoneer gets conditional approval for trust bank</title>
 <link>https://www.bankingdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875506</link>
 <guid isPermaLink="false">437611961c7e956c5c834faa73cbed94422b75bee0b915e7166f0e68c698c64b</guid>
@@ -1366,6 +1366,17 @@
 <description>The cross-border payments company, which applied for a trust charter in February, is one of several payments firms seeking such a charter from the OCC this year.</description>
 <enclosure url="https://imgproxy.divecdn.com/cIKktZ5OM6rvrJmHRQXHu7dGhG4sFanRh4IpgzBPWYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MTQ3ODY2LmpwZ19yZXNpemUuanBn.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/cIKktZ5OM6rvrJmHRQXHu7dGhG4sFanRh4IpgzBPWYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MTQ3ODY2LmpwZ19yZXNpemUuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>AI-forward insurance startup Corgi applies for bank charter</title>
+<link>https://www.bankingdive.com/news/corgi-applies-occ-fdic-national-bank-charter-ai-insurance-fintech/875453</link>
+<guid isPermaLink="false">47f082d981a75029c1940ab657addf522a8657b3e8e054ac7f0da3a23bd9d63f</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:41:23 +0000</pubDate>
+<description>Corgi wants a national bank charter, which would put its holding company under the Federal Reserve’s purview – a rarity among insurance firms.</description>
+<enclosure url="https://imgproxy.divecdn.com/Ynio67rfYurR3M67S-xE1Tz5L6iqiEEwnnzmJ0vwdmA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/Ynio67rfYurR3M67S-xE1Tz5L6iqiEEwnnzmJ0vwdmA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp" medium="image"/>
 </item>
 <item>
 <title>San Francisco is enjoying an AI boom, but worries about a crash are growing</title>

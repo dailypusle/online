@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Macy's Thanksgiving Day parade postponed for weather for 1st time in 100-year history</title>
+<link>https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401</link>
+<guid isPermaLink="false">162eb064d28c45035839360fa193b3cca8bc163eb140963f729f1a4e759192eb</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 26 Nov 2026 04:21:47 +0000</pubDate>
+<description>New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.</description>
+<enclosure url="https://s.abcnews.com/images/US/Macys-Postponed_1795657159737_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/Macys-Postponed_1795657159737_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Nasdaq teeters on brink of bear market as tech stocks fall further</title>
+<link>https://news.sky.com/story/nasdaq-100-teeters-on-brink-of-bear-market-as-wall-street-tech-stocks-fall-further-13616624</link>
+<guid isPermaLink="false">f6f049610a52f282c9852146e170e4e601b884e4a3576e6f07268d9c780099c0</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Thu, 26 Nov 2026 04:09:00 +0000</pubDate>
+<description>A tech-heavy index on Wall Street briefly teetered into bear market territory on Wednesday - as AI-exposed stocks continue to face heavy sell-offs.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-nasdaq-us-stock-market_7416713.jpg?20261126040530" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-nasdaq-us-stock-market_7416713.jpg?20261126040530" medium="image"/>
+</item>
+<item>
 <title>Child homelessness increases chance of being NEET, study says</title>
 <link>https://news.sky.com/story/child-homelessness-increases-chance-of-being-neet-study-says-13616399</link>
 <guid isPermaLink="false">669d9017af9881b11303afc2f1d0049b82f35ce6178fc8a32fd30fb159728e50</guid>
@@ -26,26 +48,15 @@
 <media:content url="https://s.france24.com/media/display/c24be946-bb40-11f1-b551-852b23529bb9/w:1024/p:16x9/2026-09-28T131913Z-1185617274-RC2CSNAEMW2N-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg" medium="image"/>
 </item>
 <item>
-<title>Federal officials say 'zero' airborne lead detected after Iowa munitions blast</title>
-<link>https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051</link>
-<guid isPermaLink="false">6cb838b4b1d44c3bf54235ab26155b75272b42e2317ab824e563d6024a1e4dd1</guid>
+<title>Judge blocks latest Trump effort to restrict birthright citizenship</title>
+<link>https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919</link>
+<guid isPermaLink="false">8f1d41aabc8e03b9fc4d1b6bd44870032a0225f7658b29630c024ce59bb7a01c</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Thu, 26 Nov 2026 02:17:57 +0000</pubDate>
-<description>The Army detonated several tons of lead azide at an ammunition plant in Iowa.</description>
-<enclosure url="https://s.abcnews.com/images/US/iowa-10-rt-gmh-261125_1795621122135_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/iowa-10-rt-gmh-261125_1795621122135_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Macy's Thanksgiving Day parade postponed due to weather</title>
-<link>https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401</link>
-<guid isPermaLink="false">162eb064d28c45035839360fa193b3cca8bc163eb140963f729f1a4e759192eb</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 26 Nov 2026 02:16:54 +0000</pubDate>
-<description>New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.</description>
-<enclosure url="https://s.abcnews.com/images/US/Macys-Postponed_1795657159737_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/Macys-Postponed_1795657159737_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Thu, 26 Nov 2026 03:01:44 +0000</pubDate>
+<description>Judge granted request for a preliminary injunction blocking the executive order.</description>
+<enclosure url="https://s.abcnews.com/images/US/trump-oval-1-gty-gmh-261125_1795638847181_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/trump-oval-1-gty-gmh-261125_1795638847181_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>At least 31 killed in Cairo fire after fuel truck overturns on busy highway</title>

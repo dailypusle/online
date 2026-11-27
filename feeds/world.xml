@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Thanksgiving storm damages buildings, floods streets, causes power outages</title>
+<link>https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273</link>
+<guid isPermaLink="false">e724ce66c0851a2088601e7b5adf33fc2b837ec3d7440ad07e72b2d4ac1417a2</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 27 Nov 2026 04:37:41 +0000</pubDate>
+<description>Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.</description>
+<enclosure url="https://s.abcnews.com/images/US/heavy-wind-blows-roof-off-hd-bh-112626_1795708107270_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/heavy-wind-blows-roof-off-hd-bh-112626_1795708107270_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>MoD 'severely lacks expertise' to improve military housing</title>
 <link>https://news.sky.com/story/mod-severely-lacks-skills-and-expertise-to-improve-military-housing-watchdog-warns-13616831</link>
 <guid isPermaLink="false">d277597ba08fa1278bbeb79b56de653cc6bb0ac1557e3ca702a02049b80725e9</guid>
@@ -26,6 +37,17 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-amazon-germany_7417550.jpg?20261127015645" medium="image"/>
 </item>
 <item>
+<title>Snow could hit parts of UK this weekend</title>
+<link>https://news.sky.com/story/uk-weather-snow-possible-this-weekend-with-yellow-ice-warning-in-force-13617046</link>
+<guid isPermaLink="false">1a38c06d5c6ceb06389f73bf5ae357e8007b45a6b7e589c936404255d2c2cbe6</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 27 Nov 2026 02:20:00 +0000</pubDate>
+<description>Snow could hit northern areas of the UK over the next few days, while a yellow ice warning has been issued in parts of the country.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-weather-uk-winter-durham_7408433.jpg?20261117093816" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-weather-uk-winter-durham_7408433.jpg?20261117093816" medium="image"/>
+</item>
+<item>
 <title>Bears TE Colston Loveland carted off with knee injury against Lions</title>
 <link>https://abcnews.com/Sports/wireStory/bears-te-colston-loveland-carted-off-knee-injury-138471920</link>
 <guid isPermaLink="false">28d87ec9427c0cc00d203f9056fab6d3ebc874c740b86d40fc6635c65770830e</guid>
@@ -35,17 +57,6 @@
 <description>Chicago tight end Colston Loveland was carted off the field with a knee injury in the first quarter against Detroit on Thursday in another setback at the position</description>
 <enclosure url="https://s.abcnews.com/images/Sports/wirestory_71d7a2ea37afd35594fc3c4d85661789_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Sports/wirestory_71d7a2ea37afd35594fc3c4d85661789_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Thanksgiving storm damages buildings, floods streets, causes power outages</title>
-<link>https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273</link>
-<guid isPermaLink="false">e724ce66c0851a2088601e7b5adf33fc2b837ec3d7440ad07e72b2d4ac1417a2</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 27 Nov 2026 00:13:54 +0000</pubDate>
-<description>Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.</description>
-<enclosure url="https://s.abcnews.com/images/US/heavy-wind-blows-roof-off-hd-bh-112626_1795708107270_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/heavy-wind-blows-roof-off-hd-bh-112626_1795708107270_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Tips for navigating the holiday travel rush</title>
@@ -271,7 +282,7 @@
 <title>Witnesses contacted as US probe into World Cup sell-off plan intensifies</title>
 <link>https://news.sky.com/story/witnesses-contacted-as-us-probe-into-world-cup-sell-off-plan-intensifies-13616919</link>
 <guid isPermaLink="false">8c262f0aae4696664d6db840e42211653a20e1407bc9c13532074015e15177ed</guid>
-<source>Sky News World</source>
+<source>Sky News Home</source>
 <category>world</category>
 <pubDate>Thu, 26 Nov 2026 17:16:00 +0000</pubDate>
 <description>A planned US congressional investigation into FIFA and Gianni Infantino's World Cup sell-off plans is intensifying with requests to speak to current and former FIFA staff, Sky News understands.</description>

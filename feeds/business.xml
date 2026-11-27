@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>$7 Billion in Bitcoin Options Just Expired: Here’s What It Means</title>
+<link>https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means</link>
+<guid isPermaLink="false">94310e5afdfe7edb0e273ec9a767efc89b0f9fda968210e1031b5444bf6d6e01</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:16:03 +0000</pubDate>
+<description>Bitcoin’s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png" type="image/png"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>How to Finance Your Business’s Next Stage of Growth</title>
+<link>https://www.entrepreneur.com/building-a-business/how-to-finance-your-businesss-next-stage-of-growth</link>
+<guid isPermaLink="false">939eadd7b50b8ed3c35e41a32cc10bf4b619fc34388f86b3c3f74ef04f5cd22b</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
+<description>The right financing strategy funds expansion, balances risk, preserves flexibility, and establishes clear upsides for investors and the company.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/business-financing-strategy-for-growth-1126-g-1462296278.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/business-financing-strategy-for-growth-1126-g-1462296278.jpg" medium="image"/>
+</item>
+<item>
+<title>Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack</title>
+<link>https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack</link>
+<guid isPermaLink="false">f402136d807966c989c80e23d89d8794b631e5cc68efc910035aaa17a8ae8ad9</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
+<description>Bitcoin Magazine Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack Binance has fully lifted the withdrawal suspension it put in place after last month’s record $6.3 billion hack, saying its recovery work is complete and that withdrawals are open across nearly all networks. “Our withdrawal recovery work is completed and the withdrawal suspension from the security incident has been fully lifted,” the exchange said in an X post Thursday afternoon. A small number of networks remain paused for maintenance, which Binance called standard practice and said was unrelated to the hack. The update closes out a month of phased reopenings. Binance confirmed the breach on Oct. 29, saying its initial investigation pointed to a compromised DevOps engineer’s laptop that gave the attacker access to a service container, which was then used to submit unauthorized withdrawals. The world’s largest crypto exchange stopped all customer withdrawals for two days after the theft, Reuters reported . When they first reopened, customers pulled a net $4.7 billion off the platform, Binance said on Nov. 2. Binance covered the losses Binance said on Nov. 12 that it had completed coverage of the affected assets with more than $6.34 billion of company funds. The money came from a partial draw on its Secure Asset Fund for Users, part of its futures insurance fund and its corporate treasury, and the exchange pledged to rebuild SAFU to about $1 billion. Coverage is not the same as recovery. Binance replaced the stolen tokens from its own books, while about $2.85 billion of the stolen funds have been frozen remotely by the companies that issue them. The rest remains in the hands of the attackers. U.S. authorities have blamed North Korean hackers for the theft, which North Korea denies. On Nov. 23, the Justice Department moved to forfeit more than $1.1 billion in USDC that Circle froze, and said the U.S. has helped freeze, seize or return more than $2.9 billion since the attack. Launderers turn to THORChain and coinjoin The unfrozen funds are on the move. North Korean launderers have stepped up transfers through THORChain and a coinjoin service in recent days, blockchain researchers told Reuters , as part of an operation spanning tens of thousands of transactions across blockchains. Chainalysis and Elliptic estimate that more than $600 million of the stolen crypto has passed through THORChain, though Elliptic said that figure could count funds that went through more than once. TRM Labs estimates THORChain earned as much as $1 million in fees from the swaps. Separately, $342 million has moved through a coinjoin service mostly coordinated by a pseudonymous figure named Kruw, Elliptic said. A coinjoin combines coins from many users into a single transaction, so their origin is no longer visible on the blockchain. Elliptic has said the launderers will still need other services, such as over-the-counter brokers, to turn the coins into cash. The FBI on Oct. 31 published</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg" medium="image"/>
+</item>
+<item>
+<title>Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data</title>
+<link>https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data</link>
+<guid isPermaLink="false">c2da52b3a708324376a205cd6d40c929804bc62137c8a29a154d823a41afe5be</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:43:29 +0000</pubDate>
+<description>The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and personnel data.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>China sets March 2027 rollout for blockchain identity regulations</title>
+<link>https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations</link>
+<guid isPermaLink="false">657aad66d2c99bb29c1f829a5d71f0751550442c15c67fa0df457e7f6e9c804c</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 17:37:23 +0000</pubDate>
+<description>China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EVTBT6HP6DPAEHWFE95N9V/stronger-china-flag-overlay.jpeg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EVTBT6HP6DPAEHWFE95N9V/stronger-china-flag-overlay.jpeg" medium="image"/>
+</item>
+<item>
 <title>Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake</title>
 <link>https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake</link>
 <guid isPermaLink="false">ec7e593feadc1ccbaaac653cf7d56d7511cfa11c978bf6e1c6e91b747968d1fd</guid>
@@ -68,6 +123,17 @@
 <description>Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e16/live/61435b70-ea7a-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e16/live/61435b70-ea7a-11f1-99b6-a35a62fa4264.jpg" medium="image"/>
+</item>
+<item>
+<title>Your Career Is Probably Ignoring Your Strongest Leadership Training: Community</title>
+<link>https://www.entrepreneur.com/business-news/your-career-is-probably-ignoring-your-strongest-leadership-training-community</link>
+<guid isPermaLink="false">1e3fc6b043fcafb97d6f824c9a19f746ae803bfc2d5119da7b8039eec265aad7</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Fri, 27 Nov 2026 15:30:00 +0000</pubDate>
+<description>Community involvement can be a powerful source of leadership skills, professional connections and career opportunities. By recognizing the value of their community experiences, building genuine relationships and making clear requests for support, professionals can turn existing connections into lasting career growth and influence.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ignoring-leadership-training-community-1126-g-1478310223.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/ignoring-leadership-training-community-1126-g-1478310223.jpg" medium="image"/>
 </item>
 <item>
 <title>Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target</title>
@@ -818,17 +884,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BMN3WHTV269AC5GQXT90JH/hi-staking-explained-zcash-1.jpg" medium="image"/>
 </item>
 <item>
-<title>Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend</title>
-<link>https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november</link>
-<guid isPermaLink="false">3515c5e2ab58549c00a3863f17be77f3a368c510e7163c912ef1281e6759b377</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 26 Nov 2026 09:42:34 +0000</pubDate>
-<description>The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Car finance compensation payments explained</title>
 <link>https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">36cd3c034800949469389dad991aeaa723b733e8b0b0690556e4de4f11b62b41</guid>
@@ -915,17 +970,6 @@
 <description>Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough</title>
-<link>https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough</link>
-<guid isPermaLink="false">580c7afe867caa4bdba0fb904993b88646a12becbbc78a50ee8b29279d55dc64</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 22:15:26 +0000</pubDate>
-<description>▶ Bitcoin Magazine Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough Bitcoin developers have tried for five to 10 years to add covenants through a soft fork, and every effort has stalled. David Tse says his team’s new Praxis paper on witness encryption changes that: Bitcoin could be spent based on a pre-specified program, like a loan being repaid, and “witness encryption allows this capability without any soft fork on Bitcoin.” Thanks to Plaud for sponsoring BMTV! Get 20% off the Plaud Note Pin S through November 30 → https://plaud.ai/BMTV Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 What Praxis and Witness Encryption Do for Bitcoin 01:07 Trustless Bitcoin Bridges Without a Custodian 02:31 Why No Challengers Are Needed 03:01 Bitcoin Covenants Without a Soft Fork 04:19 The One-Time Setup Question 05:30 When Praxis Could Launch 06:35 Making Idle Bitcoin Productive 07:52 Aave and Native Bitcoin Collateral 08:35 Trustless vs. Centralized Bitcoin Lenders 09:25 How AI Can Make Bitcoin Safer 11:36 Bitcoin’s Bigger Role in Global Finance 13:32 P vs NP Rumors and the Future of Cryptography DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
-<enclosure url="https://img.youtube.com/vi/YL4q0VJ2HRQ/hqdefault.jpg" type="image/jpeg"/>
-<media:content url="https://img.youtube.com/vi/YL4q0VJ2HRQ/hqdefault.jpg" medium="image"/>
 </item>
 <item>
 <title>What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?</title>
@@ -1060,17 +1104,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-spacex-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>A Finished Project Could Still Be Costing Your Business. Here’s Where to Look.</title>
-<link>https://www.entrepreneur.com/building-a-business/a-finished-project-could-still-be-costing-your-business-heres-where-to-look</link>
-<guid isPermaLink="false">8322a6d6c944b4cbc9781b161693a80a50a71e785dd046461d3b2a8f6f990e7c</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 18:00:00 +0000</pubDate>
-<description>Successfully completing a project doesn't always mean the work is over. Here's why.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/finished-product-hidden-costs-1126_g2224429074.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/finished-product-hidden-costs-1126_g2224429074.jpg" medium="image"/>
-</item>
-<item>
 <title>OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers</title>
 <link>https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits</link>
 <guid isPermaLink="false">6dd5a38f81c2b4888cdb1551c8f92c4c58c1ce616986dfc87230f13dd9fa148d</guid>
@@ -1080,17 +1113,6 @@
 <description>OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png" type="image/png"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Eva Longoria Knows ‘What It Takes to Turn an Idea Into Something Real.’ Here’s Her Best Advice for Entrepreneurs This Small Business Saturday.</title>
-<link>https://www.entrepreneur.com/business-news/eva-longoria-best-advice-for-entrepreneurs-this-small-business-saturday</link>
-<guid isPermaLink="false">645e5b966828b1f0f23768c9a1a604368c81bccea6cc73dce5e3ddc7519034fe</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 17:30:00 +0000</pubDate>
-<description>The actress, entrepreneur and investor shares why she's backing small business owners — and the advice she gives founders who call her for help.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Call-Eva-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/Call-Eva-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators</title>
@@ -1192,17 +1214,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K</title>
-<link>https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k</link>
-<guid isPermaLink="false">f864ac19f63a23144edaca5d1cb7a160f2ae83a74097b568f56204cef36f8cd0</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 11:23:57 +0000</pubDate>
-<description>HYPE fell more than 8% after Abraxas Capital pulled out of Hyperliquid, while U.S. Bitcoin ETFs' November outflows passed $4.9 billion.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
 <title>Capital One pursues payments modernization</title>
 <link>https://www.bankingdive.com/news/capital-one-pursues-payments-modernization-real-time-cloud-avik-chatterjee/875712</link>
 <guid isPermaLink="false">6cf074efc8e7efa7330dd3c990dfbec907d13db44d5d63b0cbaa5573c3731702</guid>
@@ -1212,17 +1223,6 @@
 <description>The bank’s investments in real-time and cloud-based rails are letting it keep pace with technology advances, a top payments executive said.</description>
 <enclosure url="https://imgproxy.divecdn.com/CSY5520TDKHlxmcUc-bBMjPe2O3HzA8_GKZX_rRyDuM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU3OTU0MzA5LmpwZw==.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/CSY5520TDKHlxmcUc-bBMjPe2O3HzA8_GKZX_rRyDuM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU3OTU0MzA5LmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos</title>
-<link>https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos</link>
-<guid isPermaLink="false">e8d491d1132c20805035d0b7a98431a066569d9db6559042c8ab05b8ed8dfb26</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 10:35:57 +0000</pubDate>
-<description>Rockstar's parent said the project's "bring your own files" instruction was a misleading attempt to dodge responsibility for the leak.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>Why tiny cars are taking off across Europe</title>

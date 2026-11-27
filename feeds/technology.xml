@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The token factory never sleeps</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/27/sponsored-the-token-factory-never-sleeps/5311612</link>
+<guid isPermaLink="false">b7b6751c3c5a711d0d1cc5939bc9010f32ade6a323d3aef70956557cb95d2cee</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 27 Nov 2026 01:00:00 +0000</pubDate>
+<description>Agentic AI has supercharged demand for inference infrastructure. According to Goldman Sachs, token consumption is set to jump 24-fold to 120 quadrillion tokens per month between this year and 2030. Enterprises, wary of frontier model sticker shock, are now building their own GPU estates to cope. Those enterprises shouldn't blindly follow hyperscalers' lead when taking AI inference kit into production. The indicators of success for such companies are different than those for a frontier model provider, and so are the constraints. DIY AI infrastructure at the enterprise level has to earn ROI quickly, meaning that enterprises must focus on sustained operation. That makes engineering criteria such as uptime, heat and power, service windows, and deployment times doubly important. The performance benchmarks that hyperscalers focus on won't matter nearly as much to the average bank or retailer. ASUS is presenting the ASUS NVIDIA HGX Rubin System , built on the NVIDIA HGX Rubin NVL8 platform, as a worked example of sustained AI inference infrastructure. It announced two models at NVIDIA GTC Berlin in October: the 3U hybrid-cooled XR R1I12B-M1BHFS and the 2U fully liquid-cooled XR R1I12B-M1BLFS . Agents change the compute bill Agents represent a hockey stick curve for token consumption because an agent isn't a single prompt. It loops until the job's done, often spawning other versions of itself in the process. This is how it breaks a goal into steps and works through them iteratively. While training is a batch workload, agent inference is a production service that runs around the clock and only gets bigger. NVIDIA is making each generation of systems more powerful than the last to keep up with the demands of both. Running at scale, day after day, is another matter. A useful way to think about the infrastructure that does it is as a token factory: it takes in power, data and GPU compute and turns out tokens. What counts is throughput, meaning how many tokens, and how many users, the same power and floor space can serve, hour after hour. Enterprises move from pilots to AI factories Enterprises are moving ahead quickly with their AI factory projects. According to Deloitte's AI infrastructure survey , published in March, 64 percent of respondents have started limited or at-scale AI factory deployments, while 88 percent expect to do so by 2028. They are spending more on AI infrastructure to do it: 86 percent expect their budgets to increase over the next three years. Enterprises have different problems from hyperscalers and frontier model companies, though. Model builders often get to design greenfield campuses around their GPUs. Conversely, enterprises are often working with small operations teams in existing datacenters that may not have been built with AI in mind. That means they need to think harder about maintenance windows, existing management tooling and predictable deployment. And they'll often be retrofitting halls whose racks rarely draw more than 30</description>
+<enclosure url="https://image.theregister.com/?imageId=5311615&amp;width=1280" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5311615&amp;width=1280" medium="image"/>
+</item>
+<item>
 <title>Backloggd urges users to change their passwords after a breach</title>
 <link>https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset</link>
 <guid isPermaLink="false">6e319c9cb5558aab86db1d3c66fde38661ae70527d831c4eac5846a20f18e140</guid>
@@ -1038,17 +1049,6 @@
 <media:content url="https://image.theregister.com/?imageId=5254628&amp;width=1280" medium="image"/>
 </item>
 <item>
-<title>Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it</title>
-<link>https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026</link>
-<guid isPermaLink="false">11c3c43a5827227bfd79cf258f519ea593a63d01f9447cd4ae61c2877bd51c34</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 14:02:36 +0000</pubDate>
-<description>Disney and Hulu’s Black Friday deal just dropped, and you’ll only pay $4.99 a month for 12 months for both streaming services.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/disney-plus-hulu.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/disney-plus-hulu.jpg" medium="image"/>
-</item>
-<item>
 <title>FCC proposes 'tit-for-tat' restrictions on foreign satellite operators</title>
 <link>https://www.theregister.com/networks/2026/11/24/fcc-proposes-tit-for-tat-restrictions-on-foreign-satellite-operators/5311889</link>
 <guid isPermaLink="false">304f08b389ece485c7c4d535fc128160f7dcf8fed78bedf2edfc22f69294ceae</guid>
@@ -1080,17 +1080,6 @@
 <description>The European Commission has confirmed that hackers made off with personal data in the AI-assisted cyberattack disclosed last week, but has relied on a website notice rather than contacting affected users directly. Speaking at a press briefing on Monday , Commission spokesperson Thomas Regnier confirmed that EU Academy, an online learning platform offering courses on EU policies and initiatives, was among the systems compromised during the cyber campaign targeting the bloc's executive arm. The stolen data includes the names and email addresses of people outside the EU institutions, though the Commission has yet to figure out how many users are affected or whether other personal information was compromised. Public access to the platform has been disabled as a precaution. Despite confirming the theft, the Commission hasn't contacted affected individuals directly. Instead, it has posted a notice on the EU Academy website, a decision Regnier defended when quizzed by reporters on Monday. "There was no reach out to individual users, but rather a general message to all users on the website out of transparency," Regnier said. The notice warns users that they could find themselves on the receiving end of spearphishing attacks, impersonation attempts, and spam as a result of the breach. The Commission is also advising users not to hand over personal information to anyone who contacts them claiming to be involved in EU Academy activities. The trouble with notifying users via the EU Academy website is that they've already been told not to come back until January. A separate notice says the platform will be offline from November 11 through January 14, 2027, while the Commission rebuilds it. When it reopens, users will have to register again, and any record of their previous coursework won't be transferred. The Register has asked the Commission whether the downtime and the requirement to create new accounts are connected to the cyberattack.A spokesperson didn't answer those points. The Commission has informed the European Data Protection Supervisor (EDPS), the watchdog responsible for policing EU institutions' handling of personal data. The EDPS told The Register that the Commission had notified it of the incident in stages, but declined to say whether it considered the Commission's approach to notifying affected users sufficient. "I can confirm that the EDPS has been informed and notified in phases by the European Commission," a spokesperson said. "Our colleagues remain in regular contact with EC services on the cyberattack and its implication. This is an ongoing case, so I cannot tell you more at this stage on the actions the EDPS might take as supervisory authority." The Commission first publicly acknowledged the cyberattack last Thursday , almost a month after suspicious activity was detected on October 22. Several internal applications were temporarily taken offline, and while most had since been restored, some remained unavailable at the time of Thursday'</description>
 <enclosure url="https://image.theregister.com/?imageId=5311112&amp;width=1280" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311112&amp;width=1280" medium="image"/>
-</item>
-<item>
-<title>UK gov invests in defense startup making virtual training ground for AI</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707</link>
-<guid isPermaLink="false">d9a2fb190d9ffe44305f6cff2113911083add8d79e400fa27072289872809ebc</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 09:16:00 +0000</pubDate>
-<description>The British government is investing in a UK-based AI defense startup that aims to train autonomous military systems in virtual environments, in a bid to reduce the country's reliance on overseas technology. Both the Sovereign AI Fund and the National Security Strategic Investment Fund (NSSIF) have contributed to a Series A funding round for Agon Dynamics, said to value the biz at $450 million. This $70 million round takes the total capital raised by the firm to $100 million, following its initial $30 million seed round earlier this year. The government claims this move will help strengthen the UK’s sovereign capabilities when it comes to the use of AI for defense, plus the hope that nurturing native technical know-how converts into industrial strength and greater resilience. But it is not revealing how much cash it has stumped up, claiming such investments are commercially sensitive, although it did say that typical equity amounts obtained from the the Sovereign AI Fund tend to be worth around £1 million to £10 million ($1.3 million to $13 million). Agon is understood to be developing facilities to train and test AI systems needed for defense. This covers systems to help defend against drone attacks, or ensuring that AI tools still continue to work as intended if communications with the command center are disrupted. Training like this currently needs to be carried out in the real world, which is time-consuming and expensive, according to the government. For this reason, Agon is building a "virtual battlefield" environment where AI models can be tested against realistic simulations of the situations they might encounter. The company says its synthetic battle arena provides a safe, repeatable environment for developers and defense contractors to try out autonomous systems against thousands of demanding scenarios before deployment. Systems can face adaptive virtual adversaries informed by live conflict intelligence, helping them to respond to evolving tactics, threats and operating conditions. This may include simulations of mass drone attacks that would overwhelm conventional air defense systems, or testing how autonomous systems operate when navigation is degraded or adversary tactics change. "Europe is in an AI arms race as we enter the era of agentic warfare: intelligent agents and machines that will need to understand their environment, make decisions and adapt at a speed and scale that humans alone cannot match," says co-founder and CEO Tristam Constant, a former British Army officer. "We exist to build the sovereign infrastructure and AI foundation models to allow us to train, test, and evolve autonomous defense systems, in Europe, for Europe - to outperform adversary capabilities." For the government, AI Minister Kanishka Narayan claimed that Britain is well-placed to lead efforts to ensure such technologies are reliable, trustworthy, and deployed responsibly. "AI is rapidly transforming how wars are fought, from the use of drones through to</description>
-<enclosure url="https://image.theregister.com/?imageId=260608&amp;width=1280" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=260608&amp;width=1280" medium="image"/>
 </item>
 <item>
 <title>Claude can ship code for you now – how to try it (if you dare)</title>
@@ -1300,5 +1289,16 @@
 <description>Microsoft is bridging the gap between proprietary and open-weight AI while targeting data-conscious businesses.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-2.46.59-PM.png" type="image/png"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-2.46.59-PM.png" medium="image"/>
+</item>
+<item>
+<title>Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates</title>
+<link>https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026</link>
+<guid isPermaLink="false">42110b44df956c1efdabb6702cd87d46306da6338660e2e6b495eb87dc5dd532</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 23:14:05 +0000</pubDate>
+<description>The company also released new ROI tracking tools for companies monitoring their AI spend.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png" type="image/png"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png" medium="image"/>
 </item>
 </channel></rss>

@@ -4,7 +4,18 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Netanyahu says he is willing to let Eisenkot be Israel's first PM under rotation proposal</title>
+<title>EPA says initial tests show no toxic lead contamination in Iowa following detonation</title>
+<link>https://www.npr.org/2026/11/28/nx-s1-6056359/epa-results-iowa-lead-testing</link>
+<guid isPermaLink="false">02f82584fbcda3ebd120f3591e77044726765f9a856f662378767fc1fc767807</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Sat, 28 Nov 2026 17:32:26 +0000</pubDate>
+<description>U.S. Army officials called the controlled detonation of roughly five tons of explosive lead azide on Wednesday a success. But some have criticized the Army for a lack of transparency. (Image credit: U.S. Environmental Protection Ag)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2472x1649+0+0/resize/2472x1649!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F29%2Fe474c01f4d51b84093fe7240cf95%2Fap26331722157715.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2472x1649+0+0/resize/2472x1649!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F29%2Fe474c01f4d51b84093fe7240cf95%2Fap26331722157715.jpg" medium="image"/>
+</item>
+<item>
+<title>Israel's Netanyahu proposes rival Eisenkot serve as first PM in rotating premiership</title>
 <link>https://www.france24.com/en/middle-east/20261128-netanyahu-says-he-is-willing-to-let-eisenkot-be-israel-s-first-pm-under-rotation-proposal</link>
 <guid isPermaLink="false">4718df2f50f72470f6c69f2fc75b04c019bb33b4cfe3016382fe60e24103a3f2</guid>
 <source>France 24</source>
@@ -24,17 +35,6 @@
 <description>Protesters against gender-based violence took to the streets of Paris on Saturday, flooding the capital with banners that denounced, among other things, the 149 reported femicides that took place in France this year. FRANCE 24 journalist Caroline Baum brings us more from the site ofthe demonstration.</description>
 <enclosure url="https://s.france24.com/media/display/86b27100-eb3f-11f1-b8a0-77d069279b82/w:1024/p:16x9/EN-20261128-160900-161108-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/86b27100-eb3f-11f1-b8a0-77d069279b82/w:1024/p:16x9/EN-20261128-160900-161108-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>What to know about the weather-delayed 100th Macy's Thanksgiving Day Parade</title>
-<link>https://abcnews.com/GMA/Living/weather-delayed-100th-macys-thanksgiving-day-parade/story?id=138486032</link>
-<guid isPermaLink="false">8f7702cb173c4eaf2058351bf82d8f501373e3b1a2f8885cd1cdf107ab545423</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 28 Nov 2026 15:30:08 +0000</pubDate>
-<description>The 100th annual Macy's Thanksgiving Day Parade will take place Saturday morning.</description>
-<enclosure url="https://s.abcnews.com/images/US/parade-turkey-rt-jt-261128_1795877037712_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/parade-turkey-rt-jt-261128_1795877037712_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WWE star Bronson Reed dies at 38 due to 'medical complications'</title>
@@ -70,6 +70,17 @@
 <media:content url="https://s.france24.com/media/display/3782d5d2-eb37-11f1-abb4-f9cf020caef6/w:1024/p:16x9/EN-20261128-150124-150310-CS.jpg" medium="image"/>
 </item>
 <item>
+<title>Millions clean up after massive Thanksgiving storms on East Coast</title>
+<link>https://abcnews.com/US/millions-clean-after-massive-thanksgiving-storms-flood-streets/story?id=138484179</link>
+<guid isPermaLink="false">0325d3fec72fb606519beac3973b1f1af8eae47dde29aabd0d99ddcc427b49bb</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 28 Nov 2026 14:29:14 +0000</pubDate>
+<description>The East Coast is recovering from the massive Thanksgiving Day storms that flooded streets, toppled trees and left tens of thousands of homes without power.</description>
+<enclosure url="https://s.abcnews.com/images/US/nj-flooding-01-rt-jt-261127_1795803356714_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/nj-flooding-01-rt-jt-261127_1795803356714_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>COP31 climate talks fail to reach an agreement on fossil fuel language</title>
 <link>https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart</link>
 <guid isPermaLink="false">9a4b5b0019792d05a1faa78ed44b043d570d3b4874a89be46c5f405ab1925c50</guid>
@@ -98,7 +109,7 @@
 <source>France 24</source>
 <category>world</category>
 <pubDate>Sat, 28 Nov 2026 14:00:25 +0000</pubDate>
-<description>Demonstrations condemning violence against women are drew thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists taking part. The marches come amid a broader wave of social unrest, with cost-of-living protests entering their seventh consecutive week.</description>
+<description>Demonstrations condemning violence against women drew thousands across France on Saturday, with feminist organisations, labour unions, students and Yellow Vest activists joining in. The marches come amid a broader wave of social unrest, with cost-of-living protests entering their seventh consecutive week.</description>
 <enclosure url="https://s.france24.com/media/display/b1f8a3ae-eb33-11f1-b251-174dac1c1bf0/w:1024/p:16x9/EN-20261128-144006-144225-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/b1f8a3ae-eb33-11f1-b251-174dac1c1bf0/w:1024/p:16x9/EN-20261128-144006-144225-CS.jpg" medium="image"/>
 </item>
@@ -396,8 +407,8 @@
 <category>world</category>
 <pubDate>Sat, 28 Nov 2026 00:33:00 +0000</pubDate>
 <description>A humanitarian medical charity says it is "devastated and outraged" after two civil guards at one of its offices in Gaza were killed in an Israeli strike.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-msf-gaza-palestinian_7418384.jpg?20261128082520" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-msf-gaza-palestinian_7418384.jpg?20261128082520" medium="image"/>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-msf-gaza_7418803.jpg?20261128162846" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-msf-gaza_7418803.jpg?20261128162846" medium="image"/>
 </item>
 <item>
 <title>UK makes demand to Argentina after court rejects Milei's bid to block Falklands oil project</title>
@@ -532,17 +543,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x4128+0+0/resize/6192x4128!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F42%2Fe92e56684604ba12db67369743e2%2Fgettyimages-2305985820.jpg" medium="image"/>
 </item>
 <item>
-<title>Screen-free tweens try their hand at Dungeons &amp; Dragons</title>
-<link>https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons</link>
-<guid isPermaLink="false">99f53c3de373c11141eb240b26bbf70c244cb770c9cf7cee7bcc4f21809b92f7</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
-<description>Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s. (Image credit: Lauren Migaki)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F2e%2F399887fb4ec881e2707d4ab12793%2Fd-d-lead-photo.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F2e%2F399887fb4ec881e2707d4ab12793%2Fd-d-lead-photo.jpg" medium="image"/>
-</item>
-<item>
 <title>Amazon staff to strike and rally on busiest weekend of the year</title>
 <link>https://news.sky.com/story/amazon-staff-to-strike-and-rally-on-busiest-weekend-of-the-year-13617042</link>
 <guid isPermaLink="false">0ac03b798d170f4cc8210b7f33a88d888a1ffaeffd85b5b983237bdcdc41c3f2</guid>
@@ -640,17 +640,6 @@
 <description>ABC News' Danny New talks to a doctor in New York who's using his balloon twisting talents to help him pay off his student loan debt.</description>
 <enclosure url="https://s.abcnews.com/images/US/261126_gmafl_balloon_art_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261126_gmafl_balloon_art_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Major US tech index comes close to crashing into a bear market</title>
-<link>https://news.sky.com/story/nasdaq-100-teeters-on-brink-of-bear-market-as-wall-street-tech-stocks-fall-further-13616624</link>
-<guid isPermaLink="false">f6f049610a52f282c9852146e170e4e601b884e4a3576e6f07268d9c780099c0</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Thu, 26 Nov 2026 04:09:00 +0000</pubDate>
-<description>A tech-heavy index on Wall Street briefly teetered into bear market territory on Wednesday - as AI-exposed stocks continue to face heavy sell-offs.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-nasdaq-us-stock-market_7416713.jpg?20261126040530" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-nasdaq-us-stock-market_7416713.jpg?20261126040530" medium="image"/>
 </item>
 <item>
 <title>WATCH: Tips for staying healthy and keeping the peace at the Thanksgiving table</title>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Being scammed is 'such a challenge to overcome'</title>
+<link>https://www.bbc.co.uk/news/articles/c6vg2n8px3rko?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">4e174352078e4339660d353c21b25a2cf943e2c7c2526b65341ee8b26e866630</guid>
+<source>BBC Business</source>
+<category>business</category>
+<pubDate>Sat, 28 Nov 2026 15:05:00 +0000</pubDate>
+<description>Ollie Griggs says he was scammed two years ago when someone phoned him pretending to be from a bank.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/186f/live/a1072c40-e8e6-11f1-8808-1d4222955d7e.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/186f/live/a1072c40-e8e6-11f1-8808-1d4222955d7e.jpg" medium="image"/>
+</item>
+<item>
 <title>Russia Is Turning Pigeons Into Cyborg Drones—and You Can Now Hire Them</title>
 <link>https://decrypt.co/384126/russia-pigeons-icyborg-drones-you-can-now-hire-them</link>
 <guid isPermaLink="false">7300d30fa26d342ff153e3ff978362013f7126fc474a069c287ac180db81eaf9</guid>
@@ -497,17 +508,6 @@
 <description>We ask people in the UK's second biggest how much they pay for their homes.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/25b1/live/5edb8970-e999-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/25b1/live/5edb8970-e999-11f1-99a1-253766e7ad8b.jpg" medium="image"/>
-</item>
-<item>
-<title>The food bank helping pet owners with rising bills</title>
-<link>https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">0132d665950843b928dec3f5e1fbaa2bdf1096a1bee09d37add88961e563ccd6</guid>
-<source>BBC Business</source>
-<category>business</category>
-<pubDate>Fri, 27 Nov 2026 06:11:13 +0000</pubDate>
-<description>RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4f11/live/dbde7460-e984-11f1-bb43-d1b6102e3b60.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4f11/live/dbde7460-e984-11f1-bb43-d1b6102e3b60.jpg" medium="image"/>
 </item>
 <item>
 <title>Japan’s crypto security group taps SEAL to speed up hack response</title>
@@ -1214,17 +1214,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>California fines Afterpay $2.7M</title>
-<link>https://www.bankingdive.com/news/california-fines-afterpay-27m/875794</link>
-<guid isPermaLink="false">d8110cd9fd20d30a4c4252c46ffcb1348240200f95f0fc75f32dcbacb9a9b0eb</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Wed, 25 Nov 2026 16:05:00 +0000</pubDate>
-<description>The state imposed the penalty on Block’s buy now, pay later business after finding the company failed to assess customers’ ability to repay loans.</description>
-<enclosure url="https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp" type="image/webp"/>
-<media:content url="https://imgproxy.divecdn.com/NCl1QWJhqqjLJQFn6YLcA_xvw6eShCWjZMKAOfrXGK8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZnRlcnBheS1sb2dvLWhvbGRpbmctcGhvbmUtc2NhbGVkLmpwZWc=.webp" medium="image"/>
-</item>
-<item>
 <title>Alabama’s Family Savings Credit Union to buy in-state bank</title>
 <link>https://www.bankingdive.com/news/alabama-family-savings-credit-union-buys-liberty-bank/875745</link>
 <guid isPermaLink="false">1d2c9997237af645af27c9737cf45ebe3e6c9a71c91b0af8a4bdcc9034826769</guid>
@@ -1322,6 +1311,17 @@
 <description>The cross-border payments company, which applied for a trust charter in February, is one of several payments firms seeking such a charter from the OCC this year.</description>
 <enclosure url="https://imgproxy.divecdn.com/cIKktZ5OM6rvrJmHRQXHu7dGhG4sFanRh4IpgzBPWYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MTQ3ODY2LmpwZ19yZXNpemUuanBn.webp" type="image/webp"/>
 <media:content url="https://imgproxy.divecdn.com/cIKktZ5OM6rvrJmHRQXHu7dGhG4sFanRh4IpgzBPWYo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk5MTQ3ODY2LmpwZ19yZXNpemUuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>AI-forward insurance startup Corgi applies for bank charter</title>
+<link>https://www.bankingdive.com/news/corgi-applies-occ-fdic-national-bank-charter-ai-insurance-fintech/875453</link>
+<guid isPermaLink="false">47f082d981a75029c1940ab657addf522a8657b3e8e054ac7f0da3a23bd9d63f</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 14:41:23 +0000</pubDate>
+<description>Corgi wants a national bank charter, which would put its holding company under the Federal Reserve’s purview – a rarity among insurance firms.</description>
+<enclosure url="https://imgproxy.divecdn.com/Ynio67rfYurR3M67S-xE1Tz5L6iqiEEwnnzmJ0vwdmA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp" type="image/webp"/>
+<media:content url="https://imgproxy.divecdn.com/Ynio67rfYurR3M67S-xE1Tz5L6iqiEEwnnzmJ0vwdmA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp" medium="image"/>
 </item>
 <item>
 <title>San Francisco is enjoying an AI boom, but worries about a crash are growing</title>
